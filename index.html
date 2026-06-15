@@ -12,6 +12,7 @@
 :root {
   --navy:       #0D1B2A;
   --navy-mid:   #162436;
+  --navy-light: #1F3349;
   --gold:       #C9A84C;
   --gold-light: #E2C97A;
   --gold-glow:  rgba(201,168,76,0.18);
@@ -19,6 +20,7 @@
   --cream-dim:  rgba(245,240,232,0.55);
   --green-light:#52B788;
   --orange:     #E8906A;
+  --red:        #E2685E;
 }
 
 html, body {
@@ -130,6 +132,7 @@ html, body {
 .accent-gold   .level-icon { background: rgba(201,168,76,0.14); }
 .accent-green  .level-icon { background: rgba(82,183,136,0.12); }
 .accent-orange .level-icon { background: rgba(232,144,106,0.12); }
+.accent-red    .level-icon { background: rgba(226,104,94,0.12); }
 
 .level-info { flex: 1; min-width: 0; }
 .level-num {
@@ -139,6 +142,7 @@ html, body {
 .accent-gold   .level-num { color: var(--gold); }
 .accent-green  .level-num { color: var(--green-light); }
 .accent-orange .level-num { color: var(--orange); }
+.accent-red    .level-num { color: var(--red); }
 
 .level-title {
   font-family: 'Playfair Display', Georgia, serif;
@@ -156,10 +160,11 @@ html, body {
   height: 4px; background: rgba(255,255,255,0.07);
   border-radius: 99px; overflow: hidden;
 }
-.progress-fill { height: 100%; border-radius: 99px; }
+.progress-fill { height: 100%; border-radius: 99px; transition: width 0.4s ease; }
 .accent-gold   .progress-fill { background: var(--gold); }
 .accent-green  .progress-fill { background: var(--green-light); }
 .accent-orange .progress-fill { background: var(--orange); }
+.accent-red    .progress-fill { background: var(--red); }
 
 .card-modules {
   border-top: 1px solid rgba(255,255,255,0.05);
@@ -184,6 +189,7 @@ html, body {
 .accent-gold   .btn-enter { background: var(--gold);        color: var(--navy); }
 .accent-green  .btn-enter { background: var(--green-light); color: var(--navy); }
 .accent-orange .btn-enter { background: var(--orange);      color: var(--navy); }
+.accent-red    .btn-enter { background: var(--red);         color: var(--navy); }
 
 /* ── INNER SCREENS HEADER ── */
 .screen-header {
@@ -211,6 +217,7 @@ html, body {
   padding: 18px 18px 16px; cursor: pointer;
   -webkit-tap-highlight-color: transparent;
 }
+.module-card.locked { opacity: 0.45; cursor: default; }
 .module-card-top { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
 .module-num-badge {
   width: 32px; height: 32px; border-radius: 8px;
@@ -221,6 +228,7 @@ html, body {
 .module-card-title {
   font-family: 'Playfair Display', Georgia, serif;
   font-size: 16px; font-weight: 700; color: var(--cream);
+  flex: 1;
 }
 .lecon-chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .lecon-chip {
@@ -228,6 +236,7 @@ html, body {
   padding: 4px 9px; font-size: 10.5px; color: var(--cream-dim);
   border: 1px solid rgba(255,255,255,0.07);
 }
+.lecon-chip.chip-done { border-color: rgba(201,168,76,0.4); color: var(--gold); }
 
 /* ── LEÇON LIST ── */
 .lecon-list { padding: 4px 20px 48px; display: flex; flex-direction: column; gap: 10px; }
@@ -238,6 +247,7 @@ html, body {
   display: flex; align-items: center; gap: 14px;
   -webkit-tap-highlight-color: transparent;
 }
+.lecon-row.locked { opacity: 0.4; cursor: default; }
 .lecon-index {
   width: 28px; height: 28px; border-radius: 50%;
   border: 1.5px solid rgba(201,168,76,0.4);
@@ -245,10 +255,153 @@ html, body {
   font-size: 10px; color: var(--gold); flex-shrink: 0; font-weight: 600;
 }
 .lecon-index.done { background: var(--gold); border-color: var(--gold); color: var(--navy); }
-.lecon-title-text { font-size: 13.5px; color: var(--cream); flex: 1; }
-.lecon-arrow { color: var(--cream-dim); font-size: 14px; opacity: 0.5; }
+.lecon-title-text { flex: 1; min-width: 0; }
+.lecon-title-main { font-size: 13.5px; color: var(--cream); }
+.lecon-title-meta { font-size: 10px; color: var(--cream-dim); margin-top: 3px; letter-spacing: 1px; text-transform: uppercase; }
+.lecon-arrow { color: var(--cream-dim); font-size: 14px; opacity: 0.5; flex-shrink: 0; }
 
-/* ── BADGE MODAL ── */
+/* ── LEÇON READER ── */
+.reader-loading {
+  padding: 60px 20px; text-align: center;
+  color: var(--cream-dim); font-size: 13px; line-height: 1.7;
+}
+.reader-content { padding: 4px 22px 24px; }
+.reader-kicker {
+  font-size: 10px; letter-spacing: 4px; text-transform: uppercase;
+  color: var(--gold); margin-bottom: 10px;
+}
+.reader-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 26px; font-weight: 900; line-height: 1.25;
+  color: var(--cream); margin-bottom: 24px;
+}
+.reader-section { margin-bottom: 26px; }
+.reader-section-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 17px; font-weight: 700; color: var(--gold-light);
+  margin-bottom: 10px;
+}
+.reader-section-text {
+  font-size: 14.5px; line-height: 1.85; color: var(--cream);
+  font-weight: 300;
+}
+.reader-section-text + .reader-section-text { margin-top: 12px; }
+
+.reader-box {
+  margin-top: 14px; padding: 16px 18px;
+  border-radius: 12px; border-left: 3px solid var(--gold);
+  background: var(--navy-mid);
+}
+.reader-box-label {
+  font-size: 9.5px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--gold); margin-bottom: 8px; font-weight: 600;
+}
+.reader-box-text { font-size: 13.5px; line-height: 1.7; color: var(--cream-dim); }
+.reader-box.example { border-left-color: var(--green-light); }
+.reader-box.example .reader-box-label { color: var(--green-light); }
+
+.reader-footer { padding: 8px 22px 48px; }
+.btn-primary {
+  width: 100%; padding: 16px; border-radius: 12px; border: none;
+  background: var(--gold); color: var(--navy);
+  font-family: 'Inter', sans-serif; font-size: 12.5px;
+  font-weight: 600; letter-spacing: 2.5px; text-transform: uppercase;
+  cursor: pointer; -webkit-tap-highlight-color: transparent;
+}
+
+/* ── QUIZ / EXERCICE ── */
+.quiz-header { padding: 52px 20px 16px; flex-shrink: 0; }
+.quiz-header-top { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; }
+.quiz-progress-wrap { flex: 1; }
+.quiz-progress-meta {
+  display: flex; justify-content: space-between;
+  font-size: 10px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--cream-dim); margin-bottom: 6px;
+}
+.quiz-progress-track {
+  height: 5px; background: rgba(255,255,255,0.07);
+  border-radius: 99px; overflow: hidden;
+}
+.quiz-progress-fill {
+  height: 100%; border-radius: 99px; background: var(--gold);
+  transition: width 0.35s ease;
+}
+.quiz-type-badge {
+  display: inline-block; font-size: 9.5px; letter-spacing: 3px;
+  text-transform: uppercase; color: var(--gold);
+  border: 1px solid rgba(201,168,76,0.35); border-radius: 99px;
+  padding: 5px 12px; margin-left: 50px;
+}
+
+.quiz-body { padding: 8px 22px 24px; flex: 1; }
+.quiz-question {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 19px; font-weight: 700; line-height: 1.45;
+  color: var(--cream); margin-bottom: 28px;
+}
+.quiz-choices { display: flex; flex-direction: column; gap: 12px; }
+.quiz-choice {
+  background: var(--navy-mid); border: 1.5px solid rgba(255,255,255,0.08);
+  border-radius: 12px; padding: 15px 16px;
+  font-size: 13.5px; color: var(--cream); line-height: 1.5;
+  cursor: pointer; -webkit-tap-highlight-color: transparent;
+  display: flex; align-items: center; gap: 12px;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+.quiz-choice .choice-letter {
+  width: 24px; height: 24px; border-radius: 50%;
+  border: 1.5px solid rgba(255,255,255,0.15);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 600; color: var(--cream-dim); flex-shrink: 0;
+}
+.quiz-choice.disabled { pointer-events: none; }
+.quiz-choice.correct {
+  border-color: var(--green-light); background: rgba(82,183,136,0.1);
+}
+.quiz-choice.correct .choice-letter {
+  background: var(--green-light); border-color: var(--green-light); color: var(--navy);
+}
+.quiz-choice.wrong {
+  border-color: var(--red); background: rgba(226,104,94,0.08);
+}
+.quiz-choice.wrong .choice-letter {
+  background: var(--red); border-color: var(--red); color: var(--navy);
+}
+
+/* hints */
+.hint-box {
+  margin-top: 20px; padding: 14px 16px; border-radius: 12px;
+  background: var(--navy-mid); border-left: 3px solid var(--orange);
+  font-size: 13px; line-height: 1.6; color: var(--cream-dim);
+  animation: slideIn 0.3s ease;
+}
+.hint-box-label {
+  font-size: 9.5px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--orange); margin-bottom: 6px; font-weight: 600;
+}
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* explanation / feedback panel */
+.feedback-panel {
+  margin-top: 22px; padding: 18px; border-radius: 14px;
+  animation: slideIn 0.3s ease;
+}
+.feedback-panel.success { background: rgba(82,183,136,0.1); border: 1px solid rgba(82,183,136,0.35); }
+.feedback-panel.reveal  { background: rgba(201,168,76,0.08); border: 1px solid rgba(201,168,76,0.35); }
+.feedback-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 15px; font-weight: 700; margin-bottom: 8px;
+}
+.feedback-panel.success .feedback-title { color: var(--green-light); }
+.feedback-panel.reveal  .feedback-title { color: var(--gold); }
+.feedback-text { font-size: 13px; line-height: 1.7; color: var(--cream-dim); }
+
+.quiz-footer { padding: 8px 22px 48px; }
+
+/* particles / badge (unchanged) */
 #badge-modal {
   position: fixed; inset: 0; z-index: 300;
   background: rgba(13,27,42,0.93);
@@ -279,6 +432,25 @@ html, body {
   font-size: 11px; font-weight: 600; letter-spacing: 2px;
   text-transform: uppercase; cursor: pointer;
 }
+
+/* lecon complete modal */
+#lecon-complete-modal {
+  position: fixed; inset: 0; z-index: 300;
+  background: rgba(13,27,42,0.93);
+  display: none; align-items: center; justify-content: center; padding: 24px;
+}
+#lecon-complete-modal.show { display: flex; }
+.lc-card {
+  background: var(--navy-mid); border: 1px solid rgba(201,168,76,0.35);
+  border-radius: 24px; padding: 36px 28px; text-align: center;
+  max-width: 340px; width: 100%;
+}
+.lc-icon { font-size: 44px; margin-bottom: 18px; }
+.lc-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 19px; font-weight: 700; color: var(--cream); margin-bottom: 8px;
+}
+.lc-desc { font-size: 12.5px; color: var(--cream-dim); line-height: 1.6; margin-bottom: 26px; }
 
 /* particles */
 .particles { position: fixed; inset: 0; pointer-events: none; z-index: 301; overflow: hidden; }
@@ -338,6 +510,56 @@ html, body {
   <div class="lecon-list" id="lecon-list-container"></div>
 </div>
 
+<!-- LEÇON READER -->
+<div class="screen" id="screen-reader">
+  <div class="screen-header">
+    <button class="btn-back" onclick="goBack('screen-lecons')">‹</button>
+    <div>
+      <div class="screen-title" id="reader-screen-title">Leçon</div>
+      <div class="screen-sub"   id="reader-screen-sub"></div>
+    </div>
+  </div>
+  <div class="reader-content" id="reader-content"></div>
+  <div class="reader-footer">
+    <button class="btn-primary" id="btn-start-quiz" onclick="startQuiz()">Commencer le quiz →</button>
+  </div>
+</div>
+
+<!-- QUIZ / EXERCICE -->
+<div class="screen" id="screen-quiz">
+  <div class="quiz-header">
+    <div class="quiz-header-top">
+      <button class="btn-back" onclick="goBack('screen-lecons')">‹</button>
+      <div class="quiz-progress-wrap">
+        <div class="quiz-progress-meta">
+          <span id="quiz-type-label">Quiz</span>
+          <span id="quiz-progress-text">1 / 50</span>
+        </div>
+        <div class="quiz-progress-track"><div class="quiz-progress-fill" id="quiz-progress-fill"></div></div>
+      </div>
+    </div>
+  </div>
+  <div class="quiz-body">
+    <div class="quiz-question" id="quiz-question"></div>
+    <div class="quiz-choices" id="quiz-choices"></div>
+    <div id="quiz-hint-area"></div>
+    <div id="quiz-feedback-area"></div>
+  </div>
+  <div class="quiz-footer">
+    <button class="btn-primary" id="btn-quiz-next" style="display:none" onclick="nextQuestion()">Continuer →</button>
+  </div>
+</div>
+
+<!-- LEÇON COMPLETE -->
+<div id="lecon-complete-modal">
+  <div class="lc-card">
+    <div class="lc-icon">📘</div>
+    <div class="lc-title" id="lc-title">Leçon terminée !</div>
+    <div class="lc-desc" id="lc-desc">Vous avez terminé les quiz et exercices de cette leçon.</div>
+    <button class="btn-primary" onclick="closeLeconComplete()" id="lc-btn">Continuer →</button>
+  </div>
+</div>
+
 <!-- BADGE -->
 <div id="badge-modal">
   <div class="badge-card">
@@ -351,15 +573,36 @@ html, body {
 <div class="particles" id="particles"></div>
 
 <script>
-/* ═══ DATA ═══ */
+/* ═══════════════════════════════════════════
+   DATA
+   ═══════════════════════════════════════════ */
+/*
+  Chaque leçon référence un fichier JSON externe (dans data/) qui contient :
+  { titre, module, niveau, contenu:[...], quiz:[...50...], exercices:[...2 cas pratiques...] }
+  Le champ "fichier" est le chemin vers ce JSON. Le contenu est chargé à la demande
+  (la première fois qu'on ouvre la leçon) et mis en cache dans "data".
+*/
 const formations = [
   {
     niveau: "Débutant", icon: "📖", accent: "accent-gold",
     desc: "Les fondements du droit. Aucun prérequis.",
     badge: { icon:"🏅", title:"Badge Initié du Droit", desc:"Vous maîtrisez les fondements du droit. Ce badge honore votre premier pas sérieux dans le monde juridique." },
     modules: [
-      { id:1, titre:"Introduction au droit",    lecons:["Qu'est-ce que le droit ?","Les rôles du droit","Les branches du droit","Les professions juridiques"] },
-      { id:2, titre:"Les sources du droit",     lecons:["La Constitution","La loi","La jurisprudence","La coutume"] }
+      {
+        id:1, titre:"Qu'est-ce que le droit ?",
+        lecons: [
+          { titre: "Le droit objectif et les droits subjectifs", fichier: "data/niveau1-module1-lecon1.json" }
+        ]
+      },
+      { id:2, titre:"Les caractères de la règle de droit", lecons: [] },
+      { id:3, titre:"Les branches du droit", lecons: [] },
+      { id:4, titre:"Les sources directes du droit", lecons: [] },
+      { id:5, titre:"Les sources d'interprétation du droit", lecons: [] },
+      { id:6, titre:"L'organisation juridictionnelle", lecons: [] },
+      { id:7, titre:"Le domaine d'application de la règle de droit", lecons: [] },
+      { id:8, titre:"Les droits subjectifs : classifications", lecons: [] },
+      { id:9, titre:"La preuve des droits subjectifs", lecons: [] },
+      { id:10, titre:"L'action en justice", lecons: [] }
     ]
   },
   {
@@ -367,7 +610,7 @@ const formations = [
     desc: "Droit des affaires, procédures, contrats avancés.",
     badge: { icon:"⚖️", title:"Badge Juriste en Herbe", desc:"Vous naviguez désormais dans des notions complexes. Ce badge témoigne de votre persévérance." },
     modules: [
-      { id:1, titre:"Droit des sociétés", lecons:["La SARL","La SA","Les associés","Les dirigeants"] }
+      { id:1, titre:"Droit des sociétés", lecons: [] }
     ]
   },
   {
@@ -375,25 +618,69 @@ const formations = [
     desc: "Jurisprudence, droit constitutionnel, contentieux.",
     badge: { icon:"🏛️", title:"Badge Expert LexMada", desc:"Félicitations. Vous avez atteint le sommet du parcours LexMada. Un accomplissement remarquable." },
     modules: [
-      { id:1, titre:"Contentieux complexes", lecons:["Stratégie procédurale","Rédaction de conclusions","Voies de recours","Jurisprudence avancée"] }
+      { id:1, titre:"Contentieux complexes", lecons: [] }
+    ]
+  },
+  {
+    niveau: "Professionnel", icon: "🎓", accent: "accent-red",
+    desc: "Pratique professionnelle, rédaction d'actes, déontologie.",
+    badge: { icon:"🎓", title:"Badge Maître LexMada", desc:"Vous avez atteint le niveau professionnel. Votre maîtrise du droit est désormais digne des plus grands praticiens." },
+    modules: [
+      { id:1, titre:"Pratique professionnelle", lecons: [] }
     ]
   }
 ];
 
-const done = new Set();
-let curNiveau = 0, curModule = 0;
-let currentScreen = 'screen-home';
+/* Cache du contenu chargé depuis data/*.json : clé = chemin du fichier */
+const leconDataCache = {};
 
-/* ═══ NAVIGATION ═══ */
+/* Charge (si besoin) le contenu JSON d'une leçon et exécute le callback avec ce contenu */
+async function loadLeconData(lecon, callback) {
+  if (!lecon.fichier) { callback(null); return; }
+  if (leconDataCache[lecon.fichier]) { callback(leconDataCache[lecon.fichier]); return; }
+  try {
+    const res = await fetch(lecon.fichier);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    leconDataCache[lecon.fichier] = data;
+    callback(data);
+  } catch (err) {
+    console.error('Erreur de chargement de', lecon.fichier, err);
+    callback({ error: true });
+  }
+}
+
+/* ═══════════════════════════════════════════
+   STATE
+   ═══════════════════════════════════════════ */
+const done = new Set();          // leçons terminées : "fi-mid-li"
+const leconUnlocked = new Set(); // leçons débloquées (lecture possible) : "fi-mid-li"
+leconUnlocked.add("0-1-0");      // première leçon toujours débloquée
+
+let curNiveau = 0, curModule = 0, curLecon = 0;
+
+// état session quiz/exercice
+let quizState = {
+  type: null,        // 'quiz' | 'exercices'
+  questions: [],
+  index: 0,
+  wrongCount: 0,
+  answered: false
+};
+
+/* ═══════════════════════════════════════════
+   NAVIGATION
+   ═══════════════════════════════════════════ */
 function showScreen(id) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   document.getElementById(id).classList.add('active');
   document.getElementById(id).scrollTop = 0;
-  currentScreen = id;
 }
 function goBack(to) { showScreen(to); }
 
-/* ═══ SPLASH ═══ */
+/* ═══════════════════════════════════════════
+   SPLASH
+   ═══════════════════════════════════════════ */
 const logoEl = document.getElementById('logo-text');
 "LEXMADA".split('').forEach(ch => {
   const s = document.createElement('span');
@@ -411,15 +698,45 @@ setTimeout(() => {
   }, 650);
 }, 2800);
 
-/* ═══ BUILD HOME ═══ */
+/* ═══════════════════════════════════════════
+   HELPERS
+   ═══════════════════════════════════════════ */
+function leconKey(fi, mid, li) { return fi+'-'+mid+'-'+li; }
+
+function moduleLeconCount(m) { return m.lecons.length; }
+
+function isLeconDone(fi, mid, li) { return done.has(leconKey(fi,mid,li)); }
+function isLeconUnlocked(fi, mid, li) { return leconUnlocked.has(leconKey(fi,mid,li)); }
+
+function unlockNextLecon(fi, mi, li) {
+  const f = formations[fi];
+  const m = f.modules[mi];
+  if (li + 1 < m.lecons.length) {
+    leconUnlocked.add(leconKey(fi, m.id, li+1));
+  } else if (mi + 1 < f.modules.length) {
+    const nextMod = f.modules[mi+1];
+    if (nextMod.lecons.length > 0) leconUnlocked.add(leconKey(fi, nextMod.id, 0));
+  } else if (fi + 1 < formations.length) {
+    const nextF = formations[fi+1];
+    if (nextF.modules.length && nextF.modules[0].lecons.length) {
+      leconUnlocked.add(leconKey(fi+1, nextF.modules[0].id, 0));
+    }
+  }
+}
+
+/* ═══════════════════════════════════════════
+   BUILD HOME
+   ═══════════════════════════════════════════ */
 function buildHome() {
   const container = document.getElementById('levels-container');
   container.innerHTML = '';
   formations.forEach((f, fi) => {
-    const unlocked = fi === 0;
+    const unlocked = fi === 0 || formations[fi-1].modules.every(m =>
+      m.lecons.length > 0 && m.lecons.every((_,li) => isLeconDone(fi-1, m.id, li))
+    );
     const totalL = f.modules.reduce((s,m) => s + m.lecons.length, 0);
     const doneL  = f.modules.reduce((s,m) =>
-      s + m.lecons.filter((_,li) => done.has(fi+'-'+m.id+'-'+li)).length, 0);
+      s + m.lecons.filter((_,li) => isLeconDone(fi, m.id, li)).length, 0);
     const pct = totalL ? Math.round(doneL/totalL*100) : 0;
 
     const card = document.createElement('div');
@@ -427,7 +744,7 @@ function buildHome() {
     if (unlocked) card.onclick = () => openNiveau(fi);
 
     const rows = f.modules.map((m,mi) => {
-      const allDone = m.lecons.every((_,li) => done.has(fi+'-'+m.id+'-'+li));
+      const allDone = m.lecons.length > 0 && m.lecons.every((_,li) => isLeconDone(fi, m.id, li));
       return '<div class="module-row"><div class="mod-dot'+(allDone?' done':'')+'">'+
         (allDone?'✓':(mi+1))+'</div><span>'+m.titre+'</span></div>';
     }).join('');
@@ -460,7 +777,9 @@ function buildHome() {
   });
 }
 
-/* ═══ NIVEAU → MODULES ═══ */
+/* ═══════════════════════════════════════════
+   NIVEAU → MODULES
+   ═══════════════════════════════════════════ */
 function openNiveau(fi) {
   curNiveau = fi;
   const f = formations[fi];
@@ -469,10 +788,13 @@ function openNiveau(fi) {
   const c = document.getElementById('module-list-container');
   c.innerHTML = '';
   f.modules.forEach((m,mi) => {
+    const hasContent = m.lecons.length > 0;
     const card = document.createElement('div');
-    card.className = 'module-card '+f.accent;
-    card.onclick = () => openModule(fi, mi);
-    const chips = m.lecons.map(l => '<span class="lecon-chip">'+l+'</span>').join('');
+    card.className = 'module-card '+f.accent+(hasContent?'':' locked');
+    if (hasContent) card.onclick = () => openModule(fi, mi);
+    const chips = m.lecons.length
+      ? m.lecons.map((l,li) => '<span class="lecon-chip'+(isLeconDone(fi,m.id,li)?' chip-done':'')+'">'+l.titre+'</span>').join('')
+      : '<span class="lecon-chip">Contenu à venir</span>';
     card.innerHTML =
       '<div class="module-card-top">'+
         '<div class="module-num-badge">'+String(m.id).padStart(2,'0')+'</div>'+
@@ -484,41 +806,283 @@ function openNiveau(fi) {
   showScreen('screen-modules');
 }
 
-/* ═══ MODULE → LEÇONS ═══ */
+/* ═══════════════════════════════════════════
+   MODULE → LEÇONS
+   ═══════════════════════════════════════════ */
 function openModule(fi, mi) {
   curNiveau = fi; curModule = mi;
   const f = formations[fi];
   const m = f.modules[mi];
   document.getElementById('lecon-screen-title').textContent = m.titre;
-  document.getElementById('lecon-screen-sub').textContent = m.lecons.length+' leçons — '+f.niveau;
+  document.getElementById('lecon-screen-sub').textContent = m.lecons.length+' leçon'+(m.lecons.length>1?'s':'')+' — '+f.niveau;
   const c = document.getElementById('lecon-list-container');
   c.innerHTML = '';
   m.lecons.forEach((l, li) => {
-    const isDone = done.has(fi+'-'+m.id+'-'+li);
+    const isDone = isLeconDone(fi, m.id, li);
+    const unlocked = isLeconUnlocked(fi, m.id, li);
     const row = document.createElement('div');
-    row.className = 'lecon-row';
-    row.onclick = () => toggleLecon(fi, mi, li, m.id);
+    row.className = 'lecon-row' + (unlocked ? '' : ' locked');
+    if (unlocked) row.onclick = () => openReader(fi, mi, li);
     row.innerHTML =
-      '<div class="lecon-index'+(isDone?' done':'')+'">'+( isDone?'✓':(li+1))+'</div>'+
-      '<div class="lecon-title-text">'+l+'</div>'+
-      '<div class="lecon-arrow">›</div>';
+      '<div class="lecon-index'+(isDone?' done':'')+'">'+( isDone?'✓':(unlocked?(li+1):'🔒'))+'</div>'+
+      '<div class="lecon-title-text">'+
+        '<div class="lecon-title-main">'+l.titre+'</div>'+
+        '<div class="lecon-title-meta">'+(isDone?'Terminé':unlocked?'Leçon + 50 quiz + 2 cas pratiques':'Verrouillé')+'</div>'+
+      '</div>'+
+      (unlocked ? '<div class="lecon-arrow">›</div>' : '');
     c.appendChild(row);
   });
   showScreen('screen-lecons');
 }
 
-/* ═══ TOGGLE ═══ */
-function toggleLecon(fi, mi, li, mid) {
-  const k = fi+'-'+mid+'-'+li;
-  done.has(k) ? done.delete(k) : done.add(k);
-  openModule(fi, mi);
-  buildHome();
+/* ═══════════════════════════════════════════
+   LEÇON READER
+   ═══════════════════════════════════════════ */
+function openReader(fi, mi, li) {
+  curNiveau = fi; curModule = mi; curLecon = li;
   const f = formations[fi];
-  const allDone = f.modules.every(m => m.lecons.every((_,idx) => done.has(fi+'-'+m.id+'-'+idx)));
-  if (allDone) setTimeout(() => showBadge(fi), 400);
+  const m = f.modules[mi];
+  const l = m.lecons[li];
+
+  document.getElementById('reader-screen-title').textContent = 'Leçon '+(li+1);
+  document.getElementById('reader-screen-sub').textContent = m.titre+' — '+f.niveau;
+
+  const c = document.getElementById('reader-content');
+  c.innerHTML = '<div class="reader-loading">Chargement de la leçon…</div>';
+  document.getElementById('btn-start-quiz').style.display = 'none';
+
+  showScreen('screen-reader');
+
+  loadLeconData(l, (data) => {
+    c.innerHTML = '';
+
+    if (!data || data.error) {
+      c.innerHTML = '<div class="reader-loading">Impossible de charger cette leçon. Vérifiez votre connexion puis réessayez.</div>';
+      return;
+    }
+
+    const kicker = document.createElement('div');
+    kicker.className = 'reader-kicker';
+    kicker.textContent = f.niveau + ' · Module ' + String(m.id).padStart(2,'0');
+    c.appendChild(kicker);
+
+    const title = document.createElement('div');
+    title.className = 'reader-title';
+    title.textContent = l.titre;
+    c.appendChild(title);
+
+    (data.contenu || []).forEach(sec => {
+      const wrap = document.createElement('div');
+      wrap.className = 'reader-section';
+
+      const st = document.createElement('div');
+      st.className = 'reader-section-title';
+      st.textContent = sec.titre;
+      wrap.appendChild(st);
+
+      const txt = document.createElement('div');
+      txt.className = 'reader-section-text';
+      txt.textContent = sec.texte;
+      wrap.appendChild(txt);
+
+      if (sec.definition) {
+        const box = document.createElement('div');
+        box.className = 'reader-box';
+        box.innerHTML = '<div class="reader-box-label">À retenir</div><div class="reader-box-text"></div>';
+        box.querySelector('.reader-box-text').textContent = sec.definition;
+        wrap.appendChild(box);
+      }
+      if (sec.exemple) {
+        const box = document.createElement('div');
+        box.className = 'reader-box example';
+        box.innerHTML = '<div class="reader-box-label">Exemple</div><div class="reader-box-text"></div>';
+        box.querySelector('.reader-box-text').textContent = sec.exemple;
+        wrap.appendChild(box);
+      }
+
+      c.appendChild(wrap);
+    });
+
+    // bouton : si déjà fait, afficher "Revoir le quiz" sinon "Commencer le quiz"
+    const isDone = isLeconDone(fi, m.id, li);
+    const btn = document.getElementById('btn-start-quiz');
+    btn.style.display = 'block';
+    btn.textContent = isDone ? 'Revoir le quiz →' : 'Commencer le quiz →';
+  });
 }
 
-/* ═══ BADGE ═══ */
+/* ═══════════════════════════════════════════
+   QUIZ / EXERCICE ENGINE
+   ═══════════════════════════════════════════ */
+function startQuiz() {
+  const l = formations[curNiveau].modules[curModule].lecons[curLecon];
+  loadLeconData(l, (data) => {
+    if (!data || data.error || !data.quiz) return;
+    quizState = { type: 'quiz', questions: data.quiz, index: 0, wrongCount: 0, answered: false };
+    renderQuestion();
+    showScreen('screen-quiz');
+  });
+}
+
+function startExercices() {
+  const l = formations[curNiveau].modules[curModule].lecons[curLecon];
+  loadLeconData(l, (data) => {
+    if (!data || data.error || !data.exercices) return;
+    quizState = { type: 'exercices', questions: data.exercices, index: 0, wrongCount: 0, answered: false };
+    renderQuestion();
+    showScreen('screen-quiz');
+  });
+}
+
+function renderQuestion() {
+  const q = quizState.questions[quizState.index];
+  const total = quizState.questions.length;
+
+  document.getElementById('quiz-type-label').textContent =
+    quizState.type === 'quiz' ? 'Quiz' : 'Exercices';
+  document.getElementById('quiz-progress-text').textContent = (quizState.index+1)+' / '+total;
+  document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index)/total)*100)+'%';
+
+  document.getElementById('quiz-question').textContent = q.question;
+
+  const choicesEl = document.getElementById('quiz-choices');
+  choicesEl.innerHTML = '';
+  const letters = ['A','B','C','D','E','F'];
+  q.choix.forEach((choice, ci) => {
+    const div = document.createElement('div');
+    div.className = 'quiz-choice';
+    div.innerHTML = '<div class="choice-letter">'+letters[ci]+'</div><div>'+choice+'</div>';
+    div.onclick = () => selectAnswer(ci);
+    choicesEl.appendChild(div);
+  });
+
+  document.getElementById('quiz-hint-area').innerHTML = '';
+  document.getElementById('quiz-feedback-area').innerHTML = '';
+  document.getElementById('btn-quiz-next').style.display = 'none';
+  quizState.answered = false;
+  quizState.wrongCount = 0;
+}
+
+function selectAnswer(ci) {
+  if (quizState.answered) return;
+  const q = quizState.questions[quizState.index];
+  const choicesEl = document.getElementById('quiz-choices');
+  const choiceDivs = choicesEl.querySelectorAll('.quiz-choice');
+
+  if (ci === q.reponse) {
+    // bonne réponse
+    quizState.answered = true;
+    choiceDivs.forEach(d => d.classList.add('disabled'));
+    choiceDivs[ci].classList.add('correct');
+
+    const fb = document.createElement('div');
+    fb.className = 'feedback-panel success';
+    fb.innerHTML = '<div class="feedback-title">Bonne réponse !</div><div class="feedback-text"></div>';
+    fb.querySelector('.feedback-text').textContent = q.explication;
+    document.getElementById('quiz-feedback-area').appendChild(fb);
+
+    const total = quizState.questions.length;
+    document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index+1)/total)*100)+'%';
+
+    const nextBtn = document.getElementById('btn-quiz-next');
+    nextBtn.style.display = 'block';
+    nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
+  } else {
+    // mauvaise réponse
+    choiceDivs[ci].classList.add('wrong');
+    choiceDivs[ci].classList.add('disabled');
+    setTimeout(() => { choiceDivs[ci].classList.remove('wrong'); choiceDivs[ci].style.opacity = '0.4'; }, 600);
+
+    quizState.wrongCount++;
+    const hintArea = document.getElementById('quiz-hint-area');
+
+    if (quizState.wrongCount <= 3 && q.indices[quizState.wrongCount-1]) {
+      const hint = document.createElement('div');
+      hint.className = 'hint-box';
+      hint.innerHTML = '<div class="hint-box-label">Indice '+quizState.wrongCount+'</div><div></div>';
+      hint.querySelector('div:last-child').textContent = q.indices[quizState.wrongCount-1];
+      hintArea.appendChild(hint);
+    }
+
+    if (quizState.wrongCount >= 3) {
+      // révèle la réponse après 3 erreurs (+ indices déjà donnés)
+      quizState.answered = true;
+      choiceDivs.forEach(d => d.classList.add('disabled'));
+      choiceDivs[q.reponse].classList.add('correct');
+
+      const fb = document.createElement('div');
+      fb.className = 'feedback-panel reveal';
+      fb.innerHTML = '<div class="feedback-title">La réponse était : '+letters_global[q.reponse]+'</div><div class="feedback-text"></div>';
+      fb.querySelector('.feedback-text').textContent = q.explication;
+      document.getElementById('quiz-feedback-area').appendChild(fb);
+
+      const total = quizState.questions.length;
+      document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index+1)/total)*100)+'%';
+
+      const nextBtn = document.getElementById('btn-quiz-next');
+      nextBtn.style.display = 'block';
+      nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
+    }
+  }
+}
+const letters_global = ['A','B','C','D','E','F'];
+
+function nextQuestion() {
+  const total = quizState.questions.length;
+  if (quizState.index + 1 < total) {
+    quizState.index++;
+    renderQuestion();
+  } else {
+    // fin de la série
+    if (quizState.type === 'quiz') {
+      startExercices();
+    } else {
+      finishLecon();
+    }
+  }
+}
+
+/* ═══════════════════════════════════════════
+   LEÇON COMPLETE
+   ═══════════════════════════════════════════ */
+function finishLecon() {
+  const fi = curNiveau, mi = curModule, li = curLecon;
+  const f = formations[fi];
+  const m = f.modules[mi];
+  done.add(leconKey(fi, m.id, li));
+  unlockNextLecon(fi, mi, li);
+
+  const isLastLeconOfModule = (li === m.lecons.length - 1);
+  const isLastModuleOfNiveau = (mi === f.modules.length - 1);
+  const moduleFullyDone = m.lecons.every((_,idx) => isLeconDone(fi, m.id, idx));
+  const niveauFullyDone = f.modules.every(mm => mm.lecons.length>0 && mm.lecons.every((_,idx)=>isLeconDone(fi, mm.id, idx)));
+
+  document.getElementById('lc-title').textContent = 'Leçon terminée !';
+  document.getElementById('lc-desc').textContent =
+    'Vous avez réussi les 50 quiz et les 2 cas pratiques de « '+m.lecons[li].titre+' ».'+
+    (isLastLeconOfModule ? ' Module terminé !' : ' La leçon suivante est désormais débloquée.');
+  document.getElementById('lc-btn').textContent = niveauFullyDone ? 'Voir mon badge →' : 'Continuer →';
+
+  document.getElementById('lecon-complete-modal').classList.add('show');
+  window._afterLeconComplete = () => {
+    if (niveauFullyDone) {
+      showBadge(fi);
+    } else {
+      goBack('screen-lecons');
+      openModule(fi, mi);
+    }
+    buildHome();
+  };
+}
+
+function closeLeconComplete() {
+  document.getElementById('lecon-complete-modal').classList.remove('show');
+  if (window._afterLeconComplete) { window._afterLeconComplete(); window._afterLeconComplete = null; }
+}
+
+/* ═══════════════════════════════════════════
+   BADGE
+   ═══════════════════════════════════════════ */
 function showBadge(fi) {
   const b = formations[fi].badge;
   document.getElementById('badge-icon').textContent  = b.icon;
@@ -531,6 +1095,7 @@ function showBadge(fi) {
 function closeBadge() {
   document.getElementById('badge-modal').classList.remove('show');
   document.getElementById('particles').innerHTML = '';
+  goBack('screen-home');
 }
 function launchParticles() {
   const c = document.getElementById('particles'); c.innerHTML = '';
