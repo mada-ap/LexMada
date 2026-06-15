@@ -1,0 +1,865 @@
+{
+  "titre": "Le droit objectif et les droits subjectifs",
+  "module": "Module 1 — Qu'est-ce que le droit ?",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Une idée qu'on a déjà, sans le savoir",
+      "texte": "Avant même de commencer des études de droit, tout le monde a une idée du droit : ce qui est permis, ce qui est interdit, ce qui est puni. Mais le droit, c'est beaucoup plus que des interdictions. Le droit est partout : il régit les rapports entre époux, entre parents et enfants, entre un employeur et un salarié, entre un commerçant et son client, entre un citoyen et l'administration, et même entre les Etats. Dès qu'il y a une société, il y a du droit. C'est ce que les juristes résument par l'expression latine « ubi societas, ibi jus » : là où il y a société, il y a du droit."
+    },
+    {
+      "titre": "Deux significations du mot « droit »",
+      "texte": "En français, le mot « droit » a deux sens très différents qu'il faut absolument distinguer, même s'ils sont liés : le droit objectif (l'ensemble des règles) et les droits subjectifs (les prérogatives individuelles). Les Anglais, eux, utilisent deux mots distincts : « law » pour le premier sens et « rights » pour le second."
+    },
+    {
+      "titre": "Le droit objectif",
+      "texte": "Le droit objectif est l'ensemble des règles juridiques qui organisent la vie en société. Il fixe ce qui est permis et ce qui ne l'est pas, afin que la vie collective soit possible. Quand on étudie « le droit » au sens objectif, on s'intéresse à la règle de droit en elle-même : ses caractères, ses sources (d'où vient-elle ?), ses classifications, son domaine d'application. On fait abstraction de son contenu précis pour s'intéresser à ce qui est commun à toutes les règles juridiques.",
+      "definition": "Droit objectif = l'ensemble des règles juridiques en vigueur dans un Etat (lois, règlements, jurisprudence, etc.), envisagées comme un système organisant la société."
+    },
+    {
+      "titre": "Les droits subjectifs",
+      "texte": "Le droit objectif reconnaît aux individus des prérogatives particulières : ce sont les droits subjectifs. Un droit subjectif, c'est ce qu'une personne peut réclamer ou exercer en vertu du droit objectif. Par exemple : le droit de propriété sur sa maison, le droit de vote, le droit de grève, le droit d'exercer l'autorité parentale sur ses enfants. Quand quelqu'un dit « j'ai le droit de faire ceci », il parle d'un droit subjectif. Quand on dit « la loi prévoit que... », on parle du droit objectif.",
+      "definition": "Droit subjectif = une prérogative individuelle reconnue à une personne déterminée par le droit objectif, qu'elle peut faire valoir dans ses relations avec les autres.",
+      "exemple": "Maria est propriétaire d'un terrain à Antananarivo. Le droit objectif (l'ensemble des lois sur la propriété) lui reconnaît un droit subjectif : son droit de propriété sur ce terrain précis. Si un voisin empiète sur son terrain, Maria pourra invoquer ce droit subjectif devant le tribunal."
+    },
+    {
+      "titre": "Deux faces d'un même miroir",
+      "texte": "Le droit objectif et les droits subjectifs ne s'opposent pas : ils sont complémentaires. Ce sont deux manières d'observer le même phénomène. Le droit objectif a justement pour fonction de déterminer et de délimiter les droits subjectifs de chacun. C'est pour cette raison qu'on peut dire que le droit objectif est à l'origine des droits subjectifs, et que les droits subjectifs sont la traduction concrète, individuelle, du droit objectif.",
+      "exemple": "Le droit objectif fixe une règle générale : « toute personne qui cause un dommage à autrui par sa faute doit le réparer ». Si un automobiliste blesse un piéton par imprudence, cette règle générale (droit objectif) donne naissance à un droit subjectif concret : le droit de la victime à être indemnisée par l'auteur de l'accident."
+    },
+    {
+      "titre": "Pourquoi cette distinction est essentielle",
+      "texte": "Cette distinction structure toute l'étude du droit. La première partie de l'introduction générale au droit (qu'on commence dans ce module) étudie le droit objectif : ses caractères, ses sources, son organisation, son application. La seconde partie étudiera les droits subjectifs : leur classification, leur preuve, et la manière de les faire respecter en justice (l'action en justice). Bien comprendre cette distinction dès le départ permettra de mieux situer chaque notion qui viendra ensuite."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Que désigne-t-on par l'expression « droit objectif » ?",
+      "choix": [
+        "L'ensemble des règles juridiques qui organisent la vie en société",
+        "Une prérogative individuelle reconnue à une personne précise",
+        "Le droit de propriété sur un bien déterminé",
+        "Le droit de vote d'un citoyen"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Pensez à la différence entre une règle générale et un droit individuel.",
+        "Le droit objectif désigne un système, un ensemble — pas une prérogative appartenant à une personne.",
+        "C'est la définition donnée dans la section « Le droit objectif »."
+      ],
+      "explication": "Le droit objectif est l'ensemble des règles juridiques en vigueur destinées à organiser la vie en société. C'est un système de règles, pas une prérogative individuelle."
+    },
+    {
+      "question": "Le droit de propriété de Maria sur son terrain est un exemple de :",
+      "choix": [
+        "Droit objectif",
+        "Droit subjectif",
+        "Règlement administratif",
+        "Source du droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Demandez-vous si on parle ici d'une règle générale ou d'une prérogative appartenant à une personne précise.",
+        "Maria est titulaire de ce droit en particulier — ce n'est pas une règle qui s'applique « en général ».",
+        "Relisez la définition du droit subjectif et comparez-la à celle du droit objectif."
+      ],
+      "explication": "Le droit de propriété de Maria sur son terrain est une prérogative individuelle dont elle est titulaire : c'est donc un droit subjectif, reconnu par le droit objectif (l'ensemble des règles sur la propriété)."
+    },
+    {
+      "question": "En anglais, comment distingue-t-on le droit objectif des droits subjectifs ?",
+      "choix": [
+        "On utilise toujours le même mot « law » pour les deux",
+        "On parle de « law » pour le droit objectif et de « rights » pour les droits subjectifs",
+        "On parle de « justice » pour le droit objectif et de « law » pour les droits subjectifs",
+        "Cette distinction n'existe pas en anglais"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne deux mots anglais différents pour cette distinction.",
+        "« Law » correspond à l'idée d'un ensemble de règles.",
+        "L'autre mot anglais ressemble visuellement à « droits » au pluriel en français."
+      ],
+      "explication": "Contrairement au français qui utilise le même mot « droit » dans les deux sens, l'anglais distingue clairement « law » (droit objectif, l'ensemble des règles) et « rights » (droits subjectifs, les prérogatives individuelles)."
+    },
+    {
+      "question": "Quelle expression latine illustre l'idée que le droit existe dès qu'il y a une société ?",
+      "choix": [
+        "Nemo censetur ignorare legem",
+        "Ubi societas, ibi jus",
+        "Error communis facit jus",
+        "Actor incumbit probatio"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette maxime signifie littéralement « là où il y a... il y a du droit ».",
+        "Le mot latin « jus » signifie « droit ».",
+        "Cherchez l'expression qui contient le mot « societas »."
+      ],
+      "explication": "« Ubi societas, ibi jus » signifie « là où il y a société, il y a du droit ». Cette maxime illustre le fait que le droit naît dès que des individus vivent ensemble en collectivité."
+    },
+    {
+      "question": "Le droit objectif et les droits subjectifs sont :",
+      "choix": [
+        "Deux notions opposées, sans aucun lien entre elles",
+        "Deux synonymes désignant exactement la même chose",
+        "Deux notions complémentaires : le droit objectif délimite les droits subjectifs",
+        "Deux branches distinctes du droit qu'on étudie séparément toute sa vie"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon utilise l'image des « deux faces d'un même miroir ».",
+        "Pensez à la fonction du droit objectif par rapport aux droits subjectifs.",
+        "La réponse correcte évoque une relation de complémentarité, pas une opposition ni une identité."
+      ],
+      "explication": "Le droit objectif et les droits subjectifs ne s'opposent pas : ce sont deux façons complémentaires d'envisager le même phénomène. Le droit objectif a pour fonction de déterminer et délimiter les droits subjectifs des individus."
+    },
+    {
+      "question": "Un automobiliste blesse un piéton par imprudence. Selon la leçon, quelle affirmation est correcte ?",
+      "choix": [
+        "Seul un droit subjectif est en jeu ici, le droit objectif n'intervient pas",
+        "La règle générale imposant de réparer un dommage causé par sa faute est un droit objectif, et le droit de la victime à indemnisation est un droit subjectif né de cette règle",
+        "Le droit de la victime à indemnisation est un droit objectif",
+        "Aucune règle de droit ne s'applique à ce type de situation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repérez d'abord la règle générale applicable à toute personne qui cause un dommage par sa faute : à quelle catégorie appartient-elle ?",
+        "Ensuite, identifiez ce que cette règle générale fait naître pour la victime en particulier.",
+        "La bonne réponse distingue clairement la règle générale (droit objectif) du droit individuel qui en découle (droit subjectif)."
+      ],
+      "explication": "La règle « toute personne qui cause un dommage à autrui par sa faute doit le réparer » est une règle générale applicable à tous : c'est du droit objectif. Appliquée à ce cas précis, elle fait naître un droit subjectif concret pour la victime : son droit à être indemnisée par l'automobiliste."
+    },
+    {
+      "question": "Vrai ou faux : selon la leçon, on peut étudier une règle de droit « en elle-même », indépendamment de son contenu précis.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Relisez la section consacrée au droit objectif.",
+        "La leçon évoque l'étude des caractères, sources et classifications « communs à toutes les règles juridiques ».",
+        "Cela correspond exactement à ce qu'on appelle « faire abstraction du contenu »."
+      ],
+      "explication": "La leçon précise que lorsqu'on étudie le droit objectif, on fait abstraction du contenu précis de chaque règle pour s'intéresser à ce qui est commun à toutes : caractères, sources, classifications, domaine d'application."
+    },
+    {
+      "question": "Quelle phrase reformule correctement la phrase « j'ai le droit de faire telle chose en vertu de ma qualité de propriétaire » ?",
+      "choix": [
+        "C'est une référence au droit objectif uniquement",
+        "C'est une référence à un droit subjectif fondé sur le droit objectif",
+        "C'est une référence à une coutume locale sans valeur juridique",
+        "Cette phrase ne correspond à aucune catégorie juridique étudiée dans la leçon"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Demandez-vous qui parle : une règle générale, ou une personne qui revendique une prérogative personnelle ?",
+        "Le mot « ma qualité de propriétaire » renvoie à une situation individuelle.",
+        "Cette prérogative individuelle existe parce qu'une règle générale (le droit objectif) la reconnaît."
+      ],
+      "explication": "Affirmer « j'ai le droit de... en vertu de ma qualité de propriétaire » revient à invoquer un droit subjectif (une prérogative personnelle), qui repose sur le droit objectif (les règles générales sur la propriété qui reconnaissent cette prérogative aux propriétaires)."
+    },
+    {
+      "question": "Laquelle de ces situations illustre le mieux un droit subjectif ?",
+      "choix": [
+        "L'ensemble des lois en vigueur dans un pays",
+        "Le droit de grève reconnu à un salarié déterminé",
+        "La hiérarchie des normes juridiques",
+        "L'organisation générale des tribunaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Trois de ces réponses parlent de systèmes ou d'organisations générales.",
+        "Cherchez la réponse qui concerne une prérogative dont une personne précise est titulaire.",
+        "Le droit de grève « reconnu à un salarié » est une prérogative individuelle."
+      ],
+      "explication": "Le droit de grève reconnu à un salarié est une prérogative individuelle : un droit subjectif. Les autres propositions (ensemble des lois, hiérarchie des normes, organisation des tribunaux) relèvent du droit objectif, c'est-à-dire de l'étude du système de règles en général."
+    },
+    {
+      "question": "Selon la leçon, pourquoi est-il important de distinguer dès le départ droit objectif et droits subjectifs ?",
+      "choix": [
+        "Parce que cette distinction n'a aucune utilité pratique, c'est juste un exercice théorique",
+        "Parce qu'elle structure l'ensemble du plan d'étude du droit (une partie sur le droit objectif, une partie sur les droits subjectifs)",
+        "Parce que seuls les juges ont besoin de connaître cette distinction",
+        "Parce que cette distinction n'existe que dans le droit malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Relisez la dernière section de la leçon.",
+        "La leçon annonce explicitement deux grandes parties d'étude à venir.",
+        "Cherchez la réponse qui parle d'une organisation du programme d'étude, pas d'une utilité réservée à un seul métier."
+      ],
+      "explication": "La leçon explique que cette distinction structure tout le programme : une première partie étudie le droit objectif (caractères, sources, organisation, application), une seconde partie étudiera les droits subjectifs (classification, preuve, action en justice). Comprendre cette distinction permet de mieux situer chaque notion future."
+    },
+    {
+      "question": "« La loi prévoit que tout salarié a droit à un congé annuel. » Cette phrase relève-t-elle du droit objectif ou des droits subjectifs ?",
+      "choix": [
+        "Du droit objectif, car c'est une règle générale énoncée par la loi",
+        "Des droits subjectifs, car elle parle d'un « droit »",
+        "Ni de l'un ni de l'autre",
+        "Des deux à la fois, sans distinction possible"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Ne vous fiez pas seulement au mot « droit » présent dans la phrase : regardez la formulation générale.",
+        "Qui énonce cette règle ? À qui s'applique-t-elle : à une personne précise, ou à « tout salarié » en général ?",
+        "Une règle qui commence par « la loi prévoit que... » et s'applique à une catégorie entière de personnes relève du droit objectif."
+      ],
+      "explication": "Même si la phrase contient le mot « droit », elle énonce une règle générale (« la loi prévoit que... ») applicable à tous les salariés : c'est donc du droit objectif. Le droit subjectif apparaîtrait si on disait par exemple : « Rasoa a droit à son congé annuel », en parlant d'une personne précise qui invoque cette règle pour elle-même."
+    },
+    {
+      "question": "Parmi les exemples suivants, lequel n'est PAS cité dans la leçon comme un domaine où le droit intervient ?",
+      "choix": [
+        "Les rapports entre époux",
+        "Les rapports entre parents et enfants",
+        "Les rapports entre les Etats",
+        "Les rapports entre les membres d'un même club de sport amateur"
+      ],
+      "reponse": 3,
+      "indices": [
+        "Relisez la première section : plusieurs types de rapports humains y sont énumérés.",
+        "Trois des quatre propositions correspondent à des exemples donnés dans le texte.",
+        "Cherchez l'exemple qui ne figure pas dans la liste donnée par la leçon, même s'il pourrait exister en réalité."
+      ],
+      "explication": "La leçon cite les rapports entre époux, entre parents et enfants, entre employeur et salarié, entre commerçant et client, entre citoyen et administration, et entre Etats. Les rapports entre membres d'un club de sport amateur ne sont pas mentionnés dans cette liste d'exemples."
+    },
+    {
+      "question": "Quelle affirmation décrit le mieux la fonction du droit objectif par rapport à la vie en société ?",
+      "choix": [
+        "Il interdit toute forme de liberté individuelle",
+        "Il fixe ce qui est permis et ce qui ne l'est pas, pour que la vie collective soit possible",
+        "Il s'applique uniquement aux relations commerciales",
+        "Il ne concerne que les rapports entre Etats"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Relisez la définition donnée dans la section « Le droit objectif ».",
+        "La fonction du droit objectif n'est pas de tout interdire, mais d'organiser.",
+        "Cherchez la formulation la plus proche de « organiser la vie en société »."
+      ],
+      "explication": "Le droit objectif est l'ensemble des règles qui organisent la vie en société : il fixe ce qui est permis et ce qui ne l'est pas, afin que la vie collective soit possible. Il ne s'agit pas d'interdire toute liberté, ni de se limiter aux seules relations commerciales ou internationales."
+    },
+    {
+      "question": "Le droit d'exercer l'autorité parentale sur ses enfants est-il un droit objectif ou un droit subjectif ?",
+      "choix": [
+        "Un droit objectif, car il concerne la famille",
+        "Un droit subjectif, car il s'agit d'une prérogative reconnue à une personne déterminée",
+        "Ni l'un ni l'autre, car il s'agit d'une coutume",
+        "Cela dépend du pays, la leçon ne donne pas de réponse"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce droit est-il exercé par « tout le monde en général » ou par une personne précise dans sa relation avec ses propres enfants ?",
+        "La leçon cite cet exemple dans la liste des droits subjectifs.",
+        "Une prérogative qu'une personne « a » et peut exercer correspond à la définition du droit subjectif."
+      ],
+      "explication": "Le droit d'exercer l'autorité parentale sur ses enfants est cité par la leçon comme un exemple de droit subjectif : c'est une prérogative reconnue à une personne déterminée (le parent), en vertu des règles générales du droit objectif relatives à la famille."
+    },
+    {
+      "question": "Lequel de ces énoncés appartient au registre du droit objectif ?",
+      "choix": [
+        "« Rabe a le droit de vendre sa maison à qui il veut »",
+        "« Tout propriétaire a le droit de disposer librement de son bien, dans les limites fixées par la loi »",
+        "« J'ai le droit d'utiliser mon vélo aujourd'hui »",
+        "« Mon droit de propriété sur cette parcelle me permet de la louer »"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Trois de ces phrases parlent d'une personne précise (« Rabe », « j'ai », « mon droit »).",
+        "Cherchez la phrase qui énonce une règle générale, applicable à « tout propriétaire ».",
+        "Le droit objectif s'exprime par des formules générales et impersonnelles."
+      ],
+      "explication": "« Tout propriétaire a le droit de disposer librement de son bien, dans les limites fixées par la loi » est une formulation générale et impersonnelle, typique du droit objectif. Les trois autres phrases concernent des personnes précises (Rabe, « je », « mon droit ») et relèvent donc des droits subjectifs."
+    },
+    {
+      "question": "Quel terme désigne, dans la leçon, l'ensemble des lois, règlements et règles de jurisprudence en vigueur dans un Etat ?",
+      "choix": [
+        "Les droits subjectifs",
+        "Le droit objectif",
+        "L'action en justice",
+        "La doctrine"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cherchez le terme qui correspond à un « ensemble » de règles, et non à une prérogative individuelle.",
+        "La définition donnée dans la leçon mentionne explicitement « lois, règlements, jurisprudence, etc. ».",
+        "C'est l'un des deux sens du mot « droit » présentés en introduction."
+      ],
+      "explication": "Le droit objectif est défini dans la leçon comme l'ensemble des règles juridiques en vigueur dans un Etat (lois, règlements, jurisprudence, etc.), envisagées comme un système organisant la société."
+    },
+    {
+      "question": "Un voisin de Maria empiète sur son terrain à Antananarivo. Selon l'exemple de la leçon, que peut faire Maria ?",
+      "choix": [
+        "Rien, car le droit objectif ne concerne pas les particuliers",
+        "Invoquer son droit subjectif de propriété devant le tribunal",
+        "Modifier elle-même la loi sur la propriété",
+        "Demander au voisin de devenir copropriétaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Relisez la fin de l'exemple sur Maria et son terrain.",
+        "Maria est titulaire d'un droit subjectif : que peut-elle en faire si ce droit est menacé ?",
+        "La leçon mentionne explicitement une démarche devant une institution précise."
+      ],
+      "explication": "Selon l'exemple donné, si un voisin empiète sur son terrain, Maria pourra invoquer son droit subjectif de propriété devant le tribunal. C'est une illustration concrète de la manière dont un droit subjectif peut être défendu."
+    },
+    {
+      "question": "Quelle formulation est la plus juste concernant la relation entre droit objectif et droits subjectifs ?",
+      "choix": [
+        "Le droit objectif est une conséquence des droits subjectifs",
+        "Les droits subjectifs sont une conséquence du droit objectif",
+        "Le droit objectif et les droits subjectifs apparaissent toujours simultanément, sans lien de cause à effet",
+        "Seuls les droits subjectifs ont une existence réelle, le droit objectif est une notion abstraite sans application"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez à l'expression « le droit objectif est à l'origine des droits subjectifs ».",
+        "Cherchez la réponse qui respecte ce sens : qu'est-ce qui vient « avant » dans le raisonnement ?",
+        "Le droit objectif sert de fondement ; les droits subjectifs en découlent."
+      ],
+      "explication": "La leçon indique que le droit objectif est à l'origine des droits subjectifs, qui en sont la traduction concrète et individuelle. Les droits subjectifs sont donc une conséquence (une application individuelle) du droit objectif, et non l'inverse."
+    },
+    {
+      "question": "Laquelle de ces affirmations est fausse ?",
+      "choix": [
+        "Le droit objectif peut s'écrire avec une majuscule : « le Droit »",
+        "Les droits subjectifs s'écrivent généralement avec une minuscule : « les droits »",
+        "Le droit objectif et les droits subjectifs n'ont aucun rapport avec la notion de société",
+        "Le mot « droit » a deux significations distinctes en français"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Trois affirmations sont conformes au contenu de la leçon ; une seule la contredit.",
+        "Repensez à la maxime « ubi societas, ibi jus » et à son lien avec le droit objectif comme avec les droits subjectifs.",
+        "La société est justement le cadre dans lequel ces deux notions prennent tout leur sens."
+      ],
+      "explication": "C'est faux : le droit (objectif comme subjectif) est intimement lié à la notion de société. La maxime « ubi societas, ibi jus » rappelle que le droit naît de la vie en société, et les droits subjectifs sont les prérogatives que les individus exercent justement dans leurs rapports sociaux."
+    },
+    {
+      "question": "Pourquoi peut-on dire que le droit objectif et les droits subjectifs sont « deux façons d'observer le même phénomène » ?",
+      "choix": [
+        "Parce qu'ils portent sur des objets totalement différents qui n'ont rien en commun",
+        "Parce qu'ils décrivent la même réalité juridique, vue tantôt sous l'angle des règles générales, tantôt sous l'angle des prérogatives individuelles qui en découlent",
+        "Parce que ce sont deux noms différents pour la même règle de droit, sans nuance",
+        "Parce qu'ils n'existent que dans les pays de droit écrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez à l'image du « miroir » utilisée par la leçon.",
+        "Il s'agit d'un seul phénomène (le droit) observé sous deux angles différents.",
+        "La bonne réponse évoque deux angles de vue sur une même réalité, pas deux réalités séparées ni une simple synonymie."
+      ],
+      "explication": "Le droit objectif (l'ensemble des règles) et les droits subjectifs (les prérogatives individuelles qui en découlent) ne sont pas deux réalités séparées : ils décrivent le même phénomène juridique sous deux angles complémentaires, comme les deux faces d'un même miroir."
+    },
+    {
+      "question": "Dans l'expression « Ubi societas, ibi jus », à quoi correspond le mot « jus » ?",
+      "choix": [
+        "À la société",
+        "Au droit",
+        "Au juge",
+        "À la justice rendue par les tribunaux uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "« Societas » correspond déjà à « société » : il reste un mot à traduire.",
+        "« Jus » est la racine du mot français « juridique ».",
+        "La traduction complète de la maxime est donnée dans la leçon."
+      ],
+      "explication": "Dans « Ubi societas, ibi jus » (« là où il y a société, il y a du droit »), « societas » signifie « société » et « jus » signifie « droit ». Le mot ne désigne pas spécifiquement la justice rendue par les tribunaux, mais le droit au sens large."
+    },
+    {
+      "question": "Une nouvelle règle générale impose désormais à « tout commerçant » de délivrer une facture à ses clients. Que peut-on dire de cette règle ?",
+      "choix": [
+        "C'est un droit subjectif appartenant à un commerçant précis",
+        "C'est une règle de droit objectif, formulée de façon générale et impersonnelle",
+        "Ce n'est ni du droit objectif ni du droit subjectif",
+        "C'est uniquement une coutume sans valeur obligatoire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repérez la formulation : « tout commerçant » — s'agit-il d'une personne précise ou d'une catégorie générale ?",
+        "Le droit objectif s'exprime par des règles générales et impersonnelles.",
+        "Comparez avec la phrase-exemple du droit objectif vue plus haut (« tout propriétaire a le droit de... »)."
+      ],
+      "explication": "« Tout commerçant doit délivrer une facture » est une formulation générale et impersonnelle, applicable à une catégorie entière de personnes : c'est une règle de droit objectif. Elle pourra ensuite faire naître, pour chaque client concerné, un droit subjectif à réclamer cette facture."
+    },
+    {
+      "question": "Quelle est la meilleure définition d'un « sujet de droit » d'après l'esprit de la leçon ?",
+      "choix": [
+        "Une personne qui étudie le droit à l'université",
+        "Une personne qui est titulaire de droits subjectifs et qui peut être soumise à des obligations en vertu du droit objectif",
+        "Un texte de loi qui porte sur un sujet particulier",
+        "Une décision de justice qui crée un nouveau droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "« Sujet de droit » ne désigne pas un thème d'étude, mais une personne.",
+        "Cette personne est concernée à la fois par le droit objectif (qui s'applique à elle) et par les droits subjectifs (dont elle est titulaire).",
+        "Cherchez la réponse qui parle d'une personne, titulaire de prérogatives et soumise à des règles."
+      ],
+      "explication": "Bien que la leçon n'emploie pas littéralement l'expression « sujet de droit », elle prépare cette notion : une personne (le sujet de droit) est titulaire de droits subjectifs reconnus par le droit objectif, et peut aussi être soumise à des obligations définies par celui-ci."
+    },
+    {
+      "question": "Vrai ou faux : selon la leçon, étudier le droit objectif revient à étudier uniquement le contenu détaillé de chaque loi particulière.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Relisez la phrase sur « faire abstraction de son contenu ».",
+        "L'étude du droit objectif porte sur ce qui est commun à toutes les règles : caractères, sources, classifications.",
+        "Le contenu détaillé de chaque loi sera étudié plus tard, matière par matière."
+      ],
+      "explication": "Faux. La leçon précise qu'étudier le droit objectif consiste à s'intéresser à la règle de droit « en elle-même et pour elle-même », en faisant abstraction de son contenu précis : on étudie ce qui est commun à toutes les règles (caractères, sources, classifications, domaine d'application), pas le détail de chaque loi particulière."
+    },
+    {
+      "question": "Lequel de ces couples illustre correctement la relation « règle générale → droit individuel » ?",
+      "choix": [
+        "« La Constitution organise les pouvoirs publics » → « Rakoto a le droit d'être candidat aux élections dans les conditions prévues par la loi »",
+        "« Rakoto a le droit de vote » → « La Constitution organise les pouvoirs publics »",
+        "Les deux exemples illustrent la même chose dans le même ordre",
+        "Aucun de ces exemples ne correspond à du droit objectif ou subjectif"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cherchez quel énoncé est général et impersonnel, et lequel concerne une personne précise.",
+        "« La Constitution organise les pouvoirs publics » s'applique à tous.",
+        "« Rakoto a le droit de... » concerne une personne précise."
+      ],
+      "explication": "« La Constitution organise les pouvoirs publics » est une règle générale (droit objectif), qui permet ensuite à une personne précise comme Rakoto d'exercer un droit subjectif individuel (être candidat dans les conditions prévues). Le second couple inverse cet ordre logique."
+    },
+    {
+      "question": "Selon la leçon, à quoi servira la seconde partie du programme d'introduction générale au droit ?",
+      "choix": [
+        "À étudier uniquement l'histoire du droit malgache",
+        "À étudier les droits subjectifs : leur classification, leur preuve et l'action en justice",
+        "À étudier uniquement le droit international",
+        "À remplacer l'étude du droit objectif déjà faite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Relisez la dernière section de la leçon, qui annonce le plan d'étude.",
+        "Trois thèmes précis sont annoncés pour cette seconde partie.",
+        "Cherchez la réponse qui mentionne « classification », « preuve » et « action en justice »."
+      ],
+      "explication": "La leçon annonce que la seconde partie du programme étudiera les droits subjectifs : leur classification, leur preuve, et la manière de les faire respecter en justice (l'action en justice). La première partie, elle, est consacrée au droit objectif (caractères, sources, organisation, application)."
+    },
+    {
+      "question": "Si une personne dit : « La loi malgache reconnaît à tout salarié le droit à un repos hebdomadaire », de quoi parle-t-elle principalement ?",
+      "choix": [
+        "Uniquement d'un droit subjectif, sans référence au droit objectif",
+        "D'une règle de droit objectif qui, appliquée à un salarié déterminé, devient pour lui un droit subjectif",
+        "D'une coutume sans valeur juridique",
+        "D'une décision de justice isolée sans portée générale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La phrase commence par « la loi malgache reconnaît à tout salarié » : à qui s'adresse cette règle ?",
+        "Une règle qui s'adresse à « tout salarié » est générale : c'est du droit objectif.",
+        "Mais cette règle générale, appliquée à un salarié précis, lui donne quoi ?"
+      ],
+      "explication": "Cette phrase combine les deux notions : elle énonce une règle générale (« la loi reconnaît à tout salarié »), donc du droit objectif, qui se traduit, pour chaque salarié pris individuellement, par un droit subjectif concret : son droit personnel à un repos hebdomadaire."
+    },
+    {
+      "question": "Laquelle de ces propositions NE correspond PAS à la définition du droit subjectif donnée dans la leçon ?",
+      "choix": [
+        "Une prérogative individuelle reconnue à une personne déterminée",
+        "Une prérogative que la personne peut faire valoir dans ses relations avec les autres",
+        "Une prérogative qui dépend du droit objectif",
+        "Une prérogative qui s'applique de façon générale et impersonnelle à toute la population"
+      ],
+      "reponse": 3,
+      "indices": [
+        "Trois propositions reprennent fidèlement des éléments de la définition du droit subjectif.",
+        "« Générale et impersonnelle » correspond à une autre notion étudiée dans la leçon.",
+        "Cette quatrième proposition décrit en réalité une caractéristique du droit objectif."
+      ],
+      "explication": "Le droit subjectif est une prérogative individuelle reconnue à une personne déterminée, qu'elle peut faire valoir, et qui dépend du droit objectif. En revanche, « s'appliquer de façon générale et impersonnelle à toute la population » est une caractéristique du droit objectif, pas des droits subjectifs."
+    },
+    {
+      "question": "Une commune malgache adopte un arrêté municipal imposant à tous les commerçants du marché de fermer leurs étals à 18h. Comment qualifier cet arrêté du point de vue de la leçon ?",
+      "choix": [
+        "C'est un droit subjectif appartenant à la commune",
+        "C'est une règle de droit objectif, car elle est générale et s'applique à tous les commerçants du marché",
+        "Ce n'est pas une règle de droit car cela vient d'une commune et non de l'Etat central",
+        "C'est un exemple de jurisprudence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Demandez-vous si cet arrêté vise une personne précise ou une catégorie entière de personnes.",
+        "« Tous les commerçants du marché » est une formulation générale.",
+        "Ce qui compte est le caractère général et impersonnel de la règle, pas son origine précise."
+      ],
+      "explication": "Cet arrêté s'adresse de façon générale et impersonnelle à « tous les commerçants du marché » : il s'agit donc d'une règle de droit objectif, même s'il émane d'une autorité locale (la commune) et non de l'Etat central. Le caractère général de la règle, et non son origine précise, est ce qui permet ici de la rattacher au droit objectif."
+    },
+    {
+      "question": "Pourquoi la leçon prend-elle soin de donner un exemple concret (Maria et son terrain) plutôt que de s'en tenir à des définitions abstraites ?",
+      "choix": [
+        "Parce que les définitions abstraites sont fausses",
+        "Parce qu'un exemple concret aide à comprendre comment une notion théorique (le droit subjectif) se manifeste dans une situation réelle",
+        "Parce que la loi malgache l'exige pour tout cours de droit",
+        "Parce que les exemples remplacent entièrement la nécessité de connaître les définitions"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la pédagogie générale d'un cours : pourquoi associe-t-on souvent une définition à un exemple ?",
+        "L'exemple ne remplace pas la définition, il l'illustre.",
+        "Cherchez la réponse qui parle de faciliter la compréhension d'une notion théorique."
+      ],
+      "explication": "Donner un exemple concret comme celui de Maria et de son terrain permet d'illustrer une notion théorique (le droit subjectif) en la rattachant à une situation réelle et compréhensible, sans pour autant rendre inutile la définition elle-même : les deux se complètent."
+    },
+    {
+      "question": "Lequel de ces énoncés est une formulation typique du droit objectif ?",
+      "choix": [
+        "« Mon entreprise a le droit d'exporter ce produit »",
+        "« Toute entreprise souhaitant exporter ce type de produit doit obtenir une autorisation préalable »",
+        "« J'ai obtenu l'autorisation d'exporter »",
+        "« Le tribunal m'a reconnu le droit d'exporter »"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Trois formulations concernent une entreprise ou une personne précise (« mon », « j'ai », « m'a reconnu »).",
+        "Cherchez la formulation qui s'adresse à « toute entreprise », de façon générale.",
+        "Le droit objectif se reconnaît à son caractère général et impersonnel."
+      ],
+      "explication": "« Toute entreprise souhaitant exporter ce type de produit doit obtenir une autorisation préalable » est une formulation générale et impersonnelle, typique du droit objectif. Les trois autres énoncés concernent une situation individuelle précise (droit subjectif ou décision de justice individuelle)."
+    },
+    {
+      "question": "Vrai ou faux : un droit subjectif peut être défendu devant un tribunal lorsqu'il est menacé ou violé.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Repensez à l'exemple de Maria face à son voisin.",
+        "La leçon mentionne explicitement une démarche possible devant une institution.",
+        "Le droit subjectif n'est pas qu'une notion abstraite : il peut être protégé concrètement."
+      ],
+      "explication": "Vrai. L'exemple de Maria illustre qu'un droit subjectif (son droit de propriété) peut être invoqué devant le tribunal lorsque ce droit est menacé, par exemple par l'empiétement d'un voisin."
+    },
+    {
+      "question": "Quel est le point commun entre « le droit de vote », « le droit de grève » et « le droit de propriété », tels que cités dans la leçon ?",
+      "choix": [
+        "Ce sont tous des exemples de règles générales et impersonnelles",
+        "Ce sont tous des exemples de droits subjectifs, c'est-à-dire de prérogatives individuelles",
+        "Ce sont tous des synonymes du mot « jurisprudence »",
+        "Ce sont tous des droits réservés exclusivement aux fonctionnaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Relisez la liste d'exemples donnée dans la section sur les droits subjectifs.",
+        "Chacun de ces « droits » est exercé par une personne déterminée, dans sa situation propre.",
+        "Le point commun renvoie à la définition même du droit subjectif."
+      ],
+      "explication": "Le droit de vote, le droit de grève et le droit de propriété sont tous cités dans la leçon comme des exemples de droits subjectifs : des prérogatives individuelles que des personnes déterminées peuvent exercer, en vertu du droit objectif qui les leur reconnaît."
+    },
+    {
+      "question": "Une loi dispose : « Le mariage requiert le consentement libre des deux époux ». Si Jean et Lucie se marient en respectant cette condition, que peut-on dire ?",
+      "choix": [
+        "La règle sur le consentement est un droit subjectif de Jean et Lucie",
+        "La règle sur le consentement est une règle de droit objectif ; le mariage valablement conclu fait naître des droits et obligations subjectifs pour Jean et Lucie en tant qu'époux",
+        "Cette situation ne relève d'aucune des deux notions étudiées",
+        "Seul Jean est concerné par cette règle, car c'est généralement l'homme qui demande en mariage"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repérez d'abord la formulation de la règle : est-elle générale (« le mariage requiert ») ou individuelle ?",
+        "Une fois cette règle générale appliquée à Jean et Lucie, que devient-elle pour eux concrètement ?",
+        "La bonne réponse distingue la règle générale (droit objectif) de ses effets concrets pour les deux personnes (droits subjectifs)."
+      ],
+      "explication": "« Le mariage requiert le consentement libre des deux époux » est une règle générale et impersonnelle : c'est du droit objectif. Une fois cette condition remplie par Jean et Lucie, leur mariage produit des effets concrets pour eux : des droits et obligations subjectifs propres aux époux."
+    },
+    {
+      "question": "Dans la leçon, quel mot est utilisé pour désigner les éléments qui constituent le droit objectif, en plus des lois ?",
+      "choix": [
+        "Les règlements et la jurisprudence",
+        "Uniquement les décisions individuelles des juges",
+        "Uniquement les coutumes locales",
+        "Les opinions personnelles des avocats"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Relisez la définition donnée entre parenthèses dans la section sur le droit objectif.",
+        "La définition cite plusieurs catégories de règles, introduites par « etc. ».",
+        "Deux catégories sont explicitement nommées en plus des lois."
+      ],
+      "explication": "La leçon définit le droit objectif comme l'ensemble des règles juridiques en vigueur (lois, règlements, jurisprudence, etc.). Les règlements et la jurisprudence sont donc explicitement cités comme faisant partie, avec les lois, du droit objectif."
+    },
+    {
+      "question": "Quelle erreur commettrait un étudiant qui affirmerait : « Le droit subjectif, c'est l'ensemble des lois qui s'appliquent à moi » ?",
+      "choix": [
+        "Aucune erreur, cette définition est correcte",
+        "Il confond le droit subjectif avec le droit objectif : le droit subjectif est une prérogative individuelle, pas un ensemble de règles",
+        "Il confond le droit subjectif avec la jurisprudence",
+        "Il confond le droit subjectif avec la coutume"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repérez les mots-clés : « ensemble de lois » correspond-il à la définition du droit objectif ou des droits subjectifs ?",
+        "Le droit subjectif est défini comme une prérogative, pas comme un ensemble de règles.",
+        "L'étudiant mélange les deux définitions données en début de leçon."
+      ],
+      "explication": "Cette affirmation confond les deux notions : « l'ensemble des lois qui s'appliquent à une personne » reste du droit objectif (un ensemble de règles), même si on le rapporte à une personne en particulier. Le droit subjectif, lui, désigne une prérogative individuelle précise (par exemple : le droit de propriété de cette personne sur tel bien), pas l'ensemble des règles qui la concernent."
+    },
+    {
+      "question": "Parmi les exemples de droits subjectifs cités dans la leçon, lequel n'a pas de valeur monétaire directe (on ne peut ni le vendre, ni l'évaluer en argent) ?",
+      "choix": [
+        "Le droit de propriété sur un terrain",
+        "Le droit de vote",
+        "Le droit à une indemnisation après un accident",
+        "Le droit de créance d'un commerçant envers son client"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Trois de ces droits ont un lien direct avec de l'argent ou un bien évaluable.",
+        "Le droit de vote ne s'achète ni ne se vend.",
+        "Cherchez le droit qui reste une prérogative purement « citoyenne », sans dimension financière directe."
+      ],
+      "explication": "Parmi les exemples cités, le droit de vote est celui qui n'a pas de valeur monétaire directe : on ne peut pas le vendre, l'évaluer en argent ou le transmettre comme un bien, contrairement à la propriété, à une indemnisation ou à une créance commerciale (cette distinction patrimonial / extrapatrimonial sera approfondie dans un module ultérieur)."
+    },
+    {
+      "question": "Quelle est la meilleure manière de résumer le rôle du droit objectif énoncé dans la leçon ?",
+      "choix": [
+        "Punir systématiquement tous les comportements humains",
+        "Organiser la vie en société en délimitant ce qui est permis, interdit, et en déterminant les droits subjectifs de chacun",
+        "Servir uniquement de base théorique sans application concrète",
+        "Remplacer la morale et la religion dans tous les domaines"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Combinez les deux idées principales de la leçon sur le droit objectif : organiser la société, et délimiter les droits subjectifs.",
+        "Écartez les réponses qui ne parlent que de punition ou qui nient toute application pratique.",
+        "La bonne réponse relie la fonction d'organisation sociale à la fonction de délimitation des droits subjectifs."
+      ],
+      "explication": "Le droit objectif organise la vie en société : il fixe ce qui est permis ou interdit, et il a pour fonction de déterminer et délimiter les droits subjectifs des individus. Ce n'est pas un simple outil de punition, ni une notion purement théorique sans application."
+    },
+    {
+      "question": "Dans la phrase « Le droit objectif est à l'origine des droits subjectifs », à quoi correspond le mot « origine » ?",
+      "choix": [
+        "À une date historique précise de création du droit",
+        "Au fait que le droit objectif est la source, le fondement, à partir duquel naissent les droits subjectifs",
+        "Au nom de la première loi jamais écrite",
+        "À un pays précis où le droit serait né"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mot « origine » ici n'a pas de sens historique ou géographique.",
+        "Pensez à un lien de cause à effet : qu'est-ce qui vient « avant », logiquement ?",
+        "« Origine » est proche ici de « source » ou « fondement »."
+      ],
+      "explication": "Dans ce contexte, « origine » signifie que le droit objectif est la source, le fondement logique à partir duquel naissent les droits subjectifs : ce n'est pas une référence à une date ou à un lieu, mais à un rapport de cause à effet entre les deux notions."
+    },
+    {
+      "question": "Un texte affirme : « Les droits subjectifs sont supérieurs au droit objectif et peuvent exister sans lui. » Que peut-on dire de cette affirmation au regard de la leçon ?",
+      "choix": [
+        "Elle est exacte, le droit objectif n'a qu'un rôle secondaire",
+        "Elle est inexacte : la leçon présente le droit objectif comme la source des droits subjectifs, qui en sont la traduction concrète",
+        "Elle est exacte uniquement pour les droits subjectifs liés à la propriété",
+        "La leçon ne permet pas de répondre à cette question"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez à la relation « origine / traduction concrète » décrite dans la leçon.",
+        "Si les droits subjectifs sont une « traduction » du droit objectif, peuvent-ils exister sans ce dont ils sont la traduction ?",
+        "Cherchez la réponse qui contredit directement l'affirmation en s'appuyant sur la leçon."
+      ],
+      "explication": "Cette affirmation est inexacte au regard de la leçon : le droit objectif est présenté comme la source des droits subjectifs, qui en sont la traduction concrète et individuelle. Les droits subjectifs ne sont donc pas indépendants ni « supérieurs » au droit objectif : ils en découlent."
+    },
+    {
+      "question": "Lequel de ces couples de notions correspond exactement au sujet de cette leçon ?",
+      "choix": [
+        "Loi / coutume",
+        "Droit objectif / droits subjectifs",
+        "Doctrine / jurisprudence",
+        "Droit interne / droit international"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les autres couples renvoient à des distinctions qui seront étudiées dans d'autres leçons du programme.",
+        "Cherchez le couple qui correspond exactement au titre de cette leçon.",
+        "C'est la distinction centrale présentée du début à la fin de cette leçon."
+      ],
+      "explication": "Cette leçon est entièrement construite autour de la distinction (et de la complémentarité) entre droit objectif et droits subjectifs. Les autres couples de notions (loi/coutume, doctrine/jurisprudence, droit interne/international) seront étudiés dans des modules ultérieurs du programme."
+    },
+    {
+      "question": "Une association de consommateurs affirme : « Tout consommateur a le droit d'être informé du prix d'un produit avant l'achat. » Quelle analyse correspond le mieux à cette phrase ?",
+      "choix": [
+        "C'est uniquement un droit subjectif propre à l'association elle-même",
+        "C'est une règle de droit objectif (générale, applicable à « tout consommateur ») qui, pour un acheteur précis dans un magasin donné, se traduit par un droit subjectif à être informé du prix",
+        "Ce n'est ni du droit objectif ni du droit subjectif, juste une recommandation",
+        "Cela ne concerne que les associations, pas les particuliers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repérez la formulation générale : « tout consommateur ».",
+        "Une règle générale de ce type est du droit objectif ; pensez ensuite à son application à une personne précise faisant ses courses.",
+        "La bonne réponse combine les deux niveaux : règle générale, puis droit individuel qui en découle pour chaque acheteur."
+      ],
+      "explication": "« Tout consommateur a le droit d'être informé du prix » est une formulation générale et impersonnelle : c'est une règle de droit objectif. Appliquée à un acheteur précis dans un magasin donné, cette règle générale se traduit par un droit subjectif concret : le droit de cet acheteur à être informé du prix avant son achat."
+    },
+    {
+      "question": "Lorsque la leçon dit que le droit objectif « fait abstraction de son contenu », que veut-elle dire par « contenu » ?",
+      "choix": [
+        "La forme physique du texte de loi (papier, support électronique, etc.)",
+        "Le sujet précis traité par chaque règle particulière (par exemple : le contenu exact des règles sur le mariage, sur les contrats, etc.)",
+        "Le nombre de pages d'un code juridique",
+        "La langue dans laquelle la loi est rédigée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "« Faire abstraction du contenu » s'oppose à « s'intéresser à ce qui est commun à toutes les règles ».",
+        "Le contenu ici renvoie au sujet traité par chaque règle (mariage, contrat, propriété...), pas à son aspect matériel.",
+        "Pensez à la différence entre étudier « les caractères communs à toutes les règles » et étudier « le détail de chaque règle »."
+      ],
+      "explication": "« Faire abstraction du contenu » signifie ici qu'on ne s'intéresse pas, à ce stade, au sujet précis traité par chaque règle particulière (le mariage, les contrats, la propriété, etc.), mais à ce qui est commun à toutes les règles juridiques en général : leurs caractères, leurs sources, leur organisation."
+    },
+    {
+      "question": "Laquelle de ces situations correspond à l'exercice concret d'un droit subjectif ?",
+      "choix": [
+        "Le vote d'une loi par le Parlement",
+        "La publication d'un règlement administratif au Journal officiel",
+        "Un salarié qui dépose un préavis de grève pour défendre ses revendications",
+        "La rédaction d'un manuel de droit par un professeur"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Trois situations concernent la création ou la diffusion de règles générales.",
+        "Cherchez la situation où une personne déterminée exerce une prérogative qui lui est personnellement reconnue.",
+        "Le droit de grève a déjà été cité comme exemple de droit subjectif dans la leçon."
+      ],
+      "explication": "Un salarié qui dépose un préavis de grève exerce concrètement un droit subjectif : le droit de grève, prérogative individuelle reconnue par le droit objectif. Voter une loi, publier un règlement ou rédiger un manuel relèvent plutôt de la création ou de l'étude du droit objectif."
+    },
+    {
+      "question": "Pourquoi la leçon insiste-t-elle, dès l'introduction, sur le fait que le droit est « partout » ?",
+      "choix": [
+        "Pour effrayer les nouveaux étudiants en droit",
+        "Pour montrer que le droit ne se limite pas à l'image réductrice des interdictions et sanctions, mais touche tous les types de rapports humains",
+        "Pour suggérer qu'il est inutile d'étudier le droit puisqu'il est partout de toute façon",
+        "Pour annoncer que cette leçon sera la seule du programme"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Relisez la toute première section de la leçon, en particulier la phrase sur l'idée initiale qu'on a du droit.",
+        "La leçon part d'une idée commune (le droit = interdictions, sanctions) pour l'élargir.",
+        "Cherchez la réponse qui parle d'élargir une vision initiale trop limitée."
+      ],
+      "explication": "La leçon part du constat que beaucoup de débutants associent le droit uniquement aux interdictions et aux sanctions. En insistant sur le fait que le droit est « partout » (rapports familiaux, professionnels, économiques, internationaux...), elle élargit cette vision initiale pour montrer la richesse et l'ampleur réelle du droit."
+    },
+    {
+      "question": "Si une règle de droit objectif est abrogée (supprimée), que devient en principe le droit subjectif qui en découlait pour une personne, selon la logique de la leçon ?",
+      "choix": [
+        "Il devient automatiquement plus fort",
+        "Il est, en principe, affecté puisque sa source (la règle de droit objectif) n'existe plus de la même manière",
+        "Il n'y a aucun lien entre les deux, donc rien ne change",
+        "La leçon interdit de répondre à cette question avant d'avoir étudié l'abrogation des lois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez au lien de cause à effet entre droit objectif et droits subjectifs : que se passe-t-il si la « cause » change ?",
+        "Si le droit subjectif est une « traduction » du droit objectif, que devient une traduction si le texte d'origine est modifié ou supprimé ?",
+        "La bonne réponse reste cohérente avec l'idée que les droits subjectifs découlent du droit objectif (les détails techniques de l'abrogation seront vus plus tard)."
+      ],
+      "explication": "Si les droits subjectifs découlent du droit objectif comme leur source, la modification ou la suppression de la règle de droit objectif correspondante affecte, en principe, les droits subjectifs qui en découlaient. Les mécanismes précis de l'abrogation des lois et leurs effets dans le temps seront étudiés plus en détail dans un module ultérieur, mais le principe du lien de dépendance est déjà posé par cette leçon."
+    },
+    {
+      "question": "Lequel de ces exemples NE correspond PAS à un droit subjectif tel que décrit dans la leçon ?",
+      "choix": [
+        "Le droit de propriété sur sa maison",
+        "Le droit de vote",
+        "L'ensemble des règles relatives aux successions dans un pays",
+        "Le droit d'exercer l'autorité parentale"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Trois propositions désignent une prérogative individuelle.",
+        "Une proposition désigne un ensemble de règles applicables à tous, pas une prérogative individuelle.",
+        "« L'ensemble des règles relatives à... » correspond plutôt au droit objectif."
+      ],
+      "explication": "« L'ensemble des règles relatives aux successions dans un pays » désigne un ensemble de règles générales, donc du droit objectif, et non une prérogative individuelle. Les trois autres exemples (propriété, vote, autorité parentale) sont des droits subjectifs cités par la leçon."
+    },
+    {
+      "question": "En résumé, comment cette leçon invite-t-elle à aborder, à l'avenir, toute règle juridique qu'on rencontrera dans le programme ?",
+      "choix": [
+        "En se demandant si elle est écrite en français ou en malgache",
+        "En se demandant si elle relève du droit objectif (règle générale) ou si elle exprime un droit subjectif (prérogative individuelle), et en repérant le lien entre les deux",
+        "En l'apprenant par cœur sans chercher à la comprendre",
+        "En vérifiant uniquement sa date de publication"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'objectif pédagogique global de cette première leçon : quelle « grille de lecture » propose-t-elle pour la suite ?",
+        "La distinction droit objectif / droits subjectifs n'est pas qu'une définition isolée : c'est un outil d'analyse.",
+        "Cherchez la réponse qui transforme la distinction théorique en méthode de lecture pour les leçons suivantes."
+      ],
+      "explication": "Cette première leçon pose une grille de lecture utile pour tout le programme : face à une règle juridique, on peut se demander si elle relève du droit objectif (une règle générale et impersonnelle) ou si elle exprime un droit subjectif (une prérogative individuelle), et comment ces deux niveaux s'articulent. Cette méthode d'analyse sera réutilisée dans les leçons suivantes, consacrées notamment aux caractères de la règle de droit, à ses sources et à son application."
+    },
+    {
+      "question": "Une loi malgache dispose : « Toute personne a droit à la protection de sa vie privée ». Marie découvre que son voisin diffuse des photos d'elle sans son accord. Que peut-on dire de la situation de Marie ?",
+      "choix": [
+        "Marie n'a aucun droit subjectif car la règle est trop générale pour la concerner personnellement",
+        "La règle générale (droit objectif) reconnaît à Marie, comme à toute personne, un droit subjectif à la protection de sa vie privée, qu'elle peut faire valoir face à son voisin",
+        "Seul le voisin de Marie a un droit subjectif dans cette situation",
+        "Cette situation relève uniquement de la morale, pas du droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "« Toute personne a droit à... » est une formulation générale : à quelle catégorie appartient-elle ?",
+        "Cette règle générale s'applique-t-elle aussi à Marie en particulier ?",
+        "Pensez à l'exemple de Maria et de son terrain : une règle générale peut donner naissance à un droit individuel concret face à une personne précise."
+      ],
+      "explication": "« Toute personne a droit à la protection de sa vie privée » est une règle générale et impersonnelle : du droit objectif. Appliquée à la situation de Marie, elle lui reconnaît un droit subjectif concret à la protection de sa vie privée, qu'elle peut faire valoir face à son voisin, exactement comme Maria pouvait invoquer son droit de propriété face à son voisin empiétant sur son terrain."
+    },
+    {
+      "question": "Quelle phrase illustre une confusion entre droit objectif et droit subjectif ?",
+      "choix": [
+        "« La loi fixe les règles du mariage » (droit objectif) et « Jean a le droit de se marier avec Lucie dans ces conditions » (droit subjectif)",
+        "« Le droit de propriété de Rabe » (droit objectif) et « la loi sur la propriété » (droit subjectif)",
+        "« Tout salarié a droit à un salaire minimum » (droit objectif) et « Rasoa réclame le paiement de son salaire minimum » (droit subjectif)",
+        "« Le droit pénal réprime le vol » (droit objectif) et « la victime d'un vol peut porter plainte » (droit subjectif)"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans trois propositions, l'étiquette « droit objectif » correspond bien à une règle générale, et « droit subjectif » à une prérogative individuelle.",
+        "Dans une proposition, les étiquettes sont inversées par rapport à ce qu'elles devraient être.",
+        "« Le droit de propriété de Rabe » concerne une personne précise : est-ce vraiment du droit objectif ?"
+      ],
+      "explication": "Dans la deuxième proposition, les étiquettes sont inversées : « le droit de propriété de Rabe » est en réalité un droit subjectif (une prérogative individuelle de Rabe), tandis que « la loi sur la propriété » est en réalité du droit objectif (une règle générale). Les trois autres propositions associent correctement chaque exemple à la bonne catégorie."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Rakoto possède une rizière héritée de ses parents à Antsirabe. Une nouvelle loi sur le foncier impose désormais à tous les propriétaires de rizières de faire enregistrer leur terrain auprès du service topographique dans un délai de deux ans. Rakoto affirme : « Cette loi ne me concerne pas, c'est mon champ, j'en fais ce que je veux. » Quelle analyse juridique correcte peut-on faire de cette situation ?",
+      "choix": [
+        "Rakoto a raison : son droit de propriété (droit subjectif) lui permet d'ignorer toute règle objective",
+        "La nouvelle loi sur le foncier est une règle de droit objectif qui s'applique à Rakoto et qui vient encadrer l'exercice de son droit subjectif de propriété",
+        "La loi sur le foncier est un droit subjectif que Rakoto peut choisir d'exercer ou non",
+        "Il n'existe aucun lien entre la loi sur le foncier et le droit de propriété de Rakoto"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Identifiez d'abord ce qu'est la « nouvelle loi sur le foncier » : est-ce une règle générale (droit objectif) ou une prérogative individuelle (droit subjectif) ?",
+        "Rappelez-vous que le droit objectif a vocation à s'appliquer à tous, y compris à ceux qui sont déjà titulaires de droits subjectifs comme la propriété.",
+        "Pensez à la fonction du droit objectif : encadrer et délimiter l'exercice des droits subjectifs, sans nécessairement les supprimer."
+      ],
+      "explication": "La loi sur le foncier est une règle de droit objectif : générale, impersonnelle, applicable à tous les propriétaires de rizières. Le droit de propriété de Rakoto est un droit subjectif, mais ce droit subjectif est défini et encadré par le droit objectif. Rakoto reste propriétaire (son droit subjectif n'est pas supprimé), mais il doit respecter les règles que la société, à travers la loi, impose à l'exercice de ce droit. C'est exactement l'illustration du lien entre droit objectif et droits subjectifs : le premier délimite et organise le second."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Un étudiant en première année de droit affirme à ses camarades : « Le droit, c'est juste une liste de lois qu'on doit connaître par cœur. Les droits que j'ai personnellement, comme le droit de me marier ou le droit de créer mon entreprise, n'ont rien à voir avec ça, ce sont des choses complètement différentes. » En vous appuyant sur la distinction droit objectif / droits subjectifs, quelle analyse corrige le mieux cette affirmation ?",
+      "choix": [
+        "L'étudiant a entièrement raison : il s'agit de deux matières séparées qu'on étudie indépendamment",
+        "L'étudiant a tort sur tout : il n'existe en réalité qu'une seule notion de « droit », sans distinction possible",
+        "L'étudiant a raison de distinguer deux notions, mais a tort de penser qu'elles n'ont « rien à voir » : ses droits personnels (subjectifs) tirent justement leur existence et leurs limites du droit objectif (les lois)",
+        "L'étudiant confond le droit objectif avec la jurisprudence"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Cherchez ce qui, dans l'affirmation de l'étudiant, est juste, et ce qui est faux : il y a bien deux notions différentes, mais sont-elles vraiment sans rapport ?",
+        "Le droit de se marier ou de créer une entreprise : d'où ces droits subjectifs tirent-ils leur existence et leurs conditions d'exercice ?",
+        "Pensez à la relation d'« origine » décrite dans la leçon entre droit objectif et droits subjectifs."
+      ],
+      "explication": "L'étudiant a raison de percevoir une différence entre « le droit » comme ensemble de règles et « ses droits » comme prérogatives personnelles : c'est précisément la distinction entre droit objectif et droits subjectifs. Mais il a tort de dire qu'elles « n'ont rien à voir » l'une avec l'autre. Au contraire, c'est le droit objectif (les lois sur le mariage, sur la création d'entreprise) qui définit les conditions, l'existence et les limites de ses droits subjectifs (le droit de se marier, le droit de créer une entreprise). Les deux notions sont donc indissociables : ce sont, comme le dit la leçon, les deux faces d'un même miroir."
+    }
+  ]
+    }
