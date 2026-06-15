@@ -333,6 +333,31 @@ html, body {
   padding: 5px 12px; margin-left: 50px;
 }
 
+/* hearts */
+.quiz-hearts {
+  display: flex; gap: 3px; flex-shrink: 0;
+  font-size: 16px; line-height: 1; padding-bottom: 2px;
+}
+.quiz-hearts .heart-lost { opacity: 0.25; }
+
+/* review modal (à 0 cœur) */
+#review-modal {
+  position: fixed; inset: 0; z-index: 300;
+  background: rgba(13,27,42,0.93);
+  display: none; align-items: center; justify-content: center; padding: 24px;
+}
+#review-modal.show { display: flex; }
+.review-box {
+  margin: 18px 0 26px; padding: 16px 18px;
+  border-radius: 12px; border-left: 3px solid var(--gold);
+  background: var(--navy); text-align: left;
+}
+.review-box-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 14px; font-weight: 700; color: var(--gold-light); margin-bottom: 8px;
+}
+.review-box-text { font-size: 12.5px; line-height: 1.7; color: var(--cream-dim); }
+
 .quiz-body { padding: 8px 22px 24px; flex: 1; }
 .quiz-question {
   font-family: 'Playfair Display', Georgia, serif;
@@ -537,6 +562,7 @@ html, body {
         </div>
         <div class="quiz-progress-track"><div class="quiz-progress-fill" id="quiz-progress-fill"></div></div>
       </div>
+      <div class="quiz-hearts" id="quiz-hearts"></div>
     </div>
   </div>
   <div class="quiz-body">
@@ -547,6 +573,17 @@ html, body {
   </div>
   <div class="quiz-footer">
     <button class="btn-primary" id="btn-quiz-next" style="display:none" onclick="nextQuestion()">Continuer →</button>
+  </div>
+</div>
+
+<!-- RAPPEL DE COURS (à 0 cœur) -->
+<div id="review-modal">
+  <div class="lc-card">
+    <div class="lc-icon">📖</div>
+    <div class="lc-title">Petite pause révision</div>
+    <div class="lc-desc">Vous avez fait plusieurs erreurs d'affilée. Voici un rappel du cours qui peut vous aider avant de continuer.</div>
+    <div class="review-box" id="review-box"></div>
+    <button class="btn-primary" onclick="closeReview()">J'ai relu, je continue →</button>
   </div>
 </div>
 
@@ -918,7 +955,7 @@ function startQuiz() {
   const l = formations[curNiveau].modules[curModule].lecons[curLecon];
   loadLeconData(l, (data) => {
     if (!data || data.error || !data.quiz) return;
-    quizState = { type: 'quiz', questions: data.quiz, index: 0, wrongCount: 0, answered: false };
+    quizState = { type: 'quiz', questions: data.quiz, index: 0, wrongCount: 0, answered: false, hearts: 3, lecon: data };
     renderQuestion();
     showScreen('screen-quiz');
   });
@@ -928,10 +965,20 @@ function startExercices() {
   const l = formations[curNiveau].modules[curModule].lecons[curLecon];
   loadLeconData(l, (data) => {
     if (!data || data.error || !data.exercices) return;
-    quizState = { type: 'exercices', questions: data.exercices, index: 0, wrongCount: 0, answered: false };
+    const hearts = (quizState && quizState.hearts !== undefined) ? quizState.hearts : 3;
+    quizState = { type: 'exercices', questions: data.exercices, index: 0, wrongCount: 0, answered: false, hearts: hearts, lecon: data };
     renderQuestion();
     showScreen('screen-quiz');
   });
+}
+
+function renderHearts() {
+  const el = document.getElementById('quiz-hearts');
+  let html = '';
+  for (let i=0;i<3;i++) {
+    html += '<span class="'+(i < quizState.hearts ? '' : 'heart-lost')+'">❤️</span>';
+  }
+  el.innerHTML = html;
 }
 
 function renderQuestion() {
@@ -942,6 +989,7 @@ function renderQuestion() {
     quizState.type === 'quiz' ? 'Quiz' : 'Exercices';
   document.getElementById('quiz-progress-text').textContent = (quizState.index+1)+' / '+total;
   document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index)/total)*100)+'%';
+  renderHearts();
 
   document.getElementById('quiz-question').textContent = q.question;
 
@@ -994,6 +1042,13 @@ function selectAnswer(ci) {
     setTimeout(() => { choiceDivs[ci].classList.remove('wrong'); choiceDivs[ci].style.opacity = '0.4'; }, 600);
 
     quizState.wrongCount++;
+
+    // on perd un cœur à chaque erreur (jusqu'à 0)
+    if (quizState.hearts > 0) {
+      quizState.hearts--;
+      renderHearts();
+    }
+
     const hintArea = document.getElementById('quiz-hint-area');
 
     if (quizState.wrongCount <= 3 && q.indices[quizState.wrongCount-1]) {
@@ -1023,9 +1078,45 @@ function selectAnswer(ci) {
       nextBtn.style.display = 'block';
       nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
     }
+
+    // à 0 cœur : on propose une pause révision avant de pouvoir continuer
+    if (quizState.hearts <= 0) {
+      showReview();
+    }
   }
 }
 const letters_global = ['A','B','C','D','E','F'];
+
+/* ═══════════════════════════════════════════
+   PAUSE RÉVISION (à 0 cœur)
+   ═══════════════════════════════════════════ */
+function showReview() {
+  const lecon = quizState.lecon;
+  const box = document.getElementById('review-box');
+  box.innerHTML = '';
+
+  const sections = (lecon && lecon.contenu) ? lecon.contenu : [];
+  if (sections.length > 0) {
+    // section aléatoire du cours pour réviser
+    const sec = sections[Math.floor(Math.random() * sections.length)];
+    box.innerHTML =
+      '<div class="review-box-title"></div><div class="review-box-text"></div>';
+    box.querySelector('.review-box-title').textContent = sec.titre;
+    box.querySelector('.review-box-text').textContent = sec.texte;
+  } else {
+    box.innerHTML = '<div class="review-box-text">Reprenez votre souffle, puis continuez tranquillement.</div>';
+  }
+
+  // empêche de répondre tant que la révision n'est pas fermée
+  document.getElementById('review-modal').classList.add('show');
+}
+
+function closeReview() {
+  document.getElementById('review-modal').classList.remove('show');
+  // les cœurs se rechargent après la pause révision
+  quizState.hearts = 3;
+  renderHearts();
+}
 
 function nextQuestion() {
   const total = quizState.questions.length;
