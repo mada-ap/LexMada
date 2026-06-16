@@ -1,0 +1,896 @@
+{
+  "titre": "Les sources d'interprétation du droit : comment comprendre et appliquer la loi ?",
+  "module": "Module 5 — Les sources d'interprétation du droit",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Le problème de départ : la loi ne peut pas tout prévoir",
+      "texte": "Imaginez un législateur qui rédige une loi. Il fait de son mieux pour être clair et précis. Mais il ne peut pas prévoir toutes les situations qui se présenteront dans les années ou les décennies à venir. La vie est plus riche, plus complexe, plus imprévisible que n'importe quel texte. Résultat : il arrive régulièrement qu'on se retrouve devant une loi dont le sens n'est pas clair, ou qui ne dit rien sur la situation précise qu'on doit régler. C'est là qu'intervient l'interprétation. Interpréter une loi, c'est chercher à comprendre son sens exact pour pouvoir l'appliquer correctement à une situation concrète. Ce n'est pas inventer du droit. Ce n'est pas non plus ignorer la loi. C'est se demander : que veut dire ce texte, et comment s'applique-t-il ici ?",
+      "definition": "Interprétation juridique : opération intellectuelle qui consiste à dégager le sens exact d'une règle de droit pour l'appliquer correctement à une situation concrète. Elle intervient quand le texte est obscur, incomplet, ambigu, ou quand la situation n'a pas été prévue par le législateur.",
+      "exemple": "Une loi malgache interdit d'introduire des « animaux » dans les transports en commun. Un passager monte dans un bus avec un poisson rouge dans un bocal. Est-ce un « animal » au sens de cette loi ? Le chauffeur doit interpréter. Un chat ? Évidemment oui. Un poisson dans un bocal fermé ? Le texte ne le précise pas. C'est le problème de l'interprétation."
+    },
+    {
+      "titre": "Pourquoi la loi est-elle souvent difficile à comprendre ?",
+      "texte": "Il y a plusieurs raisons pour lesquelles une loi peut poser des problèmes d'interprétation. Première raison : les mots sont imprécis par nature. Le langage humain n'est jamais parfaitement clair. Un même mot peut avoir plusieurs sens selon le contexte. Deuxième raison : la loi est rédigée en termes généraux et abstraits, par définition. Elle ne peut pas décrire chaque situation possible. Elle pose des principes, et c'est au juge de les appliquer aux cas concrets. Troisième raison : la société évolue. Une loi rédigée il y a vingt ans n'a pas prévu les nouvelles technologies, les nouveaux comportements, les nouvelles réalités économiques ou sociales. Quatrième raison : les lois peuvent se contredire entre elles, ou une loi ancienne peut entrer en conflit avec une loi nouvelle. Cinquième raison : le législateur lui-même peut avoir mal rédigé le texte, laissé des lacunes, ou utilisé des termes ambigus sans le vouloir. Pour toutes ces raisons, l'interprétation n'est pas un luxe réservé aux grandes affaires compliquées. C'est une nécessité quotidienne pour quiconque applique le droit.",
+      "definition": "Lacune de la loi : situation que la loi n'a pas prévue et pour laquelle aucune règle écrite ne donne de réponse directe. Ambiguïté : situation où le texte de loi peut être compris de plusieurs façons différentes. Dans les deux cas, une interprétation est nécessaire."
+    },
+    {
+      "titre": "Qui interprète la loi ?",
+      "texte": "L'interprétation n'est pas réservée à une seule personne. Plusieurs acteurs du monde juridique sont amenés à interpréter les textes, chacun à sa place. Le juge est l'interprète principal. Quand un litige lui est soumis, il doit appliquer la loi à la situation concrète qui lui est présentée. Si le texte n'est pas clair, il doit l'interpréter pour rendre sa décision. Il ne peut pas refuser de juger sous prétexte que la loi est obscure. L'avocat interprète aussi la loi, mais dans l'intérêt de son client. Il cherche l'interprétation qui favorise sa partie. C'est son rôle dans le système contradictoire. Le législateur lui-même peut interpréter ses propres lois. On appelle cela l'interprétation authentique : le Parlement vote une nouvelle loi pour clarifier le sens d'une loi antérieure. Cette interprétation s'impose à tous. La doctrine — les professeurs, les juristes — interprète aussi la loi dans leurs écrits et leurs enseignements. Sans force contraignante, mais avec une influence réelle sur les juges et le législateur. L'administration, enfin, interprète les textes au quotidien pour les appliquer dans ses décisions.",
+      "definition": "Interprétation authentique : interprétation donnée par le législateur lui-même, via un nouveau texte de loi qui précise le sens d'une loi antérieure. C'est la seule interprétation qui s'impose avec force obligatoire à tous, y compris aux juges.",
+      "exemple": "Le Parlement malgache vote une loi sur le commerce électronique mais oublie de préciser si elle s'applique aux ventes entre particuliers via les réseaux sociaux. Quelques années plus tard, un litige éclate. Le juge doit interpréter. Pendant ce temps, le Parlement vote une nouvelle loi pour clarifier le point — c'est l'interprétation authentique, qui s'imposera désormais à tout le monde."
+    },
+    {
+      "titre": "Première méthode : l'interprétation littérale — lire ce qui est écrit",
+      "texte": "La première méthode d'interprétation est la plus naturelle : on lit le texte tel qu'il est écrit, et on applique le sens ordinaire des mots. C'est ce qu'on appelle l'interprétation littérale, ou encore le textualisme. Le principe est simple : si les mots d'une loi sont clairs, on les applique tels quels, sans chercher à aller plus loin. Le sens ordinaire des mots — celui qu'un lecteur raisonnable comprendrait — suffit. Pourquoi cette méthode est-elle importante ? Parce qu'elle respecte ce que le législateur a écrit. Le Parlement a choisi des mots précis. Les ignorer ou les contourner au nom d'une interprétation plus créative, c'est risquer de trahir la volonté du législateur. Cette méthode favorise aussi la sécurité juridique : si la loi est appliquée selon son sens ordinaire, tout le monde peut prévoir comment elle sera interprétée. Mais cette méthode a ses limites. Le sens ordinaire des mots n'est pas toujours évident. Et parfois, appliquer les mots à la lettre aboutit à un résultat absurde ou injuste que le législateur n'aurait jamais voulu.",
+      "definition": "Interprétation littérale : méthode qui consiste à appliquer le sens ordinaire des mots tels qu'ils sont écrits dans le texte de loi. Elle est utilisée en priorité quand le texte est clair. Elle favorise la sécurité juridique mais peut aboutir à des résultats absurdes si appliquée de façon rigide.",
+      "exemple": "Une loi malgache prévoit que « tout véhicule doit s'arrêter au feu rouge ». Un conducteur de trottinette électrique passe au feu rouge. Est-il visé par cette loi ? L'interprétation littérale demandera : une trottinette est-elle un « véhicule » au sens ordinaire du terme ? Si le dictionnaire et l'usage courant répondent oui, la réponse est oui."
+    },
+    {
+      "titre": "Deuxième méthode : l'interprétation historique — chercher ce que le législateur voulait",
+      "texte": "Quand le sens des mots ne suffit pas, on peut chercher ce que le législateur avait en tête au moment où il a rédigé la loi. C'est l'interprétation historique, aussi appelée méthode exégétique. Pour cela, l'interprète examine les travaux préparatoires : les débats parlementaires, les rapports des commissions, les exposés des motifs, les amendements qui ont été acceptés ou rejetés. Ces documents permettent de reconstituer l'intention originelle du législateur — ce qu'il voulait résoudre, quel problème il avait en tête, quel sens il donnait aux mots qu'il a choisis. Cette méthode est utile quand le texte est ambigu. Si le Parlement a débattu longuement d'un point précis et a finalement retenu une formulation particulière, cette formulation a un sens voulu. En chercher un autre serait ignorer le travail du législateur. Mais cette méthode a aussi ses limites : les travaux préparatoires peuvent être eux-mêmes confus ou contradictoires. Et elle ne permet pas de faire évoluer le droit avec la société : si on s'attache toujours à l'intention d'origine, une loi de 1960 restera toujours interprétée comme si on était en 1960.",
+      "definition": "Interprétation historique (ou exégétique) : méthode qui consiste à rechercher l'intention originelle du législateur au moment de la rédaction de la loi, en étudiant les travaux préparatoires (débats parlementaires, exposés des motifs, rapports de commission).",
+      "exemple": "Une loi malgache sur la propriété foncière utilise le mot « exploitation ». Veut-elle dire exploitation agricole, ou toute mise en valeur économique d'un terrain ? En lisant le rapport de la commission parlementaire qui a rédigé cette loi, on trouve que les débats portaient exclusivement sur l'agriculture. L'interprétation historique conclut que « exploitation » vise l'usage agricole uniquement."
+    },
+    {
+      "titre": "Troisième méthode : l'interprétation téléologique — chercher le but de la loi",
+      "texte": "La méthode téléologique est peut-être la plus importante en pratique. Le mot « téléologique » vient du grec telos, qui signifie « but ». L'idée est simple : plutôt que de s'accrocher aux mots ou à l'intention d'origine, on cherche le but que la loi cherche à atteindre. Quel problème voulait-on résoudre ? Quelle valeur voulait-on protéger ? Quel intérêt voulait-on défendre ? On applique ensuite la loi de façon à réaliser ce but. Cette méthode est particulièrement utile quand la société a évolué depuis la rédaction de la loi. Si une loi ancienne protégeait la « correspondance privée », son but était de protéger la vie privée des personnes. Aujourd'hui, la « correspondance » ne se fait plus seulement par lettre mais aussi par e-mail, par message, par application. L'interprétation téléologique permet d'étendre la protection à ces nouveaux moyens, car le but — protéger la vie privée — est le même. La méthode téléologique est celle qui donne le plus de souplesse au juge. Mais elle lui donne aussi le plus de pouvoir : en décidant quel est le but d'une loi, le juge peut élargir ou restreindre considérablement son champ d'application.",
+      "definition": "Interprétation téléologique : méthode qui consiste à rechercher le but, l'objectif ou la finalité de la loi pour l'appliquer de façon à réaliser cet objectif. Elle permet au droit de s'adapter à l'évolution de la société sans que le législateur ait besoin de modifier le texte.",
+      "exemple": "Une loi malgache protège le « domicile » des personnes contre les perquisitions abusives. Au moment de sa rédaction, le domicile désignait la maison physique. Aujourd'hui, un juge interprète téléologiquement : le but de la loi est de protéger l'espace privé de la personne. Il étend donc cette protection aux données personnelles stockées sur un téléphone, car elles font partie de la sphère privée au même titre que la maison."
+    },
+    {
+      "titre": "Quatrième méthode : l'interprétation systémique — lire la loi dans son contexte",
+      "texte": "Une loi ne vit pas seule. Elle fait partie d'un ensemble — le système juridique — qui comprend d'autres lois, d'autres textes, d'autres principes. L'interprétation systémique consiste à lire une disposition légale non pas isolément, mais en tenant compte de l'ensemble du système dans lequel elle s'insère. Concrètement, cela signifie plusieurs choses. D'abord, une loi doit être interprétée en cohérence avec les autres dispositions du même texte : si un article d'une loi n'est pas clair, les autres articles de la même loi peuvent l'éclairer. Ensuite, une loi doit être interprétée en cohérence avec les autres lois du même domaine : le droit du travail, le droit civil, le droit commercial forment des ensembles cohérents, et une disposition nouvelle doit s'y intégrer sans contradiction. Enfin, toute loi doit être interprétée en cohérence avec la Constitution et les traités internationaux : si une interprétation d'une loi ordinaire la rend contraire à la Constitution, il faut préférer l'interprétation qui la rend conforme. C'est ce qu'on appelle l'interprétation conforme.",
+      "definition": "Interprétation systémique : méthode qui consiste à interpréter une disposition légale en tenant compte de l'ensemble du système juridique dans lequel elle s'insère — les autres articles du même texte, les autres lois du même domaine, et surtout la Constitution. L'interprétation conforme à la Constitution est une obligation pour le juge.",
+      "exemple": "Une loi malgache sur les contrats commerciaux emploie un terme ambigu. Le juge hésite entre deux sens possibles. L'un des deux sens est compatible avec le Code civil malgache, l'autre le contredit. Le juge applique l'interprétation systémique : il choisit le sens compatible avec l'ensemble du système juridique, car le droit doit être cohérent."
+    },
+    {
+      "titre": "Les méthodes ne s'excluent pas : le juge les combine",
+      "texte": "Il est important de comprendre que ces quatre méthodes ne sont pas des cases fermées dans lesquelles on choisit l'une ou l'autre. En pratique, le juge les utilise ensemble, en les combinant selon les besoins de la situation. Il commence souvent par lire le texte tel qu'il est écrit (méthode littérale). Si le sens est clair, il s'arrête là. Si ce n'est pas le cas, il cherche ce que le législateur voulait dire (méthode historique), quel était le but de la loi (méthode téléologique), et comment cette loi s'intègre dans l'ensemble du système (méthode systémique). Aucune méthode n'est supérieure aux autres dans l'absolu. Chaque méthode a ses avantages et ses inconvénients. Le bon interprète est celui qui sait les manier avec intelligence selon la situation, en gardant toujours à l'esprit un objectif : aboutir à une solution juste, raisonnable et cohérente avec l'esprit du droit.",
+      "exemple": "Un juge est saisi d'un litige sur une loi malgache protégeant les « œuvres de l'esprit ». Un compositeur revendique la protection de sa musique créée à l'aide d'un logiciel d'intelligence artificielle. Le juge : 1) lit le texte — il ne mentionne pas l'IA (méthode littérale, insuffisante) ; 2) consulte les travaux préparatoires — ils ne l'évoquent pas non plus (méthode historique, lacune) ; 3) cherche le but de la loi — protéger la création intellectuelle (méthode téléologique) ; 4) vérifie la cohérence avec le système — la loi sur le droit d'auteur (méthode systémique). Il combine tout pour rendre sa décision."
+    },
+    {
+      "titre": "Les principes qui guident l'interprétation",
+      "texte": "Au-delà des quatre grandes méthodes, il existe des principes classiques qui guident les interprètes et aident à résoudre les conflits entre règles. Premier principe : la loi spéciale déroge à la loi générale. Si une loi générale et une loi spéciale sur le même sujet se contredisent, c'est la loi spéciale qui s'applique. Par exemple, une règle générale sur les contrats cède devant une règle spéciale sur les contrats de travail. Deuxième principe : la loi nouvelle déroge à la loi ancienne. Si deux lois se contredisent et que l'une est plus récente, c'est la plus récente qui s'applique, car le législateur a voulu remplacer l'ancienne règle. Troisième principe : la loi supérieure déroge à la loi inférieure. C'est la hiérarchie des normes vue dans la leçon précédente : la Constitution prime sur la loi, la loi prime sur le règlement. Quatrième principe : on ne peut pas interpréter là où il n'y a pas lieu de le faire. Si le texte est clair, on l'applique tel quel sans chercher à l'interpréter. Interpréter un texte clair, c'est risquer de le déformer. Ces principes sont des guides, pas des règles absolues. Ils aident à trancher quand deux règles ou deux interprétations s'affrontent.",
+      "definition": "Principes d'interprétation : règles de bon sens qui guident le travail de l'interprète. Les principaux : loi spéciale > loi générale ; loi nouvelle > loi ancienne ; loi supérieure > loi inférieure ; texte clair = pas d'interprétation nécessaire."
+    },
+    {
+      "titre": "Interpréter strictement ou largement : la question du champ d'application",
+      "texte": "Une autre question importante en matière d'interprétation est de savoir si une règle doit être interprétée strictement (de façon restrictive, en limitant son champ d'application) ou largement (de façon extensive, en étendant son champ d'application à des situations que le texte ne mentionne pas explicitement). La règle générale est que les exceptions s'interprètent strictement. Si la loi prévoit un droit général, puis une exception à ce droit, cette exception ne doit pas être étendue au-delà de ce qu'elle dit. On ne peut pas créer de nouvelles exceptions par interprétation. À l'inverse, les règles protectrices des droits fondamentaux et des personnes vulnérables ont tendance à être interprétées largement, pour que leur protection soit réelle et effective. Par exemple, les règles protégeant les consommateurs, les salariés ou les enfants sont généralement interprétées de façon à étendre leur protection, car c'est le but que le législateur poursuivait.",
+      "definition": "Interprétation stricte (restrictive) : on limite le champ d'application de la règle à ce qu'elle dit explicitement, sans l'étendre. Elle s'applique notamment aux exceptions et aux sanctions pénales. Interprétation large (extensive) : on étend le champ d'application de la règle à des situations similaires non expressément prévues. Elle s'applique notamment aux règles protectrices de personnes vulnérables.",
+      "exemple": "Une loi malgache prévoit que les salariés ont droit à un congé payé « en cas de mariage ». Un salarié demande ce congé pour le mariage coutumier (fiançailles officielles selon la tradition malgache). La loi ne mentionne que le « mariage ». Doit-on l'interpréter strictement (mariage civil uniquement) ou largement (toute union reconnue socialement) ? La réponse dépend du but de la loi et du contexte culturel malgache."
+    },
+    {
+      "titre": "Les limites de l'interprétation : le juge n'est pas le législateur",
+      "texte": "L'interprétation est nécessaire, mais elle a des limites très importantes. Le juge interprète la loi — il ne la remplace pas. Il ne peut pas, sous prétexte d'interpréter, créer une règle entièrement nouvelle qui n'a aucun lien avec le texte. Il ne peut pas non plus refuser d'appliquer une loi parce qu'il la trouve injuste — sauf si elle est contraire à la Constitution ou à un traité. En droit pénal, cette limite est particulièrement stricte. Il existe un principe fondamental : nullum crimen, nulla poena sine lege — pas de crime, pas de peine sans loi. En matière pénale, les textes qui définissent les infractions et les peines doivent être interprétés strictement. On ne peut pas condamner quelqu'un pour un acte que la loi n'a pas prévu, même si cet acte ressemble à un acte interdit. Et enfin, quand le juge crée réellement une solution nouvelle par son interprétation, il ne faut pas oublier que cette solution peut être corrigée par le législateur : si la jurisprudence développe une interprétation que le Parlement désapprouve, le Parlement peut voter une nouvelle loi pour y mettre fin.",
+      "definition": "Limites de l'interprétation : le juge ne peut pas créer de règles entièrement nouvelles, il ne peut pas refuser d'appliquer une loi valide, et en matière pénale, il doit interpréter strictement les textes (principe de légalité des infractions et des peines). L'interprétation judiciaire peut toujours être corrigée par une loi nouvelle du Parlement."
+    },
+    {
+      "titre": "L'interprétation dans le contexte malgache",
+      "texte": "À Madagascar, l'interprétation du droit présente des particularités importantes. Le système juridique malgache est un système de droit écrit, héritier de la tradition juridique française, dans lequel le juge est en principe soumis à la loi. Mais la réalité est plus nuancée. Madagascar a une tradition juridique propre, avec des coutumes locales très vivaces, des pratiques communautaires solides, et une diversité culturelle et linguistique importante. Cette réalité oblige souvent les juges à interpréter les textes en tenant compte du contexte local, des pratiques coutumières et des réalités sociales malgaches. Par exemple, la notion de famille, de propriété, de mariage ou d'héritier peut avoir des contours différents selon les régions et les traditions de Madagascar. Un juge qui interprète une loi sur les successions sans tenir compte de ces réalités risque de rendre une décision qui, bien que juridiquement correcte sur le papier, sera incomprise ou inapplicable dans la communauté concernée. L'interprétation juridique à Madagascar ne peut donc pas ignorer la dimension culturelle et coutumière de la société.",
+      "exemple": "Une loi malgache fixe les règles de succession. Dans une région rurale, la communauté reconnaît un droit particulier à l'aîné sur les terres ancestrales selon la coutume locale. La loi écrite ne le prévoit pas. Le juge doit interpréter la loi en tenant compte de cette réalité coutumière, en cherchant une solution qui respecte à la fois le texte écrit et le tissu social de la communauté."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce qu'interpréter une loi ?",
+      "choix": [
+        "Inventer une nouvelle règle quand la loi ne dit rien",
+        "Dégager le sens exact d'une règle de droit pour l'appliquer correctement à une situation concrète",
+        "Refuser d'appliquer une loi qu'on trouve injuste",
+        "Traduire la loi dans une autre langue"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Interpréter, c'est chercher le sens — pas inventer.",
+        "La leçon dit que c'est une opération intellectuelle pour appliquer correctement une règle.",
+        "Le but est de comprendre ce que le texte veut dire pour l'appliquer à un cas concret."
+      ],
+      "explication": "Interpréter une loi, c'est dégager son sens exact pour l'appliquer correctement à une situation concrète. Ce n'est pas inventer du droit, ni ignorer la loi. C'est répondre à la question : que veut dire ce texte, et comment s'applique-t-il ici ?"
+    },
+    {
+      "question": "Pourquoi l'interprétation est-elle nécessaire ?",
+      "choix": [
+        "Parce que les juges n'aiment pas lire les lois",
+        "Parce que la loi est rédigée en termes généraux et ne peut pas prévoir toutes les situations concrètes qui se présenteront",
+        "Parce que les lois sont toujours mal rédigées",
+        "Parce que l'interprétation remplace la loi quand celle-ci est absente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi est écrite pour des situations générales, pas pour chaque cas particulier.",
+        "La société évolue, les situations nouvelles ne correspondent pas toujours aux textes anciens.",
+        "Le législateur ne peut pas tout prévoir."
+      ],
+      "explication": "L'interprétation est nécessaire parce que la loi est rédigée en termes généraux et abstraits, et ne peut pas prévoir toutes les situations concrètes. De plus, la société évolue, et des situations nouvelles apparaissent que le législateur n'a pas anticipées. L'interprétation permet de combler ces lacunes et de donner sens aux ambiguïtés."
+    },
+    {
+      "question": "Un passager monte dans un bus avec un poisson rouge dans un bocal. La loi interdit d'introduire des « animaux » dans les transports en commun. Quel est le problème juridique illustré ici ?",
+      "choix": [
+        "Un problème de droit pénal",
+        "Un problème d'interprétation : le mot « animal » dans la loi couvre-t-il un poisson dans un bocal fermé ?",
+        "Un problème de hiérarchie des normes",
+        "Un problème de source du droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce n'est pas une infraction grave — c'est une question de sens des mots.",
+        "La loi est claire pour un chat ou un chien, mais que dire d'un poisson dans un bocal ?",
+        "La leçon donne cet exemple précis pour illustrer le problème de l'interprétation."
+      ],
+      "explication": "C'est un problème d'interprétation. La loi utilise le mot « animal » sans préciser tous les cas possibles. Un chat ou un chien : clairement visés. Un poisson dans un bocal fermé : le texte ne le dit pas. Pour savoir si la règle s'applique, il faut interpréter le sens du mot « animal » dans le contexte de cette loi."
+    },
+    {
+      "question": "Parmi ces raisons, laquelle explique pourquoi une loi peut être difficile à comprendre ?",
+      "choix": [
+        "Les lois sont écrites en langage secret",
+        "Les mots sont imprécis par nature et la société évolue après la rédaction de la loi",
+        "Les juges refusent de lire les lois",
+        "Le législateur écrit toujours mal exprès"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon liste cinq raisons pour lesquelles une loi peut poser des problèmes.",
+        "Le langage humain n'est jamais parfaitement précis.",
+        "Une loi de 1990 n'a pas prévu l'internet ou les téléphones portables."
+      ],
+      "explication": "Deux des grandes raisons pour lesquelles une loi est difficile à comprendre sont : les mots sont imprécis par nature (un même mot peut avoir plusieurs sens), et la société évolue après la rédaction de la loi (des situations nouvelles apparaissent que le législateur n'a pas prévues). L'interprétation permet de surmonter ces difficultés."
+    },
+    {
+      "question": "Qu'est-ce qu'une lacune de la loi ?",
+      "choix": [
+        "Une erreur de grammaire dans un texte de loi",
+        "Une situation que la loi n'a pas prévue et pour laquelle aucune règle écrite ne donne de réponse directe",
+        "Une loi qui a été abrogée",
+        "Un article de loi qui contredit la Constitution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une lacune, c'est un manque, un vide.",
+        "Quand la loi ne dit rien sur une situation, on parle de lacune.",
+        "La leçon définit ce terme précisément."
+      ],
+      "explication": "Une lacune de la loi est une situation que la loi n'a pas prévue et pour laquelle aucune règle écrite ne donne de réponse directe. Face à une lacune, le juge ne peut pas refuser de juger : il doit interpréter pour trouver la solution la plus adaptée."
+    },
+    {
+      "question": "Qui est l'interprète principal de la loi ?",
+      "choix": [
+        "Le Président de la République",
+        "Le juge, car il doit appliquer la loi à des situations concrètes et ne peut pas refuser de juger",
+        "Le professeur de droit",
+        "L'avocat de la partie gagnante"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est l'acteur dont la décision a force obligatoire.",
+        "La leçon dit qu'il ne peut pas refuser de juger sous prétexte que la loi est obscure.",
+        "Son interprétation est celle qui tranche le litige."
+      ],
+      "explication": "Le juge est l'interprète principal de la loi. Quand un litige lui est soumis, il doit appliquer la loi à la situation concrète. Si le texte n'est pas clair, il doit l'interpréter pour rendre sa décision. Il ne peut pas refuser de juger sous prétexte que la loi est obscure ou incomplète."
+    },
+    {
+      "question": "Qu'est-ce que l'interprétation authentique ?",
+      "choix": [
+        "L'interprétation faite par les professeurs de droit dans leurs manuels",
+        "L'interprétation donnée par le législateur lui-même via un nouveau texte de loi qui précise le sens d'une loi antérieure",
+        "L'interprétation faite par le juge de la Cour suprême",
+        "L'interprétation qui respecte le sens littéral des mots"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Authentique vient d'auteur : c'est l'auteur de la loi qui l'interprète.",
+        "L'auteur de la loi, c'est le législateur — le Parlement.",
+        "Cette interprétation s'impose à tout le monde, y compris aux juges."
+      ],
+      "explication": "L'interprétation authentique est celle donnée par le législateur lui-même, via un nouveau texte de loi qui clarifie le sens d'une loi antérieure ambiguë. C'est la seule interprétation qui s'impose avec force obligatoire à tous, y compris aux juges. Elle est dite « authentique » parce qu'elle vient de l'auteur même de la règle."
+    },
+    {
+      "question": "En quoi consiste l'interprétation littérale ?",
+      "choix": [
+        "Appliquer la loi selon le but qu'elle cherche à atteindre",
+        "Rechercher ce que le législateur voulait dire à l'époque",
+        "Appliquer le sens ordinaire des mots tels qu'ils sont écrits dans le texte",
+        "Lire la loi en tenant compte de l'ensemble du système juridique"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Littéral vient de littera, qui signifie lettre. On lit ce qui est écrit.",
+        "Si les mots sont clairs, on les applique tels quels.",
+        "C'est la première méthode naturelle : lire ce qui est écrit."
+      ],
+      "explication": "L'interprétation littérale consiste à appliquer le sens ordinaire des mots tels qu'ils sont écrits dans le texte de loi. Si les mots sont clairs, on les applique tels quels, sans chercher à aller plus loin. C'est la méthode de base, celle qu'on utilise en priorité quand le texte est clair."
+    },
+    {
+      "question": "Quel est l'avantage principal de l'interprétation littérale ?",
+      "choix": [
+        "Elle permet au juge d'adapter la loi aux réalités modernes",
+        "Elle favorise la sécurité juridique : le sens ordinaire des mots est prévisible pour tous",
+        "Elle permet de corriger les erreurs du législateur",
+        "Elle donne plus de pouvoir aux juges"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La sécurité juridique, c'est la possibilité de prévoir comment la loi sera appliquée.",
+        "Si on applique le sens ordinaire, tout le monde peut anticiper la décision du juge.",
+        "C'est l'un des avantages mentionnés dans la leçon."
+      ],
+      "explication": "L'avantage principal de l'interprétation littérale est qu'elle favorise la sécurité juridique : en appliquant le sens ordinaire des mots, les décisions du juge deviennent prévisibles. Tout le monde peut anticiper comment la loi sera appliquée, ce qui est essentiel pour que les citoyens puissent régler leurs comportements en conséquence."
+    },
+    {
+      "question": "Quelle est la limite de l'interprétation littérale ?",
+      "choix": [
+        "Elle est trop compliquée pour les juges ordinaires",
+        "Elle peut aboutir à un résultat absurde ou injuste que le législateur n'aurait jamais voulu",
+        "Elle ne peut être utilisée que par la Cour suprême",
+        "Elle est interdite dans les pays africains"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne cette limite expressément.",
+        "Parfois, appliquer les mots à la lettre donne un résultat que personne n'a voulu.",
+        "Pensez à une situation absurde où le sens ordinaire d'un mot mène à une injustice évidente."
+      ],
+      "explication": "La limite de l'interprétation littérale est qu'elle peut aboutir à un résultat absurde ou injuste que le législateur n'aurait jamais voulu. Parfois, le sens ordinaire des mots, appliqué rigidement, mène à des situations illogiques. Dans ce cas, il faut recourir à d'autres méthodes d'interprétation."
+    },
+    {
+      "question": "Qu'est-ce que l'interprétation historique ?",
+      "choix": [
+        "Interpréter la loi selon son ancienneté",
+        "Rechercher l'intention originelle du législateur au moment de la rédaction de la loi, en étudiant les travaux préparatoires",
+        "Appliquer les coutumes historiques du pays",
+        "Interpréter la loi selon les grands principes historiques du droit romain"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Historique renvoie à l'époque de la rédaction de la loi.",
+        "On cherche ce que le législateur avait en tête au moment où il a écrit le texte.",
+        "Les travaux préparatoires (débats parlementaires, rapports) sont les outils de cette méthode."
+      ],
+      "explication": "L'interprétation historique consiste à rechercher l'intention originelle du législateur au moment de la rédaction de la loi, en étudiant les travaux préparatoires : débats parlementaires, exposés des motifs, rapports de commission. Cette méthode est utile quand le texte est ambigu et qu'on veut savoir ce que le législateur voulait réellement dire."
+    },
+    {
+      "question": "Qu'appelle-t-on les « travaux préparatoires » d'une loi ?",
+      "choix": [
+        "Les projets de construction des bâtiments publics financés par la loi",
+        "Les documents produits lors de l'élaboration d'une loi : débats parlementaires, rapports de commission, exposés des motifs",
+        "Les règlements d'application qui suivent la promulgation d'une loi",
+        "Les manuels de droit publiés après la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces documents existent avant la loi définitive — ils préparent son adoption.",
+        "On y trouve les débats, les amendements, les rapports qui ont précédé le vote.",
+        "Ils permettent de comprendre ce que les parlementaires avaient en tête."
+      ],
+      "explication": "Les travaux préparatoires sont les documents produits pendant le processus d'élaboration d'une loi : les débats parlementaires, les rapports des commissions, les exposés des motifs, les amendements acceptés ou rejetés. En les étudiant, on peut reconstituer l'intention du législateur et comprendre pourquoi certains mots ont été choisis."
+    },
+    {
+      "question": "Quelle est la limite principale de l'interprétation historique ?",
+      "choix": [
+        "Les travaux préparatoires sont souvent en langue étrangère",
+        "Elle ne permet pas de faire évoluer le droit avec la société : en s'attachant à l'intention d'origine, une loi ancienne reste toujours interprétée comme si on était à l'époque de sa rédaction",
+        "Elle est trop longue à mettre en œuvre",
+        "Elle n'est reconnue que dans les pays anglo-saxons"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Si on s'attache toujours à ce que voulait le législateur en 1960, que se passe-t-il pour les situations nouvelles ?",
+        "La société change, les technologies évoluent, mais l'intention d'origine reste figée.",
+        "La leçon mentionne cette limite précisément."
+      ],
+      "explication": "La limite principale de l'interprétation historique est qu'elle ne permet pas de faire évoluer le droit avec la société. Si on s'attache toujours à l'intention originelle du législateur, une loi ancienne restera interprétée selon les réalités de son époque, même si la société a profondément changé depuis. Cette méthode peut aboutir à des solutions dépassées."
+    },
+    {
+      "question": "Que signifie le mot « téléologique » dans l'expression « interprétation téléologique » ?",
+      "choix": [
+        "Relatif au téléphone — on interprète la loi par communication orale",
+        "Relatif au but — le mot vient du grec telos qui signifie fin, objectif",
+        "Relatif au territoire — on interprète selon la région où la loi s'applique",
+        "Relatif au texte — on lit le texte tel qu'il est écrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon explique l'origine du mot.",
+        "Telos en grec signifie but, fin, objectif.",
+        "Cette méthode cherche ce que la loi veut accomplir."
+      ],
+      "explication": "Le mot téléologique vient du grec telos, qui signifie but, fin, objectif. L'interprétation téléologique consiste à rechercher le but que la loi cherche à atteindre, le problème qu'elle voulait résoudre, la valeur qu'elle voulait protéger, et à appliquer la loi de façon à réaliser cet objectif."
+    },
+    {
+      "question": "En quoi consiste l'interprétation téléologique ?",
+      "choix": [
+        "Lire le texte selon le sens ordinaire des mots",
+        "Rechercher l'intention du législateur dans les débats parlementaires",
+        "Rechercher le but que la loi cherche à atteindre et l'appliquer de façon à réaliser cet objectif",
+        "Lire la loi en tenant compte des autres lois du système"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Téléologique vient de telos : but, objectif.",
+        "On se demande : pourquoi cette loi a-t-elle été créée ? Quel problème voulait-on résoudre ?",
+        "On applique ensuite la loi de façon à réaliser ce but, même si la situation n'est pas prévue explicitement."
+      ],
+      "explication": "L'interprétation téléologique consiste à rechercher le but que la loi cherche à atteindre — le problème qu'elle voulait résoudre, la valeur qu'elle voulait protéger — et à appliquer la loi de façon à réaliser cet objectif. C'est la méthode qui donne le plus de souplesse au juge et qui permet au droit de s'adapter à l'évolution de la société."
+    },
+    {
+      "question": "Une loi ancienne protège la « correspondance privée ». Elle a été rédigée à une époque où on n'écrivait que des lettres. Aujourd'hui, peut-elle protéger les e-mails et les messages ? Quelle méthode d'interprétation le permet ?",
+      "choix": [
+        "Non, la loi ne parle que de lettres — interprétation littérale stricte",
+        "Oui, grâce à l'interprétation téléologique : le but de la loi est de protéger la vie privée, et les e-mails font partie de la vie privée au même titre que les lettres",
+        "Oui, mais seulement si le Parlement vote une nouvelle loi",
+        "Non, car l'interprétation historique montre que le législateur ne pensait pas aux e-mails"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le but de la loi était de protéger la vie privée des communications.",
+        "Ce but reste le même aujourd'hui, qu'on communique par lettre ou par e-mail.",
+        "Quelle méthode cherche le but de la loi et permet de l'adapter à de nouvelles réalités ?"
+      ],
+      "explication": "Oui, grâce à l'interprétation téléologique. Le but de la loi sur la correspondance privée était de protéger la vie privée des communications des personnes. Ce but est identique que la communication se fasse par lettre, par e-mail ou par message. En recherchant ce but et en l'appliquant aux réalités modernes, le juge peut étendre la protection sans que le législateur ait besoin de réécrire la loi."
+    },
+    {
+      "question": "Quel est le risque principal de l'interprétation téléologique ?",
+      "choix": [
+        "Elle est trop difficile à comprendre pour les juges",
+        "Elle donne beaucoup de pouvoir au juge : en décidant quel est le but d'une loi, il peut élargir ou restreindre considérablement son champ d'application",
+        "Elle ne peut s'appliquer qu'aux lois de plus de 50 ans",
+        "Elle conduit toujours à des résultats injustes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La méthode qui donne le plus de souplesse est aussi celle qui donne le plus de pouvoir.",
+        "Décider du but d'une loi, c'est décider de son champ d'application.",
+        "La leçon mentionne ce risque précisément."
+      ],
+      "explication": "Le risque principal de l'interprétation téléologique est qu'elle donne beaucoup de pouvoir au juge. En décidant quel est le but d'une loi, il peut élargir ou restreindre considérablement son champ d'application. Ce pouvoir doit être exercé avec prudence, car le juge ne doit pas se substituer au législateur."
+    },
+    {
+      "question": "En quoi consiste l'interprétation systémique ?",
+      "choix": [
+        "Appliquer le sens ordinaire des mots",
+        "Rechercher l'intention du législateur dans les travaux préparatoires",
+        "Interpréter une disposition légale en tenant compte de l'ensemble du système juridique dans lequel elle s'insère",
+        "Chercher le but de la loi"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Systémique vient de système. On regarde la loi dans son ensemble.",
+        "Une loi ne vit pas seule : elle fait partie d'un système avec d'autres lois, d'autres textes.",
+        "On cherche la cohérence de l'ensemble."
+      ],
+      "explication": "L'interprétation systémique consiste à interpréter une disposition légale en tenant compte de l'ensemble du système juridique dans lequel elle s'insère : les autres articles du même texte, les autres lois du même domaine, et surtout la Constitution. Une loi doit être lue et comprise comme une pièce d'un puzzle plus grand."
+    },
+    {
+      "question": "Qu'est-ce que l'interprétation conforme à la Constitution ?",
+      "choix": [
+        "Interpréter la loi selon les valeurs morales de la Constitution",
+        "Quand une loi peut être comprise de plusieurs façons, choisir l'interprétation qui la rend compatible avec la Constitution plutôt que celle qui la contredirait",
+        "Soumettre toute interprétation à l'approbation de la Haute Cour constitutionnelle",
+        "Interpréter la Constitution selon les lois ordinaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Constitution est au sommet de la hiérarchie des normes.",
+        "Si deux interprétations sont possibles, laquelle faut-il choisir ?",
+        "On préfère toujours l'interprétation qui respecte la norme supérieure."
+      ],
+      "explication": "L'interprétation conforme à la Constitution est une obligation pour le juge : quand une loi peut être comprise de plusieurs façons, il doit choisir l'interprétation qui la rend compatible avec la Constitution, plutôt que celle qui la contredirait. C'est une application directe du principe de hiérarchie des normes : la Constitution prime sur tout."
+    },
+    {
+      "question": "Un juge est saisi d'un litige sur un article ambigu d'une loi malgache sur les contrats. Il constate que l'une des interprétations possibles contredit le Code civil malgache. Que doit-il faire ?",
+      "choix": [
+        "Choisir l'interprétation qui contredit le Code civil, car la loi spéciale prime sur le droit commun",
+        "Choisir l'interprétation compatible avec le Code civil pour maintenir la cohérence du système juridique — c'est l'interprétation systémique",
+        "Refuser de juger car le texte est ambigu",
+        "Demander au Parlement de clarifier la loi avant de juger"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit doit être cohérent. Deux lois du même système ne doivent pas se contredire inutilement.",
+        "L'interprétation systémique cherche la cohérence de l'ensemble.",
+        "La leçon donne cet exemple précis."
+      ],
+      "explication": "Le juge doit choisir l'interprétation compatible avec le Code civil pour maintenir la cohérence du système juridique. C'est l'interprétation systémique en action : une loi doit être lue et comprise en cohérence avec les autres règles du même système. Introduire une contradiction inutile dans le droit nuit à sa cohérence et à sa prévisibilité."
+    },
+    {
+      "question": "Vrai ou faux : le juge doit toujours choisir une seule méthode d'interprétation et s'y tenir exclusivement.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon dit que les méthodes ne s'excluent pas.",
+        "En pratique, le juge les utilise ensemble.",
+        "Il commence par la méthode littérale, puis recourt aux autres si nécessaire."
+      ],
+      "explication": "Faux. Les quatre méthodes ne s'excluent pas. En pratique, le juge les combine selon les besoins de la situation. Il commence souvent par l'interprétation littérale. Si le sens est clair, il s'arrête là. Sinon, il recourt à l'interprétation historique, téléologique et systémique, en les combinant pour aboutir à la solution la plus juste et la plus cohérente."
+    },
+    {
+      "question": "Dans quel ordre le juge utilise-t-il généralement les méthodes d'interprétation ?",
+      "choix": [
+        "Il commence par la méthode téléologique, puis la méthode historique",
+        "Il commence par lire le texte tel qu'il est écrit (méthode littérale), et recourt aux autres méthodes seulement si le sens n'est pas clair",
+        "Il choisit la méthode au hasard selon l'affaire",
+        "Il commence toujours par consulter les travaux préparatoires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La première méthode naturelle est de lire ce qui est écrit.",
+        "Si le texte est clair, on s'arrête là — pas besoin d'aller plus loin.",
+        "Les autres méthodes interviennent quand la méthode littérale ne suffit pas."
+      ],
+      "explication": "Le juge commence généralement par lire le texte tel qu'il est écrit (méthode littérale). Si le sens est clair, il s'arrête là et l'applique. Si le sens n'est pas clair, il recourt aux autres méthodes : historique (que voulait le législateur ?), téléologique (quel est le but ?), systémique (comment s'insère ce texte dans l'ensemble ?). Il les combine selon les besoins."
+    },
+    {
+      "question": "Quel est le premier principe classique qui guide l'interprétation quand deux lois se contredisent ?",
+      "choix": [
+        "La loi la plus longue l'emporte sur la loi la plus courte",
+        "La loi spéciale déroge à la loi générale",
+        "La loi la plus favorable au citoyen l'emporte toujours",
+        "La loi la plus récente l'emporte toujours, sans exception"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe dit qu'une règle précise prévaut sur une règle générale.",
+        "Par exemple, une règle spéciale sur les contrats de travail prime sur la règle générale des contrats.",
+        "La leçon liste ce principe en premier."
+      ],
+      "explication": "Le premier principe classique est : la loi spéciale déroge à la loi générale. Si une règle générale et une règle spéciale sur le même sujet se contredisent, c'est la règle spéciale qui s'applique. La règle spéciale a été créée précisément pour s'appliquer à une situation particulière, et elle prévaut sur la règle générale dans ce domaine."
+    },
+    {
+      "question": "Deux lois malgaches se contredisent sur le même sujet. L'une a été votée en 2005, l'autre en 2022. Quel principe d'interprétation s'applique ?",
+      "choix": [
+        "La loi de 2005 s'applique car elle est plus ancienne et plus sage",
+        "La loi de 2022 s'applique car la loi nouvelle déroge à la loi ancienne",
+        "Les deux s'appliquent en même temps",
+        "C'est au juge de choisir librement laquelle appliquer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un des principes d'interprétation concerne le conflit entre une loi ancienne et une loi nouvelle.",
+        "Le législateur a voté la loi de 2022 pour une raison — il voulait remplacer ou modifier l'ancienne.",
+        "La leçon énonce ce principe."
+      ],
+      "explication": "La loi de 2022 s'applique, car la loi nouvelle déroge à la loi ancienne. Quand deux lois se contredisent et que l'une est plus récente, c'est la plus récente qui prévaut : le législateur a voulu remplacer ou modifier l'ancienne règle en votant la nouvelle. La loi de 2005 est implicitement abrogée sur ce point."
+    },
+    {
+      "question": "Qu'est-ce que le principe « la loi supérieure déroge à la loi inférieure » signifie concrètement ?",
+      "choix": [
+        "Les lois votées par les assemblées supérieures l'emportent sur celles des assemblées inférieures",
+        "La Constitution prime sur la loi, la loi prime sur le règlement — c'est la hiérarchie des normes appliquée à l'interprétation",
+        "Les grandes lois l'emportent sur les petites lois",
+        "Ce principe n'existe pas en droit malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe renvoie directement à la hiérarchie des normes vue dans la leçon précédente.",
+        "En cas de conflit, quelle règle l'emporte : celle qui est plus haute ou plus basse dans la pyramide ?",
+        "Constitution → Loi → Règlement : chaque niveau est supérieur au suivant."
+      ],
+      "explication": "Ce principe signifie que la Constitution prime sur la loi, et que la loi prime sur le règlement — c'est la hiérarchie des normes directement appliquée à la résolution des conflits entre règles. En cas de contradiction, la norme la plus haute dans la pyramide l'emporte toujours sur la norme inférieure."
+    },
+    {
+      "question": "Vrai ou faux : si un texte de loi est parfaitement clair, le juge doit quand même l'interpréter.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne un principe : on n'interprète pas là où il n'y a pas lieu de le faire.",
+        "Si le texte est clair, pourquoi l'interpréter ?",
+        "Interpréter un texte clair risque de le déformer."
+      ],
+      "explication": "Faux. L'un des principes classiques d'interprétation dit qu'on ne doit pas interpréter là où il n'y a pas lieu de le faire. Si le texte est parfaitement clair, on l'applique tel quel. Chercher à l'interpréter alors qu'il est clair risquerait de le déformer et d'introduire une incertitude là où il n'y en a pas."
+    },
+    {
+      "question": "Qu'est-ce que l'interprétation stricte (restrictive) ?",
+      "choix": [
+        "Une interprétation qui s'applique uniquement aux affaires criminelles graves",
+        "Une interprétation qui limite le champ d'application de la règle à ce qu'elle dit explicitement, sans l'étendre à des situations non prévues",
+        "Une interprétation qui restreint les droits des citoyens",
+        "Une interprétation réservée aux tribunaux supérieurs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Restrictive vient de restreindre — on limite l'application de la règle.",
+        "On n'étend pas la règle au-delà de ce qu'elle dit.",
+        "La leçon l'oppose à l'interprétation large."
+      ],
+      "explication": "L'interprétation stricte ou restrictive consiste à limiter le champ d'application d'une règle à ce qu'elle dit explicitement, sans l'étendre à des situations non expressément prévues. Elle s'applique notamment aux exceptions (qui ne doivent pas être élargies) et en matière pénale (où on ne peut pas condamner pour un acte que la loi n'a pas prévu)."
+    },
+    {
+      "question": "À quoi s'applique généralement l'interprétation stricte ?",
+      "choix": [
+        "Aux règles protectrices des consommateurs et des salariés",
+        "Aux exceptions et aux sanctions pénales",
+        "Aux lois constitutionnelles uniquement",
+        "Aux coutumes locales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les exceptions ne doivent pas être étendues par interprétation.",
+        "En matière pénale, on ne peut pas condamner quelqu'un pour un acte que la loi n'a pas expressément prévu.",
+        "La leçon mentionne ces deux domaines."
+      ],
+      "explication": "L'interprétation stricte s'applique notamment aux exceptions (une exception à un droit ne doit pas être étendue au-delà de ce qu'elle dit) et aux sanctions pénales (on ne peut pas condamner quelqu'un pour un acte que la loi pénale n'a pas expressément prévu). Dans ces domaines, élargir l'interprétation serait dangereux pour les libertés individuelles."
+    },
+    {
+      "question": "À quoi s'applique généralement l'interprétation large (extensive) ?",
+      "choix": [
+        "Aux sanctions pénales et aux exceptions",
+        "Aux règles protectrices de personnes vulnérables (consommateurs, salariés, enfants)",
+        "Aux lois fiscales uniquement",
+        "Aux décrets gouvernementaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les règles de protection ont un but : protéger des personnes vulnérables.",
+        "Pour que cette protection soit réelle et effective, il vaut mieux interpréter largement.",
+        "La leçon donne des exemples : consommateurs, salariés, enfants."
+      ],
+      "explication": "L'interprétation large (extensive) s'applique notamment aux règles protectrices de personnes vulnérables : consommateurs, salariés, enfants. Ces règles sont généralement interprétées de façon à étendre leur protection, car c'est le but que le législateur poursuivait en les créant. Restreindre leur application irait à l'encontre de leur raison d'être."
+    },
+    {
+      "question": "Un salarié malgache demande un congé pour son mariage coutumier. La loi ne parle que du « mariage » sans préciser. Comment le juge peut-il traiter cette demande ?",
+      "choix": [
+        "Il refuse automatiquement, car la loi ne mentionne pas le mariage coutumier",
+        "Il interprète le terme « mariage » en tenant compte du contexte culturel malgache et du but protecteur de la loi — une interprétation large peut inclure le mariage coutumier",
+        "Il applique uniquement la définition française du mariage",
+        "Il attend que le Parlement précise la loi avant de décider"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi ne précise pas quel type de mariage. Il y a une ambiguïté.",
+        "Quel est le but d'un congé pour mariage ? Permettre au salarié de célébrer son union.",
+        "Le contexte culturel malgache reconnaît le mariage coutumier — le juge peut en tenir compte."
+      ],
+      "explication": "Le juge peut interpréter le terme « mariage » de façon large en tenant compte du contexte culturel malgache et du but protecteur de la loi. Le but d'un congé pour mariage est de permettre au salarié de célébrer son union. À Madagascar, le mariage coutumier est une réalité sociale reconnue. Une interprétation large et contextuelle peut inclure cette forme d'union, surtout si la loi est protectrice des droits des salariés."
+    },
+    {
+      "question": "Vrai ou faux : le juge peut, sous prétexte d'interpréter, créer une règle entièrement nouvelle qui n'a aucun lien avec le texte.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon consacre une section entière aux limites de l'interprétation.",
+        "Il y a une différence entre interpréter et légiférer.",
+        "Le juge interprète la loi — il ne la remplace pas."
+      ],
+      "explication": "Faux. L'interprétation a des limites importantes. Le juge interprète la loi — il ne la remplace pas. Il ne peut pas, sous prétexte d'interpréter, créer une règle entièrement nouvelle qui n'a aucun lien avec le texte. S'il le faisait, il empiéterait sur le pouvoir du législateur, ce qui serait contraire au principe de séparation des pouvoirs."
+    },
+    {
+      "question": "Quel est le principe fondamental qui limite l'interprétation en matière pénale ?",
+      "choix": [
+        "Le principe de proportionnalité des peines",
+        "Le principe nullum crimen, nulla poena sine lege : pas de crime, pas de peine sans loi",
+        "Le principe de présomption d'innocence",
+        "Le principe de l'égalité devant la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe est en latin et signifie littéralement : pas de crime, pas de peine sans loi.",
+        "En matière pénale, on ne peut pas condamner pour un acte que la loi n'a pas prévu.",
+        "C'est pourquoi les textes pénaux s'interprètent strictement."
+      ],
+      "explication": "En matière pénale, le principe fondamental est nullum crimen, nulla poena sine lege : pas de crime, pas de peine sans loi. On ne peut pas condamner quelqu'un pour un acte que la loi n'a pas expressément prévu comme une infraction, même si cet acte ressemble à un acte interdit. C'est pourquoi les textes pénaux doivent être interprétés strictement, sans extension par analogie."
+    },
+    {
+      "question": "Que peut faire le législateur si la jurisprudence développe une interprétation qu'il désapprouve ?",
+      "choix": [
+        "Il peut condamner le juge à une amende",
+        "Il peut voter une nouvelle loi pour mettre fin à cette interprétation et imposer une autre règle",
+        "Il ne peut rien faire : les décisions de justice sont définitives",
+        "Il peut annuler les décisions de justice par décret"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne que l'interprétation judiciaire peut être corrigée.",
+        "Qui a le pouvoir de créer des règles nouvelles qui s'imposent à tous ?",
+        "Le législateur a toujours le dernier mot sur le contenu des règles de droit."
+      ],
+      "explication": "Si la jurisprudence développe une interprétation que le Parlement désapprouve, le Parlement peut voter une nouvelle loi pour y mettre fin. Cette nouvelle loi précise le sens de la règle de façon à imposer l'interprétation que le législateur souhaite. C'est l'interprétation authentique en action, et elle s'impose à tous les juges."
+    },
+    {
+      "question": "Pourquoi l'interprétation juridique à Madagascar présente-t-elle des particularités ?",
+      "choix": [
+        "Parce que Madagascar n'a pas de système juridique propre",
+        "Parce que Madagascar a une tradition juridique propre, avec des coutumes locales vivaces et une diversité culturelle qui obligent les juges à tenir compte du contexte local",
+        "Parce que les juges malgaches ne connaissent pas les méthodes d'interprétation",
+        "Parce que les lois malgaches sont toutes rédigées en français et mal comprises"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Madagascar n'est pas la France. Son contexte culturel, social et coutumier est différent.",
+        "La leçon consacre une section entière à cette question.",
+        "Les coutumes locales, les pratiques communautaires, la diversité régionale ont une importance réelle."
+      ],
+      "explication": "L'interprétation juridique à Madagascar présente des particularités parce que Madagascar a une tradition juridique propre, avec des coutumes locales très vivaces, des pratiques communautaires solides et une diversité culturelle et linguistique importante. Les juges doivent souvent tenir compte de ce contexte local pour rendre des décisions qui soient comprises et applicables dans les communautés concernées."
+    },
+    {
+      "question": "Un juge malgache interprète une loi sur les successions sans tenir compte des pratiques coutumières locales. Quel risque cela présente-t-il ?",
+      "choix": [
+        "Aucun risque : les coutumes n'ont pas de place dans le droit écrit",
+        "Le risque de rendre une décision juridiquement correcte sur le papier mais incomprise ou inapplicable dans la communauté concernée",
+        "Le risque d'être condamné par la Haute Cour constitutionnelle",
+        "Le risque de créer une nouvelle coutume par erreur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon évoque ce risque précisément.",
+        "Un droit qui ne tient pas compte de la réalité sociale est un droit qui ne fonctionne pas.",
+        "La décision peut être légalement correcte mais socialement rejetée."
+      ],
+      "explication": "Le risque est de rendre une décision juridiquement correcte sur le papier mais incomprise ou inapplicable dans la communauté concernée. L'interprétation juridique à Madagascar ne peut pas ignorer la dimension culturelle et coutumière de la société. Un droit qui ne tient pas compte de la réalité sociale dans laquelle il s'applique risque de rester lettre morte."
+    },
+    {
+      "question": "Lequel de ces acteurs peut donner une interprétation qui s'impose avec force obligatoire à tous, y compris aux juges ?",
+      "choix": [
+        "Le professeur de droit dans son manuel",
+        "L'avocat dans ses plaidoiries",
+        "Le législateur via une nouvelle loi clarifiant le sens d'une loi antérieure (interprétation authentique)",
+        "Le citoyen dans sa plainte"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Force obligatoire signifie que tout le monde doit suivre cette interprétation.",
+        "Seul l'auteur de la loi peut donner une interprétation officiellement contraignante.",
+        "L'auteur de la loi, c'est le législateur — le Parlement."
+      ],
+      "explication": "Seul le législateur peut donner une interprétation qui s'impose avec force obligatoire à tous, y compris aux juges : c'est l'interprétation authentique, donnée via une nouvelle loi qui clarifie le sens d'une loi antérieure. Les interprétations du professeur, de l'avocat ou du citoyen peuvent influencer, mais elles n'ont pas force contraignante."
+    },
+    {
+      "question": "La méthode systémique oblige le juge à interpréter une loi en cohérence avec :",
+      "choix": [
+        "Uniquement les autres articles du même texte",
+        "Les autres articles du même texte, les autres lois du même domaine, et surtout la Constitution",
+        "Uniquement la Constitution",
+        "Uniquement les traités internationaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Systémique veut dire qu'on prend en compte le système entier.",
+        "Le système juridique comprend plusieurs niveaux : le même texte, le même domaine, et au sommet la Constitution.",
+        "La leçon décrit ces trois niveaux."
+      ],
+      "explication": "La méthode systémique oblige le juge à interpréter une disposition en cohérence avec l'ensemble du système : d'abord les autres articles du même texte de loi, ensuite les autres lois du même domaine juridique, et surtout la Constitution (qui est au sommet de la hiérarchie). Le but est d'assurer la cohérence de l'ensemble du droit."
+    },
+    {
+      "question": "Vrai ou faux : l'avocat et le juge interprètent la loi dans le même but.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue les différents interprètes et leurs rôles.",
+        "L'avocat défend une partie. Le juge tranche de façon impartiale.",
+        "Leurs objectifs sont fondamentalement différents."
+      ],
+      "explication": "Faux. L'avocat et le juge n'interprètent pas la loi dans le même but. L'avocat cherche l'interprétation qui favorise son client — son rôle est partisan. Le juge, lui, doit interpréter la loi de façon impartiale et objective pour rendre une décision juste. Leurs rôles dans le système contradictoire sont différents, même s'ils manipulent les mêmes textes."
+    },
+    {
+      "question": "Qu'est-ce que la sécurité juridique et quel lien a-t-elle avec l'interprétation ?",
+      "choix": [
+        "La sécurité des tribunaux face aux menaces physiques",
+        "La possibilité pour les citoyens de prévoir comment la loi sera appliquée — ce que favorise l'interprétation littérale",
+        "La protection des juges contre les pressions politiques",
+        "La sécurité des textes juridiques contre la falsification"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La sécurité juridique permet aux citoyens de prévoir les conséquences de leurs actes.",
+        "Si la loi est interprétée de façon prévisible, les citoyens savent à quoi s'attendre.",
+        "L'interprétation littérale favorise cette prévisibilité."
+      ],
+      "explication": "La sécurité juridique est la possibilité pour les citoyens de prévoir comment la loi sera appliquée et quelles seront les conséquences de leurs actes. C'est un principe fondamental de l'État de droit. L'interprétation littérale favorise la sécurité juridique car elle applique le sens ordinaire des mots, ce qui est prévisible pour tous."
+    },
+    {
+      "question": "Selon la leçon, qu'est-ce qu'un « bon interprète » ?",
+      "choix": [
+        "Celui qui applique toujours la méthode téléologique",
+        "Celui qui applique toujours le sens littéral des mots",
+        "Celui qui sait manier intelligemment les différentes méthodes selon la situation, en visant une solution juste, raisonnable et cohérente",
+        "Celui qui suit toujours l'intention du législateur"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon dit que le bon interprète combine les méthodes.",
+        "Aucune méthode n'est supérieure dans l'absolu.",
+        "L'objectif final est toujours la justice, la raison et la cohérence."
+      ],
+      "explication": "Selon la leçon, le bon interprète est celui qui sait manier intelligemment les différentes méthodes selon la situation — littérale, historique, téléologique, systémique — en gardant toujours à l'esprit un objectif : aboutir à une solution juste, raisonnable et cohérente avec l'esprit du droit. Ce n'est pas une science exacte, mais un art juridique."
+    },
+    {
+      "question": "Une loi malgache de 1985 protège la « vie privée » des citoyens. Aujourd'hui, un citoyen veut que cette loi protège aussi ses données personnelles sur internet. Quelle méthode d'interprétation est la plus adaptée ?",
+      "choix": [
+        "L'interprétation littérale : la loi de 1985 ne parle pas d'internet, donc elle ne s'applique pas",
+        "L'interprétation téléologique : le but de la loi est de protéger la vie privée, et les données personnelles en font partie aujourd'hui",
+        "L'interprétation historique : en 1985, le législateur ne pensait pas à internet, donc il ne peut pas être protégé",
+        "L'interprétation systémique uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle méthode permet au droit de s'adapter à l'évolution de la société ?",
+        "Le but de la protection de la vie privée est de protéger la sphère intime de la personne.",
+        "Les données personnelles sur internet font partie de cette sphère intime aujourd'hui."
+      ],
+      "explication": "L'interprétation téléologique est la plus adaptée. Le but de la loi de 1985 était de protéger la vie privée des citoyens — leur sphère intime. Aujourd'hui, les données personnelles sur internet font pleinement partie de cette sphère intime. En recherchant le but de la loi et en l'appliquant aux réalités modernes, le juge peut étendre cette protection sans que le législateur ait besoin de modifier la loi."
+    },
+    {
+      "question": "Vrai ou faux : la leçon sur les sources d'interprétation répond à la même question que la leçon sur les sources du droit.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon 4 répondait à la question : d'où viennent les règles ?",
+        "La leçon 5 répond à la question : comment comprendre et appliquer ces règles ?",
+        "Ce sont deux questions différentes."
+      ],
+      "explication": "Faux. Les deux leçons répondent à des questions différentes. La leçon sur les sources du droit répond à la question : d'où viennent les règles (Constitution, lois, traités, coutume...) ? La leçon sur les sources d'interprétation répond à la question : comment comprendre et appliquer ces règles quand leur sens n'est pas clair ? Ce sont deux étapes distinctes du travail juridique."
+    },
+    {
+      "question": "Un texte de loi malgache dit que « tout employeur doit assurer la sécurité de ses travailleurs ». Un employeur argue que cette obligation ne s'applique qu'aux accidents physiques, pas au stress psychologique. Quelle méthode d'interprétation permettrait d'inclure le stress psychologique ?",
+      "choix": [
+        "L'interprétation littérale : le mot « sécurité » ne concerne que les accidents physiques",
+        "L'interprétation téléologique : le but est de protéger la santé et l'intégrité des travailleurs, ce qui inclut leur santé mentale",
+        "L'interprétation historique uniquement",
+        "L'interprétation systémique uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quel est le but d'une obligation de sécurité pour les travailleurs ?",
+        "La sécurité ne se limite-t-elle pas aux seuls accidents physiques ?",
+        "La méthode téléologique cherche le but — et le but ici est de protéger la santé globale."
+      ],
+      "explication": "L'interprétation téléologique permettrait d'inclure le stress psychologique. Le but d'une obligation de sécurité pour les travailleurs est de protéger leur santé et leur intégrité — physique et mentale. En recherchant ce but, le juge peut étendre la protection au stress psychologique, car il porte atteinte à la santé du travailleur au même titre qu'un accident physique."
+    },
+    {
+      "question": "Dans quel cas le principe « loi spéciale déroge à loi générale » s'applique-t-il ?",
+      "choix": [
+        "Quand une loi est plus récente qu'une autre",
+        "Quand une loi générale et une loi spéciale sur le même sujet se contredisent : la loi spéciale prévaut",
+        "Quand une loi constitutionnelle contredit une loi ordinaire",
+        "Quand une coutume contredit une loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe concerne le conflit entre une règle générale et une règle plus précise.",
+        "La règle spéciale a été créée pour un cas particulier — elle est plus adaptée.",
+        "Exemple : une règle sur les contrats en général cède devant une règle spéciale sur les contrats de travail."
+      ],
+      "explication": "Le principe « loi spéciale déroge à loi générale » s'applique quand une règle générale et une règle spéciale sur le même sujet se contredisent. Dans ce cas, c'est la règle spéciale qui prévaut, car elle a été créée précisément pour s'appliquer à cette situation particulière. Elle est plus adaptée et plus précise que la règle générale."
+    },
+    {
+      "question": "Pourquoi les exceptions à une règle doivent-elles être interprétées strictement ?",
+      "choix": [
+        "Parce que les exceptions sont toujours injustes",
+        "Parce qu'une exception est un écart par rapport à la règle générale, et cet écart ne doit pas être étendu au-delà de ce que le texte prévoit",
+        "Parce que les exceptions sont toujours très compliquées",
+        "Parce que la Constitution l'impose"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une exception déroge à la règle générale — elle crée un régime particulier pour certains cas.",
+        "Si on l'étend par interprétation, elle risque d'avaler la règle générale.",
+        "Le législateur a voulu limiter l'exception à ce qu'il a expressément prévu."
+      ],
+      "explication": "Les exceptions doivent être interprétées strictement parce qu'une exception est un écart par rapport à la règle générale. Si on étend une exception au-delà de ce que le texte prévoit, on risque de vider la règle générale de son contenu. Le législateur a voulu délimiter précisément le champ de l'exception, et cette volonté doit être respectée."
+    },
+    {
+      "question": "Vrai ou faux : l'interprétation des lois est un travail uniquement réservé aux juges de la Cour suprême.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon liste plusieurs acteurs qui interprètent la loi.",
+        "Les juges de première instance, les avocats, l'administration interprètent aussi.",
+        "Même les simples citoyens doivent comprendre la loi pour l'appliquer."
+      ],
+      "explication": "Faux. L'interprétation de la loi n'est pas réservée aux seuls juges de la Cour suprême. Tous les juges interprètent la loi pour rendre leurs décisions. Les avocats l'interprètent dans l'intérêt de leurs clients. L'administration l'interprète pour appliquer ses décisions. Le législateur l'interprète lui-même (interprétation authentique). Et la doctrine l'interprète dans ses écrits."
+    },
+    {
+      "question": "Résumé final : quelle est la différence fondamentale entre les quatre méthodes d'interprétation ?",
+      "choix": [
+        "Il n'y a pas de différence : elles aboutissent toutes au même résultat",
+        "Elles diffèrent par leur point de départ : la méthode littérale part des mots, la méthode historique part de l'intention d'origine, la méthode téléologique part du but, la méthode systémique part du contexte d'ensemble",
+        "La méthode littérale est pour le droit privé, la méthode téléologique pour le droit public",
+        "Seule la méthode téléologique est reconnue en droit malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Chaque méthode pose une question différente au texte.",
+        "Littérale : que disent les mots ? Historique : que voulait le législateur ? Téléologique : quel est le but ? Systémique : comment s'intègre ce texte dans l'ensemble ?",
+        "La leçon présente ces quatre questions comme les quatre méthodes."
+      ],
+      "explication": "Les quatre méthodes diffèrent par leur point de départ et la question qu'elles posent. La méthode littérale part des mots et demande : que dit le texte ? La méthode historique part de l'intention d'origine et demande : que voulait le législateur ? La méthode téléologique part du but et demande : quel objectif poursuit cette loi ? La méthode systémique part du contexte d'ensemble et demande : comment ce texte s'intègre-t-il dans le système juridique global ?"
+    },
+    {
+      "question": "Vrai ou faux : quand la loi est silencieuse, le juge peut refuser de rendre une décision.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne qu'un juge ne peut pas refuser de juger.",
+        "Refuser de juger sous prétexte que la loi ne dit rien s'appelle le déni de justice.",
+        "C'est précisément pourquoi l'interprétation est nécessaire."
+      ],
+      "explication": "Faux. Le juge ne peut pas refuser de rendre une décision sous prétexte que la loi est silencieuse, obscure ou incomplète. Ce refus constituerait un déni de justice, qui est interdit. C'est précisément parce que le juge est obligé de juger même quand la loi ne dit rien que l'interprétation est nécessaire et que la jurisprudence crée indirectement du droit."
+    },
+    {
+      "question": "Laquelle de ces affirmations résume le mieux ce qu'est l'interprétation juridique ?",
+      "choix": [
+        "C'est l'art d'inventer des règles nouvelles quand la loi ne dit rien",
+        "C'est l'opération par laquelle on dégage le sens d'une règle de droit pour l'appliquer correctement à une situation concrète, en utilisant différentes méthodes selon les besoins",
+        "C'est le droit pour le juge d'ignorer la loi quand elle lui semble injuste",
+        "C'est uniquement la traduction des lois dans la langue locale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'interprétation ne crée pas du droit au sens strict — elle l'applique.",
+        "Elle utilise des méthodes : littérale, historique, téléologique, systémique.",
+        "Le but est de dégager le sens pour appliquer correctement."
+      ],
+      "explication": "L'interprétation juridique est l'opération par laquelle on dégage le sens exact d'une règle de droit pour l'appliquer correctement à une situation concrète, en utilisant différentes méthodes selon les besoins : littérale (le sens des mots), historique (l'intention du législateur), téléologique (le but de la loi) et systémique (la cohérence avec l'ensemble du droit)."
+    },
+    {
+      "question": "Parmi ces situations, laquelle illustre le mieux la nécessité d'interpréter une loi ?",
+      "choix": [
+        "Un automobiliste grille un feu rouge — la loi est parfaitement claire",
+        "Un litige oppose deux personnes sur un contrat signé par voie électronique en 1995, alors que la loi sur les contrats n'avait pas prévu cette forme à l'époque",
+        "Un commerçant refuse de payer ses impôts — la loi est claire",
+        "Un piéton traverse en dehors des passages cloutés — la loi est claire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'interprétation est nécessaire quand la loi ne prévoit pas la situation.",
+        "En 1995, les contrats électroniques n'existaient pas encore — la loi ne les mentionnait pas.",
+        "C'est une lacune de la loi : une situation nouvelle non prévue."
+      ],
+      "explication": "Le litige sur un contrat électronique signé en 1995 illustre la nécessité d'interpréter : la loi sur les contrats n'avait pas prévu cette forme de signature à l'époque, car elle n'existait pas encore. Le juge doit interpréter la loi pour déterminer si elle s'applique à ce cas nouveau. Les autres situations sont des cas où la loi est claire et s'applique directement sans interprétation."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Rakoto est chauffeur de taxi-be à Antananarivo. Une loi malgache votée en 1998 prévoit que « tout conducteur de véhicule de transport en commun doit être titulaire d'un permis professionnel ». Rakoto transporte des passagers avec un tricycle motorisé (pousse-pousse motorisé) qu'il a lui-même aménagé, et il n'a pas de permis professionnel. Il est arrêté et contesté que la loi s'applique à son cas. Le juge doit trancher. Utilisez les quatre méthodes d'interprétation pour analyser la situation et conclure.",
+      "choix": [
+        "La loi ne s'applique pas car un tricycle n'est pas un véhicule",
+        "Le juge doit analyser : (1) littéralement — un tricycle motorisé est-il un « véhicule de transport en commun » ? ; (2) historiquement — que visait le législateur en 1998 ? ; (3) téléologiquement — le but est d'assurer la sécurité des passagers, ce qui inclut les tricycles ; (4) systémiquement — comment le code de la route définit-il ces véhicules ? La combinaison de ces méthodes oriente vers l'application de la loi.",
+        "La loi ne peut pas s'appliquer car elle date de 1998 et est trop ancienne",
+        "Le juge doit attendre une nouvelle loi qui mentionne expressément les tricycles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Méthode littérale : que signifie « véhicule de transport en commun » dans le langage ordinaire ? Un tricycle motorisé qui transporte des passagers contre rémunération rentre-t-il dans cette définition ?",
+        "Méthode téléologique : pourquoi le législateur a-t-il imposé un permis professionnel ? Quel est le but — la sécurité des passagers ? Ce but s'applique-t-il aussi aux passagers de tricycles ?",
+        "Méthode systémique : comment le code de la route malgache ou d'autres lois définissent-ils les véhicules de transport en commun ?"
+      ],
+      "explication": "Analyse par les quatre méthodes. Méthode littérale : le terme « véhicule de transport en commun » dans son sens ordinaire désigne tout moyen de transport qui prend des passagers contre rémunération. Un tricycle motorisé transportant des passagers entre dans cette définition au sens ordinaire des mots. Méthode historique : en 1998, les tricycles motorisés existaient à Madagascar. Si les travaux préparatoires mentionnaient uniquement les bus et taxis classiques, l'interprétation pourrait être plus restrictive. Mais si le législateur voulait couvrir tous les transports publics, le tricycle est inclus. Méthode téléologique : le but de la loi est clairement d'assurer la sécurité des passagers en imposant une compétence professionnelle au conducteur. Ce but s'applique identiquement aux passagers d'un tricycle motorisé et aux passagers d'un bus. L'interpréter autrement viderait la loi de son but. Méthode systémique : si le code de la route malgache définit les tricycles motorisés comme des véhicules, et que d'autres textes les soumettent à la réglementation des transports, l'interprétation systémique conforte l'application de la loi. Conclusion : la combinaison des quatre méthodes oriente vers l'application de la loi à Rakoto. La méthode téléologique est particulièrement convaincante : le but de protéger les passagers est le même, quel que soit le type de véhicule. Rakoto devait être titulaire d'un permis professionnel."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Une loi malgache votée en 2010 sur la protection des consommateurs prévoit que « le vendeur doit informer l'acheteur de toutes les caractéristiques essentielles du produit avant la vente ». Mialisoa achète en 2024 un téléphone portable d'occasion à un vendeur sur une plateforme en ligne. Le vendeur ne l'a pas informée que la batterie était défectueuse. Mialisoa veut faire valoir ses droits. Le vendeur argumente que la loi de 2010 visait uniquement les ventes en magasin physique, pas les ventes en ligne qui n'existaient pas encore en 2010 à Madagascar. Analysez ce conflit d'interprétation en utilisant les méthodes vues dans la leçon, et dites qui a raison.",
+      "choix": [
+        "Le vendeur a raison : la loi de 2010 ne peut pas s'appliquer aux ventes en ligne",
+        "Mialisoa a raison : en appliquant l'interprétation téléologique (le but est de protéger les consommateurs) et l'interprétation systémique (la loi sur les consommateurs protège largement), la loi s'étend aux ventes en ligne car le but — informer l'acheteur — est identique que la vente soit physique ou en ligne",
+        "Personne n'a raison : il faut attendre une nouvelle loi",
+        "Le vendeur a raison car la loi doit être interprétée strictement puisqu'elle crée une obligation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Méthode téléologique : quel est le but de l'obligation d'information ? Protéger l'acheteur. Ce but s'applique-t-il aussi aux ventes en ligne ?",
+        "Méthode systémique : les règles de protection des consommateurs s'interprètent-elles strictement ou largement ?",
+        "Méthode historique : en 2010, les ventes en ligne existaient-elles à Madagascar ? Le législateur a-t-il voulu les exclure expressément ?"
+      ],
+      "explication": "Analyse du conflit d'interprétation. L'argument du vendeur : l'interprétation historique. En 2010, les ventes en ligne n'étaient pas développées à Madagascar. Le législateur pensait certainement aux ventes en magasin. Donc la loi ne viserait pas les ventes en ligne. L'argument de Mialisoa : l'interprétation téléologique. Le but de la loi est de protéger les consommateurs en s'assurant qu'ils sont correctement informés avant d'acheter. Ce but est identique que la vente soit physique ou en ligne : dans les deux cas, l'acheteur doit pouvoir prendre sa décision en connaissance de cause. La méthode systémique renforce cette position : les lois de protection des consommateurs sont des règles protectrices de personnes vulnérables, qui s'interprètent largement pour que leur protection soit réelle et effective. Restreindre la loi aux seules ventes physiques irait à l'encontre de son but et laisserait les consommateurs en ligne sans protection — ce que le législateur n'a certainement pas voulu. Conclusion : Mialisoa a raison. L'interprétation téléologique — le but de protéger les consommateurs — l'emporte sur l'interprétation historique stricte. La loi de 2010 s'applique aux ventes en ligne car son but est le même, quel que soit le canal de vente. De plus, en 2024, laisser les ventes en ligne hors du champ d'application de cette loi serait absurde et contraire à l'esprit de protection des consommateurs. Le principe : une loi protectrice s'interprète largement."
+    }
+  ]
+    }
