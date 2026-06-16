@@ -1,0 +1,837 @@
+{
+  "titre": "Les droits subjectifs et leur classification",
+  "module": "Module 8 — Les droits subjectifs : classifications",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Rappel : qu'est-ce qu'un droit subjectif ?",
+      "texte": "Avant de classer les droits subjectifs, il faut bien comprendre ce qu'ils sont. On a vu dans les modules précédents que le droit objectif est l'ensemble des règles en vigueur dans un pays — un droit général, abstrait, qui s'adresse à tout le monde. En face de ce droit objectif existent les droits subjectifs. Le mot « subjectif » vient du latin « subjectum », qui signifie « sujet ». Un droit subjectif est donc un droit attaché à un sujet — une personne précise. C'est une prérogative individuelle : un pouvoir reconnu par le droit objectif à une personne, lui permettant de faire quelque chose, d'exiger quelque chose, ou d'interdire quelque chose à autrui. Quand Vonjy dit « cette maison est à moi », il exerce un droit subjectif : son droit de propriété. Quand Rija dit « tu me dois 500 000 ariary », elle exerce un droit subjectif : sa créance. Quand Solofo dit « tu n'as pas le droit de publier ma photo sans ma permission », il défend un droit subjectif : son droit à l'image. Ces droits sont nombreux, très divers, et il est indispensable de savoir les classer pour comprendre leur régime — c'est-à-dire comment ils fonctionnent, ce qu'on peut en faire, ce qu'on ne peut pas en faire.",
+      "definition": "Droit subjectif : prérogative individuelle reconnue à une personne (sujet de droit) par le droit objectif. Il lui confère le pouvoir de faire quelque chose, d'exiger une prestation, ou d'opposer ses droits à autrui. Les droits subjectifs se distinguent du droit objectif par leur caractère personnel et concret."
+    },
+    {
+      "titre": "La grande distinction : droits patrimoniaux et droits extrapatrimoniaux",
+      "texte": "Tous les droits subjectifs se divisent en deux grandes familles. D'un côté, les droits patrimoniaux — ceux qui ont une valeur économique et entrent dans le patrimoine d'une personne. De l'autre, les droits extrapatrimoniaux — ceux qui sont tellement liés à la personne elle-même qu'ils ne peuvent pas être mesurés en argent ni faire l'objet de commerce. Cette distinction est fondamentale. Elle détermine ce qu'on peut faire avec un droit : peut-on le vendre ? Le transmettre à ses enfants ? Peut-on le saisir en cas de dettes ? Les réponses diffèrent radicalement selon qu'on est dans l'un ou l'autre camp. Un droit patrimonial peut, en principe, être vendu, transmis aux héritiers, et saisi par un créancier. Un droit extrapatrimonial, lui, est hors commerce : on ne peut ni le vendre, ni l'hériter, ni le saisir. Comprendre cette distinction, c'est comprendre une ligne de fracture essentielle dans l'organisation du droit privé.",
+      "definition": "Droits patrimoniaux : droits subjectifs évaluables en argent, qui constituent l'actif du patrimoine d'une personne. Ils sont dans le commerce juridique. Droits extrapatrimoniaux : droits attachés à la personne elle-même, sans valeur pécuniaire directe, situés hors du commerce juridique."
+    },
+    {
+      "titre": "Le patrimoine : la notion-clé pour comprendre",
+      "texte": "Pour bien saisir la distinction, il faut d'abord comprendre la notion de patrimoine. Le patrimoine n'est pas simplement l'ensemble des biens qu'on possède. C'est une notion plus complexe : c'est l'ensemble des droits et des obligations d'une personne ayant une valeur économique. Il comprend donc un actif — tout ce que la personne a, ce qu'on lui doit, ses biens, ses créances — et un passif — tout ce qu'elle doit, ses dettes, ses obligations. Le patrimoine est une sorte de sac universel attaché à la personne : tout ce qui entre dans ce sac est patrimonial, tout ce qui en reste dehors est extrapatrimonial. Ce sac a des propriétés particulières. Il est indivisible : une personne n'a qu'un seul patrimoine (sauf exceptions légales). Il est attaché à la personne : on ne peut pas avoir un patrimoine sans être une personne, et toute personne a nécessairement un patrimoine, même vide. C'est la théorie classique du patrimoine, dite théorie de la personnalité, que Aubry et Rau ont formulée au XIXe siècle et qui reste la base du droit malgache, héritier du droit civil français.",
+      "definition": "Patrimoine : ensemble des droits et obligations d'une personne ayant une valeur économique. Il comprend un actif (droits, biens, créances) et un passif (dettes, obligations). Il est unique et attaché à la personne. Les droits patrimoniaux entrent dans ce patrimoine ; les droits extrapatrimoniaux en sont exclus.",
+      "exemple": "Hanta a une maison (actif), une voiture (actif), 2 000 000 ariary sur un compte bancaire (actif), mais aussi un emprunt bancaire de 1 500 000 ariary (passif). Son patrimoine net est la différence entre son actif et son passif. Son droit au nom et son droit à l'honneur, eux, n'entrent pas dans ce calcul : ils sont extrapatrimoniaux."
+    },
+    {
+      "titre": "Les droits patrimoniaux : trois grandes catégories",
+      "texte": "Les droits patrimoniaux ne forment pas un bloc uniforme. On les divise en trois grandes catégories, selon qu'ils portent sur une chose, sur une personne, ou sur une création de l'esprit. La première catégorie regroupe les droits réels. La deuxième, les droits personnels ou droits de créance. La troisième, les droits intellectuels. Chacune a ses règles propres, ses mécanismes de protection, et ses particularités pratiques. Connaître ces trois catégories est indispensable pour n'importe quel juriste — ou citoyen qui veut comprendre ses droits.",
+      "definition": "Les droits patrimoniaux se divisent en trois catégories : les droits réels (pouvoirs sur une chose), les droits personnels ou droits de créance (pouvoirs d'exiger une prestation d'une autre personne), et les droits intellectuels (pouvoirs sur les créations de l'esprit)."
+    },
+    {
+      "titre": "Les droits réels : avoir un pouvoir direct sur une chose",
+      "texte": "Un droit réel (du latin « res » : la chose) est un droit qu'une personne exerce directement sur une chose, sans avoir besoin de passer par une autre personne pour l'exercer. Le droit de propriété est l'exemple le plus complet et le plus connu : le propriétaire peut utiliser sa chose, en percevoir les fruits, et en disposer (la vendre, la donner, la détruire). Mais il existe d'autres droits réels, dits droits réels démembrés ou droits réels accessoires. L'usufruit est le droit d'utiliser une chose et d'en percevoir les fruits, sans pouvoir en disposer — c'est un démembrement de la propriété. La servitude est une charge imposée à un fonds au profit d'un autre fonds : par exemple, le droit de passage sur le terrain du voisin. L'hypothèque est un droit réel accessoire : la banque qui prête de l'argent peut obtenir une hypothèque sur la maison de l'emprunteur — si celui-ci ne rembourse pas, la banque peut faire vendre la maison. Ce qui caractérise tous les droits réels, c'est leur opposabilité à tous : le propriétaire peut faire valoir son droit contre n'importe quelle personne qui violerait ce droit. On dit que le droit réel est opposable erga omnes — à l'égard de tous.",
+      "definition": "Droit réel : droit qu'une personne exerce directement sur une chose (res), sans intermédiaire. Il est opposable à tous (erga omnes). Le droit réel principal est la propriété. Les droits réels accessoires (usufruit, hypothèque, servitude) sont des démembrements ou des accessoires de la propriété.",
+      "exemple": "Rasoa est propriétaire d'un terrain à Diego-Suarez. Son droit de propriété est un droit réel : elle peut l'utiliser, le louer, le vendre. Si un tiers occupe son terrain sans permission, elle peut l'expulser — son droit est opposable à tous. Si elle donne à sa mère l'usufruit de ce terrain, sa mère pourra l'utiliser et en percevoir les revenus, mais ne pourra pas le vendre."
+    },
+    {
+      "titre": "Les droits personnels : exiger quelque chose d'une autre personne",
+      "texte": "Un droit personnel — aussi appelé droit de créance — est un droit qu'une personne (le créancier) a d'exiger d'une autre personne (le débiteur) qu'elle accomplisse une prestation. Ce peut être une prestation de faire (construire une maison, livrer une marchandise, effectuer un travail), de ne pas faire (s'abstenir de faire concurrence), ou de donner (remettre une somme d'argent, transférer la propriété d'un bien). Le droit personnel crée un lien entre deux personnes : le lien d'obligation. Ce lien est appelé obligation au sens technique du terme. Contrairement au droit réel, le droit personnel n'est pas opposable à tous — il ne l'est qu'à l'égard du débiteur. Si je prête de l'argent à Fanja, je ne peux exiger le remboursement que d'elle — pas de son voisin, pas de sa famille (sauf si d'autres se sont engagés). C'est la grande différence : le droit réel est absolu (opposable à tous), le droit personnel est relatif (opposable seulement au débiteur).",
+      "definition": "Droit personnel (ou droit de créance) : droit qu'une personne — le créancier — a d'exiger d'une autre personne — le débiteur — l'exécution d'une prestation (donner, faire, ne pas faire). Il crée un lien d'obligation entre deux personnes déterminées. Il est relatif : opposable seulement au débiteur.",
+      "exemple": "Tiana commande à un artisan la fabrication d'une table pour 300 000 ariary. Elle paie la moitié à la commande. L'artisan lui doit la table (obligation de faire) ; elle lui doit le reste du paiement (obligation de donner). Ces droits ne s'exercent qu'entre eux deux : c'est un droit personnel. Si l'artisan ne livre pas, Tiana ne peut pas exiger la table du voisin de l'artisan — seulement de l'artisan lui-même."
+    },
+    {
+      "titre": "Droits réels vs droits personnels : le tableau comparatif",
+      "texte": "Les différences entre droits réels et droits personnels sont fondamentales et méritent d'être bien retenues. Un droit réel porte sur une chose ; un droit personnel porte sur le comportement d'une personne. Un droit réel est opposable à tous ; un droit personnel n'est opposable qu'au débiteur. Un droit réel est absolu ; un droit personnel est relatif. En cas de faillite du débiteur, le titulaire d'un droit réel est mieux protégé que le titulaire d'un simple droit personnel : il peut revendiquer son bien ou exercer son droit de préférence (comme l'hypothèque). Le titulaire d'un droit personnel n'est qu'un créancier parmi d'autres et risque de ne pas être remboursé intégralement. Cette différence est décisive en pratique : c'est pourquoi les banques exigent des garanties réelles (hypothèques, nantissements) avant de prêter de l'argent.",
+      "definition": "Droits réels vs droits personnels : le droit réel est exercé sur une chose, absolu et opposable à tous. Le droit personnel est exercé contre une personne déterminée (le débiteur), relatif et opposable seulement à elle. En cas de défaillance du débiteur, le titulaire d'un droit réel est mieux protégé."
+    },
+    {
+      "titre": "Les droits intellectuels : protéger les créations de l'esprit",
+      "texte": "La troisième catégorie de droits patrimoniaux regroupe les droits intellectuels. Ce sont les droits reconnus à une personne sur ses créations de l'esprit. Ils présentent la particularité d'avoir à la fois une dimension patrimoniale et une dimension extrapatrimoniale. La dimension patrimoniale permet à l'auteur d'exploiter économiquement son œuvre : la vendre, la licencier, en percevoir des redevances. La dimension extrapatrimoniale — appelée droit moral — protège le lien entre l'auteur et son œuvre : le droit au respect de son nom, le droit au respect de l'intégrité de l'œuvre. Les droits intellectuels se divisent en deux grandes branches. La propriété littéraire et artistique protège les œuvres de l'esprit : romans, musiques, films, logiciels, peintures. À Madagascar, un roman écrit par un auteur est protégé dès sa création. La propriété industrielle protège les créations à usage commercial : les brevets d'invention (une nouvelle technique ou un procédé), les marques commerciales (le nom ou le logo d'un produit), les dessins et modèles industriels, et les appellations d'origine (les indications géographiques protégeant des produits locaux). Les droits intellectuels sont temporaires : après un certain délai (souvent 70 ans après la mort de l'auteur pour le droit d'auteur), l'œuvre tombe dans le domaine public.",
+      "definition": "Droits intellectuels : droits reconnus à une personne sur ses créations de l'esprit. Ils comportent une dimension patrimoniale (exploiter économiquement l'œuvre) et une dimension extrapatrimoniale (droit moral). Ils se divisent en propriété littéraire et artistique (droits d'auteur) et propriété industrielle (brevets, marques, dessins et modèles).",
+      "exemple": "Une compositrice malgache crée une chanson. Son droit d'auteur lui permet d'en percevoir les droits de diffusion (dimension patrimoniale) et d'interdire que sa chanson soit modifiée sans son accord (droit moral, dimension extrapatrimoniale). Une entreprise qui crée un nouveau médicament peut déposer un brevet et interdire aux concurrents de le copier pendant 20 ans."
+    },
+    {
+      "titre": "Les quatre caractères des droits patrimoniaux",
+      "texte": "Les droits patrimoniaux partagent quatre caractères essentiels qui les distinguent des droits extrapatrimoniaux. Premier caractère : ils sont cessibles. Cela signifie qu'on peut les vendre, les donner ou les céder à une autre personne. On peut vendre sa maison (droit de propriété), céder sa créance à un tiers (cession de créance), ou licencier ses droits d'auteur. Deuxième caractère : ils sont transmissibles. À la mort de leur titulaire, ils se transmettent à ses héritiers. La maison du défunt entre dans la succession ; ses créances aussi. La loi organise cette transmission. Troisième caractère : ils sont saisissables. Si une personne ne rembourse pas ses dettes, ses créanciers peuvent saisir ses biens patrimoniaux — sa maison, son compte bancaire, sa voiture — pour les faire vendre et se rembourser. Quatrième caractère : ils sont prescriptibles. Cela signifie qu'ils peuvent s'éteindre avec le temps. Si un créancier n'agit pas pendant trop longtemps, il perd son droit de réclamer en justice. Les délais de prescription varient selon les droits en cause.",
+      "definition": "Les droits patrimoniaux ont quatre caractères : cessibles (peuvent être vendus ou cédés), transmissibles (passent aux héritiers), saisissables (peuvent être saisis par les créanciers), et prescriptibles (peuvent s'éteindre par l'écoulement du temps).",
+      "exemple": "Hery décède en laissant une maison, 3 000 000 ariary en banque et une créance de 500 000 ariary contre un débiteur. Tous ces droits patrimoniaux passent à ses héritiers (transmissibilité). Son créancier aurait pu saisir ces biens de son vivant (saisissabilité). Mais si Hery avait eu une créance dont il n'avait pas réclamé le paiement depuis 30 ans, elle aurait pu être prescrite (prescriptibilité)."
+    },
+    {
+      "titre": "Les droits extrapatrimoniaux : hors du commerce, hors du temps",
+      "texte": "Les droits extrapatrimoniaux sont des droits tellement liés à la personne elle-même qu'ils ne peuvent pas faire l'objet de commerce. On ne peut pas les vendre, les acheter, ni les mettre en gage. Ils existent indépendamment de toute valeur économique. Ces droits se divisent en trois groupes principaux. Les droits de la personnalité protègent l'identité et l'intégrité de chaque individu : le droit au nom, le droit à l'image, le droit à l'honneur et à la réputation, le droit à la vie privée, le droit à l'intégrité physique, le droit à l'intégrité morale. Les droits familiaux organisent les relations au sein de la famille : l'autorité parentale sur les enfants, les droits et devoirs entre époux, le droit à entretenir des relations avec ses proches. Les libertés publiques — aussi appelées droits fondamentaux — garantissent la liberté de chaque citoyen face au pouvoir : la liberté d'expression, la liberté de religion, le droit de vote, le droit d'accès à la justice. Ces trois catégories partagent les mêmes caractères qui les opposent radicalement aux droits patrimoniaux.",
+      "definition": "Droits extrapatrimoniaux : droits subjectifs attachés à la personne elle-même, sans valeur pécuniaire directe, qui ne peuvent faire l'objet d'aucun commerce. Ils se divisent en droits de la personnalité, droits familiaux et libertés publiques (droits fondamentaux)."
+    },
+    {
+      "titre": "Les quatre caractères des droits extrapatrimoniaux",
+      "texte": "Les droits extrapatrimoniaux s'opposent terme à terme aux droits patrimoniaux par leurs quatre caractères propres. Premier caractère : ils sont incessibles. On ne peut pas vendre son droit au nom, ni céder son droit à l'honneur. Quiconque prétendrait acheter le droit à l'honneur d'une autre personne conclurait un contrat nul — car ces droits sont hors commerce. Deuxième caractère : ils sont intransmissibles. À la mort de leur titulaire, ces droits s'éteignent. Ils ne passent pas aux héritiers. La personnalité juridique disparaît avec la mort, et avec elle les droits qui lui étaient attachés. Troisième caractère : ils sont insaisissables. Un créancier ne peut pas saisir le droit à l'image de son débiteur, ni son droit de vote, ni son autorité parentale. Ces droits échappent à toute saisie. Quatrième caractère : ils sont imprescriptibles. Contrairement aux droits patrimoniaux qui peuvent s'éteindre par le non-usage prolongé, les droits extrapatrimoniaux ne s'éteignent jamais par prescription. Le droit à la vie, le droit à l'honneur, le droit au nom — on ne les perd pas parce qu'on ne les a pas exercés pendant dix ans. Ils durent autant que la personne elle-même.",
+      "definition": "Les droits extrapatrimoniaux ont quatre caractères opposés à ceux des droits patrimoniaux : ils sont incessibles (ne peuvent être vendus ni cédés), intransmissibles (ne passent pas aux héritiers), insaisissables (ne peuvent être saisis par les créanciers), et imprescriptibles (ne s'éteignent pas par l'écoulement du temps).",
+      "exemple": "Nivo est un écrivain reconnu à Antananarivo. Il accumule des dettes et un créancier veut le saisir. Le créancier peut saisir ses droits d'auteur patrimoniaux (les redevances dues sur ses livres). Mais il ne peut pas saisir son droit moral sur son œuvre, ni son droit à l'image, ni son droit au nom : ces droits extrapatrimoniaux lui appartiennent inaliénablement et restent hors d'atteinte."
+    },
+    {
+      "titre": "Les droits de la personnalité : des droits fondamentaux attachés à chaque être humain",
+      "texte": "Les droits de la personnalité méritent qu'on s'y arrête. Ils forment la catégorie la plus importante des droits extrapatrimoniaux. Ce sont des droits qui appartiennent à tout être humain du seul fait de son existence. Nul ne peut en être privé. Parmi les principaux droits de la personnalité, on trouve le droit à la vie — le droit le plus fondamental, qui interdit à quiconque de porter atteinte à l'existence d'autrui. Le droit à l'intégrité physique protège le corps contre les atteintes non consenties : personne ne peut vous imposer une opération médicale sans votre accord (sauf urgence vitale). Le droit à l'intégrité morale protège contre les atteintes psychologiques, les humiliations et les traitements dégradants. Le droit à l'honneur et à la réputation protège contre la diffamation — les fausses accusations portées publiquement qui nuisent à l'image d'une personne. Le droit à l'image interdit de photographier et de diffuser l'image d'une personne sans son consentement. Le droit à la vie privée protège la sphère intime : les conversations, la vie familiale, les données personnelles. Le droit au nom garantit à chacun l'usage exclusif de son nom et interdit à autrui de l'usurper.",
+      "definition": "Droits de la personnalité : droits extrapatrimoniaux attachés à tout être humain du seul fait de son existence. Ils comprennent notamment le droit à la vie, le droit à l'intégrité physique, le droit à l'intégrité morale, le droit à l'honneur, le droit à l'image, le droit à la vie privée et le droit au nom.",
+      "exemple": "Un journaliste malgache publie une photo de Lalao prise dans l'enceinte de son domicile sans sa permission. Lalao peut agir en justice sur le fondement de son droit à l'image (extrapatrimonial) et obtenir la suppression de la photo et des dommages et intérêts. Mais ces dommages et intérêts sont une réparation pécuniaire d'une atteinte extrapatrimoniale — le droit lui-même reste incessible."
+    },
+    {
+      "titre": "La frontière peut être floue : les droits mixtes",
+      "texte": "Si la distinction entre droits patrimoniaux et extrapatrimoniaux est claire en théorie, la réalité est parfois plus complexe. Certains droits ont une double nature : une dimension extrapatrimoniale et une dimension patrimoniale. Les droits d'auteur en sont l'exemple le plus frappant. Le droit moral de l'auteur sur son œuvre — droit au respect de son nom, droit au respect de l'intégrité de l'œuvre — est extrapatrimonial : il est incessible, intransmissible et imprescriptible. Mais les droits patrimoniaux d'auteur — le droit d'exploiter économiquement l'œuvre, d'en percevoir les redevances — sont au contraire cessibles, transmissibles et prescriptibles. Il en va de même pour certains droits familiaux. L'action en recherche de paternité est un droit extrapatrimonial (établir un lien de filiation). Mais cette filiation, une fois établie, ouvre des droits patrimoniaux (succession, pension alimentaire). Autre exemple : le préjudice moral subi lors d'une atteinte à la personnalité est extrapatrimonial. Mais lorsqu'un tribunal condamne l'auteur de cette atteinte à verser des dommages et intérêts, la créance de réparation est patrimoniale. La violation d'un droit extrapatrimonial peut donc engendrer une créance patrimoniale.",
+      "definition": "Droits à double nature : certains droits combinent dimension extrapatrimoniale et dimension patrimoniale. Exemple type : le droit d'auteur, dont le droit moral est extrapatrimonial (incessible, imprescriptible) et les droits d'exploitation sont patrimoniaux (cessibles, transmissibles). La violation d'un droit extrapatrimonial peut engendrer une réparation patrimoniale.",
+      "exemple": "Un réalisateur malgache crée un film. Son droit moral (droit au respect de son nom au générique) est extrapatrimonial : il ne peut pas le vendre. Mais il peut céder à un distributeur ses droits d'exploitation économique du film (droits patrimoniaux). Si quelqu'un diffuse le film sans autorisation, il viole à la fois le droit moral et les droits patrimoniaux : le réalisateur peut demander en justice une indemnisation en argent — créance patrimoniale née d'une atteinte partiellement extrapatrimoniale."
+    },
+    {
+      "titre": "Les biens : meubles et immeubles",
+      "texte": "Les droits réels s'exercent sur des choses. Ces choses, le droit les appelle des biens. Un bien, au sens juridique, est une chose appropriable et susceptible d'avoir une valeur économique. Les biens se divisent en deux grandes catégories : les biens meubles et les biens immeubles. Un bien immeuble est, par nature, un bien qui ne peut pas se déplacer. La terre, le sol, les bâtiments qui y sont attachés : une parcelle de terrain à Nosy Be, une maison à Antsiranana, un immeuble à Antananarivo. La loi considère aussi comme immeubles certains biens par destination : des machines fixées à demeure dans une usine, par exemple. Un bien meuble est un bien qui peut se déplacer, soit par lui-même, soit en étant déplacé. Une voiture, un téléphone, un animal, des billets de banque, une récolte après qu'elle a été séparée de la terre. La loi assimile aussi à des meubles certains droits : les créances, les droits d'auteur patrimoniaux, les parts de sociétés. Cette distinction entre meubles et immeubles a d'importantes conséquences juridiques : les règles de vente, de succession, de saisie, et les formalités de publicité varient selon qu'on est en présence d'un meuble ou d'un immeuble.",
+      "definition": "Biens immeubles : choses fixes, attachées à la terre, qui ne peuvent être déplacées sans être altérées (terrains, bâtiments, constructions). Biens meubles : choses qui peuvent être déplacées (véhicules, objets, animaux, argent). La distinction est importante car les règles juridiques applicables diffèrent selon la nature du bien.",
+      "exemple": "La maison de Rabe à Diego-Suarez est un bien immeuble : pour la vendre, il faudra un acte notarié et une publicité foncière. Sa moto est un bien meuble : la vente peut se faire par simple accord. Ses 500 000 ariary en banque (créance sur la banque) sont également des meubles incorporels."
+    },
+    {
+      "titre": "Synthèse : la carte complète des droits subjectifs",
+      "texte": "Voici comment s'organise l'ensemble des droits subjectifs. Au sommet de la classification : la grande division entre droits patrimoniaux et droits extrapatrimoniaux. Du côté patrimonial, trois branches : les droits réels (sur les choses — principalement le droit de propriété et ses démembrements), les droits personnels ou droits de créance (contre une personne — le créancier exige du débiteur), et les droits intellectuels (sur les créations — droits d'auteur, brevets, marques). Du côté extrapatrimonial, trois branches également : les droits de la personnalité (droit à la vie, à l'intégrité, à l'image, à l'honneur, au nom, à la vie privée), les droits familiaux (autorité parentale, obligations entre époux, droits de visite), et les libertés publiques (liberté d'expression, liberté religieuse, droit de vote). Les droits patrimoniaux sont cessibles, transmissibles, saisissables et prescriptibles. Les droits extrapatrimoniaux sont incessibles, intransmissibles, insaisissables et imprescriptibles. Certains droits ont une double nature (droits d'auteur, droits familiaux ouvrant à des créances). C'est l'architecture complète des droits subjectifs.",
+      "definition": "Synthèse : Droits subjectifs → Patrimoniaux (droits réels / droits personnels / droits intellectuels) + Extrapatrimoniaux (droits de la personnalité / droits familiaux / libertés publiques). Patrimoniaux = cessibles, transmissibles, saisissables, prescriptibles. Extrapatrimoniaux = incessibles, intransmissibles, insaisissables, imprescriptibles."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce qu'un droit subjectif ?",
+      "choix": [
+        "L'ensemble des règles de droit applicables dans un pays",
+        "Une prérogative individuelle reconnue à une personne par le droit objectif, lui permettant d'exiger ou de faire quelque chose",
+        "Une décision rendue par un tribunal",
+        "Un texte voté par le Parlement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mot subjectif vient de subjectum — le sujet, la personne.",
+        "C'est un droit attaché à une personne précise, pas à tout le monde.",
+        "Pensez à des exemples : mon droit de propriété, ma créance, mon droit au nom."
+      ],
+      "explication": "Un droit subjectif est une prérogative individuelle : un pouvoir reconnu par le droit objectif à une personne précise, lui permettant de faire quelque chose, d'exiger quelque chose, ou d'opposer ses droits à autrui. Il s'oppose au droit objectif qui est la règle générale applicable à tous."
+    },
+    {
+      "question": "Quelle est la grande division des droits subjectifs ?",
+      "choix": [
+        "Droits civils et droits pénaux",
+        "Droits écrits et droits non écrits",
+        "Droits patrimoniaux et droits extrapatrimoniaux",
+        "Droits publics et droits privés"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Cette distinction repose sur la valeur économique du droit.",
+        "L'un des deux groupes entre dans le patrimoine ; l'autre n'y entre pas.",
+        "La leçon appelle cela la 'grande division'."
+      ],
+      "explication": "La grande division des droits subjectifs est celle entre droits patrimoniaux (évaluables en argent, entrant dans le patrimoine) et droits extrapatrimoniaux (attachés à la personne, sans valeur pécuniaire directe, situés hors du patrimoine). Tout le reste de la classification découle de cette distinction fondamentale."
+    },
+    {
+      "question": "Qu'est-ce que le patrimoine d'une personne ?",
+      "choix": [
+        "L'ensemble de ses biens immobiliers uniquement",
+        "L'ensemble de ses droits et obligations ayant une valeur économique — actif et passif confondus",
+        "L'ensemble de ses droits politiques et civiques",
+        "L'argent qu'elle a sur ses comptes bancaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le patrimoine n'est pas que l'actif : il comprend aussi le passif.",
+        "Actif = ce qu'on possède ou ce qu'on nous doit. Passif = ce qu'on doit.",
+        "C'est une notion économique et juridique à la fois."
+      ],
+      "explication": "Le patrimoine est l'ensemble des droits et des obligations d'une personne ayant une valeur économique. Il comprend un actif (biens, créances, droits) et un passif (dettes, obligations). Ce n'est donc pas seulement ce qu'on possède, mais aussi ce qu'on doit. Toute personne a un patrimoine, même vide."
+    },
+    {
+      "question": "Vrai ou faux : une personne peut avoir plusieurs patrimoines.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La théorie classique du patrimoine dit qu'il est indivisible.",
+        "Aubry et Rau ont formulé le principe de l'unité du patrimoine.",
+        "Il est attaché à la personne : une personne, un patrimoine."
+      ],
+      "explication": "Faux, selon la théorie classique. Le patrimoine est unique et indivisible : chaque personne n'a qu'un seul patrimoine, attaché à sa personnalité. C'est la théorie dite de la personnalité, formulée par les juristes Aubry et Rau. Il existe cependant des exceptions légales modernes, comme le patrimoine d'affectation pour les entrepreneurs individuels."
+    },
+    {
+      "question": "En combien de catégories se divisent les droits patrimoniaux ?",
+      "choix": [
+        "Deux : droits réels et droits personnels",
+        "Trois : droits réels, droits personnels et droits intellectuels",
+        "Quatre : droits réels, personnels, intellectuels et familiaux",
+        "Cinq catégories distinctes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne trois grandes catégories de droits patrimoniaux.",
+        "L'une porte sur les choses, l'autre sur les personnes, la troisième sur les créations de l'esprit.",
+        "Les droits familiaux sont extrapatrimoniaux, pas patrimoniaux."
+      ],
+      "explication": "Les droits patrimoniaux se divisent en trois grandes catégories : les droits réels (droits exercés directement sur une chose), les droits personnels ou droits de créance (droits d'exiger une prestation d'une personne déterminée), et les droits intellectuels (droits sur les créations de l'esprit — propriété littéraire et artistique, propriété industrielle)."
+    },
+    {
+      "question": "Qu'est-ce qu'un droit réel ?",
+      "choix": [
+        "Un droit qui existe vraiment, par opposition à un droit fictif",
+        "Un droit qu'une personne exerce directement sur une chose, sans intermédiaire",
+        "Un droit exercé contre une personne déterminée",
+        "Un droit consacré par une loi récente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Réel vient du latin res, qui signifie 'la chose'.",
+        "C'est un rapport direct entre une personne et une chose.",
+        "Le droit de propriété est l'exemple le plus courant."
+      ],
+      "explication": "Un droit réel est un droit qu'une personne exerce directement sur une chose (res en latin), sans avoir besoin de passer par une autre personne. Le droit de propriété est le droit réel le plus complet : il donne à son titulaire le droit d'utiliser la chose, d'en percevoir les fruits, et d'en disposer."
+    },
+    {
+      "question": "Le droit réel est dit 'opposable erga omnes'. Qu'est-ce que cela signifie ?",
+      "choix": [
+        "Il ne s'applique qu'à l'égard d'une seule personne déterminée",
+        "Il peut être opposé à tout le monde — n'importe qui doit respecter ce droit",
+        "Il ne peut être exercé que devant certains tribunaux",
+        "Il est inscrit dans une loi internationale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Erga omnes est une expression latine qui signifie 'à l'égard de tous'.",
+        "Si je suis propriétaire d'un terrain, tout le monde doit respecter ma propriété.",
+        "C'est ce qui distingue le droit réel du droit personnel."
+      ],
+      "explication": "Opposable erga omnes signifie opposable à l'égard de tous. Le titulaire d'un droit réel peut faire valoir son droit contre n'importe quelle personne qui y porterait atteinte. Tout le monde est tenu de respecter le droit de propriété d'une personne sur sa chose. C'est l'opposé du droit personnel, qui n'est opposable qu'au débiteur."
+    },
+    {
+      "question": "Qu'est-ce qu'un droit personnel (ou droit de créance) ?",
+      "choix": [
+        "Un droit exercé directement sur une chose appartenant à la personne",
+        "Le droit d'un créancier d'exiger d'un débiteur l'exécution d'une prestation",
+        "Un droit attaché à la personnalité d'un individu, comme le droit à l'honneur",
+        "Un droit consacré par la Constitution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit personnel crée un lien entre deux personnes : créancier et débiteur.",
+        "Ce n'est pas un droit sur une chose, mais un droit contre une personne.",
+        "Exemples : le droit d'exiger le remboursement d'un prêt, d'exiger la livraison d'une commande."
+      ],
+      "explication": "Un droit personnel, ou droit de créance, est le droit qu'a une personne (le créancier) d'exiger d'une autre personne déterminée (le débiteur) l'exécution d'une prestation. Cette prestation peut être de donner (remettre de l'argent), de faire (exécuter un travail) ou de ne pas faire (s'abstenir d'une activité concurrente)."
+    },
+    {
+      "question": "Quelle est la principale différence entre un droit réel et un droit personnel ?",
+      "choix": [
+        "Le droit réel est temporaire ; le droit personnel est permanent",
+        "Le droit réel porte sur une chose et est opposable à tous ; le droit personnel porte sur le comportement d'une personne déterminée et n'est opposable qu'à elle",
+        "Le droit réel peut se transmettre aux héritiers ; le droit personnel ne le peut pas",
+        "Le droit réel est créé par la loi ; le droit personnel est créé par un contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La distinction porte sur l'objet du droit (chose vs personne) et son opposabilité.",
+        "Absolu vs relatif : c'est la clé.",
+        "La leçon compare les deux en disant que le droit réel est 'absolu' et le droit personnel 'relatif'."
+      ],
+      "explication": "Le droit réel est exercé directement sur une chose et est opposable à tous (absolu). Le droit personnel est exercé contre une personne déterminée et n'est opposable qu'à elle (relatif). Si mon débiteur ne paie pas, je ne peux exiger le paiement que de lui — pas de tiers. Mais si je suis propriétaire d'un bien, je peux défendre ma propriété contre quiconque y porterait atteinte."
+    },
+    {
+      "question": "Tiana commande un meuble à un artisan et paie la moitié à l'avance. L'artisan tarde à livrer. Quel type de droit Tiana peut-elle exercer ?",
+      "choix": [
+        "Un droit réel : elle peut saisir le meuble chez l'artisan",
+        "Un droit personnel : elle peut exiger de l'artisan qu'il exécute son obligation de livraison",
+        "Un droit extrapatrimonial : elle peut défendre son honneur",
+        "Un droit intellectuel : elle peut protéger le design du meuble commandé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Tiana a payé. L'artisan lui doit quelque chose. Quel type de lien cela crée-t-il ?",
+        "Ce droit ne s'exerce que contre l'artisan, pas contre d'autres.",
+        "C'est le schéma classique du droit personnel : créancier/débiteur."
+      ],
+      "explication": "Tiana dispose d'un droit personnel — un droit de créance — contre l'artisan. Elle est créancière, l'artisan est débiteur. Elle peut exiger de lui l'exécution de son obligation de livraison (prestation de faire). Ce droit n'est opposable qu'à l'artisan : elle ne peut pas exiger la livraison du voisin de l'artisan ou de son apprenti."
+    },
+    {
+      "question": "Qu'est-ce que l'usufruit ?",
+      "choix": [
+        "Le droit de propriété complet sur un bien",
+        "Le droit d'utiliser une chose et d'en percevoir les fruits, sans pouvoir en disposer (la vendre ou la donner)",
+        "Le droit de percevoir les revenus d'un bien sans pouvoir l'habiter",
+        "Un type de créance commerciale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'usufruit est un démembrement de la propriété.",
+        "Le propriétaire garde la nue-propriété ; l'usufruitier a l'usage et la jouissance.",
+        "L'usufruitier peut habiter la maison ou la louer, mais ne peut pas la vendre."
+      ],
+      "explication": "L'usufruit est un droit réel qui donne à son titulaire le droit d'utiliser une chose appartenant à autrui et d'en percevoir les fruits (loyers, récoltes, revenus), sans pouvoir en disposer (la vendre, la donner, la détruire). C'est un démembrement de la propriété : la pleine propriété est divisée entre le nu-propriétaire et l'usufruitier."
+    },
+    {
+      "question": "Rasoa donne à sa mère l'usufruit de sa maison à Diego-Suarez. Que peut faire la mère ?",
+      "choix": [
+        "Vendre la maison à un tiers",
+        "Habiter la maison ou la mettre en location pour en percevoir les loyers, mais pas la vendre",
+        "Hypothéquer la maison pour obtenir un crédit",
+        "Détruire la maison et reconstruire à sa guise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'usufruitier peut utiliser et percevoir les fruits — pas disposer du bien.",
+        "Disposer, c'est vendre, donner, hypothéquer, détruire.",
+        "La mère n'a que l'usufruit, pas la nue-propriété."
+      ],
+      "explication": "La mère, en tant qu'usufruitière, peut habiter la maison (usage) ou la louer et percevoir les loyers (jouissance des fruits). Mais elle ne peut pas vendre la maison, la donner, l'hypothéquer ou la détruire — car ces actes de disposition appartiennent au nu-propriétaire, Rasoa. L'usufruit est un droit réel limité par rapport à la pleine propriété."
+    },
+    {
+      "question": "En cas de faillite d'un débiteur, qui est le mieux protégé : le titulaire d'un droit réel ou le titulaire d'un droit personnel ?",
+      "choix": [
+        "Le titulaire d'un droit personnel, car il peut exiger le paiement prioritairement",
+        "Le titulaire d'un droit réel, car il peut revendiquer son bien ou exercer un droit de préférence",
+        "Les deux sont également protégés",
+        "Aucun des deux ne peut récupérer quoi que ce soit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un droit réel comme l'hypothèque confère une priorité sur la vente forcée du bien.",
+        "Un simple créancier personnel est en concurrence avec tous les autres créanciers.",
+        "C'est pour cela que les banques exigent des garanties réelles."
+      ],
+      "explication": "Le titulaire d'un droit réel est mieux protégé. Par exemple, le créancier hypothécaire peut faire vendre l'immeuble hypothéqué et se payer en priorité sur le prix de vente. Le simple créancier personnel, lui, entre en concurrence avec tous les autres créanciers et risque de ne pas être remboursé intégralement si le patrimoine du débiteur est insuffisant."
+    },
+    {
+      "question": "Que sont les droits intellectuels ?",
+      "choix": [
+        "Des droits réservés aux personnes ayant un niveau d'études supérieur",
+        "Des droits reconnus à une personne sur ses créations de l'esprit, comportant une dimension patrimoniale et une dimension extrapatrimoniale",
+        "Des droits exercés sur des biens meubles incorporels sans rapport avec la création",
+        "Des droits familiaux attachés aux parents d'enfants doués intellectuellement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces droits portent sur les créations : romans, inventions, marques.",
+        "Ils ont deux dimensions : économique (exploitation) et personnelle (droit moral).",
+        "Le droit d'auteur et les brevets en sont les exemples classiques."
+      ],
+      "explication": "Les droits intellectuels sont les droits reconnus à une personne sur ses créations de l'esprit. Ils comportent une dimension patrimoniale (droit d'exploiter économiquement l'œuvre) et une dimension extrapatrimoniale (droit moral : droit au respect du nom et de l'intégrité de l'œuvre). Ils se divisent en propriété littéraire et artistique et propriété industrielle."
+    },
+    {
+      "question": "Quelle est la durée de protection du droit d'auteur dans la plupart des systèmes juridiques ?",
+      "choix": [
+        "10 ans à compter de la publication de l'œuvre",
+        "La vie de l'auteur uniquement",
+        "Généralement 70 ans après la mort de l'auteur, puis l'œuvre tombe dans le domaine public",
+        "Indéfiniment — le droit d'auteur est imprescriptible"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon précise que les droits intellectuels sont temporaires.",
+        "La protection dure au-delà de la vie de l'auteur.",
+        "Après expiration, l'œuvre peut être utilisée librement par tous."
+      ],
+      "explication": "Dans la plupart des systèmes juridiques, dont celui qui inspire le droit malgache, les droits patrimoniaux d'auteur sont protégés pendant la vie de l'auteur et généralement 70 ans après sa mort. À l'expiration de ce délai, l'œuvre tombe dans le domaine public : n'importe qui peut la reproduire ou l'adapter librement. C'est pour cela que les droits intellectuels sont dit temporaires — contrairement au droit de propriété ordinaire."
+    },
+    {
+      "question": "Quels sont les quatre caractères des droits patrimoniaux ?",
+      "choix": [
+        "Incessibles, intransmissibles, insaisissables, imprescriptibles",
+        "Cessibles, transmissibles, saisissables, prescriptibles",
+        "Cessibles, intransmissibles, insaisissables, imprescriptibles",
+        "Absolus, relatifs, temporaires, permanents"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les droits patrimoniaux peuvent être vendus, transmis aux héritiers, saisis et s'éteindre avec le temps.",
+        "Ce sont les caractères opposés à ceux des droits extrapatrimoniaux.",
+        "La leçon présente ces quatre caractères en détail."
+      ],
+      "explication": "Les droits patrimoniaux ont quatre caractères : ils sont cessibles (peuvent être vendus ou cédés), transmissibles (passent aux héritiers au décès), saisissables (peuvent être saisis par les créanciers), et prescriptibles (peuvent s'éteindre si leur titulaire n'agit pas dans les délais prévus par la loi)."
+    },
+    {
+      "question": "Quels sont les quatre caractères des droits extrapatrimoniaux ?",
+      "choix": [
+        "Cessibles, transmissibles, saisissables, prescriptibles",
+        "Incessibles, intransmissibles, insaisissables, imprescriptibles",
+        "Relatifs, absolus, personnels, réels",
+        "Provisoires, définitifs, opposables, relatifs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce sont les quatre opposés des caractères des droits patrimoniaux.",
+        "On ne peut pas vendre son honneur, le léguer à ses enfants, le saisir, ni le perdre avec le temps.",
+        "La leçon les présente comme des caractères qui s'opposent terme à terme."
+      ],
+      "explication": "Les droits extrapatrimoniaux ont quatre caractères qui s'opposent exactement à ceux des droits patrimoniaux : ils sont incessibles (ne peuvent être vendus ni cédés), intransmissibles (s'éteignent au décès et ne passent pas aux héritiers), insaisissables (ne peuvent être saisis par les créanciers), et imprescriptibles (ne s'éteignent pas par l'écoulement du temps)."
+    },
+    {
+      "question": "Voici une liste de droits : droit de propriété, droit au nom, droit de créance, droit à l'image, droit d'auteur (dimension patrimoniale). Lesquels sont patrimoniaux ?",
+      "choix": [
+        "Droit au nom et droit à l'image uniquement",
+        "Droit de propriété, droit de créance et dimension patrimoniale du droit d'auteur",
+        "Tous ces droits sont patrimoniaux",
+        "Aucun de ces droits n'est patrimonial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les droits patrimoniaux ont une valeur économique et entrent dans le patrimoine.",
+        "Le droit au nom et le droit à l'image sont des droits de la personnalité.",
+        "Le droit de propriété, la créance et les droits d'exploitation sont évaluables en argent."
+      ],
+      "explication": "Sont patrimoniaux : le droit de propriété (droit réel), le droit de créance (droit personnel), et la dimension patrimoniale du droit d'auteur (exploitation économique de l'œuvre). Le droit au nom et le droit à l'image sont des droits de la personnalité — des droits extrapatrimoniaux — car ils sont attachés à la personne et ne peuvent pas être vendus."
+    },
+    {
+      "question": "Nivo est un écrivain criblé de dettes. Son créancier peut-il saisir son droit à l'image pour le faire vendre ?",
+      "choix": [
+        "Oui, car le droit à l'image a une valeur commerciale potentielle",
+        "Non, car le droit à l'image est un droit extrapatrimonial insaisissable",
+        "Oui, mais seulement si un tribunal l'autorise expressément",
+        "Non, mais seulement si Nivo est mineur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit à l'image est un droit de la personnalité.",
+        "Les droits de la personnalité sont extrapatrimoniaux.",
+        "L'un des caractères des droits extrapatrimoniaux est l'insaisissabilité."
+      ],
+      "explication": "Non. Le droit à l'image est un droit extrapatrimonial — un droit de la personnalité — et à ce titre il est insaisissable. Les créanciers ne peuvent pas saisir les droits extrapatrimoniaux, quelles que soient les dettes du débiteur. En revanche, ils peuvent saisir les droits patrimoniaux de Nivo : ses redevances d'auteur, ses biens mobiliers, son compte bancaire."
+    },
+    {
+      "question": "Qu'advient-il des droits extrapatrimoniaux à la mort de leur titulaire ?",
+      "choix": [
+        "Ils passent aux héritiers comme les autres droits",
+        "Ils peuvent être légués par testament aux personnes de son choix",
+        "Ils s'éteignent avec la personne : ils ne se transmettent pas aux héritiers",
+        "Ils deviennent la propriété de l'État"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les droits extrapatrimoniaux sont intransmissibles.",
+        "Ils sont attachés à la personnalité de la personne.",
+        "La personnalité juridique s'éteint avec la mort."
+      ],
+      "explication": "Les droits extrapatrimoniaux s'éteignent avec leur titulaire. Ils sont intransmissibles. Au décès d'une personne, son droit à l'honneur, son droit à l'image, son droit à la vie privée disparaissent avec elle. Seuls les droits patrimoniaux (biens, créances, droits d'exploitation) se transmettent aux héritiers dans le cadre de la succession."
+    },
+    {
+      "question": "Un journaliste publie une photo de Lalao prise sans permission dans son domicile. Sur quel fondement Lalao peut-elle agir en justice ?",
+      "choix": [
+        "Son droit de propriété sur la photo (droit réel)",
+        "Son droit à l'image, qui est un droit de la personnalité (droit extrapatrimonial)",
+        "Son droit de créance contre le journaliste (droit personnel patrimonial)",
+        "Son droit au nom (qui interdit d'utiliser son prénom)"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La photo représente Lalao. Quel droit protège la représentation d'une personne ?",
+        "Ce droit est un droit de la personnalité.",
+        "Il est extrapatrimonial — mais sa violation peut ouvrir droit à une réparation en argent."
+      ],
+      "explication": "Lalao peut agir sur le fondement de son droit à l'image — un droit de la personnalité extrapatrimonial. Toute personne contrôle l'utilisation de son image et peut s'opposer à sa captation et à sa diffusion sans consentement. La violation de ce droit extrapatrimonial peut cependant ouvrir droit à des dommages et intérêts : une réparation pécuniaire (patrimoniale) pour la violation d'un droit extrapatrimonial."
+    },
+    {
+      "question": "En quoi consiste le 'droit moral' de l'auteur sur son œuvre ?",
+      "choix": [
+        "Le droit de percevoir des redevances sur chaque vente de son œuvre",
+        "Le droit de s'opposer à toute modification de son œuvre et d'exiger que son nom soit mentionné — un droit extrapatrimonial attaché à sa personnalité",
+        "Le droit d'interdire à quiconque de lire son œuvre sans payer",
+        "Le droit de choisir l'éditeur qui publiera son œuvre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit moral s'oppose au droit d'exploitation (patrimonial).",
+        "Il protège le lien entre l'auteur et son œuvre.",
+        "Il est incessible et imprescriptible — caractères d'un droit extrapatrimonial."
+      ],
+      "explication": "Le droit moral est la dimension extrapatrimoniale du droit d'auteur. Il comprend notamment le droit au respect du nom (l'auteur peut exiger que son nom soit mentionné), le droit au respect de l'intégrité de l'œuvre (personne ne peut la modifier sans accord), et le droit de divulgation (c'est l'auteur qui décide quand son œuvre est rendue publique). Ce droit est incessible et imprescriptible, même si les droits d'exploitation ont été cédés."
+    },
+    {
+      "question": "Quelle est la différence entre un bien meuble et un bien immeuble ?",
+      "choix": [
+        "Un bien meuble est toujours plus cher qu'un bien immeuble",
+        "Un bien immeuble est attaché à la terre et ne peut pas être déplacé ; un bien meuble peut se déplacer ou être déplacé",
+        "Un bien meuble appartient à une personne physique ; un bien immeuble appartient à l'État",
+        "Il n'y a pas de différence pratique : tous les biens sont soumis aux mêmes règles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Immeuble vient de 'immobile' — ce qui ne bouge pas.",
+        "Meuble vient de 'mobile' — ce qui peut se déplacer.",
+        "Exemples : terrain, maison (immeubles) ; voiture, téléphone, argent (meubles)."
+      ],
+      "explication": "Un bien immeuble est par nature attaché à la terre et ne peut être déplacé sans être altéré ou détruit : terrain, maison, bâtiment, construction. Un bien meuble est un bien qui peut se déplacer par lui-même (un animal) ou être déplacé (une voiture, un téléphone, de l'argent). La loi assimile aussi à des meubles certains droits (créances, parts sociales)."
+    },
+    {
+      "question": "Pourquoi la distinction meuble/immeuble est-elle importante en pratique ?",
+      "choix": [
+        "Elle n'a aucune importance pratique",
+        "Parce que les règles juridiques applicables diffèrent : vente, succession, saisie, publicité sont soumis à des régimes différents selon qu'on est en présence d'un meuble ou d'un immeuble",
+        "Parce que les meubles sont taxés plus lourdement que les immeubles",
+        "Parce que seuls les immeubles peuvent faire l'objet d'un droit de propriété"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La vente d'une maison (immeuble) nécessite un acte notarié. La vente d'une moto (meuble) non.",
+        "Les règles de succession, de saisie et de publicité varient.",
+        "La leçon dit que cette distinction a 'd'importantes conséquences juridiques'."
+      ],
+      "explication": "La distinction meuble/immeuble a d'importantes conséquences juridiques pratiques. La vente d'un immeuble nécessite un acte notarié et une publicité foncière ; celle d'un meuble peut se faire par simple accord. Les règles de succession diffèrent. La saisie d'un immeuble (saisie immobilière) est soumise à une procédure plus complexe que la saisie d'un meuble. Le régime matrimonial peut aussi traiter différemment les meubles et les immeubles."
+    },
+    {
+      "question": "Quels sont les trois groupes de droits extrapatrimoniaux ?",
+      "choix": [
+        "Droits réels, droits personnels, droits intellectuels",
+        "Droits de la personnalité, droits familiaux, libertés publiques",
+        "Droit à la vie, droit au nom, droit à l'image",
+        "Droits civils, droits politiques, droits économiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les droits extrapatrimoniaux ne sont pas que les droits de la personnalité.",
+        "Ils incluent aussi ce qui concerne la famille et les libertés face à l'État.",
+        "La leçon présente trois branches distinctes."
+      ],
+      "explication": "Les droits extrapatrimoniaux se divisent en trois groupes. Les droits de la personnalité (droit à la vie, à l'intégrité, à l'image, à l'honneur, au nom, à la vie privée). Les droits familiaux (autorité parentale, obligations entre époux, droits de visite). Les libertés publiques ou droits fondamentaux (liberté d'expression, liberté religieuse, droit de vote, droit à un procès équitable)."
+    },
+    {
+      "question": "L'autorité parentale d'un père sur son enfant est-elle un droit patrimonial ou extrapatrimonial ?",
+      "choix": [
+        "Patrimonial, car elle a une valeur économique pour la famille",
+        "Extrapatrimonial, car c'est un droit familial attaché à la personne, hors commerce",
+        "Elle est partiellement patrimoniale car elle inclut la gestion des biens de l'enfant",
+        "Ni l'un ni l'autre : l'autorité parentale n'est pas un droit subjectif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'autorité parentale est un droit familial.",
+        "Les droits familiaux sont extrapatrimoniaux.",
+        "On ne peut pas vendre l'autorité parentale — elle est hors commerce."
+      ],
+      "explication": "L'autorité parentale est un droit extrapatrimonial — un droit familial. Elle est attachée à la personne du parent, ne peut pas être vendue ni cédée à titre onéreux, ne se transmet pas par succession, et ne peut pas être saisie par des créanciers. Elle est au service de l'intérêt de l'enfant. Note : elle peut, dans certains cas, être retirée ou suspendue par décision de justice dans l'intérêt de l'enfant."
+    },
+    {
+      "question": "Le droit de vote est-il un droit patrimonial ou extrapatrimonial ?",
+      "choix": [
+        "Patrimonial : il représente une valeur économique pour le citoyen",
+        "Extrapatrimonial : c'est une liberté publique attachée à la personne du citoyen, hors commerce",
+        "Ni l'un ni l'autre : le droit de vote n'est pas un droit subjectif",
+        "Patrimonial, car on peut déléguer son droit de vote à titre onéreux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit de vote est-il achetable ? Vendable ? Transmissible aux héritiers ?",
+        "La leçon classe les libertés publiques parmi les droits extrapatrimoniaux.",
+        "Vendre son vote est illégal — ce qui confirme que ce droit est hors commerce."
+      ],
+      "explication": "Le droit de vote est une liberté publique — un droit extrapatrimonial. Il est incessible (on ne peut pas vendre son vote — c'est d'ailleurs un délit), intransmissible (il ne passe pas aux héritiers), insaisissable (aucun créancier ne peut vous retirer votre droit de vote) et imprescriptible (on ne perd pas son droit de vote faute de l'avoir exercé). C'est un droit attaché à la personne du citoyen."
+    },
+    {
+      "question": "Peut-on vendre son droit à l'honneur ?",
+      "choix": [
+        "Oui, comme n'importe quel droit patrimonial",
+        "Non, car le droit à l'honneur est un droit extrapatrimonial incessible",
+        "Oui, mais seulement pour une durée limitée",
+        "Non, mais on peut le mettre en gage pour obtenir un crédit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit à l'honneur est un droit de la personnalité.",
+        "Les droits de la personnalité sont extrapatrimoniaux.",
+        "L'un des caractères des droits extrapatrimoniaux est l'incessibilité."
+      ],
+      "explication": "Non. Le droit à l'honneur est un droit de la personnalité — un droit extrapatrimonial — et à ce titre il est incessible. On ne peut pas le vendre, le céder, ni le mettre en gage. Tout contrat prétendant vendre le droit à l'honneur d'une personne serait nul car contraire à l'ordre public. Ces droits sont hors commerce."
+    },
+    {
+      "question": "Vrai ou faux : la violation d'un droit extrapatrimonial peut engendrer une réparation pécuniaire (en argent).",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon aborde les droits à double nature.",
+        "Quand une personne porte atteinte à l'honneur ou à l'image d'une autre, que peut demander la victime ?",
+        "Les dommages et intérêts sont une réparation en argent."
+      ],
+      "explication": "Vrai. Bien que le droit extrapatrimonial lui-même soit incessible et hors commerce, sa violation peut engendrer une créance de réparation pécuniaire — des dommages et intérêts. Par exemple, l'atteinte au droit à l'image (extrapatrimonial) peut aboutir à ce que le tribunal condamne l'auteur de l'atteinte à verser une somme d'argent à la victime. La créance de réparation est patrimoniale, même si le droit violé était extrapatrimonial."
+    },
+    {
+      "question": "Qu'est-ce qu'un droit réel accessoire comme l'hypothèque ?",
+      "choix": [
+        "Un droit qui complète le droit de propriété pour en étendre les pouvoirs",
+        "Un droit réel constitué en garantie d'une créance, permettant au créancier de faire vendre l'immeuble hypothéqué et d'être payé en priorité sur le prix",
+        "Un droit exercé sur un immeuble appartenant au débiteur sans son consentement",
+        "Une servitude permettant de passer sur le terrain d'autrui"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les banques utilisent l'hypothèque comme garantie de leurs prêts.",
+        "Si l'emprunteur ne rembourse pas, la banque peut faire vendre la maison.",
+        "C'est un droit réel 'accessoire' car il garantit une créance principale."
+      ],
+      "explication": "L'hypothèque est un droit réel accessoire : elle est constituée en garantie d'une créance (par exemple, un prêt bancaire). Si le débiteur ne rembourse pas, le créancier hypothécaire peut faire saisir et vendre l'immeuble hypothéqué et se payer en priorité sur le prix de vente, avant les autres créanciers. L'hypothèque explique pourquoi les banques exigent une garantie réelle pour les prêts importants."
+    },
+    {
+      "question": "Qu'est-ce qu'une servitude en droit réel ?",
+      "choix": [
+        "Une obligation contractuelle entre deux personnes",
+        "Une charge imposée à un terrain (fonds servant) au profit d'un autre terrain (fonds dominant), comme le droit de passage",
+        "Une saisie immobilière ordonnée par le tribunal",
+        "Un régime de copropriété entre voisins"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon donne l'exemple du droit de passage sur le terrain du voisin.",
+        "La servitude est un droit réel qui grève un immeuble au profit d'un autre immeuble.",
+        "Elle lie les immeubles, pas les personnes : elle suit le bien même s'il change de propriétaire."
+      ],
+      "explication": "Une servitude est un droit réel qui grève un fonds (le fonds servant) au profit d'un autre fonds (le fonds dominant). Exemple classique : une servitude de passage oblige le propriétaire du fonds servant à laisser passer le propriétaire du fonds dominant. La servitude suit les immeubles : si le fonds servant est vendu, le nouvel acheteur reste tenu de la servitude."
+    },
+    {
+      "question": "Qu'est-ce que la propriété industrielle ?",
+      "choix": [
+        "Le droit de propriété exercé sur les bâtiments d'une usine",
+        "L'ensemble des droits protégeant les créations à usage commercial : brevets, marques, dessins et modèles, appellations d'origine",
+        "Le droit des travailleurs de l'industrie à percevoir un salaire",
+        "Les règles d'urbanisme applicables aux zones industrielles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue propriété littéraire et artistique d'un côté, propriété industrielle de l'autre.",
+        "Les brevets protègent les inventions techniques ; les marques protègent les signes distinctifs.",
+        "Ce n'est pas lié au bâtiment d'usine mais aux créations commerciales."
+      ],
+      "explication": "La propriété industrielle est une branche des droits intellectuels qui protège les créations à usage commercial. Elle comprend notamment les brevets d'invention (protection d'un procédé technique ou d'un produit nouveau), les marques commerciales (protection d'un nom ou d'un logo identifiant un produit), les dessins et modèles industriels (protection d'une forme ou d'un design), et les appellations d'origine (protection géographique de produits locaux)."
+    },
+    {
+      "question": "Quel est l'exemple qui illustre le mieux un droit à double nature (patrimoniaux et extrapatrimoniaux) ?",
+      "choix": [
+        "Le droit de propriété sur un terrain",
+        "Le droit au vote",
+        "Le droit d'auteur, qui comporte un droit moral (extrapatrimonial) et des droits d'exploitation (patrimoniaux)",
+        "La créance d'un commerçant sur son client"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon parle de droits à double nature.",
+        "Quel droit combine une dimension personnelle incessible et une dimension économique exploitable ?",
+        "L'auteur peut vendre l'exploitation mais pas son lien avec l'œuvre."
+      ],
+      "explication": "Le droit d'auteur est l'exemple type du droit à double nature. Le droit moral (droit au respect du nom, droit à l'intégrité de l'œuvre) est extrapatrimonial : incessible, intransmissible, imprescriptible — il reste toujours à l'auteur. Les droits patrimoniaux d'exploitation (percevoir des redevances, céder une licence) sont cessibles et transmissibles. Cette dualité est caractéristique des droits intellectuels."
+    },
+    {
+      "question": "Pourquoi dit-on que le droit à l'honneur est imprescriptible ?",
+      "choix": [
+        "Parce qu'il est protégé par la Constitution",
+        "Parce qu'il ne s'éteint pas par l'écoulement du temps — on ne perd pas son droit à l'honneur parce qu'on ne l'a pas exercé",
+        "Parce que les actions en diffamation ne sont jamais prescrites",
+        "Parce que les tribunaux ne peuvent pas limiter ce droit dans le temps"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Prescriptible signifie que le droit peut s'éteindre avec le temps faute d'être exercé.",
+        "Imprescriptible = le temps n'y change rien.",
+        "C'est un caractère des droits extrapatrimoniaux."
+      ],
+      "explication": "L'imprescriptibilité signifie qu'un droit ne s'éteint pas par l'écoulement du temps. On ne perd pas son droit à l'honneur parce qu'on n'a pas agi pendant dix ans. Ce droit dure autant que la personne elle-même. C'est l'un des quatre caractères des droits extrapatrimoniaux, par opposition aux droits patrimoniaux qui peuvent être atteints par la prescription extinctive si leur titulaire n'agit pas à temps."
+    },
+    {
+      "question": "Dans quel ordre logique faut-il retenir les droits patrimoniaux ?",
+      "choix": [
+        "Droits personnels → droits intellectuels → droits réels",
+        "Droits réels (sur les choses) → droits personnels (contre une personne) → droits intellectuels (sur les créations)",
+        "Droits intellectuels → droits réels → droits personnels",
+        "Il n'y a pas d'ordre logique à retenir"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon présente les trois catégories dans un ordre pédagogique.",
+        "Le droit réel porte sur une chose, le droit personnel sur une personne, le droit intellectuel sur une création.",
+        "C'est l'ordre qui va de la chose la plus tangible à la plus abstraite."
+      ],
+      "explication": "L'ordre logique pour retenir les trois catégories de droits patrimoniaux est : les droits réels (exercés directement sur une chose — la propriété, l'usufruit, l'hypothèque), les droits personnels (exercés contre une personne déterminée — la créance, l'obligation), et les droits intellectuels (exercés sur une création de l'esprit — le droit d'auteur, le brevet). Cet ordre va du plus concret (une chose physique) au plus abstrait (une création immatérielle)."
+    },
+    {
+      "question": "Vrai ou faux : le droit à la vie est un droit patrimonial car tout homme a de la valeur.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La valeur 'économique' d'une vie n'est pas la même que la valeur juridique patrimoniale.",
+        "Le droit à la vie est-il cessible ? Vendable ? Saisissable ?",
+        "Les droits de la personnalité sont toujours extrapatrimoniaux."
+      ],
+      "explication": "Faux. Le droit à la vie est un droit extrapatrimonial — le plus fondamental des droits de la personnalité. Il n'a pas de valeur économique au sens juridique : on ne peut pas vendre sa vie, la saisir, ni la transmettre à ses héritiers. Il est incessible, intransmissible, insaisissable et imprescriptible. Le fait que la vie ait une valeur humaine immense n't'en fait pas un droit patrimonial au sens technique du terme."
+    },
+    {
+      "question": "Une entreprise dépose une marque commerciale pour son nouveau produit. Dans quelle catégorie de droits cette marque entre-t-elle ?",
+      "choix": [
+        "Droit réel, car la marque est une chose incorporelle",
+        "Droit de créance, car l'entreprise peut exiger que les concurrents paient pour l'utiliser",
+        "Droit intellectuel — propriété industrielle —, car la marque est une création de l'esprit protégée contre toute imitation",
+        "Droit extrapatrimonial, car la marque est attachée à l'identité de l'entreprise"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La marque commerciale figure dans la leçon parmi les exemples de droits intellectuels.",
+        "Elle relève de la propriété industrielle — la branche qui protège les créations à usage commercial.",
+        "C'est un droit patrimonial : l'entreprise peut le vendre ou le licencier."
+      ],
+      "explication": "La marque commerciale est un droit intellectuel relevant de la propriété industrielle. C'est une création de l'esprit — un signe distinctif — protégée contre toute imitation ou utilisation non autorisée par des tiers. En tant que droit patrimonial, la marque peut être cédée, licenciée, inscrite à l'actif d'une société, et faire l'objet d'une évaluation financière."
+    },
+    {
+      "question": "Synthèse finale : dans quelle catégorie de droits subjectifs classe-t-on chacun des droits suivants ? 1) Le droit de Hery sur sa voiture / 2) La créance de Tiana sur son artisan / 3) Le droit de Nivo au respect de son nom d'auteur",
+      "choix": [
+        "1) Droit personnel / 2) Droit réel / 3) Droit intellectuel patrimonial",
+        "1) Droit réel (patrimonial) / 2) Droit personnel patrimonial / 3) Droit moral extrapatrimonial",
+        "1) Droit extrapatrimonial / 2) Droit intellectuel / 3) Droit réel",
+        "Tous trois sont des droits extrapatrimoniaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La voiture est une chose : quel droit exerce-t-on directement sur une chose ?",
+        "La créance est le droit d'exiger quelque chose d'une personne : quel type de droit est-ce ?",
+        "Le droit au respect du nom d'auteur est le droit moral — patrimonial ou extrapatrimonial ?"
+      ],
+      "explication": "1) Le droit de Hery sur sa voiture est un droit réel (patrimonial) : il exerce directement son droit de propriété sur la chose. 2) La créance de Tiana est un droit personnel (patrimonial) : elle est créancière, l'artisan est débiteur d'une prestation. 3) Le droit de Nivo au respect de son nom d'auteur est le droit moral — dimension extrapatrimoniale du droit d'auteur : incessible, imprescriptible, attaché à sa personnalité d'auteur."
+    },
+    {
+      "question": "Pourquoi les banques exigent-elles une hypothèque avant d'accorder un prêt immobilier important ?",
+      "choix": [
+        "Parce que la loi les y oblige dans tous les cas",
+        "Parce que l'hypothèque leur confère un droit réel sur l'immeuble, leur permettant d'être prioritaires sur la vente forcée en cas de non-remboursement — bien mieux qu'un simple droit personnel",
+        "Parce que cela leur permet de saisir tous les biens de l'emprunteur, mobiliers et immobiliers",
+        "Parce que l'hypothèque transfère la propriété de l'immeuble à la banque pendant toute la durée du prêt"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'hypothèque est un droit réel accessoire.",
+        "En cas de défaillance du débiteur, le créancier hypothécaire est mieux protégé qu'un créancier ordinaire.",
+        "La leçon explique que le titulaire d'un droit réel est 'mieux protégé' que le créancier personnel."
+      ],
+      "explication": "Les banques exigent une hypothèque parce qu'elle leur confère un droit réel sur l'immeuble. En cas de non-remboursement, elles peuvent faire saisir et vendre l'immeuble hypothéqué et se payer en priorité sur le prix de vente, avant les autres créanciers. Un simple droit personnel de créance ne leur offrirait pas cette protection : elles seraient en concurrence avec d'autres créanciers et risqueraient de ne pas être remboursées."
+    },
+    {
+      "question": "En quoi les libertés publiques sont-elles des droits extrapatrimoniaux ?",
+      "choix": [
+        "Parce qu'elles sont trop abstraites pour avoir une valeur économique",
+        "Parce qu'elles sont attachées à la personne du citoyen, incessibles, intransmissibles, insaisissables et imprescriptibles — on ne peut pas les vendre ni les saisir",
+        "Parce qu'elles sont accordées gratuitement par l'État sans contrepartie",
+        "Parce qu'elles ne peuvent s'exercer que dans l'espace public"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les libertés publiques (vote, expression, religion) réunissent-elles les critères des droits extrapatrimoniaux ?",
+        "Peut-on vendre sa liberté d'expression ? Peut-on la léguer à ses enfants ?",
+        "La leçon classe les libertés publiques parmi les droits extrapatrimoniaux."
+      ],
+      "explication": "Les libertés publiques sont des droits extrapatrimoniaux parce qu'elles sont attachées à la personne du citoyen et réunissent tous les caractères des droits extrapatrimoniaux. On ne peut pas vendre sa liberté d'expression (incessible). On ne peut pas la léguer à ses enfants (intransmissible). Aucun créancier ne peut la saisir (insaisissable). Et elle ne s'éteint pas par l'écoulement du temps (imprescriptible)."
+    },
+    {
+      "question": "Vrai ou faux : un bien incorporel comme une créance peut être qualifié de 'meuble' en droit.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon dit que la loi 'assimile aussi à des meubles certains droits'.",
+        "Les créances, les parts sociales, les droits d'auteur patrimoniaux sont des meubles incorporels.",
+        "La catégorie meuble/immeuble ne vaut pas seulement pour les choses physiques."
+      ],
+      "explication": "Vrai. En droit, la catégorie des biens meubles ne se limite pas aux choses physiques que l'on peut déplacer. La loi assimile à des meubles certains droits incorporels : les créances (droit d'exiger une somme d'argent), les droits d'auteur patrimoniaux, les parts de sociétés. Ce sont des meubles incorporels — leur régime suit en principe celui des meubles, même s'ils n'ont pas de consistance physique."
+    },
+    {
+      "question": "Quel est le principe directeur de toute la classification des droits subjectifs que retient cette leçon ?",
+      "choix": [
+        "Plus un droit est important, plus il est patrimonial",
+        "La valeur économique du droit détermine sa catégorie : avec valeur pécuniaire = patrimonial ; sans valeur pécuniaire directe = extrapatrimonial",
+        "Les droits subjectifs ne peuvent pas être classés car ils sont trop nombreux",
+        "Tous les droits subjectifs sont à la fois patrimoniaux et extrapatrimoniaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La distinction fondamentale repose sur la valeur économique.",
+        "Les droits patrimoniaux entrent dans le patrimoine parce qu'ils sont évaluables en argent.",
+        "Les droits extrapatrimoniaux en sortent parce qu'ils ne peuvent pas être monétisés directement."
+      ],
+      "explication": "Le principe directeur est la valeur économique. Un droit subjectif est patrimonial s'il est évaluable en argent et entre dans le patrimoine d'une personne (droit de propriété, créance, droits d'exploitation). Il est extrapatrimonial s'il est attaché à la personne elle-même sans valeur pécuniaire directe (droit à la vie, à l'honneur, à l'image, libertés fondamentales). De ce principe découlent tous les caractères des deux catégories."
+    },
+    {
+      "question": "Vrai ou faux : le droit de propriété est le seul droit réel qui existe.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne d'autres droits réels en dehors de la propriété.",
+        "L'usufruit, la servitude et l'hypothèque sont aussi des droits réels.",
+        "Ces droits sont appelés droits réels démembrés ou droits réels accessoires."
+      ],
+      "explication": "Faux. Le droit de propriété est le droit réel le plus complet, mais ce n'est pas le seul. Il existe des droits réels dits démembrés (l'usufruit, qui donne le droit d'usage et de jouissance sans le droit de disposition) et des droits réels accessoires (l'hypothèque, qui garantit une créance sur un immeuble ; la servitude, qui grève un fonds au profit d'un autre). Tous sont des droits exercés directement sur une chose."
+    },
+    {
+      "question": "Pour quelles raisons un juriste doit-il absolument maîtriser la classification des droits subjectifs ?",
+      "choix": [
+        "Pour impressionner les clients par son vocabulaire technique",
+        "Parce que la classification détermine le régime applicable : ce qu'on peut faire avec un droit (le vendre, le saisir, le transmettre), comment le protéger, et quelles règles procédurales s'appliquent",
+        "Parce que les examens de droit portent toujours sur ce sujet",
+        "Pour distinguer les droits applicables aux hommes de ceux applicables aux femmes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La classification n'est pas une fin en soi : elle a des conséquences pratiques.",
+        "Savoir si un droit est patrimonial ou extrapatrimonial change tout à ce qu'on peut en faire.",
+        "La leçon insiste sur les caractères et leurs implications concrètes."
+      ],
+      "explication": "Maîtriser la classification des droits subjectifs est indispensable car elle détermine le régime juridique applicable. Savoir si un droit est patrimonial permet de savoir si on peut le vendre, le transmettre à ses héritiers, le saisir ou s'il peut se prescrire. Savoir si un droit est réel ou personnel détermine son opposabilité et les garanties disponibles. Sans cette classification, il est impossible de conseiller efficacement un client ou de rédiger un acte juridique adapté."
+    },
+    {
+      "question": "Récapitulatif : Lovatiana hérite de sa grand-mère. Parmi les éléments suivants, lesquels entrent dans la succession (droits patrimoniaux) et lesquels ne la concernent pas (droits extrapatrimoniaux) ? 1) La maison de la grand-mère / 2) Sa créance sur un locataire / 3) Son droit à l'honneur / 4) Ses droits d'auteur sur un roman qu'elle avait écrit",
+      "choix": [
+        "Tous les quatre entrent dans la succession",
+        "Seule la maison entre dans la succession",
+        "La maison, la créance et les droits d'auteur (dimension patrimoniale) entrent dans la succession ; le droit à l'honneur s'éteint au décès",
+        "Aucun de ces droits n'entre dans la succession"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les droits patrimoniaux sont transmissibles (passent aux héritiers).",
+        "Les droits extrapatrimoniaux sont intransmissibles (s'éteignent au décès).",
+        "Le droit à l'honneur est extrapatrimonial. La maison, la créance et les droits d'exploitation sont patrimoniaux."
+      ],
+      "explication": "Entrent dans la succession : la maison (droit réel de propriété — patrimonial et transmissible), la créance sur le locataire (droit personnel — patrimonial et transmissible), et les droits d'auteur patrimoniaux sur le roman (droits d'exploitation — patrimoniaux et transmissibles). Le droit à l'honneur (droit de la personnalité — extrapatrimonial) s'éteint au décès de la grand-mère et ne passe pas à Lovatiana. Note : le droit moral d'auteur, en principe intransmissible, fait l'objet de règles spéciales qui permettent à certains héritiers de le défendre après le décès de l'auteur."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Mahery est musicien à Antananarivo. Il a composé un album qu'il a signé avec un label musical. Il a aussi contracté de nombreuses dettes auprès de plusieurs créanciers. L'un de ses créanciers, impayé, demande à un huissier de saisir : (a) les redevances que le label lui doit, (b) sa guitare de scène, (c) son droit au respect de son nom sur les pochettes de l'album, et (d) son droit de vote aux prochaines élections. Analysez chaque demande de saisie en appliquant la classification des droits subjectifs.",
+      "choix": [
+        "Toutes ces saisies sont légalement possibles car Mahery a des dettes",
+        "Seuls (a) les redevances et (b) la guitare peuvent être saisis ; (c) le droit moral sur son nom et (d) le droit de vote ne peuvent pas être saisis car ils sont extrapatrimoniaux et insaisissables",
+        "Seul le droit de vote ne peut pas être saisi ; tout le reste peut l'être",
+        "Aucune saisie n'est possible car un artiste est protégé par son statut"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Saisissables = droits patrimoniaux. Insaisissables = droits extrapatrimoniaux.",
+        "Les redevances sont une créance (droit personnel patrimonial). La guitare est un bien meuble (droit réel patrimonial). Le droit moral est extrapatrimonial. Le droit de vote est une liberté publique extrapatrimoniale.",
+        "Classez chacun des quatre éléments dans la bonne catégorie avant de conclure."
+      ],
+      "explication": "Voici l'analyse de chaque demande de saisie. (a) Les redevances dues par le label : ce sont des créances — des droits personnels patrimoniaux. Ils sont saisissables. Le créancier peut saisir ces sommes entre les mains du label (saisie-attribution). (b) La guitare de scène : c'est un bien meuble corporel, objet d'un droit réel patrimonial. Elle est saisissable. Le créancier peut demander sa saisie et sa vente forcée (saisie-vente). Exception possible : si la guitare est un outil de travail indispensable, certains systèmes juridiques la protègent partiellement — mais en principe, elle est saisissable. (c) Le droit au respect de son nom sur les pochettes : c'est le droit moral de l'auteur — la dimension extrapatrimoniale du droit d'auteur. Il est incessible et insaisissable. Le créancier ne peut pas saisir ce droit. Mahery garde toujours le droit d'exiger que son nom figure sur l'album, même si ses créanciers saisissent ses redevances. (d) Le droit de vote : c'est une liberté publique, un droit extrapatrimonial. Il est absolument insaisissable. Aucun créancier, aucun tribunal, aucune autorité ne peut retirer à Mahery son droit de vote en raison de ses dettes. Conclusion : seuls (a) et (b) peuvent faire l'objet d'une saisie légale. (c) et (d) sont extrapatrimoniaux et insaisissables."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Rabe et Vola se disputent la propriété d'une parcelle de terrain à Antsiranana. Rabe prétend avoir le droit de passage sur la portion de terrain appartenant à Vola pour accéder à sa propre parcelle enclavée, en se fondant sur une pratique ancienne reconnue par toute la communauté depuis des générations. Vola, qui vient d'acheter le terrain, conteste et dit qu'elle n'a aucune obligation envers Rabe puisqu'aucun contrat ne la lie à lui. Analysez le litige en utilisant la classification des droits subjectifs et en précisant quel type de droit Rabe peut invoquer et contre qui il peut l'invoquer.",
+      "choix": [
+        "Vola a raison : sans contrat, Rabe n'a aucun droit",
+        "Rabe peut invoquer une servitude de passage — un droit réel — opposable à tous les propriétaires successifs du fonds servant, y compris Vola, même en l'absence de contrat entre eux",
+        "Rabe ne peut invoquer qu'un droit personnel contre l'ancien propriétaire qui lui avait accordé le passage",
+        "Rabe a un droit de propriété sur la bande de terrain formant le passage"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit de passage est un exemple classique de servitude.",
+        "La servitude est un droit réel — opposable erga omnes, même au nouveau propriétaire.",
+        "Elle peut être établie par l'ancienneté de la pratique si les conditions de la coutume sont réunies."
+      ],
+      "explication": "Vola a tort : l'absence de contrat entre elle et Rabe ne suffit pas à nier le droit de Rabe. Voici l'analyse par la classification des droits subjectifs. Quel type de droit Rabe peut-il invoquer ? Rabe peut invoquer une servitude de passage. La servitude est un droit réel qui grève un fonds (le terrain de Vola — fonds servant) au profit d'un autre fonds (le terrain de Rabe — fonds dominant). Ce n'est pas un droit personnel contre une personne déterminée — c'est un droit réel lié aux terrains eux-mêmes. Contre qui ce droit est-il opposable ? Un droit réel est opposable erga omnes — à l'égard de tous. Peu importe que Vola soit le nouvel acheteur et qu'aucun contrat ne la lie à Rabe. La servitude grève le terrain, pas la personne du propriétaire : elle suit le terrain. Tout propriétaire du fonds servant est tenu de la respecter. Comment ce droit peut-il être établi ? Soit par un acte écrit (contrat ou acte notarié), soit par une longue pratique constitutive de coutume juridique. La leçon a montré qu'à Madagascar, les coutumes locales peuvent être reconnues par les juges quand elles remplissent les conditions : pratique générale, constante et ancienne, avec la conviction de son caractère obligatoire. Conclusion : Rabe dispose probablement d'une servitude de passage (droit réel) opposable à Vola. Il peut agir en justice pour faire reconnaître ce droit, en s'appuyant sur la pratique coutumière et sur les règles légales relatives aux fonds enclavés (qui prévoient généralement un droit de passage légal)."
+    }
+  ]
+}
