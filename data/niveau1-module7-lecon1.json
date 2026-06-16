@@ -1,0 +1,907 @@
+{
+  "titre": "Le domaine d'application de la règle de droit : dans l'espace et dans le temps",
+  "module": "Module 7 — Le domaine d'application de la règle de droit",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Pourquoi la règle de droit a-t-elle un domaine d'application ?",
+      "texte": "Une règle de droit ne s'applique pas partout, tout le temps et à tout le monde. Elle a un domaine d'application, c'est-à-dire un périmètre délimité à l'intérieur duquel elle produit ses effets. En dehors de ce périmètre, une autre règle prend le relais — ou aucune règle ne s'applique. Comprendre le domaine d'application d'une règle, c'est répondre à trois questions fondamentales. D'abord, la question de l'espace : sur quel territoire cette règle est-elle applicable ? Ensuite, la question du temps : à partir de quand entre-t-elle en vigueur, et que se passe-t-il pour les situations nées avant elle ? Enfin, la question des personnes : à qui cette règle s'adresse-t-elle ? Ces trois dimensions sont complémentaires. Une règle peut s'appliquer sur tout le territoire malgache, mais seulement aux actes accomplis après son entrée en vigueur, et seulement aux commerçants. La maîtrise du domaine d'application est indispensable pour éviter deux erreurs symétriques : appliquer une règle là où elle n'a pas vocation à s'appliquer, ou ne pas l'appliquer là où elle devrait s'appliquer.",
+      "definition": "Domaine d'application d'une règle de droit : périmètre délimité dans lequel une règle produit ses effets. Ce domaine se définit selon trois axes — l'espace (territoire), le temps (entrée en vigueur et effets dans le temps), et les personnes (destinataires de la règle). En dehors de ce domaine, la règle ne s'applique pas."
+    },
+    {
+      "titre": "Application de la règle dans l'espace : le principe de territorialité",
+      "texte": "Le premier principe fondamental est celui de la territorialité. Une règle de droit — qu'il s'agisse d'une loi, d'un règlement ou d'un traité — s'applique en principe sur le territoire de l'État qui l'a édictée, et sur ce territoire seulement. Ce principe est une conséquence directe de la souveraineté de l'État : l'État est souverain sur son territoire, et cette souveraineté se traduit par le fait que le droit qu'il édicte s'applique à l'intérieur de ses frontières. À Madagascar, les lois et règlements malgaches s'appliquent sur le territoire de la République de Madagascar. Inversement, les lois étrangères ne s'appliquent pas en principe sur le sol malgache. La notion de territoire est plus large qu'on ne le croit souvent. Le territoire d'un État comprend le territoire terrestre (les terres émergées soumises à sa souveraineté), le territoire maritime (les eaux intérieures, la mer territoriale jusqu'à 12 miles marins des côtes), l'espace aérien surplombant ces deux premiers éléments, et par extension conventionnelle les navires et aéronefs battant pavillon de l'État, quel que soit l'endroit où ils se trouvent dans le monde.",
+      "definition": "Principe de territorialité : la loi d'un État s'applique sur l'ensemble de son territoire — terrestre, maritime et aérien — et à toutes les personnes qui s'y trouvent, qu'elles soient nationales ou étrangères. C'est la conséquence directe de la souveraineté de l'État sur son territoire.",
+      "exemple": "Un ressortissant français en visite à Antananarivo commet un vol dans un magasin. La loi pénale malgache s'applique à lui, non la loi française. Il est sur le territoire malgache : c'est la souveraineté malgache qui s'exerce. La nationalité de l'auteur est sans incidence sur la règle applicable en matière pénale."
+    },
+    {
+      "titre": "Application dans l'espace : les tempéraments au principe de territorialité",
+      "texte": "Le principe de territorialité n'est pas absolu. Il connaît des aménagements importants. En premier lieu, le droit international privé organise les conflits de lois : quand une situation juridique présente un lien avec plusieurs États — un contrat signé entre un Malgache et un Français, pour livraison en France — il faut désigner quelle loi s'applique. Des règles de conflit déterminent la loi applicable selon la nature de la situation : la loi du lieu de situation du bien pour les droits réels immobiliers, la loi nationale des époux pour les effets du mariage, la loi d'autonomie choisie par les parties pour les contrats internationaux. En deuxième lieu, les traités internationaux créent des zones d'application communes : Madagascar, en ratifiant des conventions internationales, accepte que des règles d'origine extérieure s'appliquent sur son territoire dans les matières couvertes. En troisième lieu, des règles particulières s'appliquent aux représentations diplomatiques : les ambassades étrangères sur le sol malgache bénéficient d'une immunité juridictionnelle, et leurs personnels accrédités jouissent de protections spéciales. Ces aménagements ne renversent pas le principe de territorialité — ils l'organisent de façon cohérente pour les situations à dimension internationale.",
+      "definition": "Droit international privé : ensemble des règles qui désignent, parmi les lois de plusieurs États en contact avec une situation, celle qui a vocation à s'appliquer. On parle de règles de conflit de lois. Immunité diplomatique : protection particulière accordée aux représentants diplomatiques étrangers, qui les soustrait à l'application de certaines règles de l'État d'accueil.",
+      "exemple": "Un contrat de vente est conclu à Antananarivo entre un commerçant malgache et un acheteur camerounais pour une livraison en Côte d'Ivoire. Ce contrat présente des liens avec trois pays. Le droit international privé déterminera quelle loi régit ce contrat : en l'absence de choix exprès des parties, on appliquera en général la loi du pays avec lequel le contrat présente les liens les plus étroits."
+    },
+    {
+      "titre": "Application de la règle dans le temps : l'entrée en vigueur",
+      "texte": "Une règle de droit ne naît pas instantanément. Elle suit un processus qui la mène de son adoption à son application effective. La date d'entrée en vigueur est le moment à partir duquel la règle devient obligatoire pour tous. Avant cette date, elle n'existe pas juridiquement. Pour les lois, ce processus comprend plusieurs étapes. La loi est d'abord votée par le Parlement, puis promulguée par le Président de la République — acte par lequel il atteste de l'existence de la loi et ordonne son exécution. La loi promulguée est ensuite publiée au Journal Officiel de la République. C'est cette publication qui rend la loi opposable à tous : on ne peut pas se soustraire à une loi en prétendant ne pas la connaître, dès lors qu'elle a été publiée. En pratique, la loi entre en vigueur le lendemain de sa publication au Journal Officiel, sauf si elle prévoit elle-même une date d'entrée en vigueur différente — plus tardive pour laisser le temps aux destinataires de s'adapter, ou plus anticipée dans des cas exceptionnels. Certaines lois prévoient aussi une période transitoire pendant laquelle l'ancienne et la nouvelle règle coexistent.",
+      "definition": "Entrée en vigueur : moment à partir duquel une règle de droit devient obligatoire et applicable. Elle suppose la promulgation (attestation officielle de l'existence de la règle par l'exécutif) et la publication (insertion au Journal Officiel, qui rend la règle opposable à tous). La loi entre en vigueur le lendemain de sa publication, sauf disposition contraire.",
+      "exemple": "Le Parlement malgache vote une nouvelle loi sur le bail commercial le 15 mars. Le Président la promulgue le 28 mars. Elle est publiée au Journal Officiel le 5 avril. Elle entre en vigueur le 6 avril. Tout contrat de bail commercial conclu à partir du 6 avril sera régi par cette nouvelle loi. Les contrats conclus avant cette date continuent d'être régis par l'ancienne loi."
+    },
+    {
+      "titre": "Application dans le temps : le principe de non-rétroactivité",
+      "texte": "Lorsqu'une nouvelle loi entre en vigueur, se pose une question cruciale : s'applique-t-elle aux situations nées avant elle ? Le principe fondamental est la non-rétroactivité de la loi. Une loi nouvelle ne s'applique pas aux faits accomplis avant son entrée en vigueur. Ce principe a une justification profonde : la sécurité juridique. Les individus doivent pouvoir agir en connaissant les règles applicables à leurs actes au moment où ils les accomplissent. Si une loi pouvait remettre en cause rétroactivement des actes passés, nul ne serait jamais en sécurité : un acte parfaitement légal aujourd'hui pourrait devenir illégal demain par l'effet d'une loi nouvelle qui s'appliquerait au passé. En droit pénal, ce principe prend une forme encore plus absolue : la règle constitutionnelle nullum crimen sine lege, nulla poena sine lege interdit de poursuivre quelqu'un pour un acte qui n'était pas pénalement réprimé au moment où il a été commis. Cette interdiction est une garantie fondamentale des libertés individuelles. En droit civil, le principe est également posé mais avec des aménagements possibles.",
+      "definition": "Principe de non-rétroactivité : une loi nouvelle ne s'applique pas aux situations juridiques entièrement constituées avant son entrée en vigueur. Fondé sur la sécurité juridique, ce principe protège les individus contre la remise en cause rétroactive de leurs droits acquis. En matière pénale, il a valeur constitutionnelle absolue.",
+      "exemple": "En 2020, une loi malgache punit d'une amende l'utilisation de certains emballages plastiques. Cette loi ne peut pas s'appliquer à un commerçant qui avait utilisé ces emballages en 2019 : ce comportement était parfaitement légal à l'époque. Rendre la loi rétroactive serait punir quelqu'un pour un acte qui était légal quand il l'a accompli — ce qui violerait le principe de non-rétroactivité."
+    },
+    {
+      "titre": "Application dans le temps : la survie de l'ancienne loi et l'effet immédiat de la loi nouvelle",
+      "texte": "La non-rétroactivité répond à la question du passé. Mais il reste une question délicate : que faire des situations en cours au moment où la nouvelle loi entre en vigueur ? Une situation juridique peut se dérouler dans le temps — un contrat signé il y a cinq ans qui court encore, une procédure judiciaire en cours. Le principe général est celui de l'effet immédiat de la loi nouvelle : la loi nouvelle s'applique immédiatement aux effets futurs des situations en cours, même nées sous l'empire de l'ancienne loi. En d'autres termes, à partir du jour de son entrée en vigueur, la loi nouvelle régit tout ce qui se passe à partir de ce jour — y compris pour les situations déjà nées. Il existe cependant un correctif important : la survie de l'ancienne loi pour les contrats en cours. En matière contractuelle, les parties ont conclu leur contrat en se fondant sur les règles en vigueur à l'époque. Par respect de leur volonté et de la sécurité contractuelle, l'ancienne loi continue de régir les effets des contrats conclus sous son empire — même après l'entrée en vigueur de la loi nouvelle — sauf si la loi nouvelle est d'ordre public impératif.",
+      "definition": "Effet immédiat de la loi nouvelle : principe selon lequel la loi nouvelle s'applique sans délai aux effets futurs de toutes les situations en cours à la date de son entrée en vigueur. Survie de l'ancienne loi : exception au profit des contrats en cours — l'ancienne loi continue de régir les effets des contrats conclus sous son empire, sauf ordre public.",
+      "exemple": "En 2019, Rakoto conclut un bail de cinq ans avec son propriétaire. En 2022, une nouvelle loi augmente les obligations du locataire. Cette loi s'applique-t-elle au bail de Rakoto ? Non, en principe : les effets d'un contrat en cours restent soumis à la loi ancienne sous laquelle il a été conclu. En revanche, si la loi nouvelle est d'ordre public — par exemple une loi de protection du logement — elle peut s'imposer même aux contrats en cours."
+    },
+    {
+      "titre": "Application dans le temps : les lois rétroactives par exception",
+      "texte": "Le principe de non-rétroactivité admet des exceptions, mais elles sont strictement encadrées. Première exception : les lois pénales plus douces. Si une nouvelle loi pénale est plus favorable à l'accusé que la loi applicable au moment des faits — parce qu'elle supprime l'infraction, réduit la peine ou crée une cause d'exonération — cette loi nouvelle s'applique aux faits commis avant son entrée en vigueur. C'est le principe de rétroactivité in mitius (rétroactivité de la loi plus douce). La raison est simple : si la société a décidé que ce comportement mérite moins de répression, il serait injuste de maintenir une condamnation sévère sous l'empire d'une loi que la société elle-même a jugée excessive. Deuxième exception : les lois interprétatives. Quand le législateur vote une loi pour clarifier le sens d'une loi antérieure ambiguë, cette loi interprétative est réputée faire corps avec la loi qu'elle interprète. Elle s'applique donc aux situations nées depuis l'entrée en vigueur de la loi interprétée. Troisième exception : les lois expressément rétroactives. Le législateur peut décider expressément qu'une loi s'applique rétroactivement — sauf en matière pénale, où la rétroactivité défavorable est constitutionnellement interdite.",
+      "definition": "Rétroactivité in mitius : principe de rétroactivité de la loi pénale plus douce au profit de l'accusé. Loi interprétative : loi qui précise le sens d'une loi antérieure et est réputée s'appliquer depuis la date de cette loi. Ces exceptions à la non-rétroactivité sont limitées et justifiées par des raisons de justice ou de cohérence.",
+      "exemple": "En 2021, une loi malgache punit d'un an de prison la détention de tel produit. En 2023, une nouvelle loi dépénalise ce comportement. Toufik, condamné en 2022 et dont la peine n'est pas encore exécutée, bénéficie de la rétroactivité in mitius : la loi nouvelle plus douce lui est applicable rétroactivement. Sa condamnation peut être réexaminée."
+    },
+    {
+      "titre": "Le champ d'application selon les personnes",
+      "texte": "Une règle de droit ne s'adresse pas toujours à tout le monde. Certaines règles sont générales — elles s'appliquent à toutes les personnes se trouvant sur le territoire. D'autres sont spéciales — elles ne visent qu'une catégorie de personnes déterminée par la loi. Le critère de distinction peut être la nationalité : certaines règles ne s'appliquent qu'aux ressortissants malgaches. Il peut être la profession : le droit commercial ne s'applique qu'aux commerçants ; le droit du travail s'applique aux salariés. Il peut être l'âge : le droit des mineurs comporte des règles spécifiques qui s'appliquent aux personnes de moins de dix-huit ans. Il peut encore être la qualité : certaines règles ne visent que les fonctionnaires, d'autres seulement les consommateurs. Ces distinctions sont essentielles pour délimiter précisément qui peut invoquer une règle en sa faveur — et à qui elle peut être opposée. Quand plusieurs règles sont susceptibles de s'appliquer à une même personne dans une même situation, c'est la règle spéciale qui prime sur la règle générale : specialia generalibus derogant.",
+      "definition": "Champ d'application personnel d'une règle : ensemble des personnes auxquelles la règle s'adresse. Il peut être délimité par la nationalité, la profession, l'âge, la qualité (consommateur, fonctionnaire, commerçant...). La règle spéciale prime sur la règle générale quand les deux s'appliquent à la même personne dans la même situation.",
+      "exemple": "Un médecin malgache est à la fois citoyen, salarié d'un hôpital public et professionnel de santé libéral. Selon la situation en cause, c'est tantôt le droit commun des citoyens, tantôt le statut de la fonction publique, tantôt le droit spécifique aux professions médicales qui s'applique. Le champ d'application personnel détermine quelle règle spéciale prévaut."
+    },
+    {
+      "titre": "Le champ d'application et les conditions de mise en œuvre d'une règle",
+      "texte": "Il faut distinguer deux choses que l'on confond souvent : savoir si une règle peut s'appliquer à une situation (c'est la question du champ d'application) et savoir si cette règle doit effectivement s'appliquer (c'est la question des conditions de mise en œuvre). Le champ d'application répond à la question : cette règle concerne-t-elle ce type de situation ? Les conditions de mise en œuvre répondent à la question : dans ce type de situation, toutes les exigences sont-elles réunies pour déclencher l'effet de la règle ? Voici un exemple pour illustrer cette distinction fondamentale. La règle sur la responsabilité civile délictuelle s'applique à toute personne causant un dommage à autrui par sa faute : c'est son champ d'application. Mais pour que la réparation soit effectivement due, il faut encore démontrer la réalité d'une faute, d'un préjudice et d'un lien de causalité entre les deux : ce sont les conditions de mise en œuvre. Une situation peut tomber dans le champ d'application d'une règle sans que les conditions de mise en œuvre soient réunies — et dans ce cas, la règle ne produit pas son effet. Cette distinction a des conséquences pratiques importantes, notamment pour les conflits entre règles : si une situation entre dans le champ d'application d'une règle spéciale, le demandeur ne peut pas choisir d'invoquer une règle générale à la place, même si cette dernière lui serait plus favorable.",
+      "definition": "Champ d'application : délimite les situations auxquelles une règle est susceptible de s'appliquer (conditions nécessaires). Conditions de mise en œuvre : exigences supplémentaires qui doivent être réunies pour que la règle produise effectivement son effet (conditions suffisantes). Une situation peut entrer dans le champ d'application sans que les conditions de mise en œuvre soient satisfaites.",
+      "exemple": "La règle spéciale sur la responsabilité des propriétaires de bâtiments en ruine s'applique dès qu'on est (1) propriétaire (2) d'un bâtiment (3) en état de ruine : c'est le champ d'application. Mais pour être condamné à réparer, il faut encore prouver (4) que la ruine résulte d'un défaut d'entretien ou d'un vice de construction : c'est la condition de mise en œuvre. Une victime dans ce cas ne peut pas choisir d'invoquer la règle générale de responsabilité pour les choses — la règle spéciale s'impose."
+    },
+    {
+      "titre": "Les conflits de lois dans le temps : comment les résoudre ?",
+      "texte": "Quand une nouvelle loi succède à une ancienne, il peut naître un conflit de lois dans le temps. Pour le résoudre, la jurisprudence et la doctrine ont élaboré une méthode claire reposant sur trois étapes. Première étape : identifier la nature de la situation en cause — s'agit-il d'une situation entièrement constituée dans le passé (acte, contrat, jugement définitif) ? D'une situation en cours au moment de l'entrée en vigueur ? Ou d'une situation née après l'entrée en vigueur ? Deuxième étape : qualifier la situation selon les principes applicables. Pour les situations entièrement passées : la loi ancienne s'applique (non-rétroactivité). Pour les situations futures : la loi nouvelle s'applique (effet immédiat). Pour les situations en cours : distinguer selon que l'on est face à un contrat (survie de la loi ancienne) ou à une situation légale non contractuelle (effet immédiat de la loi nouvelle). Troisième étape : vérifier si la loi nouvelle prévoit des dispositions transitoires qui dérogent à ces principes généraux, et si elle est ou non d'ordre public. Une loi d'ordre public s'applique immédiatement même aux contrats en cours.",
+      "definition": "Conflit de lois dans le temps : situation qui survient quand une loi nouvelle succède à une ancienne et qu'il faut déterminer laquelle s'applique à une situation en cours. Solution : non-rétroactivité pour le passé, effet immédiat pour l'avenir et les situations légales en cours, survie de l'ancienne loi pour les contrats en cours sauf ordre public.",
+      "exemple": "En 2021, une loi malgache modifie les règles de prescription en matière civile : elle réduit le délai de 5 ans à 3 ans. Andriamanana avait un droit né en 2019 et le délai de prescription courait encore. Quelle loi s'applique ? En principe, la loi nouvelle s'applique immédiatement aux délais en cours — mais le délai déjà écoulé sous l'ancienne loi est pris en compte. Si 2 ans s'étaient déjà écoulés, Andriamanana dispose encore d'1 an sous la nouvelle loi."
+    },
+    {
+      "titre": "Synthèse : maîtriser le domaine d'application d'une règle",
+      "texte": "Pour appliquer correctement une règle de droit à un cas concret, il faut toujours poser les trois questions du domaine d'application avant toute autre analyse. Premièrement : dans l'espace, le fait ou l'acte en cause s'est-il produit sur le territoire auquel la règle s'applique ? Y a-t-il un élément d'extranéité — un lien avec un État étranger — qui appelle les règles du droit international privé ? Deuxièmement : dans le temps, la règle était-elle en vigueur au moment du fait ou de l'acte en cause ? Si une loi nouvelle est intervenue depuis, s'applique-t-elle à cette situation, ou faut-il maintenir la loi ancienne ? Troisièmement : ratione personae, la règle s'adresse-t-elle à cette catégorie de personnes ? Existe-t-il une règle spéciale qui prime sur la règle générale ? Ces trois questions doivent précéder la vérification des conditions de mise en œuvre. Ce n'est qu'une fois établi que la règle a vocation à s'appliquer — qu'elle est dans son champ d'application — que l'on peut se demander si toutes les conditions sont réunies pour qu'elle produise son effet. Aller directement aux conditions de fond sans vérifier le champ d'application est l'une des erreurs les plus fréquentes en raisonnement juridique.",
+      "definition": "Méthode pour vérifier le domaine d'application d'une règle : (1) Dans l'espace : la situation est-elle couverte par le territoire d'application de la règle ? (2) Dans le temps : la règle était-elle en vigueur et s'applique-t-elle à cette situation ? (3) Ratione personae : la règle vise-t-elle ces personnes ? Ces trois vérifications précèdent toujours l'analyse des conditions de mise en œuvre."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Que désigne le « domaine d'application » d'une règle de droit ?",
+      "choix": [
+        "L'ensemble des sanctions prévues si on ne respecte pas la règle",
+        "Le périmètre délimité dans lequel une règle produit ses effets, selon l'espace, le temps et les personnes",
+        "Le nombre de pages du texte qui contient la règle",
+        "La liste des juridictions compétentes pour appliquer la règle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon pose trois questions pour définir ce domaine.",
+        "Ces trois questions portent sur l'espace, le temps et les personnes.",
+        "En dehors de ce périmètre, la règle ne s'applique pas."
+      ],
+      "explication": "Le domaine d'application d'une règle de droit est le périmètre délimité dans lequel elle produit ses effets. Ce domaine se définit selon trois axes : l'espace (sur quel territoire ?), le temps (à partir de quand, et pour quelles situations ?), et les personnes (à qui la règle s'adresse-t-elle ?). En dehors de ce domaine, une autre règle prend le relais."
+    },
+    {
+      "question": "Qu'est-ce que le principe de territorialité d'une loi ?",
+      "choix": [
+        "La loi ne s'applique qu'aux citoyens de l'État, où qu'ils se trouvent dans le monde",
+        "La loi s'applique sur l'ensemble du territoire de l'État qui l'a édictée, à toutes les personnes qui s'y trouvent",
+        "La loi s'applique uniquement dans la capitale",
+        "La loi s'applique seulement aux actes accomplis par des fonctionnaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La territorialité découle de la souveraineté de l'État.",
+        "Elle s'applique à toutes les personnes sur le territoire, nationales ou étrangères.",
+        "Ce n'est pas la nationalité qui compte, c'est le lieu."
+      ],
+      "explication": "Le principe de territorialité signifie que la loi d'un État s'applique sur l'ensemble de son territoire — terrestre, maritime et aérien — et à toutes les personnes qui s'y trouvent, qu'elles soient nationales ou étrangères. Ce principe découle directement de la souveraineté de l'État à l'intérieur de ses frontières."
+    },
+    {
+      "question": "Un ressortissant étranger commet un crime sur le sol malgache. Quelle loi s'applique à lui ?",
+      "choix": [
+        "La loi de son pays d'origine, car il est étranger",
+        "La loi malgache, car l'infraction a été commise sur le territoire malgache",
+        "Aucune loi, car les étrangers ne sont pas soumis aux lois malgaches",
+        "La loi internationale, car il y a un élément étranger"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi pénale est d'application strictement territoriale.",
+        "La nationalité de l'auteur est sans incidence sur la loi pénale applicable.",
+        "C'est le lieu de commission de l'infraction qui détermine la loi applicable."
+      ],
+      "explication": "C'est la loi malgache qui s'applique. En vertu du principe de territorialité, la loi pénale malgache s'applique à tous les faits commis sur le territoire de Madagascar, indépendamment de la nationalité de leur auteur. La leçon donne cet exemple précis : un ressortissant français en visite à Madagascar commettant un vol est jugé selon la loi malgache."
+    },
+    {
+      "question": "Quels sont les trois composantes du territoire d'un État ?",
+      "choix": [
+        "Le territoire urbain, le territoire rural et les espaces protégés",
+        "Le territoire terrestre, le territoire maritime et l'espace aérien",
+        "La métropole, les régions et les provinces",
+        "Les frontières terrestres, les frontières maritimes et les frontières numériques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le territoire ne se limite pas aux terres émergées.",
+        "L'État souverain sur la mer et l'air au-dessus de son territoire.",
+        "Pensez : terre, mer, ciel."
+      ],
+      "explication": "Le territoire d'un État comprend trois dimensions : le territoire terrestre (les terres émergées soumises à sa souveraineté), le territoire maritime (les eaux intérieures et la mer territoriale) et l'espace aérien surplombant ces deux premiers éléments. Par extension conventionnelle, les navires et aéronefs battant pavillon de l'État sont aussi considérés comme partie de son territoire, où qu'ils se trouvent."
+    },
+    {
+      "question": "Que fait le droit international privé ?",
+      "choix": [
+        "Il régit les relations entre États souverains",
+        "Il désigne, parmi les lois de plusieurs États en contact avec une situation, celle qui a vocation à s'appliquer",
+        "Il crée des règles communes à tous les États du monde",
+        "Il protège les droits des réfugiés et des apatrides"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il intervient quand une situation présente un lien avec plusieurs États.",
+        "Il ne crée pas lui-même une règle de fond : il désigne quelle loi nationale s'applique.",
+        "On parle de règles de « conflit de lois »."
+      ],
+      "explication": "Le droit international privé est l'ensemble des règles qui désignent, parmi les lois de plusieurs États en contact avec une même situation juridique, celle qui a vocation à s'appliquer. On appelle ces règles des règles de conflit de lois. Elles ne tranchent pas le fond du litige : elles indiquent quelle loi nationale est compétente pour le faire."
+    },
+    {
+      "question": "Vrai ou faux : le principe de territorialité est absolu et ne souffre aucune exception.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne des aménagements au principe.",
+        "Le droit international privé, les traités et l'immunité diplomatique sont des exemples.",
+        "Un principe n'est jamais totalement absolu en droit."
+      ],
+      "explication": "Faux. Le principe de territorialité connaît des aménagements importants : le droit international privé organise les conflits de lois pour les situations à dimension internationale ; les traités internationaux ratifiés créent des zones d'application communes ; et les immunités diplomatiques soustraient certaines personnes à l'application du droit de l'État d'accueil. Ces aménagements organisent le principe sans le renverser."
+    },
+    {
+      "question": "Qu'est-ce que la promulgation d'une loi ?",
+      "choix": [
+        "Le vote de la loi par le Parlement",
+        "L'acte par lequel le Président de la République atteste de l'existence de la loi et ordonne son exécution",
+        "La publication de la loi au Journal Officiel",
+        "La mise en application de la loi par les tribunaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La promulgation est distincte du vote et de la publication.",
+        "Elle implique le Président de la République, pas le Parlement.",
+        "Elle atteste officiellement que la loi a bien été votée et donne ordre de l'appliquer."
+      ],
+      "explication": "La promulgation est l'acte par lequel le Président de la République atteste officiellement de l'existence de la loi (qu'elle a bien été régulièrement votée) et donne ordre aux autorités publiques de l'observer et de la faire observer. C'est une étape distincte et préalable à la publication. Sans promulgation, la loi ne peut pas être publiée ni appliquée."
+    },
+    {
+      "question": "Quel est l'effet de la publication d'une loi au Journal Officiel ?",
+      "choix": [
+        "Elle rend la loi applicable aux situations passées",
+        "Elle rend la loi opposable à tous : nul ne peut prétendre l'ignorer",
+        "Elle permet au Parlement de modifier la loi",
+        "Elle donne aux juges le pouvoir de l'appliquer rétroactivement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La publication est liée à la connaissance de la loi par le public.",
+        "Nul n'est censé ignorer la loi — mais à partir de quand ?",
+        "C'est la publication qui rend la loi officiellement connue de tous."
+      ],
+      "explication": "La publication de la loi au Journal Officiel la rend opposable à tous. À partir de cette publication, nul ne peut invoquer son ignorance de la loi pour s'y soustraire. C'est le fondement de la maxime « nul n'est censé ignorer la loi » : cette fiction juridique ne vaut qu'à partir du moment où la loi a été officiellement publiée et donc accessible à tous."
+    },
+    {
+      "question": "À quelle date une loi entre-t-elle en vigueur, en l'absence de disposition contraire ?",
+      "choix": [
+        "Le jour du vote par le Parlement",
+        "Le jour de la promulgation par le Président",
+        "Le lendemain de sa publication au Journal Officiel",
+        "Un mois après sa publication au Journal Officiel"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon donne la règle de droit commun pour l'entrée en vigueur.",
+        "C'est le lendemain de la publication, pas le jour même.",
+        "La loi peut prévoir une date différente, mais à défaut c'est cette règle qui s'applique."
+      ],
+      "explication": "En l'absence de disposition contraire, une loi entre en vigueur le lendemain de sa publication au Journal Officiel. La loi peut aussi prévoir une entrée en vigueur différée (pour laisser aux destinataires le temps de s'adapter) ou anticipée (dans des cas exceptionnels urgents). Certaines lois comportent aussi des dispositions transitoires."
+    },
+    {
+      "question": "Quel est le fondement du principe de non-rétroactivité des lois ?",
+      "choix": [
+        "La volonté des parlementaires de ne pas créer de droit nouveau",
+        "La sécurité juridique : les individus doivent pouvoir agir en connaissant les règles applicables à leurs actes au moment où ils les accomplissent",
+        "La supériorité des traités internationaux sur les lois nationales",
+        "Le principe de séparation des pouvoirs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La non-rétroactivité protège les individus contre l'incertitude.",
+        "Un acte légal aujourd'hui ne doit pas devenir illégal demain rétroactivement.",
+        "La sécurité juridique est le fondement principal."
+      ],
+      "explication": "Le principe de non-rétroactivité est fondé sur la sécurité juridique. Les individus doivent pouvoir agir en connaissant les règles qui s'appliquent à leurs actes au moment où ils les accomplissent. Si une loi nouvelle pouvait remettre en cause rétroactivement des actes passés, nul ne serait jamais en sécurité : un acte parfaitement légal aujourd'hui pourrait devenir illégal demain, ce qui viderait de tout sens la prévisibilité du droit."
+    },
+    {
+      "question": "En matière pénale, le principe de non-rétroactivité a-t-il une valeur renforcée ?",
+      "choix": [
+        "Non, il a la même valeur qu'en matière civile",
+        "Oui, il a valeur constitutionnelle absolue : on ne peut pas poursuivre quelqu'un pour un acte qui n'était pas pénalement réprimé au moment où il l'a commis",
+        "Non, en pénal le juge peut appliquer rétroactivement toute loi qu'il estime juste",
+        "Oui, mais seulement pour les crimes et non pour les délits"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne une maxime latine pour le droit pénal.",
+        "Nullum crimen sine lege signifie qu'il ne peut y avoir de crime sans loi préalable.",
+        "Cette garantie protège fondamentalement la liberté individuelle."
+      ],
+      "explication": "En matière pénale, le principe de non-rétroactivité a valeur constitutionnelle absolue. La règle nullum crimen sine lege, nulla poena sine lege interdit formellement de poursuivre et de condamner quelqu'un pour un acte qui n'était pas pénalement réprimé au moment où il l'a commis. Cette garantie est un pilier des libertés individuelles que même le législateur ne peut pas écarter."
+    },
+    {
+      "question": "Qu'est-ce que le principe de l'effet immédiat de la loi nouvelle ?",
+      "choix": [
+        "La loi nouvelle s'applique rétroactivement à toutes les situations passées",
+        "La loi nouvelle s'applique immédiatement aux effets futurs de toutes les situations en cours à la date de son entrée en vigueur",
+        "La loi nouvelle ne s'applique qu'aux situations nées après son entrée en vigueur",
+        "La loi nouvelle ne produit d'effet qu'un an après sa publication"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'effet immédiat concerne les situations en cours, pas seulement les situations futures.",
+        "Il vise les effets futurs de ces situations, pas leurs effets passés.",
+        "C'est le principe général pour les situations non contractuelles en cours."
+      ],
+      "explication": "Le principe de l'effet immédiat signifie que la loi nouvelle s'applique sans délai aux effets futurs de toutes les situations en cours à la date de son entrée en vigueur, même si ces situations sont nées sous l'empire de l'ancienne loi. À partir du jour de son entrée en vigueur, la loi nouvelle régit tout ce qui se passe — y compris les suites des situations déjà nées."
+    },
+    {
+      "question": "Pourquoi les contrats en cours bénéficient-ils en principe de la survie de la loi ancienne ?",
+      "choix": [
+        "Parce que les contrats sont plus importants que les lois",
+        "Par respect de la volonté des parties qui ont contracté en se fondant sur les règles en vigueur à l'époque, et pour garantir la sécurité contractuelle",
+        "Parce que les tribunaux refusent d'appliquer les lois nouvelles",
+        "Parce que les lois nouvelles ne visent jamais les contrats"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les parties ont signé un contrat en connaissant les règles de l'époque.",
+        "Changer ces règles en cours de route tromperait leurs attentes légitimes.",
+        "C'est la confiance légitime et la sécurité contractuelle qui justifient cette exception."
+      ],
+      "explication": "Les contrats en cours bénéficient de la survie de l'ancienne loi par respect de la volonté des parties : au moment de la conclusion du contrat, elles ont organisé leur relation en se fondant sur les règles en vigueur. Leur imposer rétroactivement une loi nouvelle modifierait l'équilibre qu'elles avaient librement négocié. C'est la protection de la sécurité contractuelle et des attentes légitimes des parties qui justifie cette exception."
+    },
+    {
+      "question": "Un contrat de bail est conclu en 2020. Une nouvelle loi plus favorable au propriétaire entre en vigueur en 2023. Cette loi s'applique-t-elle à ce bail ?",
+      "choix": [
+        "Oui, toute loi nouvelle s'applique immédiatement à tous les contrats",
+        "Non, en principe l'ancienne loi survit pour les contrats conclus sous son empire — sauf si la loi nouvelle est d'ordre public",
+        "Oui, mais seulement si le propriétaire le demande au juge",
+        "Non, une loi ne peut jamais s'appliquer à un contrat en cours"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le bail est un contrat — il bénéficie de l'exception de survie de la loi ancienne.",
+        "Mais cette exception a elle-même une exception : l'ordre public.",
+        "Si la loi nouvelle est d'ordre public, elle s'impose même aux contrats en cours."
+      ],
+      "explication": "En principe non : la loi ancienne survit pour les contrats conclus sous son empire. Mais si la loi nouvelle de 2023 est d'ordre public — par exemple une loi de protection minimale du locataire — elle peut s'imposer immédiatement même au bail de 2020. L'ordre public supplante la sécurité contractuelle quand des intérêts supérieurs de société sont en jeu."
+    },
+    {
+      "question": "Qu'est-ce que la rétroactivité in mitius en droit pénal ?",
+      "choix": [
+        "L'application rétroactive de la loi pénale la plus sévère",
+        "L'application rétroactive de la loi pénale la plus douce au profit de l'accusé",
+        "L'application immédiate de toute loi nouvelle en matière pénale",
+        "L'interdiction d'appliquer une loi pénale à des faits passés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "In mitius signifie en latin « vers ce qui est plus doux ».",
+        "Elle bénéficie à l'accusé, pas à l'accusation.",
+        "Elle est une exception à la non-rétroactivité, en faveur de l'accusé."
+      ],
+      "explication": "La rétroactivité in mitius est le principe selon lequel une loi pénale nouvelle, si elle est plus favorable à l'accusé que la loi applicable au moment des faits, s'applique rétroactivement à ce dernier. Si la société a décidé qu'un comportement mérite moins de répression (peine réduite, dépénalisation), il serait injuste de maintenir une condamnation plus sévère sous l'empire d'une loi que la société elle-même a jugée excessive."
+    },
+    {
+      "question": "Un individu a été condamné sous l'empire d'une loi qui punit un acte de 2 ans de prison. Une nouvelle loi réduit la peine à 6 mois. Il n'a pas encore commencé à purger sa peine. Que se passe-t-il ?",
+      "choix": [
+        "Il subit les 2 ans de prison : la condamnation est définitive",
+        "Il bénéficie de la rétroactivité in mitius : la loi nouvelle plus douce lui est applicable et sa peine peut être réduite à 6 mois",
+        "La question est laissée à la discrétion du procureur",
+        "Il est libéré sans condition car toute condamnation tombe quand la loi change"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi nouvelle est plus douce — rétroactivité in mitius.",
+        "Il n'a pas encore purgé sa peine — la situation est encore en cours.",
+        "La rétroactivité in mitius bénéficie aux personnes condamnées non encore libérées."
+      ],
+      "explication": "Il bénéficie de la rétroactivité in mitius. La loi pénale nouvelle plus douce s'applique rétroactivement, même aux condamnations déjà prononcées dont la peine n'a pas encore été exécutée. Sa peine sera réduite à 6 mois. Ce principe traduit l'idée que la répression ne doit pas excéder ce que la société juge justifié au moment de l'exécution de la peine."
+    },
+    {
+      "question": "Qu'est-ce qu'une loi interprétative ?",
+      "choix": [
+        "Une loi qui traduit une loi étrangère en malagasy",
+        "Une loi votée pour clarifier le sens d'une loi antérieure ambiguë, réputée faire corps avec elle",
+        "Une loi qui explique au public comment utiliser un service public",
+        "Une loi qui précise les sanctions applicables à une infraction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle vient après une loi déjà en vigueur pour en clarifier le sens.",
+        "Elle est considérée comme ne formant qu'un seul texte avec la loi qu'elle interprète.",
+        "Elle a donc un effet rétroactif, puisqu'elle remonte à la date de la loi interprétée."
+      ],
+      "explication": "Une loi interprétative est une loi votée par le législateur pour clarifier le sens ambigu d'une loi antérieure. Elle est réputée faire corps avec la loi qu'elle interprète, ce qui signifie qu'elle s'applique depuis la date d'entrée en vigueur de cette loi — avec un effet rétroactif justifié par le fait qu'elle ne fait que préciser ce que la loi voulait dire dès l'origine."
+    },
+    {
+      "question": "Quelle est la différence entre le champ d'application d'une règle et ses conditions de mise en œuvre ?",
+      "choix": [
+        "Ce sont deux expressions synonymes pour la même notion",
+        "Le champ d'application délimite les situations où la règle peut s'appliquer (conditions nécessaires) ; les conditions de mise en œuvre sont les exigences supplémentaires pour que la règle produise effectivement son effet",
+        "Le champ d'application est défini par la loi ; les conditions de mise en œuvre sont fixées par le juge",
+        "Le champ d'application concerne l'espace ; les conditions de mise en œuvre concernent le temps"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon pose deux questions distinctes : la règle peut-elle s'appliquer ? Doit-elle s'appliquer ?",
+        "Entrer dans le champ d'application ne suffit pas à déclencher l'effet de la règle.",
+        "Il faut encore satisfaire les conditions de mise en œuvre."
+      ],
+      "explication": "Le champ d'application délimite les situations auxquelles une règle est susceptible de s'appliquer : c'est la condition nécessaire. Les conditions de mise en œuvre sont les exigences supplémentaires qui doivent être réunies pour que la règle produise effectivement son effet : ce sont les conditions suffisantes. Une situation peut entrer dans le champ d'application sans que les conditions de mise en œuvre soient satisfaites — et dans ce cas, la règle ne produit pas son effet."
+    },
+    {
+      "question": "Dans l'exemple de la responsabilité des bâtiments en ruine, quels éléments relèvent du champ d'application ?",
+      "choix": [
+        "Le défaut d'entretien et le vice de construction",
+        "Le dommage subi par la victime et son préjudice moral",
+        "Être propriétaire d'un bâtiment en état de ruine",
+        "Le montant des dommages-intérêts accordés"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le champ d'application désigne qui est concerné par la règle.",
+        "Propriétaire + bâtiment + ruine : ce sont les éléments qui désignent le type de situation couverte.",
+        "Le défaut d'entretien est la condition de mise en œuvre — ce qui déclenche la responsabilité."
+      ],
+      "explication": "Les éléments qui relèvent du champ d'application de la règle sur la responsabilité des bâtiments en ruine sont : (1) être propriétaire, (2) d'un bâtiment, (3) en état de ruine. Ces trois conditions sont nécessaires pour que la règle soit susceptible de s'appliquer. En revanche, la preuve du défaut d'entretien ou du vice de construction est une condition de mise en œuvre — elle doit être satisfaite pour que la responsabilité soit effectivement engagée."
+    },
+    {
+      "question": "Une victime entre dans le champ d'application d'une règle spéciale mais ne parvient pas à prouver les conditions de mise en œuvre. Peut-elle invoquer la règle générale à la place ?",
+      "choix": [
+        "Oui, elle peut toujours choisir la règle qui lui est la plus favorable",
+        "Non, dès lors qu'elle entre dans le champ d'application de la règle spéciale, c'est cette règle qui s'impose — même si elle échoue dans la preuve de ses conditions de mise en œuvre",
+        "Oui, mais seulement si la règle générale est plus récente",
+        "Non, mais elle peut saisir la Haute Cour Constitutionnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La règle spéciale prime sur la règle générale : specialia generalibus derogant.",
+        "Entrer dans le champ d'application d'une règle spéciale exclut le recours à la règle générale.",
+        "L'échec sur les conditions de mise en œuvre ne permet pas de « changer de règle »."
+      ],
+      "explication": "Non. Dès lors qu'une situation entre dans le champ d'application d'une règle spéciale, c'est cette règle qui s'impose exclusivement. La victime ne peut pas choisir d'invoquer la règle générale même si celle-ci lui serait plus favorable. Si elle échoue dans la preuve des conditions de mise en œuvre de la règle spéciale, elle perd son action — elle ne peut pas se rabattre sur la règle générale."
+    },
+    {
+      "question": "Qu'est-ce qu'un élément d'extranéité dans une situation juridique ?",
+      "choix": [
+        "Un élément bizarre ou inhabituel dans un contrat",
+        "Un lien d'une situation juridique avec un ou plusieurs États étrangers, qui peut appeler l'application du droit international privé",
+        "Un document rédigé en langue étrangère",
+        "Une clause contractuelle contraire à l'ordre public"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Extra signifie en dehors — en dehors de l'État malgache.",
+        "Cet élément signale qu'une situation a des liens avec un autre pays.",
+        "C'est lui qui rend nécessaire l'intervention du droit international privé."
+      ],
+      "explication": "Un élément d'extranéité est un lien d'une situation juridique avec un ou plusieurs États étrangers : la nationalité étrangère d'une partie, le lieu de conclusion d'un contrat à l'étranger, le lieu de situation d'un bien à l'étranger, etc. La présence d'un tel élément signale qu'on ne peut pas se contenter d'appliquer simplement la loi nationale et qu'il faut recourir aux règles du droit international privé pour déterminer quelle loi est applicable."
+    },
+    {
+      "question": "Vrai ou faux : la maxime « nul n'est censé ignorer la loi » signifie que tout le monde connaît toutes les lois.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une fiction juridique, pas un constat de réalité.",
+        "Elle vise à garantir l'autorité de la loi publiée.",
+        "Son fondement est la publication au Journal Officiel, pas la connaissance réelle."
+      ],
+      "explication": "Faux. « Nul n'est censé ignorer la loi » est une fiction juridique, pas un constat de réalité. Personne ne connaît toutes les lois. Mais cette fiction est nécessaire pour garantir l'autorité de la loi : à partir du moment où une loi a été régulièrement publiée, on présume qu'elle est connue de tous, de sorte que nul ne peut s'y soustraire en prétendant l'ignorer. C'est la publication au Journal Officiel qui fonde cette présomption."
+    },
+    {
+      "question": "La règle specialia generalibus derogant signifie :",
+      "choix": [
+        "La règle la plus ancienne prime sur la règle la plus récente",
+        "La règle générale prime sur la règle spéciale",
+        "La règle spéciale prime sur la règle générale",
+        "Les règles de fond priment sur les règles de procédure"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Specialia désigne ce qui est spécial, particulier.",
+        "Generalibus désigne ce qui est général.",
+        "Derogant signifie dérogent, priment."
+      ],
+      "explication": "La maxime specialia generalibus derogant signifie « les règles spéciales dérogent aux règles générales ». Quand une règle spéciale et une règle générale sont toutes deux applicables à une même situation, c'est la règle spéciale qui prime. Le législateur, en adoptant une règle spéciale, a voulu prévoir un régime particulier pour cette catégorie de situations, qui doit prévaloir sur le régime général."
+    },
+    {
+      "question": "Quel est l'ordre logique correct pour analyser l'application d'une règle à un cas concret ?",
+      "choix": [
+        "D'abord les conditions de mise en œuvre, puis le champ d'application",
+        "D'abord le champ d'application (espace, temps, personnes), puis les conditions de mise en œuvre",
+        "D'abord la sanction, puis le champ d'application",
+        "Il n'y a pas d'ordre particulier : tout s'analyse en même temps"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon énonce un ordre méthodologique précis.",
+        "Il faut d'abord vérifier que la règle a vocation à s'appliquer.",
+        "Ce n'est qu'ensuite qu'on vérifie si toutes les conditions sont réunies."
+      ],
+      "explication": "L'ordre correct est : d'abord vérifier le champ d'application (dans l'espace, dans le temps, ratione personae), puis les conditions de mise en œuvre. C'est une erreur fréquente que d'analyser directement les conditions de fond sans vérifier au préalable que la règle a bien vocation à s'appliquer à la situation en cause. Le champ d'application est la condition préalable à toute autre analyse."
+    },
+    {
+      "question": "Qu'est-ce qu'une disposition transitoire dans une loi ?",
+      "choix": [
+        "Une disposition qui permet de transférer un droit d'une personne à une autre",
+        "Une disposition qui organise le passage de l'ancienne à la nouvelle règle, notamment pour les situations en cours au moment de l'entrée en vigueur",
+        "Une disposition qui ne s'applique qu'à titre provisoire pendant six mois",
+        "Une disposition qui s'applique aux étrangers en transit sur le territoire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Transitoire signifie de passage, de transition.",
+        "Elle règle la situation des personnes et des situations qui étaient régies par l'ancienne loi.",
+        "Elle évite les vides juridiques lors du changement de règle."
+      ],
+      "explication": "Une disposition transitoire est une règle insérée dans une loi nouvelle pour organiser le passage de l'ancienne à la nouvelle règle. Elle précise comment traiter les situations en cours au moment de l'entrée en vigueur : celles qui doivent basculer immédiatement vers la loi nouvelle, celles qui restent sous l'empire de l'ancienne, et les délais éventuels d'adaptation. Les dispositions transitoires évitent les vides juridiques et les situations d'incertitude."
+    },
+    {
+      "question": "Un délai de prescription de 5 ans est réduit à 3 ans par une loi nouvelle. Un droit est né 2 ans avant l'entrée en vigueur de la loi nouvelle. Quel délai reste-t-il ?",
+      "choix": [
+        "5 ans, car l'ancienne loi survit pour les délais en cours",
+        "3 ans à compter de la naissance du droit, soit l'action est déjà prescrite",
+        "1 an, car le délai déjà écoulé (2 ans) sous l'ancienne loi est pris en compte, et il reste 1 an sous le nouveau délai de 3 ans",
+        "3 ans à compter de l'entrée en vigueur de la loi nouvelle"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La loi nouvelle à effet immédiat s'applique aux délais en cours.",
+        "Mais le temps déjà écoulé sous l'ancienne loi n'est pas effacé.",
+        "2 ans + 1 an = 3 ans : le délai total sous la nouvelle loi est bien respecté."
+      ],
+      "explication": "La loi nouvelle s'applique immédiatement aux délais de prescription en cours. Mais le temps déjà écoulé sous l'ancienne loi (2 ans) est pris en compte dans le nouveau délai (3 ans). Il reste donc 1 an sous la nouvelle loi. Cette règle évite à la fois que la loi nouvelle allonge indéfiniment des délais en cours et qu'elle les réduise de façon à ce que des actions soient brutalement éteintes sans délai raisonnable."
+    },
+    {
+      "question": "Vrai ou faux : une loi peut prévoir expressément qu'elle est rétroactive en matière civile.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La non-rétroactivité est un principe, pas une règle constitutionnelle en matière civile.",
+        "Le législateur peut déroger à ce principe dans certaines matières.",
+        "La prohibition constitutionnelle de la rétroactivité ne vaut qu'en matière pénale défavorable."
+      ],
+      "explication": "Vrai. En matière civile, la non-rétroactivité est un principe légal (posé par la loi), non constitutionnel. Le législateur peut donc expressément décider qu'une loi civile s'applique rétroactivement — et cette décision est valide. En revanche, en matière pénale, la rétroactivité défavorable est constitutionnellement interdite : même le législateur ne peut pas y déroger."
+    },
+    {
+      "question": "Quelle règle s'applique en matière de conflits de lois dans le temps pour une situation légale (non contractuelle) en cours ?",
+      "choix": [
+        "La loi ancienne survit pour toutes les situations en cours",
+        "La loi nouvelle s'applique immédiatement aux effets futurs de la situation en cours",
+        "Ni l'une ni l'autre : le juge choisit librement",
+        "La loi la plus favorable à la partie la plus faible s'applique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pour les situations non contractuelles, la règle est l'effet immédiat.",
+        "C'est différent des contrats, pour lesquels l'ancienne loi survit.",
+        "La loi nouvelle s'applique aux effets futurs, pas aux effets passés."
+      ],
+      "explication": "Pour une situation légale (non contractuelle) en cours, la règle est l'effet immédiat de la loi nouvelle : elle s'applique immédiatement aux effets futurs de cette situation. L'exception de survie de la loi ancienne est réservée aux contrats. Pour tout ce qui n'est pas contractuel (régimes légaux, statuts, responsabilités légales), la loi nouvelle s'applique dès son entrée en vigueur."
+    },
+    {
+      "question": "Qu'est-ce qu'une loi d'ordre public et quel est son effet sur les contrats en cours ?",
+      "choix": [
+        "Une loi qui concerne l'ordre et la sécurité publics, applicable uniquement aux infractions",
+        "Une loi qui protège des intérêts supérieurs de société, et qui s'impose immédiatement même aux contrats en cours, écartant la survie de la loi ancienne",
+        "Une loi votée par l'Assemblée nationale en session ordinaire",
+        "Une loi dont les effets sont suspendus pendant la durée des contrats en cours"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'ordre public est un concept qui s'oppose à la liberté contractuelle.",
+        "Une loi d'ordre public s'impose à tous, même aux contractants.",
+        "Elle supplante la règle de survie de la loi ancienne pour les contrats."
+      ],
+      "explication": "Une loi d'ordre public est une loi qui protège des intérêts supérieurs de la société — la protection des locataires, la santé publique, la sécurité des travailleurs. Ces lois s'imposent immédiatement même aux contrats en cours, écartant l'exception de survie de la loi ancienne. Les parties ne peuvent pas y déroger par leur accord : l'intérêt général prime sur la liberté contractuelle."
+    },
+    {
+      "question": "Ratione personae : que signifie cette expression dans le cadre du domaine d'application d'une règle ?",
+      "choix": [
+        "En raison du lieu où l'acte a été accompli",
+        "En raison des personnes auxquelles la règle s'adresse",
+        "En raison du temps écoulé depuis l'adoption de la règle",
+        "En raison de la matière traitée par la règle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Persona signifie en latin la personne.",
+        "C'est la dimension personnelle du champ d'application.",
+        "Elle répond à la question : à qui cette règle s'adresse-t-elle ?"
+      ],
+      "explication": "Ratione personae signifie « en raison des personnes » : c'est la dimension personnelle du champ d'application d'une règle. Elle répond à la question : à qui cette règle s'adresse-t-elle ? Le champ d'application personnel peut être délimité par la nationalité, la profession, l'âge, la qualité (commerçant, consommateur, fonctionnaire) ou toute autre caractéristique personnelle que le législateur a choisie pour délimiter les destinataires de la règle."
+    },
+    {
+      "question": "Le droit commercial malgache s'applique-t-il à tout le monde ?",
+      "choix": [
+        "Oui, à toutes les personnes se trouvant sur le territoire malgache",
+        "Non, seulement aux commerçants — c'est un exemple de règle à champ d'application personnel restreint",
+        "Oui, mais seulement aux personnes majeures",
+        "Non, il ne s'applique qu'aux entreprises de plus de dix salariés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit commercial est un droit professionnel spécialisé.",
+        "Il ne s'applique qu'à une catégorie particulière de personnes.",
+        "La leçon donne cet exemple pour illustrer le champ d'application personnel."
+      ],
+      "explication": "Non, le droit commercial ne s'applique pas à tout le monde. Il s'applique aux commerçants — c'est un exemple typique de règle à champ d'application personnel restreint. Les non-commerçants restent soumis au droit civil ordinaire pour leurs activités personnelles. C'est la qualité de commerçant qui détermine l'applicabilité des règles du droit commercial."
+    },
+    {
+      "question": "Vrai ou faux : la distinction entre champ d'application et conditions de mise en œuvre est purement théorique et sans intérêt pratique.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon et le PDF de Rouvière insistent sur l'importance pratique de cette distinction.",
+        "Elle a des conséquences directes sur les conflits de normes et les droits des parties.",
+        "Penser que le droit est purement théorique est toujours une erreur."
+      ],
+      "explication": "Faux. La distinction entre champ d'application et conditions de mise en œuvre a des conséquences pratiques décisives. Elle détermine notamment : si une règle spéciale exclut le recours à une règle générale (même en cas d'échec sur les conditions) ; comment résoudre les conflits entre une norme supérieure et une norme inférieure ; et si la subsidiarité d'une règle (comme l'enrichissement injustifié) peut jouer ou non. Ces enjeux concrets se posent quotidiennement dans le raisonnement juridique pratique."
+    },
+    {
+      "question": "Que se passe-t-il si la demande fondée sur un contrat est rejetée (par exemple parce qu'il manque l'intention juridique) ? L'action en enrichissement injustifié peut-elle alors être invoquée ?",
+      "choix": [
+        "Non, jamais : l'enrichissement injustifié ne joue que si aucun contrat n'a existé",
+        "Oui, si l'accord de volontés fait défaut — car alors on est hors du champ d'application du contrat — mais pas si c'est seulement l'intention juridique qui manque pour établir la qualification de contrat",
+        "Oui, toujours : l'enrichissement injustifié est une règle subsidiaire à tout",
+        "Non, car l'enrichissement injustifié est réservé aux relations entre commerçants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'enrichissement injustifié est subsidiaire : il ne joue qu'en l'absence d'autre action.",
+        "Sa subsidiarité suppose que la situation soit hors du champ d'application du contrat.",
+        "Si l'accord de volontés existe, le champ d'application du contrat est ouvert — même si le contrat n'est pas établi."
+      ],
+      "explication": "La subsidiarité de l'enrichissement injustifié ne joue que si la situation est entièrement hors du champ d'application du contrat — c'est-à-dire si l'accord de volontés lui-même est absent. Si l'accord de volontés existe mais que l'intention juridique fait défaut pour qualifier l'accord de contrat, le demandeur a quand même ouvert le champ d'application du contrat. Il succombera dans la preuve (condition de mise en œuvre), mais cette ouverture du champ d'application exclut le recours à l'enrichissement injustifié."
+    },
+    {
+      "question": "Pourquoi la prescription n'est-elle pas une condition de mise en œuvre d'une règle, mais une fin de non-recevoir ?",
+      "choix": [
+        "Parce que la prescription est une sanction pénale",
+        "Parce que la prescription est un élément déduit du fait qu'on est dans le champ d'application d'une règle, et non une condition qui détermine ce champ",
+        "Parce que la prescription ne concerne que les contrats",
+        "Parce que les juges peuvent ignorer la prescription s'ils le souhaitent"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La prescription n'empêche pas d'être dans le champ d'application d'une règle.",
+        "Elle opère après — elle empêche seulement d'agir en justice.",
+        "C'est un obstacle à l'action, pas une condition du droit lui-même."
+      ],
+      "explication": "La prescription n'est pas une condition de mise en œuvre d'une règle car elle n'est pas un élément constitutif du droit en cause — elle ne détermine pas si le droit existe, mais seulement si on peut encore l'invoquer en justice. Elle est déduite du fait qu'on est dans le champ d'application d'une règle (par exemple la prescription de 10 ans pour les dommages corporels), sans préjuger de la question de savoir si la responsabilité sera finalement engagée. C'est pourquoi le code de procédure civile la classe parmi les fins de non-recevoir : elle bloque l'action sans nier le droit."
+    },
+    {
+      "question": "Un contrat international entre un commerçant de Diego-Suarez et un importateur français ne prévoit pas de loi applicable. Comment désigner la loi qui régit ce contrat ?",
+      "choix": [
+        "On applique automatiquement la loi malgache car le contrat est signé à Madagascar",
+        "On applique les règles de conflit de lois du droit international privé, qui désigneront la loi du pays avec lequel le contrat présente les liens les plus étroits",
+        "On applique la loi française car la France est économiquement plus forte",
+        "On n'applique aucune loi : les contrats internationaux sont au-dessus des lois nationales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce contrat présente des liens avec deux pays : Madagascar et la France.",
+        "C'est le droit international privé qui intervient pour désigner la loi applicable.",
+        "En l'absence de choix des parties, on recourt au critère des liens les plus étroits."
+      ],
+      "explication": "En l'absence de choix exprès d'une loi par les parties, les règles de conflit de lois du droit international privé s'appliquent pour désigner la loi compétente. En matière contractuelle, le critère général est la loi du pays avec lequel le contrat présente les liens les plus étroits — souvent le lieu d'exécution, le domicile du débiteur de la prestation caractéristique, ou d'autres éléments de rattachement. Ce n'est pas automatiquement la loi du lieu de signature."
+    },
+    {
+      "question": "Vrai ou faux : les navires battant pavillon malgache sont considérés comme territoire malgache même lorsqu'ils naviguent dans des eaux étrangères.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon mentionne cette extension conventionnelle du territoire.",
+        "Pavillon désigne le drapeau du pays d'immatriculation du navire.",
+        "Cette règle permet d'appliquer la loi du pays d'immatriculation à bord du navire."
+      ],
+      "explication": "Vrai. Par une extension conventionnelle du concept de territoire, les navires et aéronefs battant pavillon d'un État sont assimilés à une partie de son territoire, où qu'ils se trouvent dans le monde. Ainsi, les infractions commises à bord d'un navire battant pavillon malgache en haute mer peuvent être jugées selon la loi malgache, même si le navire ne se trouve pas dans les eaux territoriales malgaches."
+    },
+    {
+      "question": "Quelle est la première question à poser pour analyser le domaine d'application d'une règle dans l'espace ?",
+      "choix": [
+        "Quelle est la date d'entrée en vigueur de la règle ?",
+        "La situation présente-t-elle un lien avec le territoire sur lequel cette règle s'applique, ou y a-t-il un élément d'extranéité ?",
+        "Quelles sont les sanctions prévues par la règle ?",
+        "Qui a voté cette règle ?"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans l'espace, la première question concerne le territoire.",
+        "Il faut aussi vérifier s'il y a un élément d'extranéité.",
+        "La présence d'un élément étranger peut changer la règle applicable."
+      ],
+      "explication": "Dans l'espace, la première question est de déterminer si la situation présente un lien avec le territoire sur lequel la règle s'applique, et s'il existe un élément d'extranéité. Si la situation est purement interne (toutes les parties sont malgaches, l'acte a eu lieu à Madagascar), la loi malgache s'applique sans problème. Si un élément étranger est présent, il faut recourir aux règles du droit international privé pour désigner la loi applicable."
+    },
+    {
+      "question": "Résumé final : quelles sont les trois dimensions du domaine d'application d'une règle ?",
+      "choix": [
+        "Le fond, la forme et la procédure",
+        "L'espace (territoire), le temps (entrée en vigueur et effets dans le temps) et les personnes (destinataires)",
+        "La source, le contenu et la sanction",
+        "La promulgation, la publication et l'abrogation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon ouvre et ferme sur ces trois dimensions.",
+        "Elles répondent aux questions : où ? quand ? à qui ?",
+        "Ce sont les trois axes que tout juriste vérifie avant d'analyser les conditions de fond."
+      ],
+      "explication": "Les trois dimensions du domaine d'application d'une règle sont : (1) dans l'espace — sur quel territoire la règle s'applique-t-elle (principe de territorialité, droit international privé) ? (2) dans le temps — à partir de quand la règle est-elle en vigueur, et s'applique-t-elle aux situations passées ou en cours (non-rétroactivité, effet immédiat, survie de la loi ancienne) ? (3) ratione personae — à quelles personnes ou catégories de personnes la règle s'adresse-t-elle ? Ces trois vérifications précèdent toujours l'analyse des conditions de mise en œuvre."
+    },
+    {
+      "question": "Pourquoi dit-on que « en droit, la politique est une défaite de l'argumentation » selon l'approche logique du champ d'application ?",
+      "choix": [
+        "Parce que les politiciens ne comprennent pas le droit",
+        "Parce qu'il est possible de déterminer objectivement quelles conditions sont logiquement nécessaires ou suffisantes, sans recourir à un choix subjectif de politique juridique",
+        "Parce que le droit est supérieur à la politique",
+        "Parce que les juges ne doivent jamais avoir d'opinions politiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le PDF de Rouvière développe cette idée.",
+        "La logique des conditions nécessaires et suffisantes permet de trancher objectivement.",
+        "Recourir à la politique signifie substituer une volonté subjective à un raisonnement objectif."
+      ],
+      "explication": "L'approche logique du champ d'application — fondée sur les conditions nécessaires et suffisantes — permet de déterminer objectivement quelle règle s'applique, sans avoir à faire un choix subjectif de politique juridique. Quand le raisonnement juridique est rigoureux, le juge n'a pas à trancher selon ses préférences : la logique de la règle s'impose à lui. Recourir à la politique, c'est reconnaître que l'argumentation a échoué à produire une solution objective."
+    },
+    {
+      "question": "La loi pénale nouvelle qui aggrave la peine d'une infraction s'applique-t-elle aux faits commis avant son entrée en vigueur ?",
+      "choix": [
+        "Oui, car toute loi nouvelle a un effet immédiat",
+        "Non, la non-rétroactivité de la loi pénale plus sévère est une garantie constitutionnelle absolue",
+        "Oui, mais seulement si le tribunal l'estime juste",
+        "Non, mais seulement si l'accusé en fait la demande explicite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En matière pénale, la rétroactivité défavorable est constitutionnellement interdite.",
+        "La rétroactivité in mitius bénéficie à l'accusé — jamais à l'accusation.",
+        "Nullum crimen sine lege protège l'accusé contre les lois pénales rétroactives défavorables."
+      ],
+      "explication": "Non. La loi pénale nouvelle qui aggrave une peine ne peut pas s'appliquer aux faits commis avant son entrée en vigueur. C'est une garantie constitutionnelle absolue : nullum crimen sine lege, nulla poena sine lege. L'accusé ne peut être condamné qu'en vertu d'une loi qui existait et était applicable au moment où il a agi. La rétroactivité défavorable en matière pénale est inconstitutionnelle, même si le législateur le décidait expressément."
+    },
+    {
+      "question": "Qu'est-ce qu'une « situation entièrement constituée » dans le passé, pour les conflits de lois dans le temps ?",
+      "choix": [
+        "Une situation dont tous les effets futurs ont encore lieu",
+        "Une situation dont tous les éléments constitutifs se sont produits avant l'entrée en vigueur de la loi nouvelle, et dont les effets sont épuisés",
+        "Une situation qui a fait l'objet d'un jugement de première instance",
+        "Une situation contractuelle qui court encore"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Entièrement constituée signifie que tout s'est passé dans le passé.",
+        "Ses effets sont tous passés et épuisés.",
+        "La loi ancienne s'applique à elle : c'est l'application la plus claire de la non-rétroactivité."
+      ],
+      "explication": "Une situation entièrement constituée dans le passé est une situation dont tous les éléments constitutifs se sont produits avant l'entrée en vigueur de la loi nouvelle, et dont tous les effets sont épuisés. Pour ces situations, la règle est claire : la loi ancienne s'applique, et la loi nouvelle ne peut pas y toucher sans violer le principe de non-rétroactivité. C'est le cas le plus simple des conflits de lois dans le temps."
+    },
+    {
+      "question": "Un médecin commet une faute professionnelle qui cause un préjudice à un patient. Sous quelle loi la prescription de l'action en responsabilité est-elle déterminée ?",
+      "choix": [
+        "Sous la loi en vigueur au moment de la faute, qui est seule applicable",
+        "La prescription est déterminée en fonction du champ d'application de la règle applicable : si le dommage est corporel, le délai spécifique à ce type de dommage s'applique, indépendamment de la question de savoir si la responsabilité sera finalement retenue",
+        "La prescription est déterminée par le tribunal en fonction de l'équité",
+        "Il n'y a pas de prescription pour les fautes médicales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La prescription est un élément déduit du champ d'application de la règle.",
+        "L'existence d'un dommage corporel suffit à déterminer la prescription applicable.",
+        "Cela ne préjuge pas de la responsabilité effective du médecin."
+      ],
+      "explication": "La prescription est déterminée en fonction du champ d'application de la règle applicable. L'existence d'un dommage corporel — qui fait entrer la situation dans le champ d'application de la responsabilité pour dommage corporel — suffit à déterminer le délai de prescription applicable (par exemple 10 ans), sans qu'il soit nécessaire de trancher au préalable la question de la responsabilité effective du médecin. La prescription est un effet indirect du champ d'application, pas une condition de mise en œuvre."
+    },
+    {
+      "question": "Vrai ou faux : la survie de la loi ancienne pour les contrats en cours est une règle absolue que rien ne peut écarter.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il existe une exception à la survie de la loi ancienne.",
+        "Les lois d'ordre public s'imposent même aux contrats en cours.",
+        "L'ordre public prime sur la liberté contractuelle."
+      ],
+      "explication": "Faux. La survie de l'ancienne loi pour les contrats en cours est une règle générale, mais elle connaît une exception importante : les lois d'ordre public s'appliquent immédiatement même aux contrats en cours. Quand le législateur édicte une règle protectrice des intérêts supérieurs de la société — protection minimale des locataires, sécurité des travailleurs — cette règle s'impose à tous les contrats, même ceux conclus sous l'empire de la loi ancienne."
+    },
+    {
+      "question": "Quelles conditions logiques permettent de déterminer si une règle doit s'appliquer à une situation ?",
+      "choix": [
+        "La règle doit être récente et favorable à la partie la plus faible",
+        "Les conditions nécessaires (champ d'application) doivent être remplies, et les conditions suffisantes (conditions de mise en œuvre) doivent s'y ajouter",
+        "La règle doit avoir été votée à l'unanimité par le Parlement",
+        "La situation doit avoir été soumise à un médiateur avant d'aller en justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon reprend la théorie des conditions nécessaires et suffisantes.",
+        "Conditions nécessaires = champ d'application ; conditions suffisantes = mise en œuvre.",
+        "Il faut les deux pour que la règle produise son effet."
+      ],
+      "explication": "D'un point de vue logique, pour qu'une règle s'applique effectivement à une situation, il faut réunir deux types de conditions : les conditions nécessaires qui définissent le champ d'application (sans elles, la règle ne peut pas s'appliquer du tout), et les conditions suffisantes qui constituent les conditions de mise en œuvre (leur réunion avec les conditions nécessaires déclenche l'effet de la règle). Les conditions nécessaires seules ne suffisent pas : on est dans le champ d'application sans que la règle produise son effet."
+    },
+    {
+      "question": "Vrai ou faux : le principe de non-rétroactivité des lois en matière civile peut être écarté par une loi ordinaire.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "En matière civile, la non-rétroactivité est posée par une loi ordinaire.",
+        "Une loi peut déroger à une autre loi de même niveau.",
+        "Ce n'est pas la même chose qu'en matière pénale, où la protection est constitutionnelle."
+      ],
+      "explication": "Vrai. En matière civile, la non-rétroactivité est un principe posé par la loi — pas par la Constitution. Une loi ordinaire peut donc expressément y déroger en prévoyant une application rétroactive. Cela la distingue du domaine pénal, où la non-rétroactivité défavorable est une garantie constitutionnelle absolue à laquelle même le législateur ne peut pas déroger."
+    },
+    {
+      "question": "Qu'est-ce que le critère ratione materiae dans le champ d'application d'une règle ?",
+      "choix": [
+        "La détermination des personnes auxquelles la règle s'applique",
+        "La détermination de la matière — du type de situation — couverte par la règle",
+        "La détermination du territoire sur lequel la règle s'applique",
+        "La détermination du tribunal compétent pour appliquer la règle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Materia signifie en latin la matière, le sujet.",
+        "C'est la dimension substantielle du champ d'application.",
+        "Elle répond à la question : quel type de situation cette règle vise-t-elle ?"
+      ],
+      "explication": "Ratione materiae désigne la dimension substantielle du champ d'application : le type de situation, le sujet, la matière couverte par la règle. Par exemple, une directive sur les produits défectueux s'applique ratione materiae aux dommages d'origine non professionnelle — les dommages professionnels sont hors de son champ d'application matériel, et l'État peut les régir librement. Cette dimension complète les dimensions personnelle (ratione personae) et territoriale (ratione loci)."
+    },
+    {
+      "question": "Pourquoi la maîtrise du domaine d'application d'une règle est-elle qualifiée d'essentielle avant toute autre analyse ?",
+      "choix": [
+        "Parce qu'elle permet de gagner du temps en éliminant rapidement les règles inapplicables",
+        "Parce qu'appliquer une règle hors de son domaine produit une décision juridiquement fausse, et ne pas l'appliquer dans son domaine est aussi une erreur grave — les deux erreurs symétriques mènent à des solutions injustes",
+        "Parce que les juges sont évalués sur leur maîtrise du champ d'application",
+        "Parce que le champ d'application détermine le montant des honoraires d'avocat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne deux erreurs symétriques à éviter.",
+        "Appliquer une règle là où elle ne devrait pas l'être est aussi grave que ne pas l'appliquer là où elle le devrait.",
+        "Ces deux erreurs mènent à des décisions injustes ou juridiquement incorrectes."
+      ],
+      "explication": "La maîtrise du domaine d'application est essentielle parce qu'elle permet d'éviter deux erreurs symétriques également graves : appliquer une règle là où elle n'a pas vocation à s'appliquer (en dehors de son domaine), ce qui est une erreur de droit ; ou ne pas l'appliquer là où elle devrait s'appliquer (en refusant de l'appliquer dans son domaine). Les deux erreurs produisent des décisions juridiquement incorrectes et des solutions injustes pour les parties."
+    },
+    {
+      "question": "Dans quel cas dit-on que la subsidiarité de l'enrichissement injustifié ne peut pas jouer ?",
+      "choix": [
+        "Quand le demandeur est de mauvaise foi",
+        "Quand c'est une condition de mise en œuvre de l'autre règle qui fait défaut (par exemple la prescription), et non le champ d'application lui-même",
+        "Quand le tribunal n'est pas compétent",
+        "Quand le défendeur est un fonctionnaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La subsidiarité suppose que l'autre règle soit hors de son champ d'application.",
+        "Si l'autre règle est dans son champ d'application mais que ses conditions de mise en œuvre font défaut, la subsidiarité ne joue pas.",
+        "La prescription est une fin de non-recevoir, pas une condition de mise en œuvre."
+      ],
+      "explication": "La subsidiarité de l'enrichissement injustifié ne peut pas jouer quand c'est une condition de mise en œuvre de l'autre règle qui fait défaut — par exemple si l'action contractuelle est rejetée parce qu'elle est prescrite. La prescription n'est pas une condition du champ d'application du contrat : si le contrat existe, on est dans le champ d'application du droit contractuel. La prescription bloque seulement l'action en justice (c'est une fin de non-recevoir). L'enrichissement injustifié ne peut donc pas prendre le relais : le champ d'application du contrat est ouvert."
+    },
+    {
+      "question": "Un acte juridique a été accompli en 2010 sous l'empire d'une loi en vigueur. La règle qui le régissait a été abrogée en 2015. Un litige sur cet acte surgit en 2024. Quelle loi le juge applique-t-il ?",
+      "choix": [
+        "La loi en vigueur en 2024, car c'est la loi actuelle",
+        "La loi en vigueur en 2010 au moment de l'acte, en vertu du principe de non-rétroactivité et de survie de l'ancienne loi",
+        "Aucune loi, car la règle applicable est abrogée",
+        "Le juge choisit librement la loi qu'il estime la plus juste"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acte a été accompli en 2010 sous une règle précise.",
+        "Son régime juridique était fixé à ce moment.",
+        "La non-rétroactivité protège les droits acquis sous la loi ancienne."
+      ],
+      "explication": "Le juge applique la loi en vigueur en 2010, au moment où l'acte a été accompli. La non-rétroactivité de la loi nouvelle (ici, son abrogation en 2015) protège les droits et obligations nés sous l'empire de l'ancienne règle. L'abrogation d'une règle ne peut pas remettre en cause les situations entièrement constituées sous son empire. Le litige en 2024 concerne un acte de 2010 : c'est la loi de 2010 qui s'applique."
+    },
+    {
+      "question": "Vrai ou faux : l'immunité diplomatique signifie que les ambassadeurs étrangers peuvent commettre des infractions sans aucune conséquence.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'immunité diplomatique est un aménagement du principe de territorialité.",
+        "Elle soustrait les diplomates à la juridiction de l'État d'accueil — pas à toute règle.",
+        "L'État d'envoi peut renoncer à l'immunité, et le diplomate peut être déclaré persona non grata."
+      ],
+      "explication": "Faux. L'immunité diplomatique est un aménagement du principe de territorialité qui soustrait les représentants diplomatiques à la juridiction de l'État d'accueil — mais elle ne leur accorde pas une impunité absolue. L'État qui a envoyé le diplomate peut renoncer à l'immunité et le juger lui-même. L'État d'accueil peut déclarer le diplomate persona non grata et l'expulser. Des mécanismes existent pour éviter que l'immunité ne serve à couvrir des infractions graves."
+    },
+    {
+      "question": "Laquelle de ces affirmations résume le mieux l'enseignement central de ce module ?",
+      "choix": [
+        "Une règle de droit s'applique toujours partout, tout le temps et à tout le monde",
+        "Le domaine d'application d'une règle délimite précisément où, quand et à qui elle s'applique ; en dehors de ce domaine, une autre règle prend le relais ; et entrer dans le champ d'application ne suffit pas — il faut encore satisfaire les conditions de mise en œuvre",
+        "Le droit international prime toujours sur le droit national",
+        "Seule la loi récente compte : l'ancienne loi n'a plus jamais d'effet"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon ouvre sur cette idée et la ferme sur la même.",
+        "Trois dimensions pour le domaine ; distinction champ d'application / conditions de mise en œuvre.",
+        "C'est l'enseignement central à retenir."
+      ],
+      "explication": "L'enseignement central est que toute règle de droit a un domaine d'application délimité selon l'espace, le temps et les personnes. En dehors de ce domaine, une autre règle prend le relais. Mais entrer dans le champ d'application ne suffit pas à déclencher l'effet de la règle : il faut encore satisfaire les conditions de mise en œuvre. Ces deux vérifications — champ d'application puis conditions de fond — constituent la méthode fondamentale du raisonnement juridique."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Voici trois situations distinctes. Pour chacune, déterminez : (A) si la règle malgache est applicable dans l'espace, (B) quelle loi s'applique dans le temps, et (C) si la règle vise cette catégorie de personnes.\n\nSituation 1 : En 2022, Hery, commerçant malgache, signe un contrat de fourniture avec une entreprise réunionnaise pour des livraisons à La Réunion. Un litige éclate en 2024.\n\nSituation 2 : En 2019, Zo loue un appartement à Antananarivo. Une nouvelle loi sur les baux d'habitation, d'ordre public, entre en vigueur en 2021 et allonge le délai de préavis. Le propriétaire veut donner congé en 2024.\n\nSituation 3 : Un fonctionnaire malgache est licencié en 2020. Il conteste ce licenciement en 2024. Entre-temps, une nouvelle loi sur les fonctionnaires a modifié les règles de licenciement en 2022.",
+      "choix": [
+        "Les trois situations sont régies par le droit malgache actuel, car les litiges se posent en 2024",
+        "Situation 1 : droit international privé à appliquer (élément d'extranéité — livraison à La Réunion) ; loi applicable à déterminer selon les règles de conflit. Situation 2 : loi nouvelle d'ordre public de 2021 applicable immédiatement au bail en cours, y compris pour le congé de 2024. Situation 3 : licenciement de 2020 régi par la loi en vigueur en 2020 (non-rétroactivité) ; la loi de 2022 ne s'applique pas rétroactivement aux faits de 2020",
+        "Toutes les situations sont régies par la loi la plus favorable à la partie faible",
+        "Seule la situation 2 relève du droit malgache ; les deux autres relèvent du droit international"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Situation 1 : La livraison se fait à La Réunion — élément d'extranéité. Le droit international privé doit désigner la loi applicable.",
+        "Situation 2 : La loi est d'ordre public. Quelle est la conséquence sur la survie de l'ancienne loi ?",
+        "Situation 3 : Le licenciement a eu lieu en 2020. La nouvelle loi de 2022 peut-elle s'appliquer rétroactivement à un acte de 2020 ?"
+      ],
+      "explication": "Voici l'analyse complète des trois situations. Situation 1 — Le contrat international. (A) Dans l'espace : le contrat présente un élément d'extranéité majeur — la livraison se fait à La Réunion (territoire français). La règle malgache n'est pas automatiquement applicable. Il faut recourir au droit international privé pour désigner la loi applicable. Les règles de conflit de lois désigneront vraisemblablement la loi du pays avec lequel le contrat présente les liens les plus étroits. Si les parties n'ont pas choisi de loi applicable dans le contrat, le juge saisi devra appliquer ces règles de conflit. (B) Dans le temps : si la loi malgache est finalement désignée applicable, c'est la loi en vigueur au moment de la conclusion du contrat (2022) qui régira ses effets. (C) Ratione personae : Hery est commerçant — le droit commercial s'applique. Situation 2 — Le bail d'habitation sous loi d'ordre public. (A) Dans l'espace : situation purement interne (appartement à Antananarivo, propriétaire et locataire malgaches) — la loi malgache s'applique sans difficulté. (B) Dans le temps : le bail a été conclu en 2019 sous l'ancienne loi. En principe, l'ancienne loi survivrait pour ce contrat en cours. Mais la loi nouvelle de 2021 est expressément qualifiée d'ordre public. Exception : une loi d'ordre public s'applique immédiatement même aux contrats en cours. Le propriétaire qui donne congé en 2024 doit respecter le nouveau délai de préavis issu de la loi de 2021. (C) Ratione personae : Zo est locataire d'un bail d'habitation — la loi sur les baux d'habitation lui est applicable. Situation 3 — Le licenciement du fonctionnaire. (A) Dans l'espace : situation purement interne — la loi malgache s'applique. (B) Dans le temps : le licenciement a été prononcé en 2020. La loi applicable à cet acte est celle en vigueur en 2020, au moment où l'acte a été accompli. La loi de 2022 est postérieure : elle ne peut pas s'appliquer rétroactivement au licenciement de 2020 (non-rétroactivité). Le juge saisi en 2024 appliquera la loi de 2020 pour apprécier la légalité du licenciement. (C) Ratione personae : il s'agit d'un fonctionnaire — les règles spéciales de la fonction publique s'appliquent, pas le droit du travail ordinaire."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Le Parlement malgache vote en 2023 une loi sur la responsabilité des constructeurs de logements qui comprend les dispositions suivantes : (1) tout constructeur est responsable des dommages qui compromettent la solidité de l'ouvrage pendant dix ans après la réception des travaux (article 1) ; (2) cette responsabilité est engagée dès lors que le dommage relève de la liste des défauts graves fixée par décret (article 2) ; (3) la loi s'applique aux ouvrages dont les travaux ont été réceptionnés à partir du 1er janvier 2024 (article 3, disposition transitoire). Analysez : (A) quels éléments relèvent du champ d'application de la règle ; (B) quels éléments relèvent des conditions de mise en œuvre ; (C) ce que signifie la disposition transitoire de l'article 3 ; (D) un propriétaire dont l'ouvrage a été réceptionné en 2022 et qui constate des fissures en 2025 peut-il invoquer cette loi ?",
+      "choix": [
+        "La loi s'applique à tous les cas : le propriétaire de 2022 peut l'invoquer car le dommage est apparu en 2025",
+        "(A) Champ d'application : être constructeur d'un ouvrage (logement) réceptionné à partir du 1er janvier 2024 — ce sont les conditions nécessaires. (B) Conditions de mise en œuvre : le dommage doit compromettre la solidité de l'ouvrage et figurer dans la liste des défauts graves du décret — conditions suffisantes. (C) La disposition transitoire fixe la date à partir de laquelle la loi nouvelle s'applique, excluant les ouvrages antérieurs. (D) Non : l'ouvrage a été réceptionné en 2022, avant l'entrée dans le champ de la loi nouvelle — l'ancienne loi s'applique",
+        "Tous les éléments relèvent du champ d'application : il n'y a pas de conditions de mise en œuvre dans cette loi",
+        "La disposition transitoire permet au propriétaire de 2022 de choisir entre l'ancienne et la nouvelle loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quels éléments définissent le type de situation couverte par la règle (champ d'application) ? Lesquels déclenchent la responsabilité (conditions de mise en œuvre) ?",
+        "La disposition transitoire de l'article 3 fixe une date : que signifie-t-elle pour les ouvrages antérieurs ?",
+        "L'ouvrage de 2022 est-il dans le champ d'application de la loi nouvelle ?"
+      ],
+      "explication": "Voici l'analyse complète en quatre points. (A) Champ d'application. Les éléments du champ d'application sont les conditions nécessaires — celles qui définissent les situations auxquelles la règle peut s'appliquer. Ici : être un constructeur, avoir réalisé un ouvrage (un logement), et que cet ouvrage ait été réceptionné à partir du 1er janvier 2024. Ces trois conditions sont nécessaires pour que la règle nouvelle soit susceptible de s'appliquer. En dehors de ces conditions, la règle ne s'applique pas — une autre règle (l'ancienne loi) prend le relais. (B) Conditions de mise en œuvre. Les conditions de mise en œuvre sont les exigences supplémentaires qui, réunies avec les conditions du champ d'application, déclenchent effectivement la responsabilité. Ici : le dommage doit compromettre la solidité de l'ouvrage (article 1) et relever de la liste des défauts graves fixée par décret (article 2). Ce sont des conditions suffisantes : leur satisfaction, ajoutée aux conditions nécessaires du champ d'application, entraîne la responsabilité du constructeur. Un constructeur peut donc être dans le champ d'application de la règle (ouvrage réceptionné en 2024) sans voir sa responsabilité engagée si le dommage ne figure pas dans la liste des défauts graves. (C) La disposition transitoire de l'article 3. La disposition transitoire fixe à titre exprès la date d'entrée dans le champ d'application de la loi nouvelle : les ouvrages réceptionnés à partir du 1er janvier 2024. C'est une clause temporelle qui délimite le domaine d'application dans le temps. Elle exclut expressément les ouvrages antérieurs à cette date, qui restent soumis à l'ancienne loi. Le législateur a choisi de ne pas appliquer la loi nouvelle aux ouvrages déjà réceptionnés, par souci de sécurité juridique pour les constructeurs et les maîtres d'ouvrage qui avaient déjà conclu leurs contrats. (D) Le propriétaire de 2022. Non, le propriétaire dont l'ouvrage a été réceptionné en 2022 ne peut pas invoquer la loi nouvelle de 2023, même si les fissures sont apparues en 2025. L'ouvrage a été réceptionné avant le 1er janvier 2024 : il est hors du champ d'application de la loi nouvelle, en vertu de la disposition transitoire expresse de l'article 3. L'apparition du dommage en 2025 est sans incidence sur ce point : c'est la date de réception des travaux qui détermine l'entrée dans le champ d'application. Le propriétaire devra invoquer l'ancienne loi en vigueur au moment de la réception en 2022. Cet exemple illustre parfaitement la distinction entre champ d'application et conditions de mise en œuvre : l'apparition d'un dommage en 2025 pourrait satisfaire les conditions de mise en œuvre, mais cela est sans objet si la situation n'entre pas dans le champ d'application de la règle nouvelle."
+    }
+  ]
+}
