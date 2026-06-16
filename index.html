@@ -86,6 +86,106 @@ html, body {
   opacity: 0; animation: fadeIn 0.5s ease 1.8s forwards;
 }
 
+/* ── AUTH SCREENS ── */
+.auth-wrap {
+  flex: 1; display: flex; flex-direction: column;
+  align-items: center; justify-content: flex-start;
+  padding: 60px 28px 48px; min-height: 100%;
+}
+.auth-logo {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 28px; font-weight: 900;
+  color: var(--gold); letter-spacing: 5px; text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.auth-tagline {
+  font-size: 10px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--cream-dim); margin-bottom: 40px;
+}
+.auth-card {
+  width: 100%; max-width: 380px;
+  background: var(--navy-mid);
+  border: 1px solid rgba(201,168,76,0.18);
+  border-radius: 20px; padding: 32px 28px 28px;
+}
+.auth-card-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 22px; font-weight: 700; color: var(--cream);
+  margin-bottom: 6px;
+}
+.auth-card-sub {
+  font-size: 12px; color: var(--cream-dim); margin-bottom: 28px; line-height: 1.5;
+}
+
+.field-group { margin-bottom: 18px; }
+.field-label {
+  display: block; font-size: 10px; letter-spacing: 2.5px;
+  text-transform: uppercase; color: var(--cream-dim); margin-bottom: 8px; font-weight: 500;
+}
+.field-input {
+  width: 100%; padding: 13px 14px; border-radius: 10px;
+  background: var(--navy-light); border: 1px solid rgba(255,255,255,0.08);
+  color: var(--cream); font-family: 'Inter', sans-serif; font-size: 14px;
+  outline: none; transition: border-color 0.2s ease;
+  -webkit-appearance: none;
+}
+.field-input::placeholder { color: rgba(245,240,232,0.25); }
+.field-input:focus { border-color: rgba(201,168,76,0.5); }
+.field-input.error { border-color: var(--red); }
+
+.field-error {
+  font-size: 11px; color: var(--red); margin-top: 6px;
+  display: none;
+}
+.field-error.show { display: block; }
+
+.btn-auth {
+  width: 100%; padding: 14px; border-radius: 10px; border: none;
+  background: var(--gold); color: var(--navy);
+  font-family: 'Inter', sans-serif; font-size: 12px;
+  font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase;
+  cursor: pointer; margin-top: 8px;
+  transition: opacity 0.2s ease;
+}
+.btn-auth:active { opacity: 0.85; }
+.btn-auth:disabled { opacity: 0.45; cursor: default; }
+
+.auth-divider {
+  display: flex; align-items: center; gap: 12px;
+  margin: 22px 0; color: var(--cream-dim); font-size: 11px;
+}
+.auth-divider::before, .auth-divider::after {
+  content: ''; flex: 1; height: 1px; background: rgba(255,255,255,0.07);
+}
+
+.btn-auth-ghost {
+  width: 100%; padding: 13px; border-radius: 10px;
+  border: 1px solid rgba(201,168,76,0.3); background: transparent;
+  color: var(--gold); font-family: 'Inter', sans-serif; font-size: 12px;
+  font-weight: 600; letter-spacing: 2px; text-transform: uppercase;
+  cursor: pointer;
+}
+
+.auth-notice {
+  margin-top: 22px; padding: 14px 16px; border-radius: 10px;
+  background: rgba(82,183,136,0.1); border: 1px solid rgba(82,183,136,0.3);
+  font-size: 12px; color: var(--green-light); line-height: 1.6; display: none;
+  text-align: center;
+}
+.auth-notice.show { display: block; }
+
+.auth-error-global {
+  margin-bottom: 18px; padding: 12px 14px; border-radius: 10px;
+  background: rgba(226,104,94,0.1); border: 1px solid rgba(226,104,94,0.3);
+  font-size: 12px; color: var(--red); line-height: 1.5; display: none;
+}
+.auth-error-global.show { display: block; }
+
+.auth-terms {
+  margin-top: 8px; font-size: 10.5px; color: var(--cream-dim); line-height: 1.6;
+  text-align: center;
+}
+
 /* ── HOME ── */
 .app-header {
   padding: 52px 24px 20px; text-align: center; flex-shrink: 0;
@@ -108,6 +208,41 @@ html, body {
   letter-spacing: 4px; text-transform: uppercase;
   color: var(--cream-dim); margin-bottom: 24px;
 }
+
+/* user pill */
+.user-pill {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 14px; border-radius: 99px;
+  background: var(--navy-mid); border: 1px solid rgba(201,168,76,0.2);
+  margin: 0 auto 16px; width: fit-content; cursor: pointer;
+  position: relative;
+}
+.user-pill-avatar {
+  width: 26px; height: 26px; border-radius: 50%;
+  background: var(--gold-glow); border: 1px solid rgba(201,168,76,0.4);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 700; color: var(--gold); flex-shrink: 0;
+}
+.user-pill-name { font-size: 12px; color: var(--cream); font-weight: 500; }
+.user-pill-arrow { font-size: 10px; color: var(--cream-dim); }
+
+/* user dropdown */
+.user-dropdown {
+  position: absolute; top: calc(100% + 8px); left: 50%;
+  transform: translateX(-50%);
+  background: var(--navy-mid); border: 1px solid rgba(201,168,76,0.2);
+  border-radius: 12px; padding: 8px; min-width: 180px;
+  z-index: 100; display: none; box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+}
+.user-dropdown.open { display: block; }
+.dropdown-item {
+  padding: 10px 12px; border-radius: 8px; font-size: 12.5px;
+  color: var(--cream-dim); cursor: pointer; display: flex; align-items: center; gap: 10px;
+}
+.dropdown-item:hover { background: rgba(255,255,255,0.05); color: var(--cream); }
+.dropdown-item.danger { color: var(--red); }
+.dropdown-item.danger:hover { background: rgba(226,104,94,0.08); }
+.dropdown-sep { height: 1px; background: rgba(255,255,255,0.06); margin: 4px 0; }
 
 .levels { padding: 0 20px 48px; display: flex; flex-direction: column; gap: 16px; }
 
@@ -190,6 +325,13 @@ html, body {
 .accent-green  .btn-enter { background: var(--green-light); color: var(--navy); }
 .accent-orange .btn-enter { background: var(--orange);      color: var(--navy); }
 .accent-red    .btn-enter { background: var(--red);         color: var(--navy); }
+
+/* dev banner */
+.dev-banner {
+  background: rgba(232,144,106,0.12); border-bottom: 1px solid rgba(232,144,106,0.25);
+  padding: 8px 16px; text-align: center;
+  font-size: 10px; letter-spacing: 1.5px; color: var(--orange); flex-shrink: 0;
+}
 
 /* ── INNER SCREENS HEADER ── */
 .screen-header {
@@ -326,12 +468,6 @@ html, body {
   height: 100%; border-radius: 99px; background: var(--gold);
   transition: width 0.35s ease;
 }
-.quiz-type-badge {
-  display: inline-block; font-size: 9.5px; letter-spacing: 3px;
-  text-transform: uppercase; color: var(--gold);
-  border: 1px solid rgba(201,168,76,0.35); border-radius: 99px;
-  padding: 5px 12px; margin-left: 50px;
-}
 
 /* hearts */
 .quiz-hearts {
@@ -340,7 +476,7 @@ html, body {
 }
 .quiz-hearts .heart-lost { opacity: 0.25; }
 
-/* review modal (à 0 cœur) */
+/* review modal */
 #review-modal {
   position: fixed; inset: 0; z-index: 300;
   background: rgba(13,27,42,0.93);
@@ -380,20 +516,11 @@ html, body {
   font-size: 11px; font-weight: 600; color: var(--cream-dim); flex-shrink: 0;
 }
 .quiz-choice.disabled { pointer-events: none; }
-.quiz-choice.correct {
-  border-color: var(--green-light); background: rgba(82,183,136,0.1);
-}
-.quiz-choice.correct .choice-letter {
-  background: var(--green-light); border-color: var(--green-light); color: var(--navy);
-}
-.quiz-choice.wrong {
-  border-color: var(--red); background: rgba(226,104,94,0.08);
-}
-.quiz-choice.wrong .choice-letter {
-  background: var(--red); border-color: var(--red); color: var(--navy);
-}
+.quiz-choice.correct { border-color: var(--green-light); background: rgba(82,183,136,0.1); }
+.quiz-choice.correct .choice-letter { background: var(--green-light); border-color: var(--green-light); color: var(--navy); }
+.quiz-choice.wrong { border-color: var(--red); background: rgba(226,104,94,0.08); }
+.quiz-choice.wrong .choice-letter { background: var(--red); border-color: var(--red); color: var(--navy); }
 
-/* hints */
 .hint-box {
   margin-top: 20px; padding: 14px 16px; border-radius: 12px;
   background: var(--navy-mid); border-left: 3px solid var(--orange);
@@ -409,7 +536,6 @@ html, body {
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* explanation / feedback panel */
 .feedback-panel {
   margin-top: 22px; padding: 18px; border-radius: 14px;
   animation: slideIn 0.3s ease;
@@ -426,7 +552,7 @@ html, body {
 
 .quiz-footer { padding: 8px 22px 48px; }
 
-/* particles / badge (unchanged) */
+/* badge modal */
 #badge-modal {
   position: fixed; inset: 0; z-index: 300;
   background: rgba(13,27,42,0.93);
@@ -500,12 +626,86 @@ html, body {
   <p class="splash-sub">Droit · Formation · Madagascar</p>
 </div>
 
+<!-- AUTH : INSCRIPTION -->
+<div class="screen" id="screen-register">
+  <div class="auth-wrap">
+    <div class="auth-logo">LexMada</div>
+    <div class="auth-tagline">Droit · Formation · Madagascar</div>
+    <div class="auth-card">
+      <div class="auth-card-title">Créer un compte</div>
+      <div class="auth-card-sub">Votre progression sera sauvegardée et synchronisée.</div>
+      <div class="auth-error-global" id="reg-error"></div>
+      <div class="field-group">
+        <label class="field-label">Prénom et nom</label>
+        <input class="field-input" id="reg-name" type="text" placeholder="Jean Rakoto" autocomplete="name">
+        <div class="field-error" id="reg-name-err">Veuillez entrer votre nom.</div>
+      </div>
+      <div class="field-group">
+        <label class="field-label">Adresse e-mail</label>
+        <input class="field-input" id="reg-email" type="email" placeholder="vous@exemple.com" autocomplete="email">
+        <div class="field-error" id="reg-email-err">Adresse e-mail invalide.</div>
+      </div>
+      <div class="field-group">
+        <label class="field-label">Mot de passe</label>
+        <input class="field-input" id="reg-password" type="password" placeholder="Au moins 8 caractères" autocomplete="new-password">
+        <div class="field-error" id="reg-pass-err">Au moins 8 caractères requis.</div>
+      </div>
+      <button class="btn-auth" id="btn-register" onclick="handleRegister()">Créer mon compte</button>
+      <div class="auth-notice" id="reg-success">
+        ✉️ Un e-mail de confirmation a été envoyé. Vérifiez votre boîte de réception pour activer votre compte.
+      </div>
+      <div class="auth-terms">En créant un compte, vous acceptez nos conditions d'utilisation.</div>
+      <div class="auth-divider">ou</div>
+      <button class="btn-auth-ghost" onclick="showScreen('screen-login')">Se connecter</button>
+    </div>
+  </div>
+</div>
+
+<!-- AUTH : CONNEXION -->
+<div class="screen" id="screen-login">
+  <div class="auth-wrap">
+    <div class="auth-logo">LexMada</div>
+    <div class="auth-tagline">Droit · Formation · Madagascar</div>
+    <div class="auth-card">
+      <div class="auth-card-title">Connexion</div>
+      <div class="auth-card-sub">Reprenez là où vous en étiez.</div>
+      <div class="auth-error-global" id="login-error"></div>
+      <div class="field-group">
+        <label class="field-label">Adresse e-mail</label>
+        <input class="field-input" id="login-email" type="email" placeholder="vous@exemple.com" autocomplete="email">
+      </div>
+      <div class="field-group">
+        <label class="field-label">Mot de passe</label>
+        <input class="field-input" id="login-password" type="password" placeholder="••••••••" autocomplete="current-password">
+      </div>
+      <button class="btn-auth" onclick="handleLogin()">Se connecter</button>
+      <div class="auth-divider">ou</div>
+      <button class="btn-auth-ghost" onclick="showScreen('screen-register')">Créer un compte</button>
+    </div>
+  </div>
+</div>
+
 <!-- HOME -->
 <div class="screen" id="screen-home">
+  <!-- bandeau dev : à retirer quand le déblocage sera réactivé -->
+  <div class="dev-banner">⚙️ MODE ÉDITION — Toutes les leçons sont accessibles</div>
   <div class="app-header">
     <div class="app-logo">LexMada</div>
     <div class="app-tagline">Votre parcours juridique</div>
   </div>
+
+  <!-- pill utilisateur -->
+  <div class="user-pill" id="user-pill" onclick="toggleDropdown()">
+    <div class="user-pill-avatar" id="user-avatar">?</div>
+    <div class="user-pill-name"   id="user-name-display">Mon compte</div>
+    <div class="user-pill-arrow">▾</div>
+    <div class="user-dropdown" id="user-dropdown">
+      <div class="dropdown-item" onclick="event.stopPropagation();showProfile()">👤 &nbsp;Mon profil</div>
+      <div class="dropdown-sep"></div>
+      <div class="dropdown-item danger" onclick="event.stopPropagation();handleLogout()">↩ &nbsp;Se déconnecter</div>
+    </div>
+  </div>
+
   <div class="divider"></div>
   <p class="section-label">Choisissez votre niveau</p>
   <div class="levels" id="levels-container"></div>
@@ -567,7 +767,7 @@ html, body {
   </div>
   <div class="quiz-body">
     <div class="quiz-question" id="quiz-question"></div>
-    <div class="quiz-choices" id="quiz-choices"></div>
+    <div class="quiz-choices"  id="quiz-choices"></div>
     <div id="quiz-hint-area"></div>
     <div id="quiz-feedback-area"></div>
   </div>
@@ -576,12 +776,12 @@ html, body {
   </div>
 </div>
 
-<!-- RAPPEL DE COURS (à 0 cœur) -->
+<!-- RAPPEL DE COURS -->
 <div id="review-modal">
   <div class="lc-card">
     <div class="lc-icon">📖</div>
     <div class="lc-title">Petite pause révision</div>
-    <div class="lc-desc">Vous avez fait plusieurs erreurs d'affilée. Voici un rappel du cours qui peut vous aider avant de continuer.</div>
+    <div class="lc-desc">Vous avez fait plusieurs erreurs d'affilée. Voici un rappel du cours avant de continuer.</div>
     <div class="review-box" id="review-box"></div>
     <button class="btn-primary" onclick="closeReview()">J'ai relu, je continue →</button>
   </div>
@@ -592,7 +792,7 @@ html, body {
   <div class="lc-card">
     <div class="lc-icon">📘</div>
     <div class="lc-title" id="lc-title">Leçon terminée !</div>
-    <div class="lc-desc" id="lc-desc">Vous avez terminé les quiz et exercices de cette leçon.</div>
+    <div class="lc-desc"  id="lc-desc">Vous avez terminé les quiz et exercices de cette leçon.</div>
     <button class="btn-primary" onclick="closeLeconComplete()" id="lc-btn">Continuer →</button>
   </div>
 </div>
@@ -600,7 +800,7 @@ html, body {
 <!-- BADGE -->
 <div id="badge-modal">
   <div class="badge-card">
-    <div class="badge-glow" id="badge-icon">🏅</div>
+    <div class="badge-glow"  id="badge-icon">🏅</div>
     <div class="badge-title" id="badge-title">Badge</div>
     <div class="badge-level" id="badge-level">Complété</div>
     <div class="badge-desc"  id="badge-desc"></div>
@@ -610,15 +810,190 @@ html, body {
 <div class="particles" id="particles"></div>
 
 <script>
+/* ═══════════════════════════════════════════════════════════════
+   AUTH LAYER — standalone localStorage
+   À remplacer par Supabase : les 4 fonctions marquées SUPABASE
+   ═══════════════════════════════════════════════════════════════ */
+
+const AUTH_KEY  = 'lexmada_users';
+const SESS_KEY  = 'lexmada_session';
+
+/* Lit la "base" locale */
+function getUsers() {
+  try { return JSON.parse(localStorage.getItem(AUTH_KEY) || '{}'); } catch { return {}; }
+}
+function saveUsers(u) { localStorage.setItem(AUTH_KEY, JSON.stringify(u)); }
+
+/* Lit / écrit la session active */
+function getSession() {
+  try { return JSON.parse(localStorage.getItem(SESS_KEY)); } catch { return null; }
+}
+function saveSession(user) { localStorage.setItem(SESS_KEY, JSON.stringify(user)); }
+function clearSession()    { localStorage.removeItem(SESS_KEY); }
+
+/* ── SUPABASE (inscription) ──────────────────────────────────────
+   À terme : supabase.auth.signUp({ email, password })
+             puis supabase.from('profiles').insert({ id, name })
+   ────────────────────────────────────────────────────────────── */
+function authRegister(name, email, password) {
+  const users = getUsers();
+  const key = email.toLowerCase().trim();
+  if (users[key]) return { error: 'Un compte existe déjà avec cet e-mail.' };
+  const id = 'u_' + Date.now();
+  const user = { id, name: name.trim(), email: key, password, confirmed: false, progress: {}, lastLecon: null };
+  users[key] = user;
+  saveUsers(users);
+  // Simulation envoi email de confirmation
+  console.info('[LexMada] E-mail de confirmation simulé → ' + key);
+  // En prod Supabase : l'email est envoyé automatiquement par supabase.auth.signUp()
+  return { user };
+}
+
+/* ── SUPABASE (connexion) ────────────────────────────────────────
+   À terme : supabase.auth.signInWithPassword({ email, password })
+   ────────────────────────────────────────────────────────────── */
+function authLogin(email, password) {
+  const users = getUsers();
+  const key = email.toLowerCase().trim();
+  const user = users[key];
+  if (!user) return { error: 'Aucun compte trouvé avec cet e-mail.' };
+  if (user.password !== password) return { error: 'Mot de passe incorrect.' };
+  saveSession(user);
+  return { user };
+}
+
+/* ── SUPABASE (déconnexion) ──────────────────────────────────────
+   À terme : supabase.auth.signOut()
+   ────────────────────────────────────────────────────────────── */
+function authLogout() { clearSession(); }
+
+/* ── SUPABASE (sauvegarde progression) ──────────────────────────
+   À terme : supabase.from('profiles').update({ progress, lastLecon }).eq('id', user.id)
+   ────────────────────────────────────────────────────────────── */
+function saveProgress() {
+  const sess = getSession();
+  if (!sess) return;
+  const users = getUsers();
+  const key = sess.email;
+  if (!users[key]) return;
+  users[key].progress  = Object.fromEntries([...done].map(k => [k, true]));
+  users[key].lastLecon = { fi: curNiveau, mi: curModule, li: curLecon };
+  saveUsers(users);
+  saveSession(users[key]);
+}
+
+/* ── SUPABASE (chargement progression) ──────────────────────────
+   À terme : supabase.from('profiles').select('progress, lastLecon').eq('id', user.id)
+   ────────────────────────────────────────────────────────────── */
+function loadProgress(user) {
+  if (!user || !user.progress) return;
+  Object.keys(user.progress).forEach(k => done.add(k));
+  if (user.lastLecon) {
+    const { fi, mi, li } = user.lastLecon;
+    curNiveau = fi; curModule = mi; curLecon = li;
+  }
+}
+
+/* ─────── Handlers UI ─────── */
+function handleRegister() {
+  clearAuthErrors();
+  const name  = document.getElementById('reg-name').value.trim();
+  const email = document.getElementById('reg-email').value.trim();
+  const pass  = document.getElementById('reg-password').value;
+  let valid = true;
+
+  if (!name)  { showFieldErr('reg-name-err', 'reg-name'); valid = false; }
+  if (!isValidEmail(email)) { showFieldErr('reg-email-err', 'reg-email'); valid = false; }
+  if (pass.length < 8) { showFieldErr('reg-pass-err', 'reg-password'); valid = false; }
+  if (!valid) return;
+
+  const btn = document.getElementById('btn-register');
+  btn.disabled = true; btn.textContent = 'Création…';
+
+  setTimeout(() => { // simule latence réseau
+    const result = authRegister(name, email, pass);
+    btn.disabled = false; btn.textContent = 'Créer mon compte';
+    if (result.error) {
+      showGlobalErr('reg-error', result.error); return;
+    }
+    document.getElementById('reg-success').classList.add('show');
+    // auto-login après "confirmation" (standalone : pas de vrai email)
+    setTimeout(() => {
+      const r = authLogin(email, pass);
+      if (r.user) { loadProgress(r.user); launchHome(); }
+    }, 2000);
+  }, 600);
+}
+
+function handleLogin() {
+  clearAuthErrors();
+  const email = document.getElementById('login-email').value.trim();
+  const pass  = document.getElementById('login-password').value;
+  if (!email || !pass) { showGlobalErr('login-error', 'Remplissez tous les champs.'); return; }
+
+  const result = authLogin(email, pass);
+  if (result.error) { showGlobalErr('login-error', result.error); return; }
+  loadProgress(result.user);
+  launchHome();
+}
+
+function handleLogout() {
+  closeDropdown();
+  authLogout();
+  done.clear();
+  curNiveau = 0; curModule = 0; curLecon = 0;
+  showScreen('screen-login');
+}
+
+function showProfile() {
+  closeDropdown();
+  const sess = getSession();
+  if (!sess) return;
+  alert('👤 ' + sess.name + '\n✉️ ' + sess.email + '\n\n✅ ' + done.size + ' leçon(s) terminée(s)');
+}
+
+/* ─────── Helpers UI auth ─────── */
+function isValidEmail(e) { return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e); }
+
+function showFieldErr(errId, inputId) {
+  document.getElementById(errId).classList.add('show');
+  document.getElementById(inputId).classList.add('error');
+}
+function showGlobalErr(id, msg) {
+  const el = document.getElementById(id);
+  el.textContent = msg; el.classList.add('show');
+}
+function clearAuthErrors() {
+  document.querySelectorAll('.field-error').forEach(e => e.classList.remove('show'));
+  document.querySelectorAll('.field-input').forEach(e => e.classList.remove('error'));
+  document.querySelectorAll('.auth-error-global').forEach(e => e.classList.remove('show'));
+}
+
+function toggleDropdown() {
+  document.getElementById('user-dropdown').classList.toggle('open');
+}
+function closeDropdown() {
+  document.getElementById('user-dropdown').classList.remove('open');
+}
+document.addEventListener('click', e => {
+  if (!document.getElementById('user-pill').contains(e.target)) closeDropdown();
+});
+
+/* ─────── Initialisation au démarrage ─────── */
+function launchHome() {
+  const sess = getSession();
+  if (sess) {
+    const initials = sess.name.split(' ').map(w => w[0]).join('').toUpperCase().slice(0,2);
+    document.getElementById('user-avatar').textContent       = initials;
+    document.getElementById('user-name-display').textContent = sess.name.split(' ')[0];
+  }
+  buildHome();
+  showScreen('screen-home');
+}
+
 /* ═══════════════════════════════════════════
    DATA
    ═══════════════════════════════════════════ */
-/*
-  Chaque leçon référence un fichier JSON externe (dans data/) qui contient :
-  { titre, module, niveau, contenu:[...], quiz:[...50...], exercices:[...2 cas pratiques...] }
-  Le champ "fichier" est le chemin vers ce JSON. Le contenu est chargé à la demande
-  (la première fois qu'on ouvre la leçon) et mis en cache dans "data".
-*/
 const formations = [
   {
     niveau: "Débutant", icon: "📖", accent: "accent-gold",
@@ -646,32 +1021,24 @@ const formations = [
     niveau: "Intermédiaire", icon: "⚖️", accent: "accent-green",
     desc: "Droit des affaires, procédures, contrats avancés.",
     badge: { icon:"⚖️", title:"Badge Juriste en Herbe", desc:"Vous naviguez désormais dans des notions complexes. Ce badge témoigne de votre persévérance." },
-    modules: [
-      { id:1, titre:"Droit des sociétés", lecons: [] }
-    ]
+    modules: [ { id:1, titre:"Droit des sociétés", lecons: [] } ]
   },
   {
     niveau: "Avancé", icon: "🏛️", accent: "accent-orange",
     desc: "Jurisprudence, droit constitutionnel, contentieux.",
     badge: { icon:"🏛️", title:"Badge Expert LexMada", desc:"Félicitations. Vous avez atteint le sommet du parcours LexMada. Un accomplissement remarquable." },
-    modules: [
-      { id:1, titre:"Contentieux complexes", lecons: [] }
-    ]
+    modules: [ { id:1, titre:"Contentieux complexes", lecons: [] } ]
   },
   {
     niveau: "Professionnel", icon: "🎓", accent: "accent-red",
     desc: "Pratique professionnelle, rédaction d'actes, déontologie.",
     badge: { icon:"🎓", title:"Badge Maître LexMada", desc:"Vous avez atteint le niveau professionnel. Votre maîtrise du droit est désormais digne des plus grands praticiens." },
-    modules: [
-      { id:1, titre:"Pratique professionnelle", lecons: [] }
-    ]
+    modules: [ { id:1, titre:"Pratique professionnelle", lecons: [] } ]
   }
 ];
 
-/* Cache du contenu chargé depuis data/*.json : clé = chemin du fichier */
 const leconDataCache = {};
 
-/* Charge (si besoin) le contenu JSON d'une leçon et exécute le callback avec ce contenu */
 async function loadLeconData(lecon, callback) {
   if (!lecon.fichier) { callback(null); return; }
   if (leconDataCache[lecon.fichier]) { callback(leconDataCache[lecon.fichier]); return; }
@@ -690,20 +1057,10 @@ async function loadLeconData(lecon, callback) {
 /* ═══════════════════════════════════════════
    STATE
    ═══════════════════════════════════════════ */
-const done = new Set();          // leçons terminées : "fi-mid-li"
-const leconUnlocked = new Set(); // leçons débloquées (lecture possible) : "fi-mid-li"
-leconUnlocked.add("0-1-0");      // première leçon toujours débloquée
-
+const done = new Set();
 let curNiveau = 0, curModule = 0, curLecon = 0;
 
-// état session quiz/exercice
-let quizState = {
-  type: null,        // 'quiz' | 'exercices'
-  questions: [],
-  index: 0,
-  wrongCount: 0,
-  answered: false
-};
+let quizState = { type: null, questions: [], index: 0, wrongCount: 0, answered: false };
 
 /* ═══════════════════════════════════════════
    NAVIGATION
@@ -730,8 +1087,14 @@ setTimeout(() => {
   document.getElementById('splash').classList.add('exit');
   setTimeout(() => {
     document.getElementById('splash').style.display = 'none';
-    buildHome();
-    showScreen('screen-home');
+    /* ── Vérifie si une session existe déjà ── */
+    const sess = getSession();
+    if (sess) {
+      loadProgress(sess);
+      launchHome();
+    } else {
+      showScreen('screen-login');
+    }
   }, 650);
 }, 2800);
 
@@ -739,25 +1102,35 @@ setTimeout(() => {
    HELPERS
    ═══════════════════════════════════════════ */
 function leconKey(fi, mid, li) { return fi+'-'+mid+'-'+li; }
-
-function moduleLeconCount(m) { return m.lecons.length; }
-
 function isLeconDone(fi, mid, li) { return done.has(leconKey(fi,mid,li)); }
-function isLeconUnlocked(fi, mid, li) { return leconUnlocked.has(leconKey(fi,mid,li)); }
+
+/*
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  DÉBLOCAGE DES LEÇONS — TEMPORAIREMENT DÉSACTIVÉ            ║
+  ║  Toutes les leçons avec du contenu sont accessibles         ║
+  ║  Pour réactiver : remplacer isLeconUnlocked() par la        ║
+  ║  version originale basée sur leconUnlocked (Set).           ║
+  ╚══════════════════════════════════════════════════════════════╝
+*/
+function isLeconUnlocked(fi, mid, li) {
+  // MODE ÉDITION : toujours true si la leçon a du contenu
+  return true;
+}
 
 function unlockNextLecon(fi, mi, li) {
+  // Garde la logique intacte pour quand on réactivera le système
   const f = formations[fi];
   const m = f.modules[mi];
   if (li + 1 < m.lecons.length) {
-    leconUnlocked.add(leconKey(fi, m.id, li+1));
+    console.log('[unlock] Prochaine leçon débloquée :', leconKey(fi, m.id, li+1));
   } else if (mi + 1 < f.modules.length) {
     const nextMod = f.modules[mi+1];
-    if (nextMod.lecons.length > 0) leconUnlocked.add(leconKey(fi, nextMod.id, 0));
+    if (nextMod.lecons.length > 0)
+      console.log('[unlock] Premier module suivant débloqué :', leconKey(fi, nextMod.id, 0));
   } else if (fi + 1 < formations.length) {
     const nextF = formations[fi+1];
-    if (nextF.modules.length && nextF.modules[0].lecons.length) {
-      leconUnlocked.add(leconKey(fi+1, nextF.modules[0].id, 0));
-    }
+    if (nextF.modules.length && nextF.modules[0].lecons.length)
+      console.log('[unlock] Premier niveau suivant débloqué :', leconKey(fi+1, nextF.modules[0].id, 0));
   }
 }
 
@@ -768,17 +1141,16 @@ function buildHome() {
   const container = document.getElementById('levels-container');
   container.innerHTML = '';
   formations.forEach((f, fi) => {
-    const unlocked = fi === 0 || formations[fi-1].modules.every(m =>
-      m.lecons.length > 0 && m.lecons.every((_,li) => isLeconDone(fi-1, m.id, li))
-    );
+    // En mode édition : tous les niveaux sont débloqués
+    const unlocked = true;
     const totalL = f.modules.reduce((s,m) => s + m.lecons.length, 0);
     const doneL  = f.modules.reduce((s,m) =>
       s + m.lecons.filter((_,li) => isLeconDone(fi, m.id, li)).length, 0);
     const pct = totalL ? Math.round(doneL/totalL*100) : 0;
 
     const card = document.createElement('div');
-    card.className = 'level-card ' + f.accent + (unlocked ? ' unlocked' : ' locked');
-    if (unlocked) card.onclick = () => openNiveau(fi);
+    card.className = 'level-card ' + f.accent + ' unlocked';
+    card.onclick = () => openNiveau(fi);
 
     const rows = f.modules.map((m,mi) => {
       const allDone = m.lecons.length > 0 && m.lecons.every((_,li) => isLeconDone(fi, m.id, li));
@@ -794,21 +1166,18 @@ function buildHome() {
           '<div class="level-title">'+f.niveau+'</div>'+
           '<div class="level-desc">'+f.desc+'</div>'+
         '</div>'+
-        (!unlocked ? '<div class="lock-badge">🔒</div>' : '')+
       '</div>'+
       '<div class="card-progress">'+
         '<div class="progress-meta">'+
-          '<span>'+(unlocked?'Progression':'Débloqué après '+formations[fi-1].niveau)+'</span>'+
+          '<span>Progression</span>'+
           '<span>'+doneL+' / '+totalL+' leçons</span>'+
         '</div>'+
         '<div class="progress-track"><div class="progress-fill" style="width:'+pct+'%"></div></div>'+
       '</div>'+
-      (unlocked ?
-        '<div class="card-modules">'+rows+'</div>'+
-        '<div class="card-cta"><button class="btn-enter" onclick="event.stopPropagation();openNiveau('+fi+')">'+
-          (doneL===0?'Commencer →':pct===100?'Revoir →':'Continuer →')+
-        '</button></div>'
-      : '');
+      '<div class="card-modules">'+rows+'</div>'+
+      '<div class="card-cta"><button class="btn-enter" onclick="event.stopPropagation();openNiveau('+fi+')">'+
+        (doneL===0?'Commencer →':pct===100?'Revoir →':'Continuer →')+
+      '</button></div>';
 
     container.appendChild(card);
   });
@@ -855,8 +1224,8 @@ function openModule(fi, mi) {
   const c = document.getElementById('lecon-list-container');
   c.innerHTML = '';
   m.lecons.forEach((l, li) => {
-    const isDone = isLeconDone(fi, m.id, li);
-    const unlocked = isLeconUnlocked(fi, m.id, li);
+    const isDone     = isLeconDone(fi, m.id, li);
+    const unlocked   = isLeconUnlocked(fi, m.id, li);
     const row = document.createElement('div');
     row.className = 'lecon-row' + (unlocked ? '' : ' locked');
     if (unlocked) row.onclick = () => openReader(fi, mi, li);
@@ -889,10 +1258,10 @@ function openReader(fi, mi, li) {
   document.getElementById('btn-start-quiz').style.display = 'none';
 
   showScreen('screen-reader');
+  saveProgress(); // sauvegarde la dernière leçon visitée
 
   loadLeconData(l, (data) => {
     c.innerHTML = '';
-
     if (!data || data.error) {
       c.innerHTML = '<div class="reader-loading">Impossible de charger cette leçon. Vérifiez votre connexion puis réessayez.</div>';
       return;
@@ -911,17 +1280,14 @@ function openReader(fi, mi, li) {
     (data.contenu || []).forEach(sec => {
       const wrap = document.createElement('div');
       wrap.className = 'reader-section';
-
       const st = document.createElement('div');
       st.className = 'reader-section-title';
       st.textContent = sec.titre;
       wrap.appendChild(st);
-
       const txt = document.createElement('div');
       txt.className = 'reader-section-text';
       txt.textContent = sec.texte;
       wrap.appendChild(txt);
-
       if (sec.definition) {
         const box = document.createElement('div');
         box.className = 'reader-box';
@@ -936,11 +1302,9 @@ function openReader(fi, mi, li) {
         box.querySelector('.reader-box-text').textContent = sec.exemple;
         wrap.appendChild(box);
       }
-
       c.appendChild(wrap);
     });
 
-    // bouton : si déjà fait, afficher "Revoir le quiz" sinon "Commencer le quiz"
     const isDone = isLeconDone(fi, m.id, li);
     const btn = document.getElementById('btn-start-quiz');
     btn.style.display = 'block';
@@ -949,7 +1313,7 @@ function openReader(fi, mi, li) {
 }
 
 /* ═══════════════════════════════════════════
-   QUIZ / EXERCICE ENGINE
+   QUIZ ENGINE
    ═══════════════════════════════════════════ */
 function startQuiz() {
   const l = formations[curNiveau].modules[curModule].lecons[curLecon];
@@ -966,7 +1330,7 @@ function startExercices() {
   loadLeconData(l, (data) => {
     if (!data || data.error || !data.exercices) return;
     const hearts = (quizState && quizState.hearts !== undefined) ? quizState.hearts : 3;
-    quizState = { type: 'exercices', questions: data.exercices, index: 0, wrongCount: 0, answered: false, hearts: hearts, lecon: data };
+    quizState = { type: 'exercices', questions: data.exercices, index: 0, wrongCount: 0, answered: false, hearts, lecon: data };
     renderQuestion();
     showScreen('screen-quiz');
   });
@@ -975,9 +1339,7 @@ function startExercices() {
 function renderHearts() {
   const el = document.getElementById('quiz-hearts');
   let html = '';
-  for (let i=0;i<3;i++) {
-    html += '<span class="'+(i < quizState.hearts ? '' : 'heart-lost')+'">❤️</span>';
-  }
+  for (let i=0;i<3;i++) html += '<span class="'+(i < quizState.hearts ? '' : 'heart-lost')+'">❤️</span>';
   el.innerHTML = html;
 }
 
@@ -990,30 +1352,26 @@ function shuffleArray(arr) {
   return a;
 }
 
+const letters_global = ['A','B','C','D','E','F'];
+
 function renderQuestion() {
   const q = quizState.questions[quizState.index];
   const total = quizState.questions.length;
-
-  document.getElementById('quiz-type-label').textContent =
-    quizState.type === 'quiz' ? 'Quiz' : 'Exercices';
+  document.getElementById('quiz-type-label').textContent = quizState.type === 'quiz' ? 'Quiz' : 'Exercices';
   document.getElementById('quiz-progress-text').textContent = (quizState.index+1)+' / '+total;
   document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index)/total)*100)+'%';
   renderHearts();
-
   document.getElementById('quiz-question').textContent = q.question;
 
-  // Mélange l'ordre d'affichage des choix à chaque question, pour éviter
-  // que les utilisateurs ne mémorisent une position plutôt que le contenu.
   const order = shuffleArray(q.choix.map((_, i) => i));
   quizState.currentOrder = order;
 
   const choicesEl = document.getElementById('quiz-choices');
   choicesEl.innerHTML = '';
-  const letters = ['A','B','C','D','E','F'];
   order.forEach((origIndex, displayIndex) => {
     const div = document.createElement('div');
     div.className = 'quiz-choice';
-    div.innerHTML = '<div class="choice-letter">'+letters[displayIndex]+'</div><div>'+q.choix[origIndex]+'</div>';
+    div.innerHTML = '<div class="choice-letter">'+letters_global[displayIndex]+'</div><div>'+q.choix[origIndex]+'</div>';
     div.onclick = () => selectAnswer(displayIndex);
     choicesEl.appendChild(div);
   });
@@ -1030,48 +1388,33 @@ function selectAnswer(ci) {
   const q = quizState.questions[quizState.index];
   const choicesEl = document.getElementById('quiz-choices');
   const choiceDivs = choicesEl.querySelectorAll('.quiz-choice');
-
-  // ci = position affichée ; on la traduit vers l'index réel du choix dans q.choix
   const order = quizState.currentOrder;
   const realIndex = order[ci];
-  // position affichée de la bonne réponse (pour la mettre en évidence)
   const correctDisplayIndex = order.indexOf(q.reponse);
 
   if (realIndex === q.reponse) {
-    // bonne réponse
     quizState.answered = true;
     choiceDivs.forEach(d => d.classList.add('disabled'));
     choiceDivs[ci].classList.add('correct');
-
     const fb = document.createElement('div');
     fb.className = 'feedback-panel success';
     fb.innerHTML = '<div class="feedback-title">Bonne réponse !</div><div class="feedback-text"></div>';
     fb.querySelector('.feedback-text').textContent = q.explication;
     document.getElementById('quiz-feedback-area').appendChild(fb);
-
     const total = quizState.questions.length;
     document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index+1)/total)*100)+'%';
-
     const nextBtn = document.getElementById('btn-quiz-next');
     nextBtn.style.display = 'block';
     nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
   } else {
-    // mauvaise réponse
     choiceDivs[ci].classList.add('wrong');
     choiceDivs[ci].classList.add('disabled');
-    setTimeout(() => { choiceDivs[ci].classList.remove('wrong'); choiceDivs[ci].style.opacity = '0.4'; }, 600);
-
+    setTimeout(() => { choiceDivs[ci].classList.remove('wrong'); choiceDivs[ci].style.opacity='0.4'; }, 600);
     quizState.wrongCount++;
-
-    // on perd un cœur à chaque erreur (jusqu'à 0)
-    if (quizState.hearts > 0) {
-      quizState.hearts--;
-      renderHearts();
-    }
+    if (quizState.hearts > 0) { quizState.hearts--; renderHearts(); }
 
     const hintArea = document.getElementById('quiz-hint-area');
-
-    if (quizState.wrongCount <= 3 && q.indices[quizState.wrongCount-1]) {
+    if (quizState.wrongCount <= 3 && q.indices && q.indices[quizState.wrongCount-1]) {
       const hint = document.createElement('div');
       hint.className = 'hint-box';
       hint.innerHTML = '<div class="hint-box-label">Indice '+quizState.wrongCount+'</div><div></div>';
@@ -1080,62 +1423,45 @@ function selectAnswer(ci) {
     }
 
     if (quizState.wrongCount >= 3) {
-      // révèle la réponse après 3 erreurs (+ indices déjà donnés)
       quizState.answered = true;
       choiceDivs.forEach(d => d.classList.add('disabled'));
       choiceDivs[correctDisplayIndex].classList.add('correct');
-
       const fb = document.createElement('div');
       fb.className = 'feedback-panel reveal';
       fb.innerHTML = '<div class="feedback-title">La réponse était : '+letters_global[correctDisplayIndex]+'</div><div class="feedback-text"></div>';
       fb.querySelector('.feedback-text').textContent = q.explication;
       document.getElementById('quiz-feedback-area').appendChild(fb);
-
       const total = quizState.questions.length;
       document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index+1)/total)*100)+'%';
-
       const nextBtn = document.getElementById('btn-quiz-next');
       nextBtn.style.display = 'block';
       nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
     }
-
-    // à 0 cœur : on propose une pause révision avant de pouvoir continuer
-    if (quizState.hearts <= 0) {
-      showReview();
-    }
+    if (quizState.hearts <= 0) showReview();
   }
 }
-const letters_global = ['A','B','C','D','E','F'];
 
 /* ═══════════════════════════════════════════
-   PAUSE RÉVISION (à 0 cœur)
+   PAUSE RÉVISION
    ═══════════════════════════════════════════ */
 function showReview() {
   const lecon = quizState.lecon;
   const box = document.getElementById('review-box');
   box.innerHTML = '';
-
   const sections = (lecon && lecon.contenu) ? lecon.contenu : [];
   if (sections.length > 0) {
-    // section aléatoire du cours pour réviser
     const sec = sections[Math.floor(Math.random() * sections.length)];
-    box.innerHTML =
-      '<div class="review-box-title"></div><div class="review-box-text"></div>';
+    box.innerHTML = '<div class="review-box-title"></div><div class="review-box-text"></div>';
     box.querySelector('.review-box-title').textContent = sec.titre;
     box.querySelector('.review-box-text').textContent = sec.texte;
   } else {
     box.innerHTML = '<div class="review-box-text">Reprenez votre souffle, puis continuez tranquillement.</div>';
   }
-
-  // empêche de répondre tant que la révision n'est pas fermée
   document.getElementById('review-modal').classList.add('show');
 }
-
 function closeReview() {
   document.getElementById('review-modal').classList.remove('show');
-  // les cœurs se rechargent après la pause révision
-  quizState.hearts = 3;
-  renderHearts();
+  quizState.hearts = 3; renderHearts();
 }
 
 function nextQuestion() {
@@ -1144,12 +1470,8 @@ function nextQuestion() {
     quizState.index++;
     renderQuestion();
   } else {
-    // fin de la série
-    if (quizState.type === 'quiz') {
-      startExercices();
-    } else {
-      finishLecon();
-    }
+    if (quizState.type === 'quiz') startExercices();
+    else finishLecon();
   }
 }
 
@@ -1162,30 +1484,24 @@ function finishLecon() {
   const m = f.modules[mi];
   done.add(leconKey(fi, m.id, li));
   unlockNextLecon(fi, mi, li);
+  saveProgress(); // ← sauvegarde après chaque leçon terminée
 
-  const isLastLeconOfModule = (li === m.lecons.length - 1);
-  const isLastModuleOfNiveau = (mi === f.modules.length - 1);
-  const moduleFullyDone = m.lecons.every((_,idx) => isLeconDone(fi, m.id, idx));
-  const niveauFullyDone = f.modules.every(mm => mm.lecons.length>0 && mm.lecons.every((_,idx)=>isLeconDone(fi, mm.id, idx)));
+  const niveauFullyDone = f.modules.every(mm =>
+    mm.lecons.length > 0 && mm.lecons.every((_,idx) => isLeconDone(fi, mm.id, idx)));
 
   document.getElementById('lc-title').textContent = 'Leçon terminée !';
   document.getElementById('lc-desc').textContent =
-    'Vous avez réussi les 50 quiz et les 2 cas pratiques de « '+m.lecons[li].titre+' ».'+
-    (isLastLeconOfModule ? ' Module terminé !' : ' La leçon suivante est désormais débloquée.');
+    'Vous avez réussi les 50 quiz et les 2 cas pratiques de « '+m.lecons[li].titre+' ».' +
+    (li < m.lecons.length - 1 ? ' La leçon suivante est désormais débloquée.' : ' Module terminé !');
   document.getElementById('lc-btn').textContent = niveauFullyDone ? 'Voir mon badge →' : 'Continuer →';
-
   document.getElementById('lecon-complete-modal').classList.add('show');
+
   window._afterLeconComplete = () => {
-    if (niveauFullyDone) {
-      showBadge(fi);
-    } else {
-      goBack('screen-lecons');
-      openModule(fi, mi);
-    }
+    if (niveauFullyDone) showBadge(fi);
+    else { goBack('screen-lecons'); openModule(fi, mi); }
     buildHome();
   };
 }
-
 function closeLeconComplete() {
   document.getElementById('lecon-complete-modal').classList.remove('show');
   if (window._afterLeconComplete) { window._afterLeconComplete(); window._afterLeconComplete = null; }
