@@ -870,24 +870,29 @@ function authLogout() { clearSession(); }
 /* ── SUPABASE (sauvegarde progression) ──────────────────────────
    À terme : supabase.from('profiles').update({ progress, lastLecon }).eq('id', user.id)
    ────────────────────────────────────────────────────────────── */
-function saveProgress() {
-  const sess = getSession();
-  if (!sess) return;
-  const users = getUsers();
-  const key = sess.email;
-  if (!users[key]) return;
-  users[key].progress  = Object.fromEntries([...done].map(k => [k, true]));
-  users[key].lastLecon = { fi: curNiveau, mi: curModule, li: curLecon };
-  saveUsers(users);
-  saveSession(users[key]);
+function saveProgress(quizPos) {
+  // quizPos optionnel { type, index } pour reprendre en plein milieu du quiz
+  try {
+    const sess = getSession();
+    if (!sess || !sess.email) return;
+    const users = getUsers();
+    const key = sess.email;
+    if (!users[key]) return;
+    users[key].progress  = Object.fromEntries([...done].map(k => [k, true]));
+    users[key].lastLecon = { fi: curNiveau, mi: curModule, li: curLecon };
+    if (quizPos) users[key].quizPos = quizPos;
+    else delete users[key].quizPos;
+    saveUsers(users);
+    saveSession(users[key]);
+  } catch(e) { console.warn('[saveProgress]', e); }
 }
 
 /* ── SUPABASE (chargement progression) ──────────────────────────
    À terme : supabase.from('profiles').select('progress, lastLecon').eq('id', user.id)
    ────────────────────────────────────────────────────────────── */
 function loadProgress(user) {
-  if (!user || !user.progress) return;
-  Object.keys(user.progress).forEach(k => done.add(k));
+  if (!user) return;
+  if (user.progress) Object.keys(user.progress).forEach(k => done.add(k));
   if (user.lastLecon) {
     const { fi, mi, li } = user.lastLecon;
     curNiveau = fi; curModule = mi; curLecon = li;
@@ -1006,9 +1011,24 @@ const formations = [
           { titre: "Le droit objectif et les droits subjectifs", fichier: "data/niveau1-module1-lecon1.json" }
         ]
       },
-      { id:2, titre:"Les caractères de la règle de droit", lecons: [] },
-      { id:3, titre:"Les branches du droit", lecons: [] },
-      { id:4, titre:"Les sources directes du droit", lecons: [] },
+      {
+        id:2, titre:"Les caractères de la règle de droit",
+        lecons: [
+          { titre: "Les caractères de la règle de droit", fichier: "data/niveau1-module2-lecon1.json" }
+        ]
+      },
+      {
+        id:3, titre:"Les branches du droit",
+        lecons: [
+          { titre: "Les branches du droit", fichier: "data/niveau1-module3-lecon1.json" }
+        ]
+      },
+      {
+        id:4, titre:"Les sources directes du droit",
+        lecons: [
+          { titre: "Les sources directes du droit", fichier: "data/niveau1-module4-lecon1.json" }
+        ]
+      },
       { id:5, titre:"Les sources d'interprétation du droit", lecons: [] },
       { id:6, titre:"L'organisation juridictionnelle", lecons: [] },
       { id:7, titre:"Le domaine d'application de la règle de droit", lecons: [] },
@@ -1319,7 +1339,16 @@ function startQuiz() {
   const l = formations[curNiveau].modules[curModule].lecons[curLecon];
   loadLeconData(l, (data) => {
     if (!data || data.error || !data.quiz) return;
-    quizState = { type: 'quiz', questions: data.quiz, index: 0, wrongCount: 0, answered: false, hearts: 3, lecon: data };
+    // Reprendre à la dernière position sauvegardée si elle existe
+    const sess = getSession();
+    const saved = sess && sess.quizPos;
+    let startIndex = 0, startType = 'quiz';
+    if (saved && saved.fi === curNiveau && saved.mi === curModule && saved.li === curLecon) {
+      startIndex = saved.index || 0;
+      startType  = saved.type  || 'quiz';
+    }
+    const questions = startType === 'exercices' ? (data.exercices || []) : data.quiz;
+    quizState = { type: startType, questions, index: startIndex, wrongCount: 0, answered: false, hearts: 3, lecon: data, fullData: data };
     renderQuestion();
     showScreen('screen-quiz');
   });
@@ -1330,7 +1359,7 @@ function startExercices() {
   loadLeconData(l, (data) => {
     if (!data || data.error || !data.exercices) return;
     const hearts = (quizState && quizState.hearts !== undefined) ? quizState.hearts : 3;
-    quizState = { type: 'exercices', questions: data.exercices, index: 0, wrongCount: 0, answered: false, hearts, lecon: data };
+    quizState = { type: 'exercices', questions: data.exercices, index: 0, wrongCount: 0, answered: false, hearts, lecon: data, fullData: data };
     renderQuestion();
     showScreen('screen-quiz');
   });
@@ -1406,6 +1435,8 @@ function selectAnswer(ci) {
     const nextBtn = document.getElementById('btn-quiz-next');
     nextBtn.style.display = 'block';
     nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
+    // Sauvegarde position après chaque bonne réponse
+    saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index });
   } else {
     choiceDivs[ci].classList.add('wrong');
     choiceDivs[ci].classList.add('disabled');
@@ -1484,7 +1515,7 @@ function finishLecon() {
   const m = f.modules[mi];
   done.add(leconKey(fi, m.id, li));
   unlockNextLecon(fi, mi, li);
-  saveProgress(); // ← sauvegarde après chaque leçon terminée
+  saveProgress(); // efface quizPos + marque leçon done
 
   const niveauFullyDone = f.modules.every(mm =>
     mm.lecons.length > 0 && mm.lecons.every((_,idx) => isLeconDone(fi, mm.id, idx)));
