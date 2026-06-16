@@ -1,0 +1,887 @@
+{
+  "titre": "Les sources du droit : d'où viennent les règles juridiques ?",
+  "module": "Module 4 — Les sources directes du droit",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'une source du droit ?",
+      "texte": "Quand on parle de « sources du droit », on parle simplement de l'origine des règles juridiques. D'où viennent-elles ? Qui les crée ? Où les trouve-t-on ? La métaphore de la source est parlante : comme une source d'eau fait naître une rivière, les sources du droit font naître les règles qui s'appliquent dans la société. Mais attention — et c'est l'erreur la plus fréquente — le droit ne vient pas uniquement de la loi. Beaucoup de gens pensent que droit et loi sont synonymes. C'est faux. La loi est une source du droit parmi d'autres. Il y en a plusieurs, hiérarchisées entre elles. Comprendre les sources du droit, c'est comprendre qui crée les règles, dans quel ordre elles s'appliquent, et que faire quand elles se contredisent.",
+      "definition": "Source du droit : origine d'une règle juridique, c'est-à-dire le procédé par lequel cette règle est créée et devient obligatoire. Il existe plusieurs sources du droit, hiérarchisées entre elles."
+    },
+    {
+      "titre": "Une idée clé : toutes les sources ne sont pas égales",
+      "texte": "Les sources du droit ne sont pas toutes au même niveau. Elles sont organisées en pyramide — ce qu'on appelle la hiérarchie des normes. L'idée est simple : quand deux règles se contredisent, c'est celle qui se trouve le plus haut dans la pyramide qui l'emporte. Une loi qui contredit la Constitution est annulée. Un règlement qui contredit une loi est illégal. Cette hiérarchie est indispensable pour que le droit soit cohérent. Imaginez si une simple décision d'un maire pouvait contredire la Constitution : ce serait le chaos. La pyramide empêche ça. En partant du sommet jusqu'à la base, on trouve dans l'ordre : la Constitution, les traités internationaux, les lois, les règlements, et en dessous certaines sources non écrites comme la coutume.",
+      "definition": "Hiérarchie des normes : organisation des sources du droit par ordre d'importance. En cas de contradiction entre deux règles, la règle la plus haute dans la hiérarchie l'emporte sur la règle inférieure."
+    },
+    {
+      "titre": "Au sommet de la pyramide : la Constitution",
+      "texte": "La Constitution est la règle suprême. Aucune autre règle de droit ne peut lui être contraire. Elle organise l'État, ses institutions et garantit les droits fondamentaux des citoyens. À Madagascar, la Constitution fixe les pouvoirs du Président, du Gouvernement et du Parlement, et consacre les droits de chaque Malgache. Quand on parle de sources constitutionnelles, on ne vise pas seulement le texte de la Constitution lui-même. On inclut aussi les grands textes qui lui sont rattachés et qui ont la même valeur : les déclarations de droits fondamentaux, les préambules qui proclament des droits économiques et sociaux, et les chartes comme la Charte de l'Environnement. Tout cela forme ce qu'on appelle le « bloc de constitutionnalité » : l'ensemble des normes qui ont valeur constitutionnelle. Si une loi votée par le Parlement contredit l'une de ces normes, elle peut être déclarée inconstitutionnelle et ne peut pas être appliquée.",
+      "definition": "Constitution : texte fondamental au sommet de la hiérarchie des normes. Bloc de constitutionnalité : ensemble des textes ayant valeur constitutionnelle (Constitution, déclarations de droits, chartes fondamentales). Toutes les autres règles de droit doivent leur être conformes.",
+      "exemple": "Le Parlement malgache vote une loi qui supprime le droit à un procès équitable. La Haute Cour constitutionnelle peut être saisie. Si elle constate que cette loi contredit la Constitution, elle la déclare inconstitutionnelle : la loi est nulle et ne s'applique pas. La Constitution a gagné."
+    },
+    {
+      "titre": "Juste en dessous : les traités internationaux",
+      "texte": "Juste sous la Constitution dans la pyramide, on trouve les traités internationaux. Un traité, c'est un accord conclu entre plusieurs États qui crée des droits et des obligations. Une fois qu'un État a signé et ratifié un traité — c'est-à-dire qu'il l'a officiellement accepté — ce traité s'impose à lui. Il doit adapter son droit interne pour le respecter. Les traités sont supérieurs aux lois ordinaires : une loi ne peut pas contredire un traité ratifié. Parmi les traités les plus importants pour les droits des individus, on trouve la Convention internationale des droits de l'enfant, la Charte africaine des droits de l'Homme et des Peuples, et d'autres conventions auxquelles Madagascar est partie. Ces textes créent des droits que les citoyens peuvent invoquer directement. Il existe aussi, dans certains systèmes juridiques, le droit communautaire — les règles créées par des organisations régionales comme l'Union Européenne — qui s'insère dans la hiérarchie entre les traités et les lois.",
+      "definition": "Traité international : accord conclu entre États, qui crée des obligations juridiques pour les États signataires. Une fois ratifié, le traité s'impose au droit interne : les lois nationales ne peuvent pas le contredire.",
+      "exemple": "Madagascar ratifie une convention internationale qui interdit toute forme de torture. Le droit malgache doit être conforme à cette convention. Si une loi malgache autorisait des pratiques contraires à cette convention, elle serait illégale au regard de la hiérarchie des normes."
+    },
+    {
+      "titre": "Le cœur du système : la loi",
+      "texte": "La loi est la source du droit la plus connue du grand public. Dans le langage courant, on dit souvent « c'est la loi » pour signifier qu'une règle est obligatoire. Juridiquement, la loi au sens strict est un texte voté par le Parlement dans les domaines qui lui sont réservés par la Constitution. Mais au sens large, on peut parler de « loi » pour désigner tout texte émanant d'une autorité publique compétente. Il existe plusieurs types de lois selon leur objet et leur procédure d'adoption. Les lois constitutionnelles modifient la Constitution elle-même — elles nécessitent une procédure spéciale plus lourde que les lois ordinaires. Les lois organiques organisent le fonctionnement des institutions. Les lois ordinaires sont les textes du quotidien votés par le Parlement pour régler des questions de société. Et parfois, les lois sont adoptées directement par le peuple via un référendum. À Madagascar, les lois sont votées par l'Assemblée nationale et le Sénat, conformément à la Constitution.",
+      "definition": "Loi : texte de portée générale voté par le Parlement dans les domaines que la Constitution lui réserve. Elle est inférieure à la Constitution et aux traités, mais supérieure aux règlements.",
+      "exemple": "Le Parlement malgache vote une loi fixant le salaire minimum (SMIG). Cette loi est obligatoire pour tous les employeurs. Aucun contrat de travail ne peut prévoir un salaire inférieur au SMIG : la loi prime sur les accords privés."
+    },
+    {
+      "titre": "En dessous de la loi : les règlements",
+      "texte": "Les règlements sont des textes créés non pas par le Parlement, mais par le pouvoir exécutif — le Gouvernement, les ministres, les préfets, les maires. Ils sont inférieurs aux lois dans la hiérarchie et ne peuvent pas les contredire. Il existe deux grandes catégories. Les règlements autonomes interviennent dans les matières que la Constitution ne réserve pas au législateur : le Gouvernement peut les régler lui-même sans passer par le Parlement. Les règlements d'application, eux, viennent préciser et compléter une loi existante : ils donnent les détails pratiques nécessaires pour appliquer concrètement ce que la loi a décidé en principe. Les règlements prennent des formes différentes selon qui les édicte : les décrets viennent du Président ou du Premier ministre, les arrêtés des ministres, des préfets ou des maires. Plus on descend dans la hiérarchie des auteurs, plus la portée est locale.",
+      "definition": "Règlement : texte à caractère général édicté par le pouvoir exécutif (gouvernement, ministres, préfets, maires). Inférieur à la loi, il ne peut pas la contredire. Il prend la forme de décrets ou d'arrêtés selon l'autorité qui l'édicte.",
+      "exemple": "Une loi malgache fixe le principe du congé maternité. Un décret d'application du gouvernement précise ensuite sa durée exacte, les modalités de demande, et les conditions d'indemnisation. La loi pose le principe, le règlement règle les détails."
+    },
+    {
+      "titre": "Une source non écrite : la coutume",
+      "texte": "La coutume est une règle non écrite, née spontanément de la pratique répétée d'un groupe social, avec la conviction que cette pratique est obligatoire. Pour qu'une pratique devienne une coutume juridique, deux éléments doivent être réunis. Il faut d'abord un élément matériel : la pratique doit être générale (largement répandue), constante (régulièrement suivie) et ancienne (établie dans le temps). Il faut ensuite un élément psychologique : les personnes qui suivent cette pratique doivent avoir la conviction qu'elle est juridiquement obligatoire, et pas seulement une habitude sociale. La coutume peut jouer trois rôles. Elle peut compléter la loi quand celle-ci y renvoie expressément. Elle peut combler un vide de la loi quand il n'existe aucun texte sur une question. Et dans certains cas très rares, elle peut même aller à l'encontre d'une règle légale supplétive. À Madagascar, les coutumes locales jouent un rôle important dans certains domaines du droit, notamment en matière foncière et familiale.",
+      "definition": "Coutume : règle non écrite née d'une pratique générale, constante et ancienne, accompagnée de la conviction de son caractère obligatoire (opinion juris). Elle peut compléter la loi, combler ses lacunes ou, rarement, s'y opposer pour les règles supplétives.",
+      "exemple": "Dans certaines régions de Madagascar, des pratiques coutumières encadrent le partage des terres familiales. Ces coutumes, bien qu'elles ne figurent dans aucun texte officiel, peuvent être reconnues et appliquées par les juges lorsque la loi écrite ne prévoit pas de solution pour la situation en cause."
+    },
+    {
+      "titre": "Les sources indirectes : la jurisprudence",
+      "texte": "La jurisprudence désigne l'ensemble des décisions rendues par les tribunaux sur des questions de droit. En théorie, dans les systèmes de droit écrit comme celui de Madagascar (hérité du droit français), les juges appliquent la loi — ils ne la créent pas. Un juge ne peut pas édicter une règle générale pour l'avenir comme le ferait le Parlement. C'est la séparation des pouvoirs. En pratique cependant, la jurisprudence est une source réelle du droit. Pourquoi ? Parce que les textes ne peuvent pas tout prévoir. Quand la loi est silencieuse, imprécise ou incomplète, le juge est quand même obligé de rendre une décision — il ne peut pas refuser de juger sous prétexte que la loi ne dit rien. Ce faisant, il interprète la loi, comble ses lacunes, et crée des solutions nouvelles. Ces solutions, répétées par les tribunaux, deviennent des règles que tout le monde suit. C'est pourquoi la jurisprudence est qualifiée de source indirecte : elle ne crée pas de droit officiellement, mais elle en crée réellement.",
+      "definition": "Jurisprudence : ensemble des décisions rendues par les tribunaux sur des questions de droit. Source indirecte du droit : elle n'est pas officiellement reconnue comme créatrice de normes générales, mais elle influence considérablement l'interprétation et l'application du droit.",
+      "exemple": "La loi malgache ne précise pas exactement ce qu'on entend par « faute grave » justifiant un licenciement immédiat. À force de se prononcer sur des cas concrets, les tribunaux du travail ont développé des critères précis. Ces critères jurisprudentiels guident employeurs et salariés, même s'ils ne figurent dans aucun texte de loi."
+    },
+    {
+      "titre": "Les sources indirectes : la doctrine",
+      "texte": "La doctrine regroupe l'ensemble des écrits et des opinions des juristes — professeurs de droit, avocats, magistrats, chercheurs — sur le droit. Les manuels que vous étudiez, les articles de revues juridiques, les commentaires d'arrêts, les thèses de doctorat : tout cela fait partie de la doctrine. La doctrine n'est pas officiellement une source du droit : les opinions des professeurs n'ont pas force obligatoire, les tribunaux ne sont pas tenus de les suivre. Mais son influence est réelle et profonde. D'un côté, la doctrine éclaire le droit : elle l'explique, le systématise, le rend accessible. De l'autre, elle le fait évoluer : en critiquant les règles existantes, en proposant de nouvelles solutions, la doctrine influence les juges dans leurs interprétations et le législateur dans ses réformes. Certaines théories élaborées par des professeurs de droit ont fini par être adoptées par les tribunaux et parfois codifiées dans des lois. La doctrine est donc une source indirecte majeure : elle ne crée pas directement des règles, mais elle façonne leur contenu.",
+      "definition": "Doctrine : ensemble des opinions et travaux des juristes (professeurs, avocats, magistrats) sur le droit. Source indirecte du droit : sans force obligatoire, elle influence profondément l'interprétation du droit par les juges et l'évolution du droit par le législateur."
+    },
+    {
+      "titre": "Ce qui n'est PAS une source du droit : la morale et la religion",
+      "texte": "Deux réalités sont parfois confondues avec les sources du droit : la morale et la religion. Il est important de les distinguer clairement. La morale n'est pas une source du droit. Le droit et la morale peuvent coïncider — il est à la fois moral et juridiquement interdit de tuer — mais ce n'est pas toujours le cas. Certaines règles sont purement morales et n'ont aucune sanction juridique (aider un inconnu en détresse). D'autres sont juridiquement obligatoires sans être moralement approuvées de tous (rouler à droite). Ce qui rend une règle juridique, ce n'est pas sa valeur morale, c'est sa sanction par l'État. La religion non plus n'est pas une source du droit dans un État laïque. Les règles religieuses s'adressent aux croyants et relèvent de la sphère spirituelle. Elles n'ont de valeur juridique que si l'État les reprend à son compte dans un texte officiel. Dans ce cas, c'est le texte officiel qui est la source du droit — pas la religion elle-même.",
+      "definition": "Morale : ensemble des valeurs et règles de conduite relevant de la conscience individuelle. Religion : ensemble de règles issues d'une foi spirituelle. Ni l'une ni l'autre ne constituent des sources directes du droit dans un État laïque : ce qui rend une règle juridique, c'est sa sanction officielle par l'État.",
+      "exemple": "La générosité envers les démunis est une valeur morale et religieuse partagée par de nombreux Malgaches. Mais le droit n'oblige pas un riche à partager ses biens avec un pauvre — sauf dans les cas précis prévus par la loi (impôts, successions obligatoires). La morale et la religion recommandent, le droit impose."
+    },
+    {
+      "titre": "Récapitulatif : la pyramide des sources",
+      "texte": "Voici comment retenir la hiérarchie des sources du droit, du sommet à la base. Tout en haut : la Constitution et le bloc de constitutionnalité — personne ne peut leur résister. Juste en dessous : les traités internationaux ratifiés — les lois nationales doivent les respecter. Ensuite : les lois votées par le Parlement — elles s'imposent aux règlements. Puis : les règlements (décrets, arrêtés) du pouvoir exécutif — ils précisent et complètent les lois. En dehors de cette pyramide écrite : la coutume, source non écrite qui comble les vides. Et à côté, en sources indirectes : la jurisprudence des tribunaux et la doctrine des juristes, qui influencent sans imposer. La règle d'or : en cas de contradiction, la règle la plus haute l'emporte toujours.",
+      "definition": "À retenir dans l'ordre : Constitution → Traités internationaux → Lois → Règlements → Coutume (non écrite). Sources indirectes : jurisprudence et doctrine. Règle d'or : la norme supérieure l'emporte toujours sur la norme inférieure en cas de contradiction."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Que désigne l'expression « sources du droit » ?",
+      "choix": [
+        "Les rivières et cours d'eau protégés par le droit de l'environnement",
+        "L'origine et le mode de création des règles juridiques",
+        "Les tribunaux qui appliquent les règles de droit",
+        "Les sanctions prévues en cas de violation d'une règle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon compare les sources du droit à des sources d'eau.",
+        "On parle de l'origine des règles — d'où viennent-elles, qui les crée ?",
+        "Ce n'est pas leur application, mais leur création qui est en cause."
+      ],
+      "explication": "Les sources du droit désignent l'origine et le mode de création des règles juridiques. La métaphore de la source est parlante : comme une source d'eau fait naître une rivière, les sources du droit font naître les règles qui s'appliquent dans la société."
+    },
+    {
+      "question": "Vrai ou faux : le droit et la loi sont des synonymes.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon dit que c'est l'erreur la plus fréquente.",
+        "La loi est-elle la seule source du droit ?",
+        "Pensez à la Constitution, aux traités, à la coutume, à la jurisprudence."
+      ],
+      "explication": "Faux. C'est l'erreur la plus fréquente. La loi est une source du droit parmi d'autres. Le droit est plus grand que la loi : il comprend aussi la Constitution, les traités internationaux, les règlements, la coutume, la jurisprudence et la doctrine."
+    },
+    {
+      "question": "Qu'est-ce que la hiérarchie des normes ?",
+      "choix": [
+        "Le classement des juges par ordre d'ancienneté",
+        "L'organisation des sources du droit par ordre d'importance, de sorte que la norme supérieure l'emporte en cas de contradiction",
+        "La liste de toutes les lois votées par le Parlement depuis l'indépendance",
+        "Le classement des infractions pénales par gravité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La hiérarchie est une notion d'ordre et de priorité.",
+        "Que se passe-t-il quand deux règles se contredisent ?",
+        "C'est la règle la plus haute dans la pyramide qui l'emporte."
+      ],
+      "explication": "La hiérarchie des normes est l'organisation des sources du droit par ordre d'importance. En cas de contradiction entre deux règles, la règle la plus haute dans la hiérarchie l'emporte. Une loi qui contredit la Constitution est nulle. Un règlement qui contredit une loi est illégal."
+    },
+    {
+      "question": "Quelle source du droit se trouve au sommet de la pyramide des normes ?",
+      "choix": [
+        "La loi ordinaire votée par le Parlement",
+        "Les traités internationaux",
+        "La Constitution",
+        "Les décrets du gouvernement"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon parle de la source « suprême » à laquelle aucune autre ne peut résister.",
+        "À Madagascar, c'est elle qui organise les pouvoirs du Président, du Gouvernement et du Parlement.",
+        "Son nom désigne la règle fondamentale de l'État."
+      ],
+      "explication": "La Constitution se trouve au sommet de la pyramide des normes. Aucune autre règle de droit ne peut lui être contraire. Elle organise l'État, ses institutions et garantit les droits fondamentaux. Toutes les autres sources du droit — traités, lois, règlements — doivent lui être conformes."
+    },
+    {
+      "question": "Qu'est-ce que le « bloc de constitutionnalité » ?",
+      "choix": [
+        "L'ensemble des lois votées par le Parlement depuis la Constitution",
+        "L'ensemble des textes ayant valeur constitutionnelle (Constitution, déclarations de droits, chartes fondamentales)",
+        "Le bâtiment où siège la Haute Cour constitutionnelle",
+        "L'ensemble des décrets signés par le Président de la République"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Constitution n'est pas seule au sommet : d'autres textes ont la même valeur.",
+        "La leçon mentionne les déclarations de droits et les chartes comme la Charte de l'Environnement.",
+        "Le mot bloc indique un ensemble de textes qui forment un tout."
+      ],
+      "explication": "Le bloc de constitutionnalité désigne l'ensemble des textes ayant valeur constitutionnelle : la Constitution elle-même, les déclarations de droits fondamentaux, les préambules qui proclament des droits économiques et sociaux, et des chartes comme la Charte de l'Environnement. Toutes les autres règles de droit doivent être conformes à ce bloc."
+    },
+    {
+      "question": "Le Parlement malgache vote une loi qui supprime le droit à un procès équitable. Que peut-il se passer ?",
+      "choix": [
+        "Rien : une loi votée par le Parlement ne peut jamais être remise en cause",
+        "La Haute Cour constitutionnelle peut la déclarer inconstitutionnelle et la loi ne peut pas être appliquée",
+        "Le Président peut l'appliquer quand même par décret",
+        "Les tribunaux civils doivent l'appliquer même si elle est inconstitutionnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle institution contrôle la conformité des lois à la Constitution ?",
+        "La Constitution est supérieure à la loi : que se passe-t-il quand une loi la contredit ?",
+        "La leçon donne cet exemple précis."
+      ],
+      "explication": "La Haute Cour constitutionnelle peut être saisie et déclarer cette loi inconstitutionnelle. La Constitution est supérieure à la loi dans la hiérarchie des normes : une loi qui la contredit est nulle et ne peut pas être appliquée. C'est le mécanisme du contrôle de constitutionnalité."
+    },
+    {
+      "question": "Quelle place occupent les traités internationaux dans la hiérarchie des normes ?",
+      "choix": [
+        "Au-dessus de la Constitution",
+        "Entre la Constitution et les lois ordinaires",
+        "En dessous des règlements",
+        "Au même niveau que les décrets"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon décrit la pyramide : Constitution en haut, puis traités, puis lois, puis règlements.",
+        "Les traités sont supérieurs aux lois mais inférieurs à la Constitution.",
+        "Une loi ne peut pas contredire un traité ratifié."
+      ],
+      "explication": "Les traités internationaux se situent entre la Constitution et les lois ordinaires dans la hiérarchie des normes. Ils sont inférieurs à la Constitution (un traité contraire à la Constitution ne peut pas être ratifié sans révision constitutionnelle préalable), mais supérieurs aux lois ordinaires (une loi ne peut pas contredire un traité ratifié)."
+    },
+    {
+      "question": "Qu'est-ce qu'un traité international ?",
+      "choix": [
+        "Un texte voté uniquement par le Parlement malgache",
+        "Un accord conclu entre plusieurs États qui crée des droits et des obligations juridiques",
+        "Un règlement du gouvernement qui précise l'application d'une loi",
+        "Une décision de justice rendue par un tribunal international"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un traité implique plusieurs États — pas un seul.",
+        "Il crée des obligations juridiques pour les États qui l'ont signé et ratifié.",
+        "Les conventions sur les droits de l'Homme sont un exemple de traités."
+      ],
+      "explication": "Un traité international est un accord conclu entre plusieurs États qui crée des droits et des obligations juridiques. Une fois ratifié par un État (c'est-à-dire officiellement accepté), le traité s'impose à lui : son droit interne doit être compatible avec ce traité."
+    },
+    {
+      "question": "Madagascar ratifie une convention internationale qui interdit toute forme de torture. Une loi malgache autorisant une pratique assimilable à de la torture peut-elle être maintenue ?",
+      "choix": [
+        "Oui, car les lois nationales priment toujours sur les traités internationaux",
+        "Non, car le traité est supérieur à la loi dans la hiérarchie des normes",
+        "Oui, mais seulement pendant cinq ans après la ratification du traité",
+        "Cela dépend de la décision du Président de la République"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Où se situent les traités par rapport aux lois ordinaires dans la pyramide ?",
+        "Les traités sont supérieurs aux lois : une loi ne peut pas les contredire.",
+        "La leçon donne cet exemple précis."
+      ],
+      "explication": "Non. Les traités internationaux ratifiés sont supérieurs aux lois ordinaires dans la hiérarchie des normes. Une loi malgache qui contredit une convention internationale ratifiée par Madagascar est illégale et ne peut pas être maintenue telle quelle. L'État doit mettre son droit en conformité avec ses engagements internationaux."
+    },
+    {
+      "question": "Quelle est la définition stricte de la loi ?",
+      "choix": [
+        "Tout texte émanant d'une autorité publique, y compris les décrets",
+        "Un texte voté par le Parlement dans les domaines que la Constitution lui réserve",
+        "Une décision de justice rendue par la Cour suprême",
+        "Un accord entre employeur et syndicats sur les conditions de travail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue le sens strict et le sens large de la loi.",
+        "Au sens strict, qui crée la loi ? Quel organe ?",
+        "La Constitution délimite les domaines où le Parlement est compétent."
+      ],
+      "explication": "Au sens strict, la loi est un texte voté par le Parlement dans les domaines que la Constitution lui réserve. C'est la définition organique : la loi est identifiée par son auteur (le Parlement) et son domaine de compétence fixé par la Constitution."
+    },
+    {
+      "question": "Parmi ces types de lois, lequel modifie la Constitution elle-même ?",
+      "choix": [
+        "La loi ordinaire",
+        "La loi organique",
+        "La loi constitutionnelle",
+        "La loi référendaire"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Son nom contient le mot Constitution.",
+        "Elle nécessite une procédure spéciale plus lourde que pour les lois ordinaires.",
+        "Les autres types de lois ne touchent pas au texte fondamental lui-même."
+      ],
+      "explication": "La loi constitutionnelle est celle qui modifie la Constitution elle-même. Elle suit une procédure particulière beaucoup plus lourde que pour les lois ordinaires, précisément parce que la Constitution est la norme suprême et ne doit pas être modifiée facilement."
+    },
+    {
+      "question": "Quelle est la différence entre une loi ordinaire et une loi organique ?",
+      "choix": [
+        "La loi ordinaire est votée par le Sénat, la loi organique par l'Assemblée nationale",
+        "La loi organique organise le fonctionnement des institutions de l'État selon les dispositions de la Constitution ; la loi ordinaire régit les questions courantes de la vie sociale",
+        "La loi organique est plus ancienne que la loi ordinaire",
+        "Il n'y a aucune différence pratique entre les deux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mot organique renvoie à l'organisation — celle des institutions.",
+        "Les lois organiques précisent comment fonctionnent les institutions prévues par la Constitution.",
+        "Les lois ordinaires couvrent les sujets courants : famille, travail, commerce, etc."
+      ],
+      "explication": "Les lois organiques sont prévues par la Constitution pour préciser l'organisation et le fonctionnement des institutions (Parlement, Cour suprême, etc.). Elles suivent une procédure d'adoption particulière et sont soumises au contrôle obligatoire de la Cour constitutionnelle avant promulgation. Les lois ordinaires sont les textes du quotidien qui régissent les grandes questions de société."
+    },
+    {
+      "question": "Le Parlement malgache vote une loi fixant le SMIG. Qu'est-ce que cela signifie pour les employeurs ?",
+      "choix": [
+        "Ils peuvent librement fixer des salaires inférieurs si le salarié est d'accord",
+        "Ils doivent respecter ce salaire minimum : aucun contrat de travail ne peut prévoir moins",
+        "Cette loi ne s'applique qu'aux fonctionnaires de l'État",
+        "C'est une recommandation, pas une obligation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi est supérieure aux contrats privés dans la hiérarchie des normes.",
+        "Les règles sur le SMIG sont impératives : on ne peut pas y déroger.",
+        "La leçon donne cet exemple précis."
+      ],
+      "explication": "Tous les employeurs doivent respecter le SMIG fixé par la loi. Aucun contrat de travail ne peut prévoir un salaire inférieur, même si le salarié accepte. La loi prime sur les accords privés : c'est le principe de la primauté de la loi sur les conventions particulières."
+    },
+    {
+      "question": "Qu'est-ce qu'un règlement dans le droit français et malgache ?",
+      "choix": [
+        "Un texte voté par le Parlement pour réglementer un secteur précis",
+        "Un acte général édicté par le pouvoir exécutif (gouvernement, ministres, préfets, maires)",
+        "Une décision de justice rendue par un tribunal administratif",
+        "Un accord international entre deux États voisins"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le règlement vient du pouvoir exécutif, pas du Parlement.",
+        "Il est inférieur à la loi dans la hiérarchie.",
+        "Les décrets et les arrêtés sont des exemples de règlements."
+      ],
+      "explication": "Un règlement est un acte à caractère général et impersonnel édicté par le pouvoir exécutif : le gouvernement, les ministres, les préfets ou les maires. Il est inférieur à la loi dans la hiérarchie et ne peut pas la contredire. Il prend différentes formes : décrets (signés par le Président ou le Premier ministre) ou arrêtés (ministériels, préfectoraux ou municipaux)."
+    },
+    {
+      "question": "Quelle est la différence entre un règlement autonome et un règlement d'application ?",
+      "choix": [
+        "Le règlement autonome est voté par le Parlement ; le règlement d'application est signé par le Président",
+        "Le règlement autonome intervient dans des matières que la Constitution ne réserve pas au législateur ; le règlement d'application précise et complète une loi existante",
+        "Il n'y a aucune différence : les deux termes désignent la même chose",
+        "Le règlement autonome est supérieur à la loi ; le règlement d'application lui est inférieur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Autonome signifie indépendant — indépendant de quelle loi ?",
+        "Le règlement d'application vient après une loi pour en préciser les détails.",
+        "La leçon donne l'exemple du congé maternité."
+      ],
+      "explication": "Le règlement autonome intervient dans les matières que la Constitution laisse au pouvoir réglementaire (sans nécessiter de loi préalable). Le règlement d'application, lui, vient préciser et compléter une loi existante qui ne peut pas tout prévoir dans les détails : il traduit le principe posé par la loi en modalités pratiques concrètes."
+    },
+    {
+      "question": "Une loi malgache fixe le principe du congé maternité. Qu'est-ce qui précisera sa durée exacte et ses modalités pratiques ?",
+      "choix": [
+        "Une autre loi votée par le Parlement",
+        "Un décret d'application du gouvernement — un règlement",
+        "Un arrêt de la Cour suprême",
+        "Un accord entre employeurs et syndicats"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi pose le principe ; quelque chose d'autre règle les détails.",
+        "Ce n'est pas le Parlement qui fixe les modalités pratiques : c'est le pouvoir exécutif.",
+        "La leçon donne cet exemple précis."
+      ],
+      "explication": "C'est un décret d'application du gouvernement — un règlement d'application — qui précisera la durée exacte du congé maternité, les modalités de demande et les conditions d'indemnisation. La loi pose le principe général, le règlement règle les détails pratiques nécessaires à son application concrète."
+    },
+    {
+      "question": "Quels sont les deux éléments nécessaires pour qu'une pratique devienne une coutume juridique ?",
+      "choix": [
+        "Un texte écrit et la signature du Président de la République",
+        "Un élément matériel (pratique générale, constante et ancienne) et un élément psychologique (conviction de son caractère obligatoire)",
+        "L'accord du Parlement et la validation par les tribunaux",
+        "Une décision de justice et une loi de confirmation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La coutume n'est pas écrite — elle naît de la pratique.",
+        "La leçon mentionne deux éléments distincts pour la définir.",
+        "L'un est factuel (ce qu'on fait), l'autre est mental (ce qu'on croit)."
+      ],
+      "explication": "Pour qu'une pratique devienne une coutume juridique, deux éléments doivent être réunis. L'élément matériel : la pratique doit être générale, constante et ancienne. L'élément psychologique (opinion juris) : les personnes qui suivent cette pratique doivent avoir la conviction qu'elle est juridiquement obligatoire, et pas seulement une simple habitude sociale."
+    },
+    {
+      "question": "Quels sont les trois rôles que peut jouer la coutume dans le système juridique ?",
+      "choix": [
+        "Créer des lois, modifier des traités et abroger des règlements",
+        "Compléter la loi quand celle-ci y renvoie, combler un vide de la loi, ou rarement s'opposer à une règle légale supplétive",
+        "Remplacer la Constitution, annuler les règlements et créer des tribunaux",
+        "Voter les lois à la place du Parlement, ratifier les traités, signer les décrets"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La coutume ne crée pas de lois au sens formel.",
+        "Elle intervient soit en complément de la loi, soit en son absence.",
+        "Elle peut exceptionnellement aller à l'encontre d'une règle supplétive — pas d'une règle impérative."
+      ],
+      "explication": "La coutume joue trois rôles. Elle complète la loi quand celle-ci y renvoie expressément (coutume secundum legem). Elle comble un vide lorsqu'il n'existe aucun texte sur une question (coutume praeter legem). Et dans des cas très rares, elle peut aller à l'encontre d'une règle légale supplétive (coutume contra legem) — jamais d'une règle impérative."
+    },
+    {
+      "question": "Vrai ou faux : dans les systèmes de droit écrit, les juges créent officiellement des règles générales comme le fait le Parlement.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon parle du principe de séparation des pouvoirs.",
+        "Les juges appliquent la loi — ils ne la créent pas officiellement.",
+        "Mais en pratique, leur rôle est plus complexe."
+      ],
+      "explication": "Faux. En théorie, dans les systèmes de droit écrit (comme à Madagascar), les juges appliquent la loi mais ne créent pas officiellement de règles générales. C'est la séparation des pouvoirs : le pouvoir législatif appartient au Parlement, pas aux juges. En pratique cependant, la jurisprudence crée réellement du droit, de façon indirecte."
+    },
+    {
+      "question": "Pourquoi dit-on que la jurisprudence est une source indirecte du droit ?",
+      "choix": [
+        "Parce qu'elle n'est appliquée qu'en dehors des tribunaux",
+        "Parce qu'elle n'est pas officiellement reconnue comme créatrice de règles générales, mais qu'elle influence considérablement l'interprétation et l'application du droit en pratique",
+        "Parce qu'elle est moins importante que la coutume",
+        "Parce qu'elle ne s'applique qu'aux affaires pénales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Indirect s'oppose à direct : la jurisprudence ne crée pas officiellement des règles.",
+        "Mais son influence réelle est incontestable.",
+        "Le juge doit rendre une décision même quand la loi est silencieuse."
+      ],
+      "explication": "La jurisprudence est dite source indirecte parce qu'elle n'est pas officiellement reconnue comme créatrice de normes générales — les juges ne peuvent pas édicter de règles pour l'avenir comme le ferait le Parlement. Mais en pratique, les solutions données par les tribunaux sur des questions récurrentes finissent par s'imposer à tous et constituent de véritables règles de fait."
+    },
+    {
+      "question": "Un juge est saisi d'un litige sur lequel la loi est totalement silencieuse. Peut-il refuser de juger ?",
+      "choix": [
+        "Oui : sans texte applicable, le juge n'est pas compétent",
+        "Non : il est obligé de rendre une décision, ce qui l'amène à interpréter le droit et parfois à créer des solutions nouvelles",
+        "Oui, mais seulement si les deux parties sont d'accord pour ne pas être jugées",
+        "Non, mais seulement si l'affaire concerne du droit pénal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne que le juge ne peut pas refuser de juger sous prétexte que la loi ne dit rien.",
+        "Ce refus de juger s'appelle le déni de justice et est interdit.",
+        "En jugeant malgré le silence de la loi, le juge crée indirectement du droit."
+      ],
+      "explication": "Non. Le juge est obligé de rendre une décision même quand la loi est silencieuse, imprécise ou incomplète. Refuser de juger sous ce prétexte constitue un déni de justice, qui est interdit. En trouvant une solution là où la loi ne dit rien, le juge interprète et complète le droit — c'est ainsi que la jurisprudence devient une source indirecte réelle du droit."
+    },
+    {
+      "question": "La loi malgache ne définit pas précisément ce qu'est une « faute grave » au sens du droit du travail. Comment les tribunaux contribuent-ils à combler ce vide ?",
+      "choix": [
+        "Ils ignorent la question et rejettent toutes les demandes de licenciement pour faute grave",
+        "En rendant des décisions sur des cas concrets, ils dégagent progressivement des critères qui s'imposent en pratique — c'est la jurisprudence",
+        "Ils demandent au Parlement de voter une loi avant de juger",
+        "Ils appliquent directement les règles morales en l'absence de texte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon donne cet exemple précis sur le droit du travail malgache.",
+        "À force de trancher des cas similaires, les tribunaux créent des références pratiques.",
+        "Ces références ne figurent dans aucun texte officiel, mais s'imposent en pratique."
+      ],
+      "explication": "En rendant des décisions sur des cas concrets de licenciements contestés, les tribunaux dégagent progressivement des critères qui définissent la faute grave. Ces critères jurisprudentiels ne figurent dans aucun texte de loi, mais ils guident employeurs, salariés et avocats dans leur pratique quotidienne. C'est la jurisprudence comme source indirecte du droit."
+    },
+    {
+      "question": "Qu'est-ce que la doctrine en droit ?",
+      "choix": [
+        "L'ensemble des décisions rendues par les tribunaux sur des questions de droit",
+        "L'ensemble des opinions et travaux des juristes (professeurs, avocats, magistrats) sur le droit",
+        "L'ensemble des lois votées par le Parlement depuis l'indépendance",
+        "L'ensemble des règlements signés par le gouvernement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La doctrine n'est pas créée par les tribunaux ni par le Parlement.",
+        "Elle vient des juristes : professeurs, avocats, magistrats.",
+        "Les manuels de droit font partie de la doctrine."
+      ],
+      "explication": "La doctrine regroupe l'ensemble des opinions et travaux des juristes — professeurs de droit, avocats, magistrats, chercheurs — sur le droit. Les manuels, les articles de revues juridiques, les commentaires d'arrêts, les thèses de doctorat : tout cela fait partie de la doctrine."
+    },
+    {
+      "question": "Vrai ou faux : la doctrine a force contraignante — les juges sont obligés de suivre les opinions des professeurs de droit.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La doctrine est une source indirecte, pas directe.",
+        "Son influence est réelle mais non imposée.",
+        "Un juge peut s'en inspirer sans y être obligé."
+      ],
+      "explication": "Faux. La doctrine n'a pas force contraignante : les tribunaux ne sont pas tenus de suivre les opinions des professeurs de droit. Mais son influence est réelle et profonde. Les juges s'appuient souvent sur les analyses doctrinales pour forger leurs décisions, et le législateur consulte les travaux doctrinaux avant d'élaborer de nouvelles lois."
+    },
+    {
+      "question": "Quelles sont les deux fonctions essentielles de la doctrine ?",
+      "choix": [
+        "Voter les lois et signer les décrets",
+        "Expliciter le droit pour le rendre accessible et le critiquer pour le faire évoluer",
+        "Juger les litiges et exécuter les décisions de justice",
+        "Ratifier les traités et contrôler la constitutionnalité des lois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La doctrine explique le droit — elle le rend compréhensible.",
+        "La doctrine critique le droit — elle propose des améliorations.",
+        "Ces deux fonctions la rendent influente sans lui donner de force obligatoire."
+      ],
+      "explication": "La doctrine remplit deux fonctions essentielles. D'une part, elle explicite le droit : elle l'analyse, le systématise et le rend accessible, facilitant sa compréhension et son application. D'autre part, elle critique le droit existant dans le but de le faire évoluer : par ses commentaires et suggestions, elle influence les juges et le législateur."
+    },
+    {
+      "question": "La morale est-elle une source directe du droit ?",
+      "choix": [
+        "Oui, toutes les règles morales sont automatiquement des règles de droit",
+        "Non, la morale n'est pas une source directe du droit : certaines règles morales ne sont pas juridiques et inversement",
+        "Oui, mais seulement dans les pays à forte tradition religieuse",
+        "Non, car la morale n'existe pas dans les sociétés modernes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue clairement droit et morale.",
+        "Certaines règles sont morales sans être juridiques, et vice versa.",
+        "Ce qui rend une règle juridique, ce n'est pas sa valeur morale."
+      ],
+      "explication": "Non. La morale n'est pas une source directe du droit. Le droit et la morale peuvent coïncider (interdire le meurtre est à la fois moral et juridique), mais pas toujours. Certaines règles sont purement morales sans sanction juridique (aider un inconnu). D'autres sont juridiquement obligatoires sans être moralement approuvées de tous (certaines obligations fiscales). Ce qui rend une règle juridique, c'est sa sanction officielle par l'État."
+    },
+    {
+      "question": "La générosité envers les démunis est une valeur morale. Le droit oblige-t-il tout citoyen à partager ses biens avec les pauvres ?",
+      "choix": [
+        "Oui, car la morale et le droit sont identiques",
+        "Non, sauf dans les cas précis prévus par la loi comme les impôts ou certaines obligations successorales",
+        "Oui, mais seulement pour les personnes très riches",
+        "Non, et la générosité n'a aucun lien avec le droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon donne cet exemple précis.",
+        "La morale recommande, le droit impose.",
+        "Le droit impose le partage uniquement quand un texte le prévoit expressément."
+      ],
+      "explication": "Non, pas de façon générale. Le droit n'impose pas la générosité comme règle générale. Mais il prévoit certains mécanismes spécifiques de redistribution : les impôts (obligation légale de contribuer aux charges publiques) ou certaines obligations successorales. La morale et la religion recommandent la générosité ; le droit ne l'impose que dans les cas qu'il a lui-même définis."
+    },
+    {
+      "question": "Dans un État laïque, la religion est-elle une source directe du droit ?",
+      "choix": [
+        "Oui, les règles religieuses s'imposent à tous les citoyens",
+        "Non, la religion ne constitue pas une source directe du droit dans un État laïque : les règles religieuses n'ont de valeur juridique que si l'État les reprend dans un texte officiel",
+        "Oui, mais seulement pour les personnes pratiquantes",
+        "Non, car les religions disparaissent dans les sociétés modernes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La laïcité implique une séparation entre sphère juridique et sphère religieuse.",
+        "Les règles religieuses s'adressent aux croyants, pas à tous les citoyens.",
+        "Si une règle religieuse devient juridique, c'est parce que l'État l'a adoptée dans un texte officiel."
+      ],
+      "explication": "Non. Dans un État laïque, la religion ne constitue pas une source directe du droit. Le principe de laïcité implique une séparation entre les sphères juridique et religieuse. Les règles religieuses n'ont de valeur juridique que si et quand l'État les reprend dans un texte officiel — et dans ce cas, c'est le texte officiel qui est la source du droit, pas la religion elle-même."
+    },
+    {
+      "question": "Dans quel ordre exact se présentent les sources du droit dans la pyramide des normes, du sommet à la base ?",
+      "choix": [
+        "Règlements → Lois → Traités → Constitution",
+        "Constitution → Traités internationaux → Lois → Règlements",
+        "Lois → Constitution → Règlements → Traités",
+        "Traités → Constitution → Lois → Règlements"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon décrit la pyramide dans un ordre précis.",
+        "La Constitution est au sommet, les règlements à la base.",
+        "Les traités sont au-dessus des lois mais en dessous de la Constitution."
+      ],
+      "explication": "L'ordre exact dans la pyramide, du sommet à la base, est : Constitution (et bloc de constitutionnalité) → Traités internationaux → Lois → Règlements (décrets, arrêtés). La coutume est une source non écrite qui complète ce système, et la jurisprudence ainsi que la doctrine sont des sources indirectes."
+    },
+    {
+      "question": "Vrai ou faux : la jurisprudence et la doctrine sont toutes deux des sources directes du droit, au même niveau que la loi.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue sources directes et sources indirectes.",
+        "Jurisprudence et doctrine influencent le droit sans créer officiellement des règles obligatoires.",
+        "Elles ne figurent pas dans la pyramide hiérarchique au même titre que la loi."
+      ],
+      "explication": "Faux. La jurisprudence et la doctrine sont des sources indirectes du droit. Elles ne créent pas officiellement des règles générales obligatoires comme le font la Constitution, les traités, les lois ou les règlements (sources directes). Leur influence est réelle et profonde, mais elles n'ont pas force contraignante au même titre."
+    },
+    {
+      "question": "Quelle est la règle d'or à retenir pour toute la hiérarchie des normes ?",
+      "choix": [
+        "La règle la plus récente l'emporte toujours sur la règle la plus ancienne",
+        "La règle la plus longue l'emporte sur la règle la plus courte",
+        "En cas de contradiction, la norme supérieure dans la pyramide l'emporte toujours sur la norme inférieure",
+        "La règle la plus favorable au citoyen l'emporte toujours"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon appelle cela la règle d'or.",
+        "C'est le principe de base de toute la hiérarchie des normes.",
+        "Une loi qui contredit la Constitution est nulle — pas la Constitution."
+      ],
+      "explication": "La règle d'or de la hiérarchie des normes est : en cas de contradiction, la norme supérieure l'emporte toujours sur la norme inférieure. Une loi qui contredit la Constitution est nulle. Un règlement qui contredit une loi est illégal. Un traité contraire à la Constitution ne peut pas être ratifié sans révision constitutionnelle. Tout le système juridique repose sur ce principe."
+    },
+    {
+      "question": "Les coutumes locales malgaches en matière foncière peuvent-elles être reconnues par les juges ?",
+      "choix": [
+        "Non, seules les lois écrites peuvent être appliquées par les juges malgaches",
+        "Oui, quand la loi écrite ne prévoit pas de solution pour la situation en cause, le juge peut reconnaître et appliquer les coutumes",
+        "Oui, mais seulement si elles ont été approuvées par le Parlement",
+        "Non, les coutumes sont trop imprécises pour être appliquées"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne que les coutumes locales jouent un rôle important à Madagascar.",
+        "La coutume peut combler un vide de la loi — c'est sa fonction praeter legem.",
+        "Le juge n'est pas limité aux seuls textes écrits quand rien n'est prévu."
+      ],
+      "explication": "Oui. Quand la loi écrite ne prévoit pas de solution pour une situation donnée, le juge peut reconnaître et appliquer les coutumes locales. À Madagascar, les pratiques coutumières en matière foncière et familiale peuvent ainsi être reconnues par les juges, illustrant la fonction de la coutume comme source complémentaire du droit écrit."
+    },
+    {
+      "question": "Un décret du gouvernement malgache contredit une loi votée par le Parlement. Lequel des deux s'applique ?",
+      "choix": [
+        "Le décret, car il est plus récent que la loi",
+        "La loi, car elle est supérieure aux règlements (dont les décrets font partie) dans la hiérarchie des normes",
+        "Le décret, car il émane du Président de la République",
+        "Cela dépend de la matière concernée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans la pyramide des normes, où se situe la loi par rapport aux règlements ?",
+        "Un règlement ne peut pas contredire une loi.",
+        "La loi est supérieure aux règlements : décrets, arrêtés, etc."
+      ],
+      "explication": "La loi s'applique. Les règlements — dont les décrets font partie — sont inférieurs aux lois dans la hiérarchie des normes. Un décret qui contredit une loi est illégal et peut être annulé par le juge administratif. La loi votée par le Parlement prime toujours sur les textes du pouvoir exécutif."
+    },
+    {
+      "question": "Vrai ou faux : connaître le droit, c'est seulement connaître les lois votées par le Parlement.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon commence par dire que l'assimilation droit = loi est l'erreur la plus fréquente.",
+        "Pensez à toutes les autres sources : Constitution, traités, règlements, coutume, jurisprudence, doctrine.",
+        "Le droit est bien plus grand que la seule loi."
+      ],
+      "explication": "Faux. Connaître le droit, ce n'est pas seulement connaître les lois. La Constitution, les traités internationaux, les règlements, la coutume, la jurisprudence et la doctrine sont aussi des sources du droit. Un professionnel du droit qui ne connaîtrait que les lois passerait à côté d'une grande partie des règles applicables."
+    },
+    {
+      "question": "Quelle institution contrôle en France et dans les systèmes qui s'en inspirent que les lois respectent bien la Constitution ?",
+      "choix": [
+        "Le Parlement lui-même",
+        "Le Président de la République",
+        "La Cour constitutionnelle (Haute Cour constitutionnelle à Madagascar)",
+        "Le Conseil d'État"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Cette institution a pour mission de vérifier la conformité des lois à la Constitution.",
+        "C'est elle qui peut déclarer une loi inconstitutionnelle.",
+        "La leçon la mentionne dans l'exemple sur la liberté d'expression."
+      ],
+      "explication": "C'est la Cour constitutionnelle — appelée Haute Cour constitutionnelle à Madagascar — qui est chargée de vérifier que les lois votées par le Parlement respectent bien la Constitution. Si une loi lui est contraire, elle peut la déclarer inconstitutionnelle : la loi ne peut alors pas être promulguée ou appliquée."
+    },
+    {
+      "question": "Quel est le lien entre la doctrine et l'évolution du droit ?",
+      "choix": [
+        "Il n'y en a pas : la doctrine n'a aucune influence sur le droit",
+        "La doctrine influence l'évolution du droit en critiquant les règles existantes et en proposant des solutions nouvelles que les juges et le législateur peuvent adopter",
+        "La doctrine vote directement les nouvelles lois au Parlement",
+        "La doctrine remplace le juge quand celui-ci ne sait pas quelle règle appliquer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La doctrine a deux fonctions : expliquer et faire évoluer.",
+        "Les juges s'inspirent des analyses doctrinales pour leurs décisions.",
+        "Le législateur consulte les travaux doctrinaux avant de réformer."
+      ],
+      "explication": "La doctrine influence l'évolution du droit de façon importante, même sans force contraignante. En critiquant les règles existantes et en proposant des solutions nouvelles, elle influence les juges dans leurs interprétations et le législateur dans ses réformes. Certaines théories élaborées par des professeurs de droit ont fini par être adoptées par les tribunaux et codifiées dans des lois."
+    },
+    {
+      "question": "Vrai ou faux : les arrêtés municipaux des maires sont dans la même catégorie juridique que les lois votées par le Parlement.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les arrêtés des maires sont-ils votés par le Parlement ?",
+        "Les maires font partie de quel pouvoir ? Exécutif ou législatif ?",
+        "Les règlements (dont font partie les arrêtés) sont inférieurs aux lois."
+      ],
+      "explication": "Faux. Les arrêtés municipaux des maires sont des règlements, émanant du pouvoir exécutif local. Ils sont inférieurs aux lois dans la hiérarchie des normes et ne peuvent pas les contredire. Les lois, votées par le Parlement, sont supérieures aux règlements dans la pyramide des normes."
+    },
+    {
+      "question": "Pourquoi la hiérarchie des normes est-elle indispensable à la cohérence du système juridique ?",
+      "choix": [
+        "Parce qu'elle permet aux juges de gagner du temps",
+        "Parce qu'elle évite le chaos en désignant quelle règle l'emporte quand deux règles se contredisent",
+        "Parce qu'elle permet au Président de modifier la Constitution à sa guise",
+        "Parce qu'elle rend le droit plus difficile à comprendre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Imaginez si une décision d'un maire pouvait contredire la Constitution.",
+        "La hiérarchie empêche les contradictions permanentes entre normes de niveaux différents.",
+        "Elle détermine quelle règle prime en cas de conflit."
+      ],
+      "explication": "La hiérarchie des normes est indispensable parce qu'elle évite le chaos juridique en désignant quelle règle l'emporte quand deux règles se contredisent. Sans elle, n'importe quel texte de bas niveau pourrait contredire la Constitution ou les lois, rendant le droit incohérent et imprévisible. Elle garantit la cohérence de l'ensemble du système juridique."
+    },
+    {
+      "question": "Laquelle de ces affirmations résume le mieux la leçon sur les sources du droit ?",
+      "choix": [
+        "Le droit vient uniquement de la loi votée par le Parlement",
+        "Les sources du droit sont multiples et hiérarchisées : Constitution, traités, lois, règlements, coutume, jurisprudence et doctrine — et en cas de contradiction, la norme supérieure l'emporte",
+        "Le droit vient de la morale et de la religion",
+        "Il n'y a pas de hiérarchie entre les sources : toutes ont la même valeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon commence et finit par cette idée centrale.",
+        "Le droit est plus grand que la seule loi.",
+        "La règle d'or est toujours : la norme supérieure l'emporte."
+      ],
+      "explication": "Les sources du droit sont multiples : Constitution, traités internationaux, lois, règlements, coutume (sources écrites ou directes), jurisprudence et doctrine (sources indirectes). Elles sont organisées en pyramide hiérarchique : en cas de contradiction, la norme supérieure l'emporte toujours sur la norme inférieure. C'est l'enseignement central de cette leçon."
+    },
+    {
+      "question": "Un professeur de droit rédige un article critiquant une loi malgache et proposant une réforme. Cet article fait-il partie des sources du droit ?",
+      "choix": [
+        "Oui, directement : cet article a la même valeur qu'une loi",
+        "Oui, indirectement : il fait partie de la doctrine, source indirecte qui peut influencer juges et législateur sans avoir force obligatoire",
+        "Non, les articles de professeurs n'ont aucune valeur juridique",
+        "Oui, mais seulement s'il est publié dans un journal officiel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les articles de professeurs font partie de quelle source ?",
+        "Cette source est-elle directe ou indirecte ?",
+        "Elle influence sans imposer."
+      ],
+      "explication": "Oui, indirectement. L'article du professeur fait partie de la doctrine — source indirecte du droit. Sans avoir force contraignante, cet article peut influencer les juges dans leurs décisions et le législateur dans ses réformes. Si la solution proposée est convaincante, elle peut finir par être adoptée par les tribunaux ou consacrée dans une loi."
+    },
+    {
+      "question": "Vrai ou faux : une pratique sociale suivie depuis longtemps suffit à elle seule à constituer une coutume juridique.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne deux éléments nécessaires pour la coutume.",
+        "L'élément matériel seul ne suffit pas.",
+        "Il faut aussi l'élément psychologique : la conviction d'être obligé."
+      ],
+      "explication": "Faux. Une pratique sociale suivie depuis longtemps constitue l'élément matériel de la coutume, mais cela ne suffit pas. Il faut aussi l'élément psychologique (opinion juris) : les personnes qui suivent cette pratique doivent avoir la conviction qu'elle est juridiquement obligatoire. Sans cette conviction, ce n'est qu'une habitude sociale ou une tradition, pas une coutume juridique."
+    },
+    {
+      "question": "Dans la hiérarchie des normes, que se passe-t-il si un règlement contredit une loi ?",
+      "choix": [
+        "La loi doit être modifiée pour se conformer au règlement",
+        "Le règlement est illégal et peut être annulé par le juge administratif",
+        "Les deux s'appliquent en même temps selon les situations",
+        "C'est le Parlement qui tranche en votant une nouvelle loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les règlements sont inférieurs aux lois dans la pyramide.",
+        "En cas de contradiction, quelle règle l'emporte ?",
+        "Quel tribunal contrôle la légalité des règlements ?"
+      ],
+      "explication": "Le règlement est illégal et peut être annulé par le juge administratif. Les règlements émanent du pouvoir exécutif et sont inférieurs aux lois dans la hiérarchie des normes. Un règlement qui contredit une loi est illégal : tout citoyen qui en est affecté peut saisir le tribunal administratif pour en demander l'annulation."
+    },
+    {
+      "question": "Pourquoi dit-on que « le droit est plus grand que la loi » ?",
+      "choix": [
+        "Parce que les textes de loi sont souvent très longs",
+        "Parce que le droit comprend bien d'autres sources que la seule loi : Constitution, traités, règlements, coutume, jurisprudence, doctrine",
+        "Parce que les juges peuvent ignorer la loi quand ils le souhaitent",
+        "Parce que la morale est supérieure au droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon commence par cette affirmation.",
+        "Pensez à toutes les sources du droit présentées dans la leçon.",
+        "La loi n'est qu'une source parmi plusieurs."
+      ],
+      "explication": "On dit que le droit est plus grand que la loi parce que le droit comprend bien d'autres sources : la Constitution, les traités internationaux, les règlements, la coutume, la jurisprudence et la doctrine. La loi est la source la plus connue du grand public, mais elle n'est qu'une source parmi plusieurs dans un système juridique complet."
+    },
+    {
+      "question": "Quel est l'élément psychologique nécessaire à la formation d'une coutume juridique ?",
+      "choix": [
+        "La peur des sanctions pénales en cas de non-respect",
+        "La conviction des personnes qui suivent la pratique qu'elle est juridiquement obligatoire (opinion juris)",
+        "L'accord unanime de tous les membres de la société",
+        "La reconnaissance officielle par le Parlement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon désigne cet élément par l'expression opinion juris.",
+        "C'est une conviction intérieure, pas une contrainte externe.",
+        "Sans cette conviction, la pratique reste une simple habitude sociale."
+      ],
+      "explication": "L'élément psychologique nécessaire à la formation d'une coutume est l'opinion juris : la conviction des personnes qui suivent la pratique qu'elle est juridiquement obligatoire. Cette conviction distingue la coutume juridique de la simple habitude sociale ou de la tradition. Ce n'est pas la peur d'une sanction, mais la croyance en l'existence d'une règle obligatoire."
+    },
+    {
+      "question": "Vrai ou faux : les traités internationaux ratifiés par Madagascar sont supérieurs aux lois ordinaires malgaches.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Rappelez-vous la pyramide des normes et la place des traités.",
+        "Ils se situent entre la Constitution et les lois ordinaires.",
+        "Une loi ordinaire ne peut pas contredire un traité ratifié."
+      ],
+      "explication": "Vrai. Les traités internationaux ratifiés par Madagascar occupent une place supérieure aux lois ordinaires dans la hiérarchie des normes. Une loi malgache qui contredit un traité ratifié est illégale. En revanche, les traités sont eux-mêmes inférieurs à la Constitution : un traité contraire à la Constitution ne peut pas être ratifié sans révision constitutionnelle préalable."
+    },
+    {
+      "question": "Une théorie élaborée par un professeur de droit malgache est progressivement adoptée par les tribunaux. Que cela illustre-t-il ?",
+      "choix": [
+        "Que le professeur a plus de pouvoir que les juges",
+        "Que la doctrine, source indirecte, peut à terme influencer le droit positif appliqué par les tribunaux",
+        "Que les universités malgaches créent les règles de droit",
+        "Que les juges sont obligés de suivre les opinions des professeurs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La doctrine est une source indirecte : elle influence sans imposer.",
+        "L'adoption par les tribunaux d'une théorie doctrinale est une illustration classique de son influence.",
+        "Ce n'est pas une obligation, mais une influence progressive."
+      ],
+      "explication": "Cela illustre l'influence de la doctrine comme source indirecte du droit. La doctrine n'a pas force contraignante : les juges ne sont pas obligés de suivre les professeurs. Mais quand une théorie doctrinale est convaincante et bien argumentée, elle peut progressivement être adoptée par les tribunaux, devenant ainsi une référence pratique dans le droit appliqué."
+    },
+    {
+      "question": "Lequel de ces textes fait partie du bloc de constitutionnalité ?",
+      "choix": [
+        "Le Code civil",
+        "Le Code général des impôts",
+        "La Déclaration des droits fondamentaux et la Charte de l'Environnement",
+        "Le Code du travail"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le bloc de constitutionnalité regroupe les textes qui ont valeur constitutionnelle.",
+        "Les codes (civil, fiscal, du travail) sont des textes de valeur législative, pas constitutionnelle.",
+        "La leçon mentionne les déclarations de droits et les chartes."
+      ],
+      "explication": "La Déclaration des droits fondamentaux et la Charte de l'Environnement font partie du bloc de constitutionnalité — l'ensemble des textes ayant valeur constitutionnelle. Les codes (civil, fiscal, du travail) sont des textes de valeur législative, inférieurs dans la hiérarchie des normes."
+    },
+    {
+      "question": "Si une loi ordinaire contredit un traité international ratifié par Madagascar, que doit faire le juge ?",
+      "choix": [
+        "Appliquer la loi, car elle est votée par le Parlement élu du peuple",
+        "Écarter la loi et appliquer le traité, car celui-ci est supérieur à la loi dans la hiérarchie des normes",
+        "Appliquer les deux en même temps",
+        "Saisir le Parlement pour qu'il vote une nouvelle loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Où se situent les traités par rapport aux lois dans la pyramide ?",
+        "En cas de contradiction, quelle règle l'emporte ?",
+        "La règle d'or s'applique ici : la norme supérieure l'emporte."
+      ],
+      "explication": "Le juge doit écarter la loi et appliquer le traité. Les traités internationaux ratifiés sont supérieurs aux lois ordinaires dans la hiérarchie des normes. En cas de contradiction, la règle d'or s'applique : la norme supérieure l'emporte. Le juge a l'obligation de faire primer le traité sur la loi contraire."
+    },
+    {
+      "question": "Comment appelle-t-on le mécanisme par lequel une juridiction examine si une loi respecte bien la Constitution ?",
+      "choix": [
+        "Le contrôle de légalité",
+        "Le contrôle de conventionnalité",
+        "Le contrôle de constitutionnalité",
+        "Le contrôle de jurisprudence"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Ce mécanisme vérifie la conformité à la Constitution — pas aux lois ni aux traités.",
+        "La leçon le mentionne dans le contexte du bloc de constitutionnalité.",
+        "La Haute Cour constitutionnelle exerce ce contrôle."
+      ],
+      "explication": "On appelle cela le contrôle de constitutionnalité. C'est le mécanisme par lequel une juridiction (la Haute Cour constitutionnelle à Madagascar) examine si une loi respecte bien la Constitution et le bloc de constitutionnalité. Si la loi est contraire à la Constitution, elle est déclarée inconstitutionnelle et ne peut pas être appliquée."
+    },
+    {
+      "question": "Vrai ou faux : la coutume peut toujours s'opposer aux lois, y compris aux lois impératives.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon précise les trois rôles de la coutume.",
+        "Peut-elle s'opposer à toute loi, ou seulement à certaines ?",
+        "La leçon dit que dans des cas très rares, elle peut s'opposer à une règle légale supplétive — pas impérative."
+      ],
+      "explication": "Faux. La coutume ne peut pas s'opposer aux lois impératives. Dans des cas très rares, elle peut aller à l'encontre d'une règle légale supplétive (coutume contra legem) — c'est-à-dire une règle à laquelle les parties peuvent déroger par accord. Mais elle ne peut jamais s'opposer à une règle impérative d'ordre public, qui s'impose absolument à tous."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Le gouvernement malgache édicte un décret imposant aux juges de condamner à mort les auteurs de vols simples. Un juge est saisi d'un dossier de vol simple. Il hésite : doit-il appliquer ce décret ? Analysez la situation en identifiant les sources du droit en jeu et en appliquant la règle de la hiérarchie des normes.",
+      "choix": [
+        "Oui, le juge doit appliquer le décret car il émane du gouvernement",
+        "Non, le juge ne doit pas appliquer ce décret : il est contraire à la Constitution (qui garantit le droit à un procès équitable et interdit les peines disproportionnées) et à des traités internationaux ratifiés par Madagascar. Dans la hiérarchie des normes, le décret est inférieur à la fois à la loi, aux traités et à la Constitution",
+        "Oui, le juge doit appliquer le décret car il est plus récent que la Constitution",
+        "Le juge peut choisir librement quelle règle appliquer selon son jugement personnel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Où se situe un décret dans la pyramide des normes ? Est-il au-dessus ou en dessous de la Constitution ?",
+        "La Constitution garantit des droits fondamentaux aux accusés. Un décret peut-il y déroger ?",
+        "Madagascar a ratifié des conventions internationales sur les droits de l'Homme. Quelle est leur place dans la hiérarchie par rapport aux décrets ?"
+      ],
+      "explication": "Non. Le juge ne doit pas appliquer ce décret. Voici l'analyse par la hiérarchie des normes. Un décret est un règlement émanant du pouvoir exécutif. Dans la pyramide des normes, les règlements se situent en bas — ils sont inférieurs aux lois, aux traités internationaux et à la Constitution. Or, ce décret contredit plusieurs normes supérieures. La Constitution garantit des droits fondamentaux aux accusés, dont le droit à un procès équitable et la proportionnalité des peines. Des traités internationaux ratifiés par Madagascar — comme la Charte africaine des droits de l'Homme — interdisent les peines manifestement disproportionnées. Les lois malgaches sur les infractions et les peines prévoient des sanctions adaptées à la gravité de l'infraction. La règle d'or s'applique : en cas de contradiction, la norme supérieure l'emporte. Ce décret est contraire à la Constitution, aux traités et aux lois. Il est illégal et ne doit pas être appliqué. Le juge doit au contraire appliquer les règles légales en vigueur et pourrait même saisir la Haute Cour constitutionnelle pour faire constater l'inconstitutionnalité de ce décret."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Rakoto est agriculteur dans une région reculée de Madagascar. Il s'interroge sur ses droits concernant une parcelle de terre héritée de ses ancêtres. Il n'existe aucun titre foncier officiel, mais toute la communauté reconnaît depuis des générations que cette terre appartient à sa famille. Un voisin conteste cette propriété. Le juge doit trancher. Identifiez les sources du droit que le juge pourrait utiliser, en distinguant sources directes et sources indirectes.",
+      "choix": [
+        "Le juge ne peut rien faire car il n'existe aucune loi écrite sur ce cas précis",
+        "Le juge peut s'appuyer sur : (1) la loi écrite sur le droit foncier si elle existe (source directe — loi) ; (2) la coutume locale reconnue par la communauté si elle remplit les conditions (source directe — coutume praeter legem) ; (3) la jurisprudence des tribunaux sur des cas similaires (source indirecte) ; et éventuellement la doctrine des juristes spécialisés en droit foncier malgache (source indirecte)",
+        "Le juge doit uniquement appliquer la morale locale sans se référer au droit",
+        "Le juge doit attendre que le Parlement vote une loi spécifique avant de trancher"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi écrite est-elle la seule source que le juge peut utiliser ? Ou existe-t-il d'autres sources ?",
+        "La pratique communautaire reconnue depuis des générations peut-elle constituer une coutume juridique ? Quels éléments faut-il vérifier ?",
+        "La jurisprudence peut-elle aider le juge quand la loi est silencieuse ? Quelle est sa fonction dans ce cas ?"
+      ],
+      "explication": "Le juge dispose de plusieurs sources pour trancher ce litige, en distinguant sources directes et indirectes. Sources directes. La loi écrite : le juge vérifie d'abord si une loi foncière malgache prévoit des règles sur la reconnaissance de la propriété sans titre officiel. Si oui, il l'applique en priorité. La coutume : si la loi ne prévoit rien (vide juridique), le juge peut reconnaître la coutume locale. La pratique communautaire de reconnaissance de cette terre à la famille de Rakoto depuis des générations peut constituer une coutume juridique si elle réunit les deux éléments nécessaires : l'élément matériel (pratique générale, constante et ancienne au sein de la communauté) et l'élément psychologique (la communauté a la conviction que cette reconnaissance est juridiquement obligatoire). Cette coutume jouerait un rôle praeter legem : combler le vide de la loi écrite. Sources indirectes. La jurisprudence : le juge recherchera si d'autres tribunaux malgaches ont déjà tranché des cas similaires. Les solutions dégagées par la jurisprudence sur la reconnaissance coutumière de la propriété foncière guideront sa décision, même sans force contraignante absolue. La doctrine : des universitaires et juristes spécialisés en droit foncier malgache ont peut-être écrit sur la reconnaissance des droits coutumiers. Leurs analyses peuvent éclaire le juge. Ce cas pratique illustre que le juge ne se limite pas aux seuls textes écrits : il puise dans l'ensemble des sources du droit disponibles pour rendre une décision juste."
+    }
+  ]
+    }
