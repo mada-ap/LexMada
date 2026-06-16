@@ -1,0 +1,912 @@
+{
+  "titre": "L'action en justice : accéder au juge pour faire valoir ses droits",
+  "module": "Module 10 — L'action en justice",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que l'action en justice ?",
+      "texte": "Imaginons que quelqu'un vous doit de l'argent et refuse de payer. Ou qu'un voisin empiète sur votre terrain. Ou encore qu'un employeur vous licencie injustement. Dans chacun de ces cas, vous avez un droit — mais avoir un droit ne suffit pas : encore faut-il pouvoir le faire reconnaître et respecter. C'est précisément à cela que sert l'action en justice. L'action en justice est le pouvoir appartenant à toute personne de s'adresser à un juge pour obtenir la reconnaissance d'un droit, la réparation d'un préjudice ou la cessation d'un trouble. C'est la clé qui ouvre la porte du tribunal. Sans ce mécanisme, les droits resteraient théoriques : des mots sur du papier, sans aucune force réelle. L'action en justice transforme un droit abstrait en prétention concrète soumise à un tiers impartial — le juge — qui tranchera. Il faut bien distinguer l'action en justice (le pouvoir d'agir) de la demande en justice (l'acte concret par lequel on saisit le juge) et du droit substantiel (le droit dont on réclame la protection). Ces trois notions sont liées mais distinctes.",
+      "definition": "Action en justice : pouvoir reconnu par la loi à toute personne intéressée de soumettre au juge une prétention afin d'obtenir la protection d'un droit ou la réparation d'un préjudice. Elle se distingue du droit substantiel qu'elle tend à protéger et de la demande en justice qui en est l'acte de mise en œuvre."
+    },
+    {
+      "titre": "Qui peut agir en justice ? Les trois conditions fondamentales",
+      "texte": "Le droit d'agir en justice n'est pas ouvert à n'importe qui, pour n'importe quelle raison. La loi exige que celui qui saisit le juge réunisse trois conditions cumulatives : il doit avoir l'intérêt à agir, la qualité pour agir, et la capacité à agir. Ces trois conditions doivent être réunies au moment même où la demande est présentée au juge. Si l'une d'entre elles fait défaut, la demande sera déclarée irrecevable — ce qui signifie que le juge refusera d'examiner le fond du litige, non pas parce que la demande est fausse, mais parce que celui qui la formule n'avait pas le droit de le faire. C'est une différence cruciale : l'irrecevabilité sanctionne le demandeur, pas la demande elle-même. Un juge peut parfaitement refuser d'examiner une demande fondée, si celui qui l'a formulée n'avait pas qualité ou intérêt à agir. C'est pourquoi ces trois conditions méritent d'être comprises avec soin.",
+      "definition": "Trois conditions cumulatives pour agir en justice : l'intérêt à agir (avoir un avantage légitime à obtenir la décision demandée), la qualité pour agir (être la personne habilitée à formuler cette demande) et la capacité à agir (jouir de l'aptitude juridique à participer à un procès). Leur absence entraîne l'irrecevabilité de la demande."
+    },
+    {
+      "titre": "Première condition : l'intérêt à agir",
+      "texte": "L'intérêt à agir répond à cette question simple : pourquoi voulez-vous saisir le juge ? Quel avantage attendez-vous de sa décision ? La loi exige que cet intérêt présente plusieurs caractères. Il doit d'abord être légitime : on ne peut pas saisir le juge pour défendre un avantage illicite ou contraire à l'ordre public. Il doit ensuite être né et actuel : on ne peut pas agir par anticipation sur un préjudice purement hypothétique qui n'existe pas encore. Le trouble doit être réel, présent, et non imaginaire. L'intérêt doit également être direct et personnel : en principe, chacun ne peut défendre que ses propres droits — pas ceux d'autrui. Cette règle est résumée par le vieil adage procédural « nul ne plaide par procureur ». Enfin, l'intérêt doit être concret et suffisant pour justifier l'intervention du juge : une gêne minime ou purement théorique ne suffit pas. Ces caractères évitent que les tribunaux soient encombrés de demandes fantaisistes, dilatoires ou abusives. Cela dit, des exceptions existent — certaines personnes morales comme les syndicats et les associations ont été autorisées par la loi à défendre des intérêts collectifs dépassant leur intérêt propre.",
+      "definition": "Intérêt à agir : avantage légitime, né, actuel, direct et personnel que le demandeur cherche à obtenir du juge. Il doit être concret et suffisant pour justifier l'ouverture d'un procès. L'absence d'intérêt entraîne l'irrecevabilité de la demande.",
+      "exemple": "Fatima a subi un accident causé par un véhicule dont le chauffeur a pris la fuite. Elle a subi des fractures et des frais médicaux importants. Son intérêt à agir est né (l'accident a déjà eu lieu), actuel (les frais sont réels), direct et personnel (c'est elle qui a été blessée), légitime (elle réclame une réparation reconnue par le droit) et concret (le préjudice est chiffrable). Toutes les conditions de l'intérêt à agir sont réunies."
+    },
+    {
+      "titre": "Deuxième condition : la qualité pour agir",
+      "texte": "La qualité pour agir répond à une question différente : êtes-vous la bonne personne pour formuler cette demande ? Il ne suffit pas d'avoir un intérêt — encore faut-il être la personne juridiquement habilitée à agir. En principe, seule la personne qui est titulaire du droit litigieux a qualité pour agir afin de le défendre. C'est ce qu'on appelle l'action attitrée personnelle. Mais la loi prévoit des exceptions. Certaines actions sont dites attitrées dans l'intérêt des tiers : elles peuvent être exercées par des personnes qui ne sont pas personnellement titulaires du droit, mais qui sont habilitées par la loi à le défendre au nom d'autrui ou de la collectivité. Les syndicats professionnels, par exemple, ont qualité pour défendre l'intérêt collectif de la profession — même sans être personnellement victimes d'un préjudice. De même, certaines associations ont qualité pour agir dans des domaines précis où la loi les y autorise. Pour les personnes morales (associations, sociétés), la qualité pour agir suppose en outre que l'organe compétent — généralement l'assemblée générale ou le bureau — ait préalablement autorisé l'action, et qu'un représentant dûment mandaté soit désigné pour agir au nom de la personne morale.",
+      "definition": "Qualité pour agir : habilitation légale à formuler une demande en justice. En principe, seul le titulaire du droit peut agir (action attitrée personnelle). Par exception, certaines personnes — syndicats, associations, représentants légaux — ont qualité pour agir dans l'intérêt d'autrui ou d'une collectivité.",
+      "exemple": "Un syndicat de travailleurs malgaches apprend qu'un employeur verse à ses salariés des salaires inférieurs au SMIG légal. Même si le syndicat lui-même n'a subi aucun préjudice financier direct, il a qualité pour agir en justice afin de défendre l'intérêt collectif des travailleurs. La loi lui reconnaît expressément ce pouvoir d'action collective."
+    },
+    {
+      "titre": "Troisième condition : la capacité à agir",
+      "texte": "La capacité à agir renvoie à l'aptitude juridique générale à participer à un procès. C'est la capacité d'ester en justice. En principe, toute personne physique majeure et non placée sous tutelle a la capacité à agir en justice. Les mineurs et les majeurs protégés (sous tutelle ou curatelle) n'ont pas cette capacité directement : ils doivent être représentés par leurs représentants légaux (parents, tuteur) qui agissent en leur nom. Pour les personnes morales — sociétés, associations, syndicats — la capacité est acquise dès lors qu'elles sont régulièrement constituées et ont la personnalité morale. Une association déclarée a la personnalité morale et peut donc agir en justice. Mais une association de fait — qui n'a pas fait les démarches de déclaration — n'a pas la personnalité morale et donc pas la capacité à agir. De même, l'action doit entrer dans le cadre de l'objet social inscrit dans les statuts de la personne morale : une association sportive ne pourrait pas agir en justice sur des questions sans rapport avec son objet.",
+      "definition": "Capacité à agir en justice (capacité d'ester) : aptitude juridique à être partie à un procès. Elle appartient à toute personne physique majeure et non protégée, et à toute personne morale régulièrement constituée. Les personnes incapables doivent être représentées par leur représentant légal.",
+      "exemple": "Une association malgache de défense de l'environnement, régulièrement déclarée en préfecture, a la personnalité morale. Elle peut agir en justice contre une entreprise qui pollue une rivière — à condition que cette action entre dans son objet social. En revanche, un groupe informel de voisins qui n'a pas créé d'association déclarée n'a pas la capacité à agir collectivement : chaque membre devrait agir individuellement."
+    },
+    {
+      "titre": "La demande en justice : l'acte qui saisit le juge",
+      "texte": "Une fois les trois conditions réunies, la personne qui souhaite agir en justice doit formuler une demande. La demande en justice est l'acte juridique concret par lequel une personne soumet au juge une prétention — c'est-à-dire ce qu'elle réclame. La demande qui ouvre le procès s'appelle la demande initiale ou demande introductive d'instance : c'est elle qui saisit le juge et fait naître l'instance. Mais le procès n'est pas figé une fois démarré. D'autres demandes peuvent intervenir en cours d'instance : ce sont les demandes incidentes. On distingue trois types de demandes incidentes. La demande additionnelle est celle par laquelle une partie modifie ou complète ses prétentions initiales en cours de procès. La demande reconventionnelle est la contre-attaque du défendeur : au lieu de se contenter de répondre à ce qu'on lui reproche, il formule à son tour une prétention contre le demandeur — par exemple, assigné en paiement d'une dette, il demande lui-même la résolution du contrat. Enfin, la demande en intervention permet à un tiers d'entrer dans le procès déjà engagé entre deux autres parties.",
+      "definition": "Demande en justice : acte par lequel une personne soumet une prétention au juge. La demande initiale ouvre le procès et saisit le juge. Les demandes incidentes interviennent en cours d'instance : demande additionnelle (modification des prétentions), demande reconventionnelle (contre-attaque du défendeur), demande en intervention (entrée d'un tiers dans le procès).",
+      "exemple": "Hery assigne Noro devant le tribunal pour le paiement d'une somme de 5 millions d'ariary. C'est la demande initiale. En cours de procès, Hery ajoute une demande d'intérêts de retard qu'il avait oubliés : c'est une demande additionnelle. Noro, de son côté, formule une demande reconventionnelle en dommages-intérêts contre Hery pour procédure abusive. Le procès, qui avait démarré avec une seule demande, en comporte désormais plusieurs."
+    },
+    {
+      "titre": "Les effets de la demande en justice",
+      "texte": "Saisir le juge n'est pas un acte anodin : la demande en justice produit des effets juridiques importants dès son introduction. Le premier effet est la saisine du juge : à partir de la demande initiale, le juge est saisi et doit examiner le litige. Il ne peut plus l'ignorer. Le deuxième effet est l'interruption des délais de prescription et de forclusion. La prescription est le délai au-delà duquel un droit ne peut plus être exercé — si quelqu'un vous doit de l'argent depuis dix ans sans que vous ayez jamais réclamé, votre droit peut s'éteindre. Dès l'introduction de la demande en justice, ce délai est interrompu : le temps repart à zéro. Cela protège le demandeur qui a agi à temps. Le troisième effet est que la demande vaut mise en demeure du débiteur : à partir de ce moment, le débiteur est officiellement informé de la réclamation, ce qui peut déclencher le cours des intérêts moratoires — des intérêts supplémentaires qui courent pour compenser le retard de paiement. Ces effets font de la demande en justice un acte aux conséquences concrètes et mesurables, bien au-delà du simple fait de « porter plainte ».",
+      "definition": "Effets de la demande en justice : (1) saisine du juge qui doit désormais statuer ; (2) interruption des délais de prescription et de forclusion, le délai recommençant à courir à zéro ; (3) mise en demeure du débiteur, déclenchant le cours des intérêts moratoires.",
+      "exemple": "Voahangy a prêté 2 millions d'ariary à un ami il y a presque cinq ans. Le délai de prescription des créances est de cinq ans. À quelques semaines de l'expiration, elle dépose une demande en justice. Ce seul acte interrompt le délai de prescription : son droit ne s'éteindra pas. De plus, son ami est désormais officiellement mis en demeure, et des intérêts de retard peuvent commencer à courir."
+    },
+    {
+      "titre": "Comment se défendre : les moyens du défendeur",
+      "texte": "Être assigné en justice ne signifie pas être condamné d'avance. Le défendeur — celui contre qui la demande est dirigée — dispose de plusieurs moyens pour combattre la prétention du demandeur. Ces moyens sont organisés en trois grandes catégories. La défense au fond est le moyen le plus courant : le défendeur conteste le bien-fondé de la prétention adverse. Il dit : « votre demande est injustifiée parce que ce que vous alléguez est faux ou parce que vous n'avez pas de droit à faire valoir ». Le débat porte alors sur le fond — la vérité des faits et l'application du droit. L'exception de procédure est un moyen différent : sans discuter le fond du litige, le défendeur attaque la régularité de la procédure elle-même. Il cherche à paralyser, suspendre ou éteindre l'instance sans qu'il soit besoin de statuer sur le fond. Parmi les exceptions de procédure, on distingue notamment les exceptions d'incompétence (le tribunal saisi n'est pas le bon), les exceptions de nullité (la procédure est entachée d'irrégularité), les exceptions dilatoires (demande de délai). La fin de non-recevoir, enfin, est le moyen le plus radical : le défendeur ne discute ni le fond ni la procédure, mais soutient que le demandeur n'avait tout simplement pas le droit d'agir — défaut d'intérêt, défaut de qualité, prescription éteinte, chose déjà jugée.",
+      "definition": "Moyens de défense du défendeur : (1) défense au fond — contestation du bien-fondé de la prétention ; (2) exception de procédure — contestation de la régularité de la procédure (incompétence, nullité, délai) ; (3) fin de non-recevoir — contestation du droit même d'agir (défaut d'intérêt, de qualité, prescription, chose jugée).",
+      "exemple": "Zo est assigné par son ancienne associée pour paiement d'une dette commerciale datant de huit ans. Il peut répondre de trois façons : défense au fond (« je n'ai jamais signé ce document, la dette n'existe pas »), exception de procédure (« le tribunal commercial saisi est incompétent, vous auriez dû saisir le tribunal civil »), ou fin de non-recevoir (« le délai de prescription est écoulé depuis trois ans, vous n'avez plus le droit d'agir »). Ces trois moyens peuvent parfois être combinés."
+    },
+    {
+      "titre": "La fin de non-recevoir : quand le droit d'agir fait défaut",
+      "texte": "La fin de non-recevoir mérite qu'on s'y attarde, car elle est souvent mal comprise. Son nom est trompeur : il ne s'agit pas de refuser de recevoir une personne au tribunal, mais de déclarer sa demande irrecevable parce qu'elle ne réunit pas les conditions pour être examinée. La fin de non-recevoir peut résulter de plusieurs causes. Le défaut d'intérêt à agir : le demandeur ne retire aucun avantage personnel et légitime de la décision demandée. Le défaut de qualité : le demandeur n'est pas la personne habilitée à formuler cette demande. La prescription : le droit d'agir a été éteint par l'écoulement du temps. La chose jugée : le même litige, entre les mêmes parties et sur le même objet, a déjà fait l'objet d'une décision définitive — on ne peut pas rejouer indéfiniment le même procès. La fin de non-recevoir présente une particularité procédurale importante : elle peut être soulevée à tout moment de la procédure, même pour la première fois en appel, et le juge n'a pas besoin de constater que la partie adverse a subi un préjudice du fait de l'irrecevabilité. Contrairement aux exceptions de procédure ordinaires, elle n'est soumise à aucun délai.",
+      "definition": "Fin de non-recevoir : moyen de défense qui tend à faire déclarer le demandeur irrecevable en sa demande, sans examen du fond, en raison d'un défaut du droit d'agir lui-même. Causes principales : défaut d'intérêt, défaut de qualité, prescription, autorité de la chose jugée. Peut être soulevée à tout moment de la procédure.",
+      "exemple": "Deux frères ont déjà fait juger il y a trois ans, de manière définitive, le partage de l'héritage de leur père. L'aîné, insatisfait, engage un nouveau procès sur le même partage. Le cadet peut soulever une fin de non-recevoir tirée de l'autorité de la chose jugée : la question a déjà été définitivement tranchée par un juge, on ne peut pas la soumettre à nouveau. Le juge déclarera la nouvelle demande irrecevable sans même examiner ses mérites."
+    },
+    {
+      "titre": "Les exceptions de procédure : attaquer la forme, pas le fond",
+      "texte": "Les exceptions de procédure forment une catégorie intermédiaire entre la défense au fond (qui attaque le droit lui-même) et la fin de non-recevoir (qui attaque le droit d'agir). Les exceptions de procédure attaquent la manière dont le procès a été engagé ou se déroule. Elles ne remettent pas en cause le droit du demandeur de fond en comble : elles demandent au juge de déclarer la procédure irrégulière, de la suspendre ou de renvoyer l'affaire devant une autre juridiction. Les exceptions d'incompétence sont parmi les plus fréquentes : elles soutiennent que le tribunal saisi n'est pas le bon. Il peut s'agir d'une incompétence d'attribution (le mauvais type de tribunal a été saisi) ou d'une incompétence territoriale (le bon type de tribunal a été saisi, mais pas au bon endroit géographiquement). Les exceptions de nullité visent à faire annuler un acte de procédure entaché d'une irrégularité. Les nullités pour vice de forme exigent que le vice ait causé un préjudice à celui qui les invoque. Les nullités pour vice de fond sont plus graves et peuvent être soulevées sans avoir à justifier d'un préjudice. Une règle procédurale importante s'applique aux exceptions de procédure : elles doivent être soulevées simultanément, dès le début de la procédure, avant toute défense au fond — faute de quoi elles sont irrecevables.",
+      "definition": "Exceptions de procédure : moyens de défense qui contestent non le fond du droit mais la régularité de la procédure. Principales catégories : exceptions d'incompétence (mauvais tribunal), exceptions de nullité (irrégularité d'un acte), exceptions dilatoires (demande de délai), exceptions de litispendance et de connexité. Règle : doivent être soulevées simultanément et avant toute défense au fond.",
+      "exemple": "Rivo est commerçant. Un client l'assigne devant le tribunal civil pour un litige portant sur un contrat commercial. Rivo soulève une exception d'incompétence d'attribution : ce litige commercial aurait dû être porté devant le tribunal de commerce, pas devant le tribunal civil. Si le juge fait droit à cette exception, l'affaire est renvoyée devant la bonne juridiction — sans que le fond du litige ait été examiné."
+    },
+    {
+      "titre": "Le résultat du procès : l'autorité de la chose jugée",
+      "texte": "Lorsqu'un procès se termine par une décision définitive, cette décision acquiert l'autorité de la chose jugée. Ce principe signifie que le litige est désormais définitivement tranché : les mêmes parties ne peuvent plus soumettre le même litige au même juge, ni à un autre juge. C'est une garantie fondamentale de sécurité juridique : sans elle, les procès pourraient durer indéfiniment, et nul ne pourrait jamais avoir la certitude que sa situation est réglée. L'autorité de la chose jugée suppose la réunion de trois identités, souvent désignées par l'expression latine « triple identité » : identité de parties (les mêmes personnes), identité d'objet (la même chose réclamée) et identité de cause (le même fondement juridique). Si l'une de ces trois identités fait défaut, on n'est plus en présence de la même affaire et un nouveau procès est possible. La chose jugée est une fin de non-recevoir : si quelqu'un tente de relancer un procès déjà définitivement tranché, son adversaire peut invoquer l'autorité de la chose jugée pour faire déclarer la nouvelle demande irrecevable.",
+      "definition": "Autorité de la chose jugée : effet attaché aux décisions judiciaires définitives, qui interdit de soumettre à nouveau le même litige entre les mêmes parties et sur le même objet. Suppose la triple identité : mêmes parties, même objet, même cause. Constitue une fin de non-recevoir opposable à toute nouvelle demande.",
+      "exemple": "Un tribunal a définitivement condamné un entrepreneur à verser 3 millions d'ariary à un client pour malfaçons dans une construction. L'entrepreneur, cherchant à faire annuler cette condamnation, engage un nouveau procès identique. Le client peut opposer l'autorité de la chose jugée : le même litige, entre les mêmes parties, sur le même objet, a déjà été définitivement tranché. Le nouveau procès sera déclaré irrecevable."
+    },
+    {
+      "titre": "Les voies de recours : contester une décision de justice",
+      "texte": "Une décision de justice n'est pas nécessairement définitive dès qu'elle est rendue. La loi prévoit des mécanismes permettant de la contester : ce sont les voies de recours. Les voies de recours ordinaires sont les plus accessibles. L'opposition permet à une partie qui n'était pas présente lors du jugement rendu par défaut de le contester devant le même tribunal. L'appel est la voie la plus courante : la partie insatisfaite soumet le litige à une juridiction supérieure — la cour d'appel — qui réexamine l'affaire en fait et en droit. L'appel a deux effets essentiels : un effet suspensif (le jugement de première instance ne peut pas être exécuté tant que l'appel est pendant) et un effet dévolutif (la cour d'appel reçoit l'ensemble du litige pour le rejuger). Les voies de recours extraordinaires sont réservées à des situations plus rares. La tierce opposition permet à un tiers — une personne qui n'était pas partie au procès initial — de contester un jugement qui lui cause préjudice. Le recours en révision permet de remettre en cause un jugement définitif si l'on découvre une fraude ou un fait nouveau décisif. Le pourvoi en cassation, enfin, ne porte pas sur les faits mais uniquement sur les questions de droit : la Cour suprême vérifie si le juge inférieur a correctement appliqué la loi, sans rejuger les faits.",
+      "definition": "Voies de recours : mécanismes permettant de contester une décision judiciaire. Voies ordinaires : opposition (partie absente) et appel (réexamen par une juridiction supérieure, avec effets suspensif et dévolutif). Voies extraordinaires : tierce opposition (tiers lésé), recours en révision (fraude ou fait nouveau), pourvoi en cassation (contrôle de droit uniquement).",
+      "exemple": "Ravao est condamnée en première instance à payer une dette qu'elle conteste. Elle fait appel devant la cour d'appel. Pendant le temps de l'appel, le jugement de première instance est suspendu : elle n'a pas à payer immédiatement. La cour d'appel réexaminera l'intégralité du litige — elle peut confirmer, réformer ou annuler le jugement de première instance."
+    },
+    {
+      "titre": "L'action en justice des personnes morales : associations et syndicats",
+      "texte": "Les personnes morales — associations, syndicats, sociétés — peuvent agir en justice au même titre que les personnes physiques, à condition d'avoir la personnalité morale. Mais leur action présente des particularités importantes. Pour défendre leurs intérêts propres, les personnes morales agissent comme n'importe quel autre justiciable : une association peut demander réparation pour une atteinte à son patrimoine, une société peut poursuivre un débiteur, un syndicat peut agir contre quelqu'un qui a utilisé son nom ou volé ses fonds. Mais les syndicats et certaines associations bénéficient d'un pouvoir supplémentaire : ils peuvent agir pour défendre des intérêts qui dépassent leurs seuls membres. Les syndicats peuvent se constituer partie civile dans des affaires pénales qui touchent à l'intérêt collectif de la profession. Ils peuvent intervenir dans des procès entre salariés et employeurs même sans mandat formel des travailleurs directement concernés. Des associations spécialement habilitées par la loi peuvent agir pour défendre des victimes collectives — comme les associations de consommateurs ou de défense de l'environnement. Dans tous les cas, la personne morale doit être représentée en justice par une personne physique dûment mandatée, dont les pouvoirs doivent être justifiés.",
+      "definition": "Action en justice des personnes morales : elles peuvent agir pour défendre leurs intérêts propres (patrimoniaux et extra-patrimoniaux) comme toute personne juridique. Les syndicats et certaines associations ont en outre qualité pour défendre des intérêts collectifs dépassant leurs seuls membres, sous réserve d'habilitation légale. Elles agissent par l'intermédiaire d'un représentant dûment mandaté.",
+      "exemple": "Un syndicat de pêcheurs malgaches apprend qu'une grande société industrielle déverse des produits polluants dans les eaux côtières, rendant la pêche impossible. Le syndicat peut agir en justice pour défendre l'intérêt collectif de la profession, sans avoir à identifier précisément chacun des pêcheurs lésés et sans avoir reçu de mandat individuel de chacun d'eux."
+    },
+    {
+      "titre": "Récapitulatif : les clés de l'action en justice",
+      "texte": "Voici les points essentiels à retenir sur l'action en justice. Premièrement, l'action en justice est le pouvoir de soumettre une prétention à un juge — elle se distingue du droit que l'on cherche à protéger et de la demande qui en est l'acte concret. Deuxièmement, trois conditions cumulatives sont indispensables : l'intérêt à agir (légitime, né, actuel, direct et personnel), la qualité pour agir (être la personne habilitée) et la capacité à agir (aptitude juridique à être partie à un procès). Troisièmement, la demande en justice produit des effets importants : elle saisit le juge, interrompt la prescription et vaut mise en demeure. Quatrièmement, le défendeur peut répondre par trois types de moyens : la défense au fond, les exceptions de procédure et les fins de non-recevoir. Cinquièmement, une décision définitive acquiert l'autorité de la chose jugée, qui interdit de rejouer le même procès. Sixièmement, des voies de recours ordinaires (opposition, appel) et extraordinaires (tierce opposition, révision, cassation) permettent de contester les décisions. Enfin, les personnes morales ont la capacité d'agir en justice, et certaines — syndicats, associations — ont qualité pour défendre des intérêts collectifs.",
+      "definition": "À retenir : action en justice = pouvoir d'agir. Conditions : intérêt + qualité + capacité. Effets de la demande : saisine du juge + interruption de la prescription + mise en demeure. Moyens du défendeur : défense au fond / exception de procédure / fin de non-recevoir. Décision définitive : autorité de la chose jugée. Voies de recours : ordinaires (appel) et extraordinaires (cassation)."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quelle est la définition exacte de l'action en justice ?",
+      "choix": [
+        "L'acte par lequel on dépose une plainte auprès de la police",
+        "Le pouvoir reconnu par la loi à toute personne intéressée de soumettre une prétention à un juge afin d'obtenir la protection d'un droit",
+        "La décision rendue par un tribunal à l'issue d'un procès",
+        "La procédure par laquelle un juge convoque les parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'action en justice est un pouvoir, pas un acte unique.",
+        "Elle s'adresse à un juge pour obtenir quelque chose.",
+        "Elle se distingue du droit lui-même et de la demande concrète."
+      ],
+      "explication": "L'action en justice est le pouvoir reconnu par la loi à toute personne intéressée de soumettre une prétention à un juge afin d'obtenir la protection d'un droit ou la réparation d'un préjudice. Elle se distingue du droit substantiel qu'elle tend à protéger et de la demande en justice qui en est l'acte de mise en œuvre."
+    },
+    {
+      "question": "À quoi sert l'action en justice dans le système juridique ?",
+      "choix": [
+        "À punir les criminels",
+        "À transformer un droit abstrait en prétention concrète soumise à un juge impartial",
+        "À rédiger des contrats officiels",
+        "À modifier les lois existantes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Sans ce mécanisme, les droits resteraient théoriques.",
+        "Elle donne accès à un tiers impartial qui tranche.",
+        "Elle rend les droits effectifs, pas seulement formels."
+      ],
+      "explication": "L'action en justice transforme un droit abstrait en prétention concrète soumise à un tiers impartial — le juge — qui tranchera. Sans elle, les droits resteraient théoriques : des règles sur du papier sans aucune force réelle face à quelqu'un qui refuse de les respecter."
+    },
+    {
+      "question": "Combien de conditions cumulatives faut-il réunir pour pouvoir agir en justice ?",
+      "choix": [
+        "Une seule : avoir subi un préjudice",
+        "Deux : l'intérêt et la qualité",
+        "Trois : l'intérêt, la qualité et la capacité à agir",
+        "Quatre : l'intérêt, la qualité, la capacité et le financement"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon mentionne ces conditions dans un ordre précis.",
+        "Toutes doivent être réunies simultanément, au moment de la demande.",
+        "Leur absence entraîne l'irrecevabilité de la demande."
+      ],
+      "explication": "Trois conditions cumulatives sont nécessaires pour agir en justice : l'intérêt à agir, la qualité pour agir et la capacité à agir. Ces trois conditions doivent être réunies au moment de la demande. Si l'une fait défaut, la demande sera déclarée irrecevable sans que le juge examine le fond du litige."
+    },
+    {
+      "question": "Qu'est-ce que l'intérêt à agir ?",
+      "choix": [
+        "La somme d'argent réclamée au tribunal",
+        "L'avantage légitime, né, actuel, direct et personnel que le demandeur cherche à obtenir du juge",
+        "Le droit que le demandeur cherche à défendre",
+        "L'identité du juge compétent pour l'affaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il répond à la question : pourquoi voulez-vous saisir le juge ?",
+        "Il présente plusieurs caractères cumulatifs.",
+        "Son absence rend la demande irrecevable."
+      ],
+      "explication": "L'intérêt à agir est l'avantage légitime, né, actuel, direct et personnel que le demandeur cherche à obtenir de la décision judiciaire. Il doit être concret et suffisant pour justifier l'intervention du juge. Une gêne hypothétique ou purement théorique ne suffit pas."
+    },
+    {
+      "question": "Quel adage procédural résume le caractère direct et personnel de l'intérêt à agir ?",
+      "choix": [
+        "« Nemo auditur propriam turpitudinem allegans »",
+        "« Nul ne plaide par procureur »",
+        "« In dubio pro reo »",
+        "« Pacta sunt servanda »"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cet adage signifie qu'on ne peut pas agir à la place d'autrui.",
+        "Il résume le principe selon lequel on ne défend que ses propres droits.",
+        "La leçon le cite explicitement."
+      ],
+      "explication": "L'adage « nul ne plaide par procureur » résume le caractère direct et personnel de l'intérêt à agir : en principe, chacun ne peut défendre en justice que ses propres droits, pas ceux d'autrui. Des exceptions existent toutefois, notamment pour les syndicats et certaines associations habilitées à défendre des intérêts collectifs."
+    },
+    {
+      "question": "Qu'est-ce que la qualité pour agir ?",
+      "choix": [
+        "La réputation professionnelle de l'avocat qui représente la partie",
+        "L'habilitation légale à formuler une demande en justice — être la bonne personne pour agir",
+        "La qualité de la preuve apportée au tribunal",
+        "Le niveau d'études du demandeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle répond à la question : êtes-vous la bonne personne pour formuler cette demande ?",
+        "En principe, seul le titulaire du droit peut agir.",
+        "Des exceptions existent pour les syndicats et associations."
+      ],
+      "explication": "La qualité pour agir est l'habilitation légale à formuler une demande en justice. En principe, seule la personne qui est titulaire du droit litigieux a qualité pour le défendre. Par exception, certaines personnes — syndicats, associations habilitées, représentants légaux — ont qualité pour agir dans l'intérêt d'autrui ou d'une collectivité."
+    },
+    {
+      "question": "Un syndicat de travailleurs agit en justice contre un employeur qui ne respecte pas le SMIG, sans mandat individuel de chaque salarié lésé. Cette action est-elle possible ?",
+      "choix": [
+        "Non, le syndicat ne peut agir qu'avec un mandat signé de chaque salarié concerné",
+        "Oui, la loi reconnaît aux syndicats qualité pour défendre l'intérêt collectif de la profession",
+        "Non, seuls les salariés individuellement peuvent agir pour leurs droits salariaux",
+        "Oui, mais seulement si le syndicat a plus de 100 membres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les syndicats ont une qualité particulière pour agir.",
+        "Ils défendent l'intérêt collectif, pas uniquement les intérêts individuels.",
+        "La leçon donne cet exemple précis."
+      ],
+      "explication": "Oui. La loi reconnaît aux syndicats qualité pour défendre l'intérêt collectif de la profession. Ils peuvent agir en justice même sans mandat individuel de chaque travailleur concerné, dès lors qu'une atteinte à l'intérêt collectif est caractérisée. C'est une dérogation au principe selon lequel on ne plaide que pour soi-même."
+    },
+    {
+      "question": "Qu'est-ce que la capacité à agir en justice ?",
+      "choix": [
+        "La richesse financière suffisante pour payer les frais de justice",
+        "L'aptitude juridique à être partie à un procès, à ester en justice",
+        "La connaissance du droit nécessaire pour se représenter seul",
+        "L'accord préalable du juge pour ouvrir le procès"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une aptitude juridique, pas économique.",
+        "Elle appartient aux personnes majeures et non protégées.",
+        "Les mineurs doivent être représentés par leurs représentants légaux."
+      ],
+      "explication": "La capacité à agir en justice est l'aptitude juridique à être partie à un procès. Elle appartient à toute personne physique majeure non placée sous tutelle, et à toute personne morale régulièrement constituée. Les mineurs et majeurs protégés doivent être représentés par leurs représentants légaux."
+    },
+    {
+      "question": "Une association malgache non déclarée — un simple groupe informel de voisins — peut-elle agir collectivement en justice ?",
+      "choix": [
+        "Oui, tout groupe de personnes peut agir en justice collectivement",
+        "Non, sans personnalité morale (c'est-à-dire sans déclaration officielle), le groupe n'a pas la capacité d'ester en justice",
+        "Oui, à condition d'avoir au moins dix membres",
+        "Oui, si chaque membre signe la demande"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La capacité à agir en justice suppose la personnalité morale pour les groupements.",
+        "La personnalité morale s'acquiert par la déclaration en préfecture.",
+        "Un groupe informel n'a pas la personnalité morale."
+      ],
+      "explication": "Non. Un groupe informel non déclaré ne possède pas la personnalité morale. Or, la capacité d'ester en justice pour une personne morale suppose qu'elle soit régulièrement constituée et ait acquis la personnalité morale. Sans déclaration officielle, chaque membre devrait agir individuellement en son propre nom."
+    },
+    {
+      "question": "Qu'est-ce que la demande initiale en justice ?",
+      "choix": [
+        "La première lettre envoyée à l'adversaire avant le procès",
+        "L'acte qui saisit le juge et ouvre l'instance judiciaire",
+        "La décision du juge rendue à l'issue du procès",
+        "La demande formulée en appel après un jugement défavorable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle est aussi appelée demande introductive d'instance.",
+        "C'est elle qui fait naître le procès.",
+        "Elle saisit le juge pour la première fois."
+      ],
+      "explication": "La demande initiale, aussi appelée demande introductive d'instance, est l'acte par lequel une personne saisit le juge pour la première fois et ouvre l'instance judiciaire. C'est elle qui fait naître le procès. Elle se distingue des demandes incidentes qui peuvent intervenir en cours d'instance."
+    },
+    {
+      "question": "Qu'est-ce qu'une demande reconventionnelle ?",
+      "choix": [
+        "Une demande formulée par un tiers qui veut entrer dans le procès",
+        "La contre-attaque du défendeur qui formule à son tour une prétention contre le demandeur",
+        "La demande d'un demandeur qui modifie ses prétentions initiales",
+        "La demande de renvoi devant un autre tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle vient du défendeur, pas du demandeur.",
+        "C'est une attaque, pas une simple défense.",
+        "La leçon donne l'exemple du défendeur assigné en paiement qui demande lui-même la résolution du contrat."
+      ],
+      "explication": "La demande reconventionnelle est la contre-attaque du défendeur : au lieu de se contenter de répondre à ce qu'on lui reproche, il formule à son tour une prétention contre le demandeur. Exemple : assigné en paiement d'un prix de vente, il demande reconventionnellement la résolution du contrat pour vice caché."
+    },
+    {
+      "question": "Qu'est-ce qu'une demande additionnelle ?",
+      "choix": [
+        "Une demande formulée par une partie pour modifier ou compléter ses prétentions initiales en cours de procès",
+        "Une demande formulée par un tiers pour rejoindre le procès",
+        "Une demande du juge pour obtenir des éclaircissements",
+        "La demande initiale présentée pour la deuxième fois"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Elle intervient en cours de procès, pas au début.",
+        "Elle modifie ou complète ce qui avait été demandé au départ.",
+        "Elle vient d'une partie déjà présente dans le procès."
+      ],
+      "explication": "La demande additionnelle est celle par laquelle une partie au procès modifie ou complète ses prétentions initiales en cours d'instance. Elle permet d'adapter la demande aux évolutions du litige, par exemple pour ajouter une demande d'intérêts oubliée dans la demande initiale."
+    },
+    {
+      "question": "Quel est le premier effet juridique de l'introduction d'une demande en justice ?",
+      "choix": [
+        "La condamnation immédiate du défendeur",
+        "La saisine du juge qui doit désormais statuer sur le litige",
+        "Le gel des biens du défendeur",
+        "La publicité automatique de l'affaire dans les journaux officiels"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La demande ouvre le procès — elle crée une obligation pour le juge.",
+        "À partir de ce moment, le juge ne peut plus ignorer le litige.",
+        "C'est le premier et le plus fondamental des effets de la demande."
+      ],
+      "explication": "Le premier effet de la demande initiale est la saisine du juge : à partir de ce moment, le juge est officiellement saisi du litige et doit statuer. Il ne peut plus refuser d'examiner l'affaire sous prétexte qu'il ne veut pas s'en occuper — sauf à vérifier que les conditions de recevabilité sont remplies."
+    },
+    {
+      "question": "Pourquoi l'interruption de la prescription par la demande en justice est-elle importante ?",
+      "choix": [
+        "Elle permet au défendeur de gagner du temps",
+        "Elle protège le demandeur qui a agi à temps : son droit ne s'éteindra pas pendant le procès",
+        "Elle oblige le juge à rendre sa décision rapidement",
+        "Elle empêche le demandeur de se désister"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La prescription est le délai au-delà duquel un droit s'éteint.",
+        "Sans interruption, le droit pourrait s'éteindre pendant le procès.",
+        "L'introduction de la demande fait repartir le délai à zéro."
+      ],
+      "explication": "L'interruption de la prescription protège le demandeur qui a agi à temps. Sans ce mécanisme, son droit pourrait s'éteindre pendant le déroulement du procès, qui peut durer des mois ou des années. Dès la demande introduite, le délai est interrompu et recommence à courir à zéro — garantissant que le demandeur diligent ne sera pas pénalisé par la durée de la procédure."
+    },
+    {
+      "question": "En quoi consiste la mise en demeure que vaut la demande en justice ?",
+      "choix": [
+        "Le juge ordonne au défendeur de payer immédiatement",
+        "Le débiteur est officiellement informé de la réclamation, ce qui peut déclencher le cours des intérêts moratoires",
+        "Le défendeur est arrêté par la police",
+        "Le contrat entre les parties est automatiquement résilié"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La mise en demeure est une information officielle adressée au débiteur.",
+        "Elle peut déclencher des conséquences financières supplémentaires.",
+        "Les intérêts moratoires courent à partir de la mise en demeure."
+      ],
+      "explication": "La demande en justice vaut mise en demeure : elle informe officiellement le débiteur de la réclamation formulée contre lui. À partir de ce moment, des intérêts moratoires peuvent commencer à courir, c'est-à-dire des intérêts supplémentaires destinés à compenser le retard de paiement. Cela incite le débiteur à s'exécuter rapidement."
+    },
+    {
+      "question": "Quels sont les trois grands types de moyens de défense dont dispose le défendeur ?",
+      "choix": [
+        "La plainte, l'appel et la cassation",
+        "La défense au fond, l'exception de procédure et la fin de non-recevoir",
+        "Le témoignage, l'alibi et le contre-interrogatoire",
+        "Le référé, l'injonction et la saisie conservatoire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces trois types attaquent des aspects différents de la demande.",
+        "L'un porte sur le bien-fondé, l'autre sur la procédure, le troisième sur le droit d'agir.",
+        "La leçon les présente dans cet ordre."
+      ],
+      "explication": "Le défendeur dispose de trois types de moyens : la défense au fond (contester le bien-fondé de la prétention), l'exception de procédure (contester la régularité formelle de la procédure) et la fin de non-recevoir (contester le droit même du demandeur d'agir). Ces moyens peuvent parfois être combinés."
+    },
+    {
+      "question": "Qu'est-ce que la défense au fond ?",
+      "choix": [
+        "Un moyen qui attaque la régularité de la procédure",
+        "Un moyen qui conteste que le demandeur ait le droit d'agir",
+        "Un moyen qui conteste le bien-fondé de la prétention du demandeur après examen du droit",
+        "Un moyen qui demande le renvoi de l'affaire devant un autre tribunal"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Elle porte sur le fond — la vérité des faits et le droit applicable.",
+        "Le défendeur dit : « votre demande est injustifiée ».",
+        "Le juge doit examiner le droit pour trancher."
+      ],
+      "explication": "La défense au fond est le moyen par lequel le défendeur conteste le bien-fondé de la prétention du demandeur. Il soutient que la demande est injustifiée, soit parce que les faits allégués sont faux, soit parce que le droit ne lui donne aucun titre à obtenir ce qu'il réclame. Le juge devra examiner le fond du droit pour trancher."
+    },
+    {
+      "question": "Quelle est la particularité de la fin de non-recevoir par rapport à la défense au fond ?",
+      "choix": [
+        "La fin de non-recevoir est plus longue à plaider",
+        "La fin de non-recevoir sanctionne l'absence du droit d'agir sans que le juge examine le fond du litige",
+        "La fin de non-recevoir ne peut être soulevée qu'en appel",
+        "La fin de non-recevoir doit être accompagnée d'une preuve matérielle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La fin de non-recevoir n'entre pas dans le mérite de la demande.",
+        "Elle dit que le demandeur n'avait pas le droit d'agir — pas que sa demande est fausse.",
+        "L'irrecevabilité peut frapper même une demande fondée."
+      ],
+      "explication": "La fin de non-recevoir tend à faire déclarer le demandeur irrecevable en sa demande sans examen du fond. La défense au fond dit « votre demande est fausse ou injustifiée » (et suppose un examen du droit). La fin de non-recevoir dit « vous n'aviez même pas le droit de demander cela » — sans entrer dans les mérites de la demande."
+    },
+    {
+      "question": "Quelles sont les principales causes d'une fin de non-recevoir ?",
+      "choix": [
+        "Un dossier incomplet ou une erreur de signature",
+        "Le défaut d'intérêt, le défaut de qualité, la prescription éteinte et l'autorité de la chose jugée",
+        "Le mauvais tribunal saisi et l'absence d'avocat",
+        "Le non-paiement des frais de justice et l'absence de l'adversaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce sont des défauts qui touchent au droit d'agir lui-même.",
+        "La prescription empêche d'agir après un certain délai.",
+        "La chose jugée interdit de rejouer un procès déjà tranché."
+      ],
+      "explication": "Les principales causes de fin de non-recevoir sont : le défaut d'intérêt à agir (le demandeur ne retire aucun avantage légitime de la décision), le défaut de qualité (il n'est pas la personne habilitée à agir), la prescription (le droit d'agir est éteint par l'écoulement du temps) et l'autorité de la chose jugée (le même litige a déjà été définitivement tranché)."
+    },
+    {
+      "question": "À quel moment une fin de non-recevoir peut-elle être soulevée ?",
+      "choix": [
+        "Seulement au tout début du procès, avant tout débat",
+        "À tout moment de la procédure, y compris pour la première fois en appel",
+        "Uniquement devant la Cour suprême",
+        "Seulement si l'adversaire est d'accord"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La fin de non-recevoir est différente des exceptions de procédure sur ce point.",
+        "Elle peut être soulevée à n'importe quel stade.",
+        "Elle n'est soumise à aucun délai particulier."
+      ],
+      "explication": "La fin de non-recevoir peut être soulevée à tout moment de la procédure, y compris pour la première fois devant la cour d'appel. Cette flexibilité la distingue des exceptions de procédure, qui doivent en principe être soulevées simultanément et avant toute défense au fond. La fin de non-recevoir n'est soumise à aucun délai."
+    },
+    {
+      "question": "Qu'est-ce qu'une exception d'incompétence ?",
+      "choix": [
+        "L'incompétence alléguée d'un avocat",
+        "Le moyen par lequel le défendeur soutient que le tribunal saisi n'est pas le bon pour juger ce litige",
+        "Le refus du juge de statuer sur une affaire",
+        "La demande d'un expert judiciaire de ne pas être désigné"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une exception de procédure, pas une défense au fond.",
+        "Elle porte sur l'identité du tribunal, pas sur le fond du litige.",
+        "Il peut s'agir d'une incompétence d'attribution ou territoriale."
+      ],
+      "explication": "L'exception d'incompétence est le moyen par lequel le défendeur soutient que le tribunal saisi n'est pas compétent pour juger ce litige. Il peut s'agir d'une incompétence d'attribution (le mauvais type de tribunal) ou d'une incompétence territoriale (le bon type, mais au mauvais endroit). Si elle est retenue, l'affaire est renvoyée devant la bonne juridiction."
+    },
+    {
+      "question": "Quelle règle procédurale importante s'applique aux exceptions de procédure ?",
+      "choix": [
+        "Elles peuvent être soulevées à tout moment, même en appel",
+        "Elles doivent être soulevées simultanément et avant toute défense au fond",
+        "Elles ne peuvent être soulevées qu'une seule fois dans toute la procédure",
+        "Elles doivent être validées par le procureur avant d'être soulevées"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La règle est stricte : toutes en même temps, et en premier.",
+        "On ne peut pas garder une exception de procédure en réserve.",
+        "Soulever une défense au fond avant une exception la rend irrecevable."
+      ],
+      "explication": "Les exceptions de procédure doivent être soulevées simultanément et avant toute défense au fond. On ne peut pas d'abord argumenter sur le fond du litige, puis soulever une exception de procédure. Cette règle de concentration impose de présenter tous les moyens de forme en même temps, en début de procédure, pour éviter les manœuvres dilatoires."
+    },
+    {
+      "question": "Qu'est-ce que l'autorité de la chose jugée ?",
+      "choix": [
+        "Le pouvoir qu'a le juge d'imposer ses décisions à tout le monde",
+        "L'effet attaché aux décisions définitives qui interdit de soumettre à nouveau le même litige entre les mêmes parties",
+        "La réputation d'un tribunal reconnu pour ses bonnes décisions",
+        "Le droit du juge de modifier sa décision après l'avoir rendue"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle protège la sécurité juridique.",
+        "Elle interdit de rejouer indéfiniment le même procès.",
+        "Elle suppose une triple identité : parties, objet, cause."
+      ],
+      "explication": "L'autorité de la chose jugée est l'effet attaché aux décisions judiciaires définitives : elle interdit de soumettre à nouveau le même litige entre les mêmes parties et sur le même objet. Ce principe garantit la sécurité juridique — nul ne peut revivre indéfiniment un procès déjà tranché. Elle suppose la triple identité : mêmes parties, même objet, même cause."
+    },
+    {
+      "question": "Quelles sont les trois identités nécessaires pour que l'autorité de la chose jugée s'applique ?",
+      "choix": [
+        "Identité de juge, identité d'avocat et identité de tribunal",
+        "Identité de parties, identité d'objet et identité de cause",
+        "Identité de date, identité de lieu et identité de procédure",
+        "Identité de dommage, identité de preuve et identité de loi applicable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon parle de « triple identité ».",
+        "Les parties doivent être les mêmes.",
+        "Ce qu'on réclame (objet) et pourquoi (cause) doivent aussi être identiques."
+      ],
+      "explication": "L'autorité de la chose jugée suppose la réunion de trois identités : identité de parties (les mêmes personnes), identité d'objet (la même chose réclamée) et identité de cause (le même fondement juridique). Si l'une de ces identités fait défaut, on est en présence d'un litige différent et un nouveau procès est possible."
+    },
+    {
+      "question": "Vrai ou faux : une décision de première instance est immédiatement définitive et ne peut jamais être contestée.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon présente les voies de recours.",
+        "L'appel permet de soumettre l'affaire à une juridiction supérieure.",
+        "Les voies de recours ordinaires et extraordinaires permettent de contester les décisions."
+      ],
+      "explication": "Faux. La loi prévoit plusieurs voies de recours permettant de contester une décision de justice. L'appel est la voie ordinaire la plus courante : la partie insatisfaite peut soumettre l'affaire à une juridiction supérieure qui réexaminera le litige. D'autres voies extraordinaires (cassation, tierce opposition, révision) existent également dans des situations spécifiques."
+    },
+    {
+      "question": "Quels sont les deux effets principaux de l'appel ?",
+      "choix": [
+        "L'effet dissuasif et l'effet pédagogique",
+        "L'effet suspensif (le jugement de première instance ne peut pas être exécuté) et l'effet dévolutif (la cour d'appel reçoit l'ensemble du litige)",
+        "L'effet rétroactif et l'effet anticipatoire",
+        "L'effet immédiat et l'effet différé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un des effets concerne l'exécution du jugement pendant l'appel.",
+        "L'autre concerne l'étendue de ce que la cour d'appel peut examiner.",
+        "La leçon les présente explicitement."
+      ],
+      "explication": "L'appel produit deux effets essentiels. L'effet suspensif : le jugement de première instance ne peut pas être exécuté tant que l'appel est pendant — la partie condamnée n'a pas à s'exécuter immédiatement. L'effet dévolutif : la cour d'appel reçoit l'ensemble du litige pour le réexaminer en fait et en droit, et peut confirmer, réformer ou annuler le jugement."
+    },
+    {
+      "question": "Qu'est-ce que la tierce opposition ?",
+      "choix": [
+        "L'opposition d'un syndicat à une décision de justice",
+        "La voie de recours permettant à une personne qui n'était pas partie au procès initial de contester un jugement qui lui cause préjudice",
+        "Le recours exercé par le défendeur contre un jugement rendu en son absence",
+        "L'opposition du procureur à l'exécution d'une décision civile"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle est réservée à une personne extérieure au procès initial.",
+        "Ce tiers n'était pas partie, mais le jugement lui cause préjudice.",
+        "C'est une voie de recours extraordinaire."
+      ],
+      "explication": "La tierce opposition est une voie de recours extraordinaire permettant à un tiers — une personne qui n'était pas partie au procès initial — de contester une décision qui lui cause préjudice. Elle lui donne la possibilité de faire valoir ses droits même s'il n'a pas eu l'opportunité de participer au procès initial."
+    },
+    {
+      "question": "Sur quoi porte le pourvoi en cassation ?",
+      "choix": [
+        "Sur les faits de l'affaire, que la Cour suprême réexamine entièrement",
+        "Uniquement sur les questions de droit, pour vérifier si le juge inférieur a correctement appliqué la loi",
+        "Sur la personnalité du juge qui a rendu la décision contestée",
+        "Sur les preuves produites lors du procès"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La cassation ne rejouge pas les faits.",
+        "Elle vérifie l'application du droit, pas la vérité des faits.",
+        "La Cour suprême est juge du droit, pas du fait."
+      ],
+      "explication": "Le pourvoi en cassation ne porte pas sur les faits mais uniquement sur les questions de droit. La Cour suprême vérifie si le juge inférieur a correctement interprété et appliqué la loi — elle ne rejuge pas les faits. Si elle constate une erreur de droit, elle casse la décision et renvoie l'affaire devant une autre juridiction du fond pour être rejugée."
+    },
+    {
+      "question": "Vrai ou faux : pour agir en justice au nom d'une association, son représentant peut toujours agir sans autorisation préalable de l'assemblée générale.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon précise les conditions d'action des personnes morales.",
+        "Un organe de la personne morale doit autoriser l'action.",
+        "Si les statuts ne prévoient rien, c'est généralement l'assemblée générale qui décide."
+      ],
+      "explication": "Faux. Pour agir en justice au nom d'une personne morale comme une association, il faut que l'organe compétent — désigné par les statuts ou, à défaut, généralement l'assemblée générale — ait préalablement autorisé l'action. Le représentant doit être dûment mandaté et pouvoir justifier de ce mandat devant le tribunal."
+    },
+    {
+      "question": "Pourquoi l'action en justice des syndicats est-elle qualifiée de dérogation au principe « nul ne plaide par procureur » ?",
+      "choix": [
+        "Parce que les syndicats agissent toujours avec un avocat",
+        "Parce que les syndicats peuvent agir pour défendre les intérêts d'autres personnes (les travailleurs, la profession) sans mandat individuel de chacun",
+        "Parce que les syndicats ont des droits supérieurs à ceux des individus",
+        "Parce que les syndicats n'ont pas à respecter les conditions ordinaires de recevabilité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le principe est que chacun plaide pour soi-même.",
+        "Les syndicats plaident pour la collectivité professionnelle.",
+        "Ils n'ont pas besoin d'un mandat individuel de chaque travailleur."
+      ],
+      "explication": "Le principe « nul ne plaide par procureur » signifie qu'en règle générale, on ne peut défendre en justice que ses propres droits. Les syndicats sont une dérogation à ce principe : ils peuvent agir pour défendre l'intérêt collectif de la profession — c'est-à-dire les intérêts de l'ensemble des travailleurs d'un secteur — sans avoir besoin d'un mandat individuel de chacun d'eux."
+    },
+    {
+      "question": "Quelle est la différence entre l'irrecevabilité et le rejet au fond d'une demande ?",
+      "choix": [
+        "Il n'y a aucune différence pratique",
+        "L'irrecevabilité sanctionne le droit d'agir (sans examen du fond) ; le rejet au fond conclut après examen que la demande est infondée",
+        "L'irrecevabilité concerne les affaires pénales ; le rejet au fond les affaires civiles",
+        "L'irrecevabilité est définitive ; le rejet au fond peut toujours être contesté"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'irrecevabilité empêche d'entrer dans le fond du litige.",
+        "Le rejet au fond suppose que le juge a examiné la demande en détail.",
+        "Les conséquences pratiques peuvent différer selon lequel s'applique."
+      ],
+      "explication": "L'irrecevabilité sanctionne l'absence du droit d'agir (défaut d'intérêt, de qualité, de capacité, prescription, chose jugée) sans que le juge examine le bien-fondé de la demande. Le rejet au fond intervient après que le juge a examiné le litige et conclut que la prétention du demandeur n'est pas justifiée en droit ou en fait. Dans le premier cas, le juge dit « vous n'aviez pas le droit de demander cela » ; dans le second, « votre demande est infondée »."
+    },
+    {
+      "question": "Un litige a été définitivement tranché par un jugement il y a deux ans. L'une des parties tente de rouvrir le même procès entre les mêmes parties, sur le même objet, pour la même cause. Que peut faire l'autre partie ?",
+      "choix": [
+        "Rien, tout le monde peut toujours saisir un tribunal autant de fois qu'il le souhaite",
+        "Soulever une fin de non-recevoir tirée de l'autorité de la chose jugée pour faire déclarer la nouvelle demande irrecevable",
+        "Demander une exception d'incompétence",
+        "Former un appel contre la nouvelle demande"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La triple identité est réunie : mêmes parties, même objet, même cause.",
+        "Quelle fin de non-recevoir s'applique quand un litige a déjà été tranché ?",
+        "L'autorité de la chose jugée est précisément conçue pour cette situation."
+      ],
+      "explication": "L'autre partie peut soulever une fin de non-recevoir tirée de l'autorité de la chose jugée. La triple identité est réunie : mêmes parties, même objet, même cause. Le principe de l'autorité de la chose jugée interdit de soumettre à nouveau un litige déjà définitivement tranché. Le juge déclarera la nouvelle demande irrecevable sans l'examiner sur le fond."
+    },
+    {
+      "question": "Vrai ou faux : l'intérêt à agir doit être légitime, né, actuel, direct et personnel pour être retenu.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon énumère ces caractères dans la section sur l'intérêt à agir.",
+        "Ces caractères sont tous cumulatifs.",
+        "L'absence de l'un d'eux suffit à rendre la demande irrecevable."
+      ],
+      "explication": "Vrai. L'intérêt à agir doit réunir plusieurs caractères cumulatifs : il doit être légitime (avantage juridiquement protégé, pas illicite), né (le préjudice doit exister, pas être hypothétique), actuel (présent au moment de la demande), direct et personnel (le demandeur doit être lui-même affecté). L'absence de l'un de ces caractères entraîne l'irrecevabilité de la demande."
+    },
+    {
+      "question": "Pourquoi les exceptions de procédure doivent-elles être soulevées avant toute défense au fond ?",
+      "choix": [
+        "Pour permettre au juge de gagner du temps",
+        "Pour éviter les manœuvres dilatoires : une partie qui a commencé à débattre du fond ne peut plus se plaindre de la forme",
+        "Parce que les exceptions de procédure sont plus importantes que la défense au fond",
+        "Parce que la loi le précise sans en donner la raison"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Imagine qu'une partie argumente longuement sur le fond, puis souléve une exception de procédure.",
+        "Ce serait une tactique dilatoire : abuser du temps judiciaire.",
+        "La règle force à présenter tous les moyens de forme en même temps, dès le début."
+      ],
+      "explication": "Cette règle évite les manœuvres dilatoires. Si une partie pouvait d'abord débattre du fond, puis soulever une exception de procédure, elle pourrait faire durer le procès indéfiniment. La règle force à concentrer tous les moyens de forme en début de procédure : une partie qui a commencé à défendre sur le fond est réputée avoir renoncé à ses exceptions de procédure."
+    },
+    {
+      "question": "Qu'est-ce qui distingue la nullité pour vice de forme de la nullité pour vice de fond dans les exceptions de procédure ?",
+      "choix": [
+        "La nullité pour vice de forme est plus grave que la nullité pour vice de fond",
+        "La nullité pour vice de forme exige que le vice ait causé un préjudice à celui qui l'invoque ; la nullité pour vice de fond peut être prononcée sans justifier d'un préjudice",
+        "La nullité pour vice de fond n'existe pas en droit malgache",
+        "Les deux types de nullité produisent exactement les mêmes effets"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le vice de fond est plus grave que le vice de forme.",
+        "La nullité pour vice de forme exige un grief — un préjudice prouvé.",
+        "La nullité pour vice de fond peut être prononcée d'office, sans grief."
+      ],
+      "explication": "La distinction est importante : la nullité pour vice de forme ne peut être prononcée que si le vice a causé un préjudice concret à celui qui l'invoque. La nullité pour vice de fond (défaut de capacité d'ester, défaut de pouvoir du représentant) est plus grave et peut être prononcée même en l'absence de tout préjudice démontré. Les vices de fond sont limitativement énumérés par la loi."
+    },
+    {
+      "question": "Dans quel cas un tiers peut-il former une tierce opposition ?",
+      "choix": [
+        "Lorsqu'il n'est pas d'accord avec la solution juridique retenue par le juge",
+        "Lorsqu'une décision rendue entre deux autres parties lui cause un préjudice direct, alors qu'il n'était pas partie au procès initial",
+        "Lorsque le délai d'appel ordinaire est dépassé pour l'une des parties",
+        "Lorsqu'il souhaite soutenir l'une des parties dans son procès"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La tierce opposition est réservée aux personnes qui n'étaient pas parties.",
+        "Il faut que le jugement leur cause un préjudice direct.",
+        "Ce n'est pas une voie pour soutenir une partie — c'est une voie pour défendre ses propres droits."
+      ],
+      "explication": "Un tiers peut former une tierce opposition lorsqu'une décision rendue entre deux autres parties lui cause un préjudice direct, alors qu'il n'était pas partie au procès initial et n'a donc pas pu faire valoir ses droits. Cette voie de recours extraordinaire lui permet de remettre en cause la décision dans la mesure où elle l'affecte."
+    },
+    {
+      "question": "Vrai ou faux : l'action en justice et le droit substantiel que l'on cherche à défendre sont la même chose.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue soigneusement ces deux notions.",
+        "On peut avoir un droit sans pouvoir l'exercer (prescription, défaut de qualité...).",
+        "L'action est le pouvoir d'agir ; le droit est ce qu'on cherche à protéger."
+      ],
+      "explication": "Faux. L'action en justice (le pouvoir d'agir) et le droit substantiel (le droit que l'on cherche à protéger) sont deux notions distinctes. On peut avoir un droit sans avoir l'action pour le défendre — si la prescription est écoulée, par exemple, le droit existe théoriquement mais l'action est éteinte. Inversement, l'action est le mécanisme procédural ; le droit en est le contenu."
+    },
+    {
+      "question": "Qu'arrive-t-il à une association dont l'objet social ne couvre pas le domaine sur lequel elle agit en justice ?",
+      "choix": [
+        "Rien : une association peut agir sur n'importe quel sujet",
+        "Sa demande peut être déclarée irrecevable faute de qualité ou de capacité, car l'action doit entrer dans l'objet social",
+        "Son président est personnellement responsable",
+        "L'association doit modifier ses statuts avant le procès"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La capacité d'une personne morale est liée à son objet social.",
+        "Une association sportive ne peut pas agir sur des questions fiscales sans rapport avec son objet.",
+        "L'objet social définit les limites de la capacité à agir."
+      ],
+      "explication": "Une association ne peut agir en justice que dans les limites de son objet social. Si l'action engagée est sans rapport avec l'objet pour lequel elle a été constituée, sa demande peut être déclarée irrecevable pour défaut de qualité ou de capacité. C'est pourquoi l'objet social inscrit dans les statuts doit être suffisamment large pour couvrir les domaines dans lesquels l'association entend agir."
+    },
+    {
+      "question": "Résumé final : quelle est la règle fondamentale régissant tout le mécanisme de l'action en justice ?",
+      "choix": [
+        "Toute personne peut agir en justice pour défendre n'importe quel intérêt",
+        "Pour agir en justice, il faut réunir l'intérêt, la qualité et la capacité à agir ; sans l'une de ces conditions, la demande est irrecevable et le juge n'examinera pas le fond",
+        "Seul un avocat peut saisir le tribunal ; les particuliers ne peuvent pas agir seuls",
+        "L'action en justice est un droit absolu qui ne peut jamais être limité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon présente trois conditions cumulatives tout au long.",
+        "Leur absence entraîne toujours la même conséquence.",
+        "C'est la règle de base avant même d'entrer dans le fond du litige."
+      ],
+      "explication": "La règle fondamentale de l'action en justice est la nécessité de réunir les trois conditions cumulatives : l'intérêt à agir (avantage légitime, né, actuel, direct et personnel), la qualité pour agir (habilitation à formuler cette demande) et la capacité à agir (aptitude juridique à être partie au procès). Si l'une de ces conditions fait défaut, la demande est irrecevable — le juge ne l'examinera pas sur le fond, même si la prétention est fondée dans les faits."
+    },
+    {
+      "question": "Quelle est la différence entre la demande en intervention volontaire et la demande en intervention forcée ?",
+      "choix": [
+        "La demande en intervention volontaire vient d'un tiers qui rejoint spontanément le procès ; la demande en intervention forcée est dirigée par une partie contre un tiers pour le faire entrer dans le procès",
+        "Les deux sont identiques : tout tiers peut entrer dans un procès de sa propre initiative",
+        "L'intervention volontaire concerne les affaires civiles ; l'intervention forcée concerne les affaires pénales",
+        "L'intervention volontaire est initiée par le juge ; l'intervention forcée est initiée par les avocats"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Pensez à qui prend l initiative : le tiers lui-même ou une partie déjà au procès ?",
+        "Volontaire signifie que le tiers choisit de rejoindre le procès de sa propre initiative.",
+        "Forcée signifie que le tiers est contraint d entrer dans le procès à la demande d une partie."
+      ],
+      "explication": "La demande en intervention volontaire est celle qu'un tiers forme spontanément pour rejoindre un procès déjà en cours, afin de défendre ses propres droits ou d'obtenir la déclaration que le droit litigieux lui appartient. La demande en intervention forcée est, à l'inverse, dirigée par une partie déjà au procès contre un tiers qu'elle veut faire entrer dans l'instance — par exemple pour lui rendre le jugement opposable ou pour l'appeler en garantie."
+    },
+    {
+      "question": "Vrai ou faux : la demande reconventionnelle ne peut émaner que du défendeur initial, jamais du demandeur initial.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La jurisprudence a précisé ce point.",
+        "Le demandeur initial peut devenir défendeur à une demande reconventionnelle.",
+        "La Cour de cassation a expressément écarté la règle ancienne qui l interdisait."
+      ],
+      "explication": "Faux. L'adage ancien selon lequel « reconvention sur reconvention ne vaut » a été expressément écarté par la jurisprudence. La demande reconventionnelle peut émaner aussi bien du défendeur à la demande initiale que du demandeur initial devenu défendeur à la demande reconventionnelle. Les deux parties peuvent ainsi se retrouver à la fois demandeur et défendeur dans le même procès."
+    },
+    {
+      "question": "Pour qu'une demande incidente soit recevable, quelle condition générale doit-elle respecter ?",
+      "choix": [
+        "Elle doit être formée avant l'audience de plaidoiries",
+        "Elle doit avoir un lien suffisant avec la demande initiale",
+        "Elle doit être rédigée par un avocat inscrit au barreau",
+        "Elle doit être approuvée par les deux parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les demandes incidentes ne sont pas entièrement libres.",
+        "Il doit exister un rapport entre la demande incidente et le litige déjà soumis au juge.",
+        "Ce lien évite que le procès parte dans toutes les directions."
+      ],
+      "explication": "Pour que les demandes incidentes soient recevables, elles doivent avoir un lien suffisant avec la demande initiale. Cette condition de connexité évite que les parties profitent d'un procès en cours pour soulever des prétentions entièrement étrangères au litige initial, ce qui alourdirait inutilement la procédure."
+    },
+    {
+      "question": "Qu'est-ce que la prescription en matière d'action en justice ?",
+      "choix": [
+        "L'obligation pour le juge de rendre sa décision dans un délai précis",
+        "Le délai au-delà duquel le droit d'agir en justice s'éteint, faute d'avoir été exercé à temps",
+        "La liste des médicaments autorisés selon les ordonnances médicales",
+        "La procédure par laquelle un juge peut ordonner une expertise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La prescription est liée au temps qui passe sans que l on agisse.",
+        "Elle éteint le droit d agir — pas le droit lui-même dans certains cas.",
+        "L introduction d une demande en justice l interrompt."
+      ],
+      "explication": "La prescription est le délai légal au-delà duquel le droit d'agir en justice s'éteint, faute d'avoir été exercé à temps. Elle sanctionne la négligence du titulaire du droit qui n'a pas agi suffisamment tôt. L'introduction d'une demande en justice interrompt ce délai, protégeant ainsi le demandeur diligent qui a agi avant l'expiration du délai prescrit."
+    },
+    {
+      "question": "Pourquoi dit-on que la prescription est une cause de fin de non-recevoir ?",
+      "choix": [
+        "Parce qu'elle oblige le juge à rendre une décision rapide",
+        "Parce qu'elle éteint le droit d'agir en justice, rendant toute demande irrecevable une fois le délai expiré",
+        "Parce qu'elle annule le droit substantiel du demandeur",
+        "Parce qu'elle donne lieu à un examen au fond du litige"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une demande prescrite ne peut pas être examinée sur le fond.",
+        "La prescription éteint le droit d agir, pas nécessairement le droit lui-même.",
+        "C est une fin de non-recevoir : irrecevabilité sans examen du fond."
+      ],
+      "explication": "La prescription est une cause de fin de non-recevoir parce qu'elle éteint le droit d'agir en justice. Une fois le délai expiré, le demandeur ne peut plus soumettre sa prétention au juge : la demande sera déclarée irrecevable sans examen du fond. Cela renforce l'importance d'agir rapidement : l'introduction d'une demande en justice interrompt le délai et protège le droit d'agir."
+    },
+    {
+      "question": "Un avocat plaide une exception d'incompétence territoriale après avoir longuement argumenté sur le fond du litige. Cette exception est-elle encore recevable ?",
+      "choix": [
+        "Oui, les exceptions de procédure peuvent toujours être soulevées à tout moment",
+        "Non, les exceptions de procédure doivent être soulevées simultanément et avant toute défense au fond ; en ayant plaidé le fond en premier, l avocat a perdu le droit de soulever cette exception",
+        "Oui, mais seulement si le juge l autorise",
+        "Non, les exceptions territoriales ne peuvent jamais être soulevées par un avocat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les exceptions de procédure doivent être soulevées avant toute défense au fond.",
+        "Plaider le fond en premier revient à renoncer aux exceptions de procédure.",
+        "Cette règle évite les manœuvres dilatoires."
+      ],
+      "explication": "Non. Les exceptions de procédure — dont fait partie l'exception d'incompétence territoriale — doivent être soulevées simultanément et avant toute défense au fond. En ayant d'abord argumenté sur le fond du litige, l'avocat a implicitement renoncé à ses exceptions de procédure. La règle est stricte : toutes les exceptions de procédure doivent être présentées en même temps, au tout début, sous peine d'irrecevabilité."
+    },
+    {
+      "question": "Un major âgé de 25 ans, placé sous tutelle judiciaire en raison d'un trouble mental grave, souhaite engager une action en justice. Comment doit-il procéder ?",
+      "choix": [
+        "Il peut agir seul : l'âge de 25 ans lui confère la pleine capacité",
+        "Il doit être représenté par son tuteur, qui agira en son nom devant le tribunal",
+        "Il doit attendre la levée de la tutelle avant de pouvoir agir",
+        "Il peut agir avec un avocat sans tuteur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La capacité à agir en justice peut faire défaut même à un majeur.",
+        "Les majeurs protégés (sous tutelle) doivent être représentés.",
+        "La leçon précise ce point dans la section sur la capacité à agir."
+      ],
+      "explication": "Un majeur placé sous tutelle judiciaire n'a pas la pleine capacité d'ester en justice. Il doit être représenté par son tuteur qui agira en son nom devant le tribunal. Ce n'est pas l'âge qui confère la capacité à agir en justice — c'est la jouissance pleine et entière des droits civils. La tutelle prive précisément de cette jouissance pour protéger la personne concernée."
+    },
+    {
+      "question": "Qu'est-ce que le recours en révision en matière de voies de recours extraordinaires ?",
+      "choix": [
+        "Un recours permettant à une partie de demander au juge de réviser son barème d honoraires",
+        "Une voie de recours permettant de remettre en cause un jugement définitif si l on découvre une fraude ou un fait nouveau décisif qui n était pas connu lors du procès",
+        "La révision systématique de toutes les décisions de justice au bout de dix ans",
+        "La procédure par laquelle la Cour suprême révise les lois inconstitutionnelles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il porte sur des jugements définitifs — il est donc extraordinaire.",
+        "Il faut une raison grave : fraude ou fait nouveau inconnu lors du premier procès.",
+        "Il ne sert pas à corriger une erreur d appréciation ordinaire."
+      ],
+      "explication": "Le recours en révision est une voie de recours extraordinaire qui permet de remettre en cause un jugement définitif dans des cas exceptionnels : principalement la découverte d'une fraude ayant vicié le procès, ou la révélation d'un fait nouveau décisif qui n'était pas connu et n'aurait pas pu être connu lors du premier procès. Il ne s'agit pas de rejouer le procès par insatisfaction, mais de corriger une injustice fondamentale."
+    },
+    {
+      "question": "Une association de consommateurs malgaches agit en justice contre un fabricant de produits alimentaires dont les denrées sont dangereuses pour la santé. Aucun consommateur individuel identifié ne l a mandatée. Est-ce possible ?",
+      "choix": [
+        "Non, elle doit obligatoirement obtenir un mandat de chaque consommateur affecté",
+        "Oui, sous réserve que la loi ait spécialement habilité cette catégorie d associations à défendre les intérêts collectifs des consommateurs",
+        "Oui, toute association peut toujours agir pour tous les citoyens",
+        "Non, seul l État peut agir pour protéger les consommateurs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne les associations habilitées par la loi.",
+        "Cette habilitation n est pas automatique : elle nécessite un texte légal.",
+        "Sans habilitation légale, l association ne peut agir que pour ses propres intérêts."
+      ],
+      "explication": "Oui, sous réserve d'une habilitation légale. Les associations de consommateurs spécialement reconnues par la loi peuvent agir pour défendre les intérêts collectifs des consommateurs, sans mandat individuel de chaque personne affectée. C'est une dérogation importante au principe que l'on ne plaide que pour soi. Mais cette habilitation ne s'étend pas à toutes les associations : seules celles que la loi a spécialement désignées peuvent exercer ce type d'action collective."
+    },
+    {
+      "question": "Vrai ou faux : un défendeur peut cumuler la défense au fond, une exception de procédure et une fin de non-recevoir dans la même affaire.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon précise que ces moyens peuvent parfois être combinés.",
+        "Un défendeur peut soulever plusieurs types de moyens simultanément.",
+        "Mais les exceptions de procédure doivent être soulevées avant la défense au fond."
+      ],
+      "explication": "Vrai, mais avec une nuance importante. Un défendeur peut effectivement cumuler ces trois types de moyens dans la même affaire. Toutefois, la règle procédurale exige que les exceptions de procédure soient soulevées simultanément et avant toute défense au fond. En pratique, le défendeur présentera d'abord ses exceptions de procédure et fins de non-recevoir (qui peuvent mettre fin au procès sans aller au fond), puis, si celles-ci ne sont pas retenues, sa défense au fond."
+    },
+    {
+      "question": "Qu'est-ce que l'effet dévolutif de l'appel ?",
+      "choix": [
+        "L effet par lequel le jugement de première instance est automatiquement annulé",
+        "L effet par lequel la cour d appel reçoit l ensemble du litige pour le réexaminer en fait et en droit",
+        "L effet par lequel l appel est transmis à la Cour suprême",
+        "L effet par lequel le dossier est renvoyé devant le tribunal de première instance pour rejugement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dévolutif vient de dévoluer — transmettre.",
+        "L ensemble du litige passe à la juridiction supérieure.",
+        "La cour d appel peut confirmer, réformer ou annuler la décision."
+      ],
+      "explication": "L'effet dévolutif de l'appel désigne le transfert de l'ensemble du litige à la cour d'appel. La cour d'appel reçoit l'affaire dans toute son étendue et peut la réexaminer tant en fait qu'en droit. Elle peut confirmer le jugement de première instance, le réformer (le modifier partiellement ou totalement) ou l'annuler (l'infirmer entièrement). Elle n'est pas limitée aux seuls points soulevés dans l'acte d'appel."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Andry est propriétaire d'un terrain à Antsiranana. Son voisin Berthin a construit un mur qui empiète de 80 centimètres sur le terrain d'Andry, sans son accord. Andry veut saisir le tribunal. Son cousin Clément, qui habite à Mahajanga et n'a aucun lien avec ce terrain, est furieux contre Berthin qu'il n'aime pas : il souhaite également saisir le tribunal contre Berthin pour le même empiètement. Analysez les conditions de recevabilité de chacune des deux actions, en distinguant les trois conditions de l'action en justice et en expliquant ce qui différencie la situation d'Andry de celle de Clément.",
+      "choix": [
+        "Les deux peuvent agir car ils sont tous les deux en colère contre Berthin",
+        "Andry peut agir (il réunit les trois conditions : intérêt né, actuel, direct et personnel sur son propre terrain ; qualité de propriétaire lésé ; capacité de majeur non protégé). Clément ne peut pas agir : il n'a aucun intérêt direct et personnel dans ce litige, et aucune qualité pour défendre un terrain qui n'est pas le sien. Sa demande sera déclarée irrecevable.",
+        "Clément peut agir parce qu'il est le cousin d'Andry",
+        "Ni l'un ni l'autre ne peut agir car l'empiètement n'est que de 80 centimètres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous les trois conditions : intérêt, qualité, capacité. Analysez-les pour chacun séparément.",
+        "L'intérêt doit être direct et personnel : qui est directement lésé par l'empiètement ?",
+        "La qualité pour agir : qui est la personne habilitée à défendre ce droit de propriété ?"
+      ],
+      "explication": "Analyse pour Andry. Intérêt à agir : Andry a un intérêt légitime (son droit de propriété est reconnu), né (l'empiètement existe déjà), actuel (il se produit en ce moment), direct et personnel (c'est son propre terrain qui est envahi). Qualité pour agir : Andry est le propriétaire du terrain lésé — c'est bien lui la personne habilitée à défendre ce droit. Capacité à agir : en tant que majeur non protégé, Andry a la pleine capacité d'ester en justice. Les trois conditions sont réunies : l'action d'Andry est recevable. Analyse pour Clément. Intérêt à agir : Clément n'est pas propriétaire du terrain et n'y a aucun droit. Sa colère personnelle contre Berthin n'est pas un intérêt juridiquement légitime et direct. L'intérêt à agir fait défaut. Qualité pour agir : Clément n'est pas le titulaire du droit lésé (le droit de propriété sur le terrain d'Andry). Il n'a reçu aucune habilitation légale pour agir à la place d'Andry. La qualité fait défaut. Résultat : l'action de Clément sera déclarée irrecevable par une fin de non-recevoir. Le juge ne l'examinera pas sur le fond. Ce cas illustre un principe fondamental : le simple fait d'être en colère contre quelqu'un ne confère ni intérêt ni qualité pour agir en justice."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Vonjy a subi un accident de la route causé par un camion appartenant à la société TRANO SARL. Elle a déposé une demande en justice contre TRANO SARL le 3 janvier 2022 pour obtenir réparation de ses préjudices (frais médicaux, incapacité temporaire, préjudice moral). Le procès s'est terminé par un jugement définitif le 15 septembre 2023, qui a condamné TRANO SARL à lui payer 8 millions d'ariary. TRANO SARL a payé. En novembre 2025, Vonjy, estimant que cette somme était trop faible, saisit à nouveau le tribunal pour le même accident, contre TRANO SARL, en réclamant 5 millions d'ariary supplémentaires. TRANO SARL soulève une fin de non-recevoir. (1) Quel type de fin de non-recevoir TRANO SARL peut-elle invoquer ? (2) Quelles conditions doivent être vérifiées ? (3) Quelle sera vraisemblablement la décision du juge et pourquoi ?",
+      "choix": [
+        "TRANO SARL a tort : Vonjy peut toujours réclamer plus d'argent si elle pense qu'elle a été sous-indemnisée",
+        "(1) TRANO SARL invoque la fin de non-recevoir tirée de l'autorité de la chose jugée. (2) Il faut vérifier la triple identité : mêmes parties (Vonjy / TRANO SARL — oui), même objet (réparation du même accident — oui), même cause (responsabilité pour le même fait — oui). (3) Le juge déclarera la nouvelle demande irrecevable : le litige a déjà été définitivement tranché, et on ne peut pas le rejouer.",
+        "TRANO SARL peut soulever une exception d'incompétence territoriale",
+        "Vonjy peut agir car elle réclame un montant différent — ce n'est pas la même demande"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quel principe interdit de rejouer indéfiniment le même procès entre les mêmes parties ?",
+        "Vérifiez la triple identité : les parties, l'objet et la cause sont-ils les mêmes dans les deux procès ?",
+        "Le fait de réclamer un montant différent suffit-il à changer l'objet ou la cause du litige ?"
+      ],
+      "explication": "(1) TRANO SARL invoque la fin de non-recevoir tirée de l'autorité de la chose jugée. Un jugement définitif a déjà tranché ce litige. (2) Vérification de la triple identité. Identité de parties : les deux procès opposent Vonjy à TRANO SARL — identité vérifiée. Identité d'objet : dans les deux cas, Vonjy réclame la réparation des préjudices subis lors du même accident — identité vérifiée. Le fait que le montant réclamé soit différent (8 millions la première fois, 5 millions supplémentaires la seconde) ne crée pas une nouvelle demande : l'objet reste le même. Identité de cause : dans les deux cas, le fondement juridique est la même responsabilité civile de TRANO SARL pour le même accident du 3 janvier 2022 — identité vérifiée. La triple identité est réunie. (3) Le juge déclarera vraisemblablement la nouvelle demande de Vonjy irrecevable. Le litige a été définitivement tranché par le jugement du 15 septembre 2023. Ce jugement a acquis l'autorité de la chose jugée. On ne peut pas soumettre à nouveau le même litige au juge, même en réclamant un montant différent ou en alléguant que la première indemnisation était insuffisante. Vonjy aurait dû soit contester le montant par la voie de l'appel, soit, si un préjudice nouveau s'est révélé après le jugement (ce qui n'est pas le cas ici), saisir le tribunal pour ce préjudice nouveau et distinct. Ce cas illustre l'importance de l'autorité de la chose jugée comme garantie de sécurité juridique, et l'obligation pour les justiciables de faire valoir l'ensemble de leurs prétentions lors du premier procès."
+    }
+  ]
+}
