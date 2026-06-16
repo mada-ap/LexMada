@@ -1,0 +1,828 @@
+{
+  "titre": "La preuve des droits subjectifs",
+  "module": "Module 9 — La preuve des droits subjectifs",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Pourquoi la preuve est-elle aussi importante que le droit lui-même ?",
+      "texte": "On dit souvent en droit que « un droit qu'on ne peut pas prouver n'existe pas ». Cette formule choque au premier abord. Comment un droit pourrait-il ne pas exister alors qu'on est convaincu de l'avoir ? La réalité est cruelle mais logique : en dehors du tribunal, vous pouvez avoir tous les droits du monde. Mais dès qu'un litige surgit et que l'affaire est portée devant un juge, ce qui compte n'est plus ce que vous savez — c'est ce que vous pouvez démontrer. Le juge ne lit pas dans les pensées. Il ne devine pas ce qui s'est passé. Il tranche en fonction des éléments qui lui sont soumis. Si vous ne pouvez pas prouver votre droit, le juge ne peut pas vous donner gain de cause, même s'il pense intérieurement que vous avez raison. L'issue d'un procès dépend donc pour une large part de la preuve. Comprendre le droit de la preuve, c'est comprendre comment on gagne ou on perd un procès — bien au-delà de la simple question de savoir si on a juridiquement raison.",
+      "definition": "Preuve en droit : démonstration, par les moyens admis par la loi, de l'existence d'un fait ou d'un droit que l'on invoque en justice. Ne pas pouvoir prouver son droit équivaut en pratique à ne pas avoir ce droit devant un tribunal."
+    },
+    {
+      "titre": "Les deux questions fondamentales du droit de la preuve",
+      "texte": "Toute la matière de la preuve s'organise autour de deux questions simples en apparence, mais d'une complexité redoutable en pratique. La première question est : qui doit prouver ? C'est ce qu'on appelle la charge de la preuve. Elle désigne la personne qui doit apporter les éléments prouvant ce qu'elle avance. Supporter la charge de la preuve, c'est supporter le risque de la preuve : si vous n'y parvenez pas, vous perdez. La deuxième question est : comment prouver ? Ce sont les modes de preuve. Tous les moyens ne sont pas admis en justice. La loi détermine quels modes de preuve sont recevables, dans quels cas, et quelle valeur le juge doit leur accorder. Ces deux questions structurent l'ensemble du droit de la preuve.",
+      "definition": "Charge de la preuve : désignation de la partie qui doit apporter la démonstration d'un fait en justice. Modes de preuve : moyens admis par la loi pour établir l'existence d'un fait ou d'un droit (écrits, témoignages, aveu, etc.). Ces deux notions structurent tout le droit de la preuve."
+    },
+    {
+      "titre": "La distinction fondamentale : acte juridique et fait juridique",
+      "texte": "Avant d'étudier la charge de la preuve et les modes de preuve, il est indispensable de maîtriser une distinction qui conditionne toute la matière : la distinction entre l'acte juridique et le fait juridique. Un acte juridique est une manifestation intentionnelle de volonté accomplie dans le but de produire des effets de droit. Les conséquences juridiques sont voulues et recherchées par les parties. Un contrat de vente, un prêt, une donation, un mariage — voilà des actes juridiques. Les parties ont voulu les conclure et ont voulu que cela produise des effets de droit (transfert de propriété, obligation de rembourser, etc.). Un fait juridique, en revanche, est un événement — volontaire ou non — qui produit des effets de droit sans que ces effets aient été directement recherchés. Un accident de voiture, un décès, une naissance, un vol, une tempête : ces événements produisent des conséquences juridiques (dommages et intérêts, ouverture d'une succession, responsabilité pénale), mais ces conséquences n'étaient pas le but recherché. La volonté de produire des effets de droit distingue l'acte du fait juridique. Cette distinction est cruciale parce que les règles de preuve ne sont pas les mêmes selon qu'on cherche à prouver un acte ou un fait juridique.",
+      "definition": "Acte juridique : manifestation intentionnelle de volonté destinée à produire des effets de droit voulus et recherchés (contrat, donation, mariage). Fait juridique : événement volontaire ou non qui produit des effets de droit non directement voulus (accident, naissance, décès, vol). Cette distinction détermine les règles de preuve applicables.",
+      "exemple": "Votre voisin Lanto signe avec vous un contrat de prêt de 2 000 000 ariary : c'est un acte juridique — vous avez tous les deux voulu produire cet effet de droit. Un mois plus tard, Lanto vous percute avec sa voiture et vous blesse : c'est un fait juridique — il n'a pas voulu l'accident ni ses conséquences juridiques (l'obligation de vous indemniser). Prouver le prêt et prouver l'accident ne se fait pas de la même façon."
+    },
+    {
+      "titre": "Procédure accusatoire ou inquisitoire : qui mène le jeu ?",
+      "texte": "Pour comprendre la charge de la preuve, il faut d'abord comprendre dans quel type de procédure on se trouve. Il existe deux grands systèmes. Dans la procédure inquisitoire, c'est le juge qui conduit l'instance et réunit lui-même les preuves. C'est lui qui enquête, qui instruit, qui interroge. Ce système est celui du droit pénal : en matière criminelle, c'est un juge d'instruction qui recherche les preuves, pas les parties. Dans la procédure accusatoire, ce sont les parties qui ont l'initiative. Elles apportent elles-mêmes les preuves de ce qu'elles avancent. Le juge est davantage un arbitre qui tranche sur la base des éléments fournis par les plaideurs. En droit civil — qui est notre domaine dans ce cours — la procédure est accusatoire. Ce sont les parties qui doivent prouver, pas le juge. Le juge civil n'est toutefois pas totalement passif : il peut ordonner certaines mesures d'instruction (expertises, enquêtes). Mais l'initiative de la preuve repose sur les parties.",
+      "definition": "Procédure accusatoire : système dans lequel la charge de la preuve repose sur les parties (droit civil). Procédure inquisitoire : système dans lequel le juge conduit l'instruction et réunit les preuves (droit pénal). En droit civil, le système est accusatoire : les parties prouvent ce qu'elles invoquent."
+    },
+    {
+      "titre": "Le principe : la charge de la preuve pèse sur le demandeur",
+      "texte": "En droit civil, le principe de la charge de la preuve est simple : c'est à celui qui réclame quelque chose de le prouver. Celui qui demande l'exécution d'une obligation doit en prouver l'existence. Réciproquement, celui qui prétend s'en être libéré doit prouver son paiement ou l'extinction de son obligation. Ce principe relève du bon sens. Si Jean prétend que Marc lui doit 500 000 ariary, c'est à Jean de prouver qu'il a effectivement prêté cette somme à Marc. Marc n'a pas à prouver qu'il ne doit rien — c'est à Jean de prouver qu'il doit quelque chose. Mais si Jean arrive à établir sa créance, la charge de la preuve bascule : il appartient alors à Marc de prouver qu'il a déjà remboursé. La charge de la preuve se renvoie entre les parties comme une balle de ping-pong. Celui qui porte la charge de la preuve supporte le risque de la preuve : s'il ne parvient pas à prouver ce qu'il invoque, il perd le procès.",
+      "definition": "Principe de la charge de la preuve : en droit civil, celui qui réclame l'exécution d'une obligation doit la prouver. Celui qui se prétend libéré doit prouver le paiement ou l'extinction de son obligation. La charge de la preuve se renvoie entre les parties. Supporter cette charge, c'est supporter le risque de la preuve.",
+      "exemple": "Rabe affirme avoir prêté 1 000 000 ariary à Vola. Vola nie. C'est à Rabe de prouver le prêt (charge de la preuve). S'il y parvient, Vola devra prouver qu'elle a remboursé (la charge bascule). Si Rabe ne prouve pas le prêt, il perd le procès même si en réalité il a bien prêté l'argent. C'est le risque de la preuve."
+    },
+    {
+      "titre": "L'exception au principe : les présomptions légales renversent la charge",
+      "texte": "Le principe selon lequel le demandeur doit prouver souffre d'une exception importante : les présomptions légales. Une présomption est le mécanisme par lequel on déduit un fait inconnu d'un fait connu. Par exemple, on déduit la vitesse d'un véhicule au moment d'un accident (fait inconnu) de la longueur des traces de freinage (fait connu). Les présomptions légales sont celles que la loi elle-même établit. Elles ont un effet radical : elles renversent la charge de la preuve. Celui qui bénéficie d'une présomption légale n'a pas à prouver le fait présumé — la loi le présume en sa faveur. C'est son adversaire qui doit prouver le contraire. Exemple classique : la présomption de paternité. La loi présume que l'enfant conçu ou né pendant le mariage a pour père le mari. La mère n'a pas à prouver que son mari est le père de l'enfant — cela est présumé. C'est le mari, s'il conteste sa paternité, qui doit apporter la preuve contraire. La présomption légale dispense son bénéficiaire de toute preuve et fait peser le risque probatoire sur l'adversaire.",
+      "definition": "Présomption légale : mécanisme par lequel la loi déduit un fait inconnu d'un fait connu, dispensant son bénéficiaire de prouver ce fait et renversant la charge de la preuve sur l'adversaire. À distinguer des présomptions de l'homme (ou présomptions de fait), dégagées non par la loi mais par le juge.",
+      "exemple": "La loi présume que la conception d'un enfant a eu lieu dans les 300 à 180 jours avant sa naissance. Celui qui invoque cette période de conception (pour établir une filiation) n'a pas à la prouver — la loi le fait pour lui. C'est l'adversaire qui prétend que la conception n'a pas eu lieu pendant cette période qui doit le prouver."
+    },
+    {
+      "titre": "Modes de preuve parfaits et imparfaits : une hiérarchie essentielle",
+      "texte": "Tous les modes de preuve n'ont pas la même valeur aux yeux du juge. La loi distingue les modes de preuve parfaits et les modes de preuve imparfaits. Les modes de preuve parfaits s'imposent au juge : quand ils sont présentés, le juge ne peut pas les écarter selon son intime conviction — il est lié par eux. Ce sont les plus fiables, les plus sécurisants. On compte parmi eux : la preuve écrite (acte authentique ou acte sous signature privée), l'aveu judiciaire et le serment décisoire. Les modes de preuve imparfaits, en revanche, ne s'imposent pas au juge. Il les apprécie souverainement — il peut en tenir compte ou non, selon son intime conviction. Ce sont : le témoignage, le serment supplétoire, l'aveu extrajudiciaire, les présomptions de l'homme, et les autres indices. Cette hiérarchie est fondamentale : elle explique pourquoi la loi exige un écrit pour certains actes importants, et pourquoi le juge peut rejeter un témoignage même sincère.",
+      "definition": "Modes de preuve parfaits : modes auxquels le juge est lié (preuve écrite, aveu judiciaire, serment décisoire). Modes de preuve imparfaits : modes que le juge apprécie librement selon son intime conviction (témoignage, présomptions de fait, aveu extrajudiciaire, serment supplétoire, indices). La distinction détermine la force probante de chaque mode."
+    },
+    {
+      "titre": "La preuve écrite (1) : l'acte authentique",
+      "texte": "La preuve écrite est le mode de preuve parfait le plus courant et le plus fiable. Il existe deux types d'écrits parfaits. Le premier est l'acte authentique. Un acte authentique est un acte reçu par un officier public compétent — typiquement un notaire, mais aussi un greffier de tribunal ou un officier d'état civil — dans les formes prévues par la loi. Pour valoir acte authentique, deux conditions doivent être réunies. Il doit être rédigé par un officier public compétent pour cet acte précis. Il doit respecter certaines formalités : signature de l'officier public et des parties, notamment. L'acte authentique bénéficie d'une force probante particulière : il fait foi jusqu'à inscription de faux pour ce que l'officier public a lui-même constaté. C'est le mode de preuve le plus solide qui existe. Pour remettre en cause un acte authentique, il faut engager une procédure spéciale dite d'inscription de faux, très lourde. Si l'écrit ne satisfait pas aux conditions de l'acte authentique, il peut, sous certaines conditions, valoir comme acte sous signature privée.",
+      "definition": "Acte authentique : écrit reçu par un officier public compétent (notaire, greffier, officier d'état civil) dans les formes légales requises. Il fait foi jusqu'à inscription de faux pour ce que l'officier a personnellement constaté. C'est le plus solide des modes de preuve parfaits.",
+      "exemple": "La vente d'un immeuble à Diego-Suarez doit être constatée dans un acte notarié — un acte authentique. Si la vente est contestée ultérieurement, l'acheteur présentera l'acte notarié : le juge sera lié par son contenu pour tout ce que le notaire a constaté (identité des parties, prix, désignation du bien). Remettre en cause cet acte nécessite une procédure d'inscription de faux."
+    },
+    {
+      "titre": "La preuve écrite (2) : l'acte sous signature privée",
+      "texte": "Le deuxième type d'écrit parfait est l'acte sous signature privée. Contrairement à l'acte authentique, il n'est pas reçu par un officier public : c'est un écrit établi directement par les parties elles-mêmes et signé par elles. C'est ce qu'on appelle couramment un contrat écrit, une reconnaissance de dette, un bail signé entre particuliers. Pour valoir acte sous signature privée, l'écrit doit en principe être signé. Mais selon la nature du contrat qu'il constate, d'autres formalités peuvent être requises. Pour un contrat synallagmatique — c'est-à-dire un contrat où les deux parties s'obligent mutuellement — il faut autant d'exemplaires originaux que de parties ayant un intérêt distinct. On parle de la formalité du double. Cette règle évite qu'une partie falsifie l'acte : si chacun détient un exemplaire, toute modification unilatérale sera détectée. Pour une reconnaissance de dette ou tout engagement unilatéral de payer une somme, la loi exige en plus la mention manuscrite de la somme en chiffres et en lettres. Cette exigence protège contre la falsification et attire l'attention du débiteur sur l'étendue de son engagement.",
+      "definition": "Acte sous signature privée : écrit constatant un acte juridique, établi et signé par les parties elles-mêmes sans officier public. Conditions supplémentaires : formalité du double pour les contrats synallagmatiques (autant d'exemplaires que de parties), mention de la somme en chiffres et en lettres pour les reconnaissances de dette.",
+      "exemple": "Tiana signe une reconnaissance de dette envers Hery pour 500 000 ariary. Pour que cet acte vaille preuve parfaite, il doit : être signé par Tiana, mentionner la somme en chiffres (500 000) ET en lettres (cinq cent mille ariary). Si la somme n'est indiquée qu'en chiffres, l'acte ne vaut pas acte sous signature privée — il pourrait valoir au mieux commencement de preuve par écrit."
+    },
+    {
+      "titre": "Négociation vs écrit : la distinction négotium / instrumentum",
+      "texte": "Il existe une confusion fréquente qu'il faut absolument dissiper. Dans la vie courante, le mot contrat désigne deux choses différentes. Il peut désigner l'accord de volontés lui-même — les juristes l'appellent le negotium. Et il peut désigner l'écrit qui constate cet accord — les juristes l'appellent l'instrumentum. Ces deux réalités doivent être soigneusement distinguées. En droit français et dans les systèmes qui s'en inspirent, s'applique le principe du consensualisme : un contrat existe dès que les parties sont d'accord, sans qu'un écrit soit nécessaire à sa validité. Jean peut vendre sa voiture à Marc par simple accord oral — le contrat est valide. L'écrit n'est pas nécessaire pour que le contrat existe et soit valable. Mais l'écrit peut être nécessaire pour prouver ce contrat si un litige survient. L'acte authentique et l'acte sous signature privée sont donc des instrumentum — des écrits servant à prouver un negotium — et non des conditions de validité du contrat en principe. Par exception, certains contrats sont dits solennels : ils doivent être passés par écrit pour être valables (le contrat de mariage, par exemple). Mais ce sont des exceptions.",
+      "definition": "Negotium : accord de volontés, le contrat au sens juridique — ce qui crée les droits et obligations. Instrumentum : écrit qui constate le contrat — ce qui permet de le prouver. Distinction fondamentale : l'écrit n'est pas nécessaire à la validité du contrat (principe du consensualisme), mais peut être nécessaire à sa preuve.",
+      "exemple": "Vous achetez oralement une parcelle de terrain à votre voisin pour 5 000 000 ariary et vous vous serrez la main. Le negotium existe : vous avez un accord de volontés valide. Mais si votre voisin conteste plus tard, vous aurez le plus grand mal à le prouver sans instrumentum — sans écrit. Vous avez le droit mais pas la preuve."
+    },
+    {
+      "titre": "L'aveu judiciaire : une reconnaissance qui s'impose au juge",
+      "texte": "L'aveu judiciaire est la déclaration faite en justice par une partie qui reconnaît l'exactitude d'un fait qui lui est défavorable. C'est un mode de preuve parfait : il lie le juge. Quand une partie avoue en justice, le juge est tenu d'en tenir compte, même s'il pense que l'aveu ne correspond pas à la réalité. L'aveu judiciaire a trois caractères fondamentaux. Il fait foi contre son auteur : le juge est lié par cet aveu et ne peut l'écarter. Il est indivisible : l'adversaire ne peut pas invoquer seulement la partie de l'aveu qui l'arrange et ignorer le reste. Si Marc reconnaît avoir emprunté 1 000 000 ariary à Jean tout en précisant l'avoir déjà remboursé, Jean ne peut pas invoquer seulement la première partie de l'aveu. Il est irrévocable : son auteur ne peut pas se rétracter, sauf s'il prouve avoir commis une erreur de fait. On pourrait penser que l'aveu est rare — quel débiteur va spontanément reconnaître sa dette ? En pratique, les aveux sont souvent involontaires : les affirmations d'une partie dans ses écritures d'avocat peuvent constituer des aveux et être retournées contre elle.",
+      "definition": "Aveu judiciaire : déclaration faite en justice par une partie reconnaissant un fait défavorable à ses intérêts. Il s'impose au juge (preuve parfaite). Il est indivisible (ne peut être tronqué), irrévocable (sauf erreur de fait) et fait foi contre son auteur.",
+      "exemple": "Dans ses conclusions d'avocat, Lanto affirme 'il est vrai que j'ai emprunté la somme à ma voisine, mais je conteste son montant'. Cette affirmation sur le principe du prêt peut constituer un aveu judiciaire partiel : la voisine peut s'en prévaloir pour prouver l'existence du prêt, même si Lanto tente ensuite de nier l'ensemble."
+    },
+    {
+      "titre": "Le serment décisoire : remettre l'issue du procès entre les mains de l'adversaire",
+      "texte": "Le serment décisoire est un mode de preuve parfait très particulier. Il est dit décisoire parce qu'il décide l'issue du litige. Une partie peut déférer le serment à son adversaire — lui proposer de jurer solennellement. Trois issues sont alors possibles. L'adversaire jure : il gagne le procès. L'adversaire refuse de jurer : il perd. L'adversaire réfère le serment à celui qui l'a proposé : ce dernier doit alors jurer pour gagner, ou refuser de jurer et perdre. Ce mécanisme peut paraître étrange, voire archaïque. Il l'est en grande partie. Il était pleinement justifié au XIXe siècle, époque où la religion tenait une place importante dans la vie sociale et où mentir sous serment était ressenti comme un péché grave. Dans une société fortement religieuse, promettre solennellement devant Dieu avait une force contraignante réelle. Dans le droit contemporain, ce mécanisme est rarement utilisé. Son maintien dans les codes est davantage un vestige historique qu'une réalité pratique.",
+      "definition": "Serment décisoire : mode de preuve parfait par lequel une partie propose à son adversaire de jurer solennellement un fait. L'adversaire qui jure gagne ; s'il refuse, il perd. Il peut aussi renvoyer le serment à celui qui l'a proposé. Mode de preuve déféré par une partie à l'autre — à distinguer du serment supplétoire déféré par le juge."
+    },
+    {
+      "titre": "Les modes de preuve imparfaits : le témoignage et les présomptions de fait",
+      "texte": "Les modes de preuve imparfaits ne s'imposent pas au juge — il les apprécie librement selon sa conviction. Le témoignage est la déclaration d'un tiers au litige, relative à des faits dont il a eu personnellement connaissance. Un témoin peut se tromper, se souvenir imparfaitement, ou mentir. Le juge est libre d'accorder ou de refuser toute valeur à un témoignage. Il peut retenir le témoignage d'un seul témoin et écarter dix autres, s'il est convaincu que ce seul témoin dit la vérité. Les présomptions de l'homme — aussi appelées présomptions de fait — sont les conséquences que le juge lui-même tire d'un fait connu pour établir un fait inconnu. Par exemple, la présence régulière d'un époux au domicile d'un tiers (fait connu, constaté par huissier) permet au juge de déduire une liaison adultérine (fait inconnu). Le juge peut aussi se fonder sur tout autre indice : un chèque, un virement bancaire, une lettre, un courriel, un message téléphonique. Ces indices n'ont pas de force probante automatique — le juge les évalue librement. Il ne doit admettre les présomptions de fait que si elles sont graves, précises et concordantes.",
+      "definition": "Témoignage : déclaration d'un tiers sur des faits qu'il a personnellement constatés. Présomptions de fait (ou de l'homme) : déductions tirées par le juge d'un fait connu vers un fait inconnu. Indices : tout élément matériel (courriel, virement, lettre) que le juge peut prendre en compte. Ces trois modes sont imparfaits : le juge les apprécie souverainement.",
+      "exemple": "Dans un procès pour adultère, l'un des époux produit des messages téléphoniques (indices), deux témoignages de voisins et un rapport d'huissier constatant des allées et venues régulières. Aucun de ces éléments ne s'impose au juge. Mais leur accumulation peut le convaincre : les présomptions sont alors graves, précises et concordantes."
+    },
+    {
+      "titre": "L'aveu extrajudiciaire et le serment supplétoire",
+      "texte": "Il ne faut pas confondre l'aveu judiciaire (preuve parfaite) avec l'aveu extrajudiciaire. L'aveu extrajudiciaire est un aveu fait en dehors du procès : dans une lettre, lors d'une expertise, dans une conversation rapportée par un témoin. Il ne s'impose pas au juge. Il n'est recevable que dans les matières où la preuve est libre, et le juge l'apprécie souverainement. Si Rabe a écrit dans un courriel 'je reconnais te devoir cette somme', ce courriel constitue un aveu extrajudiciaire — non pas un aveu judiciaire. Le juge peut l'accepter ou le rejeter. Le serment supplétoire, lui, est déféré non pas par une partie mais par le juge lui-même, pour compléter des preuves insuffisantes. Il ne peut être utilisé que si les preuves fournies ne sont pas totalement suffisantes ni totalement inexistantes. La partie à qui le juge défère ce serment ne peut que jurer ou refuser de jurer. Le juge apprécie librement la valeur de ce serment — il n'est pas lié par lui, contrairement au serment décisoire.",
+      "definition": "Aveu extrajudiciaire : aveu fait hors du procès (lettre, courriel, conversation). Preuve imparfaite, appréciée librement par le juge. À distinguer de l'aveu judiciaire (fait en justice, preuve parfaite). Serment supplétoire : serment déféré par le juge pour compléter des preuves insuffisantes. Preuve imparfaite, à distinguer du serment décisoire (déféré par une partie, preuve parfaite)."
+    },
+    {
+      "titre": "Preuve libre ou preuve légale : le système mixte du droit civil",
+      "texte": "Il existe deux grands systèmes de preuve. Dans le système de la preuve libre (ou preuve morale), toutes les preuves sont admissibles et le juge apprécie librement leur valeur. C'est le système du droit pénal. Dans le système de la preuve légale, la loi détermine les modes de preuve admissibles et impose au juge leur valeur probante. En droit civil, c'est un système mixte qui prévaut. Le principe est celui de la liberté de la preuve, mais il souffre d'importantes exceptions. La liberté de la preuve joue pour deux catégories. Les faits juridiques se prouvent par tous moyens — témoignages, indices, présomptions. Et les actes juridiques dont la valeur est inférieure à 1 500 euros se prouvent également par tous moyens. Pour les actes juridiques dont la valeur est supérieure à 1 500 euros, en revanche, la preuve doit être rapportée par écrit parfait : acte authentique ou acte sous signature privée. Cette limite de 1 500 euros est donc un seuil décisif dans la matière de la preuve des actes juridiques.",
+      "definition": "Système mixte de preuve en droit civil : principe de liberté de la preuve (faits juridiques et actes de moins de 1 500 euros) coexistant avec l'exigence d'un écrit parfait (actes juridiques de plus de 1 500 euros). En droit pénal : système de preuve libre. En droit civil : système mixte.",
+      "exemple": "Un accident de moto (fait juridique) peut être prouvé par témoignages, photos, rapport de gendarmerie — tous moyens admis. Un contrat de prêt de 3 000 000 ariary (acte juridique supérieur à 1 500 euros) doit être prouvé par un écrit parfait — acte authentique ou acte sous signature privée — si un litige survient."
+    },
+    {
+      "titre": "Quand un écrit parfait est exigé : les règles à connaître",
+      "texte": "Quand un acte juridique porte sur une valeur supérieure à 1 500 euros, la preuve doit se faire par écrit parfait. Cette règle a plusieurs conséquences importantes. L'écrit doit permettre de prouver non seulement l'existence de l'acte mais aussi son contenu. Celui qui conteste le contenu d'un acte prouvé par écrit doit lui-même fournir une preuve écrite pour appuyer sa contestation. Autrement dit : pour contredire un écrit, il faut un écrit. Si Jean présente une reconnaissance de dette de 1 000 000 ariary signée par Marc, et que Marc prétend ne devoir que 800 000 ariary, Marc doit prouver par un autre écrit cette différence. L'écrit peut être un document papier ou un document électronique — la loi reconnaît la même valeur à l'écrit électronique qu'à l'écrit papier, à condition que l'identité de son auteur puisse être vérifiée et que son intégrité soit garantie. Une copie fiable d'un écrit parfait a la même valeur que l'original. Mais si l'original existe encore, sa présentation peut toujours être exigée.",
+      "definition": "Règle de l'exigence de l'écrit pour les actes juridiques supérieurs à 1 500 euros : preuve par acte authentique ou acte sous signature privée obligatoire. Pour contredire un écrit, il faut un autre écrit. La copie fiable vaut l'original. L'écrit électronique a la même valeur que l'écrit papier si l'authenticité et l'intégrité sont garanties."
+    },
+    {
+      "titre": "Les exceptions à l'exigence de l'écrit parfait",
+      "texte": "La loi admet que, même lorsqu'un acte juridique porte sur plus de 1 500 euros, la preuve puisse être rapportée autrement que par un écrit parfait. Ces exceptions sont limitées mais importantes. Première exception : l'impossibilité de se procurer un écrit. Il y a impossibilité matérielle quand les circonstances empêchaient de rédiger un écrit au moment de la conclusion du contrat. Il y a impossibilité morale quand les parties avaient des liens d'affection, de famille ou de confiance qui rendaient la demande d'un écrit déplacée — entre amis proches, entre parents et enfants. Deuxième exception : la perte de l'écrit par force majeure. Si l'écrit existait mais a été détruit par un événement imprévisible, irrésistible et extérieur — un incendie, une inondation, une tempête — la preuve peut être rapportée par tous moyens. Troisième exception : l'existence d'un aveu judiciaire ou d'un serment décisoire. Ces modes de preuve parfaits peuvent suppléer l'absence d'écrit. Quatrième exception : l'existence d'un commencement de preuve par écrit corroboré par d'autres éléments.",
+      "definition": "Exceptions à l'exigence de l'écrit pour les actes de plus de 1 500 euros : impossibilité de se procurer un écrit (matérielle ou morale), perte de l'écrit par force majeure, aveu judiciaire, serment décisoire, commencement de preuve par écrit complété par d'autres moyens.",
+      "exemple": "Votre père vous prête 3 000 000 ariary sans écrit — il serait déplacé entre père et fils de rédiger un contrat formel (impossibilité morale). Si un litige survient plus tard, vous pourrez prouver ce prêt par tous moyens : témoignages, virements bancaires, messages, présomptions — malgré la valeur supérieure à 1 500 euros."
+    },
+    {
+      "titre": "Le commencement de preuve par écrit : un écrit imparfait qui ouvre la porte",
+      "texte": "Le commencement de preuve par écrit est une notion essentielle en pratique. C'est un écrit qui ne remplit pas toutes les conditions d'un acte sous signature privée ou d'un acte authentique — donc insuffisant seul comme preuve parfaite — mais qui est suffisant pour permettre d'autres preuves de venir le compléter. Pour constituer un commencement de preuve par écrit, trois conditions doivent être réunies. Il faut un écrit — pas une preuve verbale. Cet écrit doit émaner de celui à qui on l'oppose, c'est-à-dire de l'adversaire. Si Jean veut prouver que Marc lui doit de l'argent, le commencement de preuve doit être un écrit rédigé ou signé par Marc — pas par Jean. Enfin, cet écrit doit rendre vraisemblable le fait allégué. Une lettre de Marc disant 'je te remercie pour ce que tu as fait' ne rend pas vraisemblable une dette d'argent. En revanche, une lettre disant 'merci de m'avoir prêté cette somme' est un commencement de preuve. Ce commencement de preuve doit être complété par d'autres éléments : témoignages, indices, présomptions. Il ouvre la porte — il ne suffit pas à lui seul.",
+      "definition": "Commencement de preuve par écrit : écrit émanant de celui à qui on l'oppose, qui rend vraisemblable le fait allégué, mais insuffisant à lui seul comme preuve parfaite. Il permet, une fois établi, de compléter la preuve par tous autres moyens (témoignages, indices, présomptions).",
+      "exemple": "Nivo prête 2 000 000 ariary à son ami Hery sans rédiger de reconnaissance de dette. Hery lui envoie ensuite un message : 'Aucune inquiétude, je te rembourse dès que possible pour les 2 millions.' Ce message émanant de Hery et rendant vraisemblable le prêt constitue un commencement de preuve par écrit. Nivo peut le compléter par des témoignages ou le relevé de virement bancaire."
+    },
+    {
+      "titre": "Exception spéciale : la liberté de preuve entre commerçants",
+      "texte": "Une exception notable à l'exigence de l'écrit concerne les commerçants. Entre commerçants, les actes de commerce peuvent se prouver par tous moyens, quelle que soit leur valeur. La raison en est pratique et économique. Dans l'exercice de leur activité, les commerçants concluent un très grand nombre de transactions, souvent rapidement. Leur imposer un écrit pour chaque opération commerciale serait une contrainte excessive qui paralyserait le commerce. Le droit commercial leur fait donc confiance et libéralise la preuve. Attention toutefois aux litiges entre un commerçant et un non-commerçant. Cette liberté ne doit pas jouer au détriment du non-commerçant. Dans ce cas, le non-commerçant qui veut prouver contre le commerçant peut le faire par tous moyens — la liberté commerciale lui profite. Mais le commerçant qui veut prouver contre le non-commerçant doit respecter les règles ordinaires : écrit parfait si la valeur dépasse 1 500 euros.",
+      "definition": "Exception commerciale : entre commerçants, les actes de commerce se prouvent par tous moyens quelle que soit leur valeur. En cas de litige mixte (commerçant vs non-commerçant) : le non-commerçant peut prouver par tous moyens contre le commerçant, mais le commerçant doit prouver par écrit (si valeur > 1 500 euros) contre le non-commerçant."
+    },
+    {
+      "titre": "Synthèse : le schéma de la preuve en droit civil",
+      "texte": "Voici comment raisonner face à n'importe quelle question de preuve en droit civil. Première étape : identifier ce qu'on cherche à prouver — est-ce un acte juridique ou un fait juridique ? Si c'est un fait juridique (accident, naissance, décès, vol) : preuve libre par tous moyens. Si c'est un acte juridique, passer à la deuxième étape. Deuxième étape : quelle est la valeur de l'acte ? Moins de 1 500 euros : preuve libre. Plus de 1 500 euros : preuve par écrit parfait en principe. Troisième étape : existe-t-il une exception à l'exigence de l'écrit ? Impossibilité matérielle ou morale, force majeure, aveu judiciaire, serment décisoire, commencement de preuve par écrit corroboré. Si oui : preuve par tous moyens possible. Quatrième étape : les parties sont-elles des commerçants dans un acte de commerce ? Si oui : preuve libre quelles que soient les valeurs. Ce raisonnement en quatre étapes permet de traiter n'importe quelle problématique de preuve avec méthode.",
+      "definition": "Schéma du raisonnement sur la preuve : (1) Acte ou fait juridique ? (2) Si acte : valeur supérieure ou inférieure à 1 500 euros ? (3) Y a-t-il une exception à l'exigence de l'écrit ? (4) Le litige est-il entre commerçants ? Ces quatre étapes permettent de déterminer quels modes de preuve sont admissibles."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Pourquoi dit-on qu'un droit qu'on ne peut pas prouver n'existe pas en pratique ?",
+      "choix": [
+        "Parce que le juge peut lire dans les pensées des parties",
+        "Parce que le juge tranche en fonction des éléments prouvés qui lui sont soumis : sans preuve, il ne peut pas donner gain de cause même si la partie a réellement raison",
+        "Parce que les droits non prouvés sont automatiquement annulés par la loi",
+        "Parce que les parties peuvent refuser de plaider sans preuve"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juge ne devine pas ce qui s'est passé.",
+        "L'issue d'un procès dépend des éléments soumis au juge.",
+        "Avoir raison et pouvoir le prouver sont deux choses différentes."
+      ],
+      "explication": "Le juge ne peut trancher qu'en fonction des éléments de preuve qui lui sont soumis. Il ne lit pas dans les pensées et ne peut pas condamner un défendeur sur la seule conviction de l'une des parties. Si une partie ne peut pas prouver son droit, le juge ne peut pas lui donner gain de cause — même s'il suspecte intérieurement qu'elle a raison. Ne pas pouvoir prouver son droit équivaut donc en pratique à ne pas avoir ce droit."
+    },
+    {
+      "question": "Quelles sont les deux questions fondamentales que pose le droit de la preuve ?",
+      "choix": [
+        "Pourquoi prouver ? et Quand prouver ?",
+        "Qui doit prouver (la charge de la preuve) ? et Comment prouver (les modes de preuve) ?",
+        "Quel tribunal est compétent ? et Quel délai respecter ?",
+        "Qui est le juge ? et Quand rend-il sa décision ?"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La première question porte sur la personne qui doit prouver.",
+        "La deuxième question porte sur les moyens utilisés pour prouver.",
+        "La leçon organise tout son plan autour de ces deux questions."
+      ],
+      "explication": "Le droit de la preuve s'organise autour de deux questions essentielles : qui doit prouver ? C'est la charge de la preuve — elle désigne la partie qui doit apporter les éléments de preuve sous peine de perdre le procès. Et comment prouver ? Ce sont les modes de preuve — les moyens admis par la loi pour établir un droit en justice."
+    },
+    {
+      "question": "Quelle est la différence entre un acte juridique et un fait juridique ?",
+      "choix": [
+        "Un acte juridique est toujours écrit ; un fait juridique est toujours oral",
+        "Un acte juridique est une manifestation intentionnelle de volonté destinée à produire des effets de droit voulus ; un fait juridique est un événement qui produit des effets de droit non directement recherchés",
+        "Un acte juridique est toujours légal ; un fait juridique peut être illégal",
+        "Un acte juridique concerne uniquement les contrats commerciaux ; un fait juridique concerne les accidents"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La clé de la distinction est la volonté de produire des effets de droit.",
+        "Un contrat est voulu. Un accident n'est pas voulu dans ses conséquences juridiques.",
+        "Un vol est volontaire comme action, mais ses effets juridiques (responsabilité pénale) ne sont pas recherchés."
+      ],
+      "explication": "La distinction repose sur la volonté de produire des effets de droit. L'acte juridique est une manifestation intentionnelle de volonté — le contrat, la donation, le mariage — dont les effets de droit sont voulus. Le fait juridique est un événement — accident, naissance, décès, vol — qui produit des effets de droit sans que ces effets aient été directement recherchés. Cette distinction est cruciale car les règles de preuve diffèrent."
+    },
+    {
+      "question": "Parmi ces exemples, lequel est un fait juridique ?",
+      "choix": [
+        "Un contrat de bail signé entre un propriétaire et un locataire",
+        "Une reconnaissance de dette signée par un débiteur",
+        "Un accident de voiture qui blesse un piéton",
+        "Un contrat de mariage rédigé chez le notaire"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le fait juridique produit des effets de droit non directement recherchés.",
+        "Personne ne 'veut' les conséquences juridiques d'un accident au sens où on veut un contrat.",
+        "Les trois autres exemples sont des manifestations intentionnelles de volonté."
+      ],
+      "explication": "Un accident de voiture est un fait juridique : c'est un événement involontaire (dans ses conséquences juridiques) qui produit des effets de droit — l'obligation d'indemniser la victime. Le contrat de bail, la reconnaissance de dette et le contrat de mariage sont des actes juridiques : leurs parties ont volontairement choisi de les conclure pour produire des effets de droit précis."
+    },
+    {
+      "question": "En droit civil, qui a la charge de la preuve ?",
+      "choix": [
+        "Le juge, qui doit lui-même rechercher les preuves",
+        "Le défendeur, qui doit prouver qu'il ne doit rien",
+        "Le demandeur, qui réclame quelque chose et doit prouver son droit",
+        "L'avocat, qui est responsable des preuves de son client"
+      ],
+      "reponse": 2,
+      "indices": [
+        "En droit civil, la procédure est accusatoire : les parties prouvent.",
+        "Le principe : celui qui réclame doit prouver.",
+        "C'est une règle de bon sens : on ne prouve pas une négative facilement."
+      ],
+      "explication": "En droit civil, la charge de la preuve pèse sur le demandeur : celui qui réclame l'exécution d'une obligation doit prouver son existence. Réciproquement, celui qui se prétend libéré d'une obligation déjà prouvée doit en justifier l'extinction. La charge de la preuve peut ainsi basculer d'une partie à l'autre au cours du procès."
+    },
+    {
+      "question": "Vrai ou faux : en droit pénal, c'est le juge d'instruction qui mène l'enquête et réunit les preuves (procédure inquisitoire).",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La procédure inquisitoire confie l'initiative au juge.",
+        "La procédure accusatoire confie l'initiative aux parties.",
+        "La leçon précise que le droit pénal est inquisitoire, le droit civil est accusatoire."
+      ],
+      "explication": "Vrai. En droit pénal, la procédure est inquisitoire : c'est le juge (juge d'instruction) qui conduit l'enquête, réunit les preuves et instruit le dossier. En droit civil, au contraire, la procédure est accusatoire : ce sont les parties qui ont la charge d'apporter leurs preuves. Le juge civil peut ordonner certaines mesures d'instruction mais n'a pas l'initiative principale."
+    },
+    {
+      "question": "Rabe affirme avoir prêté 2 000 000 ariary à Vola. Vola nie. Rabe arrive à prouver le prêt. La charge de la preuve bascule alors. Sur qui repose-t-elle désormais ?",
+      "choix": [
+        "Elle revient à Rabe, qui doit aussi prouver que Vola n'a pas remboursé",
+        "Elle repose désormais sur Vola, qui doit prouver qu'elle a remboursé ou que sa dette est éteinte",
+        "Elle passe au juge, qui doit trancher sans autre preuve",
+        "Elle disparaît : le procès est terminé dès que Rabe a prouvé le prêt"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La charge de la preuve se renvoie comme une balle de ping-pong.",
+        "Une fois le prêt prouvé, qui doit prouver son remboursement ?",
+        "La leçon dit : celui qui se prétend libéré doit justifier le paiement."
+      ],
+      "explication": "Une fois le prêt prouvé par Rabe, la charge de la preuve bascule sur Vola. C'est désormais à elle de prouver qu'elle s'est libérée de sa dette — par le remboursement, par une remise de dette, ou par tout autre mode d'extinction de l'obligation. Si elle n'y parvient pas, elle perd le procès. C'est le mécanisme du ping-pong probatoire."
+    },
+    {
+      "question": "Qu'est-ce qu'une présomption légale et quel est son effet sur la charge de la preuve ?",
+      "choix": [
+        "Une déduction que le juge tire librement d'un fait connu — elle n'affecte pas la charge de la preuve",
+        "Un mécanisme par lequel la loi déduit un fait inconnu d'un fait connu, dispensant son bénéficiaire de prouver ce fait et renversant la charge de la preuve sur l'adversaire",
+        "Une règle qui oblige toujours le défendeur à prouver, quelle que soit la situation",
+        "Une preuve par écrit qui fait foi jusqu'à preuve contraire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La présomption légale est posée par la loi, pas par le juge.",
+        "Elle renverse la charge de la preuve : celui qui bénéficie de la présomption n'a pas à prouver.",
+        "C'est l'adversaire qui doit prouver que la présomption ne s'applique pas."
+      ],
+      "explication": "Une présomption légale est un mécanisme par lequel la loi déduit un fait inconnu d'un fait connu. Son effet est radical : elle dispense son bénéficiaire de prouver le fait présumé et renverse la charge de la preuve sur l'adversaire. Celui qui veut combattre la présomption doit en apporter la preuve contraire. C'est l'exception principale au principe selon lequel le demandeur doit prouver."
+    },
+    {
+      "question": "La loi présume que l'enfant conçu pendant le mariage a pour père le mari (présomption de paternité). Qui doit prouver quoi si le mari conteste ?",
+      "choix": [
+        "La mère doit prouver que son mari est bien le père de l'enfant",
+        "L'enfant doit prouver sa filiation dès sa majorité",
+        "Le mari qui conteste doit prouver qu'il n'est pas le père de l'enfant — c'est lui qui supporte le risque de la preuve",
+        "Le juge tranche sans preuve en consultant un expert"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La présomption de paternité bénéficie à l'enfant et à la mère.",
+        "La présomption renverse la charge de la preuve.",
+        "Celui qui veut contester la présomption doit prouver le contraire."
+      ],
+      "explication": "La présomption de paternité renverse la charge de la preuve. L'enfant est présumé avoir pour père le mari de sa mère : ni la mère ni l'enfant n'ont à le prouver. C'est le mari qui conteste sa paternité qui doit en apporter la preuve — par exemple par un test ADN démontrant l'absence de lien biologique. C'est lui qui supporte le risque de la preuve."
+    },
+    {
+      "question": "Quelle est la différence entre un mode de preuve parfait et un mode de preuve imparfait ?",
+      "choix": [
+        "Un mode parfait est présenté en original ; un mode imparfait est une copie",
+        "Un mode parfait s'impose au juge qui est lié par lui ; un mode imparfait est apprécié librement par le juge selon son intime conviction",
+        "Un mode parfait concerne les actes juridiques ; un mode imparfait concerne les faits juridiques",
+        "Il n'y a pas de différence : tous les modes de preuve ont la même valeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Parfait ne veut pas dire 'sans erreur' — il veut dire que le juge est lié.",
+        "Le juge peut rejeter un témoignage sincère si c'est un mode imparfait.",
+        "Un aveu judiciaire s'impose au juge même s'il le juge faux."
+      ],
+      "explication": "Un mode de preuve parfait s'impose au juge — il est lié par son contenu et ne peut pas l'écarter selon sa conviction personnelle. Ce sont la preuve écrite (acte authentique ou sous signature privée), l'aveu judiciaire et le serment décisoire. Un mode de preuve imparfait est apprécié librement par le juge selon son intime conviction — il peut l'accepter ou le rejeter. Ce sont le témoignage, les présomptions de fait, l'aveu extrajudiciaire, le serment supplétoire et les indices."
+    },
+    {
+      "question": "Qu'est-ce qu'un acte authentique ?",
+      "choix": [
+        "Tout document signé par les parties à un contrat",
+        "Un écrit reçu par un officier public compétent dans les formes prévues par la loi",
+        "Un contrat passé entre deux commerçants enregistrés",
+        "Un écrit dont la copie a été certifiée conforme par un tiers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acte authentique nécessite un officier public.",
+        "Un notaire, un greffier ou un officier d'état civil peut recevoir un acte authentique.",
+        "Il doit respecter des formalités particulières prévues par la loi."
+      ],
+      "explication": "Un acte authentique est un écrit reçu par un officier public compétent — typiquement un notaire — dans les formes légales requises. Il bénéficie d'une force probante particulière : il fait foi jusqu'à inscription de faux pour ce que l'officier public a lui-même constaté. Pour le remettre en cause, il faut engager une procédure spéciale d'inscription de faux, ce qui en fait le mode de preuve le plus solide."
+    },
+    {
+      "question": "Vrai ou faux : pour remettre en cause un acte authentique, il suffit de dire devant le juge qu'il est faux.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acte authentique a une force probante particulière.",
+        "Il fait foi jusqu'à inscription de faux.",
+        "L'inscription de faux est une procédure spéciale, distincte du procès ordinaire."
+      ],
+      "explication": "Faux. Pour contester un acte authentique, il ne suffit pas de l'affirmer : il faut engager une procédure spéciale appelée inscription de faux. C'est une procédure lourde et distincte du procès au fond. Tant que cette procédure n'a pas abouti, l'acte authentique fait foi de son contenu. C'est ce qui en fait le mode de preuve le plus solide du droit civil."
+    },
+    {
+      "question": "Qu'est-ce qu'un acte sous signature privée ?",
+      "choix": [
+        "Un acte rédigé en secret entre les parties, sans que les tiers en aient connaissance",
+        "Un écrit constatant un acte juridique, établi et signé par les parties elles-mêmes sans officier public",
+        "Un acte rédigé uniquement par des personnes privées, par opposition aux fonctionnaires",
+        "Un acte numérique protégé par un mot de passe"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'oppose à l'acte authentique qui lui nécessite un officier public.",
+        "Les parties le rédigent et le signent elles-mêmes.",
+        "Une reconnaissance de dette entre particuliers en est un exemple."
+      ],
+      "explication": "Un acte sous signature privée est un écrit constatant un acte juridique, établi et signé directement par les parties, sans l'intervention d'un officier public. C'est la forme ordinaire des contrats écrits entre particuliers : bail entre particuliers, reconnaissance de dette, contrat de prêt entre amis rédigé sur papier. Contrairement à l'acte authentique, il ne nécessite pas de notaire ou d'officier d'état civil."
+    },
+    {
+      "question": "Tiana signe une reconnaissance de dette de 500 000 ariary envers Hery. Pour que cet acte vaille preuve parfaite, que doit-il contenir en plus de la signature ?",
+      "choix": [
+        "Le numéro de carte d'identité de Tiana et la date de naissance de Hery",
+        "La mention de la somme en chiffres ET en lettres, de la main de Tiana",
+        "Le tampon d'un notaire ou d'un avocat",
+        "Deux témoins qui contresignent"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi exige une formalité particulière pour les reconnaissances de dette.",
+        "La mention en lettres ET en chiffres protège contre la falsification.",
+        "C'est Tiana (le débiteur) qui doit écrire cette mention de sa propre main."
+      ],
+      "explication": "Pour une reconnaissance de dette ou tout engagement unilatéral de payer une somme, la loi exige, en plus de la signature, la mention manuscrite de la somme en chiffres et en lettres. Cette double mention protège contre la falsification (il est difficile d'altérer simultanément les deux formes d'écriture) et attire l'attention du débiteur sur l'étendue exacte de son engagement. Sans cette mention, l'acte ne vaut pas acte sous signature privée."
+    },
+    {
+      "question": "Pour un contrat synallagmatique (où les deux parties s'obligent), combien d'exemplaires originaux doivent être rédigés pour que l'acte vaille preuve parfaite ?",
+      "choix": [
+        "Un seul exemplaire suffit, conservé par le créancier",
+        "Autant d'exemplaires que de parties ayant un intérêt distinct (formalité du double)",
+        "Trois exemplaires : un par partie et un pour le tribunal",
+        "Le nombre d'exemplaires n'a aucune importance juridique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle protège contre les falsifications.",
+        "Si chaque partie a son exemplaire, personne ne peut modifier l'acte unilatéralement.",
+        "La leçon appelle cela la 'formalité du double'."
+      ],
+      "explication": "Pour un contrat synallagmatique, l'acte sous signature privée doit être rédigé en autant d'exemplaires originaux qu'il y a de parties ayant un intérêt distinct. C'est la formalité du double. Elle garantit que chaque partie dispose d'un exemplaire identique, empêchant toute modification unilatérale. Si un seul exemplaire existe et qu'une partie le modifie, l'autre n'a aucun moyen de le prouver."
+    },
+    {
+      "question": "Qu'est-ce que le negotium et l'instrumentum ?",
+      "choix": [
+        "Le negotium est le prix du contrat ; l'instrumentum est le bien échangé",
+        "Le negotium est l'accord de volontés (le contrat comme rencontre des volontés) ; l'instrumentum est l'écrit qui constate cet accord",
+        "Le negotium est le tribunal compétent ; l'instrumentum est la procédure suivie",
+        "Ce sont deux types d'actes authentiques : notarial et judiciaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces termes latins désignent deux réalités différentes derrière le mot 'contrat'.",
+        "On peut avoir un negotium sans instrumentum : un accord oral est valide.",
+        "L'instrumentum sert à prouver le negotium."
+      ],
+      "explication": "Le negotium est l'accord de volontés — le contrat au sens juridique de rencontre des volontés, qui crée des droits et des obligations. L'instrumentum est l'écrit qui constate cet accord — le document papier ou électronique. Cette distinction est fondamentale : en principe, un contrat (negotium) est valide même sans écrit (instrumentum). L'écrit n'est requis en principe que pour la preuve, pas pour la validité."
+    },
+    {
+      "question": "Jean et Marc se mettent d'accord oralement sur la vente d'un véhicule pour 800 000 ariary. Aucun écrit n'est rédigé. Le contrat est-il valide ?",
+      "choix": [
+        "Non, un contrat de vente doit toujours être rédigé par écrit pour être valide",
+        "Oui, en principe : le principe du consensualisme signifie qu'un contrat existe dès l'accord de volontés, sans écrit nécessaire à sa validité",
+        "Non, sauf si un notaire valide l'accord ultérieurement",
+        "Oui, mais seulement si la valeur est inférieure à 1 500 euros"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon présente le principe du consensualisme.",
+        "L'écrit n'est pas nécessaire à la validité du contrat, mais peut l'être pour sa preuve.",
+        "Les contrats solennels (mariage, etc.) sont des exceptions."
+      ],
+      "explication": "Oui, le contrat est valide. En droit civil français et dans les systèmes qui s'en inspirent, s'applique le principe du consensualisme : un contrat existe et est valide dès que les parties sont d'accord sur ses éléments essentiels, sans qu'un écrit soit nécessaire à sa validité. L'écrit (instrumentum) peut en revanche être nécessaire pour prouver le contrat (negotium) si un litige survient. Par exception, certains contrats solennels doivent être passés par écrit pour être valables."
+    },
+    {
+      "question": "Quels sont les trois modes de preuve parfaits en droit civil ?",
+      "choix": [
+        "Le témoignage, les présomptions et les indices",
+        "La preuve écrite (acte authentique ou sous signature privée), l'aveu judiciaire et le serment décisoire",
+        "L'aveu extrajudiciaire, le serment supplétoire et les présomptions légales",
+        "L'expertise, le témoignage et la présomption de l'homme"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les modes parfaits s'imposent au juge — il est lié par eux.",
+        "La preuve par écrit est le plus courant des modes parfaits.",
+        "L'aveu judiciaire (en justice) est parfait ; l'aveu extrajudiciaire (hors justice) est imparfait."
+      ],
+      "explication": "Les trois modes de preuve parfaits sont : la preuve écrite (acte authentique ou acte sous signature privée), l'aveu judiciaire et le serment décisoire. Ces trois modes s'imposent au juge — il ne peut pas les écarter selon sa conviction personnelle. Ils offrent le plus haut niveau de sécurité probatoire."
+    },
+    {
+      "question": "Qu'est-ce que l'aveu judiciaire et quels sont ses trois caractères essentiels ?",
+      "choix": [
+        "Une déclaration faite par un tiers en faveur de l'une des parties ; il est divisible, révocable et a force indicative",
+        "Une déclaration faite en justice par une partie reconnaissant un fait défavorable ; il fait foi contre son auteur, il est indivisible et irrévocable (sauf erreur de fait)",
+        "Une déclaration faite hors procès dans une lettre ; il est apprécié librement par le juge",
+        "Une déclaration faite par l'avocat au nom de son client ; il peut toujours être rétracté"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Judiciaire = fait en justice, devant le tribunal.",
+        "Il s'oppose à l'aveu extrajudiciaire, fait hors du procès.",
+        "Ses trois caractères s'opposent à ceux de l'aveu extrajudiciaire."
+      ],
+      "explication": "L'aveu judiciaire est la déclaration faite en justice par une partie qui reconnaît un fait défavorable à ses intérêts. Il a trois caractères : il fait foi contre son auteur (le juge est lié par cet aveu), il est indivisible (on ne peut pas en invoquer seulement une partie), et il est irrévocable sauf en cas d'erreur de fait. C'est un mode de preuve parfait qui s'impose au juge même si celui-ci pense que l'aveu ne correspond pas à la réalité."
+    },
+    {
+      "question": "Marc reconnaît en justice avoir emprunté 1 000 000 ariary à Jean 'mais l'avoir déjà remboursé'. Jean peut-il invoquer la seule première partie de cet aveu ?",
+      "choix": [
+        "Oui, car c'est la partie qui lui est favorable",
+        "Non, car l'aveu judiciaire est indivisible : Jean doit prendre l'aveu dans son intégralité",
+        "Oui, mais seulement si le tribunal l'y autorise expressément",
+        "Non, car un aveu partiel n'a aucune valeur juridique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un des caractères de l'aveu judiciaire est l'indivisibilité.",
+        "On ne peut pas 'découper' un aveu pour n'en garder que la partie favorable.",
+        "Marc a dit deux choses : il faut prendre les deux ensemble."
+      ],
+      "explication": "Non. L'aveu judiciaire est indivisible. Jean ne peut pas invoquer seulement la reconnaissance du prêt (première partie de l'aveu) en ignorant l'affirmation du remboursement (deuxième partie). Il doit prendre l'aveu dans son intégralité. L'indivisibilité protège celui qui avoue : son adversaire ne peut pas utiliser l'aveu de façon sélective en sa défaveur."
+    },
+    {
+      "question": "En quoi consiste le serment décisoire et pourquoi est-il dit 'décisoire' ?",
+      "choix": [
+        "C'est un serment déféré par le juge pour compléter des preuves insuffisantes ; il est dit décisoire car il décide du quantum de la réparation",
+        "C'est un serment déféré par une partie à son adversaire ; il est dit décisoire car il va décider l'issue du litige",
+        "C'est un serment prêté par les témoins avant de déposer ; il est dit décisoire car il assure la sincérité des témoignages",
+        "C'est un serment déféré par le procureur ; il est dit décisoire car il décide si l'affaire est pénale ou civile"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Décisoire vient de 'décider' — il décide l'issue du procès.",
+        "C'est une partie (pas le juge) qui le défère à l'adversaire.",
+        "Trois issues sont possibles selon que l'adversaire jure, refuse ou réfère."
+      ],
+      "explication": "Le serment décisoire est déféré par une partie à son adversaire. Il est dit décisoire car il va décider l'issue du litige. Si l'adversaire jure, il gagne. S'il refuse de jurer, il perd. S'il réfère le serment à celui qui l'a proposé, ce dernier peut jurer pour gagner ou refuser et perdre. C'est un mode de preuve parfait mais rarement utilisé dans la pratique contemporaine."
+    },
+    {
+      "question": "Qu'est-ce que le témoignage en droit de la preuve et quelle est sa valeur ?",
+      "choix": [
+        "La déclaration d'une des parties au litige ; elle s'impose au juge",
+        "La déclaration d'un tiers relative à des faits qu'il a personnellement constatés ; sa valeur probante est librement appréciée par le juge",
+        "La déclaration écrite d'un expert désigné par le tribunal ; elle a une valeur équivalente à un acte authentique",
+        "La déclaration du défendeur reconnaissant les faits qui lui sont reprochés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le témoin est un tiers — pas une partie au litige.",
+        "Le témoignage est un mode de preuve imparfait.",
+        "Le juge peut l'accepter ou le rejeter librement."
+      ],
+      "explication": "Le témoignage est la déclaration d'un tiers au litige relative à des faits dont il a eu personnellement connaissance. C'est un mode de preuve imparfait : sa valeur probante est laissée à l'appréciation souveraine du juge. Le juge peut retenir un témoignage ou l'écarter selon sa conviction. Il peut retenir un seul témoin et en écarter dix autres."
+    },
+    {
+      "question": "Quelle est la différence entre une présomption légale et une présomption de l'homme (présomption de fait) ?",
+      "choix": [
+        "La présomption légale s'applique aux actes juridiques ; la présomption de l'homme aux faits juridiques",
+        "La présomption légale est établie par la loi elle-même et renverse la charge de la preuve ; la présomption de l'homme est tirée par le juge d'un fait connu et appréciée librement par lui",
+        "La présomption légale bénéficie aux hommes ; la présomption de fait bénéficie aux femmes",
+        "Il n'y a aucune différence pratique entre les deux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une est posée par la loi, l'autre par le juge.",
+        "L'une renverse la charge de la preuve, l'autre non.",
+        "La présomption de paternité est légale ; la déduction de l'adultère par le juge est une présomption de fait."
+      ],
+      "explication": "La présomption légale est posée par la loi elle-même. Elle renverse automatiquement la charge de la preuve : son bénéficiaire n'a pas à prouver le fait présumé. La présomption de l'homme (ou présomption de fait) est dégagée par le juge lui-même d'un fait connu vers un fait inconnu. C'est un mode de preuve imparfait : le juge apprécie librement si la présomption est suffisamment grave, précise et concordante pour le convaincre."
+    },
+    {
+      "question": "Vrai ou faux : un aveu extrajudiciaire fait dans un courriel s'impose au juge comme un aveu judiciaire.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'aveu extrajudiciaire est fait hors du procès.",
+        "C'est un mode de preuve imparfait.",
+        "Le juge l'apprécie librement — il n'est pas lié par lui."
+      ],
+      "explication": "Faux. L'aveu extrajudiciaire — fait hors du procès, dans un courriel, une lettre, une conversation rapportée par un témoin — est un mode de preuve imparfait. Le juge l'apprécie souverainement et peut l'écarter. Il ne s'impose pas au juge, contrairement à l'aveu judiciaire (fait en justice) qui est un mode de preuve parfait liant le juge."
+    },
+    {
+      "question": "En droit civil, quel est le système de preuve retenu ?",
+      "choix": [
+        "Le système de la preuve légale pure : la loi détermine tous les modes de preuve et leur valeur",
+        "Le système de la preuve libre : toutes les preuves sont admises et le juge apprécie librement",
+        "Un système mixte : principe de liberté de la preuve, mais exigence d'un écrit parfait pour les actes juridiques portant sur plus de 1 500 euros",
+        "Le même système qu'en droit pénal : preuve libre dans tous les cas"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon mentionne qu'en droit civil, 'c'est un système mixte qui a été adopté'.",
+        "Le seuil de 1 500 euros est décisif.",
+        "Les faits juridiques se prouvent toujours librement."
+      ],
+      "explication": "En droit civil, c'est un système mixte qui s'applique. Le principe est la liberté de la preuve (tous moyens admis), mais il souffre d'une exception importante : les actes juridiques portant sur plus de 1 500 euros doivent être prouvés par un écrit parfait (acte authentique ou acte sous signature privée). Les faits juridiques se prouvent toujours par tous moyens, quelle que soit leur valeur."
+    },
+    {
+      "question": "Un accident de moto cause des blessures à un piéton. Le piéton veut prouver les circonstances de l'accident devant le tribunal. Quels modes de preuve peut-il utiliser ?",
+      "choix": [
+        "Uniquement un acte authentique, car l'accident a des conséquences graves",
+        "Uniquement un acte sous signature privée signé par le conducteur",
+        "Tous moyens : témoignages, photos, rapport de gendarmerie, expertise médicale — car un accident est un fait juridique",
+        "Uniquement l'aveu du conducteur devant le tribunal"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Un accident est un fait juridique.",
+        "Les faits juridiques se prouvent par tous moyens.",
+        "Peu importe la gravité des blessures : la règle reste la liberté de la preuve."
+      ],
+      "explication": "Un accident de moto est un fait juridique — un événement qui produit des effets de droit non directement voulus. Les faits juridiques se prouvent par tous moyens, sans restriction. Le piéton peut donc utiliser n'importe quel mode de preuve : témoignages de passants, photos prises sur les lieux, rapport de gendarmerie, expertise médicale, présomptions de fait. La valeur des dommages n'y change rien."
+    },
+    {
+      "question": "Rabe prête 3 000 000 ariary à Vola sans rédiger d'écrit. Un litige éclate. Vola nie tout. Quel est le problème probatoire de Rabe et comment pourrait-il le résoudre ?",
+      "choix": [
+        "Il n'y a pas de problème : les témoignages suffisent toujours pour un prêt",
+        "L'acte juridique dépasse 1 500 euros : Rabe doit prouver par écrit parfait en principe. Il pourrait se placer sur une exception (impossibilité morale, commencement de preuve par écrit, aveu judiciaire)",
+        "Rabe perd automatiquement car il n'a pas d'écrit",
+        "Rabe peut toujours utiliser un témoignage comme preuve parfaite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "3 000 000 ariary dépasse le seuil de 1 500 euros.",
+        "L'acte de prêt est un acte juridique.",
+        "Sans écrit, Rabe doit trouver une exception à l'exigence de l'écrit."
+      ],
+      "explication": "Le prêt est un acte juridique dont la valeur (3 000 000 ariary) est bien supérieure à 1 500 euros. En principe, il doit être prouvé par un écrit parfait. Sans écrit, Rabe est en difficulté. Mais il peut se placer sur des exceptions : invoquer l'impossibilité morale si Vola est un proche (relation de confiance rendant l'écrit déplacé), produire un commencement de preuve par écrit (un SMS de Vola reconnaissant le prêt) qu'il complétera par d'autres éléments (virement bancaire, témoignages), ou espérer un aveu judiciaire de Vola dans ses écritures."
+    },
+    {
+      "question": "Qu'est-ce que l'impossibilité morale de se procurer un écrit et dans quel cas s'applique-t-elle ?",
+      "choix": [
+        "Elle s'applique quand une partie est analphabète et ne peut pas signer",
+        "Elle s'applique quand les relations d'affection, de confiance, de famille ou de subordination entre les parties rendaient la demande d'un écrit déplacée ou inconvenante",
+        "Elle s'applique quand le contrat a été conclu à l'étranger",
+        "Elle s'applique quand le notaire était absent au moment de la signature"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Morale ici s'oppose à matérielle.",
+        "La leçon cite les 'liens de famille, d'affection ou de confiance'.",
+        "Entre parent et enfant, demander une reconnaissance de dette peut être perçu comme une offense."
+      ],
+      "explication": "L'impossibilité morale de se procurer un écrit s'applique quand les relations entre les parties — liens de famille, d'amitié profonde, d'affection ou de subordination — rendaient la demande d'un écrit déplacée ou inconvenante. Entre un père et son fils, exiger une reconnaissance de dette formelle peut sembler offensant. Dans ce cas, la partie qui ne peut pas présenter d'écrit est autorisée à prouver l'acte juridique par tous moyens."
+    },
+    {
+      "question": "Qu'est-ce que la perte de l'écrit par force majeure comme exception à l'exigence de l'écrit ?",
+      "choix": [
+        "La perte de l'écrit par négligence de la partie qui devait le conserver",
+        "La destruction de l'écrit par un événement imprévisible, irrésistible et extérieur (incendie, inondation, tempête), permettant de prouver l'acte par tous moyens",
+        "La perte de l'écrit lors d'un déménagement, qui est assimilée à un cas de force majeure",
+        "La perte de l'écrit conservé par un notaire, qui engage sa responsabilité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La force majeure est un événement imprévisible, irrésistible et extérieur.",
+        "Elle ne peut pas résulter de la négligence de la partie.",
+        "La leçon donne l'exemple d'une tempête détruisant une maison."
+      ],
+      "explication": "Si un écrit parfait existait mais a été détruit par un événement de force majeure — imprévisible, irrésistible et extérieur à la partie — celle-ci est autorisée à prouver l'acte juridique par tous moyens. Par exemple, si une reconnaissance de dette a brûlé dans l'incendie de la maison du créancier, il peut la remplacer par des témoignages, des présomptions ou des indices. La force majeure exige que la perte ne soit pas due à une négligence de la partie."
+    },
+    {
+      "question": "Qu'est-ce qu'un commencement de preuve par écrit et quelles sont ses trois conditions ?",
+      "choix": [
+        "Un écrit complet qui suffit seul à prouver l'acte ; conditions : signature, date, montant",
+        "Un écrit incomplet qui rend vraisemblable le fait allégué et émanant de celui à qui on l'oppose ; il doit être complété par d'autres éléments",
+        "Un témoin qui commence à déposer devant le tribunal avant l'écrit",
+        "Un acte authentique préliminaire précédant la signature du contrat définitif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il 'commence' la preuve mais ne la termine pas seul.",
+        "Il doit émaner de l'adversaire — pas de celui qui l'invoque.",
+        "Il doit rendre vraisemblable (pas certain) le fait allégué."
+      ],
+      "explication": "Un commencement de preuve par écrit est un écrit qui remplit trois conditions : c'est un écrit (pas une preuve verbale) ; il émane de celui à qui on l'oppose (l'adversaire en est l'auteur) ; il rend vraisemblable le fait allégué. Il ne suffit pas seul — il doit être complété par d'autres moyens de preuve (témoignages, indices, présomptions). Il ouvre la porte à la preuve par tous moyens pour le reste."
+    },
+    {
+      "question": "Nivo veut prouver un prêt de 2 000 000 ariary à Hery. Il dispose d'un message de Hery disant 'Merci Nivo pour ce que tu as fait, je ne l'oublierai pas'. Ce message est-il un commencement de preuve par écrit ?",
+      "choix": [
+        "Oui, car c'est un écrit signé émanant de Hery",
+        "Non, car ce message ne rend pas vraisemblable un prêt d'argent — il est trop vague pour établir l'objet de la gratitude",
+        "Oui, car tout message émanant du débiteur constitue automatiquement un commencement de preuve",
+        "Non, car un message téléphonique n'est jamais un écrit au sens juridique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un commencement de preuve par écrit doit rendre vraisemblable le fait allégué.",
+        "'Merci pour ce que tu as fait' — quelle est la 'chose' en question ?",
+        "Ce pourrait être n'importe quel service rendu, pas nécessairement un prêt."
+      ],
+      "explication": "Non. Ce message ne remplit pas la troisième condition : il ne rend pas vraisemblable le prêt d'argent. 'Merci pour ce que tu as fait' est trop vague — Hery aurait pu remercier Nivo d'avoir gardé ses enfants, réparé sa voiture, ou pour n'importe quelle autre raison. Un commencement de preuve par écrit doit rendre vraisemblable le fait précis allégué — ici le prêt d'argent de 2 000 000 ariary. Si Hery avait écrit 'Merci pour les 2 millions prêtés', cela aurait constitué un commencement de preuve."
+    },
+    {
+      "question": "La règle commerciale sur la preuve est que les actes de commerce entre commerçants se prouvent par tous moyens. Pourquoi cette règle existe-t-elle ?",
+      "choix": [
+        "Parce que les commerçants sont présumés malhonnêtes et doivent avoir plus de souplesse",
+        "Parce que les commerçants concluent un grand nombre de transactions rapidement et qu'imposer un écrit pour chaque opération paralyserait le commerce",
+        "Parce que les commerçants ont accès à des notaires permanents qui rendent l'écrit superflu",
+        "Parce que les commerçants sont mieux informés que les particuliers et n'ont pas besoin de la protection de l'écrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La raison est pratique et économique.",
+        "Imaginez un marché de gros où des centaines de transactions ont lieu chaque heure.",
+        "Exiger un écrit pour chaque vente rendrait le commerce impossible."
+      ],
+      "explication": "La règle de la liberté de la preuve entre commerçants est justifiée par des raisons pratiques et économiques. Dans l'exercice de leur activité, les commerçants concluent un très grand nombre de transactions rapides. Leur imposer un écrit parfait pour chaque opération constituerait une contrainte excessive qui paralyserait le commerce. La loi leur fait donc confiance et libéralise la preuve, leur permettant d'utiliser tous moyens pour prouver leurs actes commerciaux."
+    },
+    {
+      "question": "Un commerçant veut prouver une vente de 5 000 000 ariary conclue avec un particulier. Peut-il prouver par tous moyens ?",
+      "choix": [
+        "Oui, car il est commerçant et la preuve commerciale est toujours libre",
+        "Non, car face à un non-commerçant, c'est le commerçant qui doit respecter les règles ordinaires : preuve par écrit parfait si la valeur dépasse 1 500 euros",
+        "Oui, mais seulement si le particulier a lui-même fait appel au commerçant",
+        "Non, car les litiges mixtes sont soumis au droit pénal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La liberté commerciale ne doit pas nuire au non-commerçant.",
+        "Qui est le non-commerçant dans ce litige ? Il bénéficie de la protection de la règle ordinaire.",
+        "La liberté de preuve commerciale profite au non-commerçant contre le commerçant, pas l'inverse."
+      ],
+      "explication": "Non. Dans un litige mixte opposant un commerçant et un non-commerçant, la liberté de preuve commerciale profite au non-commerçant — pas au commerçant. Le non-commerçant peut prouver contre le commerçant par tous moyens. Mais le commerçant, pour prouver contre le non-commerçant, doit respecter les règles ordinaires : preuve par écrit parfait si la valeur dépasse 1 500 euros. Il ne faudrait pas que la liberté commerciale nuise aux intérêts du particulier."
+    },
+    {
+      "question": "Dans quel ordre logique appliquer le raisonnement sur la preuve face à un problème juridique ?",
+      "choix": [
+        "D'abord identifier le tribunal compétent, puis les parties, puis les preuves",
+        "D'abord : acte ou fait juridique ? → Si acte : valeur ? → Exception ? → Commerçants ?",
+        "D'abord identifier les témoins, puis les écrits, puis les présomptions",
+        "Il n'y a pas d'ordre : le juriste choisit le mode de preuve le plus favorable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La première étape est toujours : acte ou fait juridique ?",
+        "Le seuil de 1 500 euros intervient en deuxième étape si c'est un acte juridique.",
+        "La leçon présente un 'schéma en quatre étapes'."
+      ],
+      "explication": "Le raisonnement en quatre étapes est : (1) Acte ou fait juridique ? Si fait juridique : preuve libre. (2) Si acte juridique : valeur supérieure ou inférieure à 1 500 euros ? Inférieure : preuve libre. Supérieure : écrit parfait en principe. (3) Existe-t-il une exception à l'exigence de l'écrit (impossibilité, force majeure, aveu judiciaire, commencement de preuve) ? (4) Les parties sont-elles des commerçants dans un acte commercial ? Ce schéma permet de traiter n'importe quelle question de preuve avec méthode."
+    },
+    {
+      "question": "Vrai ou faux : l'écrit électronique (email, document numérique) a la même valeur probante que l'écrit papier.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La loi a évolué pour intégrer le numérique.",
+        "La leçon mentionne que 'l'écrit électronique a la même force probante que l'écrit sur support papier'.",
+        "Mais des conditions doivent être remplies : intégrité et identification de l'auteur."
+      ],
+      "explication": "Vrai, sous conditions. L'écrit électronique a la même force probante que l'écrit papier à condition que l'identité de son auteur puisse être vérifiée et que son intégrité soit garantie — c'est-à-dire qu'il n'ait pas pu être modifié après sa création. Un email peut donc valoir preuve, y compris comme commencement de preuve par écrit, s'il remplit ces conditions."
+    },
+    {
+      "question": "Pourquoi le serment décisoire est-il considéré comme un mode de preuve archaïque dans le droit contemporain ?",
+      "choix": [
+        "Parce qu'il a été supprimé par la réforme de 2016",
+        "Parce qu'il reposait sur la crainte religieuse du mensonge sous serment, qui n'a plus la même force contraignante dans les sociétés contemporaines moins religieuses",
+        "Parce qu'il n'est applicable qu'en matière pénale",
+        "Parce que les avocats ont obtenu son interdiction progressive"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon dit qu'il était justifié au XIXe siècle mais que 'sa présence dans la version de 2016 est plus surprenante'.",
+        "Son efficacité repose sur la crainte de mentir sous serment.",
+        "Dans une société religieuse forte, mentir sous serment avait des conséquences morales lourdes."
+      ],
+      "explication": "Le serment décisoire est considéré comme archaïque car son efficacité repose sur la crainte religieuse du mensonge sous serment. À l'époque du Code civil de 1804, la religion tenait une place centrale dans la société et le mensonge sous serment était ressenti comme un grave péché. Cette contrainte morale était réelle. Dans les sociétés contemporaines plus sécularisées, cette crainte est moindre, ce qui rend ce mode de preuve peu efficace et rarement utilisé."
+    },
+    {
+      "question": "Jean dispose d'une reconnaissance de dette de Marc pour 10 000 euros. Marc prétend ne devoir que 7 000 euros. Comment Marc peut-il contester le montant ?",
+      "choix": [
+        "Par un simple témoignage d'un ami disant que Marc a remboursé une partie",
+        "Par un autre écrit parfait (acte sous signature privée ou authentique) prouvant que le montant exact est 7 000 euros",
+        "En déclarant oralement au juge qu'il ne doit que 7 000 euros",
+        "En demandant au juge d'ordonner une expertise comptable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pour contredire un écrit, que faut-il selon la leçon ?",
+        "La règle : 'il ne peut être prouvé outre ou contre un écrit que par un autre écrit'.",
+        "Un témoignage seul ne suffit pas pour contredire un acte sous signature privée."
+      ],
+      "explication": "Pour contredire le contenu d'un acte sous signature privée, Marc doit lui-même apporter une preuve écrite parfaite. La règle est que 'pour contredire un écrit, il faut un écrit'. Un simple témoignage ou une déclaration orale ne suffit pas à remettre en cause un acte sous signature privée. Marc devra donc produire un autre acte sous signature privée ou authentique prouvant que le montant convenu était de 7 000 euros."
+    },
+    {
+      "question": "Vrai ou faux : une copie fiable d'un acte sous signature privée a la même valeur que l'original.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon affirme explicitement ce principe.",
+        "Mais une condition s'applique : la copie doit être 'fiable'.",
+        "Si l'original existe encore, sa présentation peut quand même être exigée."
+      ],
+      "explication": "Vrai, sous conditions. Une copie fiable d'un acte sous signature privée ou authentique a la même force probante que l'original. La fiabilité est appréciée par le juge. Cependant, si l'original existe encore, sa présentation peut toujours être exigée par la partie adverse. Cette règle est pratique : elle évite qu'une partie soit pénalisée parce qu'elle a remis l'original à l'autre partie."
+    },
+    {
+      "question": "Synthèse : Votre ami Lanto vous prête 4 000 000 ariary sans aucun écrit. Il décède quelques mois plus tard. Ses héritiers nient le prêt. Quelle est votre situation juridique et comment défendre votre position ?",
+      "choix": [
+        "Vous ne pouvez rien faire sans écrit : vous perdez automatiquement",
+        "Le prêt est un acte juridique supérieur à 1 500 euros : la preuve par écrit est en principe requise. Mais vous pouvez invoquer l'impossibilité morale (prêt entre amis proches) et produire des éléments complémentaires : virement bancaire prouvant le transfert, messages de Lanto reconnaissant le prêt (commencement de preuve), témoignages",
+        "Vous pouvez prouver par témoignage uniquement, car le défunt ne peut pas contester",
+        "Les héritiers doivent prouver que le prêt n'existait pas : la charge de la preuve leur incombe"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Première étape : acte ou fait juridique ? Quelle valeur ? Seuil 1 500 euros ?",
+        "Deuxième étape : y a-t-il une exception ? Lanto était votre ami — quelle exception pourrait jouer ?",
+        "Troisième étape : quels éléments de preuve avez-vous ?"
+      ],
+      "explication": "Voici le raisonnement complet. Le prêt est un acte juridique. Sa valeur (4 000 000 ariary) dépasse largement le seuil de 1 500 euros. En principe, la preuve par écrit parfait est requise. Vous n'en avez pas. Mais vous pouvez invoquer des exceptions. L'impossibilité morale : Lanto était un ami proche, et demander une reconnaissance de dette formelle entre amis intimes aurait été déplacé. Si le juge la reconnaît, vous pouvez prouver par tous moyens. Le commencement de preuve par écrit : si vous disposez de messages de Lanto mentionnant le prêt, ils constituent un commencement de preuve que vous complétez par d'autres éléments. Les autres éléments : relevé de virement bancaire prouvant le transfert de 4 000 000 ariary, témoignages d'amis communs qui étaient au courant, échanges écrits antérieurs. Attention : la charge de la preuve vous incombe — c'est vous le demandeur qui réclamez contre les héritiers. Ce sont eux les défendeurs, pas l'inverse."
+    },
+    {
+      "question": "Quelle distinction faut-il retenir entre le serment décisoire et le serment supplétoire ?",
+      "choix": [
+        "Le serment décisoire est déféré par le juge ; le serment supplétoire est déféré par une partie — tous deux s'imposent au juge",
+        "Le serment décisoire est déféré par une partie à l'adversaire (preuve parfaite) ; le serment supplétoire est déféré par le juge pour compléter des preuves insuffisantes (preuve imparfaite, appréciée librement)",
+        "Le serment décisoire est utilisé en droit pénal ; le serment supplétoire en droit civil",
+        "Le serment décisoire s'applique aux actes juridiques ; le serment supplétoire aux faits juridiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Décisoire = déféré par une partie à l'adversaire, preuve parfaite.",
+        "Supplétoire = déféré par le juge pour 'suppléer' (compléter) des preuves insuffisantes, preuve imparfaite.",
+        "L'un lie le juge, l'autre non."
+      ],
+      "explication": "Le serment décisoire est déféré par une partie à son adversaire. C'est une preuve parfaite : l'adversaire qui jure gagne, celui qui refuse perd. Il décide l'issue du litige. Le serment supplétoire est déféré par le juge lui-même pour compléter des preuves insuffisantes. C'est une preuve imparfaite : le juge apprécie librement la valeur de ce serment et n'est pas lié par lui. Il ne peut intervenir que si les preuves ne sont ni totalement suffisantes ni totalement inexistantes."
+    },
+    {
+      "question": "Vrai ou faux : en droit civil, le juge peut ordonner d'office certaines mesures d'instruction même si les parties ne les ont pas demandées.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La procédure civile est accusatoire, mais le juge n'est pas totalement passif.",
+        "La leçon mentionne que 'le juge a le pouvoir d'ordonner d'office toutes les mesures d'instruction légalement admissibles'.",
+        "Cela ne remet pas en cause le principe : la charge principale de la preuve reste sur les parties."
+      ],
+      "explication": "Vrai. Même si la procédure civile est accusatoire et que la charge de la preuve incombe aux parties, le juge civil n'est pas totalement passif. Il peut ordonner d'office des mesures d'instruction légalement admissibles — expertises, enquêtes — s'il l'estime nécessaire pour trancher le litige. Cela ne remet pas en cause le principe fondamental : c'est aux parties qu'il incombe d'apporter les preuves de ce qu'elles invoquent."
+    },
+    {
+      "question": "Vrai ou faux : la preuve des actes juridiques dont la valeur est inférieure à 1 500 euros peut se faire par tous moyens en droit civil.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le seuil de 1 500 euros détermine le régime de preuve des actes juridiques.",
+        "En dessous du seuil : même régime que pour les faits juridiques.",
+        "Au-dessus du seuil : écrit parfait requis en principe."
+      ],
+      "explication": "Vrai. Pour les actes juridiques dont la valeur est inférieure à 1 500 euros, la preuve peut se faire par tous moyens — témoignages, présomptions, indices, aveu. Ce n'est que pour les actes juridiques dont la valeur dépasse 1 500 euros que la preuve par écrit parfait est en principe requise. Le seuil de 1 500 euros est donc la ligne de partage centrale dans le régime de preuve des actes juridiques en droit civil."
+    },
+    {
+      "question": "Pourquoi la distinction negotium / instrumentum est-elle importante en pratique ?",
+      "choix": [
+        "Parce qu'elle permet de calculer les honoraires du notaire",
+        "Parce qu'elle permet de comprendre qu'un contrat peut exister et être valide sans écrit (consensualisme), mais que l'écrit peut être nécessaire à sa preuve en cas de litige",
+        "Parce qu'elle détermine la juridiction compétente pour juger le litige",
+        "Parce qu'elle permet de distinguer les contrats civils des contrats commerciaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le negotium est le contrat lui-même ; l'instrumentum est l'écrit.",
+        "La validité du contrat et sa preuve sont deux choses différentes.",
+        "On peut avoir un negotium valide mais être incapable de le prouver faute d'instrumentum."
+      ],
+      "explication": "La distinction negotium / instrumentum est fondamentale en pratique. Elle permet de comprendre deux réalités : le contrat (negotium) peut exister et être valide dès l'accord des parties, sans qu'un écrit soit nécessaire à sa validité (principe du consensualisme). Mais en cas de litige, l'écrit (instrumentum) peut être indispensable pour prouver ce contrat. On peut donc avoir un contrat valide mais être incapable de le prouver en justice faute d'écrit — d'où l'importance de toujours rédiger un instrumentum pour les transactions importantes."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Solofo a prêté 6 000 000 ariary à son cousin Fidy il y a deux ans, sans rédiger de reconnaissance de dette ni aucun écrit. Fidy refuse désormais de rembourser et nie le prêt. Solofo dispose des éléments suivants : (a) un virement bancaire de 6 000 000 ariary de son compte vers le compte de Fidy avec la mention 'prêt famille' ; (b) un message WhatsApp de Fidy envoyé trois semaines après le virement : 'Merci Solofo, dès que je peux je rembourse les 6 millions' ; (c) deux témoins — un ami commun et le père de Solofo — qui ont entendu les deux cousins parler du prêt. Fidy prétend que le virement était un cadeau et non un prêt. Analysez la situation et dites si Solofo peut gagner son procès.",
+      "choix": [
+        "Non, Solofo perd automatiquement : sans reconnaissance de dette signée, il ne peut rien prouver pour un prêt de cette valeur",
+        "Solofo peut gagner : malgré l'absence d'écrit parfait, il dispose d'un commencement de preuve par écrit (le message WhatsApp de Fidy), d'un indice fort (le virement bancaire avec mention), et il peut invoquer l'impossibilité morale entre cousins. Ces éléments cumulés permettent de prouver le prêt par tous moyens",
+        "Fidy a raison : un virement peut être un cadeau, donc la présomption joue en sa faveur",
+        "Les témoignages du père et de l'ami suffisent seuls à prouver le prêt"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Étape 1 : acte ou fait juridique ? Valeur ? Le prêt est un acte juridique de 6 millions > 1 500 euros.",
+        "Étape 2 : y a-t-il des exceptions à l'exigence de l'écrit ? Impossibilité morale entre cousins ? Commencement de preuve par écrit ?",
+        "Étape 3 : le message WhatsApp émane de qui ? Rend-il vraisemblable le prêt ? Peut-il être complété par d'autres éléments ?"
+      ],
+      "explication": "Analyse complète par étapes. Étape 1 — Acte ou fait juridique ? Le prêt entre Solofo et Fidy est un acte juridique : les deux parties ont voulu produire des effets de droit (obligation de rembourser). Sa valeur (6 000 000 ariary) dépasse largement le seuil de 1 500 euros. En principe, la preuve doit se faire par écrit parfait. Solofo n'en a pas. Étape 2 — Y a-t-il des exceptions ? Première exception : l'impossibilité morale. Entre cousins germains, des liens familiaux étroits peuvent caractériser l'impossibilité morale de se procurer un écrit. Demander une reconnaissance de dette formelle à un cousin proche peut être ressenti comme une offense. Si le juge la reconnaît, Solofo peut prouver par tous moyens. Deuxième exception : le commencement de preuve par écrit. Le message WhatsApp de Fidy ('Merci Solofo, dès que je peux je rembourse les 6 millions') est un écrit émanant de Fidy — celui à qui on l'oppose. Il rend vraisemblable le prêt : il mentionne la somme de '6 millions' et l'obligation de 'rembourser', ce qui implique une dette et non un cadeau. Ce message constitue un commencement de preuve par écrit. Il peut être complété par d'autres éléments. Étape 3 — Les éléments complémentaires. Le virement bancaire avec la mention 'prêt famille' est un indice fort : il prouve le transfert de fonds et sa nature (prêt, pas cadeau). Les témoignages du père et de l'ami complètent le tableau. Conclusion : Solofo dispose d'un commencement de preuve par écrit (message WhatsApp de Fidy) corroboré par des indices (virement bancaire) et des témoignages. Il peut invoquer l'impossibilité morale ou se fonder directement sur le commencement de preuve par écrit + preuves complémentaires. La position de Fidy — 'c'était un cadeau' — est fragilisée par le message qui mentionne explicitement 'rembourser'. Solofo a de bonnes chances de gagner son procès, à condition de bien présenter ces éléments au juge."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Nivo est architecte (commerçante) et a conçu les plans d'une villa pour Rasoa (particulière) pour un honoraire de 8 000 000 ariary. Aucun contrat écrit n'a été signé : elles se sont entendues oralement. Nivo a livré les plans, mais Rasoa refuse de payer en prétendant qu'elles n'avaient jamais parlé d'un tel montant et que le devis oral était de 3 000 000 ariary. Nivo dispose d'un email envoyé par Rasoa après la livraison des plans disant : 'Les plans sont superbes, je suis vraiment satisfaite de votre travail.' Nivo dispose également d'un témoin, son associé, qui était présent lors de la négociation orale. Analysez la situation probatoire des deux parties en distinguant qui doit prouver quoi et comment.",
+      "choix": [
+        "Nivo perd car elle est commerçante et devait rédiger un contrat écrit obligatoirement",
+        "La preuve est libre pour les deux parties car Nivo est commerçante et ce litige oppose une commerçante à une non-commerçante, avec des règles asymétriques : Rasoa peut prouver contre Nivo par tous moyens ; Nivo doit prouver contre Rasoa par écrit parfait car la valeur dépasse 1 500 euros. L'email de Rasoa ne suffit pas comme commencement de preuve. Nivo doit trouver d'autres éléments.",
+        "Rasoa doit prouver le montant de 3 000 000 car elle est le défendeur",
+        "Les deux parties peuvent prouver par tous moyens car il s'agit d'un acte de commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quel est le statut des deux parties ? L'une est commerçante, l'autre non — c'est un litige mixte.",
+        "En litige mixte : qui bénéficie de la liberté commerciale ? Le non-commerçant ou le commerçant ?",
+        "L'email de Rasoa ('les plans sont superbes') rend-il vraisemblable le montant de 8 000 000 ariary ?"
+      ],
+      "explication": "Analyse complète. La nature du litige : Nivo (architecte = commerçante) et Rasoa (particulière = non-commerçante) sont dans un litige mixte. Ce litige oppose une commerçante à une non-commerçante — les règles de preuve sont asymétriques. La preuve que doit rapporter Rasoa contre Nivo : Rasoa, en tant que non-commerçante, peut prouver contre le commerçant (Nivo) par tous moyens, quelle que soit la valeur. Pour soutenir que le montant était de 3 000 000 ariary, elle peut invoquer des témoignages, des échanges, des présomptions. La liberté commerciale lui profite. La preuve que doit rapporter Nivo contre Rasoa : Nivo veut prouver un honoraire de 8 000 000 ariary contre la non-commerçante Rasoa. En litige mixte, le commerçant ne bénéficie pas de la liberté commerciale contre le non-commerçant : il doit respecter les règles ordinaires. Le contrat de mission d'architecture est un acte juridique dont la valeur (8 000 000 ariary) dépasse 1 500 euros. Nivo aurait dû prouver par écrit parfait. Elle n'en a pas. L'email de Rasoa ('les plans sont superbes, je suis vraiment satisfaite') : cet email émane de Rasoa (celui à qui on l'oppose). Mais rend-il vraisemblable le montant de 8 000 000 ariary ? Non — il ne mentionne aucun chiffre. Il ne prouve que la satisfaction sur la qualité des plans, pas l'accord sur le prix. Il ne constitue pas un commencement de preuve par écrit suffisant sur le montant. Le témoin (l'associé de Nivo) : c'est un mode de preuve imparfait. Il sera apprécié librement par le juge, avec une certaine méfiance car c'est l'associé de la partie adverse. Conclusion : Nivo est en difficulté probatoire sérieuse pour le montant de 8 000 000 ariary. Elle ne dispose pas d'écrit parfait, ni de commencement de preuve suffisant sur ce montant. Elle ne peut pas invoquer l'exception commerciale contre Rasoa. Elle aurait dû établir un devis écrit signé ou un bon de commande. Cette affaire illustre l'importance capitale de préconstituoer des preuves écrites avant tout litige, même entre professionnels et particuliers."
+    }
+  ]
+}
