@@ -1,0 +1,901 @@
+{
+  "titre": "Les branches du droit : droit privé, droit public et leurs sous-domaines",
+  "module": "Module 3 — Les branches du droit",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Commençons par le commencement : deux grandes branches",
+      "texte": "Quand on parle des branches du droit, beaucoup de gens s'imaginent une liste interminable de matières compliquées. En réalité, la structure est simple. Il y a deux grandes branches fondamentales : le droit privé et le droit public. Tout le reste — le droit civil, le droit du travail, le droit commercial, le droit constitutionnel, le droit administratif — ce sont des sous-domaines à l'intérieur de ces deux grands camps. Imaginez un supermarché avec deux grandes ailes. L'aile gauche s'appelle droit privé, l'aile droite s'appelle droit public. Dans chaque aile, il y a plusieurs rayons spécialisés. La distinction entre les deux ailes repose sur une question très simple : qui sont les parties en présence ?",
+      "definition": "Droit privé : règles qui s'appliquent quand les deux parties sont des personnes privées (individus, familles, entreprises) entre elles. Droit public : règles qui s'appliquent quand l'une des parties est l'État ou une autorité publique agissant au nom de l'intérêt général."
+    },
+    {
+      "titre": "La boussole pour s'orienter : qui sont les parties ?",
+      "texte": "Pour savoir dans quelle branche du droit on se trouve, il faut toujours poser la même question : qui est en face de qui ? Si c'est un citoyen contre un autre citoyen, une entreprise contre une autre entreprise, un salarié contre son employeur privé — on est dans le droit privé. Les deux parties sont des personnes privées, sur un pied d'égalité en principe. En revanche, si c'est un citoyen contre l'État, un administré contre la mairie, une entreprise contre le ministère des finances — on est dans le droit public. L'une des parties est l'État ou une personne publique, qui agit avec des pouvoirs spéciaux que les personnes privées n'ont pas. C'est aussi simple que ça. Cette question — qui sont les parties ? — est la boussole qui permet de s'orienter dans tout le droit.",
+      "exemple": "Voahangy se dispute avec son voisin à propos d'un mur mitoyen. Les deux sont des personnes privées : on est dans le droit privé. Rakoto reçoit un avis d'imposition qu'il conteste auprès du fisc : l'une des parties est l'État, on est dans le droit public."
+    },
+    {
+      "titre": "L'aile gauche : le droit privé",
+      "texte": "Le droit privé regroupe toutes les règles qui gouvernent les relations entre personnes privées — individus, familles, entreprises — sans que l'État intervienne comme puissance publique. C'est le droit de la vie quotidienne : acheter, vendre, se marier, hériter, travailler pour une entreprise, créer une société. À l'intérieur de cette grande aile, il y a plusieurs rayons spécialisés. Pourquoi plusieurs rayons ? Parce que les relations entre personnes privées sont très diverses. Les règles qui s'appliquent à un divorce ne sont pas les mêmes que celles qui s'appliquent à un licenciement ou à un contrat entre deux commerçants. Chaque rayon a donc ses propres règles adaptées à sa réalité.",
+      "definition": "Droit privé : ensemble des règles qui régissent les relations entre personnes privées. Il se divise en plusieurs sous-domaines : le droit civil, le droit du travail et le droit commercial, entre autres."
+    },
+    {
+      "titre": "Le rayon principal du droit privé : le droit civil",
+      "texte": "Le droit civil est le rayon principal, le plus grand, le plus ancien du droit privé. On l'appelle le droit commun, ce qui veut dire qu'il s'applique par défaut quand aucun autre rayon spécialisé n'a prévu de règle. Il couvre les grandes étapes de la vie d'une personne : la naissance, le mariage, le divorce, la filiation, la succession après le décès. Il couvre aussi les mécanismes juridiques fondamentaux : les contrats, la propriété et la responsabilité civile — c'est-à-dire l'obligation de réparer un dommage qu'on a causé à quelqu'un. Pensez-y comme au rayon des produits de base du supermarché : on y revient toujours quand les autres rayons n'ont pas ce qu'on cherche. À Madagascar, le droit civil est organisé autour du Code civil, adapté depuis l'indépendance.",
+      "definition": "Droit civil : branche du droit privé qui régit l'état des personnes, la famille, les biens, les contrats et la responsabilité. C'est le droit commun du droit privé : il s'applique à toutes les situations que les autres branches spécialisées n'ont pas réglementées.",
+      "exemple": "Solofo décède à Antananarivo sans testament. C'est le droit civil — le droit des successions — qui détermine comment ses biens sont partagés entre ses héritiers. Tiana cause un accident de voiture et blesse un piéton. C'est encore le droit civil — la responsabilité civile — qui oblige Tiana à indemniser la victime."
+    },
+    {
+      "titre": "Un rayon spécialisé : le droit du travail",
+      "texte": "Le droit du travail est le rayon du droit privé qui s'occupe des relations entre ceux qui emploient — les employeurs — et ceux qui travaillent contre rémunération — les salariés. Il encadre tout : le contrat de travail, le salaire, les congés, les conditions de travail, le licenciement, les syndicats. Pourquoi ce rayon existe-t-il séparément du droit civil ? Parce que la relation de travail n'est pas une relation d'égaux. Le salarié dépend économiquement de son employeur. Si on laissait tout régler par le droit civil seul avec une liberté contractuelle totale, l'employeur pourrait imposer n'importe quelles conditions. Le droit du travail est né pour rééquilibrer cette relation. C'est pourquoi la plupart de ses règles sont impératives : on ne peut pas les écarter au détriment du salarié, même par accord signé.",
+      "definition": "Droit du travail : branche du droit privé qui organise les relations entre employeurs et salariés. Ses règles sont en grande partie impératives pour protéger le salarié, considéré comme la partie vulnérable.",
+      "exemple": "Ratsimba travaille dans une usine à Tamatave. Son employeur veut le licencier. Le droit du travail impose une procédure précise : convocation, entretien préalable, délai de préavis, indemnités légales. Si l'employeur ne respecte pas ces étapes, Ratsimba peut saisir le tribunal du travail et obtenir des dommages-intérêts pour licenciement abusif."
+    },
+    {
+      "titre": "Le rayon des affaires : le droit commercial",
+      "texte": "Le droit commercial est le rayon du droit privé qui s'applique aux activités économiques des commerçants et des entreprises. Il couvre les contrats entre commerçants, la création et le fonctionnement des sociétés comme les SARL et les SA, les règles de concurrence entre entreprises, et les situations difficiles quand une entreprise ne peut plus payer ses dettes — ce qu'on appelle les procédures collectives. Le droit commercial s'est développé parce que les relations entre commerçants ont des particularités que le droit civil général ne prend pas bien en compte : la rapidité des échanges, la confiance entre professionnels, les risques économiques. À Madagascar, ce droit est de plus en plus important avec le développement des entreprises.",
+      "definition": "Droit commercial : branche du droit privé qui régit les activités économiques des commerçants et entreprises. Il couvre les contrats commerciaux, les sociétés, la concurrence et les procédures en cas de défaillance d'une entreprise.",
+      "exemple": "Mialisoa crée une SARL avec sa cousine à Antananarivo pour vendre des vêtements. Le droit des sociétés — sous-domaine du droit commercial — détermine comment elles constituent cette société, comment elles prennent les décisions ensemble, et ce qui se passe si l'une d'elles veut partir."
+    },
+    {
+      "titre": "L'aile droite : le droit public",
+      "texte": "Le droit public regroupe toutes les règles qui s'appliquent quand l'État ou une autorité publique est en jeu. Contrairement au droit privé où les parties sont sur un pied d'égalité, le droit public est marqué par un déséquilibre volontaire : l'État a des pouvoirs spéciaux — qu'on appelle des prérogatives de puissance publique — que les personnes privées n'ont pas. Par exemple, l'État peut construire une route en passant sur votre terrain et vous exproprier, moyennant indemnisation. Un voisin ne peut pas faire ça. Ces pouvoirs spéciaux se justifient parce que l'État agit au nom de l'intérêt général — le bien de toute la société. Et parce que les règles sont différentes, les juges sont aussi différents : on ne va pas devant le même tribunal selon que le problème relève du droit privé ou du droit public.",
+      "definition": "Droit public : ensemble des règles qui organisent l'État, ses institutions et ses relations avec les citoyens. L'État y dispose de pouvoirs spéciaux car il agit au nom de l'intérêt général. Il se divise en droit constitutionnel, droit administratif et droit fiscal, entre autres."
+    },
+    {
+      "titre": "Le rayon fondateur du droit public : le droit constitutionnel",
+      "texte": "Le droit constitutionnel, c'est le rayon qui fixe les règles du jeu de tout l'État. Il répond aux grandes questions : comment est organisé le pouvoir ? Qui gouverne ? Comment sont élus les dirigeants ? Quels sont les droits fondamentaux des citoyens que personne — même pas l'État — ne peut violer ? Sa source principale est la Constitution. À Madagascar, la Constitution fixe l'organisation de la République : le rôle du Président, du Gouvernement, du Parlement, et les droits garantis à chaque Malgache. Le droit constitutionnel se situe tout en haut de la hiérarchie des normes : toutes les autres règles de droit doivent respecter la Constitution. Si une loi la contredit, la Haute Cour constitutionnelle peut l'annuler.",
+      "definition": "Droit constitutionnel : branche du droit public qui organise les institutions de l'État et consacre les droits fondamentaux des citoyens. La Constitution est la norme suprême : aucune autre règle de droit ne peut lui être contraire.",
+      "exemple": "Le Parlement malgache vote une loi qui restreint la liberté de la presse. Un citoyen saisit la Haute Cour constitutionnelle. Celle-ci vérifie si cette loi respecte la Constitution. Si elle viole la liberté d'expression garantie, elle est déclarée inconstitutionnelle et ne peut pas être appliquée."
+    },
+    {
+      "titre": "Le rayon du quotidien avec l'administration : le droit administratif",
+      "texte": "Le droit administratif, c'est le rayon du droit public qui organise les rapports entre les citoyens et l'administration au quotidien — l'État, les collectivités territoriales, les mairies, les ministères. Chaque fois que vous avez affaire à une mairie ou à une préfecture — pour demander un permis de construire, contester une décision, comprendre pourquoi votre dossier a été rejeté — c'est le droit administratif qui s'applique. Ce droit encadre aussi comment fonctionne l'administration en interne : la commande publique (comment l'État achète des biens et services), l'urbanisme (qui peut construire quoi et où), le service public (eau, électricité, éducation). Quand un citoyen veut contester une décision de l'administration, il ne va pas devant le tribunal civil ordinaire : il va devant le tribunal administratif.",
+      "definition": "Droit administratif : branche du droit public qui régit l'organisation et l'action des autorités publiques et leurs relations avec les administrés. Il prévoit les voies de recours pour contester les décisions illégales de l'administration.",
+      "exemple": "Rakoto demande un permis de construire à sa commune pour agrandir sa maison à Fianarantsoa. La mairie refuse sans donner de raison valable. Rakoto peut saisir le tribunal administratif. Si le refus est jugé illégal, le juge l'annule et la mairie doit reconsidérer la demande."
+    },
+    {
+      "titre": "Le rayon des impôts : le droit fiscal",
+      "texte": "Le droit fiscal, c'est le rayon du droit public qui organise tout ce qui concerne les impôts et les taxes. Il répond aux questions : sur quoi suis-je imposé ? Comment calcule-t-on ce que je dois payer ? Dans quel délai ? Que se passe-t-il si je ne paie pas ou si je fraude ? Ce droit s'adresse à tout le monde — les particuliers comme les entreprises. Le droit fiscal est important pour l'État parce que les impôts, c'est ce qui lui permet de financer les services publics : les routes, les hôpitaux, les écoles. Sans impôts organisés par le droit fiscal, l'État ne peut pas fonctionner. À Madagascar, le Code général des impôts est la principale source du droit fiscal.",
+      "definition": "Droit fiscal : branche du droit public qui organise le prélèvement des impôts et taxes. Il définit les bases imposables, les taux, les obligations de déclaration et les sanctions en cas de fraude.",
+      "exemple": "Une entreprise à Antananarivo réalise des bénéfices cette année. Le droit fiscal détermine quel pourcentage de ces bénéfices elle doit reverser à l'État sous forme d'impôt, comment elle doit le déclarer, et avant quelle date elle doit payer."
+    },
+    {
+      "titre": "Entre les deux ailes : le droit pénal, un droit mixte",
+      "texte": "Le droit pénal occupe une position à part dans notre supermarché. Il n'est ni entièrement dans l'aile du droit privé, ni entièrement dans l'aile du droit public. On dit que c'est un droit mixte. Pourquoi ? Parce qu'il touche aux deux à la fois. D'un côté, le droit pénal relève du droit public : quand quelqu'un commet une infraction — un vol, une agression, une fraude — c'est l'État qui réagit, via le ministère public (le parquet), au nom de la société tout entière. De l'autre côté, le droit pénal touche directement à des personnes privées : la victime qui a subi un préjudice, l'accusé dont les libertés fondamentales sont en jeu. Cette double dimension fait que le droit pénal ne rentre pas parfaitement dans une seule case. C'est son originalité.",
+      "definition": "Droit pénal : branche du droit qui définit les infractions (contraventions, délits, crimes) et les sanctions correspondantes. Il est qualifié de droit mixte car il relève à la fois du droit public (l'État poursuit au nom de la société) et touche aux droits de personnes privées (victime et accusé).",
+      "exemple": "Fara est victime d'un vol à Toamasina. Même si elle ne veut pas porter plainte, le procureur — représentant de l'État — peut poursuivre l'auteur du vol au nom de la société. En parallèle, Fara peut agir pour obtenir réparation de son préjudice personnel. Droit public et droit privé s'entremêlent dans la même affaire."
+    },
+    {
+      "titre": "Au-delà des frontières : le droit international",
+      "texte": "Le droit international s'applique aux situations qui dépassent les frontières d'un seul pays. Il se divise en deux branches qu'il ne faut pas confondre. Le droit international public régit les relations entre États et organisations internationales : les traités entre pays, les règles de la guerre, la protection des droits de l'Homme au niveau mondial, le rôle de l'ONU. Les parties sont des États ou des organisations internationales. Le droit international privé, lui, intervient quand une situation juridique entre personnes privées implique plusieurs pays : un contrat entre un commerçant malgache et un fournisseur français, un mariage entre personnes de nationalités différentes. Il détermine quelle loi nationale s'applique et quel tribunal est compétent.",
+      "definition": "Droit international public : règles organisant les relations entre États et organisations internationales. Droit international privé : règles déterminant quelle loi nationale s'applique et quel tribunal est compétent lorsqu'une situation privée implique plusieurs pays.",
+      "exemple": "Madagascar signe un accord de coopération avec la Chine : droit international public, entre deux États. Un entrepreneur malgache signe un contrat avec une entreprise mauricienne : le droit international privé déterminera si c'est la loi malgache ou mauricienne qui s'applique en cas de litige."
+    },
+    {
+      "titre": "Les droits spécialisés : quand la société évolue, le droit suit",
+      "texte": "Certaines branches du droit sont relativement récentes et difficiles à classer dans une seule aile. Elles sont nées parce que la société a évolué et que les branches classiques ne suffisaient plus. Le plus frappant est le droit de l'environnement. Ce droit protège la nature — les forêts, les rivières, la biodiversité — en imposant des obligations à tout le monde : les individus, les entreprises et l'État lui-même. À Madagascar, pays d'une biodiversité exceptionnelle avec des espèces que l'on ne trouve nulle part ailleurs dans le monde, ce droit est particulièrement crucial. Une pollution industrielle peut déclencher à la fois une sanction administrative (droit public), une poursuite pénale (droit pénal) et une action en réparation civile pour les victimes (droit privé). D'autres droits spécialisés émergent aussi : le droit du numérique, le droit de la santé, la bioéthique.",
+      "exemple": "Une entreprise minière déverse des produits chimiques dans une rivière de la région de Toliara. Résultat : l'administration peut fermer l'usine (droit administratif), le procureur peut poursuivre les dirigeants (droit pénal), et les villageois intoxiqués peuvent demander réparation (droit civil). Le droit de l'environnement mobilise les trois branches en même temps."
+    },
+    {
+      "titre": "Récapitulatif : la carte du supermarché",
+      "texte": "Voici comment retenir la structure d'ensemble. Il y a deux grandes ailes. L'aile du droit privé regroupe les relations entre personnes privées. À l'intérieur : le droit civil (la vie des personnes, la famille, les contrats, la propriété), le droit du travail (employeurs et salariés), le droit commercial (commerçants et entreprises). L'aile du droit public regroupe les relations impliquant l'État. À l'intérieur : le droit constitutionnel (les règles fondamentales de l'État), le droit administratif (les rapports avec l'administration), le droit fiscal (les impôts). Entre les deux ailes : le droit pénal, qui est mixte. Au-delà : le droit international (public entre États, privé entre particuliers de pays différents) et les droits spécialisés. La clé reste toujours la même : qui sont les parties ? La réponse à cette question suffit la plupart du temps.",
+      "definition": "À retenir : Droit privé = personnes privées entre elles (civil, travail, commercial). Droit public = l'État est impliqué (constitutionnel, administratif, fiscal). Droit pénal = mixte. Droit international = entre pays ou entre particuliers de pays différents. Droits spécialisés = environnement, numérique, etc."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Combien y a-t-il de grandes branches fondamentales du droit ?",
+      "choix": [
+        "Une seule grande branche : le droit",
+        "Deux grandes branches : le droit privé et le droit public",
+        "Cinq grandes branches distinctes sans lien entre elles",
+        "Autant de branches que de lois dans le pays"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon commence par dire que la structure est simple.",
+        "Pensez à l'image du supermarché avec deux grandes ailes.",
+        "Tout le reste — civil, travail, commercial, administratif — ce sont des sous-domaines à l'intérieur de ces deux camps."
+      ],
+      "explication": "Il y a deux grandes branches fondamentales : le droit privé et le droit public. Le droit civil, le droit du travail, le droit commercial, le droit constitutionnel, le droit administratif sont des sous-domaines à l'intérieur de ces deux grands camps. La distinction entre les deux repose sur une seule question : qui sont les parties ?"
+    },
+    {
+      "question": "Quelle est la question clé — la boussole — pour savoir si une situation relève du droit privé ou du droit public ?",
+      "choix": [
+        "Quel est le montant d'argent en jeu ?",
+        "Qui sont les parties en présence ?",
+        "Dans quelle ville se passe la situation ?",
+        "Depuis combien de temps le problème existe-t-il ?"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon appelle cette question la boussole pour s'orienter dans le droit.",
+        "Elle permet de distinguer les deux grandes ailes du supermarché.",
+        "Tout dépend de savoir si l'une des parties est l'État ou si ce sont toutes des personnes privées."
+      ],
+      "explication": "La question clé est : qui sont les parties ? Si les deux parties sont des personnes privées, on est dans le droit privé. Si l'une des parties est l'État ou une autorité publique agissant au nom de l'intérêt général, on est dans le droit public. Cette question est la boussole qui permet de s'orienter dans toute la classification du droit."
+    },
+    {
+      "question": "Voahangy se dispute avec son voisin à propos d'un mur mitoyen. Dans quelle grande branche du droit se trouve-t-on ?",
+      "choix": [
+        "Droit public, car le mur est visible de la rue",
+        "Droit privé, car les deux parties sont des personnes privées",
+        "Droit pénal, car c'est une dispute",
+        "Droit international, car le voisin est peut-être étranger"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Posez la question clé : qui sont les parties ?",
+        "Voahangy est une personne privée. Son voisin aussi.",
+        "Aucune autorité publique n'est partie à ce litige."
+      ],
+      "explication": "On est dans le droit privé. Les deux parties — Voahangy et son voisin — sont des personnes privées. Aucune autorité publique n'est impliquée. Plus précisément, c'est le droit civil qui s'applique, car la question du mur mitoyen touche au droit de la propriété, matière relevant du droit civil."
+    },
+    {
+      "question": "Rakoto reçoit un avis d'imposition qu'il conteste auprès du fisc. Dans quelle grande branche du droit se trouve-t-on ?",
+      "choix": [
+        "Droit privé, car c'est une question d'argent entre particuliers",
+        "Droit public, car l'une des parties est l'État (le fisc)",
+        "Droit commercial, car cela concerne des chiffres",
+        "Droit pénal, car contester une taxe est une infraction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Posez la question clé : qui sont les parties ?",
+        "Le fisc, c'est l'administration fiscale, donc l'État.",
+        "Quand l'une des parties est l'État, on est dans quelle grande branche ?"
+      ],
+      "explication": "On est dans le droit public. L'une des parties est le fisc, c'est-à-dire l'administration fiscale — une autorité de l'État. Plus précisément, il s'agit du droit fiscal, sous-domaine du droit public qui organise tout ce qui concerne les impôts et taxes."
+    },
+    {
+      "question": "Pourquoi le droit privé contient-il plusieurs sous-domaines comme le droit civil, le droit du travail et le droit commercial ?",
+      "choix": [
+        "Pour compliquer les études de droit",
+        "Parce que les relations entre personnes privées sont très diverses et nécessitent des règles adaptées à chaque type de situation",
+        "Parce que chaque juge a inventé ses propres règles",
+        "Parce que des pays étrangers nous ont imposé cette organisation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la diversité des situations : un divorce, un licenciement et un contrat commercial n'ont pas les mêmes enjeux.",
+        "Les mêmes règles ne peuvent pas s'appliquer à toutes ces situations.",
+        "Chaque sous-domaine a des règles adaptées à sa réalité propre."
+      ],
+      "explication": "Les sous-domaines existent parce que les relations entre personnes privées sont extrêmement diverses. Les règles qui s'appliquent à un divorce ne sont pas adaptées à un licenciement, ni à un contrat entre commerçants. Chaque sous-domaine — droit civil, droit du travail, droit commercial — a développé ses propres règles pour répondre à la réalité spécifique des situations qu'il couvre."
+    },
+    {
+      "question": "Pourquoi appelle-t-on le droit civil le droit commun du droit privé ?",
+      "choix": [
+        "Parce qu'il s'applique uniquement dans les communes",
+        "Parce qu'il s'applique par défaut quand aucun autre sous-domaine spécialisé n'a prévu de règle pour la situation",
+        "Parce qu'il est identique dans tous les pays du monde",
+        "Parce qu'il est connu de tous les citoyens par cœur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'image du rayon des produits de base dans le supermarché.",
+        "Quand on ne sait pas quel autre sous-domaine s'applique, on revient toujours au droit civil.",
+        "Le mot commun ici veut dire par défaut, pas ordinaire."
+      ],
+      "explication": "Le droit civil est appelé droit commun du droit privé parce qu'il s'applique par défaut : quand une situation ne relève d'aucun sous-domaine spécialisé, ce sont les règles du droit civil qui comblent le vide. C'est le socle sur lequel tous les autres sous-domaines du droit privé s'appuient."
+    },
+    {
+      "question": "Lequel de ces exemples relève du droit civil ?",
+      "choix": [
+        "Un litige entre un salarié et son employeur pour licenciement abusif",
+        "Une dispute entre deux entreprises sur un contrat de fourniture",
+        "La répartition des biens d'une personne décédée entre ses héritiers",
+        "La contestation d'un refus de permis de construire par la mairie"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le droit civil couvre notamment les successions.",
+        "Les autres exemples relèvent du droit du travail, du droit commercial et du droit administratif.",
+        "La succession — le partage des biens après décès — est une matière fondamentale du droit civil."
+      ],
+      "explication": "La répartition des biens d'une personne décédée relève du droit civil, et plus précisément du droit des successions. Les autres exemples relèvent respectivement du droit du travail, du droit commercial et du droit administratif."
+    },
+    {
+      "question": "Pourquoi le droit du travail existe-t-il séparément du droit civil ?",
+      "choix": [
+        "Parce que les travailleurs parlent une langue différente",
+        "Parce que la relation de travail n'est pas une relation d'égaux : le salarié dépend économiquement de l'employeur, et le droit du travail est né pour rééquilibrer cette relation",
+        "Parce que le droit du travail est plus récent et n'existait pas encore quand le droit civil a été créé",
+        "Parce que les travailleurs ont demandé leurs propres règles à l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la position du salarié face à son employeur : sont-ils vraiment égaux ?",
+        "Si on laissait tout régler par le droit civil seul, qu'est-ce qui pourrait se passer ?",
+        "Le droit du travail existe précisément pour corriger ce déséquilibre."
+      ],
+      "explication": "Le droit du travail existe séparément du droit civil parce que la relation entre employeur et salarié n'est pas une relation d'égaux. Le salarié dépend économiquement de son employeur. Sans protection spécifique, il pourrait être contraint d'accepter n'importe quelles conditions. Le droit du travail est né pour rééquilibrer cette relation, d'où ses nombreuses règles impératives."
+    },
+    {
+      "question": "Ratsimba est licencié sans que son employeur respecte la procédure légale à Tamatave. Vers quel sous-domaine du droit privé doit-il se tourner ?",
+      "choix": [
+        "Le droit civil",
+        "Le droit commercial",
+        "Le droit du travail",
+        "Le droit fiscal"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Il s'agit d'un litige entre un employeur et un salarié.",
+        "Quel sous-domaine du droit privé s'occupe précisément de ces relations ?",
+        "La leçon donne cet exemple précis."
+      ],
+      "explication": "C'est le droit du travail qui s'applique. Ce sous-domaine du droit privé régit les relations entre employeurs et salariés, dont les procédures de licenciement. Ratsimba peut saisir le tribunal du travail pour faire reconnaître le caractère abusif du licenciement et obtenir des dommages-intérêts."
+    },
+    {
+      "question": "Mialisoa crée une SARL avec sa cousine à Antananarivo. Quel sous-domaine du droit encadre cette création ?",
+      "choix": [
+        "Le droit civil",
+        "Le droit du travail",
+        "Le droit commercial — droit des sociétés",
+        "Le droit constitutionnel"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La création d'une société commerciale est une activité économique.",
+        "Le droit commercial comprend une sous-matière spécialisée dans les sociétés.",
+        "Une SARL est une forme de société commerciale."
+      ],
+      "explication": "La création d'une SARL relève du droit commercial, et plus précisément du droit des sociétés. C'est ce sous-domaine qui détermine les conditions de création d'une société, les droits et obligations des associés, les règles de décision et ce qui se passe en cas de dissolution."
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre le droit privé et le droit public concernant la position des parties ?",
+      "choix": [
+        "En droit privé et en droit public, les parties sont toujours sur un pied d'égalité",
+        "En droit privé, les parties sont en principe sur un pied d'égalité ; en droit public, l'État dispose de pouvoirs spéciaux que les personnes privées n'ont pas",
+        "En droit public, les parties sont toujours des étrangers",
+        "Il n'y a aucune différence de position entre les parties dans les deux branches"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon parle d'un déséquilibre volontaire en droit public.",
+        "L'État a des pouvoirs spéciaux pour agir au nom de l'intérêt général.",
+        "Un voisin ne peut pas exproprier votre terrain, mais l'État peut le faire sous certaines conditions."
+      ],
+      "explication": "En droit privé, les parties sont en principe sur un pied d'égalité. En droit public, le rapport est fondamentalement différent : l'État dispose de prérogatives de puissance publique — des pouvoirs spéciaux — que les personnes privées n'ont pas, car il agit au nom de l'intérêt général."
+    },
+    {
+      "question": "Quelle est la source principale du droit constitutionnel ?",
+      "choix": [
+        "Le Code civil",
+        "Le Code du travail",
+        "La Constitution",
+        "Le Code général des impôts"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon dit que le droit constitutionnel se situe tout en haut de la hiérarchie des normes.",
+        "Sa source principale porte le même nom que la branche elle-même.",
+        "À Madagascar, c'est elle qui fixe l'organisation de la République."
+      ],
+      "explication": "La source principale du droit constitutionnel est la Constitution. C'est le texte fondamental qui organise les institutions de l'État, fixe les règles du jeu politique et consacre les droits fondamentaux des citoyens. Elle se situe au sommet de la hiérarchie des normes : toutes les autres règles doivent lui être conformes."
+    },
+    {
+      "question": "Vrai ou faux : la Constitution est au sommet de la hiérarchie des normes, ce qui signifie qu'une loi contraire à la Constitution peut être annulée.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La leçon précise que toutes les autres règles doivent respecter la Constitution.",
+        "Quelle institution vérifie cette conformité à Madagascar ?",
+        "Si une loi la contredit, que se passe-t-il ?"
+      ],
+      "explication": "Vrai. La Constitution est la norme suprême. Toutes les autres règles — lois, décrets, règlements — doivent lui être conformes. À Madagascar, c'est la Haute Cour constitutionnelle qui vérifie cette conformité. Si elle constate qu'une loi contredit la Constitution, cette loi ne peut pas être appliquée."
+    },
+    {
+      "question": "Rakoto voit sa demande de permis de construire refusée sans motif par la mairie. Quelle branche du droit et quel tribunal s'appliquent ?",
+      "choix": [
+        "Droit civil — tribunal de première instance",
+        "Droit pénal — tribunal correctionnel",
+        "Droit administratif — tribunal administratif",
+        "Droit commercial — tribunal de commerce"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La mairie est une autorité publique. Quelle grande branche intervient quand l'État est en jeu ?",
+        "Le droit administratif s'occupe précisément des rapports entre citoyens et administration.",
+        "Et quand on est en droit public, quel type de tribunal est compétent ?"
+      ],
+      "explication": "C'est le droit administratif qui s'applique, et c'est le tribunal administratif qui est compétent. La mairie est une autorité administrative : toute décision qu'elle prend relève du droit administratif. Si ce refus est illégal, le tribunal administratif peut l'annuler."
+    },
+    {
+      "question": "À quoi servent les impôts collectés grâce au droit fiscal ?",
+      "choix": [
+        "À enrichir personnellement les fonctionnaires de l'État",
+        "À financer les services publics : routes, hôpitaux, écoles, sécurité",
+        "À payer les avocats des tribunaux",
+        "À récompenser les citoyens qui respectent la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon explique pourquoi le droit fiscal est important pour l'État.",
+        "Sans impôts, comment l'État pourrait-il financer ses missions ?",
+        "Pensez aux services dont bénéficient tous les citoyens."
+      ],
+      "explication": "Les impôts collectés grâce au droit fiscal servent à financer les services publics : les routes, les hôpitaux, les écoles, la sécurité publique. Sans ce système de prélèvement organisé, l'État ne pourrait pas assurer ses missions fondamentales au bénéfice de tous les citoyens."
+    },
+    {
+      "question": "Pourquoi dit-on que le droit pénal est un droit mixte ?",
+      "choix": [
+        "Parce qu'il mélange des règles de plusieurs pays",
+        "Parce qu'il touche à la fois au droit public (l'État poursuit au nom de la société) et aux droits de personnes privées (la victime, l'accusé)",
+        "Parce qu'il s'applique parfois et pas d'autres fois",
+        "Parce qu'il est écrit à moitié en français et à moitié en malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez aux deux dimensions du droit pénal : qui poursuit, et qui est concerné ?",
+        "Le ministère public représente la société — c'est du droit public.",
+        "Mais la victime est une personne privée, et l'accusé aussi."
+      ],
+      "explication": "Le droit pénal est qualifié de mixte parce qu'il présente deux dimensions. D'un côté, il relève du droit public : c'est l'État via le ministère public qui poursuit l'auteur d'une infraction au nom de la société. De l'autre, il touche aux droits de personnes privées : la victime cherche réparation, et les libertés de l'accusé sont en jeu."
+    },
+    {
+      "question": "Fara est victime d'un vol à Toamasina. Elle ne veut pas porter plainte. L'auteur du vol peut-il quand même être poursuivi ?",
+      "choix": [
+        "Non, sans plainte de la victime, aucune poursuite n'est possible",
+        "Oui, le procureur — représentant de l'État — peut décider de poursuivre au nom de la société",
+        "Oui, mais seulement si le vol dépasse un certain montant",
+        "Non, en droit malgache seule la victime peut déclencher une poursuite pénale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En droit pénal, qui représente la société dans les poursuites ?",
+        "L'infraction est une atteinte à l'ordre social, pas seulement à la victime.",
+        "La leçon donne cet exemple précis."
+      ],
+      "explication": "Oui. En droit pénal, c'est le ministère public (le procureur) qui représente la société et peut décider de poursuivre l'auteur d'une infraction, même sans plainte de la victime. Le vol est une atteinte à l'ordre social qui dépasse le préjudice personnel de Fara."
+    },
+    {
+      "question": "Quelle est la différence entre le droit international public et le droit international privé ?",
+      "choix": [
+        "Le droit international public s'applique aux grandes entreprises, le privé aux petites",
+        "Le droit international public régit les relations entre États ; le droit international privé détermine quelle loi nationale s'applique quand une situation privée implique plusieurs pays",
+        "Ce sont deux expressions pour désigner la même chose",
+        "Le droit international public ne s'applique qu'en temps de guerre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez aux parties : des États entre eux, ou des personnes privées de pays différents ?",
+        "Un traité entre Madagascar et la Chine, c'est du droit international public.",
+        "Un contrat entre un entrepreneur malgache et un fournisseur français, c'est du droit international privé."
+      ],
+      "explication": "Le droit international public régit les relations entre États souverains et organisations internationales. Le droit international privé intervient quand une situation juridique entre personnes privées implique plusieurs pays : il détermine quelle loi nationale s'applique et quel tribunal est compétent."
+    },
+    {
+      "question": "Pourquoi Madagascar accorde-t-elle une importance particulière au droit de l'environnement ?",
+      "choix": [
+        "Parce que Madagascar est le pays le plus peuplé du monde",
+        "Parce que Madagascar possède une biodiversité exceptionnelle — des espèces que l'on ne trouve nulle part ailleurs — qui mérite une protection juridique forte",
+        "Parce que le droit de l'environnement est obligatoire uniquement pour les pays insulaires",
+        "Parce que Madagascar a été le premier pays à créer ce droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne explicitement une caractéristique naturelle de Madagascar.",
+        "Madagascar est connue pour quoi dans le monde, en matière d'écologie ?",
+        "Des espèces endémiques sont des espèces qu'on ne trouve qu'à Madagascar."
+      ],
+      "explication": "Madagascar possède une biodiversité exceptionnelle : une grande proportion des espèces animales et végétales qui y vivent sont endémiques — on ne les trouve nulle part ailleurs. Cette richesse naturelle unique justifie un encadrement juridique fort pour protéger les forêts, les espèces menacées et les écosystèmes marins."
+    },
+    {
+      "question": "Vrai ou faux : le droit de l'environnement est facile à classer entièrement soit dans le droit privé, soit dans le droit public.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon dit que certaines branches sortent presque de la classification habituelle.",
+        "Une pollution peut entraîner à la fois des sanctions administratives, pénales et civiles.",
+        "Peut-on vraiment le mettre dans une seule aile du supermarché ?"
+      ],
+      "explication": "Faux. Le droit de l'environnement est difficile à classer car il mobilise simultanément des mécanismes du droit public (sanctions administratives), du droit pénal (poursuites contre les responsables) et du droit privé (indemnisation des victimes). Il transcende la division classique entre les deux grandes branches."
+    },
+    {
+      "question": "Quels sont les trois principaux sous-domaines du droit privé ?",
+      "choix": [
+        "Le droit constitutionnel, le droit administratif et le droit fiscal",
+        "Le droit civil, le droit du travail et le droit commercial",
+        "Le droit pénal, le droit international et le droit de l'environnement",
+        "Le droit fiscal, le droit civil et le droit constitutionnel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous l'aile gauche du supermarché.",
+        "Ces trois sous-domaines couvrent respectivement la vie des personnes, les relations employeur-salarié, et les activités commerciales.",
+        "Le droit constitutionnel et le droit administratif sont dans l'aile droite — le droit public."
+      ],
+      "explication": "Les trois principaux sous-domaines du droit privé sont le droit civil (la vie des personnes, la famille, les contrats, la propriété), le droit du travail (employeurs et salariés du secteur privé) et le droit commercial (commerçants et entreprises). Le droit constitutionnel, administratif et fiscal relèvent du droit public."
+    },
+    {
+      "question": "Quels sont les trois principaux sous-domaines du droit public ?",
+      "choix": [
+        "Le droit civil, le droit du travail et le droit commercial",
+        "Le droit constitutionnel, le droit administratif et le droit fiscal",
+        "Le droit pénal, le droit civil et le droit du travail",
+        "Le droit commercial, le droit fiscal et le droit du travail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous l'aile droite du supermarché.",
+        "Ces trois sous-domaines concernent respectivement les règles fondamentales de l'État, les rapports avec l'administration, et les impôts.",
+        "Le droit civil et le droit du travail sont dans l'aile gauche — le droit privé."
+      ],
+      "explication": "Les trois principaux sous-domaines du droit public sont le droit constitutionnel (organisation de l'État et droits fondamentaux), le droit administratif (rapports entre citoyens et administration) et le droit fiscal (prélèvement des impôts). Le droit civil, du travail et commercial relèvent du droit privé."
+    },
+    {
+      "question": "Vrai ou faux : le droit du travail s'applique aux fonctionnaires de l'État malgache.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les fonctionnaires travaillent pour qui ? Pour l'État.",
+        "L'État est une personne publique ou privée ?",
+        "La relation entre l'État-employeur et ses fonctionnaires relève de quelle grande branche ?"
+      ],
+      "explication": "Faux. Le droit du travail s'applique aux relations entre employeurs privés et leurs salariés. Les fonctionnaires, eux, travaillent pour l'État — une personne publique. Leur relation relève du droit de la fonction publique, qui est une branche du droit administratif. Les règles sont différentes : statut particulier, avancement, discipline administrative."
+    },
+    {
+      "question": "Un contrat entre un commerçant malgache et un fournisseur français donne lieu à un litige. Quelle branche déterminera quelle loi s'applique ?",
+      "choix": [
+        "Le droit pénal",
+        "Le droit constitutionnel",
+        "Le droit international privé",
+        "Le droit administratif"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La situation implique deux parties de pays différents.",
+        "Ce sont des personnes privées — pas des États.",
+        "Le droit international se divise en deux : lequel concerne les personnes privées ?"
+      ],
+      "explication": "Le droit international privé est compétent. Il intervient quand une situation juridique entre personnes privées implique plusieurs pays. Ici, les parties sont un commerçant malgache et un fournisseur français : le droit international privé déterminera quelle loi nationale s'applique et quel tribunal est compétent."
+    },
+    {
+      "question": "Lequel de ces actes relève du droit administratif ?",
+      "choix": [
+        "Un divorce entre deux époux",
+        "Un licenciement dans une entreprise privée",
+        "La contestation d'une décision de la préfecture refusant une autorisation",
+        "Un contrat de vente entre deux commerçants"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le droit administratif concerne les rapports entre citoyens et administration publique.",
+        "La préfecture est une autorité administrative — une personne publique.",
+        "Posez la question clé : qui sont les parties ?"
+      ],
+      "explication": "La contestation d'une décision de la préfecture relève du droit administratif. La préfecture est une autorité administrative, et sa décision peut être contestée devant le tribunal administratif. Les autres exemples relèvent du droit civil, du droit du travail et du droit commercial — tous des domaines du droit privé."
+    },
+    {
+      "question": "Vrai ou faux : une même situation peut relever de plusieurs branches du droit en même temps.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Pensez à l'exemple de la pollution industrielle dans la leçon.",
+        "Elle déclenche à la fois des sanctions administratives, pénales et civiles.",
+        "Les branches du droit ne sont pas des frontières hermétiques."
+      ],
+      "explication": "Vrai. Une même situation peut mobiliser plusieurs branches du droit simultanément. Par exemple, une entreprise qui pollue une rivière peut faire l'objet d'une fermeture administrative (droit administratif), d'une poursuite pénale (droit pénal), et d'une action en réparation des victimes (droit civil). Les branches du droit sont des outils d'organisation, pas des compartiments étanches."
+    },
+    {
+      "question": "Quel est le rôle du ministère public (parquet) en droit pénal ?",
+      "choix": [
+        "Défendre les intérêts de la victime uniquement",
+        "Représenter la société et décider si des poursuites pénales sont engagées contre l'auteur d'une infraction",
+        "Rédiger les lois pénales pour le Parlement",
+        "Décider du montant des indemnités versées aux victimes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En droit pénal, c'est l'État qui réagit à l'infraction, pas seulement la victime.",
+        "Un organe spécifique représente la société dans ces poursuites.",
+        "La leçon mentionne cet organe : le parquet."
+      ],
+      "explication": "Le ministère public (parquet, composé des procureurs) représente la société dans les poursuites pénales. C'est lui qui décide si des poursuites sont engagées contre l'auteur d'une infraction, au nom de l'intérêt général. Il peut agir même sans plainte de la victime, car l'infraction est considérée comme une atteinte à l'ordre social."
+    },
+    {
+      "question": "Qu'est-ce que les prérogatives de puissance publique dont dispose l'État en droit public ?",
+      "choix": [
+        "Le droit pour les citoyens de voter aux élections",
+        "Des pouvoirs spéciaux que l'État possède et que les personnes privées n'ont pas, comme le pouvoir d'exproprier ou de décider unilatéralement",
+        "Le droit pour les avocats de plaider devant tous les tribunaux",
+        "La possibilité pour les juges de modifier les lois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon donne l'exemple de l'expropriation.",
+        "Un voisin peut-il prendre votre terrain pour construire une route ? L'État, oui, sous conditions.",
+        "Ces pouvoirs spéciaux se justifient parce que l'État agit au nom de l'intérêt général."
+      ],
+      "explication": "Les prérogatives de puissance publique sont des pouvoirs spéciaux dont dispose l'État que les personnes privées n'ont pas. Par exemple : exproprier un bien privé pour utilité publique, prendre des décisions unilatérales qui s'imposent aux administrés. Ces pouvoirs se justifient par la mission de l'État : agir au nom de l'intérêt général."
+    },
+    {
+      "question": "Vrai ou faux : le droit constitutionnel s'applique uniquement au moment des élections.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit constitutionnel organise les institutions et garantit les droits fondamentaux en permanence.",
+        "La Constitution ne s'active pas seulement pendant les élections.",
+        "Le contrôle de constitutionnalité des lois peut se faire à n'importe quel moment."
+      ],
+      "explication": "Faux. Le droit constitutionnel s'applique en permanence. Il organise continuellement les institutions de l'État, encadre l'action du gouvernement et du Parlement, et garantit à tout moment les droits fondamentaux des citoyens. Le contrôle de constitutionnalité peut être exercé à n'importe quel moment."
+    },
+    {
+      "question": "Un entrepreneur à Antananarivo ne peut plus payer ses dettes. Quel sous-domaine du droit commercial s'applique ?",
+      "choix": [
+        "Le droit des contrats civils",
+        "Le droit pénal",
+        "Les procédures collectives — redressement ou liquidation judiciaire",
+        "Le droit constitutionnel"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon mentionne une sous-matière du droit commercial pour les entreprises en difficulté.",
+        "Il peut s'agir de sauver l'entreprise (redressement) ou de la dissoudre (liquidation).",
+        "C'est une branche du droit commercial, pas du droit civil ou public."
+      ],
+      "explication": "Les difficultés financières d'une entreprise qui ne peut plus payer ses dettes relèvent du droit commercial, sous-domaine des procédures collectives. Cette branche prévoit deux issues : le redressement judiciaire si l'entreprise peut être sauvée, ou la liquidation judiciaire si sa situation est irrémédiable."
+    },
+    {
+      "question": "Lequel de ces exemples illustre une situation de droit public ?",
+      "choix": [
+        "Deux voisins se disputent la propriété d'un terrain",
+        "Un salarié conteste son licenciement devant le tribunal du travail",
+        "Un citoyen conteste devant le tribunal administratif une décision illégale de la mairie",
+        "Deux commerçants règlent un litige sur un contrat de fourniture"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Posez la question clé : qui sont les parties ?",
+        "La mairie est une autorité publique — une personne publique.",
+        "Quand l'une des parties est l'État ou une collectivité, quelle grande branche s'applique ?"
+      ],
+      "explication": "La contestation d'une décision de la mairie devant le tribunal administratif relève du droit public. La mairie est une collectivité territoriale — une personne publique. Les autres exemples impliquent uniquement des personnes privées entre elles et relèvent donc du droit privé."
+    },
+    {
+      "question": "Vrai ou faux : le droit fiscal ne concerne que les entreprises, pas les particuliers.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon dit que le droit fiscal s'adresse à tout le monde.",
+        "Pensez à l'impôt sur le revenu — qui le paie ?",
+        "Et la taxe foncière sur les propriétés — qui la paie ?"
+      ],
+      "explication": "Faux. Le droit fiscal s'adresse aussi bien aux particuliers qu'aux entreprises. Les particuliers sont soumis à l'impôt sur le revenu, à la taxe foncière sur leurs propriétés, etc. Les entreprises paient l'impôt sur les bénéfices, la TVA, et d'autres taxes spécifiques."
+    },
+    {
+      "question": "Pour s'orienter dans le droit, la leçon propose une image. Laquelle ?",
+      "choix": [
+        "Un tribunal avec deux salles d'audience",
+        "Un supermarché avec deux grandes ailes et des rayons spécialisés à l'intérieur",
+        "Une forêt avec des arbres et des branches",
+        "Une carte de Madagascar divisée en régions"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon utilise une métaphore concrète pour expliquer la structure du droit.",
+        "Cette image comporte deux grandes parties, avec des sous-divisions à l'intérieur.",
+        "Elle aide à comprendre que les sous-domaines sont à l'intérieur des deux grandes branches."
+      ],
+      "explication": "La leçon propose l'image d'un supermarché avec deux grandes ailes — l'aile gauche pour le droit privé et l'aile droite pour le droit public — avec des rayons spécialisés à l'intérieur de chaque aile. Cette image aide à comprendre que le droit civil, le droit du travail ou le droit administratif ne sont pas des branches indépendantes, mais des rayons à l'intérieur des deux grandes branches fondamentales."
+    },
+    {
+      "question": "Vrai ou faux : le droit international public et le droit international privé sont deux expressions désignant la même chose.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon précise qu'il ne faut pas les confondre.",
+        "Le premier concerne les États entre eux. Le second concerne les personnes privées de pays différents.",
+        "Leurs parties sont différentes, leurs règles sont différentes."
+      ],
+      "explication": "Faux. Ce sont deux branches distinctes. Le droit international public régit les relations entre États et organisations internationales. Le droit international privé s'applique aux situations entre personnes privées qui impliquent plusieurs pays. Leurs parties, leurs règles et leurs enjeux sont très différents."
+    },
+    {
+      "question": "Vrai ou faux : le droit civil s'applique uniquement en France, pas à Madagascar.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne l'histoire du droit civil malgache.",
+        "Madagascar a son propre droit civil, adapté depuis l'indépendance.",
+        "L'héritage historique ne signifie pas que le droit appartient à un autre pays."
+      ],
+      "explication": "Faux. Madagascar possède son propre droit civil. Certes, le droit civil malgache est largement hérité du Code civil français, mais il a été adapté et complété par des textes nationaux depuis l'indépendance. Il est aujourd'hui pleinement malgache et s'applique sur le territoire de Madagascar."
+    },
+    {
+      "question": "Madagascar signe un accord de coopération avec l'ONU pour protéger ses forêts. Quelle branche du droit s'applique ?",
+      "choix": [
+        "Droit commercial international",
+        "Droit international privé",
+        "Droit international public",
+        "Droit administratif malgache"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les parties sont l'État malgache et une organisation internationale (l'ONU).",
+        "Ce sont des États et organisations, pas des personnes privées.",
+        "Quelle branche régit les relations entre États et organisations internationales ?"
+      ],
+      "explication": "C'est le droit international public. Les parties au traité sont l'État malgache et l'ONU — une organisation internationale. Le droit international public régit précisément les relations entre États et organisations internationales, y compris les accords de coopération environnementale."
+    },
+    {
+      "question": "Un salarié dans une usine privée subit un grave accident de travail parce que l'employeur n'a pas respecté les règles de sécurité. Quelles branches du droit peuvent être mobilisées ?",
+      "choix": [
+        "Uniquement le droit civil",
+        "Uniquement le droit pénal",
+        "Le droit du travail, le droit pénal et le droit civil — plusieurs branches simultanément",
+        "Uniquement le droit constitutionnel"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les violations des règles de sécurité au travail peuvent avoir plusieurs types de conséquences.",
+        "Le droit du travail prévoit des obligations de sécurité. Et si un accident grave survient ?",
+        "Un même fait peut-il relever de plusieurs branches en même temps ?"
+      ],
+      "explication": "Un grave accident de travail peut mobiliser plusieurs branches simultanément : le droit du travail (obligations de sécurité à la charge de l'employeur), le droit pénal (poursuites pour mise en danger de la vie d'autrui ou blessures involontaires), et le droit civil (le salarié blessé peut demander réparation de son préjudice). C'est un exemple typique d'entrecroisement des branches."
+    },
+    {
+      "question": "Quelle est la limite de l'image du supermarché pour expliquer le droit ?",
+      "choix": [
+        "Les supermarchés n'existent pas à Madagascar",
+        "Certaines situations — comme en droit pénal ou en droit de l'environnement — touchent aux deux ailes en même temps, ce que l'image ne rend pas parfaitement",
+        "Cette image est parfaitement exacte et ne comporte aucune limite",
+        "Le supermarché a plus de deux ailes en réalité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit pénal est qualifié de droit mixte : ni entièrement dans une aile, ni dans l'autre.",
+        "Le droit de l'environnement mobilise les deux ailes simultanément.",
+        "Une image pédagogique simplifie toujours la réalité."
+      ],
+      "explication": "La limite de l'image est que certaines branches du droit — notamment le droit pénal et le droit de l'environnement — touchent aux deux ailes en même temps. Une même situation peut mobiliser à la fois le droit privé et le droit public. L'image est utile pour comprendre la structure de base, mais la réalité est parfois plus complexe."
+    },
+    {
+      "question": "Fara ouvre un restaurant et embauche un cuisinier. Elle rédige son contrat de travail. Quel droit encadre ce contrat ?",
+      "choix": [
+        "Le droit commercial, car Fara est commerçante",
+        "Le droit du travail, car il s'agit d'une relation employeur-salarié",
+        "Le droit civil, car c'est un contrat entre deux personnes",
+        "Le droit administratif, car l'État surveille les restaurants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'agit d'une relation entre un employeur et un salarié.",
+        "Quel sous-domaine du droit privé s'occupe précisément de ces relations ?",
+        "Même si Fara est commerçante, la relation avec son salarié relève d'un droit spécifique."
+      ],
+      "explication": "C'est le droit du travail qui encadre le contrat entre Fara et son cuisinier. Même si Fara est commerçante, la relation avec ses salariés relève du droit du travail. Le droit commercial et le droit du travail coexistent dans l'activité d'une entreprise sans se confondre."
+    },
+    {
+      "question": "Selon la leçon, si vous deviez retenir une seule chose, ce serait :",
+      "choix": [
+        "Apprendre par cœur tous les noms des branches du droit",
+        "Le droit est organisé en deux grandes branches (privé et public) avec des sous-domaines spécialisés, et la clé pour s'orienter est toujours : qui sont les parties ?",
+        "Le droit est trop complexe pour être compris sans études universitaires longues",
+        "Les branches du droit sont fixées une fois pour toutes et n'évoluent jamais"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon commence et finit par la même idée.",
+        "La structure de base est simple : deux grandes branches.",
+        "La boussole pour s'orienter ne change jamais."
+      ],
+      "explication": "L'enseignement central est que le droit a une structure simple à sa base : deux grandes branches (droit privé et droit public) avec des sous-domaines spécialisés à l'intérieur, et que la clé pour s'orienter est toujours la même question : qui sont les parties ? Tout le reste découle de cette boussole simple."
+    },
+    {
+      "question": "La Constitution malgache garantit la liberté d'expression. Un citoyen estime qu'une nouvelle loi la restreint illégalement. Quelle est la démarche appropriée ?",
+      "choix": [
+        "Porter plainte au commissariat",
+        "Saisir le tribunal du travail",
+        "Saisir la Haute Cour constitutionnelle pour un contrôle de constitutionnalité",
+        "Saisir le tribunal de commerce"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Il s'agit de vérifier si une loi respecte la Constitution.",
+        "C'est le domaine du droit constitutionnel.",
+        "Quelle institution est compétente pour ce contrôle à Madagascar ?"
+      ],
+      "explication": "La démarche appropriée est de saisir la Haute Cour constitutionnelle pour un contrôle de constitutionnalité. C'est l'institution chargée de vérifier que les lois votées par le Parlement respectent bien la Constitution. Si elle déclare la loi inconstitutionnelle, celle-ci ne peut pas être appliquée."
+    },
+    {
+      "question": "Laquelle de ces affirmations résume le mieux la structure du droit telle qu'expliquée dans la leçon ?",
+      "choix": [
+        "Le droit est une matière complexe sans structure logique, accessible uniquement aux spécialistes",
+        "Il y a deux grandes branches fondamentales (droit privé et droit public) avec des sous-domaines spécialisés à l'intérieur ; la clé pour s'orienter est toujours de se demander qui sont les parties",
+        "Il y a autant de branches du droit que de situations humaines possibles",
+        "Le droit se divise uniquement en droit civil et droit pénal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cherchez la réponse qui reprend les deux idées centrales : deux grandes branches et la question clé.",
+        "La leçon commence par dire que la structure est simple.",
+        "L'image du supermarché illustre cette simplicité de base."
+      ],
+      "explication": "La leçon enseigne que la structure du droit est simple à sa base : deux grandes branches fondamentales (droit privé et droit public), avec des sous-domaines spécialisés à l'intérieur de chaque camp. La boussole pour s'orienter reste toujours la même : qui sont les parties ? La réponse à cette question suffit la plupart du temps."
+    },
+    {
+      "question": "Un propriétaire apprend que l'État veut construire une route nationale en passant sur son terrain. Il sera indemnisé mais ne peut pas refuser. Ce pouvoir de l'État s'appelle :",
+      "choix": [
+        "La confiscation pénale",
+        "L'expropriation pour utilité publique — une prérogative de puissance publique relevant du droit public",
+        "Le vol légalisé relevant du droit civil",
+        "Une sanction fiscale relevant du droit fiscal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon donne cet exemple pour illustrer les pouvoirs spéciaux de l'État.",
+        "Ce pouvoir n'appartient qu'à l'État et pas aux personnes privées.",
+        "L'État l'exerce au nom de l'intérêt général, moyennant indemnisation."
+      ],
+      "explication": "Ce pouvoir s'appelle l'expropriation pour utilité publique. C'est une prérogative de puissance publique de l'État : il peut prendre un bien privé pour réaliser un ouvrage d'intérêt général (route, école, hôpital), à condition d'indemniser le propriétaire. Aucune personne privée ne dispose de ce pouvoir."
+    },
+    {
+      "question": "Vrai ou faux : quand on parle de droit des sociétés, le mot société désigne la société humaine en général.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans le vocabulaire juridique, le mot société a un sens technique précis.",
+        "La leçon mentionne des formes de sociétés commerciales : SARL, SA, etc.",
+        "Ce sous-domaine encadre la vie juridique des entreprises, pas celle de la communauté humaine."
+      ],
+      "explication": "Faux. Dans le vocabulaire juridique, le mot société désigne une entreprise — une SARL, une SA, une SNC, etc. — et non la société humaine au sens sociologique. Le droit des sociétés est le sous-domaine du droit commercial qui régit la création, le fonctionnement et la dissolution de ces entités juridiques que sont les entreprises."
+    },
+    {
+      "question": "Pourquoi les juges sont-ils différents selon que le litige relève du droit privé ou du droit public ?",
+      "choix": [
+        "C'est une décision arbitraire sans logique juridique",
+        "Parce que les règles applicables sont différentes, ce qui nécessite des juges spécialisés dans chaque domaine",
+        "Parce que les juges refusent de traiter certaines affaires",
+        "Parce que les tribunaux sont situés dans des villes différentes à Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne que quand les règles sont différentes, les juges le sont aussi.",
+        "Un juge civil et un juge administratif n'appliquent pas les mêmes règles.",
+        "La spécialisation des juges permet une meilleure application du droit."
+      ],
+      "explication": "Les juges sont différents parce que les règles applicables sont différentes selon la branche du droit concernée. Un juge civil applique le Code civil et les règles du droit privé ; un juge administratif applique le droit administratif avec ses règles spécifiques au droit public. Cette spécialisation garantit une meilleure expertise dans chaque domaine."
+    },
+    {
+      "question": "Quel est l'intérêt pratique, pour un citoyen malgache ordinaire, de connaître les grandes branches du droit ?",
+      "choix": [
+        "Aucun : c'est une connaissance réservée aux avocats et aux juges",
+        "Cela permet de savoir vers quel type de juridiction se tourner et quelles règles invoquer pour défendre ses droits",
+        "Cela permet d'éviter de payer des impôts",
+        "Cela permet d'obtenir automatiquement gain de cause dans tout litige"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la diversité des tribunaux : tribunal du travail, tribunal administratif, tribunal de commerce, etc.",
+        "Si vous allez devant le mauvais tribunal, votre demande peut être rejetée.",
+        "Connaître la bonne branche, c'est connaître la bonne porte à pousser."
+      ],
+      "explication": "Connaître les branches du droit a une utilité pratique directe pour tout citoyen : cela permet de savoir vers quel tribunal se tourner en cas de litige, et quelles règles sont applicables à sa situation. Se tromper de branche, c'est risquer d'aller frapper à la mauvaise porte et voir sa demande rejetée."
+    },
+    {
+      "question": "Dans le récapitulatif final de la leçon, où se situe le droit pénal par rapport aux deux grandes ailes ?",
+      "choix": [
+        "Entièrement dans l'aile du droit privé",
+        "Entièrement dans l'aile du droit public",
+        "Entre les deux ailes, car c'est un droit mixte",
+        "En dehors du supermarché, car il ne fait pas partie du droit"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La leçon résume la position du droit pénal dans son récapitulatif.",
+        "Il n'est ni entièrement dans une aile, ni dans l'autre.",
+        "Sa double dimension — État qui poursuit + personnes privées concernées — explique sa position particulière."
+      ],
+      "explication": "Le droit pénal se situe entre les deux ailes dans le récapitulatif de la leçon, car c'est un droit mixte. Il ne peut pas être classé entièrement dans le droit privé ni dans le droit public : il touche aux deux simultanément. C'est cette position intermédiaire qui illustre son originalité par rapport aux autres branches."
+    },
+    {
+      "question": "Vrai ou faux : le droit du travail fait partie du droit public.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous la boussole : qui sont les parties dans une relation de travail dans le secteur privé ?",
+        "Un employeur privé et un salarié sont-ils des personnes publiques ou privées ?",
+        "Quand les deux parties sont des personnes privées, dans quelle grande branche se trouve-t-on ?"
+      ],
+      "explication": "Faux. Le droit du travail fait partie du droit privé, car il régit les relations entre deux personnes privées : l'employeur (individu ou entreprise) et le salarié. Même si l'État encadre fortement ces relations par des règles impératives, les parties restent des personnes privées. Il ne faut pas le confondre avec le droit de la fonction publique, qui régit les agents de l'État et relève lui du droit public."
+    },
+    {
+      "question": "Lequel de ces actes relève du droit commercial et non du droit civil ?",
+      "choix": [
+        "Un particulier qui vend sa voiture à un ami",
+        "Un mariage célébré à Antananarivo",
+        "Un contrat de fourniture signé entre deux entreprises",
+        "Le partage d'un héritage entre frères et sœurs"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le droit commercial s'applique aux activités économiques des commerçants et entreprises.",
+        "Un particulier qui vend sa voiture n'est pas un commerçant — c'est une relation civile.",
+        "Cherchez l'acte qui implique deux acteurs économiques professionnels dans le cadre de leur activité."
+      ],
+      "explication": "Le contrat de fourniture entre deux entreprises relève du droit commercial, car les deux parties sont des commerçants agissant dans le cadre de leur activité économique. Les autres exemples (vente de voiture entre particuliers, mariage, héritage) relèvent du droit civil, car ils mettent en jeu des personnes privées en dehors de toute activité commerciale professionnelle."
+    },
+    {
+      "question": "Quel sous-domaine du droit public encadre les marchés publics — c'est-à-dire les contrats par lesquels l'État achète des biens ou services à des entreprises privées ?",
+      "choix": [
+        "Le droit civil, car c'est un contrat",
+        "Le droit commercial, car des entreprises sont impliquées",
+        "Le droit administratif, car l'une des parties est l'État agissant dans l'intérêt général",
+        "Le droit pénal, car l'État surveille les entreprises"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Posez la question clé : qui sont les parties ?",
+        "L'une des parties est l'État qui achète. L'autre est une entreprise privée.",
+        "Quand l'État est l'une des parties, quelle grande branche s'applique ?"
+      ],
+      "explication": "Les marchés publics relèvent du droit administratif, sous-domaine du droit public. Même si une entreprise privée est impliquée, c'est l'État (ou une collectivité) qui est l'autre partie, agissant pour l'intérêt général. La boussole le confirme : une partie est l'État → droit public → droit administratif. Des règles spécifiques encadrent la transparence et la concurrence entre entreprises pour obtenir ces marchés."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Mialisoa travaille dans une usine privée à Tamatave. Son employeur lui impose 70 heures par semaine sans payer les heures supplémentaires. Par ailleurs, l'usine déverse des déchets chimiques dans la rivière voisine. Des villageois sont intoxiqués et le directeur est arrêté. Pour chacune des deux situations, dites dans quelle(s) branche(s) du droit on se trouve et expliquez pourquoi en utilisant la boussole : qui sont les parties ?",
+      "choix": [
+        "Les deux situations relèvent uniquement du droit civil",
+        "Situation 1 : droit du travail — sous-domaine du droit privé, car les parties sont un employeur privé et une salariée. Situation 2 : droit pénal, droit de l'environnement et droit civil pour les victimes — plusieurs branches simultanément",
+        "Les deux situations relèvent uniquement du droit pénal",
+        "Situation 1 : droit constitutionnel. Situation 2 : droit commercial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Situation 1 : posez la question clé. Qui est Mialisoa ? Une salariée. Qui est son employeur ? Une personne privée. Quelle branche régit ces relations ?",
+        "Situation 1 : les règles sur les heures supplémentaires sont-elles impératives ? Peut-on y déroger même par accord signé ?",
+        "Situation 2 : la pollution touche à la fois l'ordre social (l'État intervient → droit pénal) et les droits des villageois (personnes privées → droit civil). Peut-on mobiliser plusieurs branches en même temps ?"
+      ],
+      "explication": "Situation 1 — heures supplémentaires non payées : On est dans le droit du travail, sous-domaine du droit privé. La boussole dit : les parties sont une salariée (Mialisoa) et un employeur privé — deux personnes privées → droit privé. Et comme c'est une relation employeur-salarié, le sous-domaine spécialisé est le droit du travail. Ses règles sur les heures supplémentaires sont impératives : l'employeur ne peut pas s'y soustraire même par accord signé. Mialisoa peut saisir le tribunal du travail. Situation 2 — pollution et intoxication : Plusieurs branches sont mobilisées simultanément, illustrant que les branches ne sont pas des compartiments étanches. Le droit pénal intervient car l'État, via le procureur, poursuit le directeur pour pollution criminelle et mise en danger de la vie d'autrui. Le droit de l'environnement peut conduire à la fermeture administrative de l'usine. Et le droit civil permet aux villageois intoxiqués d'obtenir réparation de leur préjudice. Une même situation, trois branches."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Fara veut ouvrir un restaurant à Antananarivo. Elle fait face à quatre situations : (1) la mairie refuse son permis d'exploitation sans motif ; (2) elle crée une société avec sa cousine ; (3) elle embauche un cuisinier et rédige son contrat de travail ; (4) elle reçoit son premier avis d'imposition et ne comprend pas comment il a été calculé. Pour chacune des quatre situations, identifiez la branche du droit applicable en utilisant la boussole : qui sont les parties ?",
+      "choix": [
+        "Les quatre situations relèvent toutes du droit civil",
+        "(1) Droit administratif — la mairie est une autorité publique → droit public. (2) Droit commercial / droit des sociétés — Fara et sa cousine, deux personnes privées, activité commerciale → droit privé. (3) Droit du travail — Fara (employeur) et le cuisinier (salarié), deux personnes privées → droit privé. (4) Droit fiscal — Fara et le fisc (l'État) → droit public.",
+        "Les quatre situations relèvent toutes du droit pénal",
+        "(1) Droit pénal ; (2) Droit constitutionnel ; (3) Droit civil ; (4) Droit commercial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pour chaque situation, posez la même question : qui sont les parties ? Une personne publique (État, mairie, fisc) est-elle impliquée ?",
+        "Situation 1 : la mairie est-elle une personne privée ou une autorité publique ?",
+        "Situations 2 et 3 : Fara et ses interlocuteurs (cousine, cuisinier) sont-ils tous des personnes privées ? Situation 4 : le fisc, c'est l'État ou une personne privée ?"
+      ],
+      "explication": "Situation 1 — refus de permis par la mairie : Droit administratif (droit public). Boussole : les parties sont Fara (personne privée) et la mairie (autorité publique) → une partie est publique → droit public → droit administratif. Le refus peut être contesté devant le tribunal administratif. Situation 2 — création d'une société avec sa cousine : Droit commercial, sous-domaine du droit des sociétés (droit privé). Boussole : les parties sont Fara et sa cousine, deux personnes privées, pour une activité commerciale → droit privé → droit commercial → droit des sociétés. Situation 3 — contrat de travail avec le cuisinier : Droit du travail (droit privé). Boussole : les parties sont Fara (employeur privé) et le cuisinier (salarié), deux personnes privées dans une relation d'emploi → droit privé → droit du travail. Situation 4 — avis d'imposition : Droit fiscal (droit public). Boussole : les parties sont Fara et le fisc (l'administration fiscale = l'État) → une partie est l'État → droit public → droit fiscal. Ces quatre situations montrent que dans la vie d'une seule personne, plusieurs branches du droit interviennent au quotidien."
+    }
+  ]
+}
