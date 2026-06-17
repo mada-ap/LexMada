@@ -1,0 +1,926 @@
+{
+  "titre": "Les obligations : naissance et classification de leurs sources",
+  "module": "Module 17 — Les obligations : naissance et classification",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'une obligation ?",
+      "texte": "Avant de classer les obligations, il faut savoir ce qu'elles sont. Une obligation est un lien de droit qui unit deux personnes au moins : celle qui peut exiger quelque chose, le créancier, et celle qui doit l'accomplir, le débiteur. Ce lien porte toujours sur une prestation : donner une chose, accomplir un acte, ou s'abstenir d'agir. Ce qui caractérise l'obligation, c'est qu'elle ne s'exerce jamais directement sur une chose, mais toujours à l'encontre d'une personne déterminée. C'est ce qui la distingue du droit réel, qui porte directement sur un bien (la propriété, par exemple) sans qu'aucune autre personne n'ait à intervenir pour qu'il produise effet. Le droit de créance qui naît de l'obligation est donc un droit personnel : il ne vaut qu'à l'égard du débiteur désigné, et c'est pourquoi le créancier ne peut en exiger l'exécution que de lui, ou, à défaut, sur l'ensemble de son patrimoine.",
+      "definition": "Obligation : lien de droit en vertu duquel une ou plusieurs personnes (le ou les créanciers) peuvent contraindre une ou plusieurs autres personnes (le ou les débiteurs) à donner, à faire, ou à ne pas faire quelque chose. Elle fait naître un droit de créance, ou droit personnel, qui se distingue du droit réel en ce qu'il ne s'exerce qu'à l'encontre d'une personne déterminée, et non directement sur une chose."
+    },
+    {
+      "titre": "Les trois objets possibles de l'obligation",
+      "texte": "Quelle que soit sa source, toute obligation porte nécessairement sur l'un de ces trois objets : donner, faire, ou ne pas faire. L'obligation de donner consiste à transférer la propriété d'une chose ou un autre droit réel ; c'est elle qui caractérise la vente ou la donation. L'obligation de faire impose au débiteur l'accomplissement d'une prestation positive : réparer un bien, transporter une marchandise, exécuter un travail. L'obligation de ne pas faire impose au contraire une abstention : ne pas construire au-delà d'une certaine hauteur, ne pas faire concurrence à son ancien employeur pendant une période déterminée. Cette distinction n'est pas seulement théorique : elle conditionne le mode d'exécution forcée disponible. L'obligation de donner et, dans une certaine mesure, l'obligation de faire peuvent en principe être exécutées en nature ; l'obligation de ne pas faire, en revanche, ne peut jamais l'être une fois la violation consommée, puisqu'on ne peut effacer un fait déjà accompli — elle ne donne alors ouverture qu'à des dommages-intérêts.",
+      "definition": "Les trois objets de l'obligation : obligation de donner (transférer un droit réel sur une chose), obligation de faire (accomplir une prestation positive) et obligation de ne pas faire (s'abstenir d'un acte). Cette classification détermine notamment les modalités de l'exécution forcée applicables en cas d'inexécution.",
+      "exemple": "Dans un contrat de vente d'un terrain, le vendeur a une obligation de donner (transférer la propriété) et l'acheteur une obligation de donner également (payer le prix, qui porte sur une somme d'argent). Dans un contrat d'entrepreneur, le maçon a une obligation de faire (construire le mur). Dans une clause de confidentialité, l'ancien salarié a une obligation de ne pas faire (ne pas divulguer les informations de l'entreprise)."
+    },
+    {
+      "titre": "Obligation et contrat : deux notions à ne pas confondre",
+      "texte": "Il est tentant de confondre obligation et contrat, d'autant que les codes civils issus du modèle français ont longtemps entretenu cette confusion en présentant la définition de l'obligation à l'occasion de celle du contrat. Pourtant, les deux notions sont très différentes : l'obligation est le genre, le contrat n'en est qu'une espèce, l'une de ses sources possibles. À proprement parler, le contrat n'est même pas une obligation : c'est un accord de volontés qui produit des obligations, qui en modifie, ou qui en éteint. Cette distinction a longtemps été obscurcie dans la présentation traditionnelle du droit des obligations, où l'on traitait des « effets des obligations » sous l'intitulé général des contrats, alors que ces effets concernent en réalité toutes les obligations, quelle qu'en soit l'origine. Comprendre que le contrat n'est qu'une source parmi d'autres permet de saisir pourquoi la question de la classification des sources occupe une place si centrale dans la théorie des obligations.",
+      "definition": "L'obligation est le genre ; le contrat n'en est qu'une espèce, c'est-à-dire l'une des sources possibles de l'obligation. Le contrat ne se confond pas avec l'obligation : il en est la cause, et non l'obligation elle-même."
+    },
+    {
+      "titre": "La classification historique héritée du droit romain : cinq sources",
+      "texte": "Pendant des siècles, la doctrine civiliste a présenté les sources des obligations selon une liste à cinq éléments, héritée — de manière approximative — du droit romain par l'intermédiaire de juristes comme Domat et Pothier : le contrat, le quasi-contrat, le délit, le quasi-délit, et la loi. Le contrat occupait la première place, comme source la plus féconde et la plus fréquente dans la vie courante. Venaient ensuite les « autres causes » des obligations, regroupées un peu pêle-mêle : les engagements nés d'un fait personnel licite (le quasi-contrat), ceux nés d'un fait personnel illicite et volontaire (le délit) ou involontaire (le quasi-délit), et enfin les obligations imposées directement par la loi, indépendamment de tout fait du débiteur. Cette classification quinquépartite a été reprise par le Code civil et a longtemps structuré l'enseignement du droit des obligations, y compris dans les territoires où ce code a été appliqué.",
+      "definition": "Classification quinquépartite traditionnelle des sources des obligations : le contrat, le quasi-contrat, le délit, le quasi-délit, et la loi. Héritée de Pothier et Domat, elle a structuré l'exposé du droit des obligations dans le Code civil pendant tout le XIXe siècle."
+    },
+    {
+      "titre": "Le quasi-contrat : une catégorie née d'une erreur historique",
+      "texte": "De toutes les catégories de cette classification ancienne, le quasi-contrat est sans doute la plus fragile, et la doctrine moderne s'accorde aujourd'hui largement à la considérer comme une erreur de méthode. L'origine du problème est linguistique : les juristes romains, constatant que certaines obligations ne provenaient ni d'un contrat ni d'un délit mais leur ressemblaient par certains effets, disaient qu'elles naissaient « comme si » elles provenaient d'un contrat — quasi ex contractu. C'était une simple comparaison, pas la création d'une catégorie autonome. Or, au fil du temps, cette expression de comparaison s'est figée en un nom : le « quasi-contrat », présenté comme une véritable source d'obligation à part entière, ce que les Romains n'avaient jamais voulu dire. Le Code civil n'a retenu sous ce nom que deux situations : la gestion d'affaires et le paiement de l'indu (la restitution d'une somme reçue par erreur). Mais en y regardant de près, ni le gérant d'affaires ni celui qui doit restituer un paiement indu n'ont accompli un acte volontaire destiné à créer une obligation à leur charge : c'est la loi elle-même, au nom du principe selon lequel nul ne doit s'enrichir injustement aux dépens d'autrui, qui impose ces obligations. Le terme « quasi-contrat » masque donc plus qu'il n'éclaire la véritable nature de ces obligations.",
+      "definition": "Quasi-contrat : catégorie traditionnelle, aujourd'hui largement critiquée, regroupant la gestion d'affaires et le paiement de l'indu. Née d'une confusion historique autour de l'expression romaine quasi ex contractu (« comme si elle naissait d'un contrat »), elle a été progressivement abandonnée par la doctrine moderne au profit d'une analyse directe fondée sur la loi et le principe de l'enrichissement sans cause."
+    },
+    {
+      "titre": "Vers une classification simplifiée : la bipartition contrat / autres sources",
+      "texte": "Dès le début du XIXe siècle, certains commentateurs du Code civil ont cherché à simplifier cette liste à cinq branches en revenant à une opposition plus rationnelle : d'un côté le contrat, source volontaire par excellence ; de l'autre, toutes les sources non conventionnelles, regroupées sous l'appellation générale d'« engagements qui se forment sans convention ». Cette bipartition correspondait d'ailleurs à l'architecture même du code, qui consacre un titre distinct au contrat et un autre titre à tout ce qui n'en dérive pas. Certains auteurs ont superposé les deux classifications, conservant la liste à cinq branches comme simple sous-division de la bipartition. D'autres ont souligné que ce débat, pour intéressant qu'il soit sur le plan théorique, n'avait quasiment aucune incidence pratique : la seule conséquence concrète concernait les règles de capacité, applicables aux engagements volontaires mais pas, ou pas de la même manière, aux obligations légales ou délictuelles.",
+      "definition": "Bipartition des sources des obligations : classification simplifiée opposant le contrat (source volontaire) aux engagements qui se forment sans convention (toutes les autres sources). Cette présentation a coexisté, chez plusieurs auteurs, avec le maintien de la classification quinquépartite à titre de sous-classification."
+    },
+    {
+      "titre": "Le tournant doctrinal : vers une théorie générale des actes juridiques",
+      "texte": "À la charnière du XIXe et du XXe siècle, un mouvement doctrinal d'une ampleur inédite a cherché à dépasser le simple commentaire article par article du code pour construire de véritables théories générales, sur le modèle de la pandectistique allemande qui préparait alors le Code civil allemand. Des juristes ont entrepris de replacer le contrat dans un ensemble plus vaste : celui des actes juridiques, manifestations de volonté destinées à produire des effets de droit, dont le contrat ne serait qu'une variété — la plus fréquente, mais pas la seule. Cette entreprise s'est traduite par l'introduction, dans certains programmes universitaires, d'une partie générale consacrée à la théorie des actes juridiques avant même l'étude des contrats spéciaux. La Première Guerre mondiale a interrompu net cet élan : la méfiance envers tout ce qui rappelait la science juridique allemande a entraîné, dans de nombreux ouvrages, un retour à l'ordre traditionnel du code et à la classification ancienne. L'idée d'une théorie générale des actes juridiques, cependant, ne disparaîtra pas complètement ; elle resurgira plus tard, sous une forme différente, dans certaines codifications plus récentes.",
+      "definition": "Théorie générale des actes juridiques : construction doctrinale, élaborée à la charnière des XIXe et XXe siècles, qui situe le contrat dans une catégorie plus large — celle des actes juridiques — et propose d'étudier les règles communes à tous les actes avant d'aborder les contrats spéciaux. Ce mouvement a été partiellement interrompu après la Première Guerre mondiale, mais a influencé durablement la science juridique."
+    },
+    {
+      "titre": "Le débat sur la volonté unilatérale comme source d'obligation",
+      "texte": "Un des points les plus disputés de cette période concernait la question suivante : une seule volonté, sans le concours d'une autre, peut-elle créer une obligation à la charge de celui qui l'exprime ? Pour les partisans de la théorie de la déclaration de volonté, la réponse était affirmative : une déclaration de volonté unilatérale, une fois parvenue à son destinataire, engage celui qui l'a émise, indépendamment de toute acceptation. Cette théorie permettait notamment d'expliquer certaines situations mal couvertes par la théorie classique du contrat, comme la promesse publique de récompense. Les opposants à cette thèse répliquaient qu'une volonté seule ne peut jamais suffire à créer un lien obligatoire : il faut, disaient-ils, qu'une autre volonté vienne s'y ajouter, fût-ce de manière différée, pour que le lien d'obligation se forme véritablement. Ce débat est resté longtemps sans réponse législative tranchée dans la tradition issue du Code civil français, chaque auteur restant libre d'y apporter sa propre solution doctrinale.",
+      "definition": "Débat sur la volonté unilatérale : controverse doctrinale portant sur le point de savoir si une déclaration de volonté unilatérale peut, à elle seule, faire naître une obligation à la charge de son auteur, sans le concours d'une autre volonté. Restée longtemps non résolue par le législateur dans la tradition civiliste française, cette question a connu des réponses divergentes selon les auteurs et selon les systèmes juridiques.",
+      "exemple": "Une personne publie une annonce promettant une récompense à qui retrouvera son animal perdu. Pour les partisans de la déclaration de volonté unilatérale, cette seule annonce engage son auteur dès sa publication, sans qu'il soit besoin que la personne qui retrouvera l'animal ait elle-même accepté l'offre au moment où elle l'a lue."
+    },
+    {
+      "titre": "La classification moderne : actes juridiques et faits juridiques",
+      "texte": "La classification qui s'est finalement imposée dans la doctrine civiliste contemporaine ne reprend ni la liste à cinq branches héritée de Pothier, ni la simple bipartition contrat / autres sources : elle distingue les actes juridiques des faits juridiques. L'acte juridique est une manifestation de volonté spécifiquement destinée à produire des effets de droit : on veut l'effet, et on l'obtient parce qu'on l'a voulu. Le fait juridique, à l'inverse, est un événement, volontaire ou non, auquel la loi attache des effets de droit sans que ces effets aient été recherchés en tant que tels par celui à qui ils profitent ou qui en est l'auteur. Cette distinction permet de reclasser intelligemment les anciennes catégories : le contrat et l'engagement unilatéral de volonté deviennent des actes juridiques ; les délits, les quasi-délits, la gestion d'affaires et le paiement de l'indu deviennent des faits juridiques. La catégorie artificielle du quasi-contrat disparaît purement et simplement, remplacée par une analyse directe de chacune des situations qu'elle prétendait regrouper.",
+      "definition": "Acte juridique : manifestation de volonté destinée spécifiquement à produire des effets de droit (contrat, engagement unilatéral, testament). Fait juridique : événement, volontaire ou non, auquel la loi attache des effets de droit indépendamment de toute intention de les produire (délit, quasi-délit, gestion d'affaires, enrichissement sans cause). Cette dichotomie constitue la classification moderne des sources des obligations."
+    },
+    {
+      "titre": "Le contrat, acte juridique bilatéral par excellence",
+      "texte": "Le contrat reste, malgré tout, l'acte juridique le plus fréquent et le mieux connu. Il se définit comme l'accord de volontés de deux ou plusieurs personnes destiné à créer, modifier ou éteindre des obligations entre elles. Sa validité suppose la réunion de plusieurs conditions classiques : la capacité de contracter, une volonté réelle et non viciée, un objet certain, et une cause licite. Une fois ces conditions réunies et le contrat légalement formé, celui-ci s'impose aux parties avec une force comparable à celle de la loi elle-même — c'est ce qu'on appelle le principe de la convention-loi : nul ne peut se délier unilatéralement d'un engagement contractuel valablement souscrit, sauf accord mutuel ou cause prévue par la loi.",
+      "definition": "Contrat : accord de volontés entre deux ou plusieurs personnes, destiné à créer, modifier ou éteindre des obligations entre elles. Sa validité repose classiquement sur quatre conditions : la capacité de contracter, la volonté des parties, un objet certain, et une cause licite. Une fois formé conformément à la loi, le contrat s'impose aux parties avec la force d'une véritable loi privée (principe de la convention-loi).",
+      "exemple": "Un contrat de bail conclu entre un propriétaire et un locataire fait naître des obligations réciproques : le bailleur doit délivrer le logement et en garantir la jouissance paisible, le locataire doit payer le loyer et user de la chose en bon père de famille. Une fois ce contrat valablement formé, ni l'une ni l'autre des parties ne peut s'en délier unilatéralement avant son terme, sauf clause contraire ou motif légal."
+    },
+    {
+      "titre": "L'engagement unilatéral de volonté : une source désormais reconnue",
+      "texte": "Le débat évoqué plus haut sur la volonté unilatérale, resté longtemps ouvert dans la tradition issue du seul Code civil français, a trouvé une réponse claire dans certaines législations modernes qui ont voulu consacrer expressément cette source d'obligation. C'est notamment le cas en droit malgache : la loi relative à la théorie générale des obligations reconnaît formellement deux catégories d'actes juridiques générateurs d'obligation, le contrat d'une part, et l'engagement unilatéral de volonté d'autre part. Autrement dit, là où la doctrine française du début du XXe siècle restait divisée entre les partisans de Saleilles et les héritiers de Planiol, le législateur malgache a tranché en faveur de la première thèse : une volonté unique, exprimée seule, peut suffire à faire naître une obligation à la charge de son auteur, sans qu'il soit besoin d'attendre l'adhésion d'une autre volonté.",
+      "definition": "Engagement unilatéral de volonté : acte juridique par lequel une seule personne s'oblige envers une autre par sa seule volonté, sans qu'un accord réciproque soit nécessaire pour que l'obligation naisse. Expressément reconnu comme source autonome d'obligation par le droit malgache, à côté du contrat.",
+      "exemple": "Une entreprise publie une annonce s'engageant à verser une prime à quiconque rapportera un objet perdu dans ses locaux. Dès la publication de cette annonce, et selon la logique de l'engagement unilatéral de volonté, l'entreprise est tenue de verser la prime à celui qui se présente avec l'objet, sans qu'il soit nécessaire que cette personne ait formellement accepté l'offre par avance."
+    },
+    {
+      "titre": "Les faits juridiques générateurs d'obligation : la responsabilité civile",
+      "texte": "Lorsqu'une personne cause un dommage à autrui en dehors de tout lien contractuel, elle engage sa responsabilité civile délictuelle, et la loi lui impose alors l'obligation de réparer ce dommage. On distingue traditionnellement le délit civil, qui résulte d'un fait volontaire ayant pour objet ou pour conséquence de causer un dommage, du quasi-délit, qui résulte d'un comportement seulement négligent ou imprudent, sans intention de nuire. Cette distinction entre faute intentionnelle et faute non intentionnelle n'a en réalité que peu d'incidence pratique sur les conditions de la réparation : dans les deux cas, l'obligation de réparer naît d'un fait, et non d'un acte volontairement destiné à produire cet effet précis — c'est pourquoi cette source d'obligation relève de la catégorie des faits juridiques, et non des actes juridiques.",
+      "definition": "Responsabilité civile délictuelle : obligation de réparer un dommage causé à autrui en dehors de tout contrat. Le délit civil suppose un fait volontaire ayant causé le dommage ; le quasi-délit résulte d'une simple négligence ou imprudence. Dans les deux cas, l'obligation de réparer constitue un fait juridique, puisqu'elle n'est pas recherchée en tant que telle par son auteur.",
+      "exemple": "Un automobiliste qui, par excès de vitesse, percute le véhicule d'un tiers commet un quasi-délit : il n'a pas voulu causer l'accident, mais sa négligence engage néanmoins sa responsabilité civile et l'oblige à réparer le préjudice subi par la victime."
+    },
+    {
+      "titre": "Les faits juridiques générateurs d'obligation : l'enrichissement sans cause et la gestion d'affaires",
+      "texte": "Deux situations longtemps rangées, à tort, sous l'étiquette du quasi-contrat méritent une analyse directe. La gestion d'affaires se produit lorsqu'une personne, sans y être obligée, s'occupe spontanément des affaires d'autrui — par exemple en réparant en urgence le toit endommagé de la maison d'un voisin absent. Cette intervention spontanée fait naître des obligations réciproques : le maître de l'affaire doit indemniser le gérant de ses dépenses utiles, et le gérant doit, de son côté, agir avec diligence. L'enrichissement sans cause, quant à lui, repose sur un principe plus général encore : nul ne doit s'enrichir injustement aux dépens d'autrui. Lorsqu'une personne voit son patrimoine augmenter sans justification légitime, au détriment d'une autre, celle qui s'est appauvrie dispose d'une action pour obtenir restitution, dans la limite du moindre des deux montants — l'enrichissement obtenu et l'appauvrissement subi. Le paiement de l'indu, qui consiste à restituer une somme reçue par erreur, n'est d'ailleurs qu'une application particulière de ce principe plus large.",
+      "definition": "Gestion d'affaires : intervention spontanée d'une personne dans les affaires d'une autre, sans mandat, qui fait naître des obligations réciproques d'indemnisation et de diligence. Enrichissement sans cause : principe selon lequel celui qui s'enrichit injustement aux dépens d'autrui doit restituer cet enrichissement à celui qui s'est appauvri, dans la limite du moindre des deux montants. Ces deux situations, autrefois qualifiées de quasi-contrats, sont aujourd'hui analysées comme des faits juridiques générateurs d'obligation directement fondés sur la loi.",
+      "exemple": "Pendant l'absence prolongée de son voisin, une personne fait réparer en urgence une fuite d'eau qui menaçait d'inonder la maison. À son retour, le voisin devra indemniser cette personne des frais raisonnablement engagés : c'est une gestion d'affaires. Si, en revanche, une entreprise effectue par erreur un virement bancaire en double sur le compte d'un client, ce client devra restituer la somme perçue sans justification : c'est une application du principe de l'enrichissement sans cause."
+    },
+    {
+      "titre": "La loi, source directe d'obligations",
+      "texte": "Enfin, certaines obligations naissent directement de la loi, sans qu'aucun acte volontaire ni aucun fait dommageable du débiteur n'en soit la cause immédiate. La loi impose ainsi, indépendamment de toute faute, certaines prestations en faveur d'autrui : l'obligation alimentaire entre proches, l'obligation des parents d'entretenir et d'élever leurs enfants, certaines obligations de voisinage entre propriétaires limitrophes, ou encore diverses obligations fiscales et administratives. Ces obligations se distinguent nettement des autres sources : elles ne dépendent ni d'un accord de volontés, ni d'une faute, ni même d'un fait quelconque imputable au débiteur — c'est la loi seule, par sa seule autorité, qui crée le lien obligatoire, dans un but de protection sociale ou d'organisation collective.",
+      "definition": "Loi (source directe d'obligations) : obligations imposées par le législateur indépendamment de tout acte volontaire ou fait dommageable du débiteur, en vertu de la seule autorité de la loi. Exemples classiques : obligation alimentaire, obligation d'entretien des enfants, certaines obligations de voisinage et obligations fiscales."
+    },
+    {
+      "titre": "Le droit malgache : la Théorie Générale des Obligations, héritière d'un long débat doctrinal",
+      "texte": "Le débat séculaire sur la classification des sources des obligations, longtemps purement théorique dans la tradition issue du Code civil français, a trouvé à Madagascar une traduction concrète et systématique. Après l'indépendance, le législateur malgache a entrepris de codifier de manière cohérente, sous le titre de loi relative à la théorie générale des obligations (souvent désignée par l'acronyme LTGO), plusieurs textes antérieurs consacrés respectivement aux preuves des obligations civiles, aux obligations considérées indépendamment de leurs sources, et aux sources des obligations civiles elles-mêmes. Cette démarche s'inscrit exactement dans la lignée de ce que les juristes du tournant du XXe siècle avaient tenté de construire par la seule voie doctrinale : une véritable partie générale du droit des obligations, organisée de manière systématique plutôt que dispersée au fil des articles d'un code napoléonien. La LTGO retient d'ailleurs la classification moderne fondée sur les actes juridiques et reconnaît expressément, à côté du contrat, l'engagement unilatéral de volonté comme source autonome d'obligation — tranchant ainsi, par voie législative, le débat qui avait opposé Saleilles à Planiol plusieurs décennies auparavant. Pour les questions qu'elle ne traite pas, les dispositions du Code civil antérieures à 1960 demeurent applicables à titre supplétif, dans la mesure où elles ne sont pas contraires à la LTGO.",
+      "definition": "Théorie Générale des Obligations (LTGO) : législation malgache codifiant de manière systématique le droit des obligations, issue de la fusion de plusieurs textes antérieurs sur les preuves, le régime général et les sources des obligations civiles. Elle retient la classification moderne des sources (actes juridiques et faits juridiques) et reconnaît expressément l'engagement unilatéral de volonté comme source autonome d'obligation, à côté du contrat. Les dispositions du Code civil antérieures à l'indépendance demeurent supplétives pour les questions non traitées par la LTGO."
+    },
+    {
+      "titre": "Récapitulatif : les clés de la classification des sources des obligations",
+      "texte": "Voici l'essentiel à retenir de ce module. Premièrement, l'obligation est un lien de droit entre un créancier et un débiteur, qui porte sur un objet de trois sortes possibles : donner, faire, ou ne pas faire — et qui se distingue nettement du contrat, lequel n'en est qu'une source parmi d'autres. Deuxièmement, la classification ancienne héritée de Pothier distinguait cinq sources (contrat, quasi-contrat, délit, quasi-délit, loi), mais la notion de quasi-contrat reposait sur une confusion historique aujourd'hui largement reconnue par la doctrine. Troisièmement, le tournant du XXe siècle a vu naître une tentative de théorie générale des actes juridiques, accompagnée d'un débat persistant sur la possibilité, pour une volonté unilatérale, de créer seule une obligation. Quatrièmement, la classification moderne oppose désormais les actes juridiques (contrat, engagement unilatéral) aux faits juridiques (responsabilité civile délictuelle, gestion d'affaires, enrichissement sans cause), la loi demeurant une source directe et autonome. Enfin, le droit malgache, à travers sa Théorie Générale des Obligations, a concrétisé cette évolution doctrinale en consacrant expressément l'engagement unilatéral de volonté comme source d'obligation à part entière, réalisant ainsi, par voie législative, ce que la seule doctrine française n'avait pu pleinement accomplir.",
+      "definition": "À retenir : obligation = lien de droit (créancier/débiteur) portant sur donner/faire/ne pas faire. Classification ancienne : contrat, quasi-contrat (notion critiquée), délit, quasi-délit, loi. Classification moderne : actes juridiques (contrat, engagement unilatéral) / faits juridiques (responsabilité civile, gestion d'affaires, enrichissement sans cause) / loi. Droit malgache (LTGO) : consécration légale de l'engagement unilatéral de volonté comme source autonome."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quelle est la définition exacte de l'obligation ?",
+      "choix": [
+        "Un contrat signé entre deux commerçants",
+        "Un lien de droit en vertu duquel une ou plusieurs personnes peuvent contraindre une ou plusieurs autres à donner, à faire, ou à ne pas faire quelque chose",
+        "Une décision rendue par un tribunal civil",
+        "Une dette inscrite dans un registre public"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'obligation est un lien, pas un document.",
+        "Elle implique toujours un créancier et un débiteur.",
+        "Elle porte sur trois objets possibles."
+      ],
+      "explication": "L'obligation est un lien de droit en vertu duquel une ou plusieurs personnes (le créancier) peuvent contraindre une ou plusieurs autres (le débiteur) à donner, à faire, ou à ne pas faire quelque chose. Le contrat n'est qu'une des sources possibles de ce lien, pas l'obligation elle-même."
+    },
+    {
+      "question": "Qu'est-ce qui distingue le droit de créance (issu de l'obligation) du droit réel ?",
+      "choix": [
+        "Le droit de créance porte toujours sur une somme d'argent, le droit réel sur un immeuble",
+        "Le droit réel s'exerce directement sur une chose, tandis que le droit de créance ne s'exerce qu'à l'encontre d'une personne déterminée",
+        "Le droit réel n'existe pas en matière d'obligations",
+        "Il n'y a aucune différence pratique entre les deux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'expression « droit personnel » utilisée pour le droit de créance.",
+        "Le droit réel ne nécessite l'intervention d'aucune autre personne.",
+        "Le droit de créance suppose toujours un débiteur déterminé."
+      ],
+      "explication": "Le droit réel s'exerce directement sur une chose, sans l'intermédiaire d'une autre personne (par exemple le droit de propriété). Le droit de créance, qui naît de l'obligation, est un droit personnel : il ne peut s'exercer qu'à l'encontre d'une personne déterminée, le débiteur, dont on attend l'exécution d'une prestation."
+    },
+    {
+      "question": "Quels sont les trois objets possibles d'une obligation ?",
+      "choix": [
+        "Payer, livrer, garantir",
+        "Donner, faire, ne pas faire",
+        "Contracter, exécuter, réparer",
+        "Acheter, vendre, échanger"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette classification s'applique à toute obligation, quelle que soit sa source.",
+        "L'un de ces objets consiste en une abstention.",
+        "Cette classification conditionne le mode d'exécution forcée disponible."
+      ],
+      "explication": "Toute obligation porte nécessairement sur l'un de ces trois objets : donner (transférer un droit réel sur une chose), faire (accomplir une prestation positive) ou ne pas faire (s'abstenir d'un acte). Cette distinction détermine notamment les modalités de l'exécution forcée applicables."
+    },
+    {
+      "question": "Pourquoi l'obligation de ne pas faire ne peut-elle jamais être exécutée en nature une fois violée ?",
+      "choix": [
+        "Parce que la loi l'interdit expressément dans tous les systèmes juridiques",
+        "Parce qu'on ne peut effacer un fait déjà accompli ; seuls des dommages-intérêts peuvent compenser la violation",
+        "Parce que ce type d'obligation n'a aucune valeur juridique",
+        "Parce que le débiteur peut toujours invoquer la force majeure"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à ce qui se passe une fois que l'abstention promise n'a pas été respectée.",
+        "Le fait s'est déjà produit : il ne peut être annulé rétroactivement par l'exécution forcée.",
+        "Seul un mode d'exécution alternatif reste possible."
+      ],
+      "explication": "L'obligation de ne pas faire impose une abstention. Une fois cette abstention violée, le fait s'est déjà produit et ne peut être effacé : l'exécution forcée en nature est donc impossible. Seuls des dommages-intérêts peuvent compenser le préjudice causé par la violation."
+    },
+    {
+      "question": "Quelle est la relation exacte entre l'obligation et le contrat ?",
+      "choix": [
+        "Ce sont deux termes parfaitement synonymes",
+        "L'obligation est le genre, le contrat n'en est qu'une espèce, c'est-à-dire une de ses sources possibles",
+        "Le contrat est toujours plus large que l'obligation",
+        "Le contrat est une obligation parmi d'autres obligations"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la relation logique entre une catégorie générale et une de ses sous-catégories.",
+        "Le contrat ne crée pas lui-même l'obligation : il en est la cause.",
+        "De nombreuses obligations existent en dehors de tout contrat."
+      ],
+      "explication": "L'obligation est le genre ; le contrat n'en est qu'une espèce, c'est-à-dire l'une de ses sources possibles. À proprement parler, le contrat n'est même pas une obligation : c'est un accord de volontés qui crée, modifie ou éteint des obligations."
+    },
+    {
+      "question": "Quelle confusion historique le Code civil a-t-il longtemps entretenue entre obligation et contrat ?",
+      "choix": [
+        "Il a interdit toute distinction entre les deux notions",
+        "Il a présenté la définition de l'obligation à l'occasion de celle du contrat, et traité des effets communs à toutes les obligations sous l'intitulé général des contrats",
+        "Il a supprimé la notion d'obligation au profit de celle de contrat",
+        "Il n'a jamais mentionné le mot « obligation »"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La définition de l'obligation se trouvait dans l'article consacré au contrat.",
+        "Les règles applicables à toutes les obligations étaient présentées sous la rubrique des contrats.",
+        "Cette confusion a été critiquée par plusieurs auteurs du XIXe siècle."
+      ],
+      "explication": "Le Code civil a longtemps entretenu une confusion en donnant la définition de l'obligation à l'occasion de celle du contrat, et en présentant les effets communs à toutes les obligations sous l'intitulé général des contrats, alors que ces effets concernent en réalité toutes les sources d'obligation, pas seulement les contrats."
+    },
+    {
+      "question": "Quelles sont les cinq sources de la classification traditionnelle héritée de Pothier ?",
+      "choix": [
+        "Le contrat, l'acte unilatéral, le délit, la faute, la coutume",
+        "Le contrat, le quasi-contrat, le délit, le quasi-délit, et la loi",
+        "Le contrat, la convention, l'accord, le délit, le règlement",
+        "Le contrat, la promesse, le don, le testament, la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette classification est aussi appelée classification quinquépartite.",
+        "Elle a été reprise par le Code civil dans les titres consacrés aux obligations.",
+        "Une de ces cinq catégories est aujourd'hui largement critiquée par la doctrine."
+      ],
+      "explication": "La classification traditionnelle, héritée approximativement du droit romain par l'intermédiaire de Domat et Pothier, distingue cinq sources : le contrat, le quasi-contrat, le délit, le quasi-délit, et la loi. Cette liste à cinq branches a structuré l'enseignement du droit des obligations pendant tout le XIXe siècle."
+    },
+    {
+      "question": "D'où vient, à l'origine, l'expression latine « quasi ex contractu » utilisée par les juristes romains ?",
+      "choix": [
+        "Elle désignait une catégorie autonome de contrats imparfaits",
+        "C'était une simple comparaison signifiant qu'une obligation naissait « comme si » elle provenait d'un contrat, sans créer de catégorie à part entière",
+        "Elle désignait les contrats conclus entre commerçants",
+        "Elle n'a jamais existé en droit romain"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mot « quasi » signifie « comme si », pas « presque ».",
+        "Les Romains ne créaient pas de nouvelle catégorie en utilisant cette expression.",
+        "C'est seulement plus tard que l'expression de comparaison s'est figée en un nom."
+      ],
+      "explication": "À l'origine, « quasi ex contractu » était une simple comparaison : les juristes romains constataient que certaines obligations ressemblaient par leurs effets à celles nées d'un contrat, sans pour autant en provenir réellement. Ce n'est que plus tard que cette expression de comparaison s'est transformée en un substantif, le « quasi-contrat », présenté à tort comme une catégorie autonome."
+    },
+    {
+      "question": "Quelles sont les deux seules situations que le Code civil regroupe sous le nom de quasi-contrat ?",
+      "choix": [
+        "Le mariage et l'adoption",
+        "La gestion d'affaires et le paiement de l'indu",
+        "La donation et le testament",
+        "Le mandat et le dépôt"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une concerne l'intervention spontanée dans les affaires d'autrui.",
+        "L'autre concerne la restitution d'une somme reçue par erreur.",
+        "Aucune de ces deux situations ne résulte d'un acte volontairement destiné à créer une obligation."
+      ],
+      "explication": "Le Code civil ne regroupe sous le nom de quasi-contrat que deux situations : la gestion d'affaires (intervention spontanée dans les affaires d'autrui) et le paiement de l'indu (restitution d'une somme reçue par erreur). Ni l'une ni l'autre ne résulte d'un acte volontairement destiné à produire l'obligation qui en découle."
+    },
+    {
+      "question": "Pourquoi la doctrine moderne critique-t-elle la notion de quasi-contrat ?",
+      "choix": [
+        "Parce qu'elle ne figure dans aucun texte de loi",
+        "Parce que ni le gérant d'affaires ni celui qui doit restituer un paiement indu n'ont accompli un acte volontaire destiné à créer l'obligation à leur charge ; c'est la loi elle-même qui l'impose",
+        "Parce qu'elle s'applique uniquement aux commerçants",
+        "Parce qu'elle a été abrogée dans tous les pays"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'origine réelle de ces obligations.",
+        "Ni le maître de l'affaire gérée, ni l'accipiens de mauvaise foi n'ont voulu l'obligation.",
+        "Le principe de l'enrichissement sans cause explique mieux la véritable origine de ces obligations."
+      ],
+      "explication": "La doctrine moderne critique la notion de quasi-contrat car elle suggère, à tort, que l'obligation naît d'un fait personnel volontaire du débiteur, comme dans un contrat. En réalité, ni le maître de l'affaire gérée ni celui qui doit restituer un paiement indu n'ont accompli un tel acte volontaire : c'est la loi, au nom du principe de l'enrichissement sans cause, qui impose directement ces obligations."
+    },
+    {
+      "question": "Qu'est-ce que la bipartition des sources des obligations, proposée par certains commentateurs du XIXe siècle ?",
+      "choix": [
+        "Une classification opposant les contrats nommés aux contrats innommés",
+        "Une classification simplifiée opposant le contrat aux engagements qui se forment sans convention",
+        "Une classification réservée aux obligations commerciales",
+        "Une classification opposant les obligations civiles aux obligations pénales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette classification correspond à l'architecture même du Code civil, qui distingue deux titres.",
+        "D'un côté la source volontaire par excellence, de l'autre tout le reste.",
+        "Certains auteurs ont superposé cette bipartition à la classification quinquépartite."
+      ],
+      "explication": "La bipartition oppose le contrat (source volontaire) à l'ensemble des engagements qui se forment sans convention (toutes les autres sources). Cette présentation correspond à l'architecture du Code civil, qui consacre un titre au contrat et un autre titre distinct à ce qui n'en dérive pas. Certains auteurs ont conservé la classification à cinq branches comme simple sous-division de cette bipartition."
+    },
+    {
+      "question": "Quelle était, selon plusieurs auteurs, la seule conséquence pratique réelle du débat sur la classification des sources des obligations ?",
+      "choix": [
+        "Elle déterminait le montant des dommages-intérêts",
+        "Elle concernait essentiellement les règles de capacité, applicables aux engagements volontaires mais pas, ou pas de la même manière, aux obligations légales ou délictuelles",
+        "Elle déterminait le tribunal compétent pour juger le litige",
+        "Elle n'avait absolument aucune conséquence, même théorique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez aux incapables (mineurs, majeurs protégés).",
+        "Ils restent tenus de certaines obligations indépendamment de tout discernement.",
+        "Cette question est distincte de celle des effets, qui sont communs à toutes les obligations."
+      ],
+      "explication": "Plusieurs auteurs ont souligné que ce débat, bien que riche sur le plan théorique, n'avait qu'une seule incidence pratique réelle : les règles de capacité s'appliquent pleinement aux engagements volontaires (contrats), mais les incapables restent tenus, indépendamment de toute question de discernement, des obligations résultant de la loi ou de certains faits juridiques comme la gestion d'affaires effectuée à leur profit."
+    },
+    {
+      "question": "Qu'est-ce qui a motivé, à la charnière du XIXe et du XXe siècle, le mouvement vers une théorie générale des actes juridiques ?",
+      "choix": [
+        "La volonté de simplifier les examens universitaires",
+        "L'influence de la pandectistique allemande, qui préparait alors le Code civil allemand selon un modèle plus systématique",
+        "Une décision de la Cour de cassation imposant cette réforme",
+        "La disparition du Code civil français"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mouvement s'inspirait d'une méthode étrangère, alors en plein essor.",
+        "Il cherchait à dépasser le simple commentaire article par article.",
+        "Le contrat devait être replacé dans une catégorie plus large : celle des actes juridiques."
+      ],
+      "explication": "Ce mouvement doctrinal s'est inspiré de la pandectistique allemande, qui préparait alors le Code civil allemand selon une méthode plus systématique fondée sur des théories générales. Les juristes ont voulu replacer le contrat dans une catégorie plus large, celle des actes juridiques, et construire une théorie générale applicable à tous les actes avant l'étude des contrats spéciaux."
+    },
+    {
+      "question": "Quel événement historique a interrompu, en grande partie, l'élan vers une théorie générale des actes juridiques en France ?",
+      "choix": [
+        "La Révolution française",
+        "La Première Guerre mondiale, qui a entraîné une méfiance envers tout ce qui rappelait la science juridique allemande",
+        "La création de l'Union européenne",
+        "La réforme du Code civil de 2016"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'origine allemande de cette méthode est devenue suspecte après ce conflit.",
+        "De nombreux ouvrages sont alors revenus à l'ordre traditionnel du code.",
+        "L'idée n'a toutefois pas disparu complètement."
+      ],
+      "explication": "La Première Guerre mondiale a entraîné une méfiance généralisée envers tout ce qui rappelait la science juridique allemande, ce qui a conduit de nombreux auteurs à revenir à l'ordre traditionnel du Code civil et à la classification ancienne. L'idée d'une théorie générale n'a cependant pas disparu et a continué à influencer la doctrine."
+    },
+    {
+      "question": "Quelle est la thèse défendue par les partisans de la théorie de la déclaration de volonté unilatérale ?",
+      "choix": [
+        "Une déclaration de volonté unilatérale, une fois parvenue à son destinataire, engage celui qui l'a émise, indépendamment de toute acceptation",
+        "Aucune obligation ne peut jamais naître d'une seule volonté",
+        "Seuls les contrats écrits peuvent créer des obligations",
+        "La volonté unilatérale ne peut engager que les personnes morales"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cette théorie cherche à expliquer certaines situations mal couvertes par la théorie classique du contrat.",
+        "Elle s'oppose à la thèse selon laquelle deux volontés sont toujours nécessaires.",
+        "L'exemple classique est celui de la promesse publique de récompense."
+      ],
+      "explication": "Pour les partisans de cette théorie, une déclaration de volonté unilatérale, une fois parvenue à son destinataire, engage celui qui l'a émise, indépendamment de toute acceptation de la part de ce dernier. Cette thèse permettait d'expliquer certaines situations, comme la promesse publique de récompense, mal couvertes par la théorie classique du contrat fondée sur l'accord de deux volontés."
+    },
+    {
+      "question": "Quelle critique les opposants à la théorie de la volonté unilatérale lui adressaient-ils ?",
+      "choix": [
+        "Qu'elle s'applique uniquement aux contrats commerciaux",
+        "Qu'une volonté seule ne peut jamais suffire à créer un lien obligatoire ; il faut qu'une autre volonté vienne s'y ajouter pour que le lien se forme",
+        "Qu'elle est interdite par tous les codes civils du monde",
+        "Qu'elle ne concerne que les obligations légales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les opposants insistaient sur la nécessité d'un concours de volontés.",
+        "Pour eux, une seule volonté ne peut pas suffire, même à titre exceptionnel.",
+        "Ce débat illustre l'opposition classique entre deux écoles de pensée du début du XXe siècle."
+      ],
+      "explication": "Les opposants à la théorie de la déclaration de volonté unilatérale soutenaient qu'une volonté seule ne peut jamais suffire à créer un lien obligatoire : il faut, selon eux, qu'une autre volonté vienne s'y ajouter, fût-ce de manière différée, pour que l'obligation se forme véritablement. C'est l'opposition classique entre les partisans de la déclaration de volonté et leurs détracteurs."
+    },
+    {
+      "question": "Quelle est la classification des sources des obligations qui s'est finalement imposée dans la doctrine civiliste contemporaine ?",
+      "choix": [
+        "La classification quinquépartite héritée de Pothier",
+        "La distinction entre actes juridiques et faits juridiques",
+        "La distinction entre obligations civiles et obligations commerciales",
+        "La distinction entre obligations nationales et obligations internationales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette classification permet de reclasser intelligemment les anciennes catégories.",
+        "Elle distingue selon que l'effet de droit a été recherché ou non par son auteur.",
+        "La catégorie du quasi-contrat y disparaît purement et simplement."
+      ],
+      "explication": "La classification moderne distingue les actes juridiques (manifestations de volonté destinées à produire des effets de droit) des faits juridiques (événements, volontaires ou non, auxquels la loi attache des effets de droit sans que ces effets aient été recherchés en tant que tels). Cette dichotomie a remplacé les anciennes classifications, notamment en faisant disparaître la catégorie artificielle du quasi-contrat."
+    },
+    {
+      "question": "Quelle est la définition exacte de l'acte juridique dans la classification moderne ?",
+      "choix": [
+        "Tout document signé devant un officier public",
+        "Une manifestation de volonté spécifiquement destinée à produire des effets de droit",
+        "Tout fait, volontaire ou non, qui cause un dommage",
+        "Une décision rendue par un tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acte juridique se caractérise par l'intention de produire l'effet de droit recherché.",
+        "Le contrat et l'engagement unilatéral en sont les principaux exemples.",
+        "Il se distingue du fait juridique précisément par cette intention."
+      ],
+      "explication": "L'acte juridique est une manifestation de volonté spécifiquement destinée à produire des effets de droit : on veut l'effet, et on l'obtient parce qu'on l'a voulu. Le contrat et l'engagement unilatéral de volonté en sont les deux principales illustrations dans la classification moderne des sources des obligations."
+    },
+    {
+      "question": "Quelle est la définition exacte du fait juridique dans la classification moderne ?",
+      "choix": [
+        "Un événement, volontaire ou non, auquel la loi attache des effets de droit sans que ces effets aient été recherchés en tant que tels",
+        "Un acte rédigé par un avocat",
+        "Une obligation née exclusivement d'un contrat",
+        "Un événement qui ne produit jamais d'effet juridique"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Contrairement à l'acte juridique, l'effet de droit n'est pas recherché en tant que tel.",
+        "Les délits, quasi-délits et la gestion d'affaires en sont des exemples.",
+        "Il peut résulter d'un comportement volontaire (le délit) ou involontaire (le quasi-délit)."
+      ],
+      "explication": "Le fait juridique est un événement, volontaire ou non, auquel la loi attache des effets de droit sans que ces effets aient été recherchés en tant que tels par celui à qui ils profitent ou qui en est l'auteur. Les délits, les quasi-délits, la gestion d'affaires et l'enrichissement sans cause relèvent de cette catégorie."
+    },
+    {
+      "question": "Pourquoi la catégorie du quasi-contrat disparaît-elle dans la classification moderne fondée sur les actes et les faits juridiques ?",
+      "choix": [
+        "Parce qu'elle est remplacée par une analyse directe de chacune des situations qu'elle prétendait regrouper, classées parmi les faits juridiques",
+        "Parce que la gestion d'affaires et le paiement de l'indu n'existent plus en droit moderne",
+        "Parce qu'elle est désormais classée parmi les actes juridiques",
+        "Parce que cette catégorie a toujours été inexistante dans le Code civil"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La gestion d'affaires et le paiement de l'indu n'ont pas disparu : seule leur étiquette change.",
+        "Ces situations sont désormais directement rattachées au principe de l'enrichissement sans cause.",
+        "Elles relèvent des faits juridiques, et non des actes juridiques."
+      ],
+      "explication": "La catégorie du quasi-contrat disparaît parce qu'elle est remplacée par une analyse directe de chacune des situations qu'elle prétendait regrouper : la gestion d'affaires et le paiement de l'indu (application de l'enrichissement sans cause) sont désormais classés, à juste titre, parmi les faits juridiques générateurs d'obligation, sans qu'il soit besoin de recourir à l'étiquette trompeuse de quasi-contrat."
+    },
+    {
+      "question": "Quelles sont les quatre conditions classiques de validité d'un contrat ?",
+      "choix": [
+        "La nationalité, l'âge, la profession et le domicile des parties",
+        "La capacité de contracter, la volonté des parties, un objet certain, et une cause licite",
+        "La signature, le timbre fiscal, l'enregistrement et la publicité",
+        "Le prix, le délai, la garantie et la pénalité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces quatre conditions sont classiques en droit civil des obligations.",
+        "L'une concerne l'aptitude juridique à s'engager, une autre la licéité du but poursuivi.",
+        "Sans l'une de ces conditions, le contrat est en principe nul."
+      ],
+      "explication": "La validité d'un contrat repose classiquement sur quatre conditions essentielles : la capacité de contracter, une volonté réelle des parties, un objet certain, et une cause licite. Ces conditions, retenues de longue date par la doctrine civiliste, structurent encore aujourd'hui l'analyse de la validité des contrats, y compris en droit malgache."
+    },
+    {
+      "question": "Qu'exprime le principe de la convention-loi ?",
+      "choix": [
+        "Que tout contrat doit être approuvé par une loi spéciale du Parlement",
+        "Qu'une fois légalement formé, le contrat s'impose aux parties avec une force comparable à celle de la loi",
+        "Que les contrats sont soumis à un contrôle judiciaire systématique avant leur formation",
+        "Que la loi peut toujours annuler un contrat sans motif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe explique pourquoi on ne peut pas se délier unilatéralement d'un contrat valablement formé.",
+        "Il s'agit d'une force obligatoire comparable, et non identique, à celle de la loi.",
+        "Ce principe se retrouve aussi bien en droit français qu'en droit malgache."
+      ],
+      "explication": "Le principe de la convention-loi exprime l'idée qu'un contrat légalement formé s'impose aux parties avec une force comparable à celle de la loi elle-même : nul ne peut s'en délier unilatéralement, sauf accord mutuel ou cause prévue par la loi. Ce principe se retrouve aussi bien dans le Code civil français que dans la théorie générale des obligations en droit malgache."
+    },
+    {
+      "question": "Quelle source d'obligation le droit malgache reconnaît-il expressément, à côté du contrat, comme acte juridique générateur d'obligation ?",
+      "choix": [
+        "Le quasi-contrat",
+        "L'engagement unilatéral de volonté",
+        "Le testament olographe",
+        "La coutume locale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette source correspond à une thèse défendue par certains auteurs français du début du XXe siècle.",
+        "Elle permet à une seule volonté de créer une obligation à la charge de son auteur.",
+        "Cette reconnaissance tranche un débat doctrinal resté longtemps ouvert en France."
+      ],
+      "explication": "Le droit malgache reconnaît expressément deux catégories d'actes juridiques générateurs d'obligation : le contrat et l'engagement unilatéral de volonté. Cette consécration légale tranche, en faveur de la thèse de la déclaration de volonté unilatérale, un débat qui était resté longtemps ouvert dans la doctrine française du début du XXe siècle."
+    },
+    {
+      "question": "Qu'est-ce que l'engagement unilatéral de volonté, tel que reconnu par le droit malgache ?",
+      "choix": [
+        "Un acte juridique par lequel une seule personne s'oblige envers une autre par sa seule volonté, sans qu'un accord réciproque soit nécessaire",
+        "Un contrat conclu entre deux personnes physiques uniquement",
+        "Une obligation qui ne peut jamais être exécutée",
+        "Un acte qui nécessite toujours l'intervention d'un officier public"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Une seule volonté suffit ici à créer l'obligation.",
+        "Aucun accord réciproque n'est nécessaire pour que l'obligation naisse.",
+        "L'exemple classique est celui de la promesse publique de récompense."
+      ],
+      "explication": "L'engagement unilatéral de volonté est un acte juridique par lequel une seule personne s'oblige envers une autre par sa seule volonté, sans qu'un accord réciproque soit nécessaire pour que l'obligation naisse. C'est cette source que le droit malgache reconnaît expressément, à côté du contrat, comme acte juridique générateur d'obligation."
+    },
+    {
+      "question": "Une entreprise publie une annonce promettant une récompense à qui retrouvera son chien perdu. Selon la logique de l'engagement unilatéral de volonté, quand l'entreprise devient-elle tenue de verser la récompense ?",
+      "choix": [
+        "Jamais, car une seule volonté ne peut créer aucune obligation",
+        "Seulement si la personne qui retrouve le chien a préalablement accepté formellement l'offre par écrit",
+        "Dès la publication de l'annonce, sans qu'il soit nécessaire que la personne ait formellement accepté l'offre par avance",
+        "Seulement après une décision du tribunal compétent"
+      ],
+      "reponse": 2,
+      "indices": [
+        "L'engagement unilatéral de volonté ne suppose pas de concours de volontés.",
+        "L'obligation naît de la seule déclaration, sans attendre une acceptation formelle préalable.",
+        "C'est précisément ce qui distingue cette source d'obligation du contrat classique."
+      ],
+      "explication": "Selon la logique de l'engagement unilatéral de volonté, l'entreprise est tenue dès la publication de son annonce, sans qu'il soit nécessaire que la personne qui retrouve le chien ait formellement accepté l'offre par avance. C'est précisément cette absence de nécessité d'un accord réciproque qui distingue l'engagement unilatéral du contrat classique fondé sur la rencontre de deux volontés."
+    },
+    {
+      "question": "Quelle est la différence entre le délit civil et le quasi-délit ?",
+      "choix": [
+        "Le délit civil concerne uniquement les infractions pénales, le quasi-délit les infractions civiles",
+        "Le délit civil résulte d'un fait volontaire ayant causé un dommage, le quasi-délit résulte d'une simple négligence ou imprudence",
+        "Le délit civil ne donne jamais lieu à réparation, contrairement au quasi-délit",
+        "Le délit civil ne concerne que les personnes morales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette distinction porte sur le caractère intentionnel ou non du fait dommageable.",
+        "Dans les deux cas, l'auteur engage sa responsabilité civile.",
+        "Cette distinction a en réalité peu d'incidence pratique sur les conditions de la réparation."
+      ],
+      "explication": "Le délit civil suppose un fait volontaire ayant pour objet ou pour conséquence de causer un dommage, tandis que le quasi-délit résulte d'un comportement seulement négligent ou imprudent, sans intention de nuire. Dans les deux cas, l'obligation de réparer naît d'un fait, ce qui les classe parmi les faits juridiques générateurs d'obligation."
+    },
+    {
+      "question": "Pourquoi la responsabilité civile délictuelle relève-t-elle de la catégorie des faits juridiques, et non des actes juridiques ?",
+      "choix": [
+        "Parce que l'obligation de réparer n'est pas recherchée en tant que telle par l'auteur du dommage",
+        "Parce que les tribunaux refusent d'appliquer la théorie des actes juridiques aux délits",
+        "Parce qu'aucune obligation ne naît réellement de la responsabilité civile",
+        "Parce que les délits sont toujours commis par des personnes morales"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Pensez à la définition même de l'acte juridique : une volonté destinée à produire l'effet de droit.",
+        "L'auteur du dommage ne veut généralement pas l'obligation de réparer qui en découlera.",
+        "Cette absence d'intention de produire l'effet précis classe la situation parmi les faits juridiques."
+      ],
+      "explication": "La responsabilité civile délictuelle relève des faits juridiques car l'obligation de réparer n'est pas recherchée en tant que telle par l'auteur du dommage : qu'il agisse volontairement (délit) ou par négligence (quasi-délit), il n'a pas pour but de créer une obligation de réparation à sa charge. C'est la loi qui attache cet effet à son comportement, indépendamment de son intention."
+    },
+    {
+      "question": "Qu'est-ce que la gestion d'affaires ?",
+      "choix": [
+        "Un contrat de mandat signé entre deux commerçants",
+        "L'intervention spontanée d'une personne dans les affaires d'une autre, sans mandat, qui fait naître des obligations réciproques",
+        "La gestion par l'État des affaires d'une entreprise en difficulté",
+        "Une obligation purement contractuelle entre associés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette intervention se fait sans mandat préalable.",
+        "Elle fait naître des obligations réciproques entre le gérant et le maître de l'affaire.",
+        "Elle était autrefois classée, à tort, parmi les quasi-contrats."
+      ],
+      "explication": "La gestion d'affaires se produit lorsqu'une personne, sans y être obligée et sans mandat, s'occupe spontanément des affaires d'autrui. Cette intervention fait naître des obligations réciproques : le maître de l'affaire doit indemniser le gérant de ses dépenses utiles, et le gérant doit agir avec diligence. Cette situation relève aujourd'hui des faits juridiques générateurs d'obligation."
+    },
+    {
+      "question": "Quel principe général justifie l'obligation de restitution en cas d'enrichissement sans cause ?",
+      "choix": [
+        "Le principe selon lequel le débiteur doit toujours être de bonne foi",
+        "Le principe selon lequel nul ne doit s'enrichir injustement aux dépens d'autrui",
+        "Le principe de la liberté contractuelle",
+        "Le principe selon lequel toute dette doit être prouvée par écrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe est très ancien et largement reconnu dans les traditions civilistes.",
+        "Il justifie une action en restitution au profit de la personne appauvrie.",
+        "Le paiement de l'indu n'en est qu'une application particulière."
+      ],
+      "explication": "L'enrichissement sans cause repose sur le principe selon lequel nul ne doit s'enrichir injustement aux dépens d'autrui. Lorsqu'une personne voit son patrimoine augmenter sans justification légitime, au détriment d'une autre, celle qui s'est appauvrie dispose d'une action pour obtenir restitution. Le paiement de l'indu n'est qu'une application particulière de ce principe plus général."
+    },
+    {
+      "question": "Dans quelle limite la restitution est-elle due en cas d'enrichissement sans cause ?",
+      "choix": [
+        "Dans la limite du montant le plus élevé entre l'enrichissement et l'appauvrissement",
+        "Dans la limite du moindre des deux montants : l'enrichissement obtenu et l'appauvrissement subi",
+        "Toujours dans la limite de la totalité de l'enrichissement, quel que soit l'appauvrissement",
+        "Il n'existe aucune limite à la restitution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle protège celui qui s'est enrichi contre une restitution excessive.",
+        "Elle protège également celui qui s'est appauvri contre une restitution insuffisante.",
+        "C'est le plus petit des deux chiffres qui est retenu."
+      ],
+      "explication": "La restitution due en cas d'enrichissement sans cause est limitée au moindre des deux montants : l'enrichissement effectivement obtenu par une partie, et l'appauvrissement effectivement subi par l'autre. Cette règle évite qu'une partie ne s'enrichisse à nouveau, ou qu'une autre ne soit appauvrie davantage, par le simple jeu de la restitution."
+    },
+    {
+      "question": "Une entreprise effectue par erreur un virement bancaire en double sur le compte d'un client. Quelle obligation pèse sur ce client ?",
+      "choix": [
+        "Aucune, le client peut conserver la somme sans justification",
+        "Le client doit restituer la somme perçue sans justification, en application du principe de l'enrichissement sans cause",
+        "Le client doit uniquement déclarer la somme aux autorités fiscales",
+        "Le client doit attendre une décision de justice avant toute restitution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette situation est une application directe d'un principe étudié dans ce module.",
+        "Le client s'est enrichi sans cause légitime, aux dépens de l'entreprise.",
+        "Cette obligation naît directement de la loi, sans qu'un contrat ne l'ait prévue."
+      ],
+      "explication": "Le client doit restituer la somme perçue sans justification : il s'agit d'une application du principe de l'enrichissement sans cause, selon lequel nul ne doit s'enrichir injustement aux dépens d'autrui. Cette obligation de restitution naît directement de la loi, indépendamment de tout contrat entre les parties, et constitue donc un fait juridique générateur d'obligation."
+    },
+    {
+      "question": "Quelles obligations naissent directement de la loi, indépendamment de tout acte volontaire ou de toute faute du débiteur ?",
+      "choix": [
+        "Uniquement les obligations résultant d'un contrat de travail",
+        "L'obligation alimentaire, l'obligation d'entretien des enfants, certaines obligations de voisinage et obligations fiscales",
+        "Uniquement les obligations résultant d'un jugement",
+        "Aucune obligation ne peut naître directement de la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces obligations ne dépendent ni d'un accord de volontés, ni d'une faute.",
+        "Elles répondent souvent à un objectif de protection sociale ou d'organisation collective.",
+        "Elles constituent une cinquième grande source d'obligation, distincte des actes et des faits juridiques liés à une faute."
+      ],
+      "explication": "Certaines obligations naissent directement de la loi, sans qu'aucun acte volontaire ni aucun fait dommageable du débiteur n'en soit la cause immédiate : l'obligation alimentaire entre proches, l'obligation des parents d'entretenir leurs enfants, certaines obligations de voisinage, et diverses obligations fiscales ou administratives. C'est la loi seule qui crée le lien obligatoire, dans un but de protection sociale ou d'organisation collective."
+    },
+    {
+      "question": "Quel est le nom de la législation malgache qui codifie de manière systématique le droit des obligations ?",
+      "choix": [
+        "Le Code de Procédure Civile",
+        "La Théorie Générale des Obligations (LTGO)",
+        "Le Code Pénal Malgache",
+        "La Constitution de la Quatrième République"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette législation est souvent désignée par un acronyme de quatre lettres.",
+        "Elle a été adoptée après l'indépendance de Madagascar.",
+        "Elle fusionne plusieurs textes antérieurs consacrés aux preuves et aux sources des obligations."
+      ],
+      "explication": "La législation malgache qui codifie de manière systématique le droit des obligations est la loi relative à la théorie générale des obligations, souvent désignée par l'acronyme LTGO. Adoptée après l'indépendance, elle fusionne en un texte cohérent plusieurs textes antérieurs consacrés respectivement aux preuves, au régime général et aux sources des obligations civiles."
+    },
+    {
+      "question": "Quels trois textes antérieurs ont été fusionnés pour former la LTGO ?",
+      "choix": [
+        "Trois lois sur le droit de la famille",
+        "Un texte sur les preuves des obligations civiles, un texte sur les obligations considérées indépendamment de leurs sources, et un texte sur les sources des obligations civiles",
+        "Trois lois sur le droit pénal",
+        "Trois textes sur le droit commercial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces trois textes ont été adoptés au début des années 1960.",
+        "L'un porte sur la preuve, un autre sur le régime général, un troisième sur les sources.",
+        "Leur fusion a permis de constituer une véritable partie générale du droit des obligations."
+      ],
+      "explication": "La LTGO a été formée par la fusion de trois textes antérieurs : un texte sur les preuves des obligations civiles, un texte sur les obligations considérées indépendamment de leurs sources, et un texte sur les sources des obligations civiles. Cette fusion a permis de constituer une véritable partie générale du droit des obligations, organisée de manière systématique."
+    },
+    {
+      "question": "En quoi la démarche du législateur malgache, à travers la LTGO, rejoint-elle l'ambition doctrinale du tournant du XXe siècle évoquée plus haut dans ce module ?",
+      "choix": [
+        "Elle s'en éloigne complètement en supprimant toute notion d'obligation",
+        "Elle réalise, par voie législative, ce que les juristes du tournant du XXe siècle avaient tenté de construire par la seule voie doctrinale : une véritable partie générale du droit des obligations",
+        "Elle se limite à reproduire à l'identique le Code civil français de 1804",
+        "Elle ne concerne que les obligations commerciales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'ambition des auteurs du tournant du XXe siècle d'organiser systématiquement la matière.",
+        "La LTGO retient une classification moderne et organise la matière de façon cohérente.",
+        "Ce que la doctrine n'a pu pleinement réaliser, le législateur malgache l'a accompli par la loi."
+      ],
+      "explication": "La LTGO réalise, par voie législative, l'ambition que les juristes français du tournant du XXe siècle (Bufnoir, Saleilles, Planiol, Capitant) avaient tenté de concrétiser par la seule voie doctrinale : construire une véritable partie générale du droit des obligations, organisée de manière systématique plutôt que dispersée au fil des articles d'un code napoléonien."
+    },
+    {
+      "question": "Quel statut ont les dispositions du Code civil antérieures à 1960 pour les questions non traitées par la LTGO ?",
+      "choix": [
+        "Elles sont totalement abrogées et inapplicables",
+        "Elles demeurent applicables à titre supplétif, dans la mesure où elles ne sont pas contraires à la LTGO",
+        "Elles ne s'appliquent qu'aux étrangers résidant à Madagascar",
+        "Elles priment systématiquement sur la LTGO"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La LTGO ne couvre pas l'intégralité du droit civil malgache.",
+        "Pour les questions qu'elle ne traite pas, un texte plus ancien continue de s'appliquer.",
+        "Cette application reste toutefois conditionnée à l'absence de contrariété avec la LTGO."
+      ],
+      "explication": "Pour les questions qu'elle ne traite pas, les dispositions du Code civil antérieures à 1960 demeurent applicables à titre supplétif à Madagascar, dans la mesure où elles ne sont pas contraires à la LTGO. Le droit malgache des obligations résulte ainsi de l'articulation entre cette législation spécifique et le fonds commun hérité du Code civil."
+    },
+    {
+      "question": "Vrai ou faux : la classification des sources des obligations a toujours fait l'objet d'un consensus unanime entre les juristes.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce module décrit plusieurs classifications concurrentes proposées au fil du temps.",
+        "Le débat sur le quasi-contrat et sur la volonté unilatérale illustre ces divergences.",
+        "Plusieurs auteurs ont même jugé ce débat dépourvu d'utilité pratique réelle."
+      ],
+      "explication": "Faux. La classification des sources des obligations a fait l'objet d'une controverse persistante : classification quinquépartite héritée de Pothier, bipartition contrat/autres sources, théories concurrentes de Josserand ou de Colin et Capitant, débat sur la volonté unilatérale, puis classification moderne actes juridiques/faits juridiques. Ce débat doctrinal a duré plus d'un siècle avant de trouver, dans certaines législations comme la LTGO, une réponse législative claire."
+    },
+    {
+      "question": "Pourquoi peut-on dire que le quasi-délit n'exige, à la différence du délit civil, aucune intention de nuire ?",
+      "choix": [
+        "Parce que le quasi-délit ne donne jamais lieu à réparation",
+        "Parce qu'il résulte d'une simple négligence ou imprudence, sans volonté de causer le dommage qui en résulte",
+        "Parce que le quasi-délit ne concerne que les personnes morales",
+        "Parce que le quasi-délit est toujours commis intentionnellement, contrairement au délit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la nature du comportement fautif en cause.",
+        "Le préfixe « quasi » indique ici une ressemblance par les effets, et non par l'intention.",
+        "L'auteur n'a jamais voulu causer le dommage qui en résulte."
+      ],
+      "explication": "Le quasi-délit résulte d'un comportement seulement négligent ou imprudent, sans intention de nuire : l'auteur n'a jamais voulu causer le dommage qui en résulte, contrairement au délit civil qui suppose un fait volontaire ayant pour objet ou pour conséquence de causer ce dommage. Dans les deux cas, néanmoins, l'obligation de réparer naît d'un fait, et relève donc des faits juridiques."
+    },
+    {
+      "question": "Résumé final : quelle évolution générale ce module retrace-t-il, des sources antiques du droit romain jusqu'au droit malgache contemporain ?",
+      "choix": [
+        "Le passage d'une classification rigide et immuable des sources des obligations, jamais remise en cause",
+        "Le passage d'une classification quinquépartite héritée de Pothier, en partie fondée sur une confusion historique (le quasi-contrat), à une classification moderne (actes et faits juridiques) finalement consacrée par la loi malgache, qui tranche aussi le débat sur la volonté unilatérale",
+        "La disparition complète de la notion d'obligation au profit de la seule responsabilité civile",
+        "Le remplacement intégral du droit des obligations par le droit commercial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce module suit un fil chronologique : Pothier, le Code civil, le tournant doctrinal du XXe siècle, puis le droit malgache.",
+        "La notion de quasi-contrat occupe une place centrale dans cette évolution critique.",
+        "La LTGO apparaît comme l'aboutissement concret de ce long débat doctrinal."
+      ],
+      "explication": "Ce module retrace le passage d'une classification quinquépartite héritée de Pothier (contrat, quasi-contrat, délit, quasi-délit, loi), en partie fondée sur la confusion historique entourant la notion de quasi-contrat, à une classification moderne fondée sur la distinction entre actes juridiques et faits juridiques. Cette évolution doctrinale, restée longtemps incertaine en France (notamment sur la question de la volonté unilatérale), a trouvé une consécration législative claire dans la Théorie Générale des Obligations malgache, qui reconnaît expressément l'engagement unilatéral de volonté comme source autonome d'obligation."
+    },
+    {
+      "question": "Quelle critique Marcadé adressait-il à l'architecture du Code civil concernant les obligations ?",
+      "choix": [
+        "Le Code ne mentionne jamais le mot obligation",
+        "Les rédacteurs du Code ont confondu obligation et contrat en traitant des effets des obligations alors qu'ils n'avaient exposé que le contrat, sans respecter l'ordre logique du Traité des obligations de Pothier dont ils s'inspiraient",
+        "Le Code consacre trop d'articles aux quasi-contrats",
+        "Le Code ne traite jamais des effets des obligations"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Marcadé reprochait un défaut de méthode, pas un défaut de contenu.",
+        "Il posait la question : les obligations solidaires ne résultent-elles que d'une convention ?",
+        "Il en a tiré un petit manuel récrivant le plan du droit des obligations."
+      ],
+      "explication": "Marcadé reprochait aux rédacteurs du Code civil d'avoir traité des effets des obligations immédiatement après le seul contrat, sans avoir d'abord identifié l'ensemble des sources des obligations, alors qu'ils empruntaient justement l'architecture du Traité des obligations de Pothier. Il en concluait qu'il aurait fallu exposer toutes les sources avant de traiter des effets communs à toutes les obligations, et il a lui-même proposé un résumé récrivant ce plan."
+    },
+    {
+      "question": "Selon Demolombe, la division des obligations héritée de Domat et Pothier était-elle réellement quinquépartite ?",
+      "choix": [
+        "Oui, et elle reprenait fidèlement la division de Gaius",
+        "Non : Demolombe estimait qu'elle était en réalité bipartite (contrat / engagements autres que contractuels), la liste à cinq branches n'étant qu'un inventaire secondaire à l'intérieur de la seconde branche",
+        "Non, elle comportait en réalité sept sources distinctes",
+        "Oui, et Demolombe approuvait entièrement cette classification"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Demolombe pratiquait une méthode proche de la méthode historique.",
+        "Il concluait que l'ancienne division de Gaius était à ce point défigurée chez Pothier qu'on pouvait dire qu'elle avait disparu.",
+        "Pour lui, Domat et Pothier opposaient seulement les conventions aux engagements qui s'en forment sans convention."
+      ],
+      "explication": "Demolombe soutenait que Domat et Pothier n'avaient pas divisé les obligations selon quatre ou cinq causes, mais selon deux sources seulement : les contrats d'une part, les engagements qui se forment sans convention d'autre part. La liste à cinq branches ne serait qu'un inventaire secondaire à l'intérieur de cette seconde catégorie, simple commodité d'exposition plutôt que véritable classification rationnelle."
+    },
+    {
+      "question": "Dans son article de 1904 sur la classification des sources des obligations, quelle thèse Planiol défendait-il ?",
+      "choix": [
+        "Il existe sept sources d'obligations, dont la coutume et l'équité",
+        "Il n'existe en réalité que deux sources d'obligations : l'accord de volonté entre débiteur et créancier (le contrat), et la volonté toute-puissante de la loi",
+        "Le contrat n'est jamais une source d'obligation",
+        "Le quasi-contrat est la source la plus importante du droit des obligations"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Planiol reprenait, en la durcissant, l'intuition bipartite de Demolombe.",
+        "Pour lui, aucune autre source d'obligation n'a une nature presque contractuelle.",
+        "Il qualifiait l'expression « quasi-contrat » de contre-sens total."
+      ],
+      "explication": "Planiol défendait une thèse strictement bipartite : seules deux sources d'obligations existent selon lui, le contrat (accord de volontés) et la loi, qui intervient directement pour toutes les obligations non contractuelles, y compris celles qu'on rangeait à tort sous l'étiquette de quasi-contrat. Il dénonçait cette dernière expression comme un véritable contre-sens né d'une mauvaise lecture de la formule romaine quasi ex contractu."
+    },
+    {
+      "question": "Comment Josserand qualifiait-il la notion de quasi-contrat dans son Cours de droit civil positif français ?",
+      "choix": [
+        "Une notion indispensable à conserver en l'état",
+        "Un « monstre légendaire » qu'il fallait se décider à bannir du vocabulaire juridique",
+        "La source la plus claire et la mieux définie du droit des obligations",
+        "Une notion strictement réservée au droit commercial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'image employée par Josserand est volontairement frappante.",
+        "Il observait que les codes les plus récents passaient sous silence cette notion.",
+        "Il proposait une classification à quatre classes pour la remplacer."
+      ],
+      "explication": "Josserand qualifiait le quasi-contrat de « monstre légendaire » qu'il fallait bannir du vocabulaire juridique, jugeant qu'il ne répondait plus à aucun besoin ni à aucune réalité. Il proposait à la place une classification en quatre classes : les actes juridiques, les actes illicites, l'enrichissement sans cause, et la loi."
+    },
+    {
+      "question": "Quelle classification Colin et Capitant proposaient-ils pour remplacer celle du Code civil ?",
+      "choix": [
+        "Une classification en trois groupes : contrats, lois, coutumes",
+        "Une classification en quatre groupes : les contrats, les déclarations unilatérales de volonté, les délits et quasi-délits, et la loi, en éliminant purement et simplement les quasi-contrats",
+        "Le maintien strict de la classification quinquépartite du Code civil",
+        "Une classification fondée uniquement sur la nationalité des parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ils estimaient que la notion de quasi-contrat était née d'une confusion des interprètes.",
+        "Ils faisaient place, en revanche, aux actes unilatéraux.",
+        "Cette classification rationnelle comporte quatre groupes, et non cinq."
+      ],
+      "explication": "Colin et Capitant proposaient une classification rationnelle en quatre groupes : les contrats, les déclarations unilatérales de volonté, les délits et quasi-délits, et la loi. Ils éliminaient purement et simplement la catégorie du quasi-contrat, qu'ils jugeaient née d'une confusion des interprètes ayant déformé l'idée ancienne relative aux effets des obligations en en faisant à tort le principe d'une classification des sources."
+    },
+    {
+      "question": "En quoi la théorie des actes juridiques développée par Henri Capitant allait-elle plus loin que celle de Planiol ?",
+      "choix": [
+        "Elle niait l'existence même du contrat",
+        "Elle regroupait les actes bilatéraux et unilatéraux au sein d'une même classe d'actes juridiques, et analysait plus finement l'acte illicite comme un fait juridique engendrant un lien de droit",
+        "Elle excluait totalement les délits du champ des sources d'obligations",
+        "Elle se limitait à reproduire l'ordre du Code civil"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Planiol refusait que la déclaration unilatérale soit une source autonome ; Capitant, lui, allait plus loin.",
+        "Capitant distinguait les actes juridiques proprement dits des actes illicites.",
+        "Il expliquait que l'acte illicite engendre un lien de droit entre son auteur et la victime."
+      ],
+      "explication": "Capitant allait plus loin que Planiol en regroupant les actes bilatéraux (conventions) et unilatéraux (renonciation, testament) au sein d'une même classe d'actes juridiques proprement dits, destinés à créer, modifier ou éteindre un droit. Il analysait par ailleurs l'acte illicite comme un fait juridique à part, engendrant un lien de droit entre son auteur et celui qui en a souffert, sans pour autant assimiler faute contractuelle et faute délictuelle."
+    },
+    {
+      "question": "Quelle critique Bonnecase adressait-il à l'ensemble de la doctrine française sur la classification des sources des obligations ?",
+      "choix": [
+        "Qu'elle n'avait jamais existé avant le XXe siècle",
+        "Qu'elle s'était laissée hypnotiser par le contrat comme seule variété d'acte juridique et avait fractionné à l'excès le fait juridique en catégories autonomes, sans comprendre que la loi seule est la source des obligations, mise en mouvement par l'acte ou le fait juridique",
+        "Qu'elle accordait trop d'importance à la volonté unilatérale",
+        "Qu'elle ignorait complètement la notion de contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Bonnecase proposait une vue concurrente de celles de Planiol, Josserand et Colin/Capitant.",
+        "Il reprochait à la doctrine de n'avoir pas vu que l'acte juridique s'absorbe dans le fait juridique au sens large.",
+        "Cette analyse a inspiré la division moderne actes juridiques / faits juridiques, popularisée plus tard."
+      ],
+      "explication": "Bonnecase reprochait à la doctrine française de s'être laissée hypnotiser par le contrat comme seule variété d'acte juridique digne d'intérêt, et d'avoir fractionné à l'excès la notion de fait juridique en catégories autonomes se suffisant à elles-mêmes. Pour lui, la loi seule est la véritable source des obligations, simplement mise en mouvement par l'acte juridique ou le fait juridique. Cette analyse a nourri la distinction moderne entre actes et faits juridiques qui s'est ensuite imposée."
+    },
+    {
+      "question": "Que s'est-il passé pour la catégorie du quasi-contrat dans plusieurs grands traités français publiés après la Première Guerre mondiale ?",
+      "choix": [
+        "Elle a été définitivement et unanimement supprimée par tous les auteurs",
+        "Elle a été ressuscitée par certains traités, comme celui de Planiol et Ripert, qui ont justifié son maintien malgré les critiques antérieures de Planiol lui-même",
+        "Elle a été remplacée par la notion de cas fortuit",
+        "Elle n'a plus jamais été mentionnée dans aucun ouvrage"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le retour à l'ordre traditionnel du Code après la guerre a aussi concerné cette notion.",
+        "Paradoxalement, c'est sous la direction de continuateurs de Planiol que cette résurrection s'est produite.",
+        "Ce traité justifiait le maintien de la notion par le rapprochement naturel avec certains contrats."
+      ],
+      "explication": "Après la Première Guerre mondiale, plusieurs grands traités, comme le Traité pratique de droit civil français rédigé sous la direction de Ripert, ont ressuscité la catégorie des quasi-contrats, alors même que Planiol l'avait vivement critiquée quelques années plus tôt. Ce retour s'inscrit dans le mouvement plus général de retour à l'ordre traditionnel du Code civil et d'abandon de la partie générale après le reflux de l'influence doctrinale allemande."
+    },
+    {
+      "question": "Outre les quatre conditions essentielles de capacité, volonté, objet et cause, quelle condition additionnelle la théorie générale des obligations malgache prévoit-elle pour certains contrats ?",
+      "choix": [
+        "Le paiement d'un droit d'enregistrement systématique",
+        "L'observation de formes prévues par la loi, dont la validité du contrat peut être subordonnée pour certains actes",
+        "L'obtention d'une autorisation administrative pour tout contrat",
+        "La présence obligatoire d'un avocat à la signature"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette condition ne concerne que certains contrats, pas tous.",
+        "Elle rejoint la distinction classique entre contrats consensuels et contrats solennels.",
+        "Elle s'ajoute aux quatre conditions essentielles, sans les remplacer."
+      ],
+      "explication": "Au-delà des quatre conditions essentielles (capacité, volonté, objet certain, cause licite), la théorie générale des obligations malgache prévoit que la validité de certains contrats peut être subordonnée à l'observation de formes prévues par la loi. Cette précision rejoint la distinction classique, présente aussi dans la doctrine belge et française, entre les contrats consensuels (qui se forment par la seule volonté) et les contrats solennels (qui exigent en plus une forme particulière, sous peine d'inexistence de l'acte)."
+    },
+    {
+      "question": "Qu'est-ce que la clause pénale telle que régie par la théorie générale des obligations malgache ?",
+      "choix": [
+        "Une amende pénale infligée par le tribunal correctionnel",
+        "Une clause écrite par laquelle on s'engage au paiement d'une réparation forfaitaire en cas d'inexécution d'une obligation, qui s'impose en principe au juge comme aux parties",
+        "Une clause qui annule automatiquement le contrat en cas de litige",
+        "Une clause réservée exclusivement aux contrats de travail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il ne s'agit pas d'une sanction pénale au sens du droit pénal.",
+        "Cette clause fixe à l'avance le montant de la réparation due en cas d'inexécution.",
+        "Le juge ne peut, en principe, la réviser librement, sauf inexécution partielle."
+      ],
+      "explication": "La clause pénale est une clause écrite par laquelle une partie s'engage au paiement d'une réparation forfaitaire en cas d'inexécution d'une obligation. Selon la théorie générale des obligations malgache, cette clause s'impose en principe au juge comme aux parties, ce qui signifie que le juge ne peut, sauf exception prévue par la loi (notamment en cas d'inexécution partielle), en modifier librement le montant fixé d'avance par les parties elles-mêmes."
+    },
+    {
+      "question": "Vrai ou faux : en droit malgache, l'enrichissement sans cause est traité directement par la loi, sans recourir à la notion de quasi-contrat.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La théorie générale des obligations malgache consacre des articles spécifiques à l'enrichissement sans cause.",
+        "Ce choix rejoint la critique doctrinale de la notion de quasi-contrat étudiée plus haut dans ce module.",
+        "Le terme « quasi-contrat » n'est pas employé pour désigner cette source d'obligation en droit malgache."
+      ],
+      "explication": "Vrai. La théorie générale des obligations malgache consacre des dispositions spécifiques à l'enrichissement sans cause, sans recourir à la notion de quasi-contrat pour le désigner. Ce choix terminologique rejoint directement la critique doctrinale exposée dans ce module : plutôt que de maintenir une catégorie historiquement confuse, le législateur malgache a préféré nommer et réglementer directement le principe selon lequel nul ne doit s'enrichir injustement aux dépens d'autrui."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Pendant que son voisin Solofo est en voyage à l'étranger pour plusieurs mois, Mialy constate qu'une fuite d'eau menace d'inonder gravement l'atelier de couture de Solofo, situé au rez-de-chaussée de leur immeuble commun. N'ayant aucun moyen de le contacter rapidement, Mialy fait appel à un plombier à ses propres frais pour réparer la fuite en urgence, évitant ainsi un dégât des eaux important. À son retour, Solofo refuse de rembourser Mialy, estimant qu'il n'avait jamais conclu de contrat avec elle pour ces travaux. (1) Quelle est la source de l'obligation qui pèse, le cas échéant, sur Solofo ? (2) Cette obligation relève-t-elle d'un acte juridique ou d'un fait juridique ? (3) Pourquoi l'argument de Solofo (l'absence de contrat) est-il inopérant ?",
+      "choix": [
+        "Solofo a raison : sans contrat, aucune obligation ne peut peser sur lui",
+        "(1) L'obligation de Solofo trouve sa source dans la gestion d'affaires : Mialy est intervenue spontanément, sans mandat, dans les affaires de Solofo pour éviter un préjudice. (2) Cette obligation relève d'un fait juridique, et non d'un acte juridique, puisqu'elle n'a pas été recherchée en tant que telle par Mialy ni par Solofo, mais résulte directement de la loi. (3) L'argument de Solofo est inopérant car la gestion d'affaires ne suppose précisément aucun contrat préalable : c'est l'intervention spontanée elle-même, dans l'intérêt d'autrui, qui fait naître l'obligation d'indemnisation, indépendamment de toute volonté contractuelle des parties",
+        "Mialy ne peut réclamer un remboursement que si elle avait obtenu l'accord préalable de Solofo par téléphone",
+        "Cette situation relève uniquement de la responsabilité délictuelle de Solofo"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Identifiez d'abord la situation : une personne intervient spontanément, sans mandat, dans les affaires d'une autre.",
+        "Rappelez-vous que la gestion d'affaires fait naître des obligations réciproques sans qu'un contrat soit nécessaire.",
+        "Demandez-vous si cette obligation résulte d'une volonté de produire l'effet de droit, ou simplement d'un fait auquel la loi attache cet effet."
+      ],
+      "explication": "(1) La source de l'obligation est la gestion d'affaires : Mialy, sans y être obligée et sans mandat de Solofo, est intervenue spontanément pour préserver l'atelier de couture menacé par la fuite d'eau. Cette intervention spontanée dans l'intérêt d'autrui fait naître, par l'effet de la loi, une obligation pour le maître de l'affaire (Solofo) d'indemniser le gérant (Mialy) des dépenses utilement engagées. (2) Cette obligation relève d'un fait juridique, et non d'un acte juridique : ni Mialy en intervenant, ni Solofo en bénéficiant de cette intervention, n'ont voulu créer spécifiquement cette obligation d'indemnisation ; c'est la loi qui l'attache directement à la situation, indépendamment de toute intention contractuelle. (3) L'argument de Solofo selon lequel aucun contrat n'a été conclu est précisément hors sujet : la gestion d'affaires est définie comme une intervention qui se produit en dehors de tout mandat, c'est-à-dire en dehors de tout accord contractuel préalable. Exiger un contrat reviendrait à priver cette source d'obligation de toute utilité, puisque son intérêt précis est de protéger celui qui agit spontanément et dans l'urgence, sans avoir eu le temps ni la possibilité d'obtenir un accord formel. Ce cas illustre la différence fondamentale entre les actes juridiques (où l'on veut l'effet) et les faits juridiques (où la loi attache l'effet indépendamment de la volonté des parties)."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Une société de transport publie, dans un grand journal national, une annonce engageant à verser une prime de 500 000 ariary à toute personne qui retrouverait et restituerait un container de marchandises volé sur l'un de ses véhicules. Trois jours plus tard, sans avoir lu l'annonce, un agent de sécurité retrouve le container par hasard lors d'une ronde de routine et le restitue spontanément à la société, sans connaître l'existence de la prime promise. La société refuse ensuite de verser la prime, arguant que l'agent n'avait jamais accepté l'offre puisqu'il n'en avait pas connaissance. (1) Sur quelle source d'obligation l'agent de sécurité pourrait-il, en théorie, fonder sa demande de paiement de la prime ? (2) Quelle est la principale difficulté juridique posée par cette situation au regard de la théorie de l'engagement unilatéral de volonté ? (3) En quoi ce cas illustre-t-il l'intérêt pratique du débat doctrinal étudié dans ce module sur la nécessité ou non d'une acceptation ?",
+      "choix": [
+        "L'agent ne peut jamais réclamer la prime, car aucune source d'obligation ne s'applique à cette situation",
+        "(1) L'agent pourrait fonder sa demande sur l'engagement unilatéral de volonté de la société, qui s'est engagée par sa seule déclaration publique, sans qu'une acceptation formelle de l'agent ne soit en principe nécessaire pour que l'obligation naisse. (2) La principale difficulté est que l'agent ignorait l'existence de l'annonce au moment où il a agi, ce qui pose la question de savoir si une obligation née d'une déclaration unilatérale peut bénéficier à une personne qui n'en avait même pas connaissance. (3) Ce cas illustre précisément le débat entre les partisans de la déclaration de volonté (pour qui l'engagement de la société suffit à lui seul, sans nécessiter d'acceptation ni même de connaissance de l'offre par le bénéficiaire) et leurs opposants (pour qui un minimum de concours de volontés, ou à tout le moins de connaissance de l'offre, demeure nécessaire pour que l'obligation se forme)",
+        "La société a nécessairement raison car aucune offre publique ne peut engager son auteur",
+        "L'agent doit obligatoirement intenter une action en responsabilité délictuelle contre la société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez à la théorie de la déclaration de volonté unilatérale étudiée dans ce module : que faut-il, selon ses partisans, pour que l'obligation naisse ?",
+        "Interrogez-vous sur le rôle de la connaissance de l'offre par le bénéficiaire : est-elle indispensable, ou seulement l'acceptation formelle ?",
+        "Ce cas est volontairement construit pour mettre en tension les deux positions doctrinales opposées présentées dans ce module."
+      ],
+      "explication": "(1) L'agent de sécurité pourrait fonder sa demande sur l'engagement unilatéral de volonté pris par la société dans son annonce publique : selon cette théorie, la déclaration de volonté de la société, une fois rendue publique, l'engage par elle-même, indépendamment de toute acceptation formelle de la part du bénéficiaire potentiel. (2) La difficulté principale tient au fait que l'agent ignorait totalement l'existence de cette annonce au moment où il a agi : il n'a donc pas pu, même implicitement, accepter une offre dont il n'avait pas connaissance, ni même agir en considération de la récompense promise. Cette situation pousse la théorie de la volonté unilatérale dans ses retranchements les plus extrêmes. (3) Ce cas illustre exactement la tension décrite dans ce module entre la thèse de la déclaration de volonté unilatérale, pour qui l'engagement de la société suffit à lui seul dès sa publication (et qui conduirait alors à faire droit à la demande de l'agent, même en l'absence de connaissance de l'offre), et la thèse adverse, pour qui un minimum de lien entre la volonté de l'auteur de la promesse et celle du bénéficiaire reste nécessaire pour que l'obligation se forme valablement (ce qui pourrait conduire, à l'inverse, à refuser la prime à un bénéficiaire qui n'a agi que par hasard, sans lien avec l'offre). Le module a montré que cette tension n'est pas seulement théorique : elle a des conséquences concrètes très réelles, comme le démontre ce cas, et c'est précisément pour résoudre ce type de difficultés que certaines législations, comme la théorie générale des obligations malgache, ont choisi de consacrer expressément l'engagement unilatéral de volonté comme source autonome d'obligation, tout en laissant à la jurisprudence le soin de préciser, au cas par cas, les conditions exactes de sa mise en œuvre."
+    }
+  ]
+}
+ 
