@@ -785,51 +785,6 @@ html, body {
 </div>
 
 
-<!-- RÉFLEXION IA — Niveau Réalités Juridiques & Sociales -->
-<div class="screen" id="screen-reflexion">
-  <div class="screen-header">
-    <button class="btn-back" onclick="goBack('screen-lecons')">‹</button>
-    <div>
-      <div class="screen-title" id="ref-screen-title">Réflexion</div>
-      <div class="screen-sub" id="ref-screen-sub">Réalités Juridiques & Sociales</div>
-    </div>
-  </div>
-  <div style="padding:0 22px 48px; flex:1; display:flex; flex-direction:column; gap:18px;">
-
-    <!-- Question -->
-    <div style="background:var(--navy-mid); border-radius:14px; border:1px solid rgba(42,157,143,0.25); padding:20px;">
-      <div style="font-size:9.5px; letter-spacing:3px; text-transform:uppercase; color:var(--teal); margin-bottom:10px; font-weight:600;">Question de réflexion</div>
-      <div id="ref-question" style="font-family:'Playfair Display',serif; font-size:17px; font-weight:700; color:var(--cream); line-height:1.5;"></div>
-    </div>
-
-    <!-- Conversation -->
-    <div id="ref-chat" style="display:flex; flex-direction:column; gap:14px; flex:1;"></div>
-
-    <!-- Input -->
-    <div id="ref-input-area">
-      <textarea id="ref-input" placeholder="Écrivez votre réponse ou votre question…"
-        style="width:100%; min-height:100px; padding:14px; border-radius:12px;
-               background:var(--navy-mid); border:1px solid rgba(255,255,255,0.08);
-               color:var(--cream); font-family:'Inter',sans-serif; font-size:13.5px;
-               line-height:1.6; resize:none; outline:none; -webkit-appearance:none;"
-        oninput="this.style.height='auto'; this.style.height=this.scrollHeight+'px'">
-      </textarea>
-      <button class="btn-primary" id="ref-send-btn" onclick="sendReflexion()"
-        style="margin-top:10px; background:var(--teal);">
-        Envoyer →
-      </button>
-    </div>
-
-    <!-- Fin de session -->
-    <div id="ref-done-area" style="display:none; text-align:center;">
-      <div style="font-size:13px; color:var(--cream-dim); margin-bottom:16px; line-height:1.6;">
-        Belle réflexion. Revenez quand vous voulez approfondir ce sujet.
-      </div>
-      <button class="btn-primary" onclick="goBack('screen-lecons')" style="background:var(--teal);">Retour aux modules →</button>
-    </div>
-  </div>
-</div>
-
 <!-- RAPPEL DE COURS -->
 <div id="review-modal">
   <div class="lc-card">
@@ -1250,7 +1205,7 @@ setTimeout(() => {
       showScreen('screen-login');
     }
   }, 650);
-}, 2800);
+}, 4000);
 
 /* ═══════════════════════════════════════════
    HELPERS
@@ -1352,8 +1307,6 @@ function openNiveau(fi) {
     const card = document.createElement('div');
     card.className = 'module-card '+f.accent+(hasContent?'':' locked');
     if (hasContent) card.onclick = () => openModule(fi, mi);
-    // Niveau réflexion : cliquer sur le module ouvre directement la réflexion IA
-    if (f.modules[mi] && f.modules[mi].type === 'reflexion') card.onclick = () => openReflexion(fi, mi, 0);
     const chips = m.lecons.length
       ? m.lecons.map((l,li) => '<span class="lecon-chip'+(isLeconDone(fi,m.id,li)?' chip-done':'')+'">'+l.titre+'</span>').join('')
       : '<span class="lecon-chip">Contenu à venir</span>';
@@ -1384,8 +1337,7 @@ function openModule(fi, mi) {
     const unlocked   = isLeconUnlocked(fi, m.id, li);
     const row = document.createElement('div');
     row.className = 'lecon-row' + (unlocked ? '' : ' locked');
-    const mod = f.modules[mi];
-    if (unlocked) row.onclick = () => mod && mod.type === 'reflexion' ? openReflexion(fi, mi, li) : openReader(fi, mi, li);
+    if (unlocked) row.onclick = () => openReader(fi, mi, li);
     row.innerHTML =
       '<div class="lecon-index'+(isDone?' done':'')+'">'+( isDone?'✓':(unlocked?(li+1):'🔒'))+'</div>'+
       '<div class="lecon-title-text">'+
@@ -1702,203 +1654,7 @@ function launchParticles() {
   }
 }
 
-/* ═══════════════════════════════════════════
-   RÉFLEXION IA — Gemini Flash (gratuit)
-   Remplace YOUR_GEMINI_KEY par ta clé API
-   depuis aistudio.google.com
-   ═══════════════════════════════════════════ */
-const GEMINI_KEY = 'AQ.Ab8RN6KdnOr7g--zDtgIBmxrSBVmUvYy7LGttmpUt-NWj81vrg';
-const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=' + GEMINI_KEY;
-
-let refState = {
-  moduleTitle: '',
-  question: '',
-  history: [],   // { role: 'user'|'model', text: '' }
-  exchangeCount: 0,
-  maxExchanges: 5
-};
-
-const SYSTEM_PROMPT = `Tu es un conseiller juridique et citoyen spécialisé sur Madagascar.
-Tu discutes avec un apprenant dans le cadre du module "Réalités Juridiques et Sociales Malagasy".
-Ton rôle :
-- Répondre de façon factuelle, nuancée, ancrée dans la réalité malgache
-- Ne pas valider bêtement : challenger, approfondir, poser des questions de suivi
-- Citer des exemples concrets (BIANCO, HCC, dahalo, fokontany, EDBM, CNaPS, etc.)
-- Rester respectueux et pédagogique, jamais condescendant
-- Après 4-5 échanges, proposer un résumé des points essentiels abordés
-- Ne pas dépasser 200 mots par réponse
-- Répondre en français`;
-
-function openReflexion(fi, mi, li) {
-  curNiveau = fi; curModule = mi; curLecon = li;
-  const f = formations[fi];
-  const m = f.modules[mi];
-
-  // Questions prédéfinies par module (index 0-19)
-  const questions = [
-    "La Constitution malgache de 2010 garantit de nombreux droits. Pourtant, beaucoup de citoyens ne les connaissent pas. À qui revient la responsabilité de cette méconnaissance, et comment y remédier ?",
-    "Madagascar a connu plusieurs crises politiques majeures. Pensez-vous que ces crises sont la cause ou la conséquence des faiblesses institutionnelles ?",
-    "Le Parlement vote des lois, le gouvernement les applique — en théorie. En pratique, quels obstacles empêchent ce schéma de fonctionner à Madagascar ?",
-    "Le fokontany est souvent le seul contact entre l'État et le citoyen rural. Quelles sont les limites de cette structure, et comment pourrait-on l'améliorer ?",
-    "Des pans entiers de l'économie malgache fonctionnent sans cadre juridique clair. Est-ce un problème ou une adaptation nécessaire ? Argumentez.",
-    "Une loi existe mais n'est jamais appliquée. Est-ce pire qu'une absence de loi ? Donnez un exemple concret malgache.",
-    "Un citoyen ordinaire d'Antananarivo veut porter plainte contre son employeur. Quelles sont les étapes réelles, et quels obstacles va-t-il rencontrer ?",
-    "Le BIANCO existe depuis 2004. La corruption a-t-elle reculé à Madagascar ? Qu'est-ce qui expliquerait l'écart entre les intentions et les résultats ?",
-    "Face à l'insécurité dans les zones rurales, certaines communautés créent leurs propres systèmes de justice. Est-ce légitime ? Quels risques cela comporte-t-il ?",
-    "Le titre foncier est censé protéger les droits de propriété. Pourquoi des millions de Malgaches n'en ont-ils pas, et quelles en sont les conséquences ?",
-    "Le Code du travail malgache protège les salariés. Mais 90% des travailleurs sont dans l'informel. Ce code est-il adapté à la réalité du pays ?",
-    "L'exportation illégale de bois de rose est interdite depuis des années. Elle continue pourtant. Que révèle cela sur le rapport de l'État malgache à ses propres lois ?",
-    "La liberté de la presse est garantie par la Constitution. En pratique, quels facteurs limitent cette liberté à Madagascar ?",
-    "Un dirigeant malgache s'enrichit visiblement au-delà de ses revenus officiels. Quels mécanismes juridiques existent pour le sanctionner, et pourquoi sont-ils rarement utilisés ?",
-    "Les élections sont régulièrement contestées à Madagascar. Qu'est-ce qu'une élection vraiment démocratique, et Madagascar en est-il loin ?",
-    "Les Églises jouent un rôle majeur dans la société malgache, parfois plus que les institutions officielles. Est-ce sain pour l'État de droit ?",
-    "Madagascar a ratifié de nombreuses conventions internationales sur les droits humains. Quelle différence cela fait-il concrètement pour un citoyen malgache ?",
-    "Quelle réforme juridique ou institutionnelle vous semble la plus urgente à Madagascar aujourd'hui ? Justifiez votre choix.",
-    "En tant que citoyen malgache, quelles actions concrètes et légales pouvez-vous mener pour contribuer à l'amélioration de l'État de droit ?",
-    "Des pays africains comme le Rwanda ou le Botswana ont réussi des réformes importantes. Quelles leçons Madagascar pourrait-il en tirer, et quels obstacles spécifiques s'y opposent ?"
-  ];
-
-  refState = {
-    moduleTitle: m.titre,
-    question: questions[mi] || "Quelle est votre analyse de ce sujet dans le contexte malgache ?",
-    history: [],
-    exchangeCount: 0,
-    maxExchanges: 5
-  };
-
-  document.getElementById('ref-screen-title').textContent = 'Module ' + String(m.id).padStart(2,'0');
-  document.getElementById('ref-screen-sub').textContent = m.titre;
-  document.getElementById('ref-question').textContent = refState.question;
-  document.getElementById('ref-chat').innerHTML = '';
-  document.getElementById('ref-input').value = '';
-  document.getElementById('ref-input-area').style.display = 'block';
-  document.getElementById('ref-done-area').style.display = 'none';
-  showScreen('screen-reflexion');
-}
-
-function appendMessage(role, text) {
-  const chat = document.getElementById('ref-chat');
-  const isAI = role === 'model';
-  const div = document.createElement('div');
-  div.style.cssText = `
-    padding: 14px 16px; border-radius: 12px; font-size: 13.5px; line-height: 1.7;
-    ${isAI
-      ? 'background: var(--navy-mid); border: 1px solid rgba(42,157,143,0.2); color: var(--cream);'
-      : 'background: rgba(42,157,143,0.1); border: 1px solid rgba(42,157,143,0.3); color: var(--cream); margin-left: 20px;'
-    }
-  `;
-  if (isAI) {
-    const label = document.createElement('div');
-    label.style.cssText = 'font-size:9.5px; letter-spacing:3px; text-transform:uppercase; color:var(--teal); margin-bottom:8px; font-weight:600;';
-    label.textContent = 'Conseiller IA';
-    div.appendChild(label);
-  }
-  const p = document.createElement('div');
-  p.textContent = text;
-  div.appendChild(p);
-  chat.appendChild(div);
-  div.scrollIntoView({ behavior: 'smooth', block: 'end' });
-  return div;
-}
-
-function showTyping() {
-  const chat = document.getElementById('ref-chat');
-  const div = document.createElement('div');
-  div.id = 'typing-indicator';
-  div.style.cssText = 'padding:12px 16px; border-radius:12px; background:var(--navy-mid); border:1px solid rgba(42,157,143,0.2); color:var(--teal); font-size:12px; letter-spacing:2px;';
-  div.textContent = '…';
-  chat.appendChild(div);
-  div.scrollIntoView({ behavior: 'smooth', block: 'end' });
-}
-function removeTyping() {
-  const el = document.getElementById('typing-indicator');
-  if (el) el.remove();
-}
-
-async function sendReflexion() {
-  const input = document.getElementById('ref-input');
-  const text = input.value.trim();
-  if (!text) return;
-
-  input.value = '';
-  input.style.height = 'auto';
-  appendMessage('user', text);
-  refState.history.push({ role: 'user', text });
-  refState.exchangeCount++;
-
-  const btn = document.getElementById('ref-send-btn');
-  btn.disabled = true; btn.textContent = 'En cours…';
-  showTyping();
-
-  try {
-    // Construction de l'historique pour Gemini
-    const contents = refState.history.map(h => ({
-      role: h.role,
-      parts: [{ text: h.text }]
-    }));
-
-    // Injection du contexte dans le premier message utilisateur
-    if (contents.length === 1) {
-      contents[0].parts[0].text =
-        `[Module: ${refState.moduleTitle}]
-[Question posée: ${refState.question}]
-
-Réponse de l'apprenant: ${text}`;
-    }
-
-    const body = {
-      system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
-      contents,
-      generationConfig: { maxOutputTokens: 512, temperature: 0.7 }
-    };
-
-    const res = await fetch(GEMINI_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(body)
-    });
-
-    const data = await res.json();
-    removeTyping();
-
-    if (data.error) {
-      // Clé manquante ou invalide
-      if (GEMINI_KEY === 'YOUR_GEMINI_KEY') {
-        appendMessage('model', '⚠️ Clé API Gemini non configurée. Ajoutez votre clé dans le code (GEMINI_KEY) depuis aistudio.google.com — c'est gratuit.');
-      } else {
-        appendMessage('model', '⚠️ Erreur API : ' + (data.error.message || 'Veuillez réessayer.'));
-      }
-    } else {
-      const reply = data.candidates?.[0]?.content?.parts?.[0]?.text || 'Je n'ai pas pu générer une réponse. Réessayez.';
-      refState.history.push({ role: 'model', text: reply });
-      appendMessage('model', reply);
-
-      // Fin après maxExchanges
-      if (refState.exchangeCount >= refState.maxExchanges) {
-        setTimeout(() => {
-          document.getElementById('ref-input-area').style.display = 'none';
-          document.getElementById('ref-done-area').style.display = 'block';
-        }, 800);
-      }
-    }
-  } catch (err) {
-    removeTyping();
-    appendMessage('model', '⚠️ Problème de connexion. Vérifiez votre réseau et réessayez.');
-  }
-
-  btn.disabled = false; btn.textContent = 'Envoyer →';
-}
-
-// Touche Entrée + Shift pour nouvelle ligne, Entrée seul pour envoyer
-document.addEventListener('DOMContentLoaded', () => {
-  const inp = document.getElementById('ref-input');
-  if (inp) {
-    inp.addEventListener('keydown', e => {
-      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendReflexion(); }
-    });
-  }
-});
 
 </script>
 </body>
-</html>
+  </html>
