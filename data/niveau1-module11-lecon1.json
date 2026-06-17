@@ -1,0 +1,681 @@
+{
+  "titre": "La personnalité juridique : personnes physiques et personnes morales",
+  "module": "Module 11 — La personnalité juridique",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que la personnalité juridique ?",
+      "texte": "Tout le monde parle de « ses droits » — le droit d'être propriétaire, le droit de signer un contrat, le droit d'aller en justice. Mais pour avoir des droits, encore faut-il exister aux yeux du droit. C'est exactement ce que donne la personnalité juridique : elle est l'aptitude à être titulaire de droits et assujetti à des obligations. Autrement dit, c'est le « passeport juridique » qui permet d'exister dans le monde du droit — d'acheter, de vendre, d'hériter, d'agir en justice, de signer un contrat. Sans personnalité juridique, on n'est rien pour le droit : on est un objet, pas un sujet. Les sujets de droit sont les êtres auxquels le droit reconnaît cette personnalité. Tous les autres — les choses, les animaux, les biens — sont des objets de droit. Même si depuis 2015 les animaux sont reconnus comme des êtres vivants doués de sensibilité, ils restent soumis au régime des biens : ils ne sont pas des sujets de droit. Il ne faut pas confondre personnalité juridique et capacité juridique. La personnalité, c'est le fait d'exister dans le droit. La capacité, c'est l'aptitude à exercer soi-même ses droits. Une personne peut avoir la personnalité juridique sans avoir la pleine capacité — c'est le cas d'un enfant ou d'un majeur sous tutelle.",
+      "definition": "Personnalité juridique : aptitude à être titulaire de droits et assujetti à des obligations. Elle est reconnue à toute personne — physique ou morale — et la distingue des objets de droit. À ne pas confondre avec la capacité juridique, qui est l'aptitude à exercer soi-même ses droits."
+    },
+    {
+      "titre": "Qui bénéficie de la personnalité juridique ?",
+      "texte": "Le droit reconnaît la personnalité juridique à deux catégories de sujets. D'un côté, les personnes physiques : tous les êtres humains, sans exception, ont la personnalité juridique. Peu importe leur âge, leur nationalité, leur état de santé ou leur situation sociale. C'est un principe fondamental : aucun être humain ne peut en être privé de son vivant. D'un autre côté, les personnes morales : ce sont des groupements d'individus ou de biens auxquels le droit a accordé une existence juridique propre, distincte de celle de leurs membres. Les associations, les sociétés commerciales, les syndicats, les collectivités territoriales, l'État lui-même — toutes ces entités ont la personnalité morale. Elles peuvent avoir un patrimoine, signer des contrats, agir en justice, être poursuivies en justice. Entre les personnes et les choses, il n'y a pas de troisième catégorie. Soit on est sujet de droit — personne physique ou morale — soit on est objet de droit. Cette distinction fondamentale, appelée la summa divisio, structure tout le droit.",
+      "definition": "Deux catégories de sujets de droit : les personnes physiques (tous les êtres humains) et les personnes morales (groupements auxquels le droit reconnaît une existence juridique propre : sociétés, associations, syndicats, État, collectivités). Tout ce qui n'est pas sujet de droit est objet de droit.",
+      "exemple": "Une association malgache de protection de l'environnement régulièrement déclarée est une personne morale : elle peut ouvrir un compte bancaire, signer des contrats, agir en justice pour défendre la forêt. En revanche, le zébu qui broute dans son jardin est un objet de droit — il appartient à quelqu'un, mais il n'a pas de droits propres."
+    },
+    {
+      "titre": "Quand commence la personnalité juridique des personnes physiques ?",
+      "texte": "La règle de base est simple : la personnalité juridique commence à la naissance. Mais cette naissance doit remplir deux conditions cumulatives pour donner naissance à un sujet de droit. L'enfant doit être né vivant : un enfant mort-né ne devient jamais sujet de droit. L'enfant doit également être né viable : il doit avoir les organes nécessaires et suffisamment développés pour lui permettre de vivre de façon autonome. Un grand prématuré dont la survie est impossible ne satisfait pas à cette condition de viabilité. Ce sont ces deux conditions — naissance vivante et viabilité — qui font basculer l'être humain du statut de chose à celui de personne. La déclaration de naissance à l'état civil est une formalité obligatoire, mais elle ne crée pas la personnalité juridique : elle la constate simplement. L'enfant qui remplit les deux conditions est une personne juridique dès sa naissance, que sa naissance soit déclarée ou non. À Madagascar comme en France, la naissance doit être déclarée dans les délais prévus par la loi auprès de l'officier d'état civil du lieu de naissance.",
+      "definition": "Début de la personnalité juridique des personnes physiques : la naissance, à condition que l'enfant soit né vivant ET viable. Ces deux conditions sont cumulatives. La déclaration à l'état civil constate la naissance mais ne crée pas la personnalité juridique.",
+      "exemple": "Kanto met au monde des jumeaux. Le premier naît vivant et en bonne santé : il a immédiatement la personnalité juridique. Le second naît avec des malformations graves incompatibles avec la vie et décède en salle d'accouchement sans jamais avoir respiré de manière autonome : il n'a jamais eu la personnalité juridique. Ces deux situations, pourtant vécues en même temps, produisent des effets juridiques radicalement différents."
+    },
+    {
+      "titre": "L'exception : l'enfant conçu mais pas encore né",
+      "texte": "En principe, un enfant qui n'est pas encore né n'a pas la personnalité juridique. Il ne peut donc pas hériter, recevoir une donation, ou bénéficier de droits. Mais cette règle stricte produirait parfois des injustices criantes. Imaginez : un père décède dans un accident alors que sa femme est enceinte. Si l'enfant à naître ne peut pas hériter, il sera privé de la succession de son père alors qu'il était déjà conçu. Pour éviter ces injustices, le droit a développé la théorie de l'infans conceptus, qui s'exprime par un adage latin : infans conceptus pro nato habetur quoties de commodis ejus agitur — l'enfant conçu est réputé né chaque fois que son intérêt l'exige. En vertu de cette théorie, la personnalité juridique peut rétroagir au jour de la conception si trois conditions sont réunies : l'enfant était déjà conçu au moment de l'événement générateur du droit ; cet événement est dans son intérêt ; et l'enfant naît ensuite vivant et viable. La loi présume que l'enfant a été conçu entre le 300ème et le 180ème jour avant sa naissance, au moment qui lui est le plus favorable. Cette théorie permet à l'enfant à naître d'hériter, de recevoir une assurance-décès, ou d'obtenir réparation pour le décès accidentel de son père survenu pendant la grossesse.",
+      "definition": "Théorie de l'infans conceptus : exception au principe selon lequel la personnalité juridique commence à la naissance. L'enfant conçu mais pas encore né est réputé né chaque fois que son intérêt l'exige, à condition qu'il naisse ensuite vivant et viable. La conception est présumée entre le 300ème et le 180ème jour avant la naissance.",
+      "exemple": "Radidy est enceinte de 5 mois quand son mari décède dans un accident de la route. L'enfant qu'elle porte était conçu avant le décès du père. Il naîtra vivant et viable 4 mois plus tard. Grâce à la théorie de l'infans conceptus, cet enfant pourra hériter de son père décédé, comme s'il avait déjà été né au moment du décès. Son intérêt l'exige : il mérite de bénéficier de la succession paternelle."
+    },
+    {
+      "titre": "Quand prend fin la personnalité juridique des personnes physiques ?",
+      "texte": "La personnalité juridique prend fin avec la mort biologique de la personne. C'est la mort médicalement constatée — plus précisément la mort cérébrale — qui met fin à l'existence juridique. Dès ce moment, la personne n'est plus un sujet de droit : elle perd tous ses droits personnels, et sa succession s'ouvre. Son mariage est dissous, son PACS prend fin, et ses biens passent à ses héritiers. Cependant, certaines traces de personnalité survivent symboliquement après la mort. La volonté du défunt doit être respectée : ses dispositions testamentaires s'imposent à ses héritiers. S'il avait exprimé une volonté concernant ses funérailles — être incinéré, être enterré dans tel lieu, avoir tel type de cérémonie — cette volonté est juridiquement protégée. Violer délibérément la volonté du défunt concernant ses funérailles, en le sachant, peut exposer la personne fautive à des poursuites pénales. Le corps humain lui-même reste protégé après la mort : cadavre ou cendres doivent être traités avec respect, dignité et décence. L'exposition de corps à des fins commerciales a été condamnée par les tribunaux. L'atteinte à l'intégrité du cadavre est pénalement sanctionnée.",
+      "definition": "Fin de la personnalité juridique : la mort biologique (mort cérébrale médicalement constatée). Effets : ouverture de la succession, dissolution du mariage, extinction des droits personnels. Survivance symbolique : la volonté du défunt doit être respectée (testament, funérailles). Le corps humain reste protégé après la mort.",
+      "exemple": "Avant de mourir, Monsieur Rakoto a rédigé un testament indiquant qu'il souhaitait être inhumé dans son village natal et que ses biens aillent à ses enfants. Sa veuve, en désaccord, souhaite le faire inhumer en ville. Juridiquement, la volonté du défunt s'impose : ses funérailles doivent respecter ses dernières volontés exprimées. Passer outre sciemment expose à des sanctions pénales."
+    },
+    {
+      "titre": "La mort incertaine : l'absence et la disparition",
+      "texte": "Que se passe-t-il quand on ne sait pas si une personne est vivante ou morte ? Le droit organise deux situations distinctes. L'absence concerne une personne qui a cessé de donner des nouvelles sans que les circonstances laissent présumer sa mort. Dans un premier temps, le juge peut constater une présomption d'absence : la personne est présumée vivante, elle conserve sa personnalité juridique, mais ses proches peuvent être désignés pour gérer ses biens. Si dix ans passent depuis ce jugement sans nouvelles, ou vingt ans depuis la disparition sans jugement préalable, le tribunal peut prononcer une déclaration d'absence. Ce jugement produit les mêmes effets que la mort : perte de la personnalité juridique, ouverture de la succession, dissolution du mariage. La disparition concerne une personne dont on présume le décès en raison des circonstances dangereuses dans lesquelles elle a disparu — naufrage, accident d'avion, catastrophe. Ici, la mort étant probable, le juge peut la déclarer rapidement sans attendre dix ou vingt ans. Dans les deux cas, si la personne réapparaît, elle recouvre ses biens — mais le mariage dissous ne peut pas être automatiquement rétabli.",
+      "definition": "Absence : personne sans nouvelles sans circonstances dangereuses. Présomption d'absence (personnalité conservée), puis déclaration d'absence après 10 ou 20 ans (effets du décès). Disparition : mort probable en raison de circonstances dangereuses, déclarée rapidement par le juge. Dans les deux cas, retour possible avec récupération des biens mais mariage dissous.",
+      "exemple": "Un marin malgache part en mer et ne revient pas. Si les conditions météorologiques étaient catastrophiques ce jour-là (disparition), le juge peut rapidement déclarer son décès. En revanche, si un homme quitte sa famille sans raison apparente et ne donne plus de nouvelles (absence), ses proches devront attendre bien plus longtemps avant d'obtenir une déclaration judiciaire d'absence."
+    },
+    {
+      "titre": "Les attributs de la personnalité juridique des personnes physiques",
+      "texte": "Avoir la personnalité juridique ne se résume pas à « exister dans le droit ». Elle confère une série d'attributs concrets qui permettent à la personne d'être identifiée et de fonctionner dans la société. Le premier attribut est le nom. Le nom de famille est immuable — on ne peut pas en changer librement. Il rattache l'individu à sa famille. À Madagascar comme en France, les parents choisissent le nom de leur enfant, mais ce choix est encadré par la loi. Le prénom permet de distinguer les membres d'une même famille. Le deuxième attribut est le domicile : c'est l'adresse juridique de la personne, le lieu où elle est officiellement rattachée. Il est unique et librement choisi par les adultes. Il détermine notamment le tribunal compétent en cas de procès et les règles fiscales applicables. Le troisième attribut est la nationalité : le lien qui unit une personne à un État et lui confère les droits civiques de cet État. Le quatrième est la capacité juridique : l'aptitude à exercer ses droits. Le cinquième est le patrimoine : l'ensemble des droits et obligations évaluables en argent appartenant à une personne. Enfin, les droits de la personnalité protègent la personne dans son intégrité physique et morale — droit à la vie privée, droit à l'image, droit à l'honneur.",
+      "definition": "Attributs de la personnalité juridique des personnes physiques : nom (immuable, rattache à la famille), domicile (unique, librement choisi, détermine la compétence juridictionnelle), nationalité (lien avec l'État), capacité juridique (aptitude à exercer ses droits), patrimoine (droits et obligations évaluables en argent), droits de la personnalité (intégrité physique et morale).",
+      "exemple": "Vonjy vit à Antsiranana. Son domicile y est fixé. Si quelqu'un veut l'assigner en justice, c'est en principe le tribunal d'Antsiranana qui sera compétent. Son nom de famille, hérité de son père, est immuable : elle ne peut pas le changer librement. Sa nationalité malgache lui donne le droit de voter et d'être protégée par l'État malgache."
+    },
+    {
+      "titre": "Les droits de la personnalité : protéger l'être humain dans son intégrité",
+      "texte": "Les droits de la personnalité forment une catégorie particulière de droits attachés à la personne humaine. Ils protègent ce qu'il y a de plus intime dans l'être humain : son corps, son image, son honneur, sa vie privée. Ces droits présentent des caractères très spécifiques qui les distinguent des droits ordinaires. Ils sont indisponibles : leur titulaire ne peut pas les céder à quelqu'un d'autre ni y renoncer définitivement. On peut autoriser quelqu'un à utiliser son image dans un contexte précis, mais cette autorisation doit être expresse, spéciale, et ne doit pas être utilisée au-delà de ce qui a été autorisé. Ils sont intransmissibles : ils s'éteignent avec la mort de leur titulaire. Ses héritiers ne reçoivent pas le droit au respect de la vie privée du défunt — ce droit s'éteint avec lui. En revanche, si l'utilisation de l'image du défunt cause un préjudice personnel à ses proches, ceux-ci peuvent agir en leur propre nom. Ils sont imprescriptibles : ils ne se perdent pas par le non-usage. On ne peut pas perdre son droit à l'image parce qu'on ne l'a jamais invoqué. La violation des droits de la personnalité peut être sanctionnée civilement (dommages-intérêts, saisie, interdiction de publication) et pénalement (atteinte à la vie privée, violation du secret professionnel).",
+      "definition": "Droits de la personnalité : droits attachés à la personne protégeant son intégrité physique et morale (vie privée, image, honneur, intégrité corporelle). Caractères : indisponibles (pas cessibles ni renoncés), intransmissibles (s'éteignent au décès), imprescriptibles (ne se perdent pas par non-usage). Sanctions : civiles (dommages-intérêts) et pénales.",
+      "exemple": "Un journal malgache publie sans autorisation des photos intimes de Lucia, une personnalité locale. Lucia peut agir en justice sur le fondement de l'atteinte à son droit à l'image et à sa vie privée. Elle peut obtenir des dommages-intérêts et demander le retrait immédiat des photos. Son droit à l'image est indisponible : le journal ne pouvait pas l'utiliser sans son accord explicite et dans les limites de cet accord."
+    },
+    {
+      "titre": "La personnalité morale : quand un groupement devient sujet de droit",
+      "texte": "La personnalité morale est une construction juridique qui permet à un groupement de personnes ou de biens d'avoir une existence juridique propre, distincte de celle de ses membres. C'est une fiction juridique : la société, l'association ou le syndicat n'est pas un être humain, mais le droit lui attribue des droits et des obligations comme s'il en était un. Pourquoi cette construction existe-t-elle ? Parce qu'elle est indispensable à la vie collective. Sans personnalité morale, une association ne pourrait pas ouvrir un compte bancaire, signer un bail, employer des salariés ou agir en justice. Ce serait toujours l'un de ses membres qui agirait personnellement, avec les risques que cela comporte. La personnalité morale s'acquiert par une formalité officielle qui varie selon le type de groupement. Pour les sociétés commerciales, c'est l'immatriculation au registre du commerce. Pour les associations, c'est la déclaration en préfecture. Pour les syndicats, c'est le dépôt des statuts. À partir de cette formalité, le groupement existe juridiquement : il peut avoir un patrimoine propre, conclure des contrats, ester en justice. La personnalité morale prend fin par la dissolution, la liquidation ou la radiation.",
+      "definition": "Personnalité morale : aptitude juridique reconnue à un groupement (société, association, syndicat, collectivité) de posséder des droits et obligations propres, distincts de ceux de ses membres. S'acquiert par une formalité officielle (immatriculation, déclaration, dépôt). Prend fin par dissolution ou liquidation.",
+      "exemple": "Trois amis créent ensemble une SARL à Antsiranana. Avant l'immatriculation au registre du commerce, la société n'existe pas juridiquement : les trois associés agissent en leur nom personnel. Après l'immatriculation, la SARL devient une personne morale distincte : c'est elle qui signe les contrats, qui possède les biens, qui est responsable des dettes — pas les associés personnellement."
+    },
+    {
+      "titre": "Les différents types de personnes morales",
+      "texte": "Il existe une grande diversité de personnes morales, que l'on peut classer en deux grandes catégories. Les personnes morales de droit public sont celles qui relèvent du droit administratif et exercent une mission de service public. On trouve dans cette catégorie l'État lui-même, les collectivités territoriales (régions, provinces, communes), les établissements publics (universités, hôpitaux, lycées publics) et les entreprises publiques dont l'État est actionnaire principal. Les personnes morales de droit privé relèvent du droit civil ou commercial. On les divise en deux sous-catégories. Les personnes morales à but lucratif ont pour objectif principal de réaliser des bénéfices à partager entre leurs membres : c'est le cas des sociétés commerciales (SARL, SA, SNC). Les personnes morales à but non lucratif n'ont pas pour objectif de distribuer des bénéfices : c'est le cas des associations, des syndicats professionnels et des fondations. Une association peut avoir des ressources, employer des salariés, réaliser des excédents — mais elle ne les distribuera pas à ses membres. À Madagascar, les associations sont régies par l'Ordonnance n° 60-133 du 3 octobre 1960 portant régime général des associations. Les syndicats défendent les intérêts collectifs des travailleurs ou des employeurs dans le cadre professionnel.",
+      "definition": "Types de personnes morales : (1) Droit public : État, collectivités territoriales, établissements publics, entreprises publiques. (2) Droit privé à but lucratif : sociétés commerciales (SARL, SA). (3) Droit privé à but non lucratif : associations, syndicats, fondations. À Madagascar, les associations sont régies par l'Ordonnance n° 60-133 du 3 octobre 1960.",
+      "exemple": "La commune d'Antsiranana est une personne morale de droit public. CDI DIEGO, association locale, est une personne morale de droit privé à but non lucratif. La société TRANO SARL qui construit des immeubles est une personne morale de droit privé à but lucratif. Ces trois entités ont chacune leur personnalité morale propre, mais ne sont pas soumises aux mêmes règles."
+    },
+    {
+      "titre": "Ce que la personnalité morale permet concrètement",
+      "texte": "La personnalité morale confère au groupement les mêmes attributs fondamentaux que la personnalité physique, adaptés à sa nature d'entité abstraite. Le nom : les sociétés ont une dénomination sociale, les associations un titre. Ce nom est librement choisi par les créateurs, mais ne doit pas prêter à confusion avec une entité existante. Il doit figurer dans les statuts. Le domicile : les personnes morales ont un siège social, qui est l'équivalent du domicile pour les personnes physiques. C'est là où se trouvent les organes de direction, où les actes officiels sont établis, et ce lieu détermine la nationalité de la personne morale ainsi que la juridiction compétente en cas de litige. La nationalité : une personne morale dont le siège social est à Madagascar est malgache. Le patrimoine propre : la personne morale possède ses propres biens, distincts de ceux de ses membres. Les dettes de la société ne sont pas automatiquement les dettes personnelles des associés. La capacité d'agir en justice : une personne morale peut être demanderesse ou défenderesse devant les tribunaux, représentée par un de ses organes dûment mandaté. Cette séparation entre la personne morale et ses membres est fondamentale : elle protège les membres contre les créanciers de la société, et protège la société contre les créanciers personnels de ses membres.",
+      "definition": "Attributs de la personnalité morale : dénomination sociale ou titre (nom propre), siège social (domicile), nationalité (déterminée par le siège social), patrimoine propre distinct de celui des membres, capacité d'agir en justice. La séparation entre la personne morale et ses membres est le principe fondateur.",
+      "exemple": "L'association CDI DIEGO a son siège à Antsiranana. Elle a un compte bancaire à son nom. Si quelqu'un vole de l'argent dans ce compte, c'est l'association — pas la présidente personnellement — qui agira en justice. Inversement, si la présidente a des dettes personnelles, ses créanciers ne peuvent pas saisir les biens de l'association : les patrimoines sont distincts."
+    },
+    {
+      "titre": "Récapitulatif : personnalité physique et morale côte à côte",
+      "texte": "Pour résumer l'essentiel de cette leçon, voici les points clés à retenir. La personnalité juridique est l'aptitude à être titulaire de droits et d'obligations. Elle est reconnue aux personnes physiques — tous les êtres humains — et aux personnes morales — les groupements auxquels le droit a accordé cette aptitude. Pour les personnes physiques : la personnalité commence à la naissance si l'enfant est vivant et viable. Par exception, elle peut rétroagir à la conception si l'intérêt de l'enfant l'exige (théorie de l'infans conceptus). Elle prend fin à la mort biologique, sauf survivance symbolique à travers la volonté du défunt et le respect de son corps. En cas de mort incertaine, le droit distingue l'absence et la disparition. Les attributs de la personnalité physique sont : le nom, le domicile, la nationalité, la capacité juridique, le patrimoine et les droits de la personnalité. Pour les personnes morales : la personnalité s'acquiert par une formalité officielle (immatriculation, déclaration). Elle confère une existence juridique propre, distincte des membres. Les attributs sont : la dénomination sociale, le siège social, la nationalité, le patrimoine propre et la capacité d'agir en justice. La grande distinction est entre personnes morales de droit public et de droit privé, et au sein du droit privé entre celles à but lucratif et celles à but non lucratif.",
+      "definition": "À retenir : personnalité juridique = aptitude à avoir des droits et obligations. Personnes physiques : naissance (vivant + viable), exception infans conceptus, fin à la mort. Personnes morales : formalité officielle, existence propre, séparation avec les membres. Deux grandes catégories : droit public et droit privé (lucratif ou non lucratif)."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que la personnalité juridique ?",
+      "choix": [
+        "L'aptitude à voter lors des élections nationales",
+        "L'aptitude à être titulaire de droits et assujetti à des obligations",
+        "L'aptitude à exercer une profession libérale",
+        "L'aptitude à être jugé devant un tribunal pénal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une aptitude fondamentale qui concerne tout sujet de droit.",
+        "Elle implique deux faces : avoir des droits ET avoir des obligations.",
+        "C'est le point de départ de toute existence dans le monde juridique."
+      ],
+      "explication": "La personnalité juridique est l'aptitude à être titulaire de droits et assujetti à des obligations. C'est le 'passeport juridique' qui permet à un être d'exister dans le monde du droit — acheter, vendre, hériter, agir en justice. Sans elle, on n'est pas un sujet de droit mais un objet de droit."
+    },
+    {
+      "question": "Quelle différence y a-t-il entre la personnalité juridique et la capacité juridique ?",
+      "choix": [
+        "Ce sont exactement la même chose",
+        "La personnalité concerne les droits, la capacité concerne les obligations",
+        "La personnalité est l'aptitude à avoir des droits ; la capacité est l'aptitude à les exercer soi-même",
+        "La personnalité est réservée aux adultes ; la capacité appartient à tous"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Un enfant a-t-il la personnalité juridique ? Et la capacité ?",
+        "Un majeur sous tutelle a la personnalité mais peut-il exercer tous ses droits lui-même ?",
+        "La personnalité existe ou n'existe pas ; la capacité peut être plus ou moins étendue."
+      ],
+      "explication": "La personnalité juridique est l'aptitude à avoir des droits et des obligations — elle appartient à tout être humain dès sa naissance. La capacité juridique est l'aptitude à exercer soi-même ces droits. Un enfant mineur a la personnalité (il peut hériter) mais n'a pas la pleine capacité (il ne peut pas signer seul un contrat). Un majeur sous tutelle a la personnalité mais sa capacité est restreinte."
+    },
+    {
+      "question": "Qui bénéficie de la personnalité juridique ?",
+      "choix": [
+        "Uniquement les citoyens majeurs d'un État",
+        "Tous les êtres humains et certains groupements reconnus par le droit",
+        "Uniquement les personnes riches qui peuvent payer des impôts",
+        "Uniquement les personnes ayant un état civil enregistré"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon distingue deux catégories de sujets de droit.",
+        "Les personnes physiques et les personnes morales.",
+        "Tout être humain, sans exception, en bénéficie."
+      ],
+      "explication": "La personnalité juridique est reconnue à deux catégories : les personnes physiques (tous les êtres humains, sans exception) et les personnes morales (groupements auxquels le droit accorde une existence juridique propre : sociétés, associations, syndicats, collectivités). Tout ce qui n'est pas sujet de droit est objet de droit."
+    },
+    {
+      "question": "Quel est le statut juridique des animaux ?",
+      "choix": [
+        "Ce sont des sujets de droit depuis 2015",
+        "Ce sont des objets de droit soumis au régime des biens, même s'ils sont reconnus comme êtres sensibles",
+        "Ce sont des personnes morales de droit naturel",
+        "Ils ont la personnalité juridique mais pas la capacité d'agir en justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La reconnaissance comme êtres sensibles change-t-elle leur statut juridique fondamental ?",
+        "Peuvent-ils être propriétaires d'un bien ? Agir en justice ?",
+        "Ils restent soumis au régime des biens : quelqu'un est propriétaire d'un animal."
+      ],
+      "explication": "Depuis 2015, les animaux sont reconnus comme des êtres vivants doués de sensibilité, ce qui a entraîné des protections pénales renforcées contre les mauvais traitements. Mais ils restent soumis au régime des biens sur le plan civil : ils ne sont pas des sujets de droit mais des objets de droit. Le propriétaire d'un animal est responsable des dommages qu'il cause."
+    },
+    {
+      "question": "Quelles conditions un enfant doit-il remplir à sa naissance pour acquérir la personnalité juridique ?",
+      "choix": [
+        "Être né dans un établissement médical officiel",
+        "Être né vivant ET viable",
+        "Être né de parents tous deux de nationalité malgache",
+        "Être déclaré à l'état civil dans les 24 heures"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon pose deux conditions cumulatives.",
+        "L'une porte sur le fait d'être en vie, l'autre sur l'aptitude à vivre durablement.",
+        "La déclaration à l'état civil n'est qu'une formalité, pas une condition de la personnalité."
+      ],
+      "explication": "Pour acquérir la personnalité juridique à la naissance, l'enfant doit être né vivant (condition 1) ET viable (condition 2). La viabilité signifie avoir les organes nécessaires et suffisamment développés pour vivre de manière autonome. Un enfant mort-né ou né non viable n'a jamais la personnalité juridique. La déclaration à l'état civil constate cette naissance mais ne la crée pas."
+    },
+    {
+      "question": "Vrai ou faux : la déclaration de naissance à l'état civil est la condition qui crée la personnalité juridique de l'enfant.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Qu'est-ce qui crée vraiment la personnalité juridique selon la leçon ?",
+        "La déclaration vient après la naissance — elle la constate.",
+        "Un enfant né vivant et viable a la personnalité même avant d'être déclaré."
+      ],
+      "explication": "Faux. La déclaration de naissance est une formalité obligatoire, mais elle ne crée pas la personnalité juridique : elle la constate simplement. L'enfant qui naît vivant et viable est immédiatement sujet de droit, que sa naissance soit déclarée ou non. C'est la naissance elle-même (avec les conditions de vie et viabilité) qui confère la personnalité."
+    },
+    {
+      "question": "Qu'est-ce que la théorie de l'infans conceptus ?",
+      "choix": [
+        "La théorie selon laquelle les enfants conçus par procréation médicalement assistée ont des droits particuliers",
+        "Le principe selon lequel l'enfant conçu mais pas encore né est réputé né chaque fois que son intérêt l'exige",
+        "La théorie selon laquelle la personnalité juridique commence à la conception pour tous les enfants",
+        "Le principe selon lequel un enfant né prématurément a moins de droits qu'un enfant né à terme"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle s'exprime par un adage latin : infans conceptus pro nato habetur.",
+        "Elle joue en faveur de l'enfant à naître dans certaines situations précises.",
+        "Elle ne s'applique que si l'enfant naît ensuite vivant et viable."
+      ],
+      "explication": "La théorie de l'infans conceptus est une exception au principe selon lequel la personnalité commence à la naissance. L'adage latin signifie : l'enfant conçu est réputé né chaque fois que son intérêt l'exige. Elle permet à un enfant encore dans le ventre de sa mère de bénéficier de droits (héritage, assurance-décès) si trois conditions sont réunies : l'enfant était conçu au moment de l'événement, c'est dans son intérêt, et il naît ensuite vivant et viable."
+    },
+    {
+      "question": "Un père décède dans un accident alors que son épouse est enceinte de 6 mois. L'enfant peut-il hériter de son père ?",
+      "choix": [
+        "Non, car l'enfant n'était pas encore né au moment du décès du père",
+        "Oui, grâce à la théorie de l'infans conceptus, si l'enfant naît ensuite vivant et viable",
+        "Oui, mais seulement si la mère en fait la demande au tribunal dans les 30 jours",
+        "Non, car l'héritage ne peut aller qu'aux personnes vivantes au moment du décès"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La théorie de l'infans conceptus a été créée précisément pour ce type de situation.",
+        "L'enfant était conçu avant le décès du père — première condition remplie.",
+        "Hériter est dans l'intérêt de l'enfant — deuxième condition remplie."
+      ],
+      "explication": "Oui. La théorie de l'infans conceptus s'applique : l'enfant était conçu avant le décès du père (condition 1), hériter est dans son intérêt (condition 2), et si l'enfant naît ensuite vivant et viable (condition 3), sa personnalité juridique rétroagit au jour de la conception. Il peut donc hériter de son père comme s'il avait déjà été né au moment du décès."
+    },
+    {
+      "question": "Pendant quelle période légale l'enfant est-il présumé avoir été conçu ?",
+      "choix": [
+        "Entre le 9ème et le 6ème mois avant la naissance",
+        "Entre le 300ème et le 180ème jour avant la naissance",
+        "Entre le 1er et le 3ème mois après la conception supposée",
+        "Entre le 365ème et le 270ème jour avant la naissance"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi fixe une présomption légale pour déterminer la date de conception.",
+        "Le 300ème jour correspond environ à 10 mois avant la naissance.",
+        "Le 180ème jour correspond environ à 6 mois avant la naissance."
+      ],
+      "explication": "La loi présume que l'enfant a été conçu pendant la période qui s'étend du 300ème au 180ème jour inclusivement avant la naissance, au moment qui lui est le plus favorable. Cette présomption peut être combattue par la preuve contraire. Elle sert notamment à déterminer si l'enfant était conçu avant un événement donné (décès du père, ouverture d'une succession)."
+    },
+    {
+      "question": "À quel moment précis la personnalité juridique d'une personne physique prend-elle fin ?",
+      "choix": [
+        "À la retraite, quand la personne cesse son activité professionnelle",
+        "À la mort biologique, médicalement constatée",
+        "Quand une décision de justice prive la personne de ses droits civiques",
+        "Quand la personne est placée sous tutelle judiciaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon précise que la mort civile a été abolie en 1854.",
+        "Une personne ne peut plus perdre sa personnalité de son vivant.",
+        "C'est la mort médicalement constatée — plus précisément la mort cérébrale."
+      ],
+      "explication": "La personnalité juridique prend fin avec la mort biologique médicalement constatée — la mort cérébrale. Depuis l'abolition de la mort civile en 1854, aucun être humain ne peut perdre sa personnalité juridique de son vivant. Une condamnation pénale, une mise sous tutelle, ou la retraite ne font pas perdre la personnalité juridique."
+    },
+    {
+      "question": "Quels sont les effets juridiques principaux du décès ?",
+      "choix": [
+        "Uniquement la perte du droit de vote",
+        "L'ouverture de la succession, la dissolution du mariage, la perte des droits personnels",
+        "La transformation en personne morale par testament",
+        "Le transfert automatique de tous les droits aux enfants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le décès met fin à la personnalité juridique — tous les droits personnels s'éteignent.",
+        "La succession s'ouvre : les biens passent aux héritiers.",
+        "Le lien conjugal est dissous."
+      ],
+      "explication": "Le décès produit plusieurs effets majeurs : ouverture de la succession (les biens du défunt passent à ses héritiers), dissolution du mariage et du PACS, extinction des droits personnels (comme les droits de la personnalité). Le testament devient irrévocable et doit être exécuté selon la volonté du défunt."
+    },
+    {
+      "question": "La volonté d'un défunt concernant ses funérailles est-elle juridiquement protégée ?",
+      "choix": [
+        "Non, les survivants sont libres de décider des funérailles comme ils le souhaitent",
+        "Oui, la volonté du défunt s'impose et la violer sciemment peut entraîner des sanctions pénales",
+        "Oui, mais seulement si la volonté a été exprimée devant notaire",
+        "Non, car la personnalité juridique s'éteint totalement à la mort"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon parle de 'survivance symbolique' de la personnalité après la mort.",
+        "La volonté du défunt sur ses funérailles est protégée par la loi.",
+        "Passer outre sciemment peut exposer à des poursuites pénales."
+      ],
+      "explication": "Oui. Même si la personnalité juridique s'éteint à la mort, la volonté du défunt concernant ses funérailles est juridiquement protégée. Violer sciemment cette volonté — par exemple en enterrant quelqu'un qui souhaitait être incinéré — peut exposer la personne fautive à des poursuites pénales, à condition qu'elle ait eu connaissance de la volonté du défunt."
+    },
+    {
+      "question": "Quelle est la différence entre l'absence et la disparition en droit ?",
+      "choix": [
+        "L'absence concerne les étrangers ; la disparition concerne les nationaux",
+        "L'absence : personne sans nouvelles sans circonstances dangereuses (longue procédure) ; la disparition : mort probable en raison de circonstances dangereuses (procédure plus rapide)",
+        "L'absence et la disparition sont deux mots pour désigner la même situation juridique",
+        "L'absence concerne les mineurs ; la disparition concerne les majeurs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La différence porte sur les circonstances dans lesquelles la personne a disparu.",
+        "Naufrage ou accident d'avion : mort probable, procédure rapide.",
+        "Personne qui quitte sa famille sans raison : longue procédure d'absence."
+      ],
+      "explication": "L'absence désigne une personne qui a cessé de donner des nouvelles sans que les circonstances laissent présumer sa mort. La procédure est longue : 10 ans après un jugement de présomption d'absence, ou 20 ans sans ce jugement. La disparition concerne une personne dont le décès est probable en raison de circonstances dangereuses (naufrage, accident). Le juge peut déclarer le décès rapidement. Dans les deux cas, si la personne réapparaît, elle récupère ses biens, mais le mariage dissous n'est pas rétabli automatiquement."
+    },
+    {
+      "question": "Qu'est-ce que la présomption d'absence ?",
+      "choix": [
+        "La présomption que la personne est décédée dès qu'elle disparaît",
+        "La constatation par le juge qu'une personne est sans nouvelles, en présumant qu'elle est vivante, avec désignation d'un représentant pour ses biens",
+        "La présomption qu'une personne absente a renoncé à ses droits",
+        "La déclaration automatique de décès après 5 ans d'absence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans la présomption d'absence, la personne est présumée... vivante ou morte ?",
+        "La personnalité juridique est-elle conservée pendant cette période ?",
+        "Le juge désigne quelqu'un pour gérer les biens."
+      ],
+      "explication": "La présomption d'absence est constatée par le juge quand une personne a cessé de donner des nouvelles sans circonstances dangereuses. La personne est présumée vivante — elle conserve donc sa personnalité juridique. Mais un représentant peut être désigné pour gérer ses biens. C'est la première étape, avant la déclaration d'absence qui, elle, produit les effets du décès."
+    },
+    {
+      "question": "Quels sont les attributs de la personnalité juridique des personnes physiques ?",
+      "choix": [
+        "Uniquement le nom et la nationalité",
+        "Le nom, le domicile, la nationalité, la capacité juridique, le patrimoine et les droits de la personnalité",
+        "Le nom, l'adresse email et le numéro de téléphone",
+        "Uniquement le patrimoine et la capacité d'agir en justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon liste plusieurs attributs distincts.",
+        "Certains permettent d'identifier la personne, d'autres concernent ses droits.",
+        "Les droits de la personnalité protègent l'intégrité de la personne."
+      ],
+      "explication": "Les attributs de la personnalité juridique des personnes physiques sont : le nom (rattache à la famille, immuable), le domicile (adresse juridique unique), la nationalité (lien avec un État), la capacité juridique (aptitude à exercer ses droits), le patrimoine (droits et obligations évaluables en argent) et les droits de la personnalité (protection de l'intégrité physique et morale)."
+    },
+    {
+      "question": "Pourquoi le nom de famille est-il dit « immuable » ?",
+      "choix": [
+        "Parce qu'il doit toujours être en majuscules sur les documents officiels",
+        "Parce qu'on ne peut pas en changer librement, sauf pour intérêt légitime justifié",
+        "Parce qu'il reste le même pendant 10 ans puis peut être modifié",
+        "Parce que seul le président de la République peut autoriser un changement de nom"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Immuable signifie qui ne change pas.",
+        "Une exception existe pour des cas légitimes comme un nom ridicule.",
+        "Il rattache la personne à sa famille — un lien stable."
+      ],
+      "explication": "Le nom de famille est immuable car on ne peut pas en changer librement. Ce principe garantit la stabilité de l'identification des personnes et le lien avec la famille. Il existe cependant une exception : quand un intérêt légitime le justifie (par exemple un nom à consonance ridicule ou difficile à porter), une procédure judiciaire permet d'en obtenir la modification."
+    },
+    {
+      "question": "Qu'est-ce que le domicile en droit ?",
+      "choix": [
+        "L'endroit où la personne passe le plus de temps",
+        "L'adresse juridique officielle de la personne, unique et librement choisi, qui détermine notamment la juridiction compétente",
+        "L'adresse indiquée sur la carte d'identité",
+        "La résidence principale enregistrée auprès des impôts"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le domicile est unique — on ne peut pas en avoir plusieurs.",
+        "Il a des effets juridiques importants, notamment sur la compétence des tribunaux.",
+        "Il est différent des résidences secondaires."
+      ],
+      "explication": "Le domicile est l'adresse juridique officielle de la personne. Il est unique (on ne peut pas avoir deux domiciles simultanés) et librement choisi par les adultes. Il détermine notamment quelle juridiction est compétente en cas de procès et les règles fiscales applicables. Par exception, les mineurs non émancipés ont leur domicile chez leurs parents, et les majeurs sous tutelle chez leur tuteur."
+    },
+    {
+      "question": "Quels sont les trois caractères des droits de la personnalité ?",
+      "choix": [
+        "Transmissibles, prescriptibles et disponibles",
+        "Indisponibles, intransmissibles et imprescriptibles",
+        "Absolus, relatifs et conditionnels",
+        "Pécuniaires, moraux et mixtes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces trois caractères s'opposent aux caractères des droits ordinaires.",
+        "Indisponible signifie qu'on ne peut pas les céder.",
+        "Intransmissible signifie qu'ils ne passent pas aux héritiers."
+      ],
+      "explication": "Les droits de la personnalité sont : indisponibles (leur titulaire ne peut pas les céder ni y renoncer — on peut autoriser leur utilisation dans un cadre précis, mais pas les transférer définitivement), intransmissibles (ils s'éteignent au décès du titulaire et ne passent pas aux héritiers), et imprescriptibles (ils ne se perdent pas par le non-usage, même si on ne les invoque jamais)."
+    },
+    {
+      "question": "Vrai ou faux : les héritiers reçoivent le droit au respect de la vie privée du défunt.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les droits de la personnalité sont intransmissibles.",
+        "Ils s'éteignent à la mort de leur titulaire.",
+        "Les héritiers peuvent agir en leur propre nom si leur préjudice personnel est établi."
+      ],
+      "explication": "Faux. Les droits de la personnalité sont intransmissibles : ils s'éteignent à la mort de leur titulaire et ne se transmettent pas aux héritiers. Le droit au respect de la vie privée du défunt appartient à lui seul et disparaît avec lui. En revanche, si l'atteinte à la mémoire du défunt cause un préjudice personnel aux proches, ces derniers peuvent agir en leur propre nom — pas au nom du défunt."
+    },
+    {
+      "question": "Qu'est-ce que la personnalité morale ?",
+      "choix": [
+        "La personnalité juridique des personnes très vertueuses et honnêtes",
+        "L'aptitude juridique reconnue à un groupement de posséder des droits et obligations propres, distincts de ceux de ses membres",
+        "La personnalité juridique des personnes moralement responsables de leurs actes",
+        "La personnalité accordée aux associations religieuses uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle est reconnue aux groupements, pas aux individus.",
+        "Elle crée une entité distincte de ses membres.",
+        "C'est une fiction juridique : le groupement n'est pas un être humain mais a des droits propres."
+      ],
+      "explication": "La personnalité morale est l'aptitude juridique reconnue à un groupement (société, association, syndicat, collectivité) de posséder des droits et obligations propres, distincts de ceux de ses membres. C'est une fiction juridique : le groupement n'est pas un être humain, mais le droit lui accorde une existence juridique propre pour permettre la vie collective organisée."
+    },
+    {
+      "question": "Comment une association malgache acquiert-elle la personnalité morale ?",
+      "choix": [
+        "Automatiquement dès que trois personnes se réunissent avec un objectif commun",
+        "Par une déclaration en préfecture, conformément à l'Ordonnance n° 60-133 du 3 octobre 1960",
+        "Par un vote de l'assemblée nationale",
+        "Par l'immatriculation au registre du commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Chaque type de personne morale a sa propre formalité.",
+        "Les associations ne passent pas par le registre du commerce.",
+        "La leçon cite le texte légal malgache applicable."
+      ],
+      "explication": "À Madagascar, une association acquiert la personnalité morale par une déclaration en préfecture, conformément à l'Ordonnance n° 60-133 du 3 octobre 1960 portant régime général des associations. Avant cette formalité, le groupement existe peut-être dans les faits, mais il n'a pas de personnalité juridique propre : ses membres agissent en leur nom personnel."
+    },
+    {
+      "question": "Quelle est la différence entre une personne morale à but lucratif et une personne morale à but non lucratif ?",
+      "choix": [
+        "La personne morale à but lucratif paye des impôts ; l'autre non",
+        "La personne morale à but lucratif a pour objectif de réaliser des bénéfices à partager entre membres ; la non lucrative n'a pas vocation à distribuer des bénéfices à ses membres",
+        "La personne morale lucrative a plus de membres que la non lucrative",
+        "Il n'y a aucune différence pratique entre les deux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La distinction porte sur l'objectif et le sort des bénéfices éventuels.",
+        "Une association peut avoir des ressources sans être lucrative.",
+        "La SARL est lucrative ; l'association de quartier ne l'est pas."
+      ],
+      "explication": "La personne morale à but lucratif (ex. : SARL, SA) a pour objectif principal de réaliser des bénéfices à partager entre ses membres (associés, actionnaires). La personne morale à but non lucratif (ex. : association, syndicat) n'a pas vocation à distribuer des bénéfices : ses ressources sont affectées à son objet social. Une association peut avoir des excédents mais ne les distribuera pas à ses membres."
+    },
+    {
+      "question": "Pourquoi la personnalité morale est-elle indispensable à la vie collective ?",
+      "choix": [
+        "Pour que les membres puissent éviter de payer des impôts",
+        "Pour permettre au groupement d'avoir un patrimoine propre, signer des contrats et agir en justice, sans que ce soit un membre qui agisse en son nom personnel",
+        "Pour donner plus de prestige aux dirigeants de l'organisation",
+        "Pour éviter que les membres soient personnellement responsables de leurs propres dettes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Sans personnalité morale, qui signerait les contrats ? Qui posséderait les biens ?",
+        "La personnalité morale crée une entité distincte des membres.",
+        "Elle protège les membres en séparant leur patrimoine de celui du groupement."
+      ],
+      "explication": "Sans personnalité morale, un groupement ne pourrait pas ouvrir de compte bancaire, signer un bail, employer des salariés ou agir en justice de façon autonome. Ce serait toujours un membre qui agirait en son nom personnel, avec les risques que cela comporte. La personnalité morale crée une entité distincte, avec son propre patrimoine et ses propres droits — indépendamment de ses membres."
+    },
+    {
+      "question": "Qu'est-ce que le siège social pour une personne morale ?",
+      "choix": [
+        "La salle où se tient l'assemblée générale annuelle",
+        "L'équivalent du domicile pour les personnes physiques : l'adresse juridique officielle de la personne morale, qui détermine sa nationalité et la juridiction compétente",
+        "L'adresse du président ou du directeur général",
+        "Le bureau où sont conservés les archives de la société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il joue pour la personne morale le même rôle que le domicile pour la personne physique.",
+        "Il détermine la nationalité de la personne morale.",
+        "Il doit figurer dans les statuts."
+      ],
+      "explication": "Le siège social est l'équivalent du domicile pour les personnes morales. C'est l'adresse juridique officielle de la personne morale, qui doit figurer dans ses statuts. Il détermine la nationalité de la personne morale (une société dont le siège est à Madagascar est malgache) et la juridiction compétente en cas de litige. Il est librement choisi par les créateurs."
+    },
+    {
+      "question": "Une société commerciale malgache a des dettes. Ses créanciers peuvent-ils saisir les biens personnels des associés ?",
+      "choix": [
+        "Oui, toujours : les associés sont personnellement responsables de toutes les dettes de la société",
+        "Non, en principe : la personnalité morale sépare le patrimoine de la société de celui des associés",
+        "Oui, mais seulement si la dette dépasse 10 millions d'ariary",
+        "Cela dépend uniquement de la décision du juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La personnalité morale crée une séparation entre la société et ses membres.",
+        "La société a son propre patrimoine, distinct de celui des associés.",
+        "C'est l'un des avantages majeurs de la personnalité morale."
+      ],
+      "explication": "En principe non. La personnalité morale crée une séparation fondamentale entre le patrimoine de la société et celui de ses associés. Les créanciers de la société ne peuvent s'en prendre qu'au patrimoine de la société — pas aux biens personnels des associés. C'est l'un des grands avantages de la personnalité morale : elle protège les membres contre les créanciers du groupement. (Note : cette protection peut avoir des limites selon le type de société et certaines circonstances particulières.)"
+    },
+    {
+      "question": "Quelles sont les personnes morales de droit public ?",
+      "choix": [
+        "Les SARL, les SA et les SNC",
+        "Les associations, les syndicats et les fondations",
+        "L'État, les collectivités territoriales, les établissements publics et les entreprises publiques",
+        "Les partis politiques et les organisations non gouvernementales"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Elles relèvent du droit administratif.",
+        "Elles exercent une mission de service public.",
+        "L'État lui-même est une personne morale."
+      ],
+      "explication": "Les personnes morales de droit public sont celles qui relèvent du droit administratif et exercent une mission de service public : l'État, les collectivités territoriales (régions, provinces, communes), les établissements publics (universités, hôpitaux, lycées publics) et les entreprises publiques dont l'État est l'actionnaire principal. Elles se distinguent des personnes morales de droit privé (associations, sociétés, syndicats)."
+    },
+    {
+      "question": "Comment la personnalité morale prend-elle fin ?",
+      "choix": [
+        "Quand le président de l'organisation décède",
+        "Automatiquement après 10 ans d'existence",
+        "Par la dissolution, la liquidation ou la radiation",
+        "Quand le nombre de membres tombe en dessous de deux"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La fin de la personnalité morale est symétrique à son début : elle suppose une formalité.",
+        "Dissolution, liquidation, radiation sont les trois voies principales.",
+        "Le décès du dirigeant ne met pas fin à la personnalité de l'entité."
+      ],
+      "explication": "La personnalité morale prend fin par la dissolution (décision des membres ou décision de justice de mettre fin à l'existence du groupement), la liquidation (réalisation des actifs et paiement des dettes pour clôturer l'entité) ou la radiation (suppression du registre officiel). Le décès du dirigeant ou la réduction du nombre de membres n'entraîne pas automatiquement la fin de la personnalité morale."
+    },
+    {
+      "question": "Vrai ou faux : un être humain peut perdre sa personnalité juridique de son vivant si un tribunal le décide.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne l'abolition de la mort civile.",
+        "La mort civile a été supprimée en 1854.",
+        "Depuis lors, aucun être humain ne peut être privé de sa personnalité de son vivant."
+      ],
+      "explication": "Faux. Depuis l'abolition de la mort civile en 1854, aucun être humain ne peut perdre sa personnalité juridique de son vivant. Même un condamné à perpétuité, même un majeur sous tutelle totale conserve sa personnalité juridique. Ce qui peut changer, c'est sa capacité à exercer ses droits — mais pas la personnalité elle-même. C'est un principe fondamental du respect de la dignité humaine."
+    },
+    {
+      "question": "Que devient le cadavre sur le plan juridique après la mort ?",
+      "choix": [
+        "Il reste une personne juridique pendant 30 jours après le décès",
+        "Il intègre le domaine des choses, mais doit être traité avec respect, dignité et décence",
+        "Il devient propriété de l'État",
+        "Il est automatiquement remis à la famille sans aucune règle particulière"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le cadavre n'est plus un sujet de droit, mais il reste protégé.",
+        "La loi impose des exigences de respect et de dignité.",
+        "L'atteinte à l'intégrité du cadavre est pénalement sanctionnée."
+      ],
+      "explication": "Après la mort, le cadavre intègre le domaine des choses sur le plan juridique. Mais il n'est pas une chose ordinaire : cadavre et cendres doivent être traités avec respect, dignité et décence. L'exposition de corps à des fins commerciales a été condamnée par les tribunaux. L'atteinte à l'intégrité du cadavre est pénalement sanctionnée. C'est une protection qui perdure au-delà de la personnalité juridique."
+    },
+    {
+      "question": "Un journal publie sans autorisation la photo d'une personnalité décédée il y a 2 ans. Sa famille peut-elle agir en justice ?",
+      "choix": [
+        "Oui, au nom du défunt, en invoquant son droit à l'image qui persiste après la mort",
+        "Non, car les droits de la personnalité s'éteignent au décès et ne se transmettent pas aux héritiers",
+        "Oui, toujours, car la famille hérite automatiquement de tous les droits du défunt",
+        "Non, car la presse a une liberté totale concernant les personnes décédées"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les droits de la personnalité sont intransmissibles — ils s'éteignent au décès.",
+        "La famille ne peut pas agir au nom du défunt pour son droit à l'image.",
+        "Mais si l'atteinte cause un préjudice personnel à la famille, elle peut agir en son propre nom."
+      ],
+      "explication": "Les droits de la personnalité (dont le droit à l'image) sont intransmissibles et s'éteignent au décès. La famille ne peut pas agir au nom du défunt pour invoquer son droit à l'image. En revanche, si la publication cause un préjudice personnel établi aux proches — par exemple une atteinte à la mémoire ou au respect dû au mort — ils peuvent agir en leur propre nom, pas au nom du défunt."
+    },
+    {
+      "question": "Quelle est la summa divisio fondamentale du droit des personnes ?",
+      "choix": [
+        "La distinction entre les hommes et les femmes",
+        "La distinction entre les personnes physiques et les personnes morales",
+        "La distinction entre les sujets de droit et les objets de droit",
+        "La distinction entre les nationaux et les étrangers"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Summa divisio signifie la distinction la plus fondamentale.",
+        "Elle oppose ceux qui ont des droits à ce qui fait l'objet de droits.",
+        "La leçon l'explique dès le début."
+      ],
+      "explication": "La summa divisio fondamentale est la distinction entre les sujets de droit et les objets de droit. Les sujets de droit — personnes physiques et morales — ont la personnalité juridique et peuvent avoir des droits et des obligations. Les objets de droit — choses, animaux, biens — n'ont pas cette aptitude : ils font l'objet de droits appartenant aux sujets de droit. Cette distinction structure l'ensemble du droit."
+    },
+    {
+      "question": "Qu'est-ce que l'immatriculation au registre du commerce pour une société ?",
+      "choix": [
+        "Une formalité facultative que les sociétés peuvent choisir de faire ou non",
+        "La formalité officielle par laquelle une société commerciale acquiert la personnalité morale",
+        "L'enregistrement des impôts que doit payer la société chaque année",
+        "La procédure par laquelle les associés sont enregistrés individuellement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pour les sociétés, c'est la formalité équivalente à la déclaration en préfecture pour les associations.",
+        "Avant l'immatriculation, la société n'existe pas juridiquement.",
+        "C'est le point de départ de la personnalité morale pour les sociétés commerciales."
+      ],
+      "explication": "L'immatriculation au registre du commerce est la formalité officielle par laquelle une société commerciale acquiert la personnalité morale. Avant cette immatriculation, la société n'existe pas juridiquement : les fondateurs agissent en leur nom personnel. À partir de l'immatriculation, la société devient une personne morale à part entière, avec son propre patrimoine, ses propres droits et obligations."
+    },
+    {
+      "question": "Vrai ou faux : une association peut employer des salariés et réaliser des excédents financiers tout en restant à but non lucratif.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le caractère non lucratif porte sur la distribution des bénéfices, pas sur leur réalisation.",
+        "Une association peut avoir des ressources et même des excédents.",
+        "Ce qui lui est interdit, c'est de distribuer ces excédents à ses membres."
+      ],
+      "explication": "Vrai. Une association à but non lucratif peut parfaitement avoir des salariés, signer des contrats, percevoir des cotisations et même réaliser des excédents financiers. Ce qui la distingue d'une société commerciale, c'est qu'elle ne distribue pas ces excédents à ses membres. Les ressources restent affectées à l'objet social de l'association. Le caractère non lucratif porte sur la destination des bénéfices, pas sur leur existence."
+    },
+    {
+      "question": "Quel organe est généralement compétent pour autoriser une action en justice au nom d'une association ?",
+      "choix": [
+        "Le président seul, qui peut toujours agir sans consulter personne",
+        "L'assemblée générale ou l'organe désigné par les statuts",
+        "Le tribunal administratif, qui doit approuver chaque action",
+        "Le ministère de l'Intérieur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La personne morale doit être représentée par un organe compétent.",
+        "Les statuts déterminent qui est compétent.",
+        "Si les statuts ne disent rien, c'est en général l'assemblée générale."
+      ],
+      "explication": "Pour agir en justice au nom d'une association, il faut que l'organe compétent — désigné par les statuts ou, à défaut, l'assemblée générale — ait préalablement autorisé l'action. Le représentant doit être dûment mandaté et pouvoir justifier de ce mandat devant le tribunal. C'est une exigence de la capacité d'agir pour les personnes morales."
+    },
+    {
+      "question": "Qu'est-ce qui distingue fondamentalement la personne morale de ses membres ?",
+      "choix": [
+        "La personne morale est plus intelligente que ses membres",
+        "La personne morale a une existence juridique propre et un patrimoine distinct de celui de ses membres",
+        "La personne morale est immortelle alors que ses membres meurent",
+        "La personne morale paye moins d'impôts que ses membres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est le principe fondateur de la personnalité morale.",
+        "Les dettes de la société ne sont pas automatiquement celles des associés.",
+        "La séparation patrimoniale est la grande innovation de la personnalité morale."
+      ],
+      "explication": "Ce qui distingue fondamentalement la personne morale de ses membres, c'est qu'elle possède une existence juridique propre et un patrimoine distinct. Les droits et obligations de la personne morale ne se confondent pas avec ceux de ses membres. Les dettes de la société n'engagent pas automatiquement les associés sur leurs biens personnels, et les créanciers personnels des associés ne peuvent pas saisir les biens de la société."
+    },
+    {
+      "question": "Récapitulatif final : quelle affirmation résume le mieux la leçon sur la personnalité juridique ?",
+      "choix": [
+        "Seuls les adultes riches ont la personnalité juridique",
+        "La personnalité juridique est l'aptitude à avoir des droits et des obligations, reconnue à tous les êtres humains dès la naissance et aux groupements par une formalité officielle",
+        "La personnalité juridique est un privilège accordé par le gouvernement aux citoyens méritants",
+        "Seules les personnes morales ont une véritable personnalité juridique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon commence et finit par cette idée centrale.",
+        "Deux catégories de sujets bénéficient de la personnalité.",
+        "Pour les personnes physiques, c'est automatique à la naissance ; pour les morales, c'est une formalité."
+      ],
+      "explication": "La personnalité juridique est l'aptitude à être titulaire de droits et assujetti à des obligations. Elle est reconnue à tous les êtres humains (personnes physiques) dès leur naissance, sous condition d'être nés vivants et viables. Elle est aussi reconnue aux groupements (personnes morales) à partir d'une formalité officielle (immatriculation, déclaration). C'est le fondement de toute existence dans le monde du droit."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Madame Rasoa est enceinte de 7 mois. Son mari, Monsieur Rabe, décède dans un accident de voiture. Une assurance-vie souscrite par Monsieur Rabe prévoit le versement d'un capital de 20 millions d'ariary à ses enfants à charge en cas de décès. L'assureur refuse de tenir compte de l'enfant à naître, estimant qu'il n'est pas né et n'a donc pas la personnalité juridique au moment du décès. Trois mois plus tard, Madame Rasoa donne naissance à un garçon vivant et en bonne santé. (1) L'assureur a-t-il raison d'exclure cet enfant ? (2) Sur quel fondement juridique Madame Rasoa peut-elle contester ce refus ? (3) Quelles conditions doivent être vérifiées ?",
+      "choix": [
+        "Oui, l'assureur a raison : l'enfant n'était pas né au moment du décès, donc il n'a aucun droit",
+        "Non, l'assureur a tort. La théorie de l'infans conceptus permet à l'enfant né ensuite vivant et viable de bénéficier du capital décès. Les trois conditions sont remplies : l'enfant était conçu avant le décès (7 mois de grossesse), bénéficier du capital est dans son intérêt, et il est né vivant et viable.",
+        "Oui, l'assureur a raison, sauf si Madame Rasoa avait un avocat présent au moment du décès",
+        "Non, mais Madame Rasoa doit attendre 5 ans après la naissance pour faire valoir ce droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle théorie juridique permet à un enfant non encore né de bénéficier de droits ?",
+        "Vérifiez les trois conditions : conception avant l'événement, intérêt de l'enfant, naissance vivant et viable.",
+        "La leçon donne un exemple très similaire avec l'assurance-décès."
+      ],
+      "explication": "L'assureur a tort. La théorie de l'infans conceptus (l'enfant conçu est réputé né chaque fois que son intérêt l'exige) permet à l'enfant à naître de bénéficier du capital décès. Vérification des trois conditions. Première condition : l'enfant était-il conçu avant le décès ? Oui. Madame Rasoa était enceinte de 7 mois au moment du décès. La loi présume que l'enfant est conçu entre le 300ème et le 180ème jour avant la naissance — or l'enfant est né 3 mois après le décès, et était déjà conçu depuis 7 mois. Il était donc conçu avant le décès du père. Deuxième condition : est-ce dans l'intérêt de l'enfant ? Oui, sans aucun doute. Le capital décès est destiné à l'entretien des enfants — c'est précisément l'intérêt de l'enfant. Troisième condition : l'enfant est-il né vivant et viable ? Oui. Il est né vivant et en bonne santé trois mois plus tard. Les trois conditions étant remplies, la personnalité juridique de l'enfant rétroagit au jour de sa conception. Il est réputé né au moment du décès de son père. Madame Rasoa peut donc exiger que l'assureur verse la majoration prévue pour cet enfant à charge."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Trois amis — Haja, Tovo et Fara — décident de créer ensemble une épicerie fine à Antsiranana. Avant l'immatriculation de leur SARL au registre du commerce, Haja signe en son nom personnel un bail commercial pour les locaux et commande pour 5 millions d'ariary de marchandises au nom de la future société. La SARL est ensuite immatriculée. Quelques mois plus tard, la SARL fait face à des difficultés financières et ne peut pas payer le loyer ni les marchandises. Le propriétaire des locaux et le fournisseur veulent être remboursés. (1) Qui est responsable des dettes contractées avant l'immatriculation ? (2) Qui est responsable des dettes contractées après l'immatriculation ? (3) Qu'aurait-il fallu faire pour que la SARL reprenne à son compte les engagements pris avant l'immatriculation ?",
+      "choix": [
+        "La SARL est responsable de toutes les dettes, avant et après l'immatriculation",
+        "(1) Avant immatriculation : Haja est personnellement responsable (la SARL n'existait pas encore). (2) Après immatriculation : c'est la SARL, personne morale distincte, qui est responsable. (3) Pour que la SARL reprenne les engagements antérieurs, il faut une reprise formelle des actes accomplis avant la constitution, votée par les associés.",
+        "Tovo et Fara sont responsables des dettes car ils sont aussi associés",
+        "Personne n'est responsable car la SARL était en cours de constitution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Avant l'immatriculation, la SARL n'existe pas comme personne morale — qui a signé agit en son propre nom.",
+        "Après l'immatriculation, la personnalité morale crée une séparation entre la société et ses membres.",
+        "Il existe une procédure de reprise des actes antérieurs par la société une fois constituée."
+      ],
+      "explication": "Ce cas illustre l'importance du moment d'acquisition de la personnalité morale. Avant l'immatriculation. Au moment où Haja a signé le bail et commandé les marchandises, la SARL n'existait pas encore comme personne morale. Elle n'avait pas encore la personnalité juridique. En agissant 'au nom de la future société', Haja n'engageait pas une entité juridique inexistante — il engageait sa responsabilité personnelle. C'est lui qui est personnellement responsable du bail et de la commande : le propriétaire et le fournisseur peuvent se retourner contre lui pour être remboursés. Tovo et Fara ne sont pas responsables car ils n'ont pas agi. Après l'immatriculation. Une fois la SARL immatriculée, elle devient une personne morale avec son propre patrimoine, distinct de celui des associés. Les dettes contractées après l'immatriculation engagent la SARL — pas Haja, Tovo ou Fara personnellement. Ses créanciers ne peuvent pas saisir les biens personnels des associés (sous réserve des règles propres à la SARL). La reprise des actes antérieurs. Pour que la SARL prenne à sa charge les engagements pris par Haja avant l'immatriculation, il faut une reprise formelle : les associés votent lors de la constitution ou peu après pour reprendre officiellement ces actes au nom de la société. Si cette reprise est effectuée, la SARL devient responsable rétroactivement et Haja est libéré de sa responsabilité personnelle. Sans cette reprise formelle, Haja reste personnellement tenu."
+    }
+  ]
+}
