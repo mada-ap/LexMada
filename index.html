@@ -695,14 +695,12 @@ html, body {
 
 <!-- HOME -->
 <div class="screen" id="screen-home">
-  <!-- bandeau dev : à retirer quand le déblocage sera réactivé -->
   <div class="dev-banner">⚙️ MODE ÉDITION — Toutes les leçons sont accessibles</div>
   <div class="app-header">
     <div class="app-logo">LexMada</div>
     <div class="app-tagline">Votre parcours juridique</div>
   </div>
 
-  <!-- pill utilisateur -->
   <div class="user-pill" id="user-pill" onclick="toggleDropdown()">
     <div class="user-pill-avatar" id="user-avatar">?</div>
     <div class="user-pill-name"   id="user-name-display">Mon compte</div>
@@ -784,7 +782,6 @@ html, body {
   </div>
 </div>
 
-
 <!-- RAPPEL DE COURS -->
 <div id="review-modal">
   <div class="lc-card">
@@ -821,29 +818,22 @@ html, body {
 <script>
 /* ═══════════════════════════════════════════════════════════════
    AUTH LAYER — standalone localStorage
-   À remplacer par Supabase : les 4 fonctions marquées SUPABASE
    ═══════════════════════════════════════════════════════════════ */
 
 const AUTH_KEY  = 'lexmada_users';
 const SESS_KEY  = 'lexmada_session';
 
-/* Lit la "base" locale */
 function getUsers() {
   try { return JSON.parse(localStorage.getItem(AUTH_KEY) || '{}'); } catch { return {}; }
 }
 function saveUsers(u) { localStorage.setItem(AUTH_KEY, JSON.stringify(u)); }
 
-/* Lit / écrit la session active */
 function getSession() {
   try { return JSON.parse(localStorage.getItem(SESS_KEY)); } catch { return null; }
 }
 function saveSession(user) { localStorage.setItem(SESS_KEY, JSON.stringify(user)); }
 function clearSession()    { localStorage.removeItem(SESS_KEY); }
 
-/* ── SUPABASE (inscription) ──────────────────────────────────────
-   À terme : supabase.auth.signUp({ email, password })
-             puis supabase.from('profiles').insert({ id, name })
-   ────────────────────────────────────────────────────────────── */
 function authRegister(name, email, password) {
   const users = getUsers();
   const key = email.toLowerCase().trim();
@@ -852,15 +842,10 @@ function authRegister(name, email, password) {
   const user = { id, name: name.trim(), email: key, password, confirmed: false, progress: {}, lastLecon: null };
   users[key] = user;
   saveUsers(users);
-  // Simulation envoi email de confirmation
   console.info('[LexMada] E-mail de confirmation simulé → ' + key);
-  // En prod Supabase : l'email est envoyé automatiquement par supabase.auth.signUp()
   return { user };
 }
 
-/* ── SUPABASE (connexion) ────────────────────────────────────────
-   À terme : supabase.auth.signInWithPassword({ email, password })
-   ────────────────────────────────────────────────────────────── */
 function authLogin(email, password) {
   const users = getUsers();
   const key = email.toLowerCase().trim();
@@ -871,16 +856,9 @@ function authLogin(email, password) {
   return { user };
 }
 
-/* ── SUPABASE (déconnexion) ──────────────────────────────────────
-   À terme : supabase.auth.signOut()
-   ────────────────────────────────────────────────────────────── */
 function authLogout() { clearSession(); }
 
-/* ── SUPABASE (sauvegarde progression) ──────────────────────────
-   À terme : supabase.from('profiles').update({ progress, lastLecon }).eq('id', user.id)
-   ────────────────────────────────────────────────────────────── */
 function saveProgress(quizPos) {
-  // quizPos optionnel { type, index } pour reprendre en plein milieu du quiz
   try {
     const sess = getSession();
     if (!sess || !sess.email) return;
@@ -896,9 +874,6 @@ function saveProgress(quizPos) {
   } catch(e) { console.warn('[saveProgress]', e); }
 }
 
-/* ── SUPABASE (chargement progression) ──────────────────────────
-   À terme : supabase.from('profiles').select('progress, lastLecon').eq('id', user.id)
-   ────────────────────────────────────────────────────────────── */
 function loadProgress(user) {
   if (!user) return;
   if (user.progress) Object.keys(user.progress).forEach(k => done.add(k));
@@ -908,7 +883,6 @@ function loadProgress(user) {
   }
 }
 
-/* ─────── Handlers UI ─────── */
 function handleRegister() {
   clearAuthErrors();
   const name  = document.getElementById('reg-name').value.trim();
@@ -924,14 +898,13 @@ function handleRegister() {
   const btn = document.getElementById('btn-register');
   btn.disabled = true; btn.textContent = 'Création…';
 
-  setTimeout(() => { // simule latence réseau
+  setTimeout(() => {
     const result = authRegister(name, email, pass);
     btn.disabled = false; btn.textContent = 'Créer mon compte';
     if (result.error) {
       showGlobalErr('reg-error', result.error); return;
     }
     document.getElementById('reg-success').classList.add('show');
-    // auto-login après "confirmation" (standalone : pas de vrai email)
     setTimeout(() => {
       const r = authLogin(email, pass);
       if (r.user) { loadProgress(r.user); launchHome(); }
@@ -966,7 +939,6 @@ function showProfile() {
   alert('👤 ' + sess.name + '\n✉️ ' + sess.email + '\n\n✅ ' + done.size + ' leçon(s) terminée(s)');
 }
 
-/* ─────── Helpers UI auth ─────── */
 function isValidEmail(e) { return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e); }
 
 function showFieldErr(errId, inputId) {
@@ -993,7 +965,6 @@ document.addEventListener('click', e => {
   if (!document.getElementById('user-pill').contains(e.target)) closeDropdown();
 });
 
-/* ─────── Initialisation au démarrage ─────── */
 function launchHome() {
   const sess = getSession();
   if (sess) {
@@ -1014,26 +985,26 @@ const formations = [
     desc: "Les fondements du droit. Aucun prérequis.",
     badge: { icon:"🏅", title:"Badge Initié du Droit", desc:"Vous maîtrisez les fondements du droit. Ce badge honore votre premier pas sérieux dans le monde juridique." },
     modules: [
-      { id:1, titre:"Qu'est-ce que le droit ?", lecons: [{ titre: "Qu'est-ce que le droit ?", fichier: "data/niveau1-module1-lecon1.json" }] },
-      { id:2, titre:"Les caractères de la règle de droit", lecons: [{ titre: "Les caractères de la règle de droit", fichier: "data/niveau1-module2-lecon1.json" }] },
-      { id:3, titre:"Les branches du droit", lecons: [{ titre: "Les branches du droit", fichier: "data/niveau1-module3-lecon1.json" }] },
-      { id:4, titre:"Les sources directes du droit", lecons: [{ titre: "Les sources directes du droit", fichier: "data/niveau1-module4-lecon1.json" }] },
-      { id:5, titre:"Les sources d'interprétation du droit", lecons: [{ titre: "Les sources d'interprétation du droit", fichier: "data/niveau1-module5-lecon1.json" }] },
-      { id:6, titre:"L'organisation juridictionnelle", lecons: [{ titre: "L'organisation juridictionnelle", fichier: "data/niveau1-module6-lecon1.json" }] },
-      { id:7, titre:"Le domaine d'application de la règle de droit", lecons: [{ titre: "Le domaine d'application de la règle de droit", fichier: "data/niveau1-module7-lecon1.json" }] },
-      { id:8, titre:"Les droits subjectifs : classifications", lecons: [{ titre: "Les droits subjectifs : classifications", fichier: "data/niveau1-module8-lecon1.json" }] },
-      { id:9, titre:"La preuve des droits subjectifs", lecons: [{ titre: "La preuve des droits subjectifs", fichier: "data/niveau1-module9-lecon1.json" }] },
-      { id:10, titre:"L'action en justice", lecons: [{ titre: "L'action en justice", fichier: "data/niveau1-module10-lecon1.json" }] },
-      { id:11, titre:"La personnalité juridique — personnes physiques et morales", lecons: [] },
-      { id:12, titre:"Les actes juridiques — contrats et actes unilatéraux", lecons: [] },
-      { id:13, titre:"Les faits juridiques — responsabilité et quasi-contrats", lecons: [] },
-      { id:14, titre:"Le patrimoine — composition et caractères", lecons: [] },
-      { id:15, titre:"Les biens — classification et régime juridique", lecons: [] },
-      { id:16, titre:"La propriété — définition, attributs et limites", lecons: [] },
-      { id:17, titre:"Les obligations — naissance et classification", lecons: [] },
+      { id:1,  titre:"Qu'est-ce que le droit ?",                                          lecons: [{ titre: "Qu'est-ce que le droit ?",                           fichier: "data/niveau1-module1-lecon1.json"  }] },
+      { id:2,  titre:"Les caractères de la règle de droit",                               lecons: [{ titre: "Les caractères de la règle de droit",                fichier: "data/niveau1-module2-lecon1.json"  }] },
+      { id:3,  titre:"Les branches du droit",                                             lecons: [{ titre: "Les branches du droit",                              fichier: "data/niveau1-module3-lecon1.json"  }] },
+      { id:4,  titre:"Les sources directes du droit",                                     lecons: [{ titre: "Les sources directes du droit",                      fichier: "data/niveau1-module4-lecon1.json"  }] },
+      { id:5,  titre:"Les sources d'interprétation du droit",                             lecons: [{ titre: "Les sources d'interprétation du droit",              fichier: "data/niveau1-module5-lecon1.json"  }] },
+      { id:6,  titre:"L'organisation juridictionnelle",                                   lecons: [{ titre: "L'organisation juridictionnelle",                    fichier: "data/niveau1-module6-lecon1.json"  }] },
+      { id:7,  titre:"Le domaine d'application de la règle de droit",                    lecons: [{ titre: "Le domaine d'application de la règle de droit",      fichier: "data/niveau1-module7-lecon1.json"  }] },
+      { id:8,  titre:"Les droits subjectifs : classifications",                           lecons: [{ titre: "Les droits subjectifs : classifications",            fichier: "data/niveau1-module8-lecon1.json"  }] },
+      { id:9,  titre:"La preuve des droits subjectifs",                                   lecons: [{ titre: "La preuve des droits subjectifs",                    fichier: "data/niveau1-module9-lecon1.json"  }] },
+      { id:10, titre:"L'action en justice",                                               lecons: [{ titre: "L'action en justice",                                fichier: "data/niveau1-module10-lecon1.json" }] },
+      { id:11, titre:"La personnalité juridique — personnes physiques et morales",        lecons: [{ titre: "La personnalité juridique",                          fichier: "data/niveau1-module11-lecon1.json" }] },
+      { id:12, titre:"Les actes juridiques — contrats et actes unilatéraux",              lecons: [{ titre: "Les actes juridiques",                               fichier: "data/niveau1-module12-lecon1.json" }] },
+      { id:13, titre:"Les faits juridiques — responsabilité et quasi-contrats",           lecons: [] },
+      { id:14, titre:"Le patrimoine — composition et caractères",                         lecons: [{ titre: "Le patrimoine",                                      fichier: "data/niveau1-module14-lecon1.json" }] },
+      { id:15, titre:"Les biens — classification et régime juridique",                    lecons: [] },
+      { id:16, titre:"La propriété — définition, attributs et limites",                   lecons: [{ titre: "La propriété",                                       fichier: "data/niveau1-module16-lecon1.json" }] },
+      { id:17, titre:"Les obligations — naissance et classification",                     lecons: [] },
       { id:18, titre:"L'extinction des obligations — paiement, prescription, compensation", lecons: [] },
-      { id:19, titre:"La nullité des actes juridiques — causes et effets", lecons: [] },
-      { id:20, titre:"Introduction au droit processuel — comment fonctionne un procès", lecons: [] }
+      { id:19, titre:"La nullité des actes juridiques — causes et effets",                lecons: [] },
+      { id:20, titre:"Introduction au droit processuel — comment fonctionne un procès",   lecons: [] }
     ]
   },
   {
@@ -1041,26 +1012,26 @@ const formations = [
     desc: "Droit des affaires, procédures, contrats avancés.",
     badge: { icon:"⚖️", title:"Badge Juriste en Herbe", desc:"Vous naviguez désormais dans des notions complexes. Ce badge témoigne de votre persévérance." },
     modules: [
-      { id:1, titre:"Droit des sociétés — généralités", lecons: [] },
-      { id:2, titre:"La SARL et la SA", lecons: [] },
-      { id:3, titre:"Le contrat — formation et validité", lecons: [] },
-      { id:4, titre:"Les effets et l'inexécution du contrat", lecons: [] },
-      { id:5, titre:"La responsabilité civile contractuelle", lecons: [] },
-      { id:6, titre:"La responsabilité civile délictuelle", lecons: [] },
-      { id:7, titre:"Le droit du travail — le contrat de travail", lecons: [] },
-      { id:8, titre:"Le licenciement et ses conditions", lecons: [] },
-      { id:9, titre:"Les conventions collectives", lecons: [] },
-      { id:10, titre:"Le droit commercial — actes de commerce", lecons: [] },
-      { id:11, titre:"Le fonds de commerce", lecons: [] },
-      { id:12, titre:"Les procédures collectives — redressement et faillite", lecons: [] },
-      { id:13, titre:"Le droit de la consommation", lecons: [] },
-      { id:14, titre:"La propriété intellectuelle", lecons: [] },
-      { id:15, titre:"Le droit bancaire — les opérations de banque", lecons: [] },
-      { id:16, titre:"Les sûretés — cautionnement, hypothèque, gage", lecons: [] },
-      { id:17, titre:"Le droit foncier à Madagascar", lecons: [] },
-      { id:18, titre:"Le droit de la famille — mariage et divorce", lecons: [] },
-      { id:19, titre:"Les successions et libéralités", lecons: [] },
-      { id:20, titre:"Le droit fiscal — principes généraux", lecons: [] }
+      { id:1,  titre:"Droit des sociétés — généralités",                         lecons: [] },
+      { id:2,  titre:"La SARL et la SA",                                          lecons: [] },
+      { id:3,  titre:"Le contrat — formation et validité",                        lecons: [] },
+      { id:4,  titre:"Les effets et l'inexécution du contrat",                    lecons: [] },
+      { id:5,  titre:"La responsabilité civile contractuelle",                    lecons: [] },
+      { id:6,  titre:"La responsabilité civile délictuelle",                      lecons: [] },
+      { id:7,  titre:"Le droit du travail — le contrat de travail",               lecons: [] },
+      { id:8,  titre:"Le licenciement et ses conditions",                         lecons: [] },
+      { id:9,  titre:"Les conventions collectives",                               lecons: [] },
+      { id:10, titre:"Le droit commercial — actes de commerce",                   lecons: [] },
+      { id:11, titre:"Le fonds de commerce",                                      lecons: [] },
+      { id:12, titre:"Les procédures collectives — redressement et faillite",     lecons: [] },
+      { id:13, titre:"Le droit de la consommation",                               lecons: [] },
+      { id:14, titre:"La propriété intellectuelle",                               lecons: [] },
+      { id:15, titre:"Le droit bancaire — les opérations de banque",              lecons: [] },
+      { id:16, titre:"Les sûretés — cautionnement, hypothèque, gage",             lecons: [] },
+      { id:17, titre:"Le droit foncier à Madagascar",                             lecons: [] },
+      { id:18, titre:"Le droit de la famille — mariage et divorce",               lecons: [] },
+      { id:19, titre:"Les successions et libéralités",                            lecons: [] },
+      { id:20, titre:"Le droit fiscal — principes généraux",                      lecons: [] }
     ]
   },
   {
@@ -1068,26 +1039,26 @@ const formations = [
     desc: "Jurisprudence, droit constitutionnel, contentieux.",
     badge: { icon:"🏛️", title:"Badge Expert LexMada", desc:"Félicitations. Vous avez atteint le sommet du parcours LexMada. Un accomplissement remarquable." },
     modules: [
-      { id:1, titre:"Droit constitutionnel — les institutions de Madagascar", lecons: [] },
-      { id:2, titre:"Le contrôle de constitutionnalité", lecons: [] },
-      { id:3, titre:"Le droit administratif — l'acte administratif", lecons: [] },
-      { id:4, titre:"Le service public et la fonction publique", lecons: [] },
-      { id:5, titre:"Le contentieux administratif", lecons: [] },
-      { id:6, titre:"Le droit pénal général — infractions et peines", lecons: [] },
-      { id:7, titre:"Le droit pénal spécial — crimes et délits courants", lecons: [] },
-      { id:8, titre:"La procédure pénale — enquête et instruction", lecons: [] },
-      { id:9, titre:"Le jugement pénal et les voies de recours", lecons: [] },
-      { id:10, titre:"Le droit international privé — conflits de lois", lecons: [] },
-      { id:11, titre:"L'arbitrage et les modes alternatifs de règlement", lecons: [] },
-      { id:12, titre:"La jurisprudence constitutionnelle malgache", lecons: [] },
-      { id:13, titre:"Le droit de l'environnement à Madagascar", lecons: [] },
-      { id:14, titre:"Le droit de la mer et des ressources maritimes", lecons: [] },
-      { id:15, titre:"Le droit des investissements étrangers", lecons: [] },
-      { id:16, titre:"Les droits fondamentaux et libertés publiques", lecons: [] },
-      { id:17, titre:"Le droit humanitaire international", lecons: [] },
-      { id:18, titre:"La déontologie des professions juridiques", lecons: [] },
-      { id:19, titre:"La rédaction des actes juridiques", lecons: [] },
-      { id:20, titre:"Méthodologie du cas pratique et du commentaire d'arrêt", lecons: [] }
+      { id:1,  titre:"Droit constitutionnel — les institutions de Madagascar",    lecons: [] },
+      { id:2,  titre:"Le contrôle de constitutionnalité",                         lecons: [] },
+      { id:3,  titre:"Le droit administratif — l'acte administratif",             lecons: [] },
+      { id:4,  titre:"Le service public et la fonction publique",                 lecons: [] },
+      { id:5,  titre:"Le contentieux administratif",                              lecons: [] },
+      { id:6,  titre:"Le droit pénal général — infractions et peines",            lecons: [] },
+      { id:7,  titre:"Le droit pénal spécial — crimes et délits courants",        lecons: [] },
+      { id:8,  titre:"La procédure pénale — enquête et instruction",              lecons: [] },
+      { id:9,  titre:"Le jugement pénal et les voies de recours",                 lecons: [] },
+      { id:10, titre:"Le droit international privé — conflits de lois",           lecons: [] },
+      { id:11, titre:"L'arbitrage et les modes alternatifs de règlement",         lecons: [] },
+      { id:12, titre:"La jurisprudence constitutionnelle malgache",               lecons: [] },
+      { id:13, titre:"Le droit de l'environnement à Madagascar",                  lecons: [] },
+      { id:14, titre:"Le droit de la mer et des ressources maritimes",            lecons: [] },
+      { id:15, titre:"Le droit des investissements étrangers",                    lecons: [] },
+      { id:16, titre:"Les droits fondamentaux et libertés publiques",             lecons: [] },
+      { id:17, titre:"Le droit humanitaire international",                        lecons: [] },
+      { id:18, titre:"La déontologie des professions juridiques",                 lecons: [] },
+      { id:19, titre:"La rédaction des actes juridiques",                         lecons: [] },
+      { id:20, titre:"Méthodologie du cas pratique et du commentaire d'arrêt",    lecons: [] }
     ]
   },
   {
@@ -1095,26 +1066,26 @@ const formations = [
     desc: "Pratique professionnelle, rédaction d'actes, fiscalité.",
     badge: { icon:"🎓", title:"Badge Maître LexMada", desc:"Vous avez atteint le niveau professionnel. Votre maîtrise du droit est désormais digne des plus grands praticiens." },
     modules: [
-      { id:1, titre:"Rédiger une requête civile — modèles et structure", lecons: [] },
-      { id:2, titre:"Rédiger une assignation et des conclusions", lecons: [] },
-      { id:3, titre:"Rédiger un contrat de vente — clauses essentielles", lecons: [] },
-      { id:4, titre:"Rédiger un contrat de travail à Madagascar", lecons: [] },
-      { id:5, titre:"Rédiger un bail commercial et un bail d'habitation", lecons: [] },
-      { id:6, titre:"Créer une SARL à Madagascar — dossier complet étape par étape", lecons: [] },
-      { id:7, titre:"Créer une SA — documents, capital, formalités EDBM", lecons: [] },
-      { id:8, titre:"Créer une association — statuts, PV, déclaration préfecture", lecons: [] },
-      { id:9, titre:"Le calcul de l'IRSA — salaire, tranches, retenues", lecons: [] },
-      { id:10, titre:"Le calcul de l'IRFTS et des taxes sur les revenus fonciers", lecons: [] },
-      { id:11, titre:"La TVA à Madagascar — calcul, déclaration, récupération", lecons: [] },
-      { id:12, titre:"L'IRCM et l'IS — impôts sur les sociétés", lecons: [] },
-      { id:13, titre:"Les charges sociales — CNaPS, OSTIE, cotisations", lecons: [] },
-      { id:14, titre:"Le licenciement — procédure, calcul des indemnités", lecons: [] },
-      { id:15, titre:"Rédiger un acte de cession de parts sociales", lecons: [] },
-      { id:16, titre:"Les formalités foncières — titre foncier, mutation, bornage", lecons: [] },
-      { id:17, titre:"Rédiger un acte de cautionnement et une hypothèque", lecons: [] },
-      { id:18, titre:"La procédure de recouvrement de créances", lecons: [] },
-      { id:19, titre:"Rédiger un recours administratif et une plainte pénale", lecons: [] },
-      { id:20, titre:"Monter un dossier complet — de la consultation au jugement", lecons: [] }
+      { id:1,  titre:"Rédiger une requête civile — modèles et structure",                  lecons: [] },
+      { id:2,  titre:"Rédiger une assignation et des conclusions",                          lecons: [] },
+      { id:3,  titre:"Rédiger un contrat de vente — clauses essentielles",                 lecons: [] },
+      { id:4,  titre:"Rédiger un contrat de travail à Madagascar",                         lecons: [] },
+      { id:5,  titre:"Rédiger un bail commercial et un bail d'habitation",                 lecons: [] },
+      { id:6,  titre:"Créer une SARL à Madagascar — dossier complet étape par étape",     lecons: [] },
+      { id:7,  titre:"Créer une SA — documents, capital, formalités EDBM",                lecons: [] },
+      { id:8,  titre:"Créer une association — statuts, PV, déclaration préfecture",       lecons: [] },
+      { id:9,  titre:"Le calcul de l'IRSA — salaire, tranches, retenues",                 lecons: [] },
+      { id:10, titre:"Le calcul de l'IRFTS et des taxes sur les revenus fonciers",        lecons: [] },
+      { id:11, titre:"La TVA à Madagascar — calcul, déclaration, récupération",           lecons: [] },
+      { id:12, titre:"L'IRCM et l'IS — impôts sur les sociétés",                          lecons: [] },
+      { id:13, titre:"Les charges sociales — CNaPS, OSTIE, cotisations",                  lecons: [] },
+      { id:14, titre:"Le licenciement — procédure, calcul des indemnités",                lecons: [] },
+      { id:15, titre:"Rédiger un acte de cession de parts sociales",                      lecons: [] },
+      { id:16, titre:"Les formalités foncières — titre foncier, mutation, bornage",       lecons: [] },
+      { id:17, titre:"Rédiger un acte de cautionnement et une hypothèque",                lecons: [] },
+      { id:18, titre:"La procédure de recouvrement de créances",                          lecons: [] },
+      { id:19, titre:"Rédiger un recours administratif et une plainte pénale",            lecons: [] },
+      { id:20, titre:"Monter un dossier complet — de la consultation au jugement",        lecons: [] }
     ]
   },
   {
@@ -1122,26 +1093,26 @@ const formations = [
     desc: "Le droit tel qu'il est vécu à Madagascar. Réflexion citoyenne.",
     badge: { icon:"🌍", title:"Badge Citoyen Éclairé", desc:"Vous comprenez maintenant le fossé entre le droit écrit et la réalité vécue. Ce badge est celui de la lucidité et de l'engagement." },
     modules: [
-      { id:1, titre:"La Constitution de 2010 — texte, promesses, réalité", lecons: [], type: "reflexion" },
-      { id:2, titre:"Les révisions constitutionnelles et crises politiques", lecons: [], type: "reflexion" },
-      { id:3, titre:"Les institutions de la République — rôles théoriques vs réels", lecons: [], type: "reflexion" },
-      { id:4, titre:"L'administration publique — ministères, fokontany, décentralisation", lecons: [], type: "reflexion" },
-      { id:5, titre:"Les lacunes et vides juridiques à Madagascar", lecons: [], type: "reflexion" },
-      { id:6, titre:"L'inapplication des lois — causes et mécanismes", lecons: [], type: "reflexion" },
-      { id:7, titre:"La justice en pratique — accès, coût, délais, barrières", lecons: [], type: "reflexion" },
-      { id:8, titre:"Corruption et impunité — BIANCO, SAMIFIN, résultats réels", lecons: [], type: "reflexion" },
-      { id:9, titre:"Insécurité et réponse de l'État — dahalo, zones grises", lecons: [], type: "reflexion" },
-      { id:10, titre:"Foncier et droit de la terre — conflits et réforme de 2005", lecons: [], type: "reflexion" },
-      { id:11, titre:"Droit du travail : théorie vs secteur informel", lecons: [], type: "reflexion" },
-      { id:12, titre:"Droit de l'environnement — bois de rose, mines, réalité", lecons: [], type: "reflexion" },
-      { id:13, titre:"Les droits fondamentaux en pratique — presse, grève, éducation", lecons: [], type: "reflexion" },
-      { id:14, titre:"Le comportement des dirigeants — immunités, enrichissement, comptes", lecons: [], type: "reflexion" },
-      { id:15, titre:"Les élections à Madagascar — cadre légal, HCC, fraudes", lecons: [], type: "reflexion" },
-      { id:16, titre:"La société civile et le contre-pouvoir — ONG, médias, Églises", lecons: [], type: "reflexion" },
-      { id:17, titre:"Le droit international et Madagascar — traités ratifiés vs respectés", lecons: [], type: "reflexion" },
-      { id:18, titre:"Les réformes en cours ou proposées", lecons: [], type: "reflexion" },
-      { id:19, titre:"Citoyenneté active et recours légaux concrets", lecons: [], type: "reflexion" },
-      { id:20, titre:"Vers un État de droit effectif — exemples africains, rôle de la jeunesse", lecons: [], type: "reflexion" }
+      { id:1,  titre:"La Constitution de 2010 — texte, promesses, réalité",                          lecons: [], type: "reflexion" },
+      { id:2,  titre:"Les révisions constitutionnelles et crises politiques",                         lecons: [], type: "reflexion" },
+      { id:3,  titre:"Les institutions de la République — rôles théoriques vs réels",                lecons: [], type: "reflexion" },
+      { id:4,  titre:"L'administration publique — ministères, fokontany, décentralisation",          lecons: [], type: "reflexion" },
+      { id:5,  titre:"Les lacunes et vides juridiques à Madagascar",                                  lecons: [], type: "reflexion" },
+      { id:6,  titre:"L'inapplication des lois — causes et mécanismes",                              lecons: [], type: "reflexion" },
+      { id:7,  titre:"La justice en pratique — accès, coût, délais, barrières",                      lecons: [], type: "reflexion" },
+      { id:8,  titre:"Corruption et impunité — BIANCO, SAMIFIN, résultats réels",                    lecons: [], type: "reflexion" },
+      { id:9,  titre:"Insécurité et réponse de l'État — dahalo, zones grises",                       lecons: [], type: "reflexion" },
+      { id:10, titre:"Foncier et droit de la terre — conflits et réforme de 2005",                   lecons: [], type: "reflexion" },
+      { id:11, titre:"Droit du travail : théorie vs secteur informel",                               lecons: [], type: "reflexion" },
+      { id:12, titre:"Droit de l'environnement — bois de rose, mines, réalité",                      lecons: [], type: "reflexion" },
+      { id:13, titre:"Les droits fondamentaux en pratique — presse, grève, éducation",               lecons: [], type: "reflexion" },
+      { id:14, titre:"Le comportement des dirigeants — immunités, enrichissement, comptes",          lecons: [], type: "reflexion" },
+      { id:15, titre:"Les élections à Madagascar — cadre légal, HCC, fraudes",                       lecons: [], type: "reflexion" },
+      { id:16, titre:"La société civile et le contre-pouvoir — ONG, médias, Églises",                lecons: [], type: "reflexion" },
+      { id:17, titre:"Le droit international et Madagascar — traités ratifiés vs respectés",         lecons: [], type: "reflexion" },
+      { id:18, titre:"Les réformes en cours ou proposées",                                            lecons: [], type: "reflexion" },
+      { id:19, titre:"Citoyenneté active et recours légaux concrets",                                 lecons: [], type: "reflexion" },
+      { id:20, titre:"Vers un État de droit effectif — exemples africains, rôle de la jeunesse",     lecons: [], type: "reflexion" }
     ]
   }
 ];
@@ -1168,7 +1139,6 @@ async function loadLeconData(lecon, callback) {
    ═══════════════════════════════════════════ */
 const done = new Set();
 let curNiveau = 0, curModule = 0, curLecon = 0;
-
 let quizState = { type: null, questions: [], index: 0, wrongCount: 0, answered: false };
 
 /* ═══════════════════════════════════════════
@@ -1196,7 +1166,6 @@ setTimeout(() => {
   document.getElementById('splash').classList.add('exit');
   setTimeout(() => {
     document.getElementById('splash').style.display = 'none';
-    /* ── Vérifie si une session existe déjà ── */
     const sess = getSession();
     if (sess) {
       loadProgress(sess);
@@ -1213,21 +1182,11 @@ setTimeout(() => {
 function leconKey(fi, mid, li) { return fi+'-'+mid+'-'+li; }
 function isLeconDone(fi, mid, li) { return done.has(leconKey(fi,mid,li)); }
 
-/*
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  DÉBLOCAGE DES LEÇONS — TEMPORAIREMENT DÉSACTIVÉ            ║
-  ║  Toutes les leçons avec du contenu sont accessibles         ║
-  ║  Pour réactiver : remplacer isLeconUnlocked() par la        ║
-  ║  version originale basée sur leconUnlocked (Set).           ║
-  ╚══════════════════════════════════════════════════════════════╝
-*/
 function isLeconUnlocked(fi, mid, li) {
-  // MODE ÉDITION : toujours true si la leçon a du contenu
-  return true;
+  return true; // MODE ÉDITION
 }
 
 function unlockNextLecon(fi, mi, li) {
-  // Garde la logique intacte pour quand on réactivera le système
   const f = formations[fi];
   const m = f.modules[mi];
   if (li + 1 < m.lecons.length) {
@@ -1250,8 +1209,6 @@ function buildHome() {
   const container = document.getElementById('levels-container');
   container.innerHTML = '';
   formations.forEach((f, fi) => {
-    // En mode édition : tous les niveaux sont débloqués
-    const unlocked = true;
     const totalL = f.modules.reduce((s,m) => s + m.lecons.length, 0);
     const doneL  = f.modules.reduce((s,m) =>
       s + m.lecons.filter((_,li) => isLeconDone(fi, m.id, li)).length, 0);
@@ -1367,7 +1324,7 @@ function openReader(fi, mi, li) {
   document.getElementById('btn-start-quiz').style.display = 'none';
 
   showScreen('screen-reader');
-  saveProgress(); // sauvegarde la dernière leçon visitée
+  saveProgress();
 
   loadLeconData(l, (data) => {
     c.innerHTML = '';
@@ -1428,7 +1385,6 @@ function startQuiz() {
   const l = formations[curNiveau].modules[curModule].lecons[curLecon];
   loadLeconData(l, (data) => {
     if (!data || data.error || !data.quiz) return;
-    // Reprendre à la dernière position sauvegardée si elle existe
     const sess = getSession();
     const saved = sess && sess.quizPos;
     let startIndex = 0, startType = 'quiz';
@@ -1524,7 +1480,6 @@ function selectAnswer(ci) {
     const nextBtn = document.getElementById('btn-quiz-next');
     nextBtn.style.display = 'block';
     nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
-    // Sauvegarde position après chaque bonne réponse
     saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index });
   } else {
     choiceDivs[ci].classList.add('wrong');
@@ -1604,7 +1559,7 @@ function finishLecon() {
   const m = f.modules[mi];
   done.add(leconKey(fi, m.id, li));
   unlockNextLecon(fi, mi, li);
-  saveProgress(); // efface quizPos + marque leçon done
+  saveProgress();
 
   const niveauFullyDone = f.modules.every(mm =>
     mm.lecons.length > 0 && mm.lecons.every((_,idx) => isLeconDone(fi, mm.id, idx)));
@@ -1653,8 +1608,6 @@ function launchParticles() {
     c.appendChild(p);
   }
 }
-
-
 </script>
 </body>
-  </html>
+</html>
