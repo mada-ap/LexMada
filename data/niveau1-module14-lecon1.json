@@ -1,0 +1,906 @@
+{
+  "titre": "Le patrimoine : composition et caractères",
+  "module": "Module 14 — Le patrimoine : composition et caractères",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Pourquoi le patrimoine est-il une notion centrale du droit civil ?",
+      "texte": "Le mot patrimoine est l'un des mots les plus usités dans la vie courante. On parle du patrimoine d'un riche homme d'affaires, du patrimoine culturel d'un pays, du patrimoine familial transmis de génération en génération. Mais en droit, le patrimoine est une notion technique précise, différente de ces usages courants. Le patrimoine juridique n'est pas simplement l'ensemble de ce que l'on possède. C'est une notion plus abstraite, plus globale, qui joue un rôle fondamental dans l'organisation de la vie juridique d'une personne. Comprendre le patrimoine, c'est comprendre comment s'organise l'avoir d'une personne — ses droits, ses dettes, ses biens — et ce qu'il implique pour ses relations avec les autres : ses créanciers, ses héritiers, ses contractants. C'est aussi comprendre pourquoi certains biens peuvent être saisis et d'autres non, pourquoi les dettes d'une personne engagent l'ensemble de ses avoirs, et comment la mort emporte la transmission de tout ce qu'elle détenait. La maîtrise de la notion de patrimoine est donc le socle de tout le droit des biens et de tout le droit des obligations.",
+      "definition": "Patrimoine juridique : notion technique du droit civil désignant l'ensemble des droits et des obligations d'une personne ayant une valeur pécuniaire. À ne pas confondre avec les usages courants du mot (patrimoine culturel, patrimoine familial au sens affectif). Le patrimoine est le socle du droit des biens et des obligations."
+    },
+    {
+      "titre": "Définition : le patrimoine, une universalité juridique",
+      "texte": "La définition classique du patrimoine a été forgée au XIXe siècle par deux juristes français, Aubry et Rau, dont la théorie reste à ce jour la référence en droit civil. Pour eux, le patrimoine est l'ensemble des rapports de droit appréciables en argent qui ont pour sujet actif ou passif une même personne et qui sont envisagés comme formant une universalité juridique. Décortiquons cette définition. L'expression 'rapports de droit appréciables en argent' signifie que seuls entrent dans le patrimoine les droits et les obligations qui ont une valeur économique — ce qu'on peut évaluer en argent. Le droit à la vie ou le droit au nom n'ont pas de prix : ils n'entrent pas dans le patrimoine. Une maison, une créance, un brevet — eux ont une valeur économique et entrent dans le patrimoine. L'expression 'qui ont pour sujet actif ou passif une même personne' signifie que le patrimoine regroupe tout ce qu'une personne possède (l'actif) et tout ce qu'elle doit (le passif), en un seul ensemble. L'expression 'universalité juridique' est la plus importante : elle signifie que le patrimoine est un tout, un ensemble indivisible, qui n'est pas la simple addition de biens et de dettes mais une entité juridique autonome.",
+      "definition": "Patrimoine (définition classique d'Aubry et Rau) : ensemble des rapports de droit appréciables en argent qui ont pour sujet actif ou passif une même personne et qui sont envisagés comme formant une universalité juridique. Il comprend un actif (droits et biens) et un passif (dettes et obligations).",
+      "exemple": "Rabe possède une maison valant 50 millions d'ariary (actif), une voiture valant 8 millions (actif), une créance de 2 millions sur un débiteur (actif), mais il a également un emprunt bancaire de 20 millions (passif) et des factures impayées de 3 millions (passif). Son patrimoine est l'ensemble de tout cela : actif total 60 millions, passif total 23 millions, patrimoine net 37 millions. Son droit au nom ou son droit à l'honneur, eux, n'y figurent pas."
+    },
+    {
+      "titre": "L'actif et le passif : les deux faces du patrimoine",
+      "texte": "Le patrimoine a deux faces inséparables. L'actif patrimonial regroupe l'ensemble des droits ayant une valeur économique dont est titulaire la personne. Il comprend principalement les droits réels — comme le droit de propriété sur un immeuble ou sur un bien meuble —, les droits personnels ou droits de créance — comme la somme d'argent qu'un débiteur vous doit —, et les droits intellectuels — comme les droits d'exploitation d'une œuvre ou d'un brevet. L'actif est ce sur quoi les créanciers pourront exercer leur droit de gage général : si une personne ne rembourse pas ses dettes, ses créanciers pourront saisir les éléments de son actif pour se payer. Le passif patrimonial regroupe l'ensemble des obligations ayant une valeur économique qui pèsent sur la personne. Ce sont ses dettes, ses obligations contractuelles, ses responsabilités. L'actif et le passif se compensent : les dettes sont payées en prélevant sur l'actif. C'est pour cela que les créanciers s'intéressent à l'actif d'un débiteur — et que la loi leur reconnaît un droit de gage général sur l'ensemble de cet actif présent et à venir.",
+      "definition": "Actif patrimonial : ensemble des droits à valeur économique d'une personne (biens, créances, droits intellectuels). Passif patrimonial : ensemble des obligations à valeur économique pesant sur une personne (dettes, obligations contractuelles). L'actif répond du passif : les créanciers exercent leur droit de gage général sur l'actif présent et futur du débiteur.",
+      "exemple": "La banque prête 30 millions d'ariary à Vonjy. Cette somme est à l'actif de Vonjy (il la reçoit) mais crée une dette de 30 millions à son passif (il doit la rembourser). La banque, en cas de non-remboursement, pourra saisir n'importe quel élément de l'actif de Vonjy — sa maison, sa voiture, ses comptes bancaires — pour se rembourser. C'est le droit de gage général des créanciers sur le patrimoine de leur débiteur."
+    },
+    {
+      "titre": "Premier caractère : le patrimoine est lié à la personnalité",
+      "texte": "Le premier grand caractère du patrimoine dans la théorie classique est son lien indissoluble avec la personnalité juridique. Ce lien se manifeste par deux règles fondamentales. Première règle : seule une personne peut avoir un patrimoine. Il n'existe pas de patrimoine sans sujet de droit. Un animal, une chose, un groupe informel ne peuvent pas avoir de patrimoine. Seule une personne — physique ou morale — en est titulaire. Deuxième règle : toute personne a nécessairement un patrimoine, même vide. Un nouveau-né, au moment même de sa naissance, acquiert la personnalité juridique et possède donc un patrimoine. Ce patrimoine est peut-être vide de tout droit et de toute dette — mais il existe comme contenant, comme enveloppe prête à être remplie. C'est l'aptitude à avoir des droits et des obligations qui constitue le patrimoine, pas les droits et obligations eux-mêmes. Ce lien entre patrimoine et personnalité a une conséquence importante : la totalité du patrimoine ne peut pas être cédée entre vifs. On peut céder des éléments de son patrimoine — vendre une maison, donner une voiture —, mais on ne peut pas céder son patrimoine entier de son vivant, car cela reviendrait à céder sa personnalité juridique elle-même.",
+      "definition": "Lien entre patrimoine et personnalité : seule une personne peut avoir un patrimoine (physique ou morale). Toute personne a nécessairement un patrimoine même vide. La totalité du patrimoine ne peut pas être cédée entre vifs : on ne peut transmettre son patrimoine en totalité qu'à sa mort.",
+      "exemple": "Nivo vient de naître. Il n'a encore aucun bien ni aucune dette. Mais il a déjà un patrimoine — vide pour l'instant — parce qu'il est une personne juridique. Si ses parents lui font une donation, cette somme ira dans son patrimoine. Si un accident lui cause un préjudice, sa créance de réparation figurera à son actif. Le contenant existait avant son contenu."
+    },
+    {
+      "titre": "Deuxième caractère : l'unité du patrimoine",
+      "texte": "Le deuxième grand caractère du patrimoine dans la théorie classique est son unité. Une personne n'a qu'un seul et unique patrimoine. C'est ce qu'on appelle le principe de l'unité ou de l'indivisibilité du patrimoine. Même si une personne exerce plusieurs activités — elle est à la fois agriculteur, commerçant et propriétaire de biens immobiliers — elle n'a qu'un seul patrimoine qui regroupe tout cela sans distinction. Ce principe a une conséquence pratique importante et parfois sévère : les dettes professionnelles d'un entrepreneur individuel engagent son patrimoine personnel. Si son activité commerciale génère des dettes, ses créanciers commerciaux peuvent saisir sa maison d'habitation, sa voiture personnelle, ses économies. L'actif professionnel et l'actif personnel se confondent dans un même et unique patrimoine. Ce principe d'unité est la règle fondamentale. Il connaît toutefois des exceptions importantes — le patrimoine d'affectation — qui sont apparues pour répondre aux besoins de la vie économique moderne et que nous allons étudier.",
+      "definition": "Principe de l'unité du patrimoine : chaque personne n'a qu'un seul et unique patrimoine, indivisible, regroupant l'ensemble de ses droits et obligations à valeur pécuniaire sans distinction d'origine. Conséquence : les dettes professionnelles d'un entrepreneur individuel engagent son patrimoine personnel tout entier."
+    },
+    {
+      "titre": "La critique du principe d'unité : les besoins de la vie économique",
+      "texte": "Le principe d'unité du patrimoine, s'il est logiquement cohérent, pose des difficultés considérables dans la vie économique. Un entrepreneur individuel qui lance une activité commerciale risquée ne peut pas, selon la théorie classique, mettre sa maison familiale à l'abri de ses créanciers professionnels. Tout son patrimoine répond de toutes ses dettes. Ce risque illimité décourage l'initiative économique et expose la famille de l'entrepreneur à des conséquences dramatiques. Pour contourner cette difficulté, le droit a développé plusieurs mécanismes. La création d'une personne morale — une société — est le moyen classique : la société a sa propre personnalité juridique et donc son propre patrimoine, distinct de celui de ses associés. Les dettes de la société n'engagent en principe que le patrimoine de la société, pas celui de ses membres. Une autre réponse est la théorie du patrimoine d'affectation, d'origine allemande, selon laquelle une même personne pourrait avoir plusieurs patrimoines affectés chacun à un but particulier : un patrimoine personnel, un patrimoine professionnel. Cette théorie a progressivement été reconnue par les législateurs, notamment à travers des mécanismes comme la fiducie et le statut d'entrepreneur individuel à responsabilité limitée.",
+      "definition": "Patrimoine d'affectation : théorie selon laquelle une personne peut avoir plusieurs patrimoines, chacun affecté à un but particulier (personnel, professionnel). Alternative au principe classique d'unité, elle permet de protéger le patrimoine personnel d'un entrepreneur contre ses créanciers professionnels.",
+      "exemple": "Hery est artisan menuisier à Antsiranana. Il exerce en entrepreneur individuel. Il possède une maison familiale et un atelier. Un fournisseur lui réclame 15 millions impayés. Selon le principe classique d'unité, sa maison familiale pourrait être saisie. Pour éviter cela, Hery pourrait créer une société (personne morale distincte) dont le patrimoine serait séparé du sien, ou bénéficier d'un régime d'entrepreneur individuel à responsabilité limitée si la loi malgache le prévoit."
+    },
+    {
+      "titre": "La transmission du patrimoine : le décès comme seul moment de transmission universelle",
+      "texte": "Si la totalité du patrimoine ne peut pas être cédée entre vifs, elle peut en revanche être transmise au moment du décès. La mort emporte transmission du patrimoine à titre universel : l'ensemble de l'actif et l'ensemble du passif passent aux héritiers. Cette transmission est universelle précisément parce qu'elle porte sur l'universalité juridique que constitue le patrimoine — et non sur chaque bien isolément. Les héritiers reçoivent non seulement les biens du défunt mais aussi ses dettes. Ils deviennent créanciers de ceux qui devaient quelque chose au défunt et débiteurs de ceux à qui le défunt devait quelque chose. C'est pourquoi, avant d'accepter une succession, les héritiers doivent vérifier si l'actif est supérieur au passif. Une succession peut être déficitaire — si les dettes du défunt dépassent ses biens, les héritiers qui acceptent purement et simplement la succession pourraient se retrouver à payer les dettes avec leurs propres biens personnels. La loi leur offre donc la possibilité d'accepter la succession à concurrence de l'actif net — ils ne paient les dettes que dans la limite de ce qu'ils reçoivent — ou de renoncer purement et simplement à la succession.",
+      "definition": "Transmission du patrimoine à titre universel : au décès, l'ensemble du patrimoine (actif et passif) se transmet aux héritiers. Les héritiers deviennent titulaires des droits et tenus des dettes du défunt. Ils peuvent accepter la succession, l'accepter à concurrence de l'actif net, ou y renoncer.",
+      "exemple": "Rasoa décède en laissant une maison de 40 millions d'ariary, des économies de 5 millions et des dettes de 60 millions. Son fils Tojo hérite. Si Tojo accepte purement et simplement la succession, il reçoit la maison et les économies (45 millions) mais doit payer 60 millions de dettes — il perd 15 millions sur son patrimoine personnel. Il a intérêt à accepter à concurrence de l'actif net ou à renoncer."
+    },
+    {
+      "titre": "Les biens : définition juridique et distinction avec la chose",
+      "texte": "On parle couramment de ses biens pour désigner ses possessions : sa voiture, sa maison, son téléphone. En droit, la notion de bien est plus précise et subtile. Un bien n'est pas une chose — c'est un droit sur une chose. La maison elle-même n'est pas le bien : c'est le droit de propriété sur la maison qui est le bien. Cette distinction, abstraite mais fondamentale, a des implications pratiques. Ce qui entre dans le patrimoine, ce ne sont pas des objets matériels, mais des droits : le droit de propriété sur un immeuble, le droit de créance contre un débiteur, le droit d'auteur sur une œuvre. Pour être un bien au sens juridique, un droit doit réunir deux conditions essentielles. Il doit avoir une valeur pécuniaire — être évaluable en argent. Il doit être susceptible d'appropriation — pouvoir appartenir à une personne. L'air que nous respirons, la lumière du soleil : ces choses ont une utilité mais elles ne peuvent pas être appropriées — elles ne sont pas des biens au sens juridique. En revanche, une parcelle de terrain, une somme d'argent, une créance contre un débiteur : ces droits ont une valeur pécuniaire et sont appropriables — ce sont des biens.",
+      "definition": "Bien (au sens juridique) : droit sur une chose ayant une valeur pécuniaire et susceptible d'appropriation. À distinguer de la chose elle-même. Ce qui entre dans le patrimoine, c'est le droit (de propriété, de créance, intellectuel) et non la chose matérielle en tant que telle.",
+      "exemple": "La maison de Lanto à Diego-Suarez est une chose. Le bien, c'est le droit de propriété de Lanto sur cette maison. Si Lanto vend sa maison, il ne cède pas des briques et du ciment — il cède son droit de propriété. Cela explique pourquoi on peut avoir un bien sur quelque chose d'immatériel : un droit de créance, un brevet, une marque — ces droits sont des biens même si on ne peut pas les toucher."
+    },
+    {
+      "titre": "Les biens corporels et incorporels",
+      "texte": "Les biens se divisent d'abord en biens corporels et biens incorporels. Les biens corporels ont une existence physique. On peut les voir, les toucher, les déplacer ou non. Ils correspondent aux choses matérielles sur lesquelles s'exercent des droits : une maison, une voiture, un terrain, un téléphone, une récolte. Ces biens corporels se subdivisent eux-mêmes en biens meubles (déplaçables) et biens immeubles (non déplaçables), distinction que nous étudierons dans la prochaine section. Les biens incorporels n'ont pas d'existence matérielle. Ils ne peuvent pas être touchés ni vus. Pourtant, ils ont une valeur économique et entrent dans le patrimoine. Parmi eux : les droits de créance — le droit d'exiger une somme d'argent de son débiteur —, les droits réels portant sur une chose appartenant à autrui — comme l'usufruit ou l'hypothèque —, les droits intellectuels — le droit d'auteur sur un roman, le brevet d'invention, la marque commerciale —, mais aussi les parts sociales dans une société, le fonds de commerce, la clientèle. L'importance des biens incorporels n'a cessé de croître avec le développement économique et technologique : aujourd'hui, la valeur d'une grande entreprise réside souvent davantage dans ses marques, ses brevets et sa clientèle que dans ses bâtiments.",
+      "definition": "Biens corporels : biens ayant une existence matérielle, perceptibles physiquement (maison, voiture, terrain, récolte). Biens incorporels : biens sans existence matérielle mais ayant une valeur économique (créances, droits réels sur la chose d'autrui, droits intellectuels, parts sociales, fonds de commerce, clientèle).",
+      "exemple": "La maison de Solofo est un bien corporel : on peut la voir et la toucher. Le droit qu'il a de percevoir une créance de 5 millions contre un débiteur est un bien incorporel : on ne peut pas toucher une créance, mais elle a une valeur économique. Le brevet qu'il a déposé sur une invention technique est également un bien incorporel — peut-être son bien le plus précieux."
+    },
+    {
+      "titre": "La distinction fondamentale : biens meubles et biens immeubles",
+      "texte": "Parmi les biens corporels, la distinction la plus importante en droit civil est celle entre les biens meubles et les biens immeubles. Cette distinction est ancienne — elle remonte au droit romain — et reste aujourd'hui fondamentale parce qu'elle détermine des règles juridiques radicalement différentes. Un bien immeuble est un bien qui ne peut pas se déplacer sans être détruit ou altéré. La terre, le sol, et tout ce qui y est incorporé de manière permanente : maisons, bâtiments, arbres enracinés, cultures. Un bien meuble est un bien qui peut se déplacer, soit par lui-même — un animal —, soit en étant déplacé — une voiture, un téléphone, des billets de banque, un meuble. La vente d'un immeuble est soumise à des formalités beaucoup plus lourdes : elle doit être constatée par acte notarié et faire l'objet d'une publicité foncière. La vente d'un meuble peut se faire par simple accord. Les règles de succession, de saisie, de prescription diffèrent aussi selon qu'on a affaire à un meuble ou à un immeuble. Cette distinction simple en apparence cache des subtilités importantes : certains biens sont meubles ou immeubles non par leur nature physique mais par leur destination ou par leur qualification légale.",
+      "definition": "Biens immeubles : biens qui ne peuvent pas être déplacés sans être altérés (terrain, bâtiment, construction permanente). Biens meubles : biens qui peuvent être déplacés (animaux, véhicules, argent, objets). La distinction détermine des règles juridiques différentes : vente, succession, saisie, prescription.",
+      "exemple": "La parcelle de terrain de Vonjy à Antsiranana est un immeuble par nature. Pour la vendre, il faudra un acte notarié et une inscription au registre foncier. Sa moto est un meuble : la vente peut se faire par simple accord verbal. Son argent en banque est un meuble incorporel (une créance sur la banque). Ses bœufs sont des meubles par nature car ils peuvent se déplacer par eux-mêmes."
+    },
+    {
+      "titre": "Les immeubles par nature, par destination et par l'objet auquel ils s'appliquent",
+      "texte": "La notion d'immeuble dépasse la seule immobilité physique. La loi reconnaît trois types d'immeubles. Les immeubles par nature sont les biens qui sont immobiles par essence : le sol, le sous-sol, les bâtiments, les arbres et les plantes tant qu'ils sont enracinés. Une maison est un immeuble par nature. Les immeubles par destination sont des biens meubles par nature que la loi considère comme des immeubles parce qu'ils sont affectés à l'exploitation ou au service d'un immeuble et y sont attachés de manière durable. Un tracteur affecté à l'exploitation d'un domaine agricole, une chaudière installée à demeure dans un immeuble, les machines fixes d'une usine. Bien qu'ils puissent physiquement être déplacés, la loi les traite comme des immeubles. Cette qualification a des conséquences importantes : si l'immeuble est vendu, ces biens suivent en principe l'immeuble. Les immeubles par l'objet auquel ils s'appliquent désignent certains droits portant sur des immeubles que la loi assimile à des immeubles — comme l'usufruit portant sur un immeuble ou une servitude.",
+      "definition": "Trois catégories d'immeubles : par nature (immobiles par essence : sol, bâtiments, arbres enracinés), par destination (meubles affectés durablement au service d'un immeuble : machines fixes, chaudière, tracteur de domaine), par l'objet auquel ils s'appliquent (droits portant sur des immeubles : usufruit immobilier, servitude).",
+      "exemple": "Rabe achète une ferme avec ses terres, ses bâtiments, son tracteur et ses machines agricoles fixées à demeure. Les terres et bâtiments sont des immeubles par nature. Le tracteur et les machines, bien que physiquement déplaçables, sont des immeubles par destination s'ils sont affectés à l'exploitation de la ferme. La vente de la ferme comprend donc l'ensemble — terres, bâtiments et machines — sauf stipulation contraire."
+    },
+    {
+      "titre": "Les meubles : par nature, par anticipation et par détermination de la loi",
+      "texte": "Les biens meubles se divisent eux aussi en plusieurs catégories. Les meubles par nature sont les biens qui peuvent se déplacer ou être déplacés : les animaux, les véhicules, les marchandises, les meubles meublants (tables, chaises, lits), l'argent, les bijoux. La récolte d'un champ, une fois coupée et séparée du sol, devient un meuble par nature. Les meubles par anticipation sont des biens qui sont encore immeubles par nature mais que les parties traitent par avance comme des meubles parce qu'ils sont destinés à être détachés. Des arbres sur pied vendus à un exploitant forestier qui va les abattre, des récoltes sur pied vendues à un agriculteur qui va les couper — ces biens sont encore techniquement des immeubles (ils sont enracinés) mais les parties les traitent comme des meubles parce qu'ils vont bientôt le devenir. Enfin, les meubles par détermination de la loi sont des biens incorporels que la loi qualifie de meubles : les droits de créance, les parts sociales, les actions de société, les droits d'auteur patrimoniaux, les brevets. On ne peut pas toucher une créance, mais la loi dit qu'elle est un meuble.",
+      "definition": "Trois catégories de meubles : par nature (déplaçables physiquement : animaux, véhicules, argent, objets), par anticipation (immeubles destinés à être séparés du sol traités par avance comme meubles : arbres sur pied vendus pour abattage, récoltes sur pied), par détermination de la loi (droits incorporels qualifiés de meubles par la loi : créances, parts sociales, droits intellectuels).",
+      "exemple": "Tiana vend ses cocotiers sur pied à un acheteur qui va les abattre pour en exploiter le bois. Ces cocotiers sont encore enracinés — immeubles par nature — mais la vente les traite comme des meubles par anticipation, ce qui simplifie les formalités. Une fois abattus, ils deviendront effectivement des meubles par nature."
+    },
+    {
+      "titre": "Meubles et immeubles : pourquoi cette distinction importe tant en pratique",
+      "texte": "La distinction meuble/immeuble n'est pas qu'une curiosité technique. Elle a des implications pratiques majeures dans la vie juridique quotidienne. En matière de vente, la vente d'un immeuble requiert un acte notarié et une publication au registre foncier pour être opposable aux tiers. La vente d'un meuble peut être verbale. En matière de garanties, l'hypothèque ne peut grever que des immeubles. Les meubles sont garantis par d'autres mécanismes comme le gage ou le nantissement. En matière de saisie, la procédure de saisie immobilière est plus lourde et plus protectrice que la saisie mobilière. En matière de succession, certains régimes successoraux traitent différemment les meubles et les immeubles — notamment les règles de dévolution successorale en droit international privé, qui peuvent varier selon que le bien est meuble ou immeuble. En matière de prescription, les délais peuvent différer. En matière fiscale enfin, l'imposition des immeubles (droits d'enregistrement, taxe foncière) diffère de celle des meubles. Maîtriser la distinction meuble/immeuble est donc essentiel pour tout juriste et pour tout citoyen qui réalise une transaction importante.",
+      "definition": "Conséquences pratiques de la distinction meuble/immeuble : vente (formalités plus lourdes pour les immeubles), garanties (hypothèque pour les immeubles, gage pour les meubles), saisie (procédure différente), succession, prescription et fiscalité. La nature du bien détermine le régime juridique applicable."
+    },
+    {
+      "titre": "Les biens dans le commerce et hors du commerce",
+      "texte": "Tous les biens ne sont pas librement cessibles. La loi distingue les biens dans le commerce juridique — qui peuvent faire l'objet de transactions, être vendus, donnés, échangés — et les biens hors du commerce — qui échappent à tout acte de disposition. Les biens hors du commerce sont de deux types. Les biens communs sont des choses qui, par leur nature même, ne peuvent appartenir à personne : l'air, la lumière du soleil, la mer. On peut les utiliser librement mais on ne peut pas les s'approprier. Les biens du domaine public appartiennent à la collectivité — à l'État ou aux collectivités territoriales — et sont affectés à l'usage public ou à un service public. Une route, un cours d'eau navigable, un parc public, un bâtiment administratif : ces biens appartiennent à la personne publique mais ne peuvent pas être vendus tant qu'ils sont affectés au domaine public. Ils sont inaliénables et imprescriptibles. Quand un bien public perd son affectation — une route est déclassée, un bâtiment administratif n'est plus utilisé —, il peut intégrer le domaine privé de la collectivité et redevenir cessible. À Madagascar, la distinction entre domaine public et domaine privé de l'État est fondamentale en droit foncier.",
+      "definition": "Biens dans le commerce : biens susceptibles de faire l'objet de transactions (vente, donation, échange). Biens hors du commerce : biens communs (air, lumière, mer) que personne ne peut s'approprier, et biens du domaine public (routes, cours d'eau, bâtiments publics) qui sont inaliénables et imprescriptibles tant qu'ils sont affectés à l'usage public."
+    },
+    {
+      "titre": "Synthèse : la carte complète du patrimoine et des biens",
+      "texte": "Voici comment s'organise l'ensemble du sujet. Le patrimoine est l'universalité juridique regroupant tous les droits et obligations à valeur pécuniaire d'une personne. Il a deux faces : l'actif (droits, biens, créances) et le passif (dettes, obligations). Il est lié à la personnalité : toute personne a un patrimoine, même vide ; seule une personne peut en avoir un. Il est en principe unique et indivisible (théorie classique d'Aubry et Rau), mais des exceptions existent avec les patrimoines d'affectation (société, fiducie, entrepreneur à responsabilité limitée). Il ne peut être transmis en totalité qu'au décès, à titre universel, aux héritiers. Les biens constituent l'actif du patrimoine. Un bien est un droit sur une chose ayant une valeur pécuniaire et susceptible d'appropriation. Les biens se divisent en corporels (matériels) et incorporels (immatériels). Les biens corporels se divisent en immeubles (immobiles : sol, bâtiments) et meubles (mobiles : animaux, véhicules, argent). Certains biens sont hors du commerce : biens communs et biens du domaine public. Cette architecture est le fondement de tout le droit des biens.",
+      "definition": "Synthèse : Patrimoine = actif + passif. Lié à la personnalité, unique en principe. Biens = droits à valeur pécuniaire. Corporels vs incorporels. Meubles vs immeubles. Dans le commerce vs hors du commerce. Ces distinctions fondamentales déterminent l'ensemble des règles applicables en droit des biens."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quelle est la définition classique du patrimoine en droit civil ?",
+      "choix": [
+        "L'ensemble des biens immobiliers appartenant à une personne",
+        "L'ensemble des rapports de droit appréciables en argent ayant pour sujet actif ou passif une même personne, formant une universalité juridique",
+        "L'ensemble des biens culturels et historiques d'un pays",
+        "L'ensemble des revenus annuels d'une personne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La définition vient des juristes Aubry et Rau au XIXe siècle.",
+        "Elle insiste sur la valeur pécuniaire et l'universalité juridique.",
+        "Elle comprend à la fois l'actif (droits) et le passif (dettes)."
+      ],
+      "explication": "La définition classique du patrimoine a été forgée par Aubry et Rau au XIXe siècle : c'est l'ensemble des rapports de droit appréciables en argent ayant pour sujet actif ou passif une même personne et formant une universalité juridique. Cette définition insiste sur trois points : la valeur pécuniaire (seuls les droits et obligations évaluables en argent y entrent), le lien avec une même personne (actif ou passif), et le caractère d'universalité (le patrimoine est un tout, pas une simple somme d'éléments)."
+    },
+    {
+      "question": "Qu'est-ce que l'actif patrimonial ?",
+      "choix": [
+        "L'ensemble des dettes et obligations d'une personne",
+        "L'ensemble des droits à valeur économique d'une personne : biens, créances, droits intellectuels",
+        "L'ensemble des biens immobiliers uniquement",
+        "Les revenus professionnels d'une personne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'actif s'oppose au passif.",
+        "C'est ce que la personne 'a' — ses droits — pas ce qu'elle 'doit'.",
+        "Les créanciers peuvent saisir l'actif pour se payer."
+      ],
+      "explication": "L'actif patrimonial regroupe l'ensemble des droits à valeur économique dont est titulaire une personne : ses droits réels (droit de propriété sur ses biens), ses droits personnels (créances sur ses débiteurs), et ses droits intellectuels (droits d'exploitation). L'actif est ce sur quoi les créanciers pourront exercer leur droit de gage général en cas de non-paiement des dettes."
+    },
+    {
+      "question": "Qu'est-ce que le passif patrimonial ?",
+      "choix": [
+        "Les biens meubles d'une personne, par opposition aux immeubles",
+        "L'ensemble des obligations à valeur économique pesant sur une personne : ses dettes et engagements",
+        "Les droits extrapatrimoniaux comme le droit à l'honneur",
+        "Les biens du domaine public appartenant à l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le passif s'oppose à l'actif.",
+        "Ce sont les obligations qu'une personne doit exécuter.",
+        "Les dettes sont au passif ; les créances sont à l'actif."
+      ],
+      "explication": "Le passif patrimonial regroupe l'ensemble des obligations à valeur économique qui pèsent sur une personne : ses dettes envers ses créanciers, ses obligations contractuelles non encore exécutées. L'actif répond du passif : si une personne ne paie pas ses dettes, ses créanciers peuvent saisir les éléments de son actif. Une succession peut être déficitaire si le passif dépasse l'actif."
+    },
+    {
+      "question": "Vrai ou faux : le droit à l'honneur d'une personne fait partie de son patrimoine.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Seuls les droits appréciables en argent entrent dans le patrimoine.",
+        "Le droit à l'honneur est-il évaluable en argent ?",
+        "C'est un droit de la personnalité — extrapatrimonial."
+      ],
+      "explication": "Faux. Le droit à l'honneur est un droit extrapatrimonial : il est attaché à la personne et n'a pas de valeur pécuniaire directe. Il ne peut pas être vendu, saisi ni transmis aux héritiers. Seuls les droits appréciables en argent — évaluables en termes monétaires — entrent dans le patrimoine. Le droit à l'honneur, comme tous les droits de la personnalité, est hors patrimoine."
+    },
+    {
+      "question": "Qui a élaboré la théorie classique du patrimoine en droit civil ?",
+      "choix": [
+        "Napoléon Bonaparte, lors de la rédaction du Code civil",
+        "Les juristes Aubry et Rau, au XIXe siècle",
+        "Les juristes romains dans l'Antiquité",
+        "La Cour de cassation française dans un arrêt fondateur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon mentionne explicitement ces deux auteurs.",
+        "Ils ont travaillé au XIXe siècle.",
+        "Leur théorie est dite 'classique' — elle a été contestée mais reste la référence."
+      ],
+      "explication": "La théorie classique du patrimoine a été construite au XIXe siècle par deux professeurs de droit alsaciens, Aubry et Rau. Leur conception du patrimoine comme universalité juridique liée à la personnalité reste à ce jour la théorie de référence en droit civil français et dans les systèmes qui s'en inspirent, dont le droit malgache."
+    },
+    {
+      "question": "Qu'est-ce qu'une universalité juridique en matière de patrimoine ?",
+      "choix": [
+        "Un patrimoine qui appartient à plusieurs personnes à la fois",
+        "Un ensemble cohérent de droits et d'obligations formant un tout indivisible, distinct de la simple somme de ses éléments",
+        "Un patrimoine mondial reconnu par l'UNESCO",
+        "Un bien qui peut être utilisé par tous les citoyens"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Universalité signifie 'ensemble total'.",
+        "Le patrimoine est plus que la somme de ses éléments — c'est un tout.",
+        "C'est ce caractère qui lui permet d'avoir un actif et un passif qui se compensent."
+      ],
+      "explication": "Une universalité juridique est un ensemble cohérent de droits et d'obligations qui forme un tout indivisible. Le patrimoine n'est pas simplement la liste des biens et des dettes — c'est une entité juridique autonome. Cette nature d'universalité explique que l'actif répond du passif, que le patrimoine se transmet en entier à la mort, et qu'il peut être vide mais exister quand même."
+    },
+    {
+      "question": "Vrai ou faux : une personne peut ne pas avoir de patrimoine si elle ne possède rien.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le patrimoine est lié à la personnalité juridique.",
+        "Toute personne a une personnalité juridique dès sa naissance.",
+        "Le patrimoine peut être vide mais il existe quand même."
+      ],
+      "explication": "Faux. Toute personne a nécessairement un patrimoine, même si celui-ci est vide de tout droit et de toute dette. Le patrimoine est une enveloppe liée à la personnalité juridique : dès qu'on acquiert la personnalité juridique (à la naissance pour les personnes physiques), on a un patrimoine. Un nouveau-né n'a peut-être aucun bien ni aucune dette, mais il a déjà un patrimoine — vide pour l'instant, mais prêt à être rempli."
+    },
+    {
+      "question": "Selon le principe d'unité du patrimoine, combien de patrimoines une personne a-t-elle ?",
+      "choix": [
+        "Autant de patrimoines que d'activités exercées",
+        "Un seul et unique patrimoine, indivisible",
+        "Deux patrimoines : un personnel et un professionnel",
+        "Le nombre de patrimoines est libre — chaque personne peut en choisir"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est le principe classique d'Aubry et Rau.",
+        "Une personne ne peut pas diviser son patrimoine selon ses activités.",
+        "Ce principe a des exceptions modernes mais reste la règle de base."
+      ],
+      "explication": "Selon le principe classique de l'unité du patrimoine, chaque personne n'a qu'un seul et unique patrimoine, indivisible. Même si elle exerce plusieurs activités (commerçant, agriculteur, propriétaire), tout cela forme un seul patrimoine. Ce principe implique que les dettes professionnelles engagent le patrimoine personnel — ce qui peut avoir des conséquences sévères pour les entrepreneurs."
+    },
+    {
+      "question": "Quel est le principal inconvénient du principe d'unité du patrimoine pour un entrepreneur individuel ?",
+      "choix": [
+        "Il ne peut pas avoir de compte bancaire professionnel séparé",
+        "Ses dettes professionnelles engagent son patrimoine personnel tout entier : ses créanciers professionnels peuvent saisir sa maison familiale",
+        "Il ne peut pas transmettre son entreprise à ses enfants",
+        "Il doit payer plus d'impôts qu'une société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un seul patrimoine signifie que tout se mélange : biens personnels et dettes professionnelles.",
+        "Les créanciers ont un droit de gage général sur tout l'actif.",
+        "C'est pour éviter cela qu'on crée des sociétés ou des patrimoines d'affectation."
+      ],
+      "explication": "L'inconvénient majeur du principe d'unité est que les dettes professionnelles d'un entrepreneur individuel engagent l'intégralité de son patrimoine, y compris ses biens personnels. Ses créanciers professionnels peuvent saisir sa maison familiale, ses économies personnelles, ses biens privés. Ce risque illimité décourage l'initiative économique, d'où le développement de mécanismes alternatifs comme la société (personne morale distincte) ou le patrimoine d'affectation."
+    },
+    {
+      "question": "Qu'est-ce qu'un patrimoine d'affectation ?",
+      "choix": [
+        "Un patrimoine appartenant à l'État affecté à un service public",
+        "Un patrimoine distinct du patrimoine personnel, affecté à un but particulier (professionnel par exemple), permettant à une personne d'avoir plusieurs patrimoines",
+        "Un patrimoine transmis à titre particulier à un seul héritier",
+        "Un patrimoine géré par un administrateur judiciaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une exception au principe classique d'unité.",
+        "Il est d'origine allemande.",
+        "La fiducie et l'entrepreneur à responsabilité limitée en sont des exemples."
+      ],
+      "explication": "Le patrimoine d'affectation est une notion d'origine allemande permettant à une même personne d'avoir plusieurs patrimoines, chacun affecté à un but particulier. Un patrimoine personnel, un patrimoine professionnel. Cette théorie a été progressivement reconnue par les législateurs pour protéger les entrepreneurs : leurs biens personnels sont isolés de leur activité professionnelle, limitant leur risque. La fiducie et l'entrepreneur individuel à responsabilité limitée en sont des applications."
+    },
+    {
+      "question": "Comment est transmis le patrimoine d'une personne à sa mort ?",
+      "choix": [
+        "Seul l'actif est transmis aux héritiers ; les dettes restent à la charge de l'État",
+        "Le patrimoine entier — actif et passif — est transmis aux héritiers à titre universel",
+        "Seuls les biens immeubles sont transmis aux héritiers",
+        "Le patrimoine revient automatiquement à l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La transmission est 'universelle' — elle porte sur l'universalité juridique.",
+        "Les héritiers reçoivent tout : biens ET dettes.",
+        "C'est pourquoi on peut renoncer à une succession déficitaire."
+      ],
+      "explication": "Au décès, le patrimoine se transmet à titre universel aux héritiers : ils reçoivent l'actif (les biens, créances) ET le passif (les dettes, obligations). Les héritiers deviennent ainsi débiteurs des créanciers du défunt. Si les dettes dépassent les biens, la succession est déficitaire et les héritiers ont intérêt à l'accepter à concurrence de l'actif net ou à y renoncer, pour éviter que les dettes du défunt n'engagent leur propre patrimoine."
+    },
+    {
+      "question": "Vrai ou faux : si les dettes d'un défunt dépassent ses biens, ses héritiers doivent automatiquement payer avec leur propre argent.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les héritiers ont le choix d'accepter ou de renoncer à la succession.",
+        "Ils peuvent accepter à concurrence de l'actif net.",
+        "L'acceptation pure et simple engage leur patrimoine personnel ; la renonciation les protège."
+      ],
+      "explication": "Faux — pas automatiquement. Les héritiers ont un choix. S'ils acceptent purement et simplement la succession, ils deviennent responsables des dettes sur leur patrimoine personnel. Mais ils peuvent accepter la succession à concurrence de l'actif net : ils paient les dettes uniquement dans la limite de ce qu'ils reçoivent. Ou ils peuvent renoncer à la succession : ils ne reçoivent rien mais ne doivent rien non plus."
+    },
+    {
+      "question": "Qu'est-ce qu'un bien au sens juridique ?",
+      "choix": [
+        "Tout objet matériel possédé par une personne",
+        "Un droit sur une chose ayant une valeur pécuniaire et susceptible d'appropriation",
+        "Tout ce qui a une utilité pour l'homme, qu'il soit appropriable ou non",
+        "L'ensemble des revenus annuels d'une personne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En droit, un bien n'est pas une chose — c'est un droit sur une chose.",
+        "Deux conditions : valeur pécuniaire et susceptibilité d'appropriation.",
+        "L'air est utile mais ne peut pas être approprié — ce n'est pas un bien."
+      ],
+      "explication": "Au sens juridique, un bien est un droit sur une chose ayant une valeur pécuniaire et susceptible d'appropriation. Ce n'est pas la chose elle-même mais le droit qu'on a sur elle. La maison n'est pas le bien : c'est le droit de propriété sur la maison qui est le bien. Pour être un bien, ce droit doit être évaluable en argent et la chose doit pouvoir être appropriée (appartenir à quelqu'un)."
+    },
+    {
+      "question": "La maison de Vonjy vaut-elle 50 millions d'ariary ? En droit, qu'est-ce qui vaut exactement 50 millions d'ariary ?",
+      "choix": [
+        "Les briques et la charpente de la maison",
+        "Le droit de propriété de Vonjy sur cette maison — c'est le droit qui est le bien, pas la chose",
+        "La maison et le terrain ensemble",
+        "La valeur locative de la maison sur 10 ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En droit, ce n'est pas la chose qui est le bien, mais le droit sur la chose.",
+        "Ce que Vonjy vend quand il 'vend sa maison', c'est son droit de propriété.",
+        "La distinction chose/droit est subtile mais fondamentale."
+      ],
+      "explication": "En droit, c'est le droit de propriété de Vonjy sur la maison qui vaut 50 millions d'ariary — pas la maison elle-même en tant qu'amas de briques. Quand Vonjy vend sa maison, il cède son droit de propriété. Quand une banque prend une hypothèque, elle grève ce droit de propriété. Cette distinction entre la chose et le droit sur la chose est fondamentale même si elle semble abstraite."
+    },
+    {
+      "question": "Quelle est la différence entre un bien corporel et un bien incorporel ?",
+      "choix": [
+        "Un bien corporel appartient à une personne physique ; un bien incorporel appartient à une personne morale",
+        "Un bien corporel a une existence matérielle physique ; un bien incorporel n'a pas d'existence matérielle mais a une valeur économique",
+        "Un bien corporel peut être vendu ; un bien incorporel ne peut pas l'être",
+        "Un bien corporel est immeuble ; un bien incorporel est meuble"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Corporel vient de corpus — le corps, la matière.",
+        "Incorporel signifie sans corps, sans matière physique.",
+        "Une créance ou un brevet sont incorporels mais ont une valeur économique."
+      ],
+      "explication": "Un bien corporel a une existence matérielle — on peut le voir, le toucher, le déplacer (une maison, une voiture, une récolte). Un bien incorporel n'a pas d'existence matérielle mais a une valeur économique et entre dans le patrimoine (une créance, un droit d'auteur, un brevet, des parts sociales). L'importance des biens incorporels n'a cessé de croître avec l'économie numérique."
+    },
+    {
+      "question": "Parmi ces exemples, lequel est un bien incorporel ?",
+      "choix": [
+        "Un terrain agricole à Diego-Suarez",
+        "Une voiture",
+        "Une créance de 5 millions d'ariary contre un débiteur",
+        "Un troupeau de zébus"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les trois premiers exemples peuvent être touchés ou vus physiquement.",
+        "Une créance est un droit d'exiger quelque chose — on ne peut pas la toucher.",
+        "Mais elle a une valeur économique et entre dans le patrimoine."
+      ],
+      "explication": "Une créance de 5 millions d'ariary est un bien incorporel : c'est le droit d'exiger une somme d'argent de son débiteur. On ne peut pas toucher une créance ni la voir physiquement. Mais elle a une valeur économique certaine et entre dans le patrimoine comme élément d'actif. Le terrain, la voiture et les zébus sont des biens corporels : on peut les voir et les toucher."
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre un bien meuble et un bien immeuble ?",
+      "choix": [
+        "Un bien meuble est moins cher qu'un bien immeuble",
+        "Un bien immeuble ne peut pas être déplacé sans être altéré ou détruit ; un bien meuble peut se déplacer ou être déplacé",
+        "Un bien meuble appartient à une personne physique ; un bien immeuble appartient à l'État",
+        "Un bien immeuble est incorporel ; un bien meuble est corporel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Immeuble vient de 'immobile'.",
+        "Meuble vient de 'mobile'.",
+        "Un terrain ou une maison ne peut pas être déplacé sans être détruit."
+      ],
+      "explication": "La distinction repose sur la mobilité physique. Un bien immeuble ne peut pas être déplacé sans être altéré ou détruit : le terrain, la maison, les arbres enracinés. Un bien meuble peut se déplacer par lui-même (animaux) ou être déplacé sans altération (voiture, téléphone, argent). Cette distinction est fondamentale en droit car elle détermine les règles applicables à la vente, aux garanties, à la saisie et à la succession."
+    },
+    {
+      "question": "Un terrain agricole à Antsiranana est-il un meuble ou un immeuble ?",
+      "choix": [
+        "Un meuble, car on peut le subdiviser en parcelles",
+        "Un immeuble par nature, car il est attaché à la terre et ne peut pas être déplacé",
+        "Un bien incorporel, car on ne peut pas toucher la terre",
+        "Cela dépend de ce qu'on cultive dessus"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le sol, la terre, est le premier exemple d'immeuble par nature.",
+        "On ne peut pas déplacer un terrain sans le détruire.",
+        "Ce n'est pas la valeur ni l'usage qui détermine la qualification."
+      ],
+      "explication": "Un terrain agricole est un immeuble par nature : il est attaché à la terre et ne peut pas être déplacé sans être altéré. La terre est l'exemple type de l'immeuble par nature. Peu importe ce qu'on cultive dessus — la nature immeuble du sol reste la même. Pour vendre ce terrain, il faudra un acte notarié et une publicité foncière."
+    },
+    {
+      "question": "Qu'est-ce qu'un immeuble par destination ?",
+      "choix": [
+        "Un immeuble situé dans une zone géographique précise",
+        "Un bien meuble par nature qui est traité comme un immeuble parce qu'il est affecté durablement au service d'un immeuble",
+        "Un bâtiment construit à des fins particulières comme une usine ou un hôpital",
+        "Un bien immeuble destiné à être vendu prochainement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Par destination signifie 'en raison de son affectation'.",
+        "Ce sont des biens qui sont physiquement des meubles mais juridiquement des immeubles.",
+        "Une machine fixe dans une usine en est un exemple."
+      ],
+      "explication": "Un immeuble par destination est un bien meuble par nature (il pourrait être déplacé physiquement) que la loi considère comme un immeuble parce qu'il est affecté durablement au service d'un immeuble : un tracteur affecté à une exploitation agricole, des machines fixes dans une usine, une chaudière installée à demeure. Cette qualification a des conséquences : si l'immeuble est vendu, ces biens suivent en principe l'immeuble."
+    },
+    {
+      "question": "Vonjy achète une ferme comprenant des terres, des bâtiments et un tracteur fixé à demeure dans une grange. Si la ferme est vendue, le tracteur est-il compris dans la vente ?",
+      "choix": [
+        "Non, le tracteur est un meuble : il n'est pas compris dans la vente d'un immeuble",
+        "Oui, le tracteur est un immeuble par destination affecté à l'exploitation de la ferme : il suit en principe l'immeuble dans la vente",
+        "Cela dépend du prix de la vente",
+        "Oui, mais seulement si l'acheteur le demande expressément"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le tracteur est physiquement un meuble mais juridiquement...",
+        "Un bien affecté durablement à une exploitation agricole est un immeuble par...",
+        "Les immeubles par destination suivent l'immeuble principal."
+      ],
+      "explication": "Oui, en principe. Le tracteur fixé à demeure dans une grange et affecté à l'exploitation de la ferme est un immeuble par destination : bien que physiquement déplaçable, la loi le traite comme un immeuble en raison de son affectation durable au service de la ferme. Il suit donc en principe l'immeuble lors de la vente, sauf stipulation contraire des parties dans l'acte de vente."
+    },
+    {
+      "question": "Qu'est-ce qu'un meuble par anticipation ?",
+      "choix": [
+        "Un meuble acheté à crédit avant d'en avoir les moyens",
+        "Un bien encore immeuble par nature mais traité comme meuble parce qu'il est destiné à être séparé du sol prochainement",
+        "Un meuble qui sera livré à une date future",
+        "Un meuble qui anticipe les besoins futurs d'une personne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Par anticipation : on anticipe sur le futur — le bien va bientôt devenir meuble.",
+        "Des arbres sur pied vendus pour être abattus en sont un exemple.",
+        "Ils sont encore enracinés mais les parties les traitent comme des meubles."
+      ],
+      "explication": "Un meuble par anticipation est un bien encore immeuble par nature (il est encore enraciné ou fixé) mais que les parties traitent comme un meuble parce qu'il est destiné à être séparé du sol ou de l'immeuble. Des arbres sur pied vendus à un exploitant forestier pour abattage, des récoltes sur pied vendues à un acheteur qui va les couper : ces biens sont traités comme des meubles par anticipation, ce qui simplifie les formalités de la vente."
+    },
+    {
+      "question": "Vrai ou faux : une créance (un droit d'exiger une somme d'argent) est considérée comme un meuble par détermination de la loi.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Une créance est un bien incorporel.",
+        "Les biens incorporels que la loi qualifie de meubles sont des meubles par détermination de la loi.",
+        "Les créances, parts sociales et droits intellectuels sont dans cette catégorie."
+      ],
+      "explication": "Vrai. Une créance est un bien incorporel — on ne peut pas la toucher. La loi la qualifie de meuble par détermination de la loi. De même pour les parts sociales, les actions de société, les droits d'auteur patrimoniaux, les brevets. Ces droits incorporels sont juridiquement des meubles même si on ne peut pas les déplacer physiquement."
+    },
+    {
+      "question": "Pourquoi la vente d'un immeuble est-elle soumise à des formalités plus lourdes que la vente d'un meuble ?",
+      "choix": [
+        "Parce que les immeubles sont toujours plus chers que les meubles",
+        "Parce que la loi impose un acte notarié et une publicité foncière pour les immeubles afin de protéger les tiers et d'assurer la sécurité juridique des transactions immobilières",
+        "Parce que l'État veut contrôler qui possède des terrains",
+        "Parce que les immeubles ne peuvent pas être transportés chez le notaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les formalités protègent les tiers (acheteurs ultérieurs, créanciers) en les informant.",
+        "La publicité foncière rend la propriété opposable à tous.",
+        "Pour un meuble, la possession vaut titre — pas pour un immeuble."
+      ],
+      "explication": "La vente d'un immeuble est soumise à un acte notarié et à une publicité foncière parce que les enjeux sont importants et que les tiers doivent pouvoir connaître la propriété des immeubles. La publicité foncière rend la propriété opposable à tous : chacun peut vérifier qui est propriétaire d'un terrain. Pour les meubles, la règle est plus simple : en principe, la possession vaut titre — celui qui détient physiquement un meuble est présumé en être propriétaire."
+    },
+    {
+      "question": "Qu'est-ce que l'hypothèque et sur quel type de bien peut-elle porter ?",
+      "choix": [
+        "Une garantie portant sur n'importe quel bien, meuble ou immeuble",
+        "Une garantie réelle portant exclusivement sur des immeubles, permettant au créancier de faire vendre l'immeuble et de se payer en priorité en cas de non-remboursement",
+        "Une procédure de saisie des biens meubles d'un débiteur défaillant",
+        "Un contrat de location longue durée d'un immeuble"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'hypothèque est une garantie réelle.",
+        "Elle ne peut grever que des immeubles — pas des meubles.",
+        "C'est pour cela que les banques exigent une hypothèque sur une maison pour prêter."
+      ],
+      "explication": "L'hypothèque est une garantie réelle qui ne peut porter que sur des immeubles. Elle permet au créancier hypothécaire (la banque, par exemple) de faire saisir et vendre l'immeuble hypothéqué si le débiteur ne rembourse pas, et de se payer en priorité sur le prix de vente. Pour les biens meubles, d'autres garanties existent : le gage (avec dépossession) ou le nantissement (sans dépossession)."
+    },
+    {
+      "question": "Qu'est-ce qu'un bien hors du commerce juridique ?",
+      "choix": [
+        "Un bien qui ne peut pas être importé ou exporté",
+        "Un bien qui ne peut faire l'objet d'aucune transaction : ni vendu, ni donné, ni échangé",
+        "Un bien qui n'a aucune valeur commerciale sur le marché",
+        "Un bien appartenant à une société en liquidation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Hors du commerce = hors des transactions juridiques.",
+        "Il peut s'agir de choses communes (air, lumière) ou de biens du domaine public.",
+        "On ne peut pas vendre la place du marché de Diego-Suarez à un particulier."
+      ],
+      "explication": "Un bien hors du commerce juridique ne peut faire l'objet d'aucune transaction : il ne peut être ni vendu, ni donné, ni échangé, ni hypothéqué. Il existe deux grandes catégories : les choses communes (air, lumière du soleil, mer), qui ne peuvent appartenir à personne car elles sont par nature inappropriables ; et les biens du domaine public (routes, places publiques, cours d'eau navigables), qui appartiennent à la collectivité mais sont inaliénables et imprescriptibles tant qu'ils sont affectés à l'usage public."
+    },
+    {
+      "question": "Une route nationale à Madagascar peut-elle être vendue à un particulier ?",
+      "choix": [
+        "Oui, l'État peut vendre tout ce qu'il possède",
+        "Non, une route est un bien du domaine public, inaliénable et imprescriptible tant qu'elle est affectée à l'usage public",
+        "Oui, mais seulement avec l'accord du Parlement",
+        "Non, mais elle peut être louée à long terme"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une route est affectée à l'usage public.",
+        "Les biens du domaine public sont hors du commerce.",
+        "Inaliénable signifie 'qui ne peut pas être aliéné (vendu)'."
+      ],
+      "explication": "Non. Une route nationale est un bien du domaine public : elle est inaliénable tant qu'elle est affectée à l'usage public. Elle ne peut pas être vendue à un particulier. Si la route est déclassée — retirée du domaine public — elle intègre le domaine privé de l'État et pourrait alors être cédée. La distinction domaine public/domaine privé de l'État est fondamentale en droit foncier malgache."
+    },
+    {
+      "question": "Vrai ou faux : la totalité du patrimoine d'une personne peut être vendue de son vivant à une autre personne.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le patrimoine est lié à la personnalité juridique.",
+        "Céder son patrimoine en totalité reviendrait à céder sa personnalité.",
+        "On peut céder des éléments mais pas l'universalité elle-même."
+      ],
+      "explication": "Faux. La totalité du patrimoine ne peut pas être cédée entre vifs. On peut céder des éléments de son patrimoine — vendre une maison, donner une voiture, céder une créance — mais on ne peut pas céder l'universalité elle-même. Cela découle du lien entre patrimoine et personnalité : le patrimoine est une émanation de la personnalité, et la personnalité ne peut pas être cédée. La transmission du patrimoine entier n'est possible qu'au décès, à titre universel."
+    },
+    {
+      "question": "Parmi ces droits, lequel est un bien incorporel selon la doctrine juridique ?",
+      "choix": [
+        "Le droit à l'honneur d'une personne",
+        "Le droit de vote",
+        "L'usufruit portant sur un appartement",
+        "Le droit à la vie privée"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les droits de la personnalité sont extrapatrimoniaux — pas des biens.",
+        "L'usufruit est un droit réel portant sur une chose — évaluable en argent.",
+        "Il peut être cédé et saisi — ce qui le distingue des droits extrapatrimoniaux."
+      ],
+      "explication": "L'usufruit portant sur un appartement est un bien incorporel : c'est un droit réel portant sur une chose corporelle appartenant à autrui. Il a une valeur économique et peut être évalué en argent, transmis (sauf usufruit viager), saisi. Le droit à l'honneur, le droit de vote et le droit à la vie privée sont des droits extrapatrimoniaux — ils n'ont pas de valeur pécuniaire directe et ne sont pas des biens au sens juridique."
+    },
+    {
+      "question": "Quel est le droit de gage général des créanciers et sur quoi s'exerce-t-il ?",
+      "choix": [
+        "Le droit des créanciers de saisir uniquement les biens immeubles de leur débiteur",
+        "Le droit des créanciers de saisir l'ensemble de l'actif patrimonial de leur débiteur — biens présents et à venir — en cas de non-paiement",
+        "Le droit des créanciers d'obtenir une hypothèque automatique sur les biens de leur débiteur",
+        "Le droit des créanciers de percevoir des intérêts sur leur créance"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Gage général signifie que l'ensemble du patrimoine est engagé.",
+        "Il s'exerce sur tous les meubles et immeubles, présents et à venir.",
+        "C'est la contrepartie du crédit : en s'endettant, on engage son patrimoine."
+      ],
+      "explication": "Le droit de gage général est le droit qu'ont tous les créanciers d'un débiteur de saisir l'ensemble de son actif patrimonial — tous ses meubles et immeubles, présents et futurs — pour se payer en cas de non-remboursement. C'est la garantie fondamentale du crédit : tout le patrimoine du débiteur répond de ses dettes. C'est pour cela que les banques s'intéressent à la situation patrimoniale de leurs emprunteurs."
+    },
+    {
+      "question": "Rasoa décède en laissant une maison (40 millions), des économies (5 millions) et des dettes (60 millions). Son fils Tojo hérite. Que se passe-t-il s'il accepte purement et simplement la succession ?",
+      "choix": [
+        "Il reçoit la maison et les économies et ne paie que les dettes dans la limite de ce qu'il reçoit",
+        "Il reçoit la maison (40 millions) et les économies (5 millions) mais doit payer 60 millions de dettes — engageant son propre patrimoine pour couvrir le déficit",
+        "Il ne reçoit rien car les dettes dépassent les biens",
+        "Les dettes sont automatiquement annulées au décès de Rasoa"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acceptation pure et simple signifie qu'on accepte tout — actif et passif.",
+        "Les héritiers qui acceptent purement et simplement deviennent responsables des dettes sur leur propre patrimoine.",
+        "Tojo recevrait 45 millions mais devrait payer 60 millions."
+      ],
+      "explication": "En acceptant purement et simplement la succession, Tojo reçoit l'actif (maison + économies = 45 millions) mais prend en charge la totalité du passif (60 millions de dettes). Le déficit de 15 millions devra être payé sur son propre patrimoine personnel. C'est pour éviter cela que la loi offre l'option d'accepter à concurrence de l'actif net (on ne paie les dettes que dans la limite de ce qu'on reçoit) ou de renoncer à la succession."
+    },
+    {
+      "question": "Vrai ou faux : des zébus sont des biens meubles par nature.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les meubles par nature sont les biens qui peuvent se déplacer.",
+        "Les animaux peuvent se déplacer par eux-mêmes.",
+        "Ce n'est pas parce qu'ils ont une valeur importante qu'ils sont immeubles."
+      ],
+      "explication": "Vrai. Les zébus sont des biens meubles par nature : ce sont des animaux qui peuvent se déplacer par eux-mêmes. En droit, les animaux sont des biens meubles par nature, qu'ils soient domestiques ou sauvages. Peu importe leur valeur économique — un troupeau de zébus peut valoir des dizaines de millions d'ariary, il reste juridiquement un bien meuble."
+    },
+    {
+      "question": "Quelle est la règle applicable en matière de possession de biens meubles et pourquoi diffère-t-elle de celle applicable aux immeubles ?",
+      "choix": [
+        "Pour les meubles comme pour les immeubles, il faut un acte notarié pour prouver la propriété",
+        "Pour les meubles, la possession vaut titre : celui qui détient physiquement un meuble est présumé en être propriétaire. Pour les immeubles, la propriété résulte du titre (acte notarié + publicité foncière)",
+        "Pour les meubles, la propriété est prouvée par témoin ; pour les immeubles, par acte sous seing privé",
+        "Il n'y a aucune différence : les mêmes règles s'appliquent aux meubles et aux immeubles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La règle 'en fait de meubles, possession vaut titre' est un adage célèbre.",
+        "Pour les immeubles, la publicité foncière informe les tiers.",
+        "On ne peut pas 'publier' la propriété d'une voiture comme on le fait pour un terrain."
+      ],
+      "explication": "Pour les biens meubles, la possession vaut titre : celui qui détient physiquement un meuble est présumé en être le propriétaire. C'est l'adage classique 'en fait de meubles, possession vaut titre'. Cette règle est justifiée par la difficulté de créer un registre de propriété pour tous les meubles. Pour les immeubles, en revanche, la propriété résulte du titre (acte notarié) et de la publicité foncière, qui permet à tous de connaître le propriétaire d'un terrain ou d'un bâtiment."
+    },
+    {
+      "question": "Quelle est la principale raison économique qui a conduit à reconnaître la notion de patrimoine d'affectation en droit moderne ?",
+      "choix": [
+        "Permettre aux riches de cacher leur argent à l'administration fiscale",
+        "Permettre aux entrepreneurs de limiter leur risque en isolant leur patrimoine professionnel de leur patrimoine personnel, pour encourager l'initiative économique",
+        "Permettre de diviser une succession entre plusieurs héritiers",
+        "Permettre à l'État de distinguer ses biens personnels de ses biens publics"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'inconvénient du patrimoine unique : les dettes professionnelles engagent les biens personnels.",
+        "Cela décourage qui de prendre des risques ?",
+        "La solution : séparer les patrimoines."
+      ],
+      "explication": "La reconnaissance du patrimoine d'affectation vise à encourager l'initiative économique en permettant aux entrepreneurs de limiter leur risque. Sous le régime classique, les dettes professionnelles engagent le patrimoine personnel de l'entrepreneur — sa maison familiale, ses économies. Ce risque illimité décourage la création d'entreprises. En autorisant la création d'un patrimoine professionnel distinct du patrimoine personnel, le droit permet à l'entrepreneur de prendre des risques économiques sans mettre en péril sa vie personnelle."
+    },
+    {
+      "question": "Pourquoi dit-on que l'air que nous respirons n'est pas un bien au sens juridique ?",
+      "choix": [
+        "Parce qu'il n'a aucune utilité économique",
+        "Parce qu'il n'est pas susceptible d'appropriation : personne ne peut s'approprier l'air en excluant les autres de son usage",
+        "Parce qu'il ne peut pas être vendu sur un marché",
+        "Parce qu'il est trop abondant pour avoir une valeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un bien doit réunir deux conditions : valeur pécuniaire ET susceptibilité d'appropriation.",
+        "L'air est utile — même vital — mais peut-on l'approprier ?",
+        "Choses communes = utilisables par tous, appropriables par personne."
+      ],
+      "explication": "L'air ne remplit pas la condition d'appropriabilité requise pour être un bien au sens juridique. Même s'il a une utilité vitale, il ne peut pas être approprié : personne ne peut s'emparer de l'air en excluant les autres de son usage. C'est une chose commune — res communis — utilisable librement par tous mais appropriable par personne. Pour être un bien, un droit doit être à la fois évaluable en argent ET susceptible d'appropriation."
+    },
+    {
+      "question": "Synthèse : Lovatiana possède un appartement, un brevet sur une invention, une créance contre un client, et bénéficie du droit à l'honneur. Lesquels de ces éléments font partie de son patrimoine ?",
+      "choix": [
+        "Tous les quatre : tout ce qu'une personne a fait partie de son patrimoine",
+        "L'appartement, le brevet et la créance font partie du patrimoine (droits à valeur pécuniaire) ; le droit à l'honneur n'en fait pas partie (droit extrapatrimonial sans valeur pécuniaire directe)",
+        "Seul l'appartement fait partie du patrimoine car c'est le seul bien corporel",
+        "Seuls l'appartement et la créance font partie du patrimoine"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Seuls les droits appréciables en argent entrent dans le patrimoine.",
+        "Le droit à l'honneur est extrapatrimonial — incessible, insaisissable, imprescriptible.",
+        "Un brevet et une créance ont une valeur économique : ils entrent dans le patrimoine."
+      ],
+      "explication": "L'appartement (droit de propriété immobilière, bien corporel), le brevet (droit intellectuel, bien incorporel) et la créance contre le client (droit personnel, bien incorporel) font tous partie du patrimoine de Lovatiana : ils ont une valeur pécuniaire, sont évaluables en argent et susceptibles d'appropriation. Le droit à l'honneur est un droit extrapatrimonial : attaché à sa personnalité, sans valeur pécuniaire directe, incessible et insaisissable. Il ne figure pas dans son patrimoine."
+    },
+    {
+      "question": "Vrai ou faux : les parts sociales détenues dans une société sont considérées comme des biens meubles incorporels.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les parts sociales n'ont pas d'existence matérielle.",
+        "La loi les qualifie de meubles par détermination de la loi.",
+        "Elles ont une valeur économique et entrent dans le patrimoine."
+      ],
+      "explication": "Vrai. Les parts sociales (ou actions) dans une société sont des biens meubles incorporels. Elles n'ont pas d'existence matérielle — on ne peut pas les toucher. La loi les qualifie de meubles par détermination de la loi. Elles ont une valeur économique (le cours d'une action, la valeur d'une part sociale) et entrent dans le patrimoine de leur titulaire comme éléments d'actif. Elles peuvent être vendues, données, saisies et transmises aux héritiers."
+    },
+    {
+      "question": "Comment s'appelle le principe selon lequel les biens du domaine public ne peuvent pas être vendus tant qu'ils sont affectés à l'usage public ?",
+      "choix": [
+        "Le principe de prescriptibilité",
+        "Le principe d'aliénabilité",
+        "Le principe d'inaliénabilité du domaine public",
+        "Le principe d'universalité juridique"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Inaliénable = qui ne peut pas être aliéné (vendu, cédé).",
+        "Le domaine public est hors du commerce tant qu'il est affecté à l'usage public.",
+        "Pour pouvoir vendre un bien public, il faut d'abord le déclasser."
+      ],
+      "explication": "Le principe d'inaliénabilité du domaine public signifie que les biens du domaine public ne peuvent pas être vendus, cédés ou hypothéqués tant qu'ils sont affectés à l'usage public ou à un service public. Ce principe protège les biens collectifs — routes, places, cours d'eau navigables — contre toute appropriation privée. Pour qu'un bien du domaine public puisse être cédé, il doit d'abord être déclassé — retiré du domaine public — pour intégrer le domaine privé de la collectivité."
+    },
+    {
+      "question": "Quel est le lien entre les notions de bien, de patrimoine et de droit des biens ?",
+      "choix": [
+        "Ce sont trois notions totalement indépendantes en droit civil",
+        "Le droit des biens définit le contenu du patrimoine : les biens constituent l'actif du patrimoine, et le droit des biens fixe les règles applicables à ces biens",
+        "Le droit des biens s'applique uniquement aux immeubles ; le patrimoine ne contient que des meubles",
+        "Les biens et le patrimoine sont synonymes : ce sont deux mots pour désigner la même réalité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les biens entrent dans le patrimoine comme éléments d'actif.",
+        "Le droit des biens définit les règles relatives à ces éléments d'actif.",
+        "Sans biens, le patrimoine serait vide."
+      ],
+      "explication": "Les trois notions sont profondément liées. Le patrimoine est l'universalité juridique regroupant droits et obligations d'une personne. Les biens constituent l'actif de ce patrimoine : ce sont les droits à valeur pécuniaire dont est titulaire la personne. Le droit des biens est la branche du droit civil qui fixe les règles applicables à ces biens : comment on les acquiert, comment on les protège, comment on en dispose. Le droit des biens est donc le droit qui définit le contenu de l'actif patrimonial."
+    },
+    {
+      "question": "Vrai ou faux : un fonds de commerce (clientèle, nom commercial, matériel) est un bien incorporel.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le fonds de commerce comprend des éléments corporels (matériel) et incorporels (clientèle, nom).",
+        "Mais en tant qu'entité juridique, le fonds de commerce lui-même est qualifié de bien incorporel.",
+        "Il peut être cédé ou mis en gage — c'est bien un bien patrimonial."
+      ],
+      "explication": "Vrai. Le fonds de commerce est qualifié de bien incorporel, même s'il comprend des éléments corporels (le matériel, les marchandises). En tant qu'entité juridique autonome, le fonds de commerce — la clientèle, le nom commercial, le droit au bail, les licences — est un bien incorporel. Il entre dans le patrimoine du commerçant et peut être vendu (cession de fonds de commerce), donné en garantie (nantissement de fonds de commerce), ou transmis aux héritiers."
+    },
+    {
+      "question": "Dans quelle situation un bien du domaine public peut-il réintégrer le commerce juridique ?",
+      "choix": [
+        "Quand sa valeur économique dépasse un certain seuil",
+        "Jamais : les biens du domaine public sont définitivement hors du commerce",
+        "Quand il est déclassé — retiré du domaine public — pour intégrer le domaine privé de la collectivité",
+        "Quand l'État décide de le vendre aux enchères"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Hors du commerce tant qu'il est affecté à l'usage public.",
+        "Si l'affectation disparaît, la justification de l'inaliénabilité disparaît aussi.",
+        "Déclasser = retirer de la catégorie 'domaine public'."
+      ],
+      "explication": "Un bien du domaine public peut réintégrer le commerce juridique quand il est déclassé : retiré du domaine public par une décision de l'autorité compétente, pour intégrer le domaine privé de la collectivité. Par exemple, une route qui est remplacée par un nouveau tracé peut être déclassée et ensuite vendue à des particuliers. L'inaliénabilité est liée à l'affectation à l'usage public : quand cette affectation cesse, l'inaliénabilité cesse aussi."
+    },
+    {
+      "question": "Quelle est la différence entre la théorie classique du patrimoine et la théorie du patrimoine d'affectation ?",
+      "choix": [
+        "La théorie classique admet plusieurs patrimoines ; la théorie d'affectation n'en admet qu'un seul",
+        "La théorie classique lie le patrimoine à la personnalité (une personne, un patrimoine) ; la théorie d'affectation lie le patrimoine à un but (plusieurs patrimoines possibles si plusieurs buts distincts)",
+        "La théorie classique s'applique aux personnes morales ; la théorie d'affectation aux personnes physiques",
+        "Il n'y a aucune différence : les deux théories aboutissent aux mêmes résultats"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La théorie classique : patrimoine = personnalité. Une personne, un patrimoine.",
+        "La théorie d'affectation : patrimoine = but. Un but distinct = un patrimoine distinct.",
+        "La seconde permet à une personne d'avoir plusieurs patrimoines selon ses activités."
+      ],
+      "explication": "La théorie classique d'Aubry et Rau lie le patrimoine à la personnalité juridique : une personne a un et un seul patrimoine indivisible. La théorie du patrimoine d'affectation lie le patrimoine non à la personne mais à un but particulier : une personne peut avoir plusieurs patrimoines si elle poursuit plusieurs buts distincts (personnel, professionnel). Cette seconde théorie permet de protéger le patrimoine personnel d'un entrepreneur contre ses créanciers professionnels en cloisonnant les deux sphères."
+    },
+    {
+      "question": "Un nouveau-né a-t-il un patrimoine dès sa naissance ?",
+      "choix": [
+        "Non, il faut attendre qu'il possède au moins un bien pour avoir un patrimoine",
+        "Oui, dès la naissance il acquiert la personnalité juridique et donc un patrimoine, même vide",
+        "Non, le patrimoine s'acquiert à la majorité",
+        "Oui, mais seulement s'il reçoit une donation ou un héritage à sa naissance"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le patrimoine est lié à la personnalité juridique.",
+        "La personnalité juridique s'acquiert dès la naissance.",
+        "Un patrimoine vide est quand même un patrimoine."
+      ],
+      "explication": "Oui. Dès sa naissance, un être humain acquiert la personnalité juridique — et avec elle, un patrimoine. Ce patrimoine est peut-être totalement vide mais il existe comme enveloppe juridique prête à être remplie. C'est l'aptitude à avoir des droits et des obligations qui constitue le patrimoine, pas la présence effective de ces droits et obligations."
+    },
+    {
+      "question": "Une association non déclarée (groupe informel) peut-elle avoir un patrimoine ?",
+      "choix": [
+        "Oui, n'importe quel groupe de personnes peut avoir un patrimoine",
+        "Non, seules les personnes — physiques ou morales — peuvent avoir un patrimoine. Un groupe informel sans personnalité juridique ne le peut pas",
+        "Oui, si le groupe possède des biens en commun",
+        "Cela dépend du nombre de membres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le patrimoine est lié à la personnalité juridique.",
+        "Un groupe informel a-t-il une personnalité juridique ?",
+        "Seule une personne — physique ou morale — peut avoir un patrimoine."
+      ],
+      "explication": "Non. Le patrimoine est une émanation de la personnalité juridique : seule une personne — physique ou morale — peut en avoir un. Un groupe informel sans personnalité juridique reconnue ne peut pas être titulaire d'un patrimoine. C'est l'une des raisons pour lesquelles les associations doivent être déclarées et acquérir ainsi la personnalité morale pour pouvoir détenir des biens et contracter."
+    },
+    {
+      "question": "Rabe possède une maison (50 millions), des économies (10 millions), doit 20 millions à la banque et 5 millions à un fournisseur. Quel est son patrimoine net ?",
+      "choix": [
+        "50 millions (valeur de la maison uniquement)",
+        "60 millions (actif total)",
+        "35 millions (actif 60 millions moins passif 25 millions)",
+        "25 millions (total des dettes)"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Patrimoine net = actif total moins passif total.",
+        "Actif = maison + économies. Passif = dette banque + dette fournisseur.",
+        "Actif : 50 + 10 = 60 millions. Passif : 20 + 5 = 25 millions."
+      ],
+      "explication": "Le patrimoine net de Rabe est de 35 millions d'ariary. Actif total : maison (50) + économies (10) = 60 millions. Passif total : dette bancaire (20) + dette fournisseur (5) = 25 millions. Patrimoine net = 60 - 25 = 35 millions. C'est ce qu'il resterait à Rabe s'il liquidait tout son actif pour payer toutes ses dettes, et ce que ses héritiers recevraient nets à son décès."
+    },
+    {
+      "question": "Vrai ou faux : créer une société (SARL) permet à un entrepreneur de séparer son patrimoine personnel de son patrimoine professionnel.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Une société est une personne morale distincte.",
+        "Une personne morale a sa propre personnalité juridique et donc son propre patrimoine.",
+        "Les dettes de la société n'engagent pas en principe le patrimoine personnel de l'associé."
+      ],
+      "explication": "Vrai. Une société est une personne morale dotée de sa propre personnalité juridique et donc de son propre patrimoine distinct de celui de ses associés. En principe, les dettes de la société n'engagent que son propre patrimoine — pas le patrimoine personnel des associés. C'est le principal avantage de la création d'une société : limiter le risque personnel de l'entrepreneur. Attention toutefois : cette protection peut être remise en cause si l'associé a fourni des garanties personnelles."
+    },
+    {
+      "question": "Qu'est-ce que la res nullius et comment se distingue-t-elle des choses communes hors du commerce ?",
+      "choix": [
+        "La res nullius est un bien du domaine public ; les choses communes appartiennent à des particuliers",
+        "La res nullius est une chose sans maître qui peut être appropriée par occupation ; les choses communes ne peuvent jamais être appropriées par personne",
+        "Ce sont deux termes synonymes désignant les mêmes réalités",
+        "La res nullius est un bien meuble ; les choses communes sont toujours des immeubles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Res nullius signifie en latin 'chose de personne' — sans maître.",
+        "Une chose sans maître peut-elle être appropriée par quelqu'un ?",
+        "L'air ou la lumière du soleil peuvent-ils être appropriés par un seul individu ?"
+      ],
+      "explication": "La res nullius est une chose sans maître qui peut être appropriée par occupation — le premier qui s'en empare en devient propriétaire : un sanglier dans une forêt, une noix de Saint-Jacques en pleine mer. Les choses communes (air, lumière, mer en tant que tels) ne peuvent quant à elles jamais être appropriées — leur nature même les rend inappropriables. La res nullius peut donc entrer dans le commerce une fois appropriée ; les choses communes ne le peuvent pas."
+    },
+    {
+      "question": "Un brevet d'invention fait-il partie du patrimoine de son titulaire ? De quelle catégorie de bien s'agit-il ?",
+      "choix": [
+        "Non, un brevet est un droit extrapatrimonial attaché à la personnalité de l'inventeur",
+        "Oui, un brevet est un bien incorporel faisant partie de l'actif patrimonial — il peut être vendu, licencié, transmis aux héritiers",
+        "Oui, mais uniquement la dimension morale du brevet",
+        "Non, les droits intellectuels ne font jamais partie du patrimoine"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un brevet peut être vendu à une entreprise — caractère des droits patrimoniaux.",
+        "Les droits intellectuels ont une dimension patrimoniale et une dimension extrapatrimoniale.",
+        "La dimension patrimoniale du brevet : l'exploiter économiquement, le céder, le licencier."
+      ],
+      "explication": "Oui. Un brevet est un droit intellectuel relevant de la propriété industrielle. Sa dimension patrimoniale — le droit d'exploiter économiquement l'invention, de le vendre ou de le licencier — fait pleinement partie de l'actif du patrimoine. Il est cessible, transmissible aux héritiers et saisissable par les créanciers. C'est un bien incorporel : sans existence matérielle mais avec une valeur économique souvent considérable."
+    },
+    {
+      "question": "Vrai ou faux : les règles de saisie sont identiques pour un immeuble et pour un meuble.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La distinction meuble/immeuble a des conséquences importantes sur la procédure de saisie.",
+        "La saisie immobilière est une procédure plus lourde et plus protectrice.",
+        "La saisie mobilière est plus rapide et moins formaliste."
+      ],
+      "explication": "Faux. Les règles de saisie diffèrent selon la nature du bien. La saisie immobilière — portant sur une maison, un terrain — est une procédure longue et encadrée, avec de nombreuses formalités protégeant le débiteur. La saisie mobilière — portant sur une voiture, des meubles, des comptes bancaires — est une procédure plus simple et plus rapide. Cette différence est justifiée par l'importance généralement plus grande des immeubles dans le patrimoine d'une personne."
+    },
+    {
+      "question": "Vrai ou faux : les arbres enracinés dans un terrain sont des immeubles, mais les fruits récoltés de ces arbres deviennent des meubles.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les arbres enracinés font partie intégrante du sol — immeubles par nature.",
+        "Une fois séparés du sol, les fruits n'y sont plus attachés.",
+        "La coupure de la récolte transforme-t-elle sa qualification juridique ?"
+      ],
+      "explication": "Vrai. Les arbres enracinés sont des immeubles par nature : incorporés au sol, ils ne peuvent pas être déplacés sans être détruits. Mais une fois que les fruits sont cueillis — séparés du sol —, ils deviennent des biens meubles par nature. C'est la séparation physique du sol qui opère ce changement de qualification. Cette règle a des conséquences pratiques pour les ventes de récoltes sur pied (meubles par anticipation) ou après récolte (meubles par nature)."
+    },
+    {
+      "question": "Pourquoi dit-on que le patrimoine est une notion dynamique plutôt que statique ?",
+      "choix": [
+        "Parce que le patrimoine peut être librement transféré d'une personne à une autre",
+        "Parce que son contenu évolue constamment au fil des acquisitions, cessions, dettes et remboursements — seule l'enveloppe juridique reste attachée à la personne",
+        "Parce que la valeur des biens immobiliers change chaque année",
+        "Parce que le droit du patrimoine est fréquemment réformé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "On peut céder chaque élément du patrimoine, mais pas le patrimoine entier.",
+        "Les biens entrent et sortent du patrimoine constamment.",
+        "C'est l'enveloppe — la capacité à avoir des droits et obligations — qui est permanente."
+      ],
+      "explication": "Le patrimoine est dynamique parce que son contenu évolue en permanence : on achète des biens qui entrent à l'actif, on vend des biens qui en sortent, on contracte des dettes qui entrent au passif, on les rembourse et elles en sortent. Ce qui est permanent et attaché à la personnalité, c'est l'enveloppe — la capacité juridique à être titulaire de droits et d'obligations. Le contenant est fixe ; le contenu est en perpétuel mouvement."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Mahery est artisan menuisier à Diego-Suarez. Il exerce en entrepreneur individuel, sans créer de société. Il possède : une maison familiale valant 80 millions d'ariary, des économies de 10 millions, un atelier et du matériel valant 20 millions, et une camionnette de travail valant 5 millions. À la suite d'une mauvaise commande, il accumule des dettes professionnelles envers ses fournisseurs pour un total de 40 millions d'ariary. Un fournisseur impayé souhaite engager une procédure de saisie. Identifiez le principe juridique applicable, les biens sur lesquels peut porter la saisie, et proposez une solution que Mahery aurait pu adopter pour se protéger.",
+      "choix": [
+        "Seul l'atelier et le matériel professionnel peuvent être saisis ; la maison familiale est protégée automatiquement",
+        "En vertu du principe d'unité du patrimoine et du droit de gage général des créanciers, l'ensemble de l'actif de Mahery — maison, économies, atelier, matériel, camionnette — peut être saisi. Pour se protéger, il aurait pu créer une société (SARL) séparant son patrimoine personnel du patrimoine professionnel, ou bénéficier d'un régime d'entrepreneur à responsabilité limitée si la loi malgache le prévoit",
+        "Seules les dettes supérieures à 50 millions engagent le patrimoine personnel",
+        "Le fournisseur ne peut saisir que les biens achetés avec l'argent issu de son commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Mahery est entrepreneur individuel — il n'a qu'un seul patrimoine regroupant tout.",
+        "Le droit de gage général des créanciers porte sur l'ensemble de l'actif présent et futur.",
+        "Quelle structure juridique aurait permis de séparer son patrimoine professionnel de son patrimoine personnel ?"
+      ],
+      "explication": "Analyse complète. Le principe applicable : Mahery exerce en entrepreneur individuel. Selon le principe classique de l'unité du patrimoine, il n'a qu'un seul patrimoine regroupant indistinctement son actif personnel et son actif professionnel. Son actif total est : maison (80) + économies (10) + atelier/matériel (20) + camionnette (5) = 115 millions d'ariary. Son passif professionnel est de 40 millions. Les biens saisissables : en vertu du droit de gage général des créanciers, le fournisseur impayé peut saisir n'importe quel élément de l'actif de Mahery — y compris sa maison familiale, ses économies personnelles, sa camionnette. Il n'y a pas de séparation entre biens personnels et biens professionnels dans un patrimoine unique. La saisie immobilière sur la maison est possible, la saisie mobilière sur la camionnette, le matériel et les économies aussi. La classification des biens : la maison et l'atelier sont des immeubles par nature, soumis à la saisie immobilière (procédure lourde). La camionnette, le matériel et les économies sont des meubles, soumis à la saisie mobilière. La solution préventive : Mahery aurait pu créer une société à responsabilité limitée (SARL ou EURL). La société est une personne morale distincte, dotée de sa propre personnalité juridique et donc de son propre patrimoine. Les dettes professionnelles engageraient le patrimoine de la société, pas celui de Mahery personnellement — sa maison familiale serait protégée. Alternativement, si la législation malgache le prévoit, le statut d'entrepreneur individuel à responsabilité limitée (EIRL) lui permettrait de constituer un patrimoine d'affectation professionnel séparé de son patrimoine personnel."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Vonjy et Soa sont époux. Vonjy décède laissant : une maison familiale valant 60 millions d'ariary, des économies de 15 millions, un fonds de commerce (épicerie) estimé à 20 millions, et des dettes envers la banque de 50 millions et envers des fournisseurs de 30 millions (total passif : 80 millions). Vonjy avait désigné comme héritiers sa femme Soa et ses deux enfants adultes Nivo et Tojo. Expliquez le mécanisme de transmission du patrimoine, identifiez la situation successorale et conseillez les héritiers sur les options qui s'offrent à eux.",
+      "choix": [
+        "Les héritiers reçoivent uniquement la maison car c'est le bien le plus important ; les dettes disparaissent avec le décès",
+        "Le patrimoine se transmet à titre universel : actif (95 millions) et passif (80 millions) sont transmis aux héritiers. L'actif net est de 15 millions. Les héritiers peuvent accepter purement et simplement, accepter à concurrence de l'actif net ou renoncer. L'acceptation pure et simple est avantageuse ici car l'actif dépasse le passif",
+        "Les dettes sont réparties entre les créanciers sans que les héritiers aient à intervenir",
+        "Seuls les enfants héritent ; le conjoint survivant n'a aucun droit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La transmission est 'à titre universel' : actif ET passif passent aux héritiers.",
+        "Calculez d'abord l'actif net : actif total moins passif total.",
+        "Les héritiers ont trois options face à une succession : accepter purement, accepter à concurrence de l'actif net, ou renoncer."
+      ],
+      "explication": "Analyse complète. Le mécanisme de transmission : au décès de Vonjy, son patrimoine se transmet à titre universel à ses héritiers — Soa, Nivo et Tojo. Universelle signifie que tout passe : l'actif ET le passif. Les héritiers deviennent titulaires de l'actif et responsables du passif du défunt. Identification de l'actif et du passif : actif total = maison (60) + économies (15) + fonds de commerce (20) = 95 millions d'ariary. Passif total = dettes bancaires (50) + dettes fournisseurs (30) = 80 millions. Actif net = 95 - 80 = 15 millions d'ariary. Classification des biens : la maison est un immeuble par nature (bien corporel), le fonds de commerce est un bien incorporel (clientèle, droit au bail, matériel commercial considéré comme un tout), les économies sont des biens meubles incorporels (créances sur la banque). La situation successorale : l'actif (95 millions) est supérieur au passif (80 millions). La succession est bénéficiaire : les héritiers reçoivent 15 millions nets. Les trois options des héritiers : (1) Acceptation pure et simple — les héritiers acceptent tout, actif et passif. Ici avantageuse car l'actif est supérieur au passif : ils reçoivent 15 millions nets. (2) Acceptation à concurrence de l'actif net — les héritiers paient les dettes dans la limite de l'actif reçu. Un inventaire est dressé. Cette option est prudente si on doute de l'exactitude du passif. (3) Renonciation — les héritiers renoncent à la succession et ne reçoivent rien mais ne doivent rien. Ici, la renonciation serait défavorable car la succession est bénéficiaire. Conseil aux héritiers : dans cette situation, l'actif net étant positif (15 millions), l'acceptation pure et simple est raisonnable. Par prudence, une acceptation à concurrence de l'actif net permettrait néanmoins de se protéger si des créances inconnues venaient à surgir ultérieurement."
+    }
+  ]
+    }
