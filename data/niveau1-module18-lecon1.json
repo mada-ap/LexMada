@@ -1,0 +1,925 @@
+{
+  "titre": "L'extinction des obligations : paiement, prescription, compensation",
+  "module": "Module 18 — L'extinction des obligations : paiement, prescription, compensation",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que l'extinction d'une obligation ?",
+      "texte": "Une obligation n'est pas faite pour durer éternellement : elle naît pour être exécutée, puis elle disparaît. L'extinction de l'obligation désigne précisément ce moment où le lien de droit unissant le créancier et le débiteur cesse d'exister, libérant ce dernier de toute contrainte. Le mode d'extinction le plus naturel et le plus fréquent est l'exécution volontaire, c'est-à-dire le paiement : le débiteur accomplit ce qu'il devait, et l'obligation s'éteint normalement, par sa propre réalisation. Mais il existe d'autres voies, plus indirectes, par lesquelles une obligation peut disparaître sans que le débiteur n'ait nécessairement exécuté la prestation promise : la prescription, qui sanctionne l'inaction prolongée du créancier ; la compensation, qui éteint deux dettes réciproques l'une par l'autre ; mais aussi la novation, la remise de dette, ou la confusion. Ce module se concentre sur les trois mécanismes les plus structurants de cette matière : le paiement, la prescription et la compensation, tout en situant brièvement les autres modes pour donner une vue d'ensemble cohérente.",
+      "definition": "Extinction de l'obligation : disparition du lien de droit unissant le créancier et le débiteur, qui libère ce dernier de toute contrainte. Elle peut résulter de l'exécution volontaire de la prestation due (paiement), de l'écoulement du temps (prescription), de la rencontre de deux dettes réciproques (compensation), ou d'autres mécanismes tels que la novation, la remise de dette ou la confusion."
+    },
+    {
+      "titre": "Le paiement : l'exécution normale, mode d'extinction par excellence",
+      "texte": "Le paiement est le mode d'extinction le plus simple à comprendre, mais aussi le plus important en pratique : il consiste pour le débiteur à accomplir exactement la prestation qu'il devait, qu'elle consiste à donner une somme d'argent, à livrer une chose, ou à accomplir un service. Le mot « paiement » ne doit pas être compris dans son sens restreint du langage courant, qui l'associe uniquement au versement d'argent : juridiquement, on parle de paiement chaque fois qu'une obligation, quelle qu'en soit la nature, est exécutée conformément à son objet. Payer un loyer, livrer une marchandise vendue, réparer un dommage causé : dans tous ces cas, le débiteur « paie » au sens juridique du terme. Le paiement est qualifié de mode d'extinction normal, car il réalise exactement ce que les parties avaient prévu, contrairement aux autres modes d'extinction qui mettent fin à l'obligation sans que la prestation promise n'ait été intégralement exécutée telle qu'elle.",
+      "definition": "Paiement : exécution, par le débiteur, de la prestation exacte qu'il devait au créancier, quelle qu'en soit la nature (somme d'argent, chose, service, abstention). Il constitue le mode d'extinction normal des obligations, par opposition aux modes dits « anormaux » qui éteignent l'obligation sans exécution conforme à son objet initial."
+    },
+    {
+      "titre": "Qui doit payer et qui peut recevoir le paiement ?",
+      "texte": "En principe, le paiement peut être effectué par le débiteur lui-même, mais aussi par toute personne ayant un intérêt à le faire à sa place : un héritier, une caution, ou même un tiers totalement étranger à la dette, agissant par exemple par générosité. Ce qui importe au créancier, en effet, c'est d'être payé, peu important la personne qui s'exécute, sauf lorsque l'obligation revêt un caractère strictement personnel exigeant l'intervention du débiteur lui-même, comme dans certains contrats de service fondés sur des qualités particulières. Côté créancier, le paiement doit en principe être fait à lui-même ou à son représentant dûment habilité (mandataire, tuteur, ou toute personne légalement désignée pour recevoir en son nom). Un paiement effectué entre les mains d'une personne non qualifiée pour le recevoir ne libère pas, en principe, le débiteur : celui-ci s'expose à devoir payer une seconde fois au véritable créancier, sauf si ce dernier ratifie le paiement après coup, ou si le paiement a réellement profité au créancier (par exemple si la somme lui a ensuite été remise par la personne qui l'avait reçue à tort).",
+      "definition": "Le paiement peut être effectué par le débiteur ou par toute personne ayant un intérêt à payer à sa place, sauf obligation strictement personnelle. Il doit en principe être reçu par le créancier ou son représentant habilité : un paiement fait à une personne non qualifiée ne libère pas le débiteur, sauf ratification ultérieure par le créancier ou profit effectivement tiré par celui-ci.",
+      "exemple": "Un fils paie spontanément la dette de loyer de sa mère âgée, sans y être obligé par aucun contrat : ce paiement est valable et libère la mère envers le bailleur, car le bailleur n'a aucun intérêt légitime à exiger que ce soit précisément la débitrice qui exécute elle-même cette obligation de somme d'argent."
+    },
+    {
+      "titre": "L'objet et les modalités du paiement",
+      "texte": "Le paiement doit en principe porter sur l'intégralité de ce qui est dû : le créancier ne peut être contraint d'accepter un paiement partiel, ni une prestation différente de celle convenue, sauf s'il y consent librement. Cette règle protège le créancier contre des paiements fractionnés qui retarderaient indéfiniment la satisfaction complète de sa créance. Lorsqu'un même débiteur doit plusieurs dettes à un même créancier et qu'il effectue un paiement insuffisant pour les couvrir toutes, des règles d'imputation déterminent quelle dette est éteinte en priorité : le débiteur peut généralement indiquer lui-même quelle dette il entend acquitter au moment du paiement ; à défaut de précision, des règles légales ou conventionnelles désignent l'ordre d'imputation, souvent en commençant par la dette la plus ancienne ou la plus onéreuse pour le débiteur. Le lieu et la date du paiement sont également déterminés par le contrat ou, à défaut, par la loi ou les usages : un paiement effectué en retard, ou au mauvais endroit, peut engager la responsabilité du débiteur même s'il a fini par s'exécuter.",
+      "definition": "Le paiement doit en principe porter sur l'intégralité de la dette ; le créancier ne peut être contraint d'accepter un paiement partiel ou une prestation différente de celle convenue, sauf accord. Lorsque plusieurs dettes existent entre les mêmes parties, des règles d'imputation déterminent l'ordre dans lequel un paiement insuffisant les éteint."
+    },
+    {
+      "titre": "La preuve du paiement et la présomption libératoire",
+      "texte": "Si le créancier prouve l'existence de l'obligation, il revient en principe au débiteur de démontrer qu'il s'en est libéré, notamment par le paiement : c'est à lui qu'il appartient de justifier le fait ou l'acte ayant produit l'extinction de son obligation, faute de quoi il reste tenu de l'exécuter. Cette répartition de la charge de la preuve, retenue par la théorie générale des obligations malgache, est logique : il est plus simple pour le débiteur, qui a payé, de conserver une preuve de ce paiement (reçu, virement, quittance) que pour le créancier de prouver indéfiniment l'absence de tout règlement. Pour faciliter cette preuve, la loi attache une présomption libératoire à la remise du titre constatant la créance : lorsque le créancier remet spontanément au débiteur l'écrit qui établissait sa dette, cette remise fait présumer que la dette a été payée, sauf preuve contraire. Cette présomption, qui figure spécifiquement dans le droit malgache des obligations, illustre bien l'idée qu'un créancier rationnel ne se dessaisit pas gratuitement de la preuve de sa créance.",
+      "definition": "La charge de la preuve du paiement pèse sur le débiteur qui prétend être libéré de son obligation : il doit justifier le fait ou l'acte ayant produit l'extinction. La loi attache une présomption libératoire à la remise volontaire, par le créancier au débiteur, du titre constatant la créance : cette remise fait présumer le paiement, sauf preuve contraire."
+    },
+    {
+      "titre": "Le refus d'exécution et les moyens de contrainte du créancier",
+      "texte": "Lorsque le débiteur n'exécute pas son obligation, le créancier n'est pas démuni : il peut le contraindre par toutes les voies de droit, c'est-à-dire engager les procédures nécessaires pour obtenir l'exécution forcée de la prestation due. Cette exécution forcée suppose, en principe, l'obtention préalable d'une décision de justice condamnant le débiteur, sauf lorsque l'obligation est constatée par un acte authentique revêtu de la formule exécutoire : dans ce cas particulier, propre notamment aux actes notariés, l'exécution forcée peut être poursuivie directement, sans qu'il soit nécessaire d'attendre un jugement. Le droit malgache des obligations prévoit toutefois un tempérament en faveur du débiteur en difficulté : les juges peuvent lui accorder, à titre exceptionnel, des délais de grâce qui ne peuvent dépasser un an au total ; en cas d'urgence, cette faculté appartient au juge des référés, qui peut statuer rapidement sans attendre l'issue d'un procès complet.",
+      "definition": "Lorsque le débiteur n'exécute pas son obligation, le créancier peut le contraindre par toutes les voies de droit. L'exécution forcée suppose en principe une décision de justice préalable, sauf si l'obligation est constatée par un acte authentique revêtu de la formule exécutoire. Les juges peuvent toutefois accorder au débiteur des délais de grâce, dans la limite d'un an au total, le juge des référés pouvant intervenir en cas d'urgence.",
+      "exemple": "Un débiteur ayant signé un acte notarié de reconnaissance de dette ne paie pas à l'échéance. Le créancier peut, sans attendre un jugement, faire procéder à une saisie sur ses biens grâce à la formule exécutoire attachée à cet acte authentique. Si le débiteur traverse une passe financière difficile et le justifie, le juge pourra néanmoins lui accorder un délai supplémentaire, dans la limite d'un an, avant que l'exécution forcée ne soit poursuivie."
+    },
+    {
+      "titre": "Les modes « anormaux » de paiement : dation en paiement et subrogation",
+      "texte": "À côté du paiement classique existent des variantes que la doctrine qualifie parfois de modes « anormaux » de paiement, car ils éteignent la dette sans que la prestation exécutée corresponde exactement, ou seulement, à ce qui avait été initialement promis. La dation en paiement se produit lorsque le créancier accepte, à la place de la prestation due, une prestation différente : par exemple, un débiteur incapable de rembourser une somme d'argent propose de transférer la propriété d'un bien en remplacement, et le créancier y consent. Cette substitution éteint la dette comme l'aurait fait un paiement ordinaire, à la condition que le créancier l'accepte librement, puisque nul ne peut être contraint de recevoir autre chose que ce qui lui est dû. La subrogation, quant à elle, se produit lorsqu'un tiers paie la dette d'autrui et se voit conférer, en contrepartie, les droits que le créancier originaire détenait contre le débiteur : le tiers payeur devient ainsi un nouveau créancier, investi des mêmes garanties et privilèges que celui qu'il a remplacé. La dette du débiteur initial n'est donc pas éteinte à son égard ; elle change seulement de titulaire.",
+      "definition": "Dation en paiement : substitution, avec l'accord du créancier, d'une prestation différente à celle initialement due, qui éteint la dette comme un paiement ordinaire. Subrogation : mécanisme par lequel un tiers qui paie la dette d'autrui se voit transférer les droits et garanties du créancier originaire contre le débiteur, sans que la dette de ce dernier ne soit éteinte à son égard."
+    },
+    {
+      "titre": "La compensation : éteindre deux dettes réciproques",
+      "texte": "La compensation est un mécanisme d'une grande utilité pratique : lorsque deux personnes se trouvent être, l'une envers l'autre, à la fois créancière et débitrice, la loi permet d'éteindre leurs deux dettes réciproques sans qu'aucun mouvement de fonds ou de biens ne soit nécessaire. On parle souvent de la compensation comme d'un double paiement simplifié, ou d'un paiement par équivalence : plutôt que d'exiger que chacune des deux parties s'acquitte effectivement de sa propre dette envers l'autre, ce qui occasionnerait deux paiements croisés et inutiles, la loi efface directement les deux créances l'une par l'autre, jusqu'à la limite du montant le plus faible. Ce mécanisme évite les complications, les frais, et surtout le risque que l'une des parties, après avoir reçu paiement de l'autre, se révèle ensuite insolvable et ne puisse plus exécuter sa propre dette : la compensation joue ainsi un rôle de garantie, en assurant à chacun qu'il ne paiera jamais sans recevoir, de manière simultanée, l'extinction de ce qui lui était dû.",
+      "definition": "Compensation : extinction simultanée de deux dettes réciproques existant entre les deux mêmes personnes, jusqu'à concurrence du montant le plus faible, sans qu'aucun paiement effectif ne soit nécessaire. Elle joue un rôle de garantie en évitant qu'une partie ne paie sa dette sans recevoir, en retour, l'exécution de celle dont elle est créancière.",
+      "exemple": "Un fournisseur de matériaux de construction doit 3 000 000 ariary à un client pour un retard de livraison ayant causé un préjudice, tandis que ce même client lui doit 5 000 000 ariary pour des matériaux déjà livrés. Plutôt que d'exiger deux paiements croisés, la compensation éteint les deux dettes à hauteur de 3 000 000 ariary : il ne reste alors qu'une seule dette de 2 000 000 ariary, due par le client au fournisseur."
+    },
+    {
+      "titre": "Les conditions de la compensation légale",
+      "texte": "Pour que la compensation s'opère de plein droit, sans qu'il soit besoin de l'accord exprès des parties, plusieurs conditions cumulatives doivent être réunies. D'abord, la réciprocité : les deux dettes doivent exister entre les deux mêmes personnes, chacune étant à la fois créancière et débitrice de l'autre ; si une troisième personne est impliquée dans l'une des deux relations, la compensation est en principe exclue, faute de réciprocité directe. Ensuite, la fongibilité : les deux obligations doivent porter sur des choses interchangeables de même nature, le plus souvent des sommes d'argent, mais aussi des quantités de choses de même genre (par exemple deux tonnes de riz contre deux tonnes de riz). Il faut également que les deux créances soient certaines, c'est-à-dire que leur existence ne fasse aucun doute, liquides, c'est-à-dire que leur montant exact soit déterminé ou facilement déterminable, et enfin exigibles, c'est-à-dire que leur paiement puisse être immédiatement réclamé, sans attendre l'échéance d'un terme ou la levée d'une condition suspensive.",
+      "definition": "Conditions de la compensation légale : réciprocité (les deux dettes existent entre les mêmes personnes), fongibilité (les obligations portent sur des choses interchangeables de même nature, généralement des sommes d'argent), certitude (l'existence de la créance n'est pas contestée), liquidité (le montant est déterminé ou déterminable) et exigibilité (la créance peut être immédiatement réclamée, sans terme ni condition suspensive pendante).",
+      "exemple": "Une entreprise doit à son sous-traitant une somme dont le montant exact dépend encore de l'issue d'un litige en cours devant le tribunal : cette créance n'est pas liquide, puisque son montant n'est pas définitivement arrêté. La compensation légale ne pourra donc pas jouer automatiquement, même si le sous-traitant a, par ailleurs, une dette certaine, liquide et exigible envers cette même entreprise."
+    },
+    {
+      "titre": "Les effets et les limites de la compensation",
+      "texte": "Lorsque les conditions sont réunies, la compensation produit l'extinction des deux dettes à hauteur du montant le plus faible : si les deux créances sont d'égal montant, elles s'effacent totalement et aucun paiement n'a lieu entre les parties ; si elles sont d'inégal montant, seule la différence reste due par celui dont la dette était la plus élevée. La compensation n'est cependant pas toujours possible, même lorsque les conditions techniques sont réunies : certaines créances échappent à ce mécanisme pour des raisons de protection sociale ou d'ordre public, comme les créances alimentaires ou la portion insaisissable des salaires, sauf si le créancier de cette créance protégée y consent librement. Enfin, la compensation ne peut jamais porter préjudice aux droits déjà acquis par des tiers : si une créance a, par exemple, déjà été cédée ou saisie par un tiers avant que la compensation ne puisse jouer, celle-ci ne peut plus s'opérer au détriment des droits ainsi acquis.",
+      "definition": "Effets de la compensation : extinction des deux dettes réciproques à hauteur du montant le plus faible, l'éventuel surplus restant dû. Limites : certaines créances protégées (créances alimentaires, portion insaisissable des salaires) ne peuvent être compensées sans le consentement du créancier concerné ; la compensation ne peut jamais préjudicier aux droits déjà acquis par des tiers."
+    },
+    {
+      "titre": "La prescription extinctive : sanctionner l'inaction du créancier",
+      "texte": "La prescription extinctive repose sur une idée simple : un créancier qui reste inactif pendant trop longtemps, sans réclamer ni faire valoir sa créance, finit par perdre le droit de l'exiger en justice. Ce mécanisme se distingue nettement de la prescription dite acquisitive, qui permet au contraire à un possesseur d'acquérir un droit réel par l'écoulement du temps : la prescription extinctive, elle, fait perdre un droit à celui qui n'en a pas usé. Plusieurs justifications sont avancées pour expliquer cette règle, en apparence sévère pour le créancier : elle protège le débiteur contre le risque de devoir conserver indéfiniment des preuves de paiement souvent anciennes et difficiles à retrouver ; elle incite les créanciers à faire valoir leurs droits avec diligence plutôt que de laisser les situations juridiques en suspens ; et elle contribue, plus largement, à la sécurité et à la stabilité des relations économiques et sociales, en évitant que des dettes très anciennes ne ressurgissent brutalement après des décennies de silence.",
+      "definition": "Prescription extinctive : mode d'extinction d'une obligation résultant de l'inaction prolongée du créancier pendant le délai fixé par la loi, qui le prive du droit de réclamer l'exécution en justice. Elle se distingue de la prescription acquisitive, qui permet au contraire à un possesseur d'acquérir un droit par l'écoulement du temps."
+    },
+    {
+      "titre": "Les délais de prescription en droit malgache",
+      "texte": "La théorie générale des obligations malgache fixe un cadre clair pour ces délais : en principe, les actions tant personnelles que réelles se prescrivent par trente années en matière civile, mais ce délai est réduit à cinq années en matière commerciale, sauf si une loi particulière en dispose autrement pour une situation spécifique. Cette différence de traitement s'explique par la nature même des relations commerciales, qui exigent davantage de rapidité et de sécurité dans le règlement des créances, contrairement aux relations civiles ordinaires, où des délais plus longs se justifient mieux. La loi malgache précise par ailleurs une règle utile en pratique : la prescription de la créance principale éteint également les créances accessoires qui s'y rattachent, comme les intérêts ou les pénalités liées à cette dette ; il serait en effet incohérent qu'un accessoire survive plus longtemps que la créance dont il dépend. De nombreux délais spéciaux, plus courts, viennent par ailleurs s'ajouter à ce cadre général pour certaines actions particulières prévues par des textes spécifiques.",
+      "definition": "Délais de prescription extinctive en droit malgache : trente années pour les actions personnelles et réelles en matière civile, cinq années en matière commerciale, sauf disposition légale contraire. La prescription de la créance principale entraîne celle des créances accessoires qui s'y rattachent (intérêts, pénalités). Des délais spéciaux plus courts peuvent s'appliquer à certaines actions particulières.",
+      "exemple": "Une société de commerce de gros n'a jamais réclamé le paiement d'une facture devenue exigible il y a six ans auprès d'un de ses clients professionnels. S'agissant d'une créance commerciale, le délai de prescription de cinq ans est déjà écoulé : la société ne pourra plus, en principe, obtenir le paiement de cette facture par voie judiciaire, sauf si un acte interruptif est intervenu entre-temps."
+    },
+    {
+      "titre": "Le point de départ, l'interruption et la suspension de la prescription",
+      "texte": "Le délai de prescription ne court pas dans l'absolu : il a un point de départ précis, généralement le jour où la créance devient exigible, c'est-à-dire le moment à partir duquel le créancier pouvait effectivement réclamer son dû. Mais ce délai n'est pas nécessairement linéaire jusqu'à son terme : il peut être interrompu, c'est-à-dire effacé rétroactivement, par certains actes du créancier ou du débiteur, comme l'introduction d'une action en justice ou la reconnaissance, par le débiteur, de l'existence de sa dette ; dans ce cas, un nouveau délai complet recommence à courir depuis le début, comme si le temps écoulé n'avait jamais existé. Il peut également être seulement suspendu, par exemple en raison d'un empêchement légitime du créancier d'agir : le décompte du délai s'arrête temporairement, sans effacer le temps déjà couru, et reprend son cours dès que l'obstacle disparaît. Dans le cas particulier des obligations solidaires, la théorie générale des obligations malgache précise que tout acte interruptif de prescription accompli au profit d'un créancier, ou à l'encontre d'un débiteur, produit ses effets à l'égard de l'ensemble des autres créanciers et des autres débiteurs solidaires, évitant ainsi des situations incohérentes où la même dette serait prescrite pour certains codébiteurs et non pour d'autres.",
+      "definition": "Point de départ de la prescription : en général, le jour où la créance devient exigible. Interruption : événement (action en justice, reconnaissance de dette) qui efface le délai déjà écoulé et fait recommencer un délai complet. Suspension : événement qui arrête temporairement le décompte sans effacer le temps déjà couru, le délai reprenant ensuite son cours. En matière d'obligations solidaires, tout acte interruptif profite ou s'impose à l'ensemble des codébiteurs et des cocréanciers.",
+      "exemple": "Trois codébiteurs sont solidairement tenus envers un même créancier. Si ce créancier engage une action en justice contre l'un seul des trois codébiteurs avant l'expiration du délai de prescription, cette action interrompt la prescription non seulement à l'égard de celui qui est poursuivi, mais aussi à l'égard des deux autres codébiteurs solidaires, qui ne pourront donc pas, eux non plus, invoquer la prescription pour échapper au paiement."
+    },
+    {
+      "titre": "Les autres modes d'extinction : un aperçu",
+      "texte": "Au-delà du paiement, de la prescription et de la compensation, plusieurs autres mécanismes permettent d'éteindre une obligation, et méritent d'être brièvement situés pour compléter ce panorama. La novation consiste à remplacer une obligation existante par une obligation nouvelle, qui en prend la place : on peut nover en changeant le débiteur, le créancier, ou même l'objet de la dette, à condition que les parties expriment clairement leur intention de remplacer l'ancienne obligation, et non simplement de la modifier. La remise de dette, à l'inverse, est un acte par lequel le créancier renonce volontairement, en tout ou en partie, à exiger l'exécution de sa créance, libérant ainsi le débiteur sans qu'aucune contrepartie ne soit nécessaire : c'est un acte de générosité juridiquement reconnu. La confusion, enfin, se produit lorsque les qualités de créancier et de débiteur viennent à se réunir sur une même personne, rendant l'obligation sans objet : cela survient typiquement lorsqu'un débiteur hérite de son propre créancier, ou lorsqu'une société rachète une autre société dont elle était elle-même créancière ou débitrice.",
+      "definition": "Novation : remplacement d'une obligation par une obligation nouvelle qui l'éteint et la substitue. Remise de dette : renonciation volontaire du créancier à exiger, en tout ou en partie, l'exécution de sa créance, sans contrepartie. Confusion : réunion, sur une même personne, des qualités de créancier et de débiteur d'une même obligation, qui rend celle-ci sans objet."
+    },
+    {
+      "titre": "Le droit malgache et l'articulation des modes d'extinction",
+      "texte": "Ces différents mécanismes d'extinction trouvent leur place, en droit malgache, dans la théorie générale des obligations, cette législation qui organise de manière systématique l'ensemble du régime des obligations, indépendamment de leur source. Cette présentation cohérente, déjà évoquée à propos de la classification des sources des obligations, se prolonge logiquement jusqu'à leur extinction : que l'obligation soit née d'un contrat, d'un engagement unilatéral, ou d'un fait juridique comme la responsabilité civile, les mêmes règles générales de paiement, de compensation et de prescription s'appliquent, sauf disposition légale contraire propre à certaines matières spéciales. C'est précisément l'intérêt d'une théorie générale des obligations : éviter de répéter, pour chaque type de contrat ou chaque source d'obligation, des règles identiques sur la manière dont la dette peut être payée, compensée, ou éteinte par le temps. Le législateur malgache a ainsi consacré, dans ce même texte, un titre entier sur l'exécution, la transmission et l'extinction des obligations, complétant utilement le titre consacré à leurs sources.",
+      "definition": "En droit malgache, les modes d'extinction des obligations (paiement, compensation, prescription, novation, remise de dette, confusion) sont régis par la théorie générale des obligations, qui leur applique des règles uniformes quelle que soit la source de l'obligation concernée (contrat, engagement unilatéral, fait juridique), sauf disposition légale spéciale contraire."
+    },
+    {
+      "titre": "Récapitulatif : les clés de l'extinction des obligations",
+      "texte": "Voici l'essentiel à retenir de ce module. Premièrement, le paiement est le mode d'extinction normal des obligations : il consiste à exécuter exactement la prestation due, peut être effectué par toute personne intéressée, doit en principe être reçu par le créancier ou son représentant, et porte sur l'intégralité de la dette sauf accord contraire. Deuxièmement, la charge de prouver le paiement pèse sur le débiteur, que la loi malgache aide en attachant une présomption libératoire à la remise du titre de créance. Troisièmement, la compensation éteint simultanément deux dettes réciproques, fongibles, certaines, liquides et exigibles, à hauteur du montant le plus faible, sous réserve de certaines créances protégées et des droits acquis par les tiers. Quatrièmement, la prescription extinctive sanctionne l'inaction prolongée du créancier : en droit malgache, trente ans en matière civile, cinq ans en matière commerciale, avec des mécanismes d'interruption et de suspension qui protègent le créancier diligent. Enfin, d'autres modes (novation, remise de dette, confusion) complètent ce panorama, tous régis de manière unifiée par la théorie générale des obligations malgache, quelle que soit la source de l'obligation concernée.",
+      "definition": "À retenir : paiement = exécution normale (preuve à la charge du débiteur, présomption libératoire en cas de remise du titre). Compensation = extinction simultanée de deux dettes réciproques, fongibles, certaines, liquides, exigibles. Prescription extinctive = perte du droit d'agir après inaction du créancier (30 ans civil / 5 ans commercial en droit malgache), sous réserve d'interruption ou de suspension. Autres modes : novation, remise de dette, confusion."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que l'extinction d'une obligation ?",
+      "choix": [
+        "La signature d'un nouveau contrat entre les mêmes parties",
+        "La disparition du lien de droit unissant le créancier et le débiteur, qui libère ce dernier de toute contrainte",
+        "Le transfert de la créance à un tiers",
+        "La modification du montant d'une dette"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce module distingue plusieurs mécanismes qui produisent cet effet.",
+        "Le mode le plus naturel est l'exécution volontaire.",
+        "Le débiteur, une fois ce phénomène intervenu, n'est plus tenu envers le créancier."
+      ],
+      "explication": "L'extinction de l'obligation désigne le moment où le lien de droit unissant le créancier et le débiteur cesse d'exister, libérant ce dernier de toute contrainte. Elle peut résulter du paiement, de la prescription, de la compensation, ou d'autres mécanismes comme la novation, la remise de dette ou la confusion."
+    },
+    {
+      "question": "Pourquoi le paiement est-il qualifié de mode d'extinction « normal » des obligations ?",
+      "choix": [
+        "Parce qu'il est le seul mode reconnu par la loi",
+        "Parce qu'il réalise exactement la prestation que les parties avaient prévue, contrairement aux autres modes qui éteignent l'obligation sans exécution conforme à l'objet initial",
+        "Parce qu'il ne concerne que les sommes d'argent",
+        "Parce qu'il intervient toujours avant l'échéance du contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la différence entre exécuter une promesse et l'éteindre par un autre moyen.",
+        "Les autres modes (compensation, prescription) ne supposent pas une exécution conforme à l'objet initial.",
+        "Le mot « paiement » ne se limite pas au sens courant du versement d'argent."
+      ],
+      "explication": "Le paiement est qualifié de mode d'extinction normal car il réalise exactement ce que les parties avaient prévu : la prestation due est effectivement exécutée. Les autres modes d'extinction (prescription, compensation, novation, remise de dette, confusion) mettent fin à l'obligation sans que la prestation promise ait été exécutée telle quelle, ce qui justifie qu'on les qualifie parfois de modes « anormaux »."
+    },
+    {
+      "question": "Le mot « paiement », au sens juridique, se limite-t-il au versement d'une somme d'argent ?",
+      "choix": [
+        "Oui, c'est sa seule signification juridique",
+        "Non : on parle de paiement chaque fois qu'une obligation, quelle qu'en soit la nature, est exécutée conformément à son objet",
+        "Non, le paiement ne concerne que les obligations de faire",
+        "Oui, sauf en matière commerciale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le sens juridique est plus large que le sens courant.",
+        "Livrer une marchandise vendue ou réparer un dommage peut aussi constituer un paiement au sens juridique.",
+        "Ce qui compte, c'est l'exécution conforme à l'objet de l'obligation, quel qu'il soit."
+      ],
+      "explication": "Au sens juridique, on parle de paiement chaque fois qu'une obligation, quelle qu'en soit la nature (somme d'argent, livraison d'une chose, accomplissement d'un service, voire une abstention), est exécutée conformément à son objet. Ce sens est donc bien plus large que le sens courant du terme, limité au versement d'argent."
+    },
+    {
+      "question": "Qui peut, en principe, effectuer valablement le paiement d'une dette ?",
+      "choix": [
+        "Uniquement le débiteur en personne, sans aucune exception",
+        "Le débiteur lui-même, mais aussi toute personne ayant un intérêt à payer à sa place, sauf si l'obligation revêt un caractère strictement personnel",
+        "Uniquement un membre de la famille du débiteur",
+        "Uniquement une personne désignée par le créancier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce qui importe au créancier, c'est d'être payé, peu important qui s'exécute.",
+        "Un héritier, une caution, ou même un tiers étranger à la dette peuvent payer.",
+        "Il existe une exception pour les prestations fondées sur des qualités personnelles particulières."
+      ],
+      "explication": "En principe, le paiement peut être effectué par le débiteur lui-même, mais aussi par toute personne ayant un intérêt à le faire à sa place (héritier, caution, tiers agissant par générosité). Ce qui importe au créancier est d'être payé, sauf lorsque l'obligation revêt un caractère strictement personnel exigeant l'intervention du débiteur lui-même."
+    },
+    {
+      "question": "Que se passe-t-il, en principe, si un débiteur paie une personne qui n'est pas qualifiée pour recevoir le paiement au nom du créancier ?",
+      "choix": [
+        "Le débiteur est automatiquement libéré, quoi qu'il arrive",
+        "Le paiement ne libère pas, en principe, le débiteur, qui s'expose à devoir payer une seconde fois au véritable créancier, sauf ratification ou profit effectif tiré par ce dernier",
+        "Le créancier perd définitivement son droit de réclamer la dette",
+        "Le paiement est automatiquement annulé par le juge sans autre condition"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le paiement doit en principe être reçu par le créancier ou son représentant habilité.",
+        "Le débiteur prend un risque en payant une personne non qualifiée.",
+        "Deux exceptions permettent malgré tout de considérer le débiteur comme libéré."
+      ],
+      "explication": "Un paiement effectué entre les mains d'une personne non qualifiée pour le recevoir ne libère pas, en principe, le débiteur, qui s'expose à devoir payer une seconde fois au véritable créancier. Il existe toutefois deux exceptions : la ratification du paiement par le créancier après coup, ou la démonstration que le paiement a réellement profité à ce dernier."
+    },
+    {
+      "question": "Le créancier peut-il être contraint d'accepter un paiement partiel de sa créance ?",
+      "choix": [
+        "Oui, systématiquement, dès que le débiteur en fait la demande",
+        "Non, en principe : le paiement doit porter sur l'intégralité de ce qui est dû, sauf si le créancier y consent librement",
+        "Oui, mais seulement en matière commerciale",
+        "Non, sauf décision unilatérale du débiteur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle protège le créancier contre des paiements fractionnés.",
+        "Le consentement du créancier change la donne.",
+        "Un paiement fractionné retarderait la satisfaction complète de la créance."
+      ],
+      "explication": "En principe, le paiement doit porter sur l'intégralité de ce qui est dû : le créancier ne peut être contraint d'accepter un paiement partiel, ni une prestation différente de celle convenue, sauf s'il y consent librement. Cette règle le protège contre des paiements fractionnés qui retarderaient indéfiniment la satisfaction complète de sa créance."
+    },
+    {
+      "question": "Lorsqu'un débiteur doit plusieurs dettes à un même créancier et effectue un paiement insuffisant pour toutes les couvrir, à quoi servent les règles d'imputation des paiements ?",
+      "choix": [
+        "À annuler automatiquement toutes les dettes restantes",
+        "À déterminer quelle dette est éteinte en priorité par ce paiement insuffisant",
+        "À transformer toutes les dettes en une seule dette unique",
+        "À transférer les dettes restantes à un tiers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le débiteur peut souvent indiquer lui-même quelle dette il entend acquitter.",
+        "À défaut de précision, des règles légales ou conventionnelles désignent l'ordre.",
+        "Cette règle traite la question de savoir laquelle des dettes est prioritairement payée."
+      ],
+      "explication": "Les règles d'imputation des paiements déterminent, lorsque plusieurs dettes existent entre les mêmes parties et qu'un paiement insuffisant intervient, quelle dette est éteinte en priorité. Le débiteur peut généralement préciser lui-même la dette qu'il entend acquitter ; à défaut, des règles légales ou conventionnelles s'appliquent, souvent en commençant par la dette la plus ancienne ou la plus onéreuse pour le débiteur."
+    },
+    {
+      "question": "À qui incombe la charge de prouver qu'une obligation a été payée, selon la théorie générale des obligations malgache ?",
+      "choix": [
+        "Au créancier, qui doit prouver que le paiement n'a pas eu lieu",
+        "Au débiteur, qui doit justifier le fait ou l'acte ayant produit l'extinction de son obligation",
+        "Au juge, qui doit enquêter d'office",
+        "À un tiers expert désigné par le tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le créancier doit seulement prouver l'existence de l'obligation.",
+        "C'est celui qui prétend être libéré qui doit en apporter la preuve.",
+        "Cette répartition est logique : c'est le débiteur qui détient généralement les preuves de son paiement."
+      ],
+      "explication": "Si le créancier prouve l'existence de l'obligation, il revient au débiteur de démontrer qu'il s'en est libéré, notamment par le paiement, en justifiant le fait ou l'acte ayant produit l'extinction de son obligation. Cette répartition de la charge de la preuve, retenue par la théorie générale des obligations malgache, est logique car le débiteur est mieux placé pour conserver une preuve de son paiement."
+    },
+    {
+      "question": "Qu'est-ce que la présomption libératoire attachée à la remise du titre de créance, en droit malgache ?",
+      "choix": [
+        "Une présomption selon laquelle toute dette de plus de dix ans est automatiquement payée",
+        "Une présomption selon laquelle la remise volontaire, par le créancier au débiteur, de l'écrit constatant la dette fait présumer que celle-ci a été payée, sauf preuve contraire",
+        "Une présomption qui s'applique uniquement aux dettes commerciales",
+        "Une présomption irréfragable qui ne peut jamais être contredite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette présomption facilite la preuve du paiement pour le débiteur.",
+        "Elle repose sur le fait qu'un créancier rationnel ne se dessaisit pas gratuitement de la preuve de sa créance.",
+        "Elle peut être renversée par une preuve contraire."
+      ],
+      "explication": "La loi malgache attache une présomption libératoire à la remise volontaire, par le créancier au débiteur, du titre constatant la créance : cette remise fait présumer que la dette a été payée, sauf preuve contraire. Cette règle repose sur l'idée qu'un créancier rationnel ne se dessaisirait pas gratuitement de la preuve de sa créance s'il n'avait pas été payé."
+    },
+    {
+      "question": "Que peut faire un créancier lorsque son débiteur n'exécute pas son obligation ?",
+      "choix": [
+        "Rien, il doit attendre que le débiteur change d'avis",
+        "Le contraindre par toutes les voies de droit, en engageant les procédures nécessaires pour obtenir l'exécution forcée",
+        "Saisir directement les biens du débiteur sans aucune formalité, dans tous les cas",
+        "Exiger le double du montant dû à titre de pénalité automatique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le créancier dispose de moyens juridiques pour obtenir satisfaction.",
+        "Ces moyens passent en principe par une décision de justice, sauf exception.",
+        "L'exécution forcée vise à obtenir ce que le débiteur aurait dû exécuter spontanément."
+      ],
+      "explication": "Lorsque le débiteur n'exécute pas son obligation, le créancier peut le contraindre par toutes les voies de droit, c'est-à-dire engager les procédures nécessaires pour obtenir l'exécution forcée de la prestation due. Cette exécution forcée suppose en principe une décision de justice préalable, sauf exception."
+    },
+    {
+      "question": "Dans quel cas l'exécution forcée peut-elle être poursuivie sans décision de justice préalable, selon le droit malgache ?",
+      "choix": [
+        "Jamais, une décision de justice est toujours nécessaire",
+        "Lorsque l'obligation est constatée par un acte authentique revêtu de la formule exécutoire",
+        "Lorsque la dette dépasse un certain montant",
+        "Lorsque le débiteur est une personne morale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette exception concerne notamment les actes notariés.",
+        "La formule exécutoire confère à l'acte une force particulière.",
+        "Ce mécanisme permet d'accélérer le recouvrement sans attendre l'issue d'un procès."
+      ],
+      "explication": "L'exécution forcée peut être poursuivie sans décision de justice préalable lorsque l'obligation est constatée par un acte authentique revêtu de la formule exécutoire, notamment les actes notariés. Dans ce cas particulier, le créancier peut directement faire procéder à l'exécution forcée, sans qu'il soit nécessaire d'attendre un jugement de condamnation."
+    },
+    {
+      "question": "Quelle est la limite maximale des délais de grâce que les juges peuvent accorder à un débiteur, selon la théorie générale des obligations malgache ?",
+      "choix": [
+        "Six mois maximum",
+        "Un an au total",
+        "Cinq ans au total",
+        "Aucune limite n'est fixée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette limite s'applique au total des délais accordés, pas seulement à un seul délai.",
+        "En cas d'urgence, le juge des référés peut intervenir.",
+        "Cette règle protège le créancier contre des délais excessifs."
+      ],
+      "explication": "Selon la théorie générale des obligations malgache, les juges peuvent accorder exceptionnellement au débiteur des délais qui ne pourront, au total, dépasser un an. En cas d'urgence, cette faculté appartient au juge des référés, qui peut statuer rapidement sans attendre l'issue d'un procès complet."
+    },
+    {
+      "question": "Qu'est-ce que la dation en paiement ?",
+      "choix": [
+        "Un don gratuit fait par le débiteur sans rapport avec une dette existante",
+        "La substitution, avec l'accord du créancier, d'une prestation différente à celle initialement due, qui éteint la dette comme un paiement ordinaire",
+        "Un mode de paiement réservé aux dettes commerciales",
+        "Un paiement effectué par un tiers totalement étranger à la dette"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mécanisme nécessite l'accord du créancier, qui ne peut être contraint de recevoir autre chose que ce qui lui est dû.",
+        "L'exemple classique est le transfert de propriété d'un bien en remplacement d'une somme d'argent due.",
+        "Cette substitution éteint la dette comme l'aurait fait un paiement ordinaire."
+      ],
+      "explication": "La dation en paiement se produit lorsque le créancier accepte, à la place de la prestation due, une prestation différente (par exemple un bien à la place d'une somme d'argent). Cette substitution éteint la dette comme l'aurait fait un paiement ordinaire, à condition que le créancier l'accepte librement, puisque nul ne peut être contraint de recevoir autre chose que ce qui lui est dû."
+    },
+    {
+      "question": "Qu'est-ce que la subrogation, dans le contexte des modes de paiement ?",
+      "choix": [
+        "Un mécanisme qui éteint définitivement la dette du débiteur envers tout le monde",
+        "Un mécanisme par lequel un tiers qui paie la dette d'autrui se voit transférer les droits et garanties du créancier originaire contre le débiteur",
+        "Un mode d'extinction réservé aux obligations naturelles",
+        "Une remise de dette accordée par le créancier au débiteur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le tiers payeur devient un nouveau créancier, investi des mêmes garanties que celui qu'il remplace.",
+        "La dette du débiteur initial n'est pas éteinte à son égard ; elle change seulement de titulaire.",
+        "Ce mécanisme diffère nettement de la dation en paiement."
+      ],
+      "explication": "La subrogation se produit lorsqu'un tiers paie la dette d'autrui et se voit conférer, en contrepartie, les droits que le créancier originaire détenait contre le débiteur. Le tiers payeur devient ainsi un nouveau créancier, investi des mêmes garanties et privilèges que celui qu'il a remplacé : la dette du débiteur initial n'est donc pas éteinte à son égard, elle change seulement de titulaire."
+    },
+    {
+      "question": "Quelle est la définition exacte de la compensation ?",
+      "choix": [
+        "Le remboursement intégral d'une dette par versement d'une somme d'argent",
+        "L'extinction simultanée de deux dettes réciproques existant entre les deux mêmes personnes, jusqu'à concurrence du montant le plus faible",
+        "L'annulation d'un contrat pour vice de consentement",
+        "Le transfert d'une créance à un nouveau créancier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mécanisme suppose que les deux personnes soient réciproquement créancière et débitrice l'une de l'autre.",
+        "Aucun mouvement de fonds ou de biens n'est nécessaire pour que ce mécanisme opère.",
+        "L'extinction se limite au montant le plus faible des deux créances."
+      ],
+      "explication": "La compensation est l'extinction simultanée de deux dettes réciproques existant entre les deux mêmes personnes, jusqu'à concurrence du montant le plus faible, sans qu'aucun paiement effectif ne soit nécessaire. Elle est parfois présentée comme un double paiement simplifié ou un paiement par équivalence."
+    },
+    {
+      "question": "Pourquoi la compensation est-elle parfois décrite comme jouant un rôle de garantie ?",
+      "choix": [
+        "Parce qu'elle nécessite toujours l'intervention d'une caution",
+        "Parce qu'elle évite qu'une partie ne paie sa dette sans recevoir, en retour, l'exécution de celle dont elle est créancière, notamment en cas d'insolvabilité ultérieure de l'autre partie",
+        "Parce qu'elle est toujours assortie d'une hypothèque",
+        "Parce qu'elle s'applique uniquement aux dettes garanties par contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez au risque qu'une partie devienne insolvable après avoir reçu un paiement.",
+        "La compensation assure que chacun ne paie qu'en recevant, simultanément, l'extinction de ce qui lui était dû.",
+        "Ce rôle protège contre les paiements croisés inutiles et risqués."
+      ],
+      "explication": "La compensation joue un rôle de garantie en assurant à chacune des parties qu'elle ne paiera jamais sa propre dette sans recevoir, de manière simultanée, l'extinction de ce qui lui était dû. Elle évite ainsi le risque que l'une des parties, après avoir reçu paiement, se révèle ensuite insolvable et ne puisse plus exécuter sa propre obligation."
+    },
+    {
+      "question": "Quelles sont les cinq conditions cumulatives de la compensation légale ?",
+      "choix": [
+        "L'ancienneté, la nationalité, la bonne foi, l'écrit et la publicité",
+        "La réciprocité, la fongibilité, la certitude, la liquidité et l'exigibilité",
+        "Le consentement, la forme notariée, l'enregistrement, la capacité et l'objet licite",
+        "La solidarité, l'indivisibilité, la novation, la confusion et la remise de dette"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces cinq conditions doivent toutes être réunies pour que la compensation s'opère de plein droit.",
+        "L'une concerne le fait que les deux dettes doivent exister entre les mêmes personnes.",
+        "Une autre exige que le montant des créances soit déterminé."
+      ],
+      "explication": "La compensation légale suppose la réunion de cinq conditions cumulatives : la réciprocité (les deux dettes existent entre les mêmes personnes), la fongibilité (les obligations portent sur des choses interchangeables de même nature), la certitude (l'existence de la créance n'est pas contestée), la liquidité (le montant est déterminé ou déterminable) et l'exigibilité (la créance peut être immédiatement réclamée)."
+    },
+    {
+      "question": "Qu'est-ce que la réciprocité, en tant que condition de la compensation ?",
+      "choix": [
+        "L'exigence que les deux dettes portent sur des sommes d'argent identiques",
+        "L'exigence que les deux dettes existent entre les deux mêmes personnes, chacune étant à la fois créancière et débitrice de l'autre",
+        "L'exigence que les deux dettes aient été contractées à la même date",
+        "L'exigence que les deux dettes soient garanties par une caution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Si une troisième personne est impliquée dans l'une des deux relations, cette condition fait défaut.",
+        "Cette condition est la première à vérifier avant d'examiner les autres.",
+        "Sans elle, la compensation est en principe exclue."
+      ],
+      "explication": "La réciprocité exige que les deux dettes existent entre les deux mêmes personnes, chacune étant à la fois créancière et débitrice de l'autre. Si une troisième personne est impliquée dans l'une des deux relations, la compensation est en principe exclue, faute de réciprocité directe entre les deux parties concernées."
+    },
+    {
+      "question": "Qu'est-ce que la fongibilité, en tant que condition de la compensation ?",
+      "choix": [
+        "L'exigence que les obligations portent sur des choses interchangeables de même nature, comme des sommes d'argent ou des quantités de choses de même genre",
+        "L'exigence que les deux créances soient nées le même jour",
+        "L'exigence que les deux dettes soient d'un montant strictement identique",
+        "L'exigence que les parties soient toutes deux des commerçants"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les sommes d'argent sont l'exemple le plus courant de choses fongibles.",
+        "Deux tonnes de riz contre deux tonnes de riz peuvent également se compenser.",
+        "Cette condition garantit que les deux prestations sont véritablement substituables l'une à l'autre."
+      ],
+      "explication": "La fongibilité exige que les deux obligations portent sur des choses interchangeables de même nature, le plus souvent des sommes d'argent, mais aussi des quantités de choses de même genre (par exemple deux tonnes de riz contre deux tonnes de riz). Cette condition garantit que les deux prestations sont véritablement substituables l'une à l'autre."
+    },
+    {
+      "question": "Une entreprise doit à son sous-traitant une somme dont le montant exact dépend encore de l'issue d'un litige en cours devant le tribunal. Cette créance peut-elle faire l'objet d'une compensation légale immédiate ?",
+      "choix": [
+        "Oui, sans aucune condition supplémentaire",
+        "Non, car cette créance n'est pas liquide, son montant n'étant pas définitivement arrêté",
+        "Oui, mais seulement si le sous-traitant est une personne physique",
+        "Non, car aucune compensation n'est jamais possible entre une entreprise et un sous-traitant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la condition de liquidité : le montant doit être déterminé ou déterminable.",
+        "Un litige en cours empêche, en principe, de considérer le montant comme définitivement fixé.",
+        "Sans cette condition, la compensation légale ne peut pas jouer automatiquement."
+      ],
+      "explication": "Cette créance n'est pas liquide, puisque son montant n'est pas définitivement arrêté tant que le litige est en cours. La compensation légale ne pourra donc pas jouer automatiquement, même si l'autre partie a, par ailleurs, une dette certaine, liquide et exigible envers cette même entreprise. Une compensation judiciaire ou conventionnelle pourrait toutefois être envisagée dans certains cas."
+    },
+    {
+      "question": "Que se passe-t-il lorsque deux dettes réciproques compensables sont d'un montant inégal ?",
+      "choix": [
+        "Les deux dettes s'éteignent totalement, quel que soit leur montant",
+        "Seule la différence entre les deux montants reste due par celui dont la dette était la plus élevée",
+        "Aucune compensation n'est possible en cas de montants inégaux",
+        "Le créancier de la dette la plus élevée perd automatiquement son droit de réclamer le surplus"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'extinction se fait à hauteur du montant le plus faible.",
+        "Un solde subsiste lorsque les montants ne sont pas identiques.",
+        "Ce solde reste dû par la partie dont la dette était la plus importante."
+      ],
+      "explication": "Lorsque les deux dettes sont d'inégal montant, seule la différence entre les deux reste due par celui dont la dette était la plus élevée. Si les deux créances sont d'égal montant, en revanche, elles s'effacent totalement et aucun paiement n'a lieu entre les parties."
+    },
+    {
+      "question": "Certaines créances peuvent-elles échapper au mécanisme de la compensation, même si les conditions techniques sont réunies ?",
+      "choix": [
+        "Non, dès que les conditions techniques sont réunies, la compensation s'opère toujours",
+        "Oui, certaines créances protégées (créances alimentaires, portion insaisissable des salaires) échappent à la compensation, sauf consentement du créancier concerné",
+        "Oui, mais uniquement pour les créances entre commerçants",
+        "Non, aucune exception n'existe en la matière"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces exceptions répondent à des considérations de protection sociale ou d'ordre public.",
+        "Le consentement du créancier protégé peut malgré tout permettre la compensation.",
+        "Pensez aux créances destinées à assurer la subsistance d'une personne."
+      ],
+      "explication": "Certaines créances échappent au mécanisme de la compensation pour des raisons de protection sociale ou d'ordre public, comme les créances alimentaires ou la portion insaisissable des salaires, sauf si le créancier de cette créance protégée y consent librement."
+    },
+    {
+      "question": "La compensation peut-elle porter préjudice aux droits déjà acquis par des tiers ?",
+      "choix": [
+        "Oui, systématiquement, dès que les conditions de la compensation sont réunies",
+        "Non, la compensation ne peut jamais porter préjudice aux droits déjà acquis par des tiers",
+        "Oui, mais uniquement si le tiers en est informé après coup",
+        "Cette question est sans rapport avec le mécanisme de la compensation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à une créance déjà cédée ou saisie par un tiers avant que la compensation ne puisse jouer.",
+        "Cette règle protège la stabilité des droits acquis antérieurement par des personnes extérieures à la relation de compensation.",
+        "C'est l'une des limites classiques apportées au mécanisme."
+      ],
+      "explication": "La compensation ne peut jamais porter préjudice aux droits déjà acquis par des tiers : si une créance a, par exemple, déjà été cédée ou saisie par un tiers avant que la compensation ne puisse jouer, celle-ci ne peut plus s'opérer au détriment des droits ainsi acquis."
+    },
+    {
+      "question": "Quelle est la définition exacte de la prescription extinctive ?",
+      "choix": [
+        "Un mode d'acquisition de la propriété par la possession prolongée",
+        "Un mode d'extinction d'une obligation résultant de l'inaction prolongée du créancier pendant le délai fixé par la loi, qui le prive du droit de réclamer l'exécution en justice",
+        "Une clause contractuelle limitant la durée d'un contrat",
+        "Un mode de transmission d'une créance entre vifs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mécanisme sanctionne le créancier qui reste inactif trop longtemps.",
+        "Il se distingue nettement de la prescription dite acquisitive.",
+        "Il porte sur le droit de réclamer l'exécution, et non sur l'acquisition d'un bien."
+      ],
+      "explication": "La prescription extinctive est un mode d'extinction d'une obligation résultant de l'inaction prolongée du créancier pendant le délai fixé par la loi, qui le prive du droit de réclamer l'exécution en justice. Elle se distingue de la prescription acquisitive, qui permet au contraire à un possesseur d'acquérir un droit par l'écoulement du temps."
+    },
+    {
+      "question": "En quoi la prescription extinctive se distingue-t-elle de la prescription acquisitive ?",
+      "choix": [
+        "Elles sont en réalité parfaitement identiques",
+        "La prescription extinctive fait perdre un droit à celui qui n'en a pas usé, tandis que la prescription acquisitive permet à un possesseur d'acquérir un droit par l'écoulement du temps",
+        "La prescription acquisitive ne concerne que les obligations commerciales",
+        "La prescription extinctive ne s'applique qu'aux personnes morales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une concerne la perte d'un droit, l'autre l'acquisition d'un droit.",
+        "Pensez à un possesseur d'un bien immobilier d'un côté, et à un créancier inactif de l'autre.",
+        "Ces deux mécanismes reposent tous deux sur l'écoulement du temps, mais avec des effets opposés."
+      ],
+      "explication": "La prescription extinctive fait perdre un droit à celui qui n'en a pas usé (le créancier inactif perd le droit de réclamer sa créance), tandis que la prescription acquisitive permet au contraire à un possesseur d'acquérir un droit réel (par exemple la propriété) par l'écoulement du temps et l'exercice continu de la possession."
+    },
+    {
+      "question": "Quelles justifications sont avancées pour expliquer la règle, en apparence sévère, de la prescription extinctive ?",
+      "choix": [
+        "Elle vise uniquement à enrichir les débiteurs malhonnêtes",
+        "Elle protège le débiteur contre le risque de conserver indéfiniment des preuves anciennes, incite les créanciers à la diligence, et contribue à la sécurité des relations économiques et sociales",
+        "Elle n'a aucune justification rationnelle et résulte d'un simple hasard historique",
+        "Elle vise exclusivement à protéger les héritiers du créancier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la difficulté, pour un débiteur, de conserver des preuves de paiement très anciennes.",
+        "Ce mécanisme incite aussi les créanciers à agir avec diligence.",
+        "Il contribue à éviter que des dettes très anciennes ne ressurgissent brutalement."
+      ],
+      "explication": "Plusieurs justifications sont avancées : la prescription protège le débiteur contre le risque de devoir conserver indéfiniment des preuves de paiement souvent anciennes et difficiles à retrouver ; elle incite les créanciers à faire valoir leurs droits avec diligence ; et elle contribue à la sécurité et à la stabilité des relations économiques et sociales, en évitant que des dettes très anciennes ne ressurgissent brutalement."
+    },
+    {
+      "question": "Quel est le délai de prescription extinctive de droit commun en matière civile, selon la théorie générale des obligations malgache ?",
+      "choix": [
+        "Cinq années",
+        "Dix années",
+        "Trente années",
+        "Vingt années"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Ce délai est plus long que celui applicable en matière commerciale.",
+        "Il s'applique sauf disposition légale contraire pour une situation spécifique.",
+        "C'est le délai de droit commun pour les actions tant personnelles que réelles en matière civile."
+      ],
+      "explication": "Selon la théorie générale des obligations malgache, les actions tant personnelles que réelles se prescrivent par trente années en matière civile, sauf si une loi particulière en dispose autrement pour une situation spécifique."
+    },
+    {
+      "question": "Quel est le délai de prescription extinctive applicable en matière commerciale, selon la théorie générale des obligations malgache ?",
+      "choix": [
+        "Trente années, comme en matière civile",
+        "Cinq années, sauf disposition légale contraire",
+        "Une année seulement",
+        "Aucun délai n'est fixé en matière commerciale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai est plus court que celui applicable en matière civile.",
+        "Cette différence s'explique par le besoin de rapidité et de sécurité propre aux relations commerciales.",
+        "Une loi particulière peut toutefois prévoir un délai différent pour une situation spécifique."
+      ],
+      "explication": "Le délai de prescription extinctive en matière commerciale est de cinq années, sauf si une loi particulière en dispose autrement. Cette différence de traitement par rapport au délai civil de trente ans s'explique par la nature même des relations commerciales, qui exigent davantage de rapidité et de sécurité dans le règlement des créances."
+    },
+    {
+      "question": "Que se passe-t-il, en droit malgache, lorsque la créance principale est prescrite, du point de vue des créances accessoires qui s'y rattachent (intérêts, pénalités) ?",
+      "choix": [
+        "Les créances accessoires subsistent indéfiniment, indépendamment de la créance principale",
+        "La prescription de la créance principale éteint également les créances accessoires qui s'y rattachent",
+        "Les créances accessoires doivent faire l'objet d'une prescription séparée, toujours plus longue",
+        "Seules les créances accessoires sont prescrites, jamais la créance principale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il serait incohérent qu'un accessoire survive plus longtemps que la créance dont il dépend.",
+        "Cette règle découle directement du principe selon lequel l'accessoire suit le principal.",
+        "Cette précision figure expressément dans la théorie générale des obligations malgache."
+      ],
+      "explication": "La théorie générale des obligations malgache précise que la prescription de la créance principale éteint également les créances accessoires qui s'y rattachent, comme les intérêts ou les pénalités liées à cette dette. Il serait en effet incohérent qu'un accessoire survive plus longtemps que la créance dont il dépend."
+    },
+    {
+      "question": "Une société de commerce de gros n'a jamais réclamé une facture devenue exigible il y a six ans auprès d'un client professionnel. Cette créance commerciale est-elle encore susceptible d'être réclamée en justice ?",
+      "choix": [
+        "Oui, sans aucune limite de temps en matière commerciale",
+        "Non, en principe, le délai de prescription de cinq ans applicable en matière commerciale est déjà écoulé, sauf si un acte interruptif est intervenu",
+        "Oui, car le délai applicable est de trente ans même en matière commerciale",
+        "Non, car aucune créance commerciale ne peut jamais être réclamée après deux ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Identifiez d'abord la nature de la créance : civile ou commerciale ?",
+        "Comparez le temps écoulé (six ans) au délai légal applicable à cette matière.",
+        "N'oubliez pas la possibilité d'un acte interruptif qui aurait pu faire recommencer le délai."
+      ],
+      "explication": "S'agissant d'une créance commerciale, le délai de prescription applicable est de cinq ans. Six années s'étant écoulées sans réclamation, ce délai est déjà dépassé : la société ne pourra plus, en principe, obtenir le paiement de cette facture par voie judiciaire, sauf si un acte interruptif (reconnaissance de dette, action en justice) est intervenu entre-temps, ce qui aurait fait recommencer un nouveau délai complet."
+    },
+    {
+      "question": "Quel est, en général, le point de départ du délai de prescription extinctive ?",
+      "choix": [
+        "Le jour de la naissance du débiteur",
+        "Le jour où la créance devient exigible, c'est-à-dire le moment à partir duquel le créancier pouvait effectivement réclamer son dû",
+        "Le jour de la signature du contrat, quelle que soit la date d'exigibilité",
+        "Le jour où le créancier décide arbitrairement de commencer à compter"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce point de départ est lié à la possibilité effective, pour le créancier, de réclamer sa créance.",
+        "Il ne s'agit pas nécessairement de la date de signature du contrat.",
+        "Sans exigibilité, le créancier ne pourrait matériellement pas agir."
+      ],
+      "explication": "Le délai de prescription a, en général, pour point de départ le jour où la créance devient exigible, c'est-à-dire le moment à partir duquel le créancier pouvait effectivement réclamer son dû. Il serait illogique de faire courir un délai contre un créancier qui ne pouvait pas encore agir."
+    },
+    {
+      "question": "Qu'est-ce que l'interruption de la prescription ?",
+      "choix": [
+        "Un événement qui arrête temporairement le décompte du délai, sans effacer le temps déjà couru",
+        "Un événement, comme l'introduction d'une action en justice ou la reconnaissance de dette, qui efface rétroactivement le délai déjà écoulé et fait recommencer un délai complet",
+        "Un événement qui prolonge automatiquement le délai de dix années supplémentaires",
+        "Un événement qui ne peut résulter que d'une décision du juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'interruption a un effet plus radical que la simple suspension.",
+        "Après une interruption, c'est comme si le temps écoulé n'avait jamais existé.",
+        "L'action en justice ou la reconnaissance de dette par le débiteur en sont des exemples classiques."
+      ],
+      "explication": "L'interruption de la prescription est un événement, comme l'introduction d'une action en justice ou la reconnaissance par le débiteur de l'existence de sa dette, qui efface rétroactivement le délai déjà écoulé : un nouveau délai complet recommence alors à courir depuis le début, comme si le temps précédemment écoulé n'avait jamais existé."
+    },
+    {
+      "question": "Qu'est-ce que la suspension de la prescription, et en quoi diffère-t-elle de l'interruption ?",
+      "choix": [
+        "La suspension efface définitivement le délai déjà écoulé, comme l'interruption",
+        "La suspension arrête temporairement le décompte du délai sans effacer le temps déjà couru, qui reprend son cours dès que l'obstacle disparaît, contrairement à l'interruption qui efface tout le délai antérieur",
+        "La suspension et l'interruption produisent exactement les mêmes effets juridiques",
+        "La suspension ne s'applique qu'aux obligations commerciales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La suspension est moins radicale que l'interruption.",
+        "Le temps déjà couru avant la suspension n'est pas perdu.",
+        "Une fois l'obstacle disparu, le délai reprend simplement son cours là où il s'était arrêté."
+      ],
+      "explication": "La suspension de la prescription arrête temporairement le décompte du délai, par exemple en raison d'un empêchement légitime du créancier d'agir, sans effacer le temps déjà couru : le délai reprend son cours dès que l'obstacle disparaît. Elle diffère ainsi nettement de l'interruption, qui efface rétroactivement tout le délai antérieur et fait recommencer un délai complet."
+    },
+    {
+      "question": "En matière d'obligations solidaires, quel effet la théorie générale des obligations malgache attache-t-elle à un acte interruptif de prescription ?",
+      "choix": [
+        "Il ne profite ou ne s'impose qu'au seul créancier ou débiteur directement concerné par cet acte",
+        "Il produit ses effets à l'égard de l'ensemble des autres créanciers et des autres débiteurs solidaires",
+        "Il annule automatiquement la solidarité entre les codébiteurs",
+        "Il ne produit aucun effet juridique particulier dans ce contexte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle évite des situations incohérentes entre codébiteurs ou cocréanciers solidaires.",
+        "Un seul acte peut ainsi protéger ou engager l'ensemble du groupe solidaire.",
+        "Cette précision figure explicitement dans la théorie générale des obligations malgache."
+      ],
+      "explication": "En matière d'obligations solidaires, tout acte interruptif de prescription accompli au profit d'un créancier, ou à l'encontre d'un débiteur, produit ses effets à l'égard de l'ensemble des autres créanciers et des autres débiteurs solidaires. Cette règle évite des situations incohérentes où la même dette serait prescrite pour certains codébiteurs et non pour d'autres."
+    },
+    {
+      "question": "Trois codébiteurs sont solidairement tenus envers un même créancier. Ce créancier engage une action en justice contre l'un seul d'entre eux avant l'expiration du délai de prescription. Quel est l'effet de cette action sur les deux autres codébiteurs ?",
+      "choix": [
+        "Aucun effet : seul le codébiteur poursuivi voit la prescription interrompue",
+        "L'action interrompt également la prescription à l'égard des deux autres codébiteurs solidaires, qui ne pourront pas invoquer la prescription pour échapper au paiement",
+        "Les deux autres codébiteurs sont automatiquement libérés de leur dette",
+        "La solidarité entre les trois codébiteurs prend fin immédiatement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez à la règle spécifique applicable aux obligations solidaires en matière de prescription.",
+        "Un acte interruptif accompli à l'encontre d'un débiteur solidaire produit ses effets à l'égard des autres.",
+        "Cette règle évite des situations incohérentes entre codébiteurs solidaires d'une même dette."
+      ],
+      "explication": "Conformément à la règle applicable aux obligations solidaires, cette action interrompt la prescription non seulement à l'égard du codébiteur poursuivi, mais aussi à l'égard des deux autres codébiteurs solidaires, qui ne pourront donc pas, eux non plus, invoquer la prescription pour échapper au paiement de la dette."
+    },
+    {
+      "question": "Qu'est-ce que la novation ?",
+      "choix": [
+        "Le remplacement d'une obligation existante par une obligation nouvelle qui en prend la place",
+        "La renonciation pure et simple du créancier à sa créance, sans contrepartie",
+        "La réunion, sur une même personne, des qualités de créancier et de débiteur",
+        "Le paiement effectué par un tiers étranger à la dette"
+      ],
+      "reponse": 0,
+      "indices": [
+        "On peut nover en changeant le débiteur, le créancier, ou l'objet de la dette.",
+        "Les parties doivent exprimer clairement leur intention de remplacer l'ancienne obligation, et non simplement de la modifier.",
+        "Ce mécanisme se distingue nettement de la remise de dette et de la confusion."
+      ],
+      "explication": "La novation consiste à remplacer une obligation existante par une obligation nouvelle, qui en prend la place. On peut nover en changeant le débiteur, le créancier, ou même l'objet de la dette, à condition que les parties expriment clairement leur intention de remplacer l'ancienne obligation, et non simplement de la modifier."
+    },
+    {
+      "question": "Qu'est-ce que la remise de dette ?",
+      "choix": [
+        "Un acte par lequel le créancier renonce volontairement, en tout ou en partie, à exiger l'exécution de sa créance, sans qu'aucune contrepartie ne soit nécessaire",
+        "Un acte par lequel le débiteur transfère sa dette à un tiers",
+        "Un mode de paiement qui suppose toujours l'accord d'un tribunal",
+        "Une obligation qui se transforme automatiquement en obligation naturelle"
+      ],
+      "reponse": 0,
+      "indices": [
+        "C'est un acte de générosité juridiquement reconnu.",
+        "Le créancier en est l'auteur, et le débiteur en bénéficie sans contrepartie nécessaire.",
+        "Cette renonciation peut être totale ou partielle."
+      ],
+      "explication": "La remise de dette est un acte par lequel le créancier renonce volontairement, en tout ou en partie, à exiger l'exécution de sa créance, libérant ainsi le débiteur sans qu'aucune contrepartie ne soit nécessaire. C'est un acte de générosité juridiquement reconnu comme mode d'extinction de l'obligation."
+    },
+    {
+      "question": "Qu'est-ce que la confusion, comme mode d'extinction des obligations ?",
+      "choix": [
+        "Une erreur du juge sur l'identité des parties au procès",
+        "La réunion, sur une même personne, des qualités de créancier et de débiteur d'une même obligation, qui rend celle-ci sans objet",
+        "Le mélange de deux dettes distinctes en une seule créance",
+        "Un mode de paiement par lequel le débiteur paie en nature plutôt qu'en argent"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cela survient typiquement lorsqu'un débiteur hérite de son propre créancier.",
+        "Une fois cette réunion opérée, l'obligation devient sans objet : on ne peut être à la fois créancier et débiteur de soi-même.",
+        "Ce mécanisme peut aussi se produire en cas de fusion de sociétés."
+      ],
+      "explication": "La confusion se produit lorsque les qualités de créancier et de débiteur viennent à se réunir sur une même personne, rendant l'obligation sans objet. Cela survient typiquement lorsqu'un débiteur hérite de son propre créancier, ou lorsqu'une société rachète une autre société dont elle était elle-même créancière ou débitrice."
+    },
+    {
+      "question": "Pourquoi les modes d'extinction des obligations (paiement, compensation, prescription, novation, etc.) s'appliquent-ils de manière uniforme en droit malgache, quelle que soit la source de l'obligation concernée ?",
+      "choix": [
+        "Parce que le hasard a voulu que les mêmes règles s'appliquent partout, sans cohérence particulière",
+        "Parce que la théorie générale des obligations malgache organise de manière systématique le régime des obligations indépendamment de leur source, évitant de répéter des règles identiques pour chaque type de contrat",
+        "Parce que seules les obligations contractuelles peuvent s'éteindre selon le droit malgache",
+        "Parce que la prescription ne s'applique qu'aux obligations légales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'intérêt pratique d'une théorie générale des obligations.",
+        "Cette présentation cohérente complète celle déjà étudiée sur la classification des sources des obligations.",
+        "Elle évite de répéter, pour chaque contrat ou chaque source, des règles identiques."
+      ],
+      "explication": "La théorie générale des obligations malgache organise de manière systématique l'ensemble du régime des obligations, indépendamment de leur source : que l'obligation naisse d'un contrat, d'un engagement unilatéral, ou d'un fait juridique, les mêmes règles générales de paiement, de compensation et de prescription s'appliquent, sauf disposition légale contraire propre à certaines matières spéciales. C'est précisément l'intérêt d'une théorie générale : éviter de répéter des règles identiques pour chaque source d'obligation."
+    },
+    {
+      "question": "Vrai ou faux : en droit malgache, la prescription extinctive ne connaît aucune exception et s'applique uniformément à toutes les matières sans distinction.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la distinction entre matière civile et matière commerciale.",
+        "Des délais spéciaux plus courts existent également pour certaines actions particulières.",
+        "La loi elle-même prévoit la possibilité de dispositions contraires."
+      ],
+      "explication": "Faux. La prescription extinctive connaît plusieurs distinctions et exceptions en droit malgache : le délai de droit commun est de trente ans en matière civile mais de cinq ans en matière commerciale, sauf disposition légale contraire ; de nombreux délais spéciaux, plus courts, s'appliquent par ailleurs à certaines actions particulières prévues par des textes spécifiques."
+    },
+    {
+      "question": "Vrai ou faux : un débiteur peut toujours imposer à son créancier d'accepter une prestation différente de celle initialement due, sans son accord.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la dation en paiement, qui nécessite l'accord du créancier.",
+        "Le créancier ne peut être contraint de recevoir autre chose que ce qui lui est dû.",
+        "Cette règle protège le créancier contre des substitutions imposées unilatéralement."
+      ],
+      "explication": "Faux. Le créancier ne peut être contraint d'accepter une prestation différente de celle initialement due : c'est précisément ce qui caractérise la dation en paiement, qui nécessite l'accord libre du créancier pour produire son effet extinctif. Sans cet accord, le débiteur reste tenu d'exécuter exactement la prestation initialement promise."
+    },
+    {
+      "question": "Quelle différence essentielle distingue la subrogation de la remise de dette ?",
+      "choix": [
+        "Aucune différence : ces deux mécanismes produisent exactement les mêmes effets",
+        "Dans la subrogation, la dette du débiteur subsiste mais change de titulaire ; dans la remise de dette, la dette s'éteint définitivement sans contrepartie",
+        "La subrogation ne peut jamais être consentie volontairement, contrairement à la remise de dette",
+        "La remise de dette ne peut être que partielle, contrairement à la subrogation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans l'un des deux mécanismes, le débiteur reste tenu, mais envers une personne différente.",
+        "Dans l'autre, le débiteur est définitivement libéré, sans qu'aucune contrepartie ne soit due.",
+        "Ces deux mécanismes ont donc des effets très différents sur la situation du débiteur."
+      ],
+      "explication": "Dans la subrogation, la dette du débiteur n'est pas éteinte à son égard : elle subsiste, mais change seulement de titulaire, puisque le tiers payeur reçoit les droits du créancier originaire. Dans la remise de dette, en revanche, la dette s'éteint définitivement et sans contrepartie, le créancier renonçant volontairement à l'exiger."
+    },
+    {
+      "question": "Résumé final : quels sont les trois mécanismes principaux étudiés dans ce module pour l'extinction des obligations, et quelle logique commune les relie ?",
+      "choix": [
+        "Le contrat, la loi et la jurisprudence, reliés par le seul critère de leur ancienneté",
+        "Le paiement, la prescription et la compensation, qui constituent chacun une manière différente de mettre fin au lien obligatoire : par exécution effective, par inaction prolongée du créancier, ou par rencontre de deux dettes réciproques",
+        "La novation, la remise de dette et la confusion, reliés par le seul critère de la volonté des parties",
+        "L'acte juridique, le fait juridique et la loi, qui ne concernent que la naissance des obligations, non leur extinction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce module porte sur trois mécanismes nommés explicitement dans son titre.",
+        "Chacun de ces trois mécanismes met fin à l'obligation d'une manière différente.",
+        "L'un repose sur l'exécution, l'autre sur le temps, le troisième sur une rencontre de créances."
+      ],
+      "explication": "Ce module étudie principalement le paiement, la prescription et la compensation, trois mécanismes qui mettent fin au lien obligatoire selon des logiques très différentes : le paiement par l'exécution effective de la prestation due, la prescription par la sanction de l'inaction prolongée du créancier, et la compensation par la rencontre de deux dettes réciproques qui s'effacent l'une l'autre. D'autres modes (novation, remise de dette, confusion) complètent ce panorama, tous régis de manière unifiée par la théorie générale des obligations malgache."
+    },
+    {
+      "question": "Pourquoi le législateur malgache a-t-il jugé utile d'attacher une présomption de paiement à la remise volontaire du titre de créance ?",
+      "choix": [
+        "Parce qu'un créancier rationnel ne se dessaisirait pas gratuitement de la preuve de sa créance s'il n'avait pas été payé",
+        "Parce que cette présomption est imposée par le droit international",
+        "Parce que cette règle permet d'éviter tout litige relatif au paiement, sans aucune exception possible",
+        "Parce que les titres de créance n'ont aucune autre utilité juridique"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cette présomption repose sur une déduction logique du comportement habituel d'un créancier.",
+        "Un créancier non payé n'a, en principe, aucune raison de se priver de la preuve de sa créance.",
+        "Cette présomption peut toutefois être renversée par une preuve contraire."
+      ],
+      "explication": "Cette présomption repose sur l'idée qu'un créancier rationnel ne se dessaisirait pas gratuitement de la preuve écrite de sa créance s'il n'avait pas été payé : la remise volontaire du titre constitue donc un indice fort, quoique réfragable, du paiement de la dette. C'est pourquoi la loi malgache attache à cette remise une présomption libératoire, qui facilite la preuve pour le débiteur tout en restant susceptible d'être contredite."
+    },
+    {
+      "question": "Dans quelle mesure la compensation peut-elle être qualifiée de mode d'extinction « simplifié » par rapport au paiement ordinaire ?",
+      "choix": [
+        "Elle l'est car elle évite deux paiements croisés inutiles entre les mêmes parties, en effaçant directement les deux créances l'une par l'autre",
+        "Elle ne peut jamais être comparée au paiement, ces deux mécanismes étant juridiquement incompatibles",
+        "Elle l'est car elle dispense toujours les parties de toute preuve de leur créance respective",
+        "Elle l'est uniquement parce qu'elle est gratuite, contrairement au paiement"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Pensez à la situation où deux parties devraient, en théorie, se payer mutuellement.",
+        "La compensation évite ce double mouvement de fonds ou de biens.",
+        "Elle simplifie ainsi les relations obligatoires entre les parties."
+      ],
+      "explication": "La compensation est souvent présentée comme un mode d'extinction simplifié car elle évite que chacune des deux parties n'ait à effectuer un paiement effectif envers l'autre : plutôt que d'exiger deux paiements croisés, qui occasionneraient des frais et des risques inutiles, la loi efface directement les deux créances l'une par l'autre, jusqu'à la limite du montant le plus faible."
+    },
+    {
+      "question": "Un débiteur paie sa dette directement entre les mains d'un employé non habilité du créancier, sans que ce dernier ne ratifie ce paiement ni n'en tire profit. Quelle est la conséquence pour le débiteur ?",
+      "choix": [
+        "Le débiteur est automatiquement libéré, le paiement étant toujours valable",
+        "Le débiteur n'est pas libéré et reste exposé à devoir payer une seconde fois le véritable créancier",
+        "Le créancier perd définitivement le droit de réclamer sa créance",
+        "Le paiement devient automatiquement une remise de dette"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez à la règle relative à la qualité de la personne habilitée à recevoir le paiement.",
+        "L'absence de ratification et l'absence de profit pour le créancier sont déterminantes ici.",
+        "Le débiteur prend un risque en s'exécutant entre des mains non qualifiées."
+      ],
+      "explication": "Le débiteur n'est pas libéré, faute pour le paiement d'avoir été reçu par le créancier ou son représentant habilité, et faute de ratification ou de profit effectif tiré par le créancier. Il reste donc exposé à devoir payer une seconde fois, cette fois entre les mains du véritable créancier, sous réserve d'un éventuel recours contre l'employé qui a indûment perçu la première somme."
+    },
+    {
+      "question": "Pourquoi la prescription commerciale est-elle généralement plus courte que la prescription civile en droit malgache ?",
+      "choix": [
+        "Parce que les commerçants sont présumés malhonnêtes",
+        "Parce que les relations commerciales exigent davantage de rapidité et de sécurité dans le règlement des créances, contrairement aux relations civiles ordinaires",
+        "Parce que la loi commerciale est moins protectrice des débiteurs",
+        "Parce qu'il n'existe aucune raison particulière, ce choix relevant du hasard législatif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez au rythme et aux besoins propres aux affaires commerciales.",
+        "La rapidité des transactions commerciales justifie une clarification plus rapide des situations juridiques.",
+        "Ce raisonnement explique la différence entre les délais de cinq et de trente ans."
+      ],
+      "explication": "Cette différence de traitement s'explique par la nature même des relations commerciales, qui exigent davantage de rapidité et de sécurité dans le règlement des créances, contrairement aux relations civiles ordinaires, où des délais plus longs se justifient mieux compte tenu d'enjeux souvent moins urgents."
+    },
+    {
+      "question": "Un débiteur invoque la force majeure pour justifier son inexécution. Selon la théorie générale des obligations malgache, quelles caractéristiques doit présenter cet événement pour être qualifié de force majeure ?",
+      "choix": [
+        "Il doit simplement être désagréable pour le débiteur, sans autre condition",
+        "Il doit être normalement imprévisible, insurmontable, et provenir d'une cause étrangère au débiteur",
+        "Il doit avoir été annoncé à l'avance par le débiteur à son créancier",
+        "Il doit nécessairement résulter d'une catastrophe naturelle reconnue par l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Trois caractéristiques cumulatives sont exigées par la loi malgache.",
+        "L'événement ne doit pas être imputable au débiteur lui-même.",
+        "Il doit être à la fois imprévisible et impossible à surmonter."
+      ],
+      "explication": "Selon la théorie générale des obligations malgache, la force majeure s'entend de tout fait normalement imprévisible, insurmontable, et provenant d'une cause étrangère au débiteur. Ces trois caractéristiques cumulatives permettent au débiteur d'être dispensé d'exécuter son obligation, sauf disposition contraire de la loi ou de l'acte générateur de l'obligation."
+    },
+    {
+      "question": "Pourquoi peut-on dire que la compensation et la novation partagent un point commun, malgré leurs différences ?",
+      "choix": [
+        "Elles n'ont strictement rien en commun et appartiennent à des catégories juridiques totalement étrangères",
+        "Elles constituent toutes deux des modes d'extinction qui n'impliquent pas une exécution conforme à l'objet initial de l'obligation, contrairement au paiement",
+        "Elles supposent toutes deux l'intervention obligatoire d'un tribunal",
+        "Elles ne s'appliquent qu'aux obligations de faire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez à la distinction entre modes d'extinction « normaux » et « anormaux ».",
+        "Ni la compensation ni la novation ne consistent en l'exécution exacte de la prestation initialement promise.",
+        "Le paiement, lui, suppose au contraire une exécution conforme."
+      ],
+      "explication": "La compensation et la novation constituent toutes deux des modes d'extinction qui n'impliquent pas une exécution conforme à l'objet initial de l'obligation : la compensation efface deux dettes réciproques sans paiement effectif, et la novation remplace l'obligation par une obligation nouvelle. Elles se distinguent en cela du paiement, mode d'extinction normal fondé sur l'exécution exacte de la prestation due."
+    },
+    {
+      "question": "Dans quelle mesure la connaissance du régime de la preuve du paiement est-elle utile en pratique pour un débiteur ?",
+      "choix": [
+        "Elle ne présente aucun intérêt pratique réel",
+        "Elle permet au débiteur de comprendre qu'il doit conserver des preuves de ses paiements, faute de quoi il pourrait être contraint de payer une seconde fois malgré une exécution déjà réalisée",
+        "Elle dispense totalement le débiteur de toute obligation de paiement",
+        "Elle ne concerne que les paiements effectués en espèces"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à la charge de la preuve qui pèse sur celui qui prétend être libéré.",
+        "Un débiteur qui ne peut pas prouver son paiement reste exposé à une nouvelle demande du créancier.",
+        "Cette règle a une portée très concrète dans la gestion quotidienne des relations contractuelles."
+      ],
+      "explication": "Cette connaissance est très utile en pratique : puisque la charge de la preuve du paiement pèse sur le débiteur qui prétend être libéré, celui-ci doit impérativement conserver des preuves de ses paiements (reçus, virements, quittances), faute de quoi il pourrait être contraint de payer une seconde fois, malgré une exécution déjà réellement réalisée, s'il ne parvient pas à en rapporter la preuve devant le juge."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Rakoto, commerçant à Antananarivo, a vendu en 2020 un lot de marchandises à Bemana, gérant d'une épicerie, pour un montant de 4 000 000 ariary, payable comptant. Bemana n'a jamais payé cette somme et Rakoto n'a engagé aucune action ni envoyé aucune mise en demeure depuis cette date. En 2026, soit six ans plus tard, Rakoto se décide enfin à réclamer le paiement et menace d'assigner Bemana en justice. Bemana, de son côté, lui doit également une autre somme : il a réparé gratuitement, par erreur, du matériel appartenant à Rakoto pensant qu'il s'agissait du matériel d'un autre client, et Rakoto lui doit donc 1 500 000 ariary au titre de cette réparation utile, somme que Rakoto reconnaît volontiers devoir. (1) Bemana peut-il invoquer un moyen de défense fondé sur l'écoulement du temps face à la réclamation de Rakoto ? (2) Si la créance de Rakoto subsistait malgré tout, dans quelle mesure la dette de Rakoto envers Bemana pourrait-elle l'éteindre, au moins partiellement ? (3) Quel mécanisme juridique permettrait cette extinction partielle ?",
+      "choix": [
+        "Bemana ne peut rien faire : il doit nécessairement payer l'intégralité de la somme réclamée",
+        "(1) Oui : la vente entre commerçants relevant de la matière commerciale, le délai de prescription applicable est de cinq ans ; six années s'étant écoulées sans réclamation ni acte interruptif, la créance de Rakoto est en principe prescrite, et Bemana peut valablement opposer la prescription pour refuser de payer. (2) À supposer même que la créance ne soit pas prescrite, la dette de réparation que Rakoto reconnaît devoir à Bemana (1 500 000 ariary) pourrait éteindre, à due concurrence, la dette de Bemana envers Rakoto, ramenant celle-ci de 4 000 000 à 2 500 000 ariary. (3) Ce mécanisme est la compensation : les deux dettes sont réciproques (chacun est à la fois créancier et débiteur de l'autre), fongibles (sommes d'argent), certaines (Rakoto reconnaît devoir cette somme), liquides et exigibles, ce qui permet leur extinction simultanée à hauteur du montant le plus faible",
+        "Bemana doit obligatoirement payer la totalité, la prescription ne s'appliquant jamais aux commerçants",
+        "La compensation ne peut jamais s'appliquer entre deux commerçants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Identifiez d'abord la nature de la relation entre Rakoto et Bemana : s'agit-il d'une relation civile ou commerciale ?",
+        "Comparez le temps écoulé depuis l'exigibilité de la créance au délai légal applicable à cette matière.",
+        "Examinez ensuite si les deux dettes réciproques remplissent les conditions cumulatives nécessaires à la compensation légale."
+      ],
+      "explication": "(1) La vente de marchandises entre Rakoto, commerçant, et Bemana, gérant d'une épicerie, relève de la matière commerciale. Le délai de prescription applicable est donc de cinq ans, et non de trente ans comme en matière civile. Aucune réclamation ni aucun acte interruptif (action en justice, reconnaissance de dette) n'étant intervenu depuis l'exigibilité de la créance en 2020, le délai de cinq ans est dépassé en 2026 : Bemana peut donc valablement opposer la prescription extinctive pour refuser tout paiement, la créance étant éteinte par l'inaction prolongée de Rakoto. (2) Si l'on suppose, à titre d'hypothèse alternative, que la créance de Rakoto n'était pas prescrite (par exemple si un acte interruptif était intervenu), la dette que Rakoto reconnaît devoir à Bemana au titre de la réparation utile pourrait éteindre, à due concurrence, la dette de Bemana envers Rakoto. Les deux montants (4 000 000 et 1 500 000 ariary) ne sont pas identiques, ce qui signifie que la compensation n'éteindrait que partiellement la dette de Bemana, laissant subsister un solde de 2 500 000 ariary à sa charge. (3) Ce mécanisme est la compensation légale : les deux dettes sont réciproques (Rakoto et Bemana sont simultanément créancier et débiteur l'un de l'autre), fongibles (toutes deux portent sur des sommes d'argent), certaines (leur existence n'est pas contestée, Rakoto reconnaissant lui-même devoir la seconde somme), et, à supposer qu'elles soient également liquides et exigibles, elles pourraient s'éteindre simultanément à hauteur du montant le plus faible, conformément au mécanisme étudié dans ce module."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Voahangy a prêté 2 000 000 ariary à son ami Tojo en 2019, sans intérêt, remboursable « dès que possible ». Tojo a remboursé intégralement cette somme en plusieurs versements espacés entre 2019 et 2021, mais a perdu, au fil du temps, tous les reçus que Voahangy lui avait remis à chaque versement. En 2026, après une dispute sans rapport avec ce prêt, Voahangy réclame brutalement à Tojo le remboursement de cette somme, prétendant n'avoir jamais reçu le moindre paiement, et menace de l'assigner en justice. Tojo, ne disposant d'aucun reçu, s'inquiète de ne pas pouvoir se défendre. (1) Sur qui pèse, en principe, la charge de la preuve du paiement dans cette situation ? (2) Tojo dispose-t-il d'un moyen de preuve particulier qui pourrait jouer en sa faveur, même en l'absence de reçus ? (3) Quel conseil pratique peut-on tirer de ce cas pour la gestion future de ce type de situation ?",
+      "choix": [
+        "Tojo n'a aucun moyen de se défendre et devra nécessairement payer une seconde fois",
+        "(1) La charge de la preuve du paiement pèse en principe sur Tojo, le débiteur qui prétend être libéré de son obligation : c'est à lui de justifier le fait ou l'acte ayant produit l'extinction de sa dette. (2) Si Voahangy lui avait remis spontanément, à l'époque, le titre constatant sa créance (par exemple une reconnaissance de dette écrite signée par Tojo), cette remise ferait présumer le paiement, sauf preuve contraire de Voahangy ; en l'absence d'un tel titre remis, Tojo devra s'appuyer sur d'autres éléments de preuve (témoignages, relevés bancaires des versements, échanges écrits). (3) Ce cas illustre l'importance, pour tout débiteur, de conserver systématiquement les preuves de ses paiements, et l'utilité, pour tout créancier, de restituer ou d'annoter le titre de créance au fur et à mesure des remboursements afin d'éviter ce type de litige",
+        "La charge de la preuve pèse exclusivement sur Voahangy, qui doit prouver qu'elle n'a rien reçu",
+        "Ce litige ne peut jamais être tranché par un tribunal, faute de preuve écrite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous la règle générale sur la charge de la preuve du paiement étudiée dans ce module.",
+        "Pensez au mécanisme de la présomption libératoire attachée à la remise du titre de créance, et à ses conditions d'application.",
+        "Réfléchissez aux moyens de preuve alternatifs dont un débiteur peut disposer en l'absence de reçus."
+      ],
+      "explication": "(1) La charge de la preuve du paiement pèse en principe sur le débiteur qui prétend être libéré de son obligation, en l'occurrence Tojo : c'est à lui qu'il appartient de justifier le fait ou l'acte ayant produit l'extinction de sa dette, faute de quoi il reste exposé à devoir payer à nouveau, même s'il a déjà effectivement remboursé. (2) Le mécanisme de la présomption libératoire attachée à la remise du titre de créance ne pourrait jouer en faveur de Tojo que si Voahangy lui avait remis, à l'époque du remboursement, l'écrit constatant initialement sa créance (par exemple une reconnaissance de dette signée) : cette remise volontaire aurait fait présumer le paiement, charge alors à Voahangy de prouver le contraire. En l'absence d'un tel document remis, et en l'absence de reçus conservés, Tojo devra s'appuyer sur d'autres éléments de preuve disponibles, comme des relevés bancaires attestant des virements effectués à Voahangy entre 2019 et 2021, des messages écrits évoquant ces versements, ou des témoignages de tiers ayant eu connaissance des remboursements. (3) Ce cas illustre une leçon pratique essentielle déjà évoquée dans ce module : la charge de la preuve pesant sur le débiteur, celui-ci a tout intérêt à conserver systématiquement les preuves de ses paiements (reçus, virements identifiables, écrits). Du côté du créancier, il est également avisé de restituer ou d'annoter le titre de créance au fur et à mesure des remboursements reçus, précisément pour éviter ce type de litige où la bonne foi de chacun devient difficile à établir plusieurs années après les faits."
+    }
+  ]
+}
