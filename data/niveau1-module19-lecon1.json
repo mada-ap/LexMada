@@ -1,0 +1,919 @@
+{
+  "titre": "La nullité des actes juridiques — causes et effets",
+  "module": "Module 19 — La nullité des actes juridiques",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'un acte juridique et pourquoi peut-il être nul ?",
+      "texte": "Avant de comprendre la nullité, il faut saisir ce qu'est un acte juridique. Un acte juridique est une manifestation de volonté accomplie en vue de produire des effets de droit : créer, modifier, transmettre ou éteindre des droits et des obligations. Le contrat en est la forme la plus répandue — il résulte de la rencontre de deux volontés ou plus. Mais d'autres actes juridiques existent : le testament (acte unilatéral), la reconnaissance d'un enfant, la donation, la constitution d'une société.\n\nPour produire ses effets juridiques, un acte doit remplir certaines conditions au moment de sa formation. Ces conditions de validité sont classiquement regroupées en plusieurs catégories : le consentement des parties (qui doit être libre et éclairé), la capacité juridique de celles qui s'engagent, un objet certain et licite, et dans certains cas le respect d'une forme particulière imposée par la loi.\n\nLorsque l'une de ces conditions fait défaut, l'acte juridique est atteint dans sa formation même. Il ne peut pas produire les effets qu'il était censé produire. C'est cette situation que le droit sanctionne par la nullité.\n\nLa nullité est donc la sanction juridique qui frappe un acte dont la formation est irrégulière. Elle en anéantit les effets comme s'il n'avait jamais existé. C'est une sanction radicale, qui se distingue d'autres mécanismes comme la résolution (qui sanctionne l'inexécution d'un contrat valablement formé) ou la caducité (qui affecte un acte valide mais privé de son objet en cours d'exécution).",
+      "definition": "Nullité : sanction juridique qui frappe un acte juridique dont la formation est irrégulière — c'est-à-dire qui ne remplit pas les conditions légales de validité. Elle anéantit l'acte rétroactivement, comme s'il n'avait jamais existé, et oblige les parties à restituer ce qu'elles ont reçu. Elle se distingue de la résolution (sanction de l'inexécution) et de la caducité (disparition d'un acte valide privé de son objet)."
+    },
+    {
+      "titre": "Les conditions de validité d'un acte juridique",
+      "texte": "Pour être valablement formé, un acte juridique doit en principe satisfaire à quatre conditions fondamentales. L'absence de l'une d'elles ouvre la voie à l'action en nullité.\n\nLa première condition est le consentement des parties. Les personnes qui s'engagent doivent avoir exprimé une volonté réelle, libre et éclairée. Un consentement arraché par la force, obtenu par tromperie ou donné par erreur n'est pas un vrai consentement — on parle de vice du consentement. Ces vices (erreur, dol, violence) altèrent la qualité de la volonté exprimée et peuvent entraîner la nullité.\n\nLa deuxième condition est la capacité juridique. Toute personne n'est pas apte à contracter. Les mineurs non émancipés et certains majeurs placés sous protection (tutelle, curatelle) ont une capacité limitée ou inexistante. Les actes accomplis par une personne incapable en dehors des règles qui la protègent peuvent être annulés.\n\nLa troisième condition porte sur l'objet et la cause de l'acte. L'objet — ce à quoi les parties s'engagent — doit être certain, possible et licite. Une convention portant sur une activité prohibée par la loi, contraire à l'ordre public ou aux bonnes mœurs, est nulle. De même, si la raison pour laquelle les parties ont conclu l'acte est illicite ou immorale, la nullité peut être prononcée.\n\nLa quatrième condition, applicable dans certains cas, est le respect d'un formalisme particulier. Certains actes ne sont valables que s'ils respectent une forme prescrite par la loi : acte notarié pour la donation, écrit pour certains baux, mentions obligatoires pour certains contrats de consommation. Le non-respect de ces exigences formelles constitue une cause d'annulation.",
+      "definition": "Conditions de validité d'un acte juridique : (1) consentement des parties — libre, éclairé, exempt de vice ; (2) capacité juridique des parties — aptitude à s'engager valablement ; (3) objet et cause licites — ce à quoi on s'engage doit être possible, certain et conforme à la loi et aux bonnes mœurs ; (4) formalisme respecté le cas échéant — forme prescrite par la loi sous peine de nullité."
+    },
+    {
+      "titre": "Les vices du consentement : erreur, dol et violence",
+      "texte": "Le consentement est la clé de voûte de tout acte juridique. Pour être valable, il doit être libre — exempt de toute contrainte — et éclairé — fondé sur une perception exacte de la réalité. Trois vices peuvent affecter cette qualité du consentement : l'erreur, le dol et la violence.\n\nL'erreur est une représentation inexacte de la réalité qui a conduit une partie à s'engager. Toutes les erreurs ne sont pas des causes de nullité : seule l'erreur sur les qualités essentielles de la chose ou de la personne — celles qui ont été déterminantes dans la décision de contracter — peut entraîner l'annulation. L'erreur sur la valeur ou les simples motifs personnels n'est en principe pas retenue. Par exemple, acquérir un terrain croyant qu'il est constructible alors qu'il est en zone protégée peut constituer une erreur sur les qualités essentielles.\n\nLe dol est une tromperie intentionnelle : l'une des parties, ou un tiers avec sa complicité, emploie des manœuvres frauduleuses pour provoquer chez l'autre une représentation erronée de la réalité, la conduisant ainsi à contracter. Le dol peut consister en des mensonges actifs (fausses affirmations) mais aussi en une réticence dolosive : le fait de taire délibérément une information déterminante que l'on était tenu de communiquer. La preuve du dol étant plus aisée à rapporter que celle de l'erreur spontanée, cette voie est souvent privilégiée en pratique.\n\nLa violence est une contrainte — physique ou morale — exercée sur une partie pour lui arracher un consentement qu'elle n'aurait pas donné librement. Elle peut émaner du cocontractant ou d'un tiers. Elle peut aussi prendre la forme d'une menace illicite exploitant une situation de dépendance ou de vulnérabilité. La menace d'une voie de droit normale n'est pas une violence au sens juridique, sauf si elle est détournée de son but.",
+      "definition": "Vices du consentement : défauts qui altèrent la qualité de la volonté exprimée et permettent d'obtenir l'annulation de l'acte. Erreur : représentation inexacte d'une qualité essentielle. Dol : tromperie intentionnelle (manœuvres frauduleuses ou réticence dolosive). Violence : contrainte physique ou morale ayant arraché le consentement. Ces trois vices donnent lieu à nullité relative.",
+      "exemple": "Vonjy achète à Dada un terrain à Mahajanga, que Dada lui présente comme idéalement situé pour y construire une villa touristique. Dada sait pertinemment que le terrain est classé en zone non constructible, mais ne le dit pas. Vonjy contracte dans la croyance que la construction est possible. Il y a réticence dolosive de la part de Dada — Vonjy peut demander l'annulation de la vente pour dol."
+    },
+    {
+      "titre": "L'incapacité juridique comme cause de nullité",
+      "texte": "La capacité juridique est l'aptitude d'une personne à être titulaire de droits et à les exercer elle-même. On distingue la capacité de jouissance (avoir des droits) et la capacité d'exercice (les exercer seul). La nullité pour incapacité concerne surtout la capacité d'exercice.\n\nEn principe, toute personne majeure a la pleine capacité d'exercice — elle peut contracter seule, valablement. Des exceptions existent pour les personnes placées sous un régime de protection légale.\n\nLes mineurs non émancipés n'ont pas la capacité de conclure seuls des actes juridiques importants. Ils doivent être représentés par leurs parents ou tuteur. Si un mineur conclut seul un acte dépassant les actes courants de la vie quotidienne, cet acte peut être annulé. En droit malgache comme dans les systèmes d'inspiration civiliste, cette protection vise à préserver l'intérêt du mineur contre sa propre imprudence.\n\nLes majeurs protégés constituent une autre catégorie. Lorsqu'une personne majeure est altérée dans ses facultés mentales ou corporelles au point de ne plus pouvoir défendre ses intérêts, le juge peut la placer sous un régime de protection : la sauvegarde de justice (protection légère et temporaire), la curatelle (assistance pour les actes importants), ou la tutelle (représentation pour tous les actes). Les actes accomplis en violation de ces régimes sont susceptibles d'annulation.\n\nIl convient de souligner que l'incapacité est une cause de nullité relative : seule la personne protégée (ou ses représentants et ayants cause) peut invoquer cette nullité. Elle est établie pour protéger un intérêt privé, non l'intérêt général.",
+      "definition": "Incapacité juridique : absence de l'aptitude à exercer seul ses droits, entraînant la possibilité d'annuler les actes accomplis en violation des règles de protection. Concerne les mineurs non émancipés et les majeurs protégés (sauvegarde de justice, curatelle, tutelle). Cause de nullité relative — seule la personne protégée ou ses représentants peuvent l'invoquer.",
+      "exemple": "Un jeune de 16 ans signe seul, sans ses parents, un contrat d'achat d'un scooter à crédit pour une somme importante. Cet acte peut être annulé à la demande de ses parents ou de lui-même après sa majorité, car il a été conclu par un mineur non émancipé sans l'assistance requise. La nullité protège le mineur contre une décision imprudente."
+    },
+    {
+      "titre": "L'illicéité de l'objet ou de la cause",
+      "texte": "Un acte juridique doit porter sur quelque chose de licite et moralement acceptable. Deux notions sont ici en jeu : l'objet de l'acte et sa cause.\n\nL'objet de l'acte est la prestation à laquelle les parties s'engagent — ce que chacune doit faire, donner ou s'abstenir de faire. Pour être valable, cet objet doit être possible (on ne peut pas s'engager à l'impossible), certain ou déterminable (les parties doivent savoir à quoi elles s'engagent), et surtout licite. Est illicite ce qui est interdit par une loi ou un règlement, ou ce qui est contraire à l'ordre public ou aux bonnes mœurs.\n\nUn contrat ayant pour objet la vente d'une substance prohibée, la fourniture de services d'espionnage illégaux, ou encore l'organisation d'une activité criminelle est nul pour objet illicite. Cette nullité est absolue, car elle protège l'intérêt général.\n\nLa cause de l'acte est la raison fondamentale pour laquelle les parties ont contracté — le mobile déterminant qui les a poussées à s'engager. La cause doit elle aussi être licite. Si l'une des parties a contracté dans le but de réaliser une opération illégale ou immorale — et que l'autre le savait ou ne pouvait pas l'ignorer — la nullité peut être prononcée même si l'objet apparent de l'acte est licite.\n\nLa nullité pour objet ou cause illicites est toujours absolue : elle peut être invoquée par toute personne intéressée, elle ne peut pas être couverte par confirmation, et elle peut être soulevée d'office par le juge.",
+      "definition": "Illicéité de l'objet ou de la cause : l'objet de l'acte (la prestation) doit être possible, certain et licite ; la cause (le mobile déterminant) doit être légale et conforme aux bonnes mœurs. La violation de ces exigences entraîne une nullité absolue, invocable par toute personne intéressée, insusceptible de confirmation.",
+      "exemple": "Deux personnes concluent un contrat par lequel l'une s'engage à payer l'autre pour qu'elle facilite un détournement de fonds publics. L'objet est illicite (organisation d'une activité criminelle) et la cause est immorale. Ce contrat est nul de nullité absolue. Aucune des parties ne peut s'en prévaloir devant le juge pour en réclamer l'exécution."
+    },
+    {
+      "titre": "Le formalisme comme condition de validité",
+      "texte": "En droit civil, le principe général est celui du consensualisme : un accord verbal suffit à former un contrat valablement. Il n'est pas nécessaire d'établir un écrit, de passer devant un notaire ou de remplir des formalités particulières pour que le contrat soit formé et obligatoire.\n\nCe principe connaît cependant des exceptions importantes. Certains actes sont des contrats solennels — la loi impose, à peine de nullité, qu'ils respectent une forme particulière. Cette exigence de forme peut être motivée par la protection du consentement (s'assurer que les parties ont mesuré la portée de leur engagement), la protection des tiers (permettre la publicité de l'acte), ou la preuve de l'acte.\n\nParmi les actes solennels les plus courants, on trouve la donation (qui doit en principe être faite par acte notarié), le contrat d'hypothèque (qui exige également un acte notarié), certains contrats de bail (qui doivent comporter des mentions obligatoires sous peine de nullité ou d'inopposabilité), et les actes de mariage.\n\nLe non-respect du formalisme exigé entraîne la nullité de l'acte. Cette nullité peut être absolue (lorsque le formalisme protège l'ordre public ou les tiers) ou relative (lorsqu'il protège un intérêt privé particulier).\n\nIl convient de distinguer les exigences de forme à peine de nullité des exigences de forme à peine d'inopposabilité. Dans le premier cas, l'acte est nul ; dans le second, il est valable entre les parties mais ne peut pas être opposé aux tiers qui l'ignoraient.",
+      "definition": "Formalisme : exigence légale de respecter une forme particulière pour la validité de certains actes juridiques (acte notarié, écrit, mentions obligatoires). La violation du formalisme requis entraîne la nullité — absolue si le formalisme protège l'ordre public ou les tiers, relative s'il protège un intérêt privé. À distinguer du formalisme à peine d'inopposabilité, qui n'affecte pas la validité entre les parties.",
+      "exemple": "Rasoa décide de donner sa maison à sa fille par un simple accord verbal entre elles. Cette donation n'est pas valable : la loi exige que les donations d'immeubles soient consenties par acte notarié, à peine de nullité. Sans acte notarié, la donation est nulle, même si les deux parties étaient sincèrement d'accord. La fille ne peut pas se prévaloir de cet accord pour revendiquer la propriété de la maison."
+    },
+    {
+      "titre": "Nullité absolue et nullité relative : la distinction fondamentale",
+      "texte": "Toutes les nullités ne se valent pas. Le droit distingue deux grandes catégories selon la nature de l'intérêt protégé par la règle violée : la nullité absolue et la nullité relative. Cette distinction a des conséquences pratiques considérables sur qui peut agir, dans quel délai, et si la nullité peut être effacée.\n\nLa nullité absolue sanctionne la violation d'une règle destinée à protéger l'intérêt général, l'ordre public ou les bonnes mœurs. Parce que l'intérêt protégé appartient à la collectivité et non à un individu en particulier, l'action en nullité absolue est ouverte à toute personne justifiant d'un intérêt à agir — y compris des tiers à l'acte — et peut même être soulevée d'office par le juge. Elle ne peut jamais être couverte par confirmation : la partie qui aurait subi cette irrégularité ne peut pas, en connaissance de cause, décider de maintenir l'acte nul. Exemples : contrat portant sur un objet illicite, acte conclu en fraude à la loi, vice de forme protégeant les tiers.\n\nLa nullité relative sanctionne la violation d'une règle protégeant un intérêt privé particulier — celui d'une des parties à l'acte. Seule la personne dont l'intérêt est protégé peut invoquer cette nullité : la victime d'un vice du consentement, le représentant d'un incapable, etc. L'action est donc fermée aux tiers et au cocontractant qui a profité de l'irrégularité. La nullité relative peut être couverte par confirmation : la partie protégée peut, en connaissance de l'irrégularité, décider de valider l'acte et d'y renoncer à invoquer la nullité. Exemples : vice du consentement, incapacité.\n\nDans les deux cas, les effets de la nullité sont rétroactifs : l'acte est censé n'avoir jamais existé, et des restitutions doivent intervenir.",
+      "definition": "Nullité absolue : sanctionne la violation d'une règle d'ordre public ou protégeant l'intérêt général. Peut être invoquée par toute personne intéressée, y compris le juge d'office. Insusceptible de confirmation. Nullité relative : sanctionne la violation d'une règle protégeant un intérêt privé. Seule la partie protégée peut l'invoquer. Peut être couverte par confirmation. Dans les deux cas, effet rétroactif."
+    },
+    {
+      "titre": "La confirmation : comment guérir une nullité relative",
+      "texte": "La confirmation est l'acte par lequel la partie dont l'intérêt est protégé par la nullité relative renonce à invoquer cette nullité et décide de maintenir l'acte malgré son irrégularité. Elle est l'apanage exclusif de la nullité relative — la nullité absolue, protégeant l'ordre public, ne peut jamais être confirmée.\n\nPour être valable, la confirmation doit réunir plusieurs conditions. Elle doit émaner de la personne qui aurait eu le droit d'invoquer la nullité — la victime du vice, le représentant de l'incapable, etc. Elle doit intervenir après que la cause de nullité a cessé : on ne peut pas confirmer valablement un acte alors que le vice persiste. Par exemple, la victime d'une violence ne peut confirmer l'acte qu'une fois la menace définitivement écartée. Elle doit être accomplie en connaissance de la cause de nullité : la personne qui confirme doit savoir qu'elle renonce à un droit d'annulation.\n\nLa confirmation peut être expresse — formalisée dans un acte qui mentionne explicitement la renonciation à la nullité — ou tacite — résultant d'un comportement incompatible avec la volonté d'annuler, comme l'exécution volontaire de l'acte en pleine connaissance de son irrégularité.\n\nL'effet de la confirmation est de purger rétroactivement l'acte de son vice : l'acte est réputé avoir été valable depuis l'origine. La confirmation ne vaut cependant que pour la cause de nullité relative qui a été confirmée — si d'autres causes de nullité (notamment absolue) affectent le même acte, elles ne sont pas effacées.",
+      "definition": "Confirmation : acte par lequel la partie dont l'intérêt est protégé par une nullité relative renonce à invoquer celle-ci, après que la cause de nullité a cessé et en connaissance de l'irrégularité. Peut être expresse ou tacite. Purge rétroactivement le vice et valide l'acte depuis son origine. Impossible en cas de nullité absolue.",
+      "exemple": "Hery a signé un contrat sous la menace de son associé. Quelques mois plus tard, la situation se normalise, la menace n'existe plus. Hery, sachant que le contrat est annulable pour violence, décide néanmoins de commencer à l'exécuter volontairement. Ce comportement peut valoir confirmation tacite — Hery aura confirmé l'acte par son exécution volontaire en connaissance du vice, et ne pourra plus demander l'annulation pour cette cause."
+    },
+    {
+      "titre": "Les effets de la nullité : l'anéantissement rétroactif et les restitutions",
+      "texte": "Lorsque la nullité est prononcée par le juge ou constatée par les parties, ses effets sont radicaux et rétroactifs. L'acte est réputé n'avoir jamais existé. Il est effacé de l'ordre juridique comme s'il n'avait pas été conclu. Les droits et obligations qu'il avait créés disparaissent.\n\nCette rétroactivité a une conséquence pratique immédiate et incontournable : les restitutions. Si les parties ont partiellement ou totalement exécuté l'acte nul — livré une chose, versé un prix, accompli une prestation — elles doivent se restituer mutuellement ce qu'elles ont reçu. On revient à la situation qui aurait prévalu si l'acte n'avait jamais été conclu.\n\nLa restitution se fait en nature lorsque c'est possible : la chose livrée est rendue, la somme versée est remboursée. Lorsque la restitution en nature est impossible — parce que la chose a été consommée, détruite ou revendue à un tiers de bonne foi — elle a lieu par équivalent : la valeur de la chose au jour de la restitution est remboursée.\n\nLe sort des fruits produits par la chose restituée, des intérêts courus sur les sommes, et des dépenses d'amélioration engagées par celui qui détenait la chose, obéit à des règles précises qui tiennent compte notamment de la bonne ou mauvaise foi des parties. La partie de mauvaise foi — celle qui connaissait le vice — peut être traitée moins favorablement.\n\nDeux tempéraments importants limitent la portée des restitutions. Le premier est la règle « nemo auditur » : en cas d'illicéité, celui qui a accompli un acte immoral ou illicite ne peut pas réclamer la restitution de ce qu'il a fourni — nul ne peut se prévaloir de sa propre turpitude. Le second est la protection des tiers de bonne foi qui ont acquis des droits sur le bien avant l'annulation.",
+      "definition": "Effets de la nullité : anéantissement rétroactif de l'acte, réputé n'avoir jamais existé. Entraîne des restitutions mutuelles : chaque partie restitue ce qu'elle a reçu — en nature si possible, par équivalent sinon. Tempéraments : règle nemo auditur (pas de restitution en cas de turpitude) ; protection des tiers de bonne foi ayant acquis des droits avant l'annulation.",
+      "exemple": "Zo achète une parcelle à Toliara pour 50 millions d'ariary. La vente est ensuite annulée pour dol — le vendeur avait dissimulé que le terrain était litigieux. Les restitutions s'imposent : le vendeur rembourse les 50 millions d'ariary à Zo, et Zo restitue la parcelle au vendeur. L'acte est censé n'avoir jamais eu lieu."
+    },
+    {
+      "titre": "La nullité partielle : annuler une clause sans détruire l'acte",
+      "texte": "La nullité n'est pas nécessairement totale. Lorsqu'une seule clause d'un acte est entachée d'irrégularité, il peut être possible de n'annuler que cette clause en maintenant le reste de l'acte. C'est ce que l'on appelle la nullité partielle.\n\nLe principe de nullité partielle repose sur une idée simple : si la cause de nullité est localisée dans une clause particulière et que cette clause n'était pas déterminante pour la conclusion de l'acte — c'est-à-dire que les parties auraient conclu l'accord même sans elle — alors rien ne justifie de détruire l'ensemble de la convention.\n\nEn revanche, si la clause viciée était essentielle à l'économie de l'acte — si les parties n'auraient pas contracté sans elle — alors sa nullité entraîne la nullité de l'acte tout entier.\n\nLe juge joue un rôle central dans cette appréciation. Il recherche quelle était la place de la clause dans l'ensemble contractuel et si les parties auraient conclu le contrat sans elle. Cette appréciation est souveraine — elle appartient aux juges du fond.\n\nUne forme particulière de nullité partielle est la clause réputée non écrite. Dans certains cas, la loi prévoit expressément que telle clause abusive ou illicite est réputée non écrite — c'est-à-dire qu'elle est effacée de l'acte, mais le reste de la convention est maintenu. Cette technique est notamment utilisée en droit de la consommation pour neutraliser les clauses abusives.",
+      "definition": "Nullité partielle : annulation d'une seule clause d'un acte, sans affecter le reste de la convention, lorsque la clause viciée n'était pas déterminante pour la conclusion de l'acte. Si la clause était essentielle, sa nullité emporte nullité de l'ensemble. Forme particulière : clause réputée non écrite — la loi la supprime sans affecter le reste du contrat.",
+      "exemple": "Dans un contrat de bail commercial, le bailleur a inséré une clause stipulant que le locataire renonce à tout recours en cas de litige. Cette clause est illicite — elle prive le locataire d'un droit fondamental. Elle peut être réputée non écrite : le reste du bail est maintenu, seule cette clause disparaît. Le locataire conserve son bail mais recouvre son droit d'agir en justice."
+    },
+    {
+      "titre": "L'action en nullité : qui peut agir, dans quel délai ?",
+      "texte": "La nullité n'est pas automatique : elle ne supprime pas l'acte de plein droit. Elle doit en principe être invoquée, soit par voie d'action (le demandeur saisit le juge pour obtenir l'annulation), soit par voie d'exception (le défendeur oppose la nullité lorsqu'on lui demande d'exécuter l'acte). La nullité absolue peut, elle, être parfois soulevée d'office par le juge.\n\nQui peut agir ? Pour la nullité absolue, toute personne ayant un intérêt légitime peut agir — les parties, les tiers concernés, le ministère public. Pour la nullité relative, seule la partie dont l'intérêt est protégé peut agir — la victime du vice du consentement, le représentant de l'incapable, etc.\n\nDans quel délai ? L'action en nullité est soumise à la prescription. En droit civil, le délai de droit commun pour agir en nullité est généralement de cinq ans. Ce délai court en principe à compter du moment où le titulaire du droit d'agir a connu ou aurait dû connaître la cause de nullité. Pour la nullité relative, la prescription ne court qu'à compter du moment où la cause de nullité a cessé — par exemple, à compter du jour où la victime d'une violence n'est plus sous l'emprise de la menace.\n\nLa prescription de l'action en nullité n'éteint pas l'acte lui-même — elle prive simplement celui qui voulait l'annuler de la possibilité de le faire en justice. En revanche, la nullité peut toujours être invoquée par voie d'exception perpétuellement : celui à qui l'on demande d'exécuter un acte nul peut toujours opposer la nullité comme moyen de défense, même si le délai pour agir en annulation est expiré.",
+      "definition": "Action en nullité : demande judiciaire tendant à faire prononcer l'annulation d'un acte irrégulier. Nullité absolue : toute personne intéressée peut agir, y compris le juge d'office. Nullité relative : seule la partie protégée peut agir. Délai : prescription de droit commun (généralement cinq ans) courant à compter de la connaissance de la cause de nullité. Exception perpétuelle : la nullité peut toujours être opposée comme moyen de défense, même prescrite."
+    },
+    {
+      "titre": "La distinction entre nullité, résolution, résiliation et caducité",
+      "texte": "La nullité est souvent confondue avec d'autres mécanismes d'anéantissement ou d'extinction d'un acte juridique. Il est important de les distinguer car leurs causes, leurs conditions et leurs effets diffèrent.\n\nLa nullité, comme on l'a vu, sanctionne un défaut dans la formation de l'acte — une irrégularité existant au moment de la conclusion. L'acte est atteint à sa naissance même.\n\nLa résolution sanctionne l'inexécution d'un acte valablement formé. Le contrat était parfaitement valide à sa conclusion ; c'est son exécution qui pose problème — une partie n'a pas accompli ses obligations. La résolution met fin rétroactivement au contrat et entraîne également des restitutions, mais sa cause est l'inexécution, non l'irrégularité de formation.\n\nLa résiliation est la cessation d'un contrat à exécution successive (comme un bail ou un contrat de travail) pour l'avenir uniquement, sans rétroactivité. Elle ne supprime pas les effets déjà produits.\n\nLa caducité affecte un acte qui était valide à sa formation mais qui perd son objet ou sa cause en cours d'existence — par exemple, un legs testamentaire qui tombe en caducité si le légataire décède avant le testateur. L'acte disparaît, non en raison d'un vice originel, mais par suite d'un événement postérieur.\n\nCes distinctions ont des enjeux pratiques : le fondement juridique de l'action choisie détermine les conditions à remplir, les délais applicables et les effets obtenus.",
+      "definition": "À distinguer de la nullité : résolution (sanction de l'inexécution d'un acte valide, avec effet rétroactif et restitutions) ; résiliation (cessation d'un contrat à exécution successive, sans rétroactivité) ; caducité (disparition d'un acte valide privé de son objet ou de sa cause par un événement postérieur). La nullité, elle, sanctionne un vice de formation existant dès l'origine."
+    },
+    {
+      "titre": "Récapitulatif : les clés de la nullité des actes juridiques",
+      "texte": "Voici les points essentiels à retenir sur la nullité des actes juridiques. Premièrement, la nullité sanctionne un défaut dans la formation d'un acte juridique — elle anéantit l'acte rétroactivement, comme s'il n'avait jamais existé. Deuxièmement, les conditions de validité d'un acte sont le consentement libre et éclairé, la capacité des parties, un objet et une cause licites, et le respect du formalisme imposé par la loi. Troisièmement, les vices du consentement (erreur, dol, violence) altèrent la qualité de la volonté et donnent lieu à nullité relative. Quatrièmement, la distinction fondamentale oppose nullité absolue (violation d'une règle d'ordre public, invocable par tous, non confirmable) et nullité relative (violation d'une règle protectrice d'un intérêt privé, invocable seulement par la partie protégée, confirmable). Cinquièmement, les effets de la nullité sont rétroactifs et entraînent des restitutions mutuelles. Sixièmement, la nullité peut être partielle — une seule clause peut être annulée si elle n'était pas déterminante. Septièmement, l'action en nullité est soumise à prescription, mais la nullité peut toujours être invoquée par voie d'exception perpétuelle. Enfin, la nullité se distingue de la résolution (inexécution), de la résiliation (cessation future) et de la caducité (disparition par événement postérieur).",
+      "definition": "À retenir : nullité = sanction d'un vice de formation. Conditions : consentement + capacité + objet/cause licites + formalisme. Vices du consentement : erreur, dol, violence → nullité relative. Nullité absolue (ordre public, invocable par tous, non confirmable) vs relative (intérêt privé, partie protégée seulement, confirmable). Effets : rétroactivité + restitutions. Nullité partielle possible. Action prescriptible mais exception perpétuelle."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que la nullité d'un acte juridique ?",
+      "choix": [
+        "La fin d'un contrat due à l'inexécution par l'une des parties",
+        "La sanction juridique qui frappe un acte dont la formation est irrégulière, en l'anéantissant rétroactivement comme s'il n'avait jamais existé",
+        "La décision d'un juge ordonnant l'exécution forcée d'un contrat",
+        "L'accord des parties de mettre fin amiablement à leur contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité intervient en raison d'un défaut existant au moment de la formation de l'acte.",
+        "Son effet principal est de supprimer l'acte rétroactivement.",
+        "Elle se distingue de la résolution, qui sanctionne l'inexécution d'un acte valide."
+      ],
+      "explication": "La nullité est la sanction juridique qui frappe un acte juridique dont la formation est irrégulière — c'est-à-dire qui ne remplit pas les conditions légales de validité au moment de sa conclusion. Elle anéantit l'acte rétroactivement : l'acte est censé n'avoir jamais existé, et les parties doivent se restituer mutuellement ce qu'elles ont reçu."
+    },
+    {
+      "question": "Quelles sont les conditions de validité d'un acte juridique ?",
+      "choix": [
+        "La signature des parties, le paiement d'un prix juste et la présence d'un avocat",
+        "Le consentement libre et éclairé, la capacité des parties, un objet et une cause licites, et le respect du formalisme imposé par la loi",
+        "L'enregistrement de l'acte auprès du tribunal et la présence de deux témoins",
+        "L'accord écrit, la signature notariée et l'approbation du tribunal compétent"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces conditions sont classiquement regroupées en quatre catégories.",
+        "L'une concerne la volonté exprimée, une autre l'aptitude à contracter.",
+        "L'une porte sur ce à quoi les parties s'engagent, une autre sur les formes requises."
+      ],
+      "explication": "Les conditions de validité d'un acte juridique sont : le consentement libre et éclairé des parties (exempt de vices), la capacité juridique (aptitude à s'engager valablement), un objet certain et licite ainsi qu'une cause licite, et le respect du formalisme imposé par la loi dans les cas prévus. L'absence de l'une de ces conditions ouvre la voie à l'action en nullité."
+    },
+    {
+      "question": "Quels sont les trois vices du consentement reconnus en droit civil ?",
+      "choix": [
+        "L'ignorance, l'imprévision et la mauvaise foi",
+        "L'erreur, le dol et la violence",
+        "La fraude, l'abus de droit et la simulation",
+        "L'incapacité, l'illicéité et le défaut de forme"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces trois vices altèrent chacun la qualité du consentement exprimé.",
+        "L'un concerne une représentation inexacte de la réalité.",
+        "Un autre est une tromperie intentionnelle ; le troisième une contrainte."
+      ],
+      "explication": "Les trois vices du consentement sont l'erreur (représentation inexacte d'une qualité essentielle de la chose ou de la personne), le dol (tromperie intentionnelle par manœuvres frauduleuses ou réticence) et la violence (contrainte physique ou morale ayant arraché le consentement). Ces trois vices donnent lieu à nullité relative de l'acte."
+    },
+    {
+      "question": "Qu'est-ce que le dol en droit des contrats ?",
+      "choix": [
+        "Une erreur involontaire commise par l'une des parties sur la valeur du bien",
+        "Une tromperie intentionnelle — manœuvres frauduleuses ou dissimulation délibérée d'une information déterminante — par laquelle une partie provoque chez l'autre une fausse représentation de la réalité pour la conduire à contracter",
+        "Une violence physique exercée par une partie pour obtenir la signature du contrat",
+        "Un désaccord entre les parties sur les modalités d'exécution du contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le dol suppose une intention malveillante — il ne peut pas être involontaire.",
+        "Il peut consister en des mensonges actifs ou en un silence intentionnel.",
+        "On parle de réticence dolosive lorsque la tromperie prend la forme d'un silence."
+      ],
+      "explication": "Le dol est une tromperie intentionnelle par laquelle une partie — ou un tiers avec sa complicité — emploie des manœuvres frauduleuses ou dissimule délibérément une information déterminante pour provoquer chez son cocontractant une fausse représentation de la réalité, l'amenant ainsi à contracter. Il comprend les manœuvres actives (mensonges, mises en scène) et la réticence dolosive (silence délibéré sur une information que l'on était tenu de communiquer)."
+    },
+    {
+      "question": "Qu'est-ce que la réticence dolosive ?",
+      "choix": [
+        "Une hésitation prolongée avant de signer un contrat",
+        "Le fait de taire délibérément une information déterminante que l'on était tenu de communiquer à son cocontractant",
+        "Le refus de fournir des informations en raison du secret des affaires",
+        "Un silence qui ne peut jamais constituer un dol"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La réticence dolosive est une forme particulière du dol.",
+        "Elle suppose un devoir d'information et une dissimulation intentionnelle.",
+        "Le silence peut être aussi trompeur qu'un mensonge actif."
+      ],
+      "explication": "La réticence dolosive est le fait, pour une partie, de taire délibérément une information déterminante qu'elle était tenue de communiquer à son cocontractant. Elle constitue une forme de dol : la tromperie prend ici la forme d'un silence volontaire plutôt que d'un mensonge actif. Pour être retenue, il faut que l'information dissimulée ait été déterminante pour le consentement de l'autre partie, et que la partie qui l'a tue ait eu un devoir d'information à son égard."
+    },
+    {
+      "question": "Toutes les erreurs permettent-elles d'obtenir la nullité d'un acte ?",
+      "choix": [
+        "Oui, toute erreur, même minime, suffit à obtenir l'annulation",
+        "Non, seule l'erreur portant sur les qualités essentielles de la chose ou de la personne — déterminantes pour le consentement — peut entraîner la nullité",
+        "Non, seule l'erreur sur le prix est prise en compte",
+        "Oui, à condition que l'erreur soit prouvée par écrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit ne protège pas celui qui a simplement fait une mauvaise affaire.",
+        "L'erreur sur la valeur ou les simples motifs personnels n'est en principe pas retenue.",
+        "Il faut que l'erreur porte sur ce qui a été déterminant dans la décision de contracter."
+      ],
+      "explication": "Non. Pour entraîner la nullité, l'erreur doit porter sur les qualités essentielles de la chose ou de la personne — c'est-à-dire les caractéristiques qui ont été déterminantes dans la décision de contracter. L'erreur sur la valeur (avoir payé trop cher), les simples motifs personnels ou les qualités non essentielles ne constituent pas des causes de nullité. Le droit ne protège pas celui qui a conclu une mauvaise affaire en toute connaissance de cause."
+    },
+    {
+      "question": "Qu'est-ce que la violence en tant que vice du consentement ?",
+      "choix": [
+        "Uniquement la violence physique exercée directement sur une personne",
+        "Une contrainte physique ou morale — y compris la menace — exercée sur une partie pour lui arracher un consentement qu'elle n'aurait pas donné librement",
+        "Le fait de négocier de manière agressive lors de la conclusion d'un contrat",
+        "L'utilisation d'un langage intimidant dans les correspondances précontractuelles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La violence peut être physique ou psychologique.",
+        "Elle peut émaner du cocontractant ou d'un tiers.",
+        "Elle peut aussi exploiter une situation de dépendance ou de vulnérabilité."
+      ],
+      "explication": "La violence au sens juridique est une contrainte — physique ou morale — exercée sur une partie pour lui arracher un consentement qu'elle n'aurait pas donné librement. Elle peut être directe (menaces ou coups) ou indirecte (exploitation d'une situation de dépendance économique ou personnelle). Elle peut émaner du cocontractant lui-même ou d'un tiers. En revanche, la menace d'une voie de droit normale et légitime (comme annoncer qu'on va saisir le juge pour récupérer une créance) ne constitue pas une violence au sens juridique."
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre nullité absolue et nullité relative ?",
+      "choix": [
+        "La nullité absolue est plus grave que la nullité relative et entraîne des sanctions pénales",
+        "La nullité absolue sanctionne la violation d'une règle d'intérêt général et est invocable par tous ; la nullité relative sanctionne la violation d'une règle protectrice d'un intérêt privé et n'est invocable que par la partie protégée",
+        "La nullité absolue est immédiate ; la nullité relative prend effet après un délai de six mois",
+        "La nullité absolue ne nécessite pas de jugement ; la nullité relative doit toujours être prononcée par le juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La distinction repose sur la nature de l'intérêt protégé par la règle violée.",
+        "L'une protège la collectivité, l'autre protège une personne particulière.",
+        "Elles diffèrent aussi sur la possibilité de confirmation et sur qui peut agir."
+      ],
+      "explication": "La distinction fondamentale tient à la nature de l'intérêt protégé. La nullité absolue sanctionne la violation d'une règle protégeant l'intérêt général ou l'ordre public : elle peut être invoquée par toute personne intéressée, y compris le ministère public et parfois le juge d'office, et elle ne peut jamais être confirmée. La nullité relative sanctionne la violation d'une règle protégeant un intérêt privé particulier : seule la partie dont l'intérêt est protégé peut agir, et elle peut couvrir le vice par confirmation."
+    },
+    {
+      "question": "La nullité absolue peut-elle être couverte par confirmation ?",
+      "choix": [
+        "Oui, si les deux parties sont d'accord pour maintenir l'acte",
+        "Oui, à condition que l'acte ait été exécuté en grande partie",
+        "Non, la nullité absolue protégeant l'ordre public ne peut jamais être confirmée",
+        "Oui, mais seulement après un délai d'un an"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La confirmation est liée à la nature de l'intérêt protégé.",
+        "Peut-on renoncer à la protection de l'intérêt général ?",
+        "C'est l'une des différences majeures entre nullité absolue et nullité relative."
+      ],
+      "explication": "Non. La nullité absolue protège l'ordre public et l'intérêt général, qui appartiennent à la collectivité et non aux parties. Personne ne peut donc y renoncer — les parties ne peuvent pas décider entre elles de maintenir un acte contraire à l'ordre public. La confirmation est réservée à la nullité relative, où l'intérêt protégé est privé et où la partie concernée peut librement y renoncer."
+    },
+    {
+      "question": "Qui peut invoquer la nullité relative ?",
+      "choix": [
+        "Toute personne ayant un intérêt à le faire, y compris les tiers à l'acte",
+        "Uniquement le ministère public",
+        "Seule la partie dont l'intérêt est protégé par la règle violée — et ses ayants cause",
+        "Le juge, qui peut la prononcer d'office"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La nullité relative protège un intérêt privé particulier.",
+        "Seul le titulaire de cet intérêt peut y renoncer ou l'invoquer.",
+        "Le cocontractant qui a profité de l'irrégularité ne peut pas s'en prévaloir."
+      ],
+      "explication": "La nullité relative ne peut être invoquée que par la partie dont l'intérêt est spécifiquement protégé par la règle violée — et ses ayants cause (héritiers, représentants légaux). Par exemple, seule la victime d'un vice du consentement peut demander l'annulation pour cette cause. Le cocontractant qui a profité de l'irrégularité ne peut pas l'invoquer, et les tiers ne peuvent pas non plus agir sur ce fondement."
+    },
+    {
+      "question": "Qu'est-ce que la confirmation d'un acte juridique frappé de nullité relative ?",
+      "choix": [
+        "L'action du juge qui prononce définitivement la nullité de l'acte",
+        "L'accord du cocontractant pour exécuter l'acte sans modifications",
+        "L'acte par lequel la partie dont l'intérêt est protégé renonce à invoquer la nullité relative, après que la cause a cessé et en connaissance de l'irrégularité",
+        "L'enregistrement de l'acte auprès d'une autorité administrative pour le valider"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Elle ne peut intervenir qu'après la disparition de la cause de nullité.",
+        "Elle suppose la connaissance de l'irrégularité par celui qui confirme.",
+        "Elle peut être expresse (acte formel) ou tacite (comportement d'exécution volontaire)."
+      ],
+      "explication": "La confirmation est l'acte par lequel la partie dont l'intérêt est protégé renonce à invoquer la nullité relative de l'acte. Pour être valable, elle doit : émaner de la personne habilitée à invoquer la nullité, intervenir après que la cause de nullité a cessé, et être accomplie en pleine connaissance de l'irrégularité. Elle peut être expresse (acte formel mentionnant la renonciation) ou tacite (exécution volontaire de l'acte en connaissance du vice). Elle valide rétroactivement l'acte depuis son origine."
+    },
+    {
+      "question": "Vrai ou faux : la nullité d'un contrat entraîne automatiquement des restitutions entre les parties.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Si l'acte est censé n'avoir jamais existé, les parties doivent revenir à leur situation antérieure.",
+        "Ce qui a été livré, versé ou accompli doit être restitué.",
+        "La restitution se fait en nature ou, si impossible, par équivalent."
+      ],
+      "explication": "Vrai. La nullité entraîne l'anéantissement rétroactif de l'acte — il est censé n'avoir jamais existé. Par conséquent, les parties doivent se restituer mutuellement tout ce qu'elles ont reçu au titre de cet acte. La restitution se fait en nature si possible ; si la chose a été consommée, détruite ou revendue, elle a lieu par équivalent (remboursement de la valeur). Ces restitutions visent à replacer les parties dans la situation où elles se trouvaient avant de contracter."
+    },
+    {
+      "question": "Qu'est-ce que la règle « nemo auditur » et dans quel contexte s'applique-t-elle ?",
+      "choix": [
+        "La règle selon laquelle le juge doit toujours entendre les deux parties avant de statuer",
+        "La règle selon laquelle personne ne peut se prévaloir de sa propre turpitude pour obtenir restitution en cas d'acte illicite ou immoral",
+        "La règle interdisant au mineur d'agir en justice sans représentant",
+        "La règle imposant au débiteur de prévenir son créancier avant tout défaut de paiement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle limite les restitutions qui auraient normalement lieu après annulation.",
+        "Elle vise à ne pas accorder le bénéfice de la nullité à celui qui a commis une turpitude.",
+        "Elle s'applique notamment en cas de nullité pour objet ou cause illicites."
+      ],
+      "explication": "La règle nemo auditur (nul ne peut se prévaloir de sa propre turpitude) est un tempérament aux restitutions en cas de nullité pour illicéité. Lorsqu'un acte est annulé parce qu'il portait sur une activité illégale ou immorale, la partie qui a fourni une prestation illicite ne peut pas en réclamer la restitution — elle ne peut pas demander au juge de l'aider à récupérer ce qu'elle a fourni dans le cadre d'une opération qu'elle savait illicite. La loi ne vient pas au secours de celui qui a délibérément violé l'ordre public."
+    },
+    {
+      "question": "Qu'est-ce que la nullité partielle ?",
+      "choix": [
+        "La nullité d'un acte qui n'affecte qu'une partie des parties au contrat",
+        "L'annulation d'une seule clause d'un acte, sans affecter le reste de la convention, lorsque la clause viciée n'était pas déterminante pour la conclusion de l'acte",
+        "La nullité qui ne produit des effets que pour l'avenir, sans rétroactivité",
+        "L'annulation d'un acte qui n'est effective que pour une durée limitée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle préserve le contrat dans sa globalité en ne supprimant que la clause viciée.",
+        "Elle n'est possible que si la clause en cause n'était pas essentielle à l'acte.",
+        "Si la clause était déterminante, la nullité s'étend à l'ensemble."
+      ],
+      "explication": "La nullité partielle consiste à annuler seulement une clause d'un acte, en maintenant le reste de la convention. Elle est possible lorsque la clause viciée n'était pas déterminante pour la conclusion de l'acte — c'est-à-dire que les parties auraient conclu l'accord même sans cette clause. Si au contraire la clause était essentielle à l'économie du contrat, sa nullité entraîne la nullité de l'ensemble."
+    },
+    {
+      "question": "Qu'est-ce qu'une clause réputée non écrite ?",
+      "choix": [
+        "Une clause illisible ou rédigée de façon trop complexe",
+        "Une clause que la loi répute inexistante — elle est effacée de l'acte sans affecter le reste de la convention — en raison de son caractère abusif ou illicite",
+        "Une clause orale non formalisée par écrit",
+        "Une clause qui n'a pas été paraphée par les parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une forme particulière de nullité partielle.",
+        "La loi la déclare elle-même inexistante, sans qu'il soit besoin d'une action en justice.",
+        "Elle est notamment utilisée en droit de la consommation contre les clauses abusives."
+      ],
+      "explication": "Une clause réputée non écrite est une clause que la loi déclare inexistante et efface de l'acte en raison de son caractère abusif ou illicite, sans que le reste de la convention soit affecté. C'est une forme particulière de nullité partielle automatique : la clause disparaît de plein droit, sans qu'il soit nécessaire de saisir le juge pour en demander l'annulation. Cette technique est notamment utilisée en droit de la consommation pour neutraliser les clauses abusives insérées par les professionnels."
+    },
+    {
+      "question": "Quelle est la différence entre nullité et résolution d'un contrat ?",
+      "choix": [
+        "La nullité et la résolution sont synonymes — elles désignent toutes deux la fin d'un contrat",
+        "La nullité sanctionne un vice de formation (irrégularité lors de la conclusion) ; la résolution sanctionne l'inexécution d'un contrat valablement formé",
+        "La nullité concerne les contrats civils ; la résolution concerne les contrats commerciaux",
+        "La nullité a un effet rétroactif ; la résolution n'en a pas"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La cause de chacune de ces sanctions est différente.",
+        "La nullité regarde la naissance du contrat ; la résolution regarde son exécution.",
+        "Les deux entraînent des restitutions, mais pour des raisons différentes."
+      ],
+      "explication": "La distinction est fondamentale. La nullité sanctionne un défaut dans la formation du contrat — une irrégularité existant au moment de la conclusion : le contrat est atteint à sa naissance même. La résolution, elle, sanctionne l'inexécution d'un contrat qui était parfaitement valide à sa conclusion : le contrat existe et est valable, mais l'une des parties ne remplit pas ses obligations. Les deux entraînent un anéantissement rétroactif et des restitutions, mais leurs causes sont radicalement différentes."
+    },
+    {
+      "question": "Qu'est-ce que la caducité d'un acte juridique ?",
+      "choix": [
+        "La nullité d'un acte non respectueux des conditions de forme",
+        "La disparition d'un acte valide qui perd son objet ou sa cause par un événement survenu après sa conclusion",
+        "La résiliation anticipée d'un contrat à l'initiative de l'une des parties",
+        "La prescription de l'action en nullité d'un acte juridique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La caducité ne sanctionne pas un vice de formation.",
+        "L'acte était parfaitement valide à l'origine.",
+        "C'est un événement postérieur à la conclusion qui prive l'acte de sa raison d'être."
+      ],
+      "explication": "La caducité affecte un acte qui était valide à sa formation mais qui perd son objet ou sa cause par suite d'un événement survenu après sa conclusion. L'acte disparaît non pas parce qu'il était irrégulier dès l'origine, mais parce qu'un événement extérieur survenu en cours d'existence le prive de toute utilité. La caducité se distingue donc de la nullité (vice de formation) et de la résolution (inexécution)."
+    },
+    {
+      "question": "Vrai ou faux : la prescription de l'action en nullité empêche définitivement d'invoquer la nullité d'un acte.",
+      "choix": [
+        "Vrai",
+        "Faux : la nullité peut toujours être invoquée par voie d'exception — comme moyen de défense — même si le délai pour agir en annulation est expiré"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La prescription éteint l'action, pas le droit lui-même.",
+        "Il faut distinguer l'action en nullité (demander l'annulation) de l'exception de nullité (s'opposer à l'exécution).",
+        "L'exception perpétuelle est un principe important en matière de nullité."
+      ],
+      "explication": "Faux. La prescription éteint l'action en nullité — c'est-à-dire la possibilité de saisir le juge pour obtenir l'annulation de l'acte. Mais elle n'éteint pas la possibilité d'invoquer la nullité par voie d'exception : si l'on vous demande d'exécuter un acte nul, vous pouvez toujours opposer la nullité comme moyen de défense pour refuser d'exécuter, même si vous n'auriez plus pu agir en annulation. C'est ce qu'on appelle l'exception perpétuelle de nullité."
+    },
+    {
+      "question": "Qui peut invoquer la nullité absolue ?",
+      "choix": [
+        "Uniquement les parties à l'acte",
+        "Toute personne ayant un intérêt légitime à le faire, y compris des tiers, le ministère public, et parfois le juge d'office",
+        "Uniquement la partie qui n'a pas commis d'irrégularité",
+        "Uniquement la victime de l'irrégularité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité absolue protège l'intérêt général — il appartient à tous.",
+        "Des personnes extérieures au contrat peuvent avoir intérêt à en demander la nullité.",
+        "Le juge lui-même peut parfois la soulever sans qu'aucune partie ne le demande."
+      ],
+      "explication": "La nullité absolue peut être invoquée par toute personne justifiant d'un intérêt légitime à le faire : les parties à l'acte, mais aussi des tiers qui auraient intérêt à ce que l'acte soit annulé, le ministère public agissant dans l'intérêt général, et parfois le juge lui-même qui peut soulever la nullité absolue d'office. Cette ouverture large de l'action reflète le fait que la nullité absolue protège l'intérêt général, qui appartient à la collectivité tout entière."
+    },
+    {
+      "question": "Quel est l'effet principal de la nullité sur l'acte juridique ?",
+      "choix": [
+        "L'acte est suspendu pour une durée indéterminée",
+        "L'acte est anéanti rétroactivement — il est réputé n'avoir jamais existé",
+        "L'acte est modifié pour supprimer uniquement la cause d'irrégularité",
+        "L'acte continue à produire ses effets jusqu'à la décision du juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité ne produit pas ses effets seulement pour l'avenir.",
+        "L'acte est effacé comme s'il n'avait jamais été conclu.",
+        "Cela implique des restitutions de ce qui a déjà été exécuté."
+      ],
+      "explication": "L'effet principal de la nullité est l'anéantissement rétroactif de l'acte : il est réputé n'avoir jamais existé depuis sa conclusion. Cette rétroactivité distingue la nullité de la résiliation (qui ne produit des effets que pour l'avenir). Elle impose en conséquence des restitutions : les parties doivent se rendre mutuellement ce qu'elles ont reçu en exécution d'un acte désormais censé ne jamais avoir existé."
+    },
+    {
+      "question": "Un acte peut-il être annulé si son objet est contraire aux bonnes mœurs ?",
+      "choix": [
+        "Non, seuls les actes contraires à la loi écrite peuvent être annulés",
+        "Oui, un acte dont l'objet ou la cause est contraire aux bonnes mœurs ou à l'ordre public est nul de nullité absolue",
+        "Oui, mais seulement si les deux parties étaient de mauvaise foi",
+        "Non, les bonnes mœurs ne constituent pas un fondement juridique suffisant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les bonnes mœurs et l'ordre public sont des limites à la liberté contractuelle.",
+        "La violation de ces limites entraîne la nullité la plus grave.",
+        "Cette nullité protège l'intérêt général."
+      ],
+      "explication": "Oui. Un acte dont l'objet ou la cause est contraire aux bonnes mœurs ou à l'ordre public est frappé de nullité absolue. Les bonnes mœurs constituent une limite fondamentale à la liberté contractuelle : les parties ne peuvent pas valablement s'engager à accomplir ce qui heurte les valeurs fondamentales de la société. Cette nullité est absolue — elle peut être invoquée par tous et ne peut pas être confirmée."
+    },
+    {
+      "question": "Vrai ou faux : un mineur peut toujours conclure seul des actes de la vie courante.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La loi adapte la protection des mineurs à la nature des actes accomplis.",
+        "Tous les actes ne présentent pas le même risque pour un mineur.",
+        "Les actes courants de faible importance sont généralement tolérés."
+      ],
+      "explication": "Vrai. Si le principe est que les mineurs non émancipés ne peuvent pas conclure seuls des actes juridiques importants, la pratique et la loi admettent qu'ils puissent accomplir les actes de la vie courante — acheter une baguette de pain, prendre les transports en commun, etc. Ce sont des actes d'importance mineure, adaptés à leur âge, dont la valeur est proportionnée à leurs besoins normaux. Pour les actes d'une certaine importance (achat d'un véhicule, signature d'un bail, contrat d'apprentissage), la représentation ou l'assistance d'un adulte est requise."
+    },
+    {
+      "question": "Qu'est-ce qu'un contrat solennel ?",
+      "choix": [
+        "Un contrat conclu avec beaucoup de cérémonie et de solennité",
+        "Un contrat dont la validité est subordonnée au respect d'une forme imposée par la loi — acte notarié, écrit, mentions obligatoires — sans laquelle il est nul",
+        "Un contrat verbal dont les parties se souviennent solennellement",
+        "Un contrat qui ne peut être conclu qu'en présence d'un juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'oppose au contrat consensuel, qui se forme par le seul accord des volontés.",
+        "Des exemples : la donation d'immeuble, l'hypothèque, certains actes de mariage.",
+        "L'absence de la forme requise entraîne la nullité."
+      ],
+      "explication": "Un contrat solennel est un contrat dont la validité est subordonnée au respect d'une forme particulière imposée par la loi — généralement un acte notarié, un écrit, ou des mentions obligatoires — à peine de nullité. Il s'oppose au contrat consensuel, qui se forme par le seul échange des consentements sans formalité particulière. Si le formalisme requis n'est pas respecté, le contrat solennel est nul, même si les deux parties étaient parfaitement d'accord sur son contenu."
+    },
+    {
+      "question": "Dans quel cas la restitution après annulation peut-elle avoir lieu par équivalent plutôt qu'en nature ?",
+      "choix": [
+        "Toujours, si l'une des parties le préfère",
+        "Lorsque la restitution en nature est impossible — parce que la chose a été consommée, détruite, ou revendue à un tiers de bonne foi",
+        "Uniquement lorsque les parties en ont convenu ainsi dans l'acte",
+        "Jamais — la restitution doit toujours se faire en nature"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La priorité est donnée à la restitution en nature.",
+        "Mais certaines situations rendent cette restitution impossible.",
+        "Dans ce cas, on restitue la valeur monétaire de ce qui ne peut être rendu."
+      ],
+      "explication": "La restitution se fait en nature en priorité : on rend la chose elle-même. Mais lorsque la restitution en nature est impossible — parce que la chose a été consommée, détruite, transformée ou revendue à un tiers de bonne foi — elle a lieu par équivalent : la valeur de la chose, appréciée au jour de la restitution (ou selon d'autres règles selon la bonne ou mauvaise foi des parties), est remboursée en argent."
+    },
+    {
+      "question": "Vrai ou faux : le cocontractant qui a causé la nullité par sa fraude peut invoquer cette nullité devant le juge.",
+      "choix": [
+        "Vrai, car la nullité peut être invoquée par toute personne intéressée",
+        "Faux : celui qui a provoqué la nullité par son comportement fautif ou frauduleux ne peut généralement pas s'en prévaloir lui-même"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit ne récompense pas la mauvaise foi.",
+        "Un principe général s'oppose à ce qu'on bénéficie de sa propre turpitude.",
+        "La nullité relative est établie pour protéger la victime, pas le fautif."
+      ],
+      "explication": "Faux. En principe, celui qui a causé la nullité par son comportement fautif ou frauduleux — par exemple, l'auteur d'un dol — ne peut pas se prévaloir de cette nullité. Ce serait lui permettre de bénéficier de sa propre turpitude, ce que le droit refuse. La nullité relative est établie pour protéger la victime du vice — seule elle peut décider d'invoquer la nullité ou de confirmer l'acte. L'auteur du dol ne peut pas invoquer la nullité pour se dégager de ses obligations."
+    },
+    {
+      "question": "Qu'est-ce que la sauvegarde de justice ?",
+      "choix": [
+        "Une procédure permettant à une entreprise en difficulté d'éviter la liquidation judiciaire",
+        "La forme la plus légère de protection judiciaire des majeurs, qui leur conserve leur capacité juridique tout en permettant l'annulation des actes lésionnaires qu'ils ont accomplis",
+        "Un régime de protection réservé aux mineurs de moins de 10 ans",
+        "Une mesure provisoire permettant de bloquer les actes d'un débiteur insolvable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est l'une des trois formes de protection des majeurs.",
+        "Elle est plus légère que la curatelle et la tutelle.",
+        "Le majeur sous sauvegarde conserve en principe sa capacité, mais ses actes peuvent être remis en cause."
+      ],
+      "explication": "La sauvegarde de justice est la forme la plus légère de protection judiciaire des majeurs. Le majeur placé sous sauvegarde de justice conserve en principe sa pleine capacité juridique et peut continuer à agir seul. Cependant, les actes qu'il accomplit pendant cette période peuvent être remis en cause s'ils se révèlent lésionnaires — c'est-à-dire qu'ils lui causent un préjudice anormal. C'est une protection de moindre intensité par rapport à la curatelle et à la tutelle."
+    },
+    {
+      "question": "Qu'est-ce que la tutelle d'un majeur protégé ?",
+      "choix": [
+        "Un contrat par lequel une personne s'engage à gérer les affaires d'une autre",
+        "Le régime de protection le plus complet, dans lequel le majeur est représenté par un tuteur pour l'ensemble de ses actes juridiques importants",
+        "Un régime de surveillance judiciaire n'affectant pas la capacité du majeur",
+        "Une mesure temporaire accordée pendant une hospitalisation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La tutelle est le régime de protection le plus lourd des trois.",
+        "Elle prive le majeur de sa capacité d'agir seul pour les actes importants.",
+        "Un tuteur est désigné pour le représenter."
+      ],
+      "explication": "La tutelle est le régime de protection le plus complet pour les majeurs dont les facultés sont gravement altérées. Le majeur sous tutelle est représenté par un tuteur désigné par le juge pour l'ensemble de ses actes juridiques importants — il ne peut pas les accomplir seul. Les actes accomplis seuls par le majeur sous tutelle en violation de cette règle sont susceptibles d'annulation. Ce régime protège les personnes les plus vulnérables contre tout risque d'exploitation."
+    },
+    {
+      "question": "Une personne peut-elle contracter valablement dans un état de trouble mental, même passager, au moment de la signature ?",
+      "choix": [
+        "Oui, dès lors qu'elle est majeure et non placée sous tutelle",
+        "Non, un acte conclu pendant un trouble mental, même passager et même sans placement sous protection judiciaire, peut être annulé si ce trouble est prouvé au moment de la signature",
+        "Non, mais seulement si la personne était hospitalisée au moment de signer",
+        "Oui, car seul un jugement de protection peut limiter la capacité d'une personne majeure"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le placement sous protection judiciaire n'est pas la seule cause d'annulation pour incapacité.",
+        "Ce qui compte, c'est l'état mental au moment précis de la conclusion de l'acte.",
+        "La preuve du trouble mental au moment de l'acte est la condition déterminante."
+      ],
+      "explication": "Non. Même une personne majeure non placée sous protection judiciaire peut obtenir l'annulation d'un acte qu'elle a conclu pendant un trouble mental, même passager, si ce trouble est prouvé au moment précis de la signature. Ce qui importe, c'est l'état de discernement réel au moment de l'acte — pas seulement le statut juridique de la personne. La preuve de ce trouble peut résulter de témoignages, de rapports médicaux, ou de toute autre circonstance."
+    },
+    {
+      "question": "Quelle est la différence entre la capacité de jouissance et la capacité d'exercice ?",
+      "choix": [
+        "Ce sont deux termes synonymes désignant la même aptitude juridique",
+        "La capacité de jouissance est l'aptitude à être titulaire de droits ; la capacité d'exercice est l'aptitude à les exercer personnellement et seul",
+        "La capacité de jouissance concerne les biens meubles ; la capacité d'exercice concerne les immeubles",
+        "La capacité de jouissance est acquise à 18 ans ; la capacité d'exercice à 21 ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "On peut avoir des droits sans pouvoir les exercer soi-même.",
+        "Un enfant en bas âge a des droits (hériter, par exemple) mais ne peut pas les exercer seul.",
+        "La nullité pour incapacité concerne surtout la capacité d'exercice."
+      ],
+      "explication": "La capacité de jouissance est l'aptitude à être titulaire de droits et d'obligations — à en être le bénéficiaire ou le débiteur. Elle appartient à toute personne dès sa naissance (voire avant, pour certains droits). La capacité d'exercice est l'aptitude à exercer soi-même ces droits, à accomplir seul les actes juridiques qui s'y rapportent. Les mineurs et certains majeurs protégés ont la capacité de jouissance (ils peuvent hériter, posséder des biens) mais leur capacité d'exercice est limitée ou inexistante — ils doivent être représentés."
+    },
+    {
+      "question": "Vrai ou faux : la confirmation d'un acte nul de nullité relative peut être expresse ou tacite.",
+      "choix": [
+        "Vrai",
+        "Faux : la confirmation doit toujours être faite par acte écrit et signé"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La confirmation n'exige pas nécessairement un formalisme particulier.",
+        "Un comportement cohérent avec la volonté de maintenir l'acte peut valoir confirmation.",
+        "L'exécution volontaire de l'acte en connaissance du vice en est un exemple."
+      ],
+      "explication": "Vrai. La confirmation peut être expresse — formalisée dans un acte qui mentionne explicitement la renonciation à la nullité — ou tacite — résultant d'un comportement qui manifeste sans équivoque la volonté de maintenir l'acte, comme son exécution volontaire en pleine connaissance de l'irrégularité. La confirmation tacite est admise en droit civil, mais elle suppose que le comportement soit suffisamment clair pour révéler sans ambiguïté la renonciation à invoquer la nullité."
+    },
+    {
+      "question": "Qu'est-ce que l'exception de nullité perpétuelle ?",
+      "choix": [
+        "La possibilité d'invoquer la nullité d'un acte à tout moment, même après l'expiration du délai de prescription, comme moyen de défense contre une demande d'exécution",
+        "La possibilité de demander l'annulation d'un acte sans limitation de délai",
+        "La nullité d'un acte qui dure éternellement sans pouvoir être confirmée",
+        "Le droit du juge de prononcer d'office la nullité d'un acte à tout moment"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Elle concerne le délai d'action en nullité une fois prescrit.",
+        "Elle permet de s'opposer à l'exécution même lorsqu'on ne peut plus agir en annulation.",
+        "C'est un moyen de défense, pas une demande d'annulation."
+      ],
+      "explication": "L'exception de nullité perpétuelle permet à celui à qui l'on demande d'exécuter un acte nul d'opposer cette nullité comme moyen de défense, même après l'expiration du délai de prescription de l'action en annulation. La prescription éteint l'action (on ne peut plus saisir le juge pour obtenir l'annulation), mais elle n'empêche pas d'opposer la nullité en défense. On dit que l'action est temporaire mais l'exception est perpétuelle."
+    },
+    {
+      "question": "Quel est le délai de prescription de droit commun pour agir en nullité d'un acte juridique ?",
+      "choix": [
+        "Un an à compter de la conclusion de l'acte",
+        "Dix ans à compter de la conclusion de l'acte",
+        "Généralement cinq ans, courant à compter de la connaissance de la cause de nullité",
+        "Trente ans, conformément à la prescription de droit commun ancienne"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le droit civil a modernisé les délais de prescription.",
+        "Le délai court non pas nécessairement depuis la conclusion de l'acte, mais depuis la connaissance du vice.",
+        "Pour la nullité relative, le délai ne court qu'à compter de la cessation de la cause."
+      ],
+      "explication": "Le délai de prescription de droit commun pour agir en nullité est généralement de cinq ans. Ce délai court en principe à compter du moment où le titulaire du droit d'agir a connu ou aurait dû connaître la cause de nullité. Pour la nullité relative, la prescription ne court qu'à compter du moment où la cause de nullité a cessé — par exemple, pour la violence, à compter du jour où la menace n'existe plus."
+    },
+    {
+      "question": "Vrai ou faux : le juge peut prononcer d'office la nullité relative d'un contrat.",
+      "choix": [
+        "Vrai, le juge peut toujours prononcer la nullité qu'il constate",
+        "Faux : la nullité relative ne peut être invoquée que par la partie protégée — le juge ne peut pas la prononcer sans y avoir été invité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité relative protège un intérêt privé.",
+        "La partie protégée peut choisir de confirmer l'acte plutôt que de le faire annuler.",
+        "Le juge ne peut pas décider à la place de la partie protégée."
+      ],
+      "explication": "Faux. La nullité relative protège un intérêt privé particulier, et la partie concernée a le choix : elle peut invoquer la nullité ou, au contraire, confirmer l'acte et y renoncer. Le juge ne peut pas substituer son appréciation à celle de la partie protégée en prononçant d'office une nullité relative. En revanche, pour la nullité absolue qui protège l'ordre public, le juge peut parfois la soulever d'office — précisément parce que l'intérêt général ne peut pas être sacrifié par la volonté des parties."
+    },
+    {
+      "question": "Un contrat de vente est conclu. La chose vendue est ensuite détruite avant la livraison, sans faute de personne. Le contrat est-il nul ?",
+      "choix": [
+        "Oui, car son objet a disparu — c'est une nullité pour objet impossible",
+        "Non, mais il peut devenir caduc si la perte de l'objet prive le contrat de toute utilité",
+        "Oui, et le vendeur doit restituer le prix",
+        "Non, le contrat reste valable et l'acheteur doit quand même payer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le contrat était valide au moment de sa conclusion.",
+        "C'est un événement postérieur qui prive l'acte de son objet.",
+        "Cette situation relève d'une institution distincte de la nullité."
+      ],
+      "explication": "Non, le contrat n'est pas nul — il était valide au moment de sa conclusion (l'objet existait). La destruction ultérieure de la chose n'est pas un vice de formation. En revanche, elle peut entraîner la caducité du contrat : un événement postérieur à la conclusion a privé l'acte de son objet, le rendant sans objet. La caducité est distincte de la nullité : elle ne sanctionne pas un vice originel mais une disparition de la raison d'être de l'acte en cours d'exécution."
+    },
+    {
+      "question": "Vrai ou faux : une donation verbale d'un immeuble est valide entre les parties si le donateur et le donataire sont d'accord.",
+      "choix": [
+        "Vrai, le consentement mutuel suffit",
+        "Faux : la donation d'un immeuble doit être faite par acte notarié, à peine de nullité — le simple accord verbal ne suffit pas"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La donation est un acte solennel.",
+        "Le formalisme notarial est requis pour assurer la protection du donateur.",
+        "Sans acte notarié, la nullité est la sanction."
+      ],
+      "explication": "Faux. La donation est un acte solennel : la loi exige qu'elle soit passée par acte notarié, à peine de nullité. Cette exigence protège le donateur en s'assurant qu'il a bien mesuré la portée et l'irrévocabilité de sa décision de se dépouiller définitivement. Un simple accord verbal entre donateur et donataire, même sincère et authentique, ne suffit pas à former une donation valable. Sans acte notarié, la donation est nulle."
+    },
+    {
+      "question": "Qu'est-ce que l'ordre public en matière contractuelle ?",
+      "choix": [
+        "L'ensemble des règles que les parties peuvent aménager librement par convention",
+        "L'ensemble des règles fondamentales auxquelles les particuliers ne peuvent pas déroger par leurs conventions — elles s'imposent à tous et protègent des valeurs collectives essentielles",
+        "Les règles de procédure devant les tribunaux en matière de contentieux contractuel",
+        "La liste des contrats autorisés par l'État dans l'économie nationale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'ordre public limite la liberté contractuelle.",
+        "Les conventions contraires à l'ordre public sont nulles de nullité absolue.",
+        "Il protège des valeurs fondamentales de la société."
+      ],
+      "explication": "L'ordre public est l'ensemble des règles fondamentales auxquelles les particuliers ne peuvent pas déroger par leurs conventions. Il protège des valeurs collectives essentielles — la sécurité, la santé publique, la dignité humaine, la structure sociale et économique de base. Toute convention qui y contrevient est nulle de nullité absolue. L'ordre public constitue ainsi une limite infranchissable à la liberté contractuelle : on ne peut pas faire dire au droit ce qu'il interdit."
+    },
+    {
+      "question": "Vrai ou faux : la victime d'un dol peut choisir de maintenir le contrat et de ne demander que des dommages-intérêts, sans demander la nullité.",
+      "choix": [
+        "Vrai",
+        "Faux : la victime du dol doit nécessairement demander la nullité du contrat"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La victime d'un vice du consentement a plusieurs options.",
+        "La nullité est un droit, non une obligation.",
+        "La tromperie constitue aussi une faute pouvant engager la responsabilité de son auteur."
+      ],
+      "explication": "Vrai. La victime d'un dol a le choix entre deux voies. Elle peut demander la nullité relative du contrat — ce qui entraîne son anéantissement rétroactif et des restitutions. Mais elle peut aussi décider de maintenir le contrat et de ne demander que la réparation du préjudice subi par la tromperie — des dommages-intérêts. Cette seconde option est utile lorsque la victime souhaite conserver le bénéfice du contrat tout en obtenant réparation pour le préjudice causé par les manœuvres frauduleuses."
+    },
+    {
+      "question": "Quel est l'effet de la confirmation sur les droits acquis par les tiers entre la conclusion de l'acte et la confirmation ?",
+      "choix": [
+        "La confirmation efface rétroactivement tous les droits acquis par les tiers",
+        "La confirmation ne peut pas porter atteinte aux droits des tiers acquis de bonne foi entre la conclusion et la confirmation",
+        "La confirmation n'a aucun effet sur les tiers — elle ne concerne que les parties",
+        "Les tiers peuvent s'opposer à la confirmation si elle leur est défavorable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La confirmation valide rétroactivement l'acte entre les parties.",
+        "Mais les tiers de bonne foi méritent d'être protégés.",
+        "On ne peut pas imposer aux tiers les effets d'une consolidation à laquelle ils n'ont pas participé."
+      ],
+      "explication": "La confirmation valide rétroactivement l'acte entre les parties — il est réputé n'avoir jamais été vicié. Mais cette rétroactivité ne peut pas porter atteinte aux droits que des tiers ont acquis de bonne foi entre la conclusion de l'acte vicié et la confirmation. La protection des tiers de bonne foi est un principe fondamental : ils ne peuvent pas être lésés par une régularisation intervenue sans qu'ils en aient été informés."
+    },
+    {
+      "question": "Vrai ou faux : un contrat conclu par une personne sous curatelle sans l'assistance du curateur peut être annulé.",
+      "choix": [
+        "Vrai, pour les actes qui nécessitent l'assistance du curateur",
+        "Faux : la curatelle n'affecte pas la capacité de contracter"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La curatelle est un régime de protection intermédiaire.",
+        "Elle impose l'assistance du curateur pour certains actes importants.",
+        "Les actes accomplis sans cette assistance peuvent être remis en cause."
+      ],
+      "explication": "Vrai. La curatelle est un régime de protection intermédiaire : la personne sous curatelle peut accomplir seule les actes de la vie courante, mais pour les actes importants (vente immobilière, emprunt, etc.), elle doit être assistée de son curateur. Un acte important accompli seul, sans l'assistance requise du curateur, peut être annulé à la demande de la personne protégée ou de son représentant. La nullité ici est relative — elle protège un intérêt privé (celui de la personne vulnérable)."
+    },
+    {
+      "question": "Qu'est-ce qu'un vice de forme affectant la nullité d'un acte ?",
+      "choix": [
+        "Un défaut dans le consentement des parties au moment de la signature",
+        "L'inobservation d'une exigence formelle imposée par la loi pour la validité de l'acte — comme l'absence d'acte notarié pour une donation ou l'omission de mentions obligatoires",
+        "Une erreur de calcul dans le prix mentionné dans le contrat",
+        "Le fait que le contrat ait été rédigé dans une langue étrangère"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le vice de forme ne porte pas sur le fond de l'acte mais sur sa présentation.",
+        "La loi impose certaines formes pour garantir la protection des parties ou des tiers.",
+        "La sanction dépend de la nature de l'exigence : nullité ou inopposabilité."
+      ],
+      "explication": "Un vice de forme est l'inobservation d'une exigence formelle imposée par la loi pour la validité de certains actes juridiques — l'absence d'acte notarié pour une donation, l'omission de mentions obligatoires dans un contrat de crédit, l'absence de l'écrit requis pour un bail. La sanction est la nullité, dont la nature (absolue ou relative) dépend de l'intérêt protégé par l'exigence formelle violée."
+    },
+    {
+      "question": "La menace d'une voie de droit normale constitue-t-elle une violence au sens juridique ?",
+      "choix": [
+        "Oui, toute menace constitue une violence pouvant entraîner la nullité",
+        "Non, en principe : la menace d'exercer un droit légitime n'est pas une violence, sauf si elle est détournée de son but ou exploite abusivement la situation de la victime",
+        "Oui, dès lors que la menace a été déterminante pour la conclusion du contrat",
+        "Non, jamais : la violence ne peut résulter que d'actes physiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il faut distinguer la pression légitime de la contrainte illégitime.",
+        "Menacer de saisir le juge pour récupérer une créance est en principe légitime.",
+        "Mais cette menace peut devenir illégitime si elle est utilisée pour obtenir des avantages sans rapport avec la créance."
+      ],
+      "explication": "En principe non. La menace d'exercer une voie de droit normale — comme avertir qu'on va saisir le juge pour récupérer une créance impayée — n'est pas une violence au sens juridique, car c'est l'exercice d'un droit légitime. Cependant, cette menace peut devenir une violence si elle est détournée de son but — par exemple, si on menace d'exercer une action judiciaire pour obtenir des avantages sans rapport avec la créance initiale, ou si on exploite abusivement la situation de vulnérabilité de la victime."
+    },
+    {
+      "question": "Vrai ou faux : la nullité d'un contrat doit toujours être prononcée par un juge.",
+      "choix": [
+        "Vrai, seul le juge peut constater la nullité d'un contrat",
+        "Faux : les parties peuvent aussi constater d'un commun accord la nullité de leur contrat, sans passer devant un juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité n'est pas nécessairement contentieuse.",
+        "Les parties peuvent s'accorder pour reconnaître la nullité et procéder aux restitutions.",
+        "Ce n'est qu'en cas de désaccord qu'il faut saisir le juge."
+      ],
+      "explication": "Faux. Si la nullité est souvent prononcée par le juge — notamment en cas de désaccord entre les parties — elle peut aussi être constatée d'un commun accord par les parties elles-mêmes. Si les deux parties reconnaissent l'irrégularité de l'acte et s'accordent sur les restitutions à effectuer, elles peuvent régler la situation amiablement sans passer par le tribunal. Ce n'est qu'en cas de contestation que le juge intervient."
+    },
+    {
+      "question": "Qu'est-ce que la simulation en droit des contrats et quelle est sa sanction ?",
+      "choix": [
+        "Une simple erreur commise lors de la rédaction du contrat",
+        "La conclusion d'un acte apparent (ostensible) qui dissimule un acte réel (occulte) différent — si l'acte dissimulé est illicite, il est nul ; l'acte apparent peut aussi être inopposable",
+        "Un contrat conclu lors d'un jeu de rôle ou d'une simulation d'entreprise",
+        "La présentation d'un contrat au juge sous une forme différente de sa réalité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La simulation implique deux actes : un visible et un caché.",
+        "Entre les parties, c'est l'acte réel qui compte ; pour les tiers, c'est l'acte apparent.",
+        "La sanction dépend du contenu de l'acte dissimulé."
+      ],
+      "explication": "La simulation est la technique consistant à conclure deux actes : un acte apparent (ostensible, destiné à être connu des tiers) et un acte réel (occulte, qui exprime la véritable volonté des parties). Entre les parties, c'est l'acte réel qui produit des effets. Pour les tiers, l'acte apparent est celui qu'ils peuvent opposer. Si l'acte dissimulé est illicite ou frauduleux, il est nul ; l'acte apparent peut être inopposable aux tiers qui ont cru à sa réalité."
+    },
+    {
+      "question": "Vrai ou faux : une clause illicite entraîne toujours la nullité de l'ensemble du contrat.",
+      "choix": [
+        "Vrai, la nullité d'une clause emporte nécessairement la nullité de tout le contrat",
+        "Faux : si la clause illicite n'était pas déterminante pour la conclusion du contrat, seule cette clause peut être annulée (nullité partielle), le reste du contrat étant maintenu"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juge apprécie si la clause viciée était ou non déterminante.",
+        "Si les parties auraient contracté sans elle, la nullité peut être limitée à la clause.",
+        "Si elle était essentielle, la nullité s'étend à l'ensemble."
+      ],
+      "explication": "Faux. La nullité d'une clause n'entraîne pas nécessairement la nullité de l'ensemble du contrat. Si la clause illicite n'était pas déterminante pour la conclusion de l'acte — si les parties auraient contracté même sans elle — seule cette clause est annulée, et le reste du contrat est maintenu : c'est la nullité partielle. En revanche, si la clause était essentielle à l'économie du contrat — si son absence aurait conduit les parties à ne pas contracter — alors sa nullité emporte nullité de l'ensemble."
+    },
+    {
+      "question": "Qu'est-ce que l'erreur sur les qualités essentielles de la chose ?",
+      "choix": [
+        "Une erreur sur le prix payé pour la chose",
+        "Une représentation inexacte portant sur les caractéristiques intrinsèques de la chose qui ont été déterminantes dans la décision de contracter",
+        "Une erreur sur la quantité de la chose livrée",
+        "Une erreur commise par le vendeur dans la description de la chose"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'erreur doit porter sur ce qui a fondamentalement motivé le consentement.",
+        "Elle concerne les caractéristiques intrinsèques de la chose, pas sa valeur.",
+        "Si la personne avait connu la réalité, elle n'aurait pas contracté."
+      ],
+      "explication": "L'erreur sur les qualités essentielles de la chose est une représentation inexacte portant sur les caractéristiques intrinsèques de la chose qui ont été déterminantes dans la décision de contracter. Si l'acquéreur avait connu la réalité, il n'aurait pas conclu l'acte. Par exemple, acheter ce qu'on croit être un tableau d'un grand maître qui s'avère être une copie, ou acquérir un terrain croyant qu'il est constructible alors qu'il est en zone protégée. L'erreur sur la valeur seule (avoir payé trop cher) n'est en principe pas suffisante."
+    },
+    {
+      "question": "Un acte nul peut-il servir de fondement à un autre acte qui s'appuierait sur lui ?",
+      "choix": [
+        "Oui, si le second acte a été conclu de bonne foi",
+        "Non, en principe : l'annulation de l'acte initial entraîne l'anéantissement des actes subséquents qui en dépendaient — c'est le principe de l'effet domino ou de la cascade",
+        "Oui, si le second acte a été conclu avec un tiers",
+        "Non, sauf si le second acte a déjà été entièrement exécuté"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Si la base est nulle, ce qui repose sur elle est compromis.",
+        "Mais des tempéraments existent pour protéger les tiers de bonne foi.",
+        "L'adage latin exprime l'idée : « nemo plus juris ad alium transferre potest quam ipse habet »."
+      ],
+      "explication": "En principe non. L'annulation d'un acte entraîne l'anéantissement des actes subséquents qui en dépendaient — si le fondement disparaît, ce qui repose sur lui s'effondre aussi. C'est le principe « nemo plus juris » : on ne peut pas transférer plus de droits qu'on n'en a. Si la vente initiale est nulle, la revente consentie par le premier acquéreur est également compromise. Cependant, d'importants tempéraments existent pour protéger les tiers qui ont acquis des droits de bonne foi avant l'annulation."
+    },
+    {
+      "question": "Vrai ou faux : l'erreur sur la valeur d'un bien constitue une cause de nullité du contrat.",
+      "choix": [
+        "Vrai, si le prix payé est très éloigné de la valeur réelle",
+        "Faux : en principe, l'erreur sur la valeur — avoir payé trop cher ou vendu trop bon marché — n'est pas une cause de nullité pour vice du consentement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit distingue l'erreur sur les qualités essentielles de l'erreur sur la valeur.",
+        "Chacun est censé évaluer la valeur de ce qu'il achète ou vend.",
+        "L'erreur sur la valeur peut relever d'une autre sanction (lésion) dans certains cas spéciaux."
+      ],
+      "explication": "Faux. En principe, l'erreur sur la valeur n'est pas une cause de nullité pour vice du consentement. Chaque partie est censée apprécier par elle-même la valeur de la chose qu'elle achète ou vend — c'est le risque normal de tout contrat. Le droit ne protège pas celui qui a simplement fait une mauvaise affaire. Des mécanismes spéciaux (comme la lésion en matière de vente immobilière dans certains systèmes) peuvent offrir une protection dans des cas d'écart extrême de valeur, mais ils obéissent à des conditions strictes différentes du vice du consentement."
+    },
+    {
+      "question": "Qu'est-ce que la résiliation d'un contrat et en quoi diffère-t-elle de la nullité ?",
+      "choix": [
+        "La résiliation est synonyme de nullité — les deux termes désignent la même chose",
+        "La résiliation est la cessation d'un contrat à exécution successive pour l'avenir seulement, sans rétroactivité, généralement en raison d'un manquement ou d'une décision unilatérale ; la nullité, elle, anéantit l'acte rétroactivement pour un vice de formation",
+        "La résiliation concerne les contrats commerciaux ; la nullité concerne les contrats civils",
+        "La résiliation est prononcée par les parties ; la nullité est toujours prononcée par le juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La résiliation ne supprime pas les effets déjà produits par le contrat.",
+        "Elle ne concerne que les contrats dont l'exécution s'étale dans le temps.",
+        "La nullité remonte à la naissance de l'acte ; la résiliation agit sur l'avenir seulement."
+      ],
+      "explication": "La résiliation est la cessation d'un contrat à exécution successive — comme un bail ou un contrat de travail — pour l'avenir seulement, sans rétroactivité. Les prestations déjà effectuées avant la résiliation restent acquises. Elle diffère fondamentalement de la nullité sur deux points : son effet n'est pas rétroactif (elle ne supprime pas ce qui a déjà été exécuté) et sa cause n'est pas un vice de formation (elle peut résulter d'une volonté unilatérale, d'un accord, ou d'un manquement)."
+    },
+    {
+      "question": "Vrai ou faux : en matière de dol, la tromperie doit nécessairement émaner du cocontractant lui-même.",
+      "choix": [
+        "Vrai, seul le dol du cocontractant permet d'obtenir la nullité",
+        "Faux : le dol d'un tiers peut aussi entraîner la nullité, à condition que le cocontractant en ait eu connaissance ou y ait participé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le dol peut impliquer des tiers complices.",
+        "Si le cocontractant était de bonne foi et ignorait la tromperie du tiers, la nullité est plus difficile à obtenir.",
+        "La complicité ou la connaissance du cocontractant est déterminante."
+      ],
+      "explication": "Faux. Le dol peut provenir d'un tiers et non du cocontractant lui-même. Cependant, pour que le dol du tiers entraîne la nullité du contrat, il faut que le cocontractant en ait eu connaissance ou y ait participé. Si le cocontractant était lui-même de bonne foi et ignorait totalement la tromperie commise par le tiers, la nullité pour dol est plus difficile à obtenir — la victime devra se retourner contre le tiers auteur du dol pour obtenir des dommages-intérêts."
+    },
+    {
+      "question": "Quelle est la nature de la nullité frappant un contrat conclu pour réaliser un trafic illicite ?",
+      "choix": [
+        "Nullité relative, car seules les parties à l'acte sont concernées",
+        "Nullité absolue, car l'acte viole l'ordre public et la règle protège l'intérêt général",
+        "Simple annulabilité, laissée à la discrétion des parties",
+        "Nullité partielle, car seules les clauses portant sur le trafic sont nulles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'objet ou la cause de cet acte est illicite.",
+        "La règle violée protège l'intérêt général, pas un intérêt privé.",
+        "La nature de la nullité est déterminée par la nature de l'intérêt protégé."
+      ],
+      "explication": "La nullité est absolue. Un contrat conclu pour réaliser un trafic illicite a un objet et une cause contraires à la loi et à l'ordre public. La règle violée protège l'intérêt général — la société dans son ensemble a intérêt à ce que de tels actes n'existent pas. Par conséquent, la nullité est absolue : elle peut être invoquée par toute personne intéressée, le juge peut la soulever d'office, et elle ne peut pas être confirmée. Aucune des parties ne peut se prévaloir de cet acte devant un tribunal."
+    },
+    {
+      "question": "Vrai ou faux : en cas de nullité pour incapacité d'un mineur, c'est toujours le mineur lui-même qui doit agir en annulation.",
+      "choix": [
+        "Vrai",
+        "Faux : ses représentants légaux (parents, tuteur) peuvent agir en son nom pendant sa minorité ; lui-même peut agir après sa majorité dans le délai de prescription"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mineur ne peut pas toujours agir seul en justice.",
+        "Ses représentants légaux agissent en son nom et dans son intérêt.",
+        "À sa majorité, il recouvre la possibilité d'agir personnellement."
+      ],
+      "explication": "Faux. Pendant la minorité, le mineur ne peut pas agir seul en justice — c'est précisément l'objet de la protection. Ce sont ses représentants légaux (parents, tuteur) qui peuvent agir en son nom pour demander l'annulation des actes qu'il a conclus sans les autorisations requises. Après sa majorité, le mineur devenu majeur peut lui-même agir en annulation dans le délai de prescription courant à compter de sa majorité."
+    },
+    {
+      "question": "Résumé final : parmi les causes suivantes, laquelle entraîne une nullité relative et non absolue ?",
+      "choix": [
+        "Un contrat ayant pour objet la vente d'une substance prohibée",
+        "Un contrat conclu en fraude à la loi",
+        "Un contrat conclu par une personne sous l'empire d'une violence morale exercée par son cocontractant",
+        "Un contrat violant une règle d'ordre public économique"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La nullité relative protège un intérêt privé particulier.",
+        "Les vices du consentement relèvent-ils de l'intérêt général ou d'un intérêt privé ?",
+        "La violence est un vice qui protège la victime personnellement."
+      ],
+      "explication": "La violence est un vice du consentement qui protège un intérêt privé particulier — celui de la victime de la contrainte. Elle donne lieu à nullité relative : seule la victime (ou ses ayants cause) peut en demander l'annulation, et elle peut décider de confirmer l'acte. En revanche, les trois autres options (objet prohibé, fraude à la loi, violation d'une règle d'ordre public) protègent l'intérêt général et donnent lieu à nullité absolue."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Rakoto souhaite acheter un terrain à Ambositra pour y construire une résidence touristique. Le vendeur, Niry, lui assure oralement que le terrain est entièrement constructible, qu'il est viabilisé (raccordé à l'eau et à l'électricité) et qu'aucune restriction urbanistique ne pèse sur lui. Convaincu, Rakoto signe l'acte de vente et verse le prix de 80 millions d'ariary. Six mois plus tard, il découvre que le terrain est partiellement classé en zone naturelle protégée, qu'aucun raccordement au réseau d'eau n'existe à proximité, et que Niry le savait parfaitement au moment de la vente. (1) Identifiez le ou les vices affectant le contrat. (2) Précisez la nature de la nullité et qui peut l'invoquer. (3) Quels sont les effets si la nullité est prononcée ? (4) Rakoto pourrait-il choisir de maintenir le contrat tout en obtenant réparation ?",
+      "choix": [
+        "Il n'y a aucun vice : Rakoto aurait dû vérifier lui-même les caractéristiques du terrain",
+        "(1) Dol par réticence dolosive : Niry a délibérément dissimulé des informations déterminantes (zone protégée, absence de raccordement) qu'il était tenu de communiquer. Possible erreur sur les qualités essentielles du terrain. (2) Nullité relative pour vice du consentement — seul Rakoto peut l'invoquer. (3) Anéantissement rétroactif du contrat, restitutions mutuelles : Niry rembourse 80 millions à Rakoto, Rakoto restitue le terrain. (4) Oui : Rakoto peut choisir de maintenir la vente et demander uniquement des dommages-intérêts pour le préjudice causé par les fausses assurances de Niry.",
+        "C'est une nullité absolue car l'objet du contrat est illicite",
+        "Rakoto ne peut rien faire car le contrat a été signé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quel vice du consentement consiste à taire délibérément une information déterminante ?",
+        "La nullité pour vice du consentement est-elle absolue ou relative ?",
+        "La victime d'un dol a-t-elle le choix entre nullité et dommages-intérêts ?"
+      ],
+      "explication": "(1) Vice du consentement — le dol. Niry a commis un dol par réticence dolosive : il a délibérément dissimulé des informations essentielles (classement partiel en zone protégée, absence de raccordement) qu'il était tenu de communiquer et qui étaient déterminantes pour le consentement de Rakoto. Si Rakoto avait connu la réalité, il n'aurait pas acheté à ce prix, voire pas du tout. On peut aussi retenir une erreur sur les qualités essentielles du terrain — mais le dol est plus facile à établir car il implique une preuve de l'intention de tromper et permet une action autonome en responsabilité. (2) La nullité est relative. Le dol est un vice du consentement qui protège un intérêt privé — celui de la victime de la tromperie. Seul Rakoto (ou ses ayants cause) peut invoquer cette nullité. Niry ne peut pas s'en prévaloir lui-même — il est l'auteur de la tromperie. (3) Si la nullité est prononcée, le contrat est anéanti rétroactivement — il est censé n'avoir jamais existé. Les restitutions s'imposent : Niry doit rembourser à Rakoto les 80 millions d'ariary versés, et Rakoto doit restituer le terrain à Niry. Si des améliorations ont été apportées au terrain entre-temps, des indemnisations supplémentaires peuvent être discutées. (4) Oui. La victime d'un dol a le choix entre deux voies : demander la nullité du contrat (avec restitutions) ou choisir de maintenir le contrat et demander uniquement des dommages-intérêts en réparation du préjudice causé par les manœuvres frauduleuses de Niry. Cette seconde option peut être préférable si Rakoto souhaite conserver le terrain — il en demande alors une réduction de prix ou des indemnités pour les travaux de raccordement nécessaires."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : La société TRANO SARL et son fournisseur MATERIA ont conclu un contrat de fourniture de matériaux de construction. Le contrat comporte une clause prévoyant que TRANO SARL renonce définitivement à tout recours judiciaire contre MATERIA en cas de litige sur la qualité des matériaux, et que tout différend sera résolu exclusivement à l'amiable. Six mois après, TRANO SARL reçoit une livraison de matériaux défectueux qui endommagent un chantier en cours. Elle souhaite saisir le tribunal mais MATERIA lui oppose la clause du contrat. Par ailleurs, un autre article du contrat stipule que les délais de livraison sont fixés à 15 jours. (1) La clause de renonciation aux recours judiciaires est-elle valide ? De quelle sanction est-elle frappée et de quelle nature ? (2) La nullité ou le retrait de cette clause entraîne-t-il la nullité de l'ensemble du contrat ? (3) TRANO SARL peut-elle agir en justice malgré la clause ?",
+      "choix": [
+        "La clause est valide car les parties l'ont librement acceptée",
+        "(1) La clause de renonciation à tout recours judiciaire est illicite car elle prive une partie d'un droit fondamental — l'accès à la justice. Elle est réputée non écrite ou frappée de nullité absolue. (2) Non : cette clause n'était pas déterminante pour la conclusion du contrat de fourniture — c'est une clause accessoire. La nullité partielle s'applique : le reste du contrat (délais, prix, qualité des matériaux) est maintenu. (3) Oui : TRANO SARL peut saisir le tribunal malgré la clause. Celle-ci étant nulle ou réputée non écrite, elle ne peut pas lui être opposée. TRANO SARL peut engager la responsabilité contractuelle de MATERIA pour livraison de matériaux défectueux.",
+        "TRANO SARL doit respecter la clause qu'elle a signée",
+        "Le contrat entier est nul et TRANO SARL ne peut rien réclamer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'accès à la justice est-il un droit auquel on peut renoncer par contrat ?",
+        "La clause de renonciation était-elle essentielle à l'objet principal du contrat de fourniture ?",
+        "Quelle technique juridique permet d'effacer une clause illicite sans détruire le contrat ?"
+      ],
+      "explication": "(1) La clause de renonciation à tout recours judiciaire est illicite. Le droit d'accès à la justice est un droit fondamental auquel une personne ne peut pas renoncer par avance de façon absolue dans un contrat. Une telle clause prive une partie de tout moyen de faire valoir ses droits en cas de litige — elle est contraire à l'ordre public. Elle est frappée de nullité absolue ou doit être réputée non écrite. La nature de la nullité est absolue car elle protège un droit fondamental appartenant à l'ordre public. N'importe qui peut en invoquer le caractère illicite, et elle ne peut pas être confirmée. (2) Non, la nullité de cette clause n'entraîne pas la nullité de l'ensemble du contrat. La clause de renonciation aux recours est une clause accessoire — elle n'est pas déterminante pour l'objet principal du contrat de fourniture (livraison de matériaux contre paiement). Les parties auraient très certainement conclu ce contrat de fourniture même sans cette clause. La nullité partielle s'applique : seule la clause illicite est annulée ou réputée non écrite. Le reste du contrat — les délais de livraison (15 jours), les prix, les spécifications des matériaux — demeure valable et s'impose aux deux parties. (3) Oui, TRANO SARL peut pleinement saisir le tribunal, malgré la clause. Celle-ci étant nulle ou réputée non écrite, elle est effacée du contrat et ne peut pas être opposée à TRANO SARL. TRANO SARL est en droit d'engager la responsabilité contractuelle de MATERIA pour inexécution du contrat — la livraison de matériaux défectueux constitue un manquement aux obligations contractuelles de MATERIA, qui engage sa responsabilité et l'oblige à réparer le préjudice causé (dommages sur le chantier, coûts de remplacement, etc.)."
+    }
+  ]
+}
