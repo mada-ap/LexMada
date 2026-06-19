@@ -560,6 +560,16 @@ html, body {
 
 .quiz-footer { padding: 8px 22px 48px; }
 
+/* bouton revoir leçon depuis quiz */
+.btn-review-lecon {
+  display: block; width: calc(100% - 40px); margin: 0 20px 10px;
+  padding: 10px; border-radius: 10px;
+  border: 1px solid rgba(201,168,76,0.3); background: transparent;
+  color: var(--gold); font-family: 'Inter', sans-serif; font-size: 11px;
+  font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase;
+  cursor: pointer; text-align: center;
+}
+
 /* badge modal */
 #badge-modal {
   position: fixed; inset: 0; z-index: 300;
@@ -770,6 +780,7 @@ html, body {
       </div>
       <div class="quiz-hearts" id="quiz-hearts"></div>
     </div>
+    <button class="btn-review-lecon" onclick="reviewLeconFromQuiz()">📖 Revoir la leçon</button>
   </div>
   <div class="quiz-body">
     <div class="quiz-question" id="quiz-question"></div>
@@ -997,14 +1008,14 @@ const formations = [
       { id:10, titre:"L'action en justice",                                               lecons: [{ titre: "L'action en justice",                                fichier: "data/niveau1-module10-lecon1.json" }] },
       { id:11, titre:"La personnalité juridique — personnes physiques et morales",        lecons: [{ titre: "La personnalité juridique",                          fichier: "data/niveau1-module11-lecon1.json" }] },
       { id:12, titre:"Les actes juridiques — contrats et actes unilatéraux",              lecons: [{ titre: "Les actes juridiques",                               fichier: "data/niveau1-module12-lecon1.json" }] },
-      { id:13, titre:"Les faits juridiques — responsabilité et quasi-contrats",           lecons: [] },
+      { id:13, titre:"Les faits juridiques — responsabilité et quasi-contrats",           lecons: [{ titre: "Les faits juridiques",                               fichier: "data/niveau1-module13-lecon1.json" }] },
       { id:14, titre:"Le patrimoine — composition et caractères",                         lecons: [{ titre: "Le patrimoine",                                      fichier: "data/niveau1-module14-lecon1.json" }] },
-      { id:15, titre:"Les biens — classification et régime juridique",                    lecons: [] },
+      { id:15, titre:"Les biens — classification et régime juridique",                    lecons: [{ titre: "Les biens",                                          fichier: "data/niveau1-module15-lecon1.json" }] },
       { id:16, titre:"La propriété — définition, attributs et limites",                   lecons: [{ titre: "La propriété",                                       fichier: "data/niveau1-module16-lecon1.json" }] },
-      { id:17, titre:"Les obligations — naissance et classification",                     lecons: [] },
-      { id:18, titre:"L'extinction des obligations — paiement, prescription, compensation", lecons: [] },
-      { id:19, titre:"La nullité des actes juridiques — causes et effets",                lecons: [] },
-      { id:20, titre:"Introduction au droit processuel — comment fonctionne un procès",   lecons: [] }
+      { id:17, titre:"Les obligations — naissance et classification",                     lecons: [{ titre: "Les obligations",                                    fichier: "data/niveau1-module17-lecon1.json" }] },
+      { id:18, titre:"L'extinction des obligations — paiement, prescription, compensation", lecons: [{ titre: "L'extinction des obligations",                    fichier: "data/niveau1-module18-lecon1.json" }] },
+      { id:19, titre:"La nullité des actes juridiques — causes et effets",                lecons: [{ titre: "La nullité des actes juridiques",                    fichier: "data/niveau1-module19-lecon1.json" }] },
+      { id:20, titre:"Introduction au droit processuel — comment fonctionne un procès",   lecons: [{ titre: "Introduction au droit processuel",                   fichier: "data/niveau1-module20-lecon1.json" }] }
     ]
   },
   {
@@ -1396,6 +1407,81 @@ function startQuiz() {
     quizState = { type: startType, questions, index: startIndex, wrongCount: 0, answered: false, hearts: 3, lecon: data, fullData: data };
     renderQuestion();
     showScreen('screen-quiz');
+    // Confirmation visuelle si reprise en cours
+    if (startIndex > 0) {
+      const banner = document.createElement('div');
+      banner.style.cssText = 'position:fixed;top:0;left:0;right:0;background:rgba(201,168,76,0.15);border-bottom:1px solid rgba(201,168,76,0.3);padding:8px 16px;text-align:center;font-size:11px;color:#C9A84C;z-index:50;';
+      banner.textContent = '↩ Reprise à la question ' + (startIndex + 1);
+      document.body.appendChild(banner);
+      setTimeout(() => banner.remove(), 3000);
+    }
+  });
+}
+
+/* Retour à la leçon depuis le quiz — garde la position */
+function reviewLeconFromQuiz() {
+  // Sauvegarde la position actuelle avant de quitter
+  saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index });
+  // Ouvre le reader sans réinitialiser quizState
+  const f = formations[curNiveau];
+  const m = f.modules[curModule];
+  const l = m.lecons[curLecon];
+  document.getElementById('reader-screen-title').textContent = 'Leçon ' + (curLecon + 1);
+  document.getElementById('reader-screen-sub').textContent = m.titre + ' — ' + f.niveau;
+  const c = document.getElementById('reader-content');
+  c.innerHTML = '<div class="reader-loading">Chargement…</div>';
+  // Bouton spécial : reprendre le quiz
+  const btn = document.getElementById('btn-start-quiz');
+  btn.style.display = 'block';
+  btn.textContent = '↩ Reprendre le quiz (Q' + (quizState.index + 1) + ') →';
+  btn.onclick = () => {
+    // Remet le bon onclick pour la prochaine fois
+    btn.onclick = null;
+    btn.setAttribute('onclick', 'startQuiz()');
+    showScreen('screen-quiz');
+  };
+  showScreen('screen-reader');
+  loadLeconData(l, (data) => {
+    c.innerHTML = '';
+    if (!data || data.error) {
+      c.innerHTML = '<div class="reader-loading">Impossible de charger la leçon.</div>';
+      return;
+    }
+    const kicker = document.createElement('div');
+    kicker.className = 'reader-kicker';
+    kicker.textContent = f.niveau + ' · Module ' + String(m.id).padStart(2,'0');
+    c.appendChild(kicker);
+    const title = document.createElement('div');
+    title.className = 'reader-title';
+    title.textContent = l.titre;
+    c.appendChild(title);
+    (data.contenu || []).forEach(sec => {
+      const wrap = document.createElement('div');
+      wrap.className = 'reader-section';
+      const st = document.createElement('div');
+      st.className = 'reader-section-title';
+      st.textContent = sec.titre;
+      wrap.appendChild(st);
+      const txt = document.createElement('div');
+      txt.className = 'reader-section-text';
+      txt.textContent = sec.texte;
+      wrap.appendChild(txt);
+      if (sec.definition) {
+        const box = document.createElement('div');
+        box.className = 'reader-box';
+        box.innerHTML = '<div class="reader-box-label">À retenir</div><div class="reader-box-text"></div>';
+        box.querySelector('.reader-box-text').textContent = sec.definition;
+        wrap.appendChild(box);
+      }
+      if (sec.exemple) {
+        const box = document.createElement('div');
+        box.className = 'reader-box example';
+        box.innerHTML = '<div class="reader-box-label">Exemple</div><div class="reader-box-text"></div>';
+        box.querySelector('.reader-box-text').textContent = sec.exemple;
+        wrap.appendChild(box);
+      }
+      c.appendChild(wrap);
+    });
   });
 }
 
@@ -1480,7 +1566,7 @@ function selectAnswer(ci) {
     const nextBtn = document.getElementById('btn-quiz-next');
     nextBtn.style.display = 'block';
     nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
-    saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index });
+    saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index + 1 }); // +1 = question suivante à faire
   } else {
     choiceDivs[ci].classList.add('wrong');
     choiceDivs[ci].classList.add('disabled');
