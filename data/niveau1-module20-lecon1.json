@@ -1,0 +1,904 @@
+{
+  "titre": "Introduction au droit processuel — comment fonctionne un procès",
+  "module": "Module 20 — Introduction au droit processuel",
+  "niveau": "Débutant",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que le droit processuel ?",
+      "texte": "Avoir un droit, c'est bien. Pouvoir le faire respecter, c'est mieux. Le droit processuel est précisément l'ensemble des règles qui organisent la manière dont on saisit un juge, dont le procès se déroule, et dont la décision est rendue et exécutée. Sans ces règles, chacun pourrait agir à sa guise devant les tribunaux : personne ne saurait quel juge saisir, dans quel délai, selon quelle procédure, ni comment contester une décision injuste. Le droit processuel donne une forme au conflit : il transforme un désaccord brut entre deux personnes en un débat organisé, encadré par des règles précises, devant un tiers impartial. À Madagascar, ce corps de règles est principalement contenu dans le Code de Procédure Civile, le Code de Procédure Pénale, et diverses lois spéciales régissant certaines juridictions particulières. Ces textes, combinés avec la Constitution du 11 décembre 2010 qui garantit le droit à la justice pour tous, constituent le socle du droit processuel malgache. Le terme plus courant dans le langage quotidien est « procédure » — la procédure civile pour les litiges entre particuliers, la procédure pénale pour les infractions, la procédure administrative pour les litiges avec l'État.",
+      "definition": "Droit processuel : ensemble des règles qui organisent le fonctionnement de la justice, depuis la saisine du juge jusqu'à l'exécution de la décision. Il comprend la procédure civile, la procédure pénale et la procédure administrative, et garantit que le procès se déroule de manière équitable, organisée et prévisible."
+    },
+    {
+      "titre": "Pourquoi a-t-on besoin d'un procès ? La justice étatique contre la justice privée",
+      "texte": "Toute société connaît des conflits : une dette impayée, un terrain disputé, une agression, un contrat mal exécuté. La question est : comment les résoudre ? Il existe deux grandes voies. La première est la justice privée : chacun se fait justice lui-même, par la force ou la négociation directe. Dans les sociétés primitives, c'était la règle. Mais cette voie est dangereuse — elle favorise le plus fort au détriment du plus faible, génère des cycles de vengeance, et crée l'insécurité permanente. La seconde voie est la justice étatique, qui confie à un tiers impartial — le juge — le soin de trancher les litiges selon des règles prédéfinies. À Madagascar, comme dans tout État de droit, la justice privée est en principe interdite : nul ne peut se faire justice lui-même. L'État s'est réservé le monopole de la contrainte légitime. Mais cette interdiction de la justice privée n'a de sens que si la justice étatique est accessible, rapide, équitable et effective — ce qui reste un défi permanent pour le système judiciaire malgache, qui s'efforce notamment de rapprocher les tribunaux des populations les plus éloignées.",
+      "definition": "Justice étatique : système dans lequel les conflits sont tranchés par un juge nommé par l'État, selon des règles prédéfinies, avec pour objectif de garantir l'impartialité et l'égalité entre les parties. Elle s'oppose à la justice privée (règlement des conflits par la force ou la vengeance), interdite dans tout État de droit."
+    },
+    {
+      "titre": "Les trois ordres de juridiction à Madagascar",
+      "texte": "Tous les tribunaux ne font pas la même chose. À Madagascar, l'organisation judiciaire distingue trois ordres de juridiction, chacun compétent pour une catégorie de litiges bien précise. Le premier est l'ordre judiciaire, qui traite les litiges entre particuliers (civils, commerciaux, pénaux, sociaux) : il comprend les Tribunaux de Première Instance (TPI), les Cours d'Appel, et la Cour de Cassation, qui est une chambre de la Cour Suprême. Le deuxième est l'ordre administratif, compétent pour les litiges opposant les citoyens à l'État ou aux collectivités publiques : il comprend les tribunaux administratifs et le Conseil d'État, qui est lui aussi une chambre de la Cour Suprême. Le troisième est l'ordre financier, qui contrôle la gestion des finances publiques : il comprend la Cour des Comptes, également chambre de la Cour Suprême. Ces trois ordres sont coiffés par la Cour Suprême, plus haute instance juridictionnelle de Madagascar, dont le siège est à Antananarivo. Lorsqu'un conflit de compétence oppose deux juridictions d'ordres différents, c'est la Cour Suprême en assemblée plénière qui tranche.",
+      "definition": "Trois ordres de juridiction à Madagascar : ordre judiciaire (litiges entre particuliers, infractions pénales), ordre administratif (litiges entre citoyens et État), ordre financier (contrôle des finances publiques). Ces trois ordres sont coiffés par la Cour Suprême, plus haute instance juridictionnelle du pays, siégeant à Antananarivo.",
+      "exemple": "Si Rakoto est renversé par un véhicule de l'armée en mission, il devra saisir le tribunal administratif et non le tribunal civil ordinaire, car le litige oppose un particulier à l'État. En revanche, si ce même Rakoto est renversé par un chauffeur privé, il devra saisir le Tribunal de Première Instance, relevant de l'ordre judiciaire."
+    },
+    {
+      "titre": "Les Tribunaux de Première Instance (TPI) : porte d'entrée du système judiciaire",
+      "texte": "Les Tribunaux de Première Instance, couramment désignés par le sigle TPI, sont les juridictions de base de l'ordre judiciaire malgache. Ce sont eux que les citoyens saisissent en premier lieu pour la quasi-totalité des litiges civils, commerciaux, pénaux ou sociaux. Actuellement, 48 TPI sont fonctionnels sur l'ensemble du territoire national, ce qui représente un effort de maillage judiciaire significatif pour couvrir les 22 régions de Madagascar. Chaque TPI comporte plusieurs chambres spécialisées selon la nature du litige : une chambre civile pour les litiges entre particuliers portant sur des droits civils, une chambre commerciale pour les affaires entre commerçants, une chambre sociale dite tribunal du travail pour les litiges entre employeurs et salariés, et une chambre pénale pour les infractions. La décision rendue par un TPI s'appelle un jugement. Ce jugement peut faire l'objet d'un appel devant la Cour d'Appel, sauf lorsqu'il est rendu en dernier ressort, ce qui est le cas pour les litiges dont l'enjeu financier est inférieur à un certain seuil fixé par la loi.",
+      "definition": "Tribunal de Première Instance (TPI) : juridiction de base de l'ordre judiciaire malgache, compétente pour les litiges civils, commerciaux, sociaux et pénaux en premier ressort. On en compte 48 fonctionnels sur le territoire national. Sa décision s'appelle un jugement, susceptible d'appel devant la Cour d'Appel sauf si rendu en dernier ressort."
+    },
+    {
+      "titre": "Les Cours d'Appel : le second regard sur l'affaire",
+      "texte": "Le principe du double degré de juridiction, qui prévaut à Madagascar en matière civile comme en matière pénale, garantit à toute partie insatisfaite d'un jugement de première instance la possibilité de faire réexaminer son affaire par une juridiction supérieure. Ce réexamen est assuré par les Cours d'Appel, installées dans les chefs-lieux des six provinces : Antananarivo, Toamasina, Fianarantsoa, Mahajanga, Toliara et Antsiranana. La Cour d'Appel ne rejuge pas l'affaire depuis le début comme si rien ne s'était passé : elle réexamine à la fois les faits et le droit, mais en partant du dossier constitué en première instance, complété par les nouveaux arguments et preuves que les parties souhaitent produire. La décision de la Cour d'Appel s'appelle un arrêt. Cet arrêt peut lui-même, dans certains cas, être contesté devant la Cour de Cassation, mais uniquement pour des raisons de droit, et non pour obtenir un troisième réexamen des faits.",
+      "definition": "Cour d'Appel : juridiction du second degré qui réexamine, en fait et en droit, les jugements rendus par les TPI, sur recours d'une partie insatisfaite. Six Cours d'Appel sont implantées à Madagascar (Antananarivo, Toamasina, Fianarantsoa, Mahajanga, Toliara, Antsiranana). Sa décision s'appelle un arrêt."
+    },
+    {
+      "titre": "La Cour Suprême et la Cour de Cassation : le contrôle du droit",
+      "texte": "Au sommet de la hiérarchie judiciaire malgache se trouve la Cour Suprême, dont le siège est à Antananarivo. Elle est dirigée par un Premier Président, secondé par trois Vice-présidents qui sont respectivement le Président de la Cour de Cassation, le Président du Conseil d'État et le Président de la Cour des Comptes. Pour l'ordre judiciaire, c'est la Cour de Cassation qui occupe le rôle de juridiction suprême. Elle n'est pas un troisième degré de jugement : elle ne rejuge ni les faits ni le fond du litige. Son rôle est uniquement de contrôler si les juridictions inférieures ont correctement appliqué la loi. Si elle constate une erreur de droit, elle casse la décision et renvoie l'affaire devant une autre juridiction du fond pour qu'elle soit rejugée. Pour se pourvoir en cassation en matière civile et commerciale, il faut respecter un délai de deux mois à compter de la signification ou notification à personne ou à domicile de la décision contestée. La Cour Suprême adresse également un rapport annuel de ses activités au Président de la République, au Premier Ministre, aux présidents des Assemblées, et au Ministre de la Justice.",
+      "definition": "Cour Suprême de Madagascar : plus haute instance juridictionnelle, siégeant à Antananarivo. Elle comprend la Cour de Cassation (ordre judiciaire), le Conseil d'État (ordre administratif) et la Cour des Comptes (ordre financier). La Cour de Cassation ne rejuge pas les faits mais contrôle uniquement la bonne application du droit. Le délai de pourvoi en cassation en matière civile est de deux mois."
+    },
+    {
+      "titre": "Les principes directeurs du procès : les règles du jeu",
+      "texte": "Tout procès, quelle que soit la juridiction concernée, obéit à un ensemble de principes fondamentaux qui garantissent son équité. Le premier est le principe du contradictoire : chaque partie doit avoir la possibilité de connaître et de discuter les arguments et les preuves de l'autre avant que le juge ne statue. Le juge ne peut fonder sa décision sur des éléments dont une partie n'aurait pas eu connaissance. Le deuxième est le principe d'égalité des armes : les deux parties doivent disposer des mêmes possibilités de faire valoir leur position devant le juge, sans qu'aucune ne soit avantagée par sa qualité ou sa puissance. Le troisième est le droit à un juge impartial : le juge ne doit avoir aucun intérêt personnel dans l'issue du litige, ni de lien particulier avec l'une des parties. Il doit juger en appliquant la loi, sans favoritisme. Le quatrième est la publicité des débats : en principe, les audiences sont publiques, ce qui permet aux citoyens de contrôler le bon fonctionnement de la justice. Enfin, l'indépendance de la magistrature, garantie par la Constitution du 11 décembre 2010, protège les juges contre toute pression extérieure : dans l'exercice de leurs fonctions juridictionnelles, les magistrats du siège ne sont soumis qu'à la Constitution et à la loi.",
+      "definition": "Principes directeurs du procès à Madagascar : principe du contradictoire (chaque partie connaît et discute les arguments de l'autre), égalité des armes (mêmes possibilités pour les deux parties), droit à un juge impartial (sans intérêt personnel dans l'affaire), publicité des débats (audiences publiques en principe), indépendance de la magistrature (consacrée par la Constitution de 2010)."
+    },
+    {
+      "titre": "La compétence : choisir le bon tribunal",
+      "texte": "Saisir le bon tribunal est une étape cruciale. On parle de compétence pour désigner le pouvoir d'un tribunal de connaître d'une affaire. La compétence se détermine selon deux critères cumulatifs. Le premier est la compétence d'attribution (ou matérielle) : elle désigne le type de tribunal compétent en fonction de la nature du litige. Un litige entre un employeur et un salarié relève de la chambre sociale du TPI (tribunal du travail), pas de la chambre civile. Un litige entre commerçants relève de la chambre commerciale. Un litige administratif relève du tribunal administratif. Le second est la compétence territoriale : parmi tous les tribunaux du même type, lequel est géographiquement compétent ? En matière civile, la règle générale est que le tribunal compétent est celui du lieu du domicile du défendeur — celui contre qui l'action est dirigée. Des règles spéciales s'appliquent en matière commerciale (lieu d'exécution du contrat ou domicile du défendeur), en droit du travail (lieu du travail), ou en matière immobilière (lieu où se trouve l'immeuble). Si une partie saisit un tribunal incompétent, l'autre peut soulever une exception d'incompétence, et le juge renverra l'affaire devant la juridiction compétente.",
+      "definition": "Compétence judiciaire : pouvoir d'un tribunal de connaître d'une affaire. Elle se détermine selon deux critères cumulatifs : la compétence d'attribution (nature du litige → type de tribunal) et la compétence territoriale (lieu du litige ou du domicile du défendeur → tribunal géographiquement compétent). En matière civile, la règle générale désigne le tribunal du domicile du défendeur.",
+      "exemple": "Vonjy, domiciliée à Toamasina, conclut un contrat de travail avec une entreprise dont le siège est à Antananarivo. Si l'entreprise la licencie abusivement, le tribunal du travail (chambre sociale du TPI) compétent sera en principe celui du lieu où elle travaillait effectivement, c'est-à-dire Toamasina — et non Antananarivo où se trouve le siège de l'entreprise."
+    },
+    {
+      "titre": "Les étapes d'un procès civil à Madagascar",
+      "texte": "Un procès civil à Madagascar se déroule selon plusieurs étapes successives. La première est la saisine : le demandeur introduit son action par voie d'assignation (acte d'huissier notifiant au défendeur qu'il est convoqué devant le tribunal et lui exposant les prétentions du demandeur) ou, dans certains cas, par simple requête ou déclaration au greffe. Le greffe est le service administratif du tribunal qui reçoit, enregistre et conserve tous les actes de procédure. La deuxième étape est la mise en état : les parties échangent leurs arguments écrits (appelés conclusions) et leurs pièces (preuves documentaires). En matière civile, c'est aux parties elles-mêmes de rassembler et de produire les preuves de leurs prétentions. La troisième étape est l'audience : les parties ou leurs avocats plaident leur affaire devant le juge. Le juge peut également ordonner des mesures d'instruction (expertise, enquête, descente sur les lieux) pour mieux appréhender les faits complexes. La quatrième étape est le délibéré : le juge se retire pour examiner l'affaire et rédiger sa décision. La cinquième étape est le prononcé du jugement, qui est ensuite notifié ou signifié aux parties. À partir de cette notification, les délais pour former un recours (appel, pourvoi en cassation) commencent à courir.",
+      "definition": "Étapes d'un procès civil à Madagascar : saisine (assignation, requête ou déclaration au greffe), mise en état (échange des conclusions et des pièces), audience (plaidoiries et éventuelles mesures d'instruction), délibéré (examen et rédaction de la décision par le juge), prononcé et notification du jugement (point de départ des délais de recours)."
+    },
+    {
+      "titre": "Le procès pénal : des particularités essentielles",
+      "texte": "Le procès pénal diffère du procès civil sur plusieurs points fondamentaux. D'abord, l'initiative de la poursuite n'appartient pas à la victime seule : c'est le Ministère Public (le Parquet), représentant la société, qui déclenche et conduit l'action publique. La victime peut se constituer partie civile pour réclamer réparation de son préjudice, mais ce n'est pas elle qui poursuit l'auteur de l'infraction au nom de la société. Ensuite, la charge de la preuve pèse exclusivement sur le Ministère Public : c'est à lui de prouver la culpabilité de l'accusé, et non à l'accusé de prouver son innocence. C'est ce que garantit la présomption d'innocence, consacrée par la Constitution malgache et les textes internationaux auxquels Madagascar est partie. Enfin, les sanctions prononcées sont de nature différente : peines d'emprisonnement, amendes, confiscations — et non de simples dommages-intérêts comme en matière civile. En matière pénale, les infractions sont classées en trois catégories selon leur gravité : les contraventions (les moins graves, jugées par le TPI en chambre correctionnelle ou par des tribunaux spéciaux), les délits (de gravité moyenne, jugés par la chambre correctionnelle du TPI), et les crimes (les plus graves, relevant de la Cour d'Assises).",
+      "definition": "Procès pénal : procédure par laquelle la société, représentée par le Ministère Public (Parquet), poursuit l'auteur présumé d'une infraction. Il repose sur la présomption d'innocence (la preuve de la culpabilité incombe au Parquet), et aboutit à des sanctions pénales (emprisonnement, amende). Les infractions sont classées en contraventions, délits et crimes selon leur gravité."
+    },
+    {
+      "titre": "Les acteurs du procès : qui fait quoi ?",
+      "texte": "Un procès fait intervenir plusieurs acteurs aux rôles bien distincts. Le juge (ou le tribunal collégial) est le tiers impartial qui tranche le litige en appliquant la loi ; en matière civile, il est passif dans la recherche des preuves, qui incombe aux parties ; en matière pénale, le juge d'instruction peut conduire une enquête approfondie avant le procès. L'avocat assiste et représente les parties : il rédige les actes de procédure, prépare les arguments juridiques, plaide à l'audience, et conseille son client tout au long du procès. L'huissier de justice est l'officier ministériel chargé de signifier les actes de procédure (assignations, jugements) et d'exécuter les décisions de justice. Le greffier est le technicien administratif du tribunal : il dresse les procès-verbaux d'audience, conserve les dossiers, délivre les copies de décisions et authentifie les actes. Le Ministère Public (Parquet) représente la société en matière pénale et veille à l'application de la loi ; en matière civile, il peut intervenir dans certaines affaires touchant à l'ordre public. L'expert judiciaire est un technicien spécialisé dans un domaine précis (médecine, comptabilité, expertise immobilière) désigné par le juge pour l'éclairer sur des questions techniques.",
+      "definition": "Acteurs du procès à Madagascar : le juge (tranche le litige, impartial), l'avocat (assiste et représente les parties), l'huissier de justice (signifie les actes et exécute les décisions), le greffier (administration judiciaire et conservation des dossiers), le Ministère Public (représente la société en matière pénale), l'expert judiciaire (éclaire le juge sur des questions techniques)."
+    },
+    {
+      "titre": "La preuve au procès : qui prouve quoi ?",
+      "texte": "La preuve est le cœur du procès : si l'on ne peut pas prouver ce que l'on allègue, le juge ne peut pas l'accueillir, même si c'est vrai. Le principe fondamental est résumé par la maxime latine classique : actori incumbit probatio — la preuve incombe à celui qui allègue, c'est-à-dire au demandeur. En matière civile, les principaux modes de preuve sont l'écrit (contrat signé, courrier, facture), la preuve testimoniale (témoignages), l'aveu (reconnaissance par une partie des faits allégués contre elle), le serment, et la présomption légale (conséquence que la loi tire d'un fait connu pour établir un fait inconnu). En matière commerciale, la preuve est plus libre qu'en matière civile : les usages commerciaux et les livres de commerce peuvent servir de preuve. En matière pénale, la preuve est entièrement libre : le juge retient sa conviction intime selon l'ensemble des éléments qui lui sont soumis. À Madagascar, comme dans tout système de droit civil, le juge a l'obligation de motiver sa décision : il doit expliquer en droit et en fait les raisons pour lesquelles il retient telle preuve et écarte telle autre.",
+      "definition": "Preuve au procès : en matière civile, la preuve incombe au demandeur (actori incumbit probatio) ; les modes principaux sont l'écrit, le témoignage, l'aveu, le serment et la présomption légale. En matière commerciale, la preuve est plus libre. En matière pénale, la preuve est entièrement libre, le juge formant sa conviction intime. Le juge doit toujours motiver sa décision."
+    },
+    {
+      "titre": "Les alternatives au procès : règlement amiable et arbitrage",
+      "texte": "Un procès est long, coûteux et incertain. C'est pourquoi le droit encourage les parties à chercher d'abord un règlement amiable de leur différend, avant ou même pendant le procès. À Madagascar, plusieurs alternatives existent. La médiation consiste à faire appel à un tiers neutre, le médiateur, qui aide les parties à trouver elles-mêmes un accord : contrairement au juge, le médiateur ne tranche pas — il facilite le dialogue. La conciliation est un processus similaire, souvent conduit par un juge ou un conciliateur désigné par le tribunal : si les parties s'accordent, un procès-verbal de conciliation est dressé, qui a la valeur d'un jugement. L'arbitrage est une autre voie : les parties confient la résolution de leur litige à un ou plusieurs arbitres privés, qu'elles choisissent elles-mêmes pour leur expertise technique ou juridique. La sentence arbitrale rendue a, en principe, force de chose jugée, mais son exécution forcée nécessite une exequatur (ordonnance d'un tribunal autorisant l'exécution). En matière commerciale notamment, les clauses compromissoires (clauses des contrats stipulant que tout litige sera soumis à l'arbitrage) sont fréquentes et favorisent le règlement rapide des différends d'affaires.",
+      "definition": "Alternatives au procès à Madagascar : médiation (tiers neutre facilitant un accord entre les parties sans trancher), conciliation (processus similaire conduit par un juge ou conciliateur, aboutissant à un accord ayant valeur de jugement), arbitrage (litige tranché par des arbitres privés choisis par les parties, dont la sentence a force de chose jugée sous réserve d'exequatur)."
+    },
+    {
+      "titre": "L'exécution des décisions de justice : quand le jugement ne suffit pas",
+      "texte": "Obtenir un jugement favorable ne suffit pas toujours : encore faut-il que la partie condamnée s'exécute. Lorsqu'elle refuse ou ne peut pas s'exécuter spontanément, le créancier doit recourir à l'exécution forcée. En droit malgache, l'exécution forcée suppose en principe que la décision soit revêtue de la formule exécutoire, apposée par le greffier, qui lui confère son caractère obligatoire envers les tiers. L'huissier de justice est l'agent d'exécution par excellence : c'est lui qui procède aux saisies (mobilières, immobilières, sur salaire, sur compte bancaire) pour contraindre le débiteur récalcitrant à s'acquitter de sa dette. Des astreintes peuvent également être prononcées par le juge pour inciter psychologiquement le débiteur à s'exécuter : il s'agit d'une somme d'argent due par jour de retard, qui peut devenir très importante et qui s'ajoute à la condamnation principale. L'exécution des décisions de justice est l'un des défis majeurs du système judiciaire malgache, notamment dans les zones rurales où les moyens d'exécution restent limités et où la résistance à l'exécution est parfois forte.",
+      "definition": "Exécution forcée des décisions de justice : procédure permettant au créancier d'obtenir l'exécution d'une décision lorsque le débiteur refuse de s'y conformer. Elle nécessite la formule exécutoire apposée par le greffier et est mise en œuvre par l'huissier de justice (saisies mobilières, immobilières, saisies-arrêts). Des astreintes (somme due par jour de retard) peuvent renforcer la pression sur le débiteur récalcitrant."
+    },
+    {
+      "titre": "Les voies de recours : contester une décision de justice à Madagascar",
+      "texte": "Une décision de justice peut se tromper sur les faits ou mal appliquer le droit. C'est pourquoi le système judiciaire malgache, comme tout système moderne, prévoit des voies de recours permettant de la contester. Les voies de recours ordinaires sont : l'opposition (ouverte à la partie qui n'a pas comparu et contre laquelle un jugement par défaut a été rendu, devant le même tribunal) et l'appel (devant la Cour d'Appel, qui réexamine l'affaire en fait et en droit). L'appel a deux effets importants : l'effet suspensif (en principe, la décision de première instance ne peut pas être exécutée pendant le délai d'appel et tant que l'appel n'a pas été jugé, sauf décision de première instance assortie de l'exécution provisoire) et l'effet dévolutif (la Cour d'Appel reçoit l'ensemble du litige pour le réexaminer). Les voies de recours extraordinaires sont : la tierce opposition (permettant à un tiers non partie au procès de contester un jugement qui lui porte préjudice), la révision (permettant de remettre en cause un jugement définitif en cas de fraude ou de faux), et le pourvoi en cassation devant la Cour de Cassation (pour violation de la loi uniquement, dans un délai de deux mois à compter de la signification de la décision en matière civile).",
+      "definition": "Voies de recours à Madagascar : ordinaires (opposition — contre un jugement par défaut devant le même tribunal ; appel — devant la Cour d'Appel, avec effets suspensif et dévolutif) et extraordinaires (tierce opposition — tiers lésé ; révision — fraude ou faux ; pourvoi en cassation — violation de la loi, dans un délai de deux mois en matière civile)."
+    },
+    {
+      "titre": "Récapitulatif : les clés du droit processuel malgache",
+      "texte": "Voici ce qu'il faut retenir de ce module. Le droit processuel organise la manière dont on saisit un juge et dont le procès se déroule. Madagascar distingue trois ordres de juridiction : judiciaire (TPI, Cours d'Appel, Cour de Cassation), administratif (tribunaux administratifs, Conseil d'État), et financier (Cour des Comptes), coiffés par la Cour Suprême. Tout procès repose sur des principes fondamentaux : contradictoire, égalité des armes, impartialité du juge, publicité des débats, indépendance de la magistrature. La compétence du tribunal se détermine par la nature du litige (compétence d'attribution) et le lieu (compétence territoriale). Un procès civil suit plusieurs étapes : saisine, mise en état, audience, délibéré, jugement. Le procès pénal met en jeu le Ministère Public et repose sur la présomption d'innocence. La preuve incombe au demandeur en matière civile, est libre en matière pénale. Des alternatives au procès existent : médiation, conciliation, arbitrage. L'exécution des décisions passe par l'huissier et les saisies. Les voies de recours ordinaires (opposition, appel) et extraordinaires (tierce opposition, révision, cassation) permettent de contester les décisions.",
+      "definition": "À retenir : 3 ordres de juridiction (judiciaire, administratif, financier) + Cour Suprême. TPI (48 fonctionnels) → Cour d'Appel (6) → Cour de Cassation. Principes : contradictoire, égalité des armes, impartialité, publicité, indépendance. Compétence = attribution + territoire. Procès = saisine → mise en état → audience → délibéré → jugement. Preuve : au demandeur en civil, libre en pénal. Recours : opposition, appel (ordinaires) ; tierce opposition, révision, cassation (extraordinaires)."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que le droit processuel ?",
+      "choix": [
+        "L'ensemble des règles qui définissent les droits des citoyens",
+        "L'ensemble des règles qui organisent la manière dont on saisit un juge, dont le procès se déroule et dont la décision est rendue et exécutée",
+        "L'ensemble des règles qui définissent les contrats",
+        "L'ensemble des règles fiscales applicables aux entreprises"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce droit concerne la forme du procès, pas son contenu.",
+        "Il répond à la question : comment saisit-on un juge et comment le procès fonctionne-t-il ?",
+        "Il comprend la procédure civile, pénale et administrative."
+      ],
+      "explication": "Le droit processuel est l'ensemble des règles qui organisent la manière dont on saisit un juge, dont le procès se déroule, et dont la décision est rendue et exécutée. À Madagascar, il est principalement contenu dans le Code de Procédure Civile, le Code de Procédure Pénale, et diverses lois spéciales."
+    },
+    {
+      "question": "Pourquoi la justice privée est-elle interdite dans un État de droit comme Madagascar ?",
+      "choix": [
+        "Parce qu'elle est trop coûteuse",
+        "Parce qu'elle favorise le plus fort au détriment du plus faible, génère des cycles de vengeance et crée l'insécurité",
+        "Parce qu'elle est réservée aux chefs traditionnels",
+        "Parce qu'elle n'existe pas dans la tradition malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à ce qui se passe quand chacun se fait justice lui-même.",
+        "Le plus fort domine, les vendettas s'enchaînent, la paix sociale est impossible.",
+        "L'État s'est réservé le monopole de la contrainte légitime précisément pour éviter ces inconvénients."
+      ],
+      "explication": "La justice privée est interdite car elle favorise le plus fort au détriment du plus faible, génère des cycles de vengeance et crée une insécurité permanente. L'État s'est réservé le monopole de la contrainte légitime, et c'est à lui, par l'intermédiaire des tribunaux, de trancher les litiges selon des règles prédéfinies."
+    },
+    {
+      "question": "Combien d'ordres de juridiction distincts Madagascar reconnaît-il ?",
+      "choix": [
+        "Un seul ordre, unifié",
+        "Deux ordres : civil et pénal",
+        "Trois ordres : judiciaire, administratif et financier",
+        "Quatre ordres : civil, pénal, commercial et administratif"
+      ],
+      "reponse": 2,
+      "indices": [
+        "L'un traite les litiges entre particuliers, l'autre les litiges avec l'État, le troisième contrôle les finances publiques.",
+        "Ces trois ordres sont coiffés par la Cour Suprême.",
+        "La Constitution du 11 décembre 2010 consacre cette organisation."
+      ],
+      "explication": "Madagascar reconnaît trois ordres de juridiction distincts : l'ordre judiciaire (litiges entre particuliers, infractions pénales), l'ordre administratif (litiges entre citoyens et État), et l'ordre financier (contrôle des finances publiques). Ces trois ordres sont coiffés par la Cour Suprême, siégeant à Antananarivo."
+    },
+    {
+      "question": "Quelle juridiction est compétente pour trancher un litige entre un citoyen et l'administration malgache ?",
+      "choix": [
+        "Le Tribunal de Première Instance, chambre civile",
+        "Le tribunal administratif, relevant de l'ordre administratif",
+        "La chambre commerciale du TPI",
+        "La Cour d'Appel directement, sans passer par le premier degré"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce type de litige oppose un particulier à l'État ou à une collectivité publique.",
+        "Il ne relève pas de l'ordre judiciaire ordinaire.",
+        "Il relève d'un ordre spécifique dédié aux relations entre les citoyens et l'État."
+      ],
+      "explication": "Un litige opposant un citoyen à l'administration relève de l'ordre administratif, et non de l'ordre judiciaire. Il doit être porté devant le tribunal administratif compétent, et non devant le TPI. En cas d'erreur, l'autre partie peut soulever une exception d'incompétence."
+    },
+    {
+      "question": "Combien de Tribunaux de Première Instance (TPI) sont actuellement fonctionnels à Madagascar ?",
+      "choix": [
+        "6 TPI",
+        "22 TPI",
+        "48 TPI",
+        "100 TPI"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Ce nombre vise à couvrir l'ensemble du territoire national.",
+        "Il dépasse le nombre de provinces (6) et de régions (22).",
+        "Le Ministère de la Justice malgache confirme ce chiffre."
+      ],
+      "explication": "48 Tribunaux de Première Instance sont actuellement fonctionnels sur l'ensemble du territoire malgache, selon les données du Ministère de la Justice. Ce maillage judiciaire vise à rapprocher la justice des citoyens dans un pays au territoire très vaste."
+    },
+    {
+      "question": "Quelles chambres composent un Tribunal de Première Instance à Madagascar ?",
+      "choix": [
+        "Une chambre unique traitant tous les litiges sans distinction",
+        "Une chambre civile, une chambre commerciale, une chambre sociale (tribunal du travail) et une chambre pénale",
+        "Uniquement une chambre civile et une chambre pénale",
+        "Une chambre administrative et une chambre financière"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Chaque chambre traite une catégorie de litiges spécifique.",
+        "L'une concerne les relations de travail, une autre les affaires entre commerçants.",
+        "Un TPI malgache comporte cinq chambres spécialisées selon la nature du litige."
+      ],
+      "explication": "Chaque TPI malgache comporte plusieurs chambres spécialisées : une chambre civile (litiges entre particuliers portant sur des droits civils), une chambre commerciale (affaires entre commerçants), une chambre sociale ou tribunal du travail (litiges entre employeurs et salariés) et une chambre pénale (infractions). Cette spécialisation garantit que chaque type de litige est traité par des magistrats formés à la matière concernée."
+    },
+    {
+      "question": "Combien de Cours d'Appel Madagascar compte-t-elle, et où sont-elles implantées ?",
+      "choix": [
+        "Une seule, à Antananarivo uniquement",
+        "Six Cours d'Appel, dans les chefs-lieux des six provinces : Antananarivo, Toamasina, Fianarantsoa, Mahajanga, Toliara et Antsiranana",
+        "Vingt-deux Cours d'Appel, une par région",
+        "Trois Cours d'Appel, dans les trois plus grandes villes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le nombre de Cours d'Appel correspond au nombre de provinces malgaches.",
+        "Elles sont installées conformément au principe du double degré de juridiction.",
+        "Pendant la colonisation, il n'en existait qu'une seule à Antananarivo."
+      ],
+      "explication": "Madagascar compte six Cours d'Appel, installées dans les chefs-lieux des six provinces : Antananarivo, Toamasina, Fianarantsoa, Mahajanga, Toliara et Antsiranana. Cette organisation répond au principe du double degré de juridiction et vise à rapprocher la justice d'appel des citoyens."
+    },
+    {
+      "question": "Qu'est-ce que le principe du double degré de juridiction ?",
+      "choix": [
+        "L'obligation de passer devant deux juges différents lors du même procès",
+        "La garantie accordée à toute partie insatisfaite d'un jugement de première instance de faire réexaminer son affaire par une juridiction supérieure",
+        "L'obligation de déposer deux demandes successives avant d'accéder au tribunal",
+        "Le droit d'obtenir automatiquement une décision favorable en appel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe s'applique en matière civile comme en matière pénale à Madagascar.",
+        "Il garantit qu'une première décision peut être remise en question.",
+        "Il ne garantit pas que la décision en appel sera favorable, seulement que le réexamen est possible."
+      ],
+      "explication": "Le principe du double degré de juridiction, qui prévaut à Madagascar en matière civile comme en matière pénale, garantit à toute partie insatisfaite d'un jugement de première instance la possibilité de faire réexaminer son affaire par une juridiction supérieure — la Cour d'Appel. Ce réexamen porte à la fois sur les faits et sur le droit."
+    },
+    {
+      "question": "Quel est le rôle spécifique de la Cour de Cassation dans l'ordre judiciaire malgache ?",
+      "choix": [
+        "Elle rejuge entièrement les affaires, comme un troisième degré de jugement",
+        "Elle contrôle uniquement si les juridictions inférieures ont correctement appliqué la loi, sans rejuger les faits",
+        "Elle fixe le montant des dommages-intérêts en dernier ressort",
+        "Elle désigne les avocats d'office pour les parties démunies"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Cour de Cassation n'est pas un troisième degré de jugement.",
+        "Elle ne s'intéresse pas aux faits, seulement à la manière dont le droit a été appliqué.",
+        "Si elle constate une erreur de droit, elle casse la décision et renvoie l'affaire."
+      ],
+      "explication": "La Cour de Cassation ne rejuge ni les faits ni le fond du litige. Son rôle est uniquement de contrôler si les juridictions inférieures ont correctement appliqué la loi. Si elle constate une erreur de droit, elle casse la décision et renvoie l'affaire devant une autre juridiction du fond pour qu'elle soit rejugée."
+    },
+    {
+      "question": "Quel est le délai pour se pourvoir en cassation en matière civile et commerciale à Madagascar ?",
+      "choix": [
+        "Un mois à compter du prononcé du jugement",
+        "Deux mois à compter de la signification ou notification à personne ou à domicile de la décision contestée",
+        "Six mois à compter du délibéré",
+        "Aucun délai, on peut se pourvoir en cassation à tout moment"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai court à partir d'un acte précis, pas du prononcé en audience.",
+        "Il doit être respecté strictement, sous peine d'irrecevabilité du pourvoi.",
+        "La Cour Suprême malgache précise ce délai dans sa réglementation."
+      ],
+      "explication": "En matière civile et commerciale à Madagascar, le délai pour se pourvoir en cassation est de deux mois à compter de la signification ou de la notification à personne ou à domicile de la décision contestée. Ce délai est d'ordre public et son non-respect entraîne l'irrecevabilité du pourvoi."
+    },
+    {
+      "question": "Qui préside la Cour Suprême de Madagascar, et qui le seconde ?",
+      "choix": [
+        "Le Président de la République, secondé par le Premier Ministre",
+        "Un Premier Président, secondé par trois Vice-présidents qui sont le Président de la Cour de Cassation, le Président du Conseil d'État et le Président de la Cour des Comptes",
+        "Le Ministre de la Justice, secondé par le Procureur Général de la Nation",
+        "Le Président de l'Assemblée Nationale, secondé par le Président du Sénat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Cour Suprême regroupe les trois chambres suprêmes de Madagascar.",
+        "Chacune de ces chambres a son propre Président.",
+        "Ces trois Présidents de chambres sont les Vice-présidents de la Cour Suprême."
+      ],
+      "explication": "La Cour Suprême de Madagascar est dirigée par un Premier Président, secondé par trois Vice-présidents : le Président de la Cour de Cassation (ordre judiciaire), le Président du Conseil d'État (ordre administratif) et le Président de la Cour des Comptes (ordre financier). Un Procureur Général complète la direction de l'institution."
+    },
+    {
+      "question": "Qu'est-ce que le principe du contradictoire dans un procès ?",
+      "choix": [
+        "L'obligation pour les parties de se contredire mutuellement à chaque étape",
+        "Le droit de chaque partie de connaître et de discuter les arguments et les preuves de l'autre avant que le juge ne statue",
+        "L'obligation du juge de prendre toujours une position contraire à celle du Parquet",
+        "L'interdiction pour les parties d'être assistées d'un avocat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe garantit qu'aucune partie n'est prise par surprise par les arguments de l'autre.",
+        "Le juge ne peut fonder sa décision sur des éléments que l'une des parties n'aurait pas pu discuter.",
+        "C'est l'un des piliers de tout procès équitable."
+      ],
+      "explication": "Le principe du contradictoire garantit que chaque partie a la possibilité de connaître et de discuter les arguments et les preuves de l'autre avant que le juge ne statue. Le juge ne peut fonder sa décision sur des éléments dont une partie n'aurait pas eu connaissance, sous peine de violer ce principe fondamental."
+    },
+    {
+      "question": "Qu'est-ce que l'indépendance de la magistrature, telle que garantie par la Constitution malgache de 2010 ?",
+      "choix": [
+        "Le droit des juges de refuser toute affaire qui leur déplaît",
+        "La protection des magistrats du siège contre toute pression extérieure dans l'exercice de leurs fonctions juridictionnelles : ils ne sont soumis qu'à la Constitution et à la loi",
+        "L'interdiction pour les juges de communiquer avec les parties",
+        "La garantie que tous les juges sont inamovibles de leur poste"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 99 de la Constitution malgache de 2010 consacre ce principe.",
+        "Il protège les juges contre les pressions politiques, économiques ou autres.",
+        "Les magistrats du siège ne doivent répondre de leurs décisions qu'au regard de la Constitution et de la loi."
+      ],
+      "explication": "L'indépendance de la magistrature, garantie par l'article 99 de la Constitution malgache du 11 décembre 2010, protège les magistrats du siège contre toute pression extérieure dans l'exercice de leurs fonctions : hors les cas prévus par la loi et sous réserve du pouvoir disciplinaire, ils ne peuvent en aucune manière être inquiétés pour les actes accomplis dans l'exercice de leurs fonctions. Ils ne sont soumis qu'à la Constitution et à la loi."
+    },
+    {
+      "question": "Qu'est-ce que la compétence d'attribution ?",
+      "choix": [
+        "Le pouvoir d'un tribunal de saisir lui-même d'autres juridictions",
+        "La détermination du type de tribunal compétent en fonction de la nature du litige",
+        "La désignation géographique du tribunal compétent",
+        "Le pouvoir du tribunal de désigner l'avocat des parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle détermine quel type de juridiction est compétent, et non où elle se trouve.",
+        "Un litige commercial relève de la chambre commerciale, un litige du travail de la chambre sociale.",
+        "Elle répond à la question : devant quel type de tribunal dois-je aller ?"
+      ],
+      "explication": "La compétence d'attribution (ou matérielle) désigne le type de tribunal compétent en fonction de la nature du litige. Elle répond à la question : devant quel type de juridiction ce litige doit-il être porté ? Elle se distingue de la compétence territoriale, qui désigne géographiquement quel tribunal, parmi ceux du même type, est compétent."
+    },
+    {
+      "question": "En matière civile à Madagascar, quelle est la règle générale de compétence territoriale ?",
+      "choix": [
+        "Le tribunal du domicile du demandeur (celui qui engage le procès)",
+        "Le tribunal du domicile du défendeur (celui contre qui l'action est dirigée)",
+        "Le tribunal de la capitale, Antananarivo, pour toutes les affaires",
+        "Le tribunal le plus proche du lieu de naissance des parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La règle générale protège le défendeur, qui ne choisit pas d'être poursuivi.",
+        "Des règles spéciales existent pour les litiges immobiliers, commerciaux ou du travail.",
+        "Le demandeur doit en principe aller là où se trouve son adversaire."
+      ],
+      "explication": "En matière civile, la règle générale de compétence territoriale est que le tribunal compétent est celui du lieu du domicile du défendeur — celui contre qui l'action est dirigée. Des règles spéciales s'appliquent en matière commerciale (lieu d'exécution du contrat), en droit du travail (lieu du travail) et en matière immobilière (lieu de l'immeuble)."
+    },
+    {
+      "question": "Comment un demandeur saisit-il en général un Tribunal de Première Instance en matière civile à Madagascar ?",
+      "choix": [
+        "Par simple lettre recommandée adressée au président du tribunal",
+        "Par voie d'assignation (acte d'huissier), ou par requête ou déclaration au greffe selon les cas",
+        "En se présentant directement à l'audience sans formalité préalable",
+        "Uniquement par voie électronique, via le portail numérique du Ministère de la Justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acte d'huissier qui convoque le défendeur porte un nom précis.",
+        "Des formes plus simples existent dans certains cas (requête, déclaration au greffe).",
+        "La saisine est la première étape du procès."
+      ],
+      "explication": "En matière civile, la saisine du TPI s'effectue principalement par voie d'assignation, c'est-à-dire un acte d'huissier qui notifie au défendeur qu'il est convoqué devant le tribunal et lui expose les prétentions du demandeur. Dans certains cas, une simple requête ou une déclaration au greffe peut suffire. Le greffe enregistre et conserve tous les actes de procédure."
+    },
+    {
+      "question": "Qu'est-ce que la mise en état dans un procès civil ?",
+      "texte": "",
+      "choix": [
+        "La phase où le juge rend sa décision définitive",
+        "La phase où les parties échangent leurs arguments écrits (conclusions) et leurs pièces (preuves documentaires) avant l'audience",
+        "La phase où l'huissier procède aux saisies sur les biens du débiteur",
+        "La phase où le greffier transcrit les débats de l'audience"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette phase est préalable à l'audience de plaidoiries.",
+        "Elle permet au juge d'avoir toutes les pièces et arguments avant de trancher.",
+        "En matière civile, c'est aux parties elles-mêmes de produire leurs preuves."
+      ],
+      "explication": "La mise en état est la phase au cours de laquelle les parties échangent leurs arguments écrits (appelés conclusions) et leurs pièces (preuves documentaires) avant l'audience. En matière civile, c'est aux parties elles-mêmes de rassembler et de produire les preuves de leurs prétentions, contrairement à la matière pénale où le juge d'instruction peut conduire une enquête."
+    },
+    {
+      "question": "Qu'est-ce qu'une mesure d'instruction ordonnée par le juge ?",
+      "choix": [
+        "Une décision qui met fin définitivement au procès",
+        "Une mesure comme une expertise, une enquête ou une descente sur les lieux, ordonnée par le juge pour mieux appréhender des faits complexes",
+        "Une instruction donnée aux parties pour qu'elles recrutent de nouveaux avocats",
+        "Un transfert du dossier vers une juridiction supérieure"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces mesures sont ordonnées lorsque le juge a besoin d'informations supplémentaires.",
+        "Un expert judiciaire peut être désigné pour une expertise technique.",
+        "Elles s'intercalent généralement entre la mise en état et le délibéré."
+      ],
+      "explication": "Une mesure d'instruction est une mesure que le juge peut ordonner — comme une expertise judiciaire, une enquête ou une descente sur les lieux — pour mieux appréhender des faits complexes qui dépassent ses connaissances techniques ou qui nécessitent une vérification sur place. Elle complète les pièces produites par les parties."
+    },
+    {
+      "question": "À partir de quel moment les délais pour former un recours commencent-ils à courir en matière civile ?",
+      "choix": [
+        "À partir du jour de l'audience de plaidoiries",
+        "À partir du jour de la notification ou signification du jugement aux parties",
+        "À partir du jour du délibéré, même si les parties n'en ont pas connaissance",
+        "Les délais commencent à courir dès la saisine du tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une partie ne peut pas faire appel d'une décision dont elle n'a pas connaissance.",
+        "La notification ou signification est l'acte qui porte officiellement la décision à la connaissance des parties.",
+        "C'est à partir de cet acte que le délai d'appel ou de pourvoi commence à courir."
+      ],
+      "explication": "Les délais pour former un recours (appel, pourvoi en cassation) commencent à courir à partir de la notification ou signification du jugement aux parties. Il serait illogique de faire courir un délai contre une partie qui n'a pas encore eu connaissance de la décision dont elle doit se plaindre."
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre un procès civil et un procès pénal concernant l'initiative de la poursuite ?",
+      "choix": [
+        "En matière civile comme en matière pénale, c'est toujours la victime qui initie la poursuite",
+        "En matière civile, c'est le demandeur (victime) qui initie l'action ; en matière pénale, c'est le Ministère Public (Parquet) qui déclenche et conduit l'action publique au nom de la société",
+        "En matière pénale, c'est toujours le juge qui déclenche lui-même le procès",
+        "Il n'existe aucune différence : le procès civil et le procès pénal suivent exactement les mêmes règles"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En matière pénale, c'est la société entière qui est lésée par une infraction, pas seulement la victime.",
+        "Le Ministère Public représente la société, pas la victime.",
+        "La victime peut se constituer partie civile pour réclamer réparation, mais ce n'est pas elle qui poursuit l'auteur de l'infraction."
+      ],
+      "explication": "En matière civile, c'est le demandeur (généralement la victime ou la personne lésée) qui initie l'action. En matière pénale, c'est le Ministère Public (le Parquet) qui déclenche et conduit l'action publique au nom de la société, car une infraction pénale lèse non seulement la victime directe, mais l'ensemble de la collectivité."
+    },
+    {
+      "question": "Qu'est-ce que la présomption d'innocence en matière pénale ?",
+      "choix": [
+        "La présomption que l'accusé a commis l'infraction jusqu'à preuve du contraire",
+        "Le principe selon lequel toute personne accusée est considérée comme innocente jusqu'à ce que sa culpabilité soit légalement établie, la charge de la preuve incombant au Ministère Public",
+        "Le droit de l'accusé de ne pas assister à son procès",
+        "La présomption que le juge est favorable à l'accusé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe est consacré par la Constitution malgache et les textes internationaux.",
+        "Il signifie que c'est au Parquet de prouver la culpabilité, pas à l'accusé de prouver son innocence.",
+        "Sans preuve de culpabilité, l'accusé doit être acquitté."
+      ],
+      "explication": "La présomption d'innocence garantit que toute personne accusée d'une infraction pénale est considérée comme innocente jusqu'à ce que sa culpabilité soit légalement établie. Cela signifie que la charge de la preuve incombe exclusivement au Ministère Public : c'est à lui de prouver la culpabilité, et non à l'accusé de prouver son innocence."
+    },
+    {
+      "question": "Comment les infractions pénales sont-elles classées à Madagascar selon leur gravité ?",
+      "choix": [
+        "En deux catégories : les infractions mineures et les infractions majeures",
+        "En trois catégories : les contraventions (moins graves), les délits (gravité moyenne) et les crimes (les plus graves)",
+        "En quatre catégories : fautes légères, fautes graves, délits et crimes",
+        "En une seule catégorie : toutes les infractions sont traitées de la même façon"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette classification tripartite est classique dans les systèmes de tradition romano-germanique.",
+        "La catégorie la plus grave relève d'une juridiction spéciale appelée Cour d'Assises.",
+        "La catégorie intermédiaire est jugée par la chambre correctionnelle du TPI."
+      ],
+      "explication": "À Madagascar, comme dans la tradition française dont le système s'inspire, les infractions pénales sont classées en trois catégories selon leur gravité : les contraventions (les moins graves), les délits (de gravité moyenne, jugés par la chambre correctionnelle du TPI) et les crimes (les plus graves, relevant de la Cour d'Assises)."
+    },
+    {
+      "question": "Quel est le rôle de l'huissier de justice dans le procès malgache ?",
+      "choix": [
+        "Il rédige les jugements à la place du juge",
+        "Il signifie les actes de procédure (assignations, jugements) et exécute les décisions de justice",
+        "Il représente les parties à l'audience",
+        "Il désigne les experts judiciaires nécessaires au procès"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est lui qui remet officiellement les actes de procédure aux destinataires.",
+        "C'est aussi lui qui procède aux saisies pour exécuter les jugements.",
+        "Son rôle est à la fois procédural (notification) et exécutoire (force)."
+      ],
+      "explication": "L'huissier de justice est l'officier ministériel chargé de signifier les actes de procédure (assignations, jugements, etc.) aux parties concernées, et d'exécuter les décisions de justice par voie de saisies (mobilières, immobilières, sur salaire, sur compte bancaire) lorsque le débiteur refuse de s'exécuter spontanément."
+    },
+    {
+      "question": "Quel est le rôle du greffier dans un tribunal malgache ?",
+      "choix": [
+        "Il tranche les litiges à la place du juge en cas d'absence de ce dernier",
+        "Il dresse les procès-verbaux d'audience, conserve les dossiers, délivre les copies de décisions et authentifie les actes",
+        "Il représente le Ministère Public dans les affaires pénales",
+        "Il négocie des accords à l'amiable entre les parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le greffier est le technicien administratif du tribunal, pas un magistrat.",
+        "C'est lui qui gère administrativement tous les dossiers.",
+        "C'est aussi lui qui appose la formule exécutoire sur les jugements."
+      ],
+      "explication": "Le greffier est le technicien administratif du tribunal : il dresse les procès-verbaux d'audience, conserve les dossiers, délivre les copies certifiées conformes des décisions, authentifie les actes de procédure et appose la formule exécutoire sur les jugements, leur conférant ainsi force exécutoire."
+    },
+    {
+      "question": "Quel est le rôle d'un expert judiciaire désigné par le juge ?",
+      "choix": [
+        "Il remplace le juge pour trancher les questions techniques",
+        "Il est un technicien spécialisé chargé d'éclairer le juge sur des questions qui dépassent ses connaissances techniques, sans trancher lui-même le litige",
+        "Il représente les intérêts de la partie la plus faible",
+        "Il est chargé d'exécuter la décision de justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'expert donne un avis technique, pas une décision juridique.",
+        "Le juge reste libre d'écarter les conclusions de l'expert s'il les juge insuffisantes.",
+        "Il peut s'agir d'un médecin légiste, d'un comptable, d'un expert immobilier, etc."
+      ],
+      "explication": "L'expert judiciaire est un technicien spécialisé (médecin, comptable, ingénieur, expert immobilier) désigné par le juge pour l'éclairer sur des questions techniques qui dépassent ses connaissances. Il rend un rapport d'expertise, mais c'est toujours le juge qui tranche le litige : l'expert conseille, il ne décide pas."
+    },
+    {
+      "question": "Quel est le principe fondamental régissant la preuve en matière civile à Madagascar ?",
+      "choix": [
+        "La vérité est établie par le juge d'office, sans que les parties n'aient à prouver quoi que ce soit",
+        "La preuve incombe au demandeur (actori incumbit probatio) : c'est à celui qui allègue de prouver ce qu'il avance",
+        "C'est toujours le défendeur qui supporte la charge de la preuve",
+        "En matière civile, aucune preuve n'est exigée, seule la parole des parties suffit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La maxime latine actori incumbit probatio résume ce principe.",
+        "Si le demandeur ne prouve pas ses allégations, sa demande sera rejetée.",
+        "Ce principe s'applique en matière civile, mais est différent en matière pénale."
+      ],
+      "explication": "En matière civile, le principe fondamental est que la preuve incombe à celui qui allègue, c'est-à-dire au demandeur (actori incumbit probatio). Si le demandeur ne parvient pas à prouver ses allégations, sa demande sera rejetée, même si ces allégations sont en réalité fondées. C'est pourquoi il est crucial de conserver toutes les preuves pertinentes."
+    },
+    {
+      "question": "Quels sont les principaux modes de preuve admis en matière civile à Madagascar ?",
+      "choix": [
+        "Uniquement la preuve par écrit signé des deux parties",
+        "L'écrit, le témoignage, l'aveu, le serment et la présomption légale",
+        "Uniquement les enregistrements audio et vidéo",
+        "La preuve orale uniquement, en présence du juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'écrit est le mode de preuve le plus sûr en matière civile.",
+        "L'aveu est la reconnaissance par une partie des faits allégués contre elle.",
+        "La présomption légale tire une conséquence d'un fait connu pour établir un fait inconnu."
+      ],
+      "explication": "En matière civile à Madagascar, les principaux modes de preuve sont : l'écrit (contrat, courrier, facture), la preuve testimoniale (témoignages), l'aveu (reconnaissance par une partie des faits allégués contre elle), le serment, et la présomption légale (conséquence que la loi tire d'un fait connu pour établir un fait inconnu)."
+    },
+    {
+      "question": "Comment la preuve est-elle appréciée en matière pénale à Madagascar ?",
+      "choix": [
+        "Uniquement par des preuves écrites et signées",
+        "La preuve est entièrement libre : le juge retient sa conviction intime selon l'ensemble des éléments qui lui sont soumis",
+        "Par un jury populaire qui vote sur la culpabilité",
+        "Uniquement sur la base des aveux de l'accusé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La matière pénale est plus souple que la matière civile sur les modes de preuve.",
+        "Le juge forme sa conviction au vu de tous les éléments présentés.",
+        "L'aveu seul ne suffit pas toujours ; le juge reste libre d'apprécier."
+      ],
+      "explication": "En matière pénale, la preuve est entièrement libre : le juge retient sa conviction intime selon l'ensemble des éléments qui lui sont soumis, sans être limité à des modes de preuve précis. Cette liberté de la preuve répond à la diversité des situations pénales, qui peuvent rarement être toutes prouvées par des écrits."
+    },
+    {
+      "question": "Qu'est-ce que la médiation comme alternative au procès ?",
+      "choix": [
+        "Un processus dans lequel un médiateur tranche le litige comme un juge",
+        "Un processus dans lequel un tiers neutre aide les parties à trouver elles-mêmes un accord, sans trancher",
+        "Un procès accéléré devant un tribunal spécialisé",
+        "Une procédure obligatoire avant tout procès à Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le médiateur ne tranche pas : il facilite.",
+        "L'accord final vient des parties elles-mêmes, pas du médiateur.",
+        "Cette alternative est plus rapide et moins coûteuse qu'un procès."
+      ],
+      "explication": "La médiation consiste à faire appel à un tiers neutre, le médiateur, qui aide les parties à trouver elles-mêmes un accord. Contrairement au juge ou à l'arbitre, le médiateur ne tranche pas le litige : il facilite le dialogue, aide les parties à identifier leurs véritables intérêts et à construire ensemble une solution acceptable pour toutes."
+    },
+    {
+      "question": "Quelle est la différence entre la médiation et la conciliation ?",
+      "choix": [
+        "Il n'y a aucune différence : ce sont deux termes pour désigner la même chose",
+        "Dans la médiation, le tiers facilite un accord entre les parties sans trancher ; dans la conciliation (souvent conduite par un juge), si les parties s'accordent, un procès-verbal ayant valeur de jugement est dressé",
+        "La conciliation est toujours payante, contrairement à la médiation",
+        "La médiation ne peut avoir lieu qu'avant le procès, la conciliation uniquement pendant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les deux mécanismes visent un accord amiable, mais leurs modalités diffèrent.",
+        "La conciliation est souvent conduite par le juge lui-même ou un conciliateur désigné.",
+        "Son résultat, le procès-verbal de conciliation, a une valeur juridique particulière."
+      ],
+      "explication": "La médiation est conduite par un médiateur privé qui aide les parties à trouver un accord sans le sanctionner juridiquement. La conciliation est un processus similaire, souvent conduit par un juge ou un conciliateur officiel désigné par le tribunal : si les parties s'accordent, un procès-verbal de conciliation est dressé, qui a la valeur d'un jugement et peut être exécuté de force."
+    },
+    {
+      "question": "Qu'est-ce que l'arbitrage comme mode alternatif de règlement des litiges ?",
+      "choix": [
+        "Un mécanisme par lequel le juge étatique délègue son pouvoir à un avocat",
+        "Un mécanisme par lequel les parties confient la résolution de leur litige à des arbitres privés qu'elles choisissent, dont la décision (sentence arbitrale) a force de chose jugée",
+        "Un mécanisme réservé exclusivement aux litiges internationaux",
+        "Un mécanisme permettant à l'État de trancher les litiges sans juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les parties choisissent elles-mêmes leurs arbitres, souvent pour leur expertise technique.",
+        "La sentence arbitrale a force de chose jugée mais nécessite l'exequatur pour être exécutée.",
+        "Les clauses compromissoires dans les contrats commerciaux sont fréquentes."
+      ],
+      "explication": "L'arbitrage est un mécanisme par lequel les parties confient la résolution de leur litige à un ou plusieurs arbitres privés qu'elles choisissent elles-mêmes. La sentence arbitrale rendue a, en principe, force de chose jugée, mais son exécution forcée nécessite une ordonnance d'exequatur d'un tribunal judiciaire."
+    },
+    {
+      "question": "Qu'est-ce qu'une clause compromissoire dans un contrat commercial ?",
+      "choix": [
+        "Une clause qui permet à une partie de résilier le contrat sans préavis",
+        "Une clause par laquelle les parties s'engagent à soumettre tout litige futur à l'arbitrage plutôt qu'aux tribunaux étatiques",
+        "Une clause qui fixe d'avance le montant des dommages-intérêts en cas de litige",
+        "Une clause qui désigne le tribunal compétent parmi les TPI de Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle est fréquente dans les contrats commerciaux, notamment internationaux.",
+        "Elle écarte la compétence des tribunaux étatiques au profit d'arbitres privés.",
+        "Les parties s'y engagent à l'avance, avant même que le litige ne survienne."
+      ],
+      "explication": "Une clause compromissoire est une clause insérée dans un contrat commercial par laquelle les parties s'engagent, avant même que tout litige ne survienne, à soumettre leurs futurs différends à l'arbitrage plutôt qu'aux tribunaux étatiques. Elle est fréquente dans les contrats commerciaux, notamment internationaux, et favorise le règlement rapide et confidentiel des litiges d'affaires."
+    },
+    {
+      "question": "Qu'est-ce que la formule exécutoire sur un jugement ?",
+      "choix": [
+        "La mention indiquant que le jugement peut encore être contesté",
+        "La mention apposée par le greffier qui confère au jugement son caractère obligatoire et permet l'exécution forcée",
+        "La signature du juge au bas de la décision",
+        "L'accord des parties pour exécuter volontairement la décision"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Sans cette mention, l'huissier ne peut pas procéder aux saisies.",
+        "C'est le greffier qui l'appose, pas le juge.",
+        "Elle confère à la décision une force particulière vis-à-vis des tiers."
+      ],
+      "explication": "La formule exécutoire est la mention apposée par le greffier sur un jugement, qui le revêt de son caractère obligatoire envers les tiers et permet à l'huissier de procéder à l'exécution forcée. Sans cette formule, même un jugement définitivement obtenu ne peut pas être exécuté de force par l'huissier."
+    },
+    {
+      "question": "Qu'est-ce qu'une astreinte dans le cadre de l'exécution des décisions de justice ?",
+      "choix": [
+        "Un délai supplémentaire accordé au débiteur pour s'exécuter",
+        "Une somme d'argent due par jour de retard, prononcée par le juge pour inciter le débiteur récalcitrant à s'exécuter",
+        "Un type de saisie portant sur les biens immobiliers du débiteur",
+        "Une pénalité pénale imposée à l'huissier en cas d'abus"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'astreinte monte avec le temps : plus le débiteur tarde, plus elle devient lourde.",
+        "Elle vise à créer une pression psychologique et financière pour obtenir l'exécution.",
+        "Elle s'ajoute à la condamnation principale, sans la remplacer."
+      ],
+      "explication": "Une astreinte est une somme d'argent due par le débiteur par jour de retard dans l'exécution de la décision de justice, prononcée par le juge pour inciter le débiteur récalcitrant à s'exécuter. Elle peut devenir très importante si le débiteur persiste dans son refus, et s'ajoute à la condamnation principale sans la remplacer."
+    },
+    {
+      "question": "Qu'est-ce que l'opposition comme voie de recours ordinaire ?",
+      "choix": [
+        "Le recours formé devant la Cour d'Appel contre tout jugement défavorable",
+        "Le recours formé devant le même tribunal par une partie qui n'avait pas comparu et contre laquelle un jugement par défaut a été rendu",
+        "Le recours exercé par un tiers non partie au procès initial",
+        "Le recours formé devant la Cour de Cassation pour violation de la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce recours s'adresse à la même juridiction qui a rendu la décision.",
+        "Il est réservé à la partie absente, condamnée sans avoir pu se défendre.",
+        "Il se distingue nettement de l'appel, qui s'adresse à une juridiction supérieure."
+      ],
+      "explication": "L'opposition est le recours formé devant la même juridiction par une partie qui n'avait pas comparu et contre laquelle un jugement par défaut a été rendu. Elle permet à cette partie de se défendre et d'obtenir que son affaire soit rejugée par le même tribunal, cette fois en sa présence."
+    },
+    {
+      "question": "Quels sont les deux effets essentiels de l'appel à Madagascar ?",
+      "choix": [
+        "L'effet de transfert (l'affaire quitte le TPI) et l'effet définitif (la décision d'appel est irrévocable)",
+        "L'effet suspensif (la décision de première instance ne peut pas être exécutée pendant l'appel) et l'effet dévolutif (la Cour d'Appel reçoit l'ensemble du litige pour le réexaminer)",
+        "L'effet péremptoire (l'appel efface automatiquement le jugement de première instance) et l'effet confirmatif (l'appel confirme toujours le jugement)",
+        "L'effet protecteur (l'appelant est protégé contre toute exécution) et l'effet rétroactif (le jugement de première instance est annulé rétroactivement)"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un de ces effets protège l'appelant contre une exécution prématurée.",
+        "L'autre donne à la Cour d'Appel l'intégralité du litige à réexaminer.",
+        "Ces deux effets ont été étudiés dans le module précédent sur l'action en justice."
+      ],
+      "explication": "L'appel produit deux effets essentiels : l'effet suspensif (en principe, la décision de première instance ne peut pas être exécutée pendant le délai d'appel et tant que l'appel n'est pas jugé, sauf décision assortie de l'exécution provisoire) et l'effet dévolutif (la Cour d'Appel reçoit l'ensemble du litige pour le réexaminer en fait et en droit)."
+    },
+    {
+      "question": "Qu'est-ce que la tierce opposition comme voie de recours extraordinaire ?",
+      "choix": [
+        "L'opposition d'un tiers arbitre à une décision qu'il a lui-même rendue",
+        "La voie de recours permettant à une personne qui n'était pas partie au procès initial de contester un jugement qui lui porte préjudice",
+        "Le recours formé par le Ministère Public contre une décision civile",
+        "La contestation par un tiers du montant des honoraires d'avocat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce recours est réservé à des personnes extérieures au procès initial.",
+        "Ces personnes n'ont pas pu se défendre car elles n'étaient pas parties.",
+        "La décision rendue entre deux autres personnes leur cause pourtant préjudice."
+      ],
+      "explication": "La tierce opposition est une voie de recours extraordinaire permettant à une personne qui n'était pas partie au procès initial de contester un jugement qui lui cause préjudice, en faisant valoir ses propres droits. Elle lui donne la possibilité d'être entendue alors même qu'elle n'a pas pu participer au procès initial."
+    },
+    {
+      "question": "Dans quel cas la révision d'une décision définitive est-elle possible à Madagascar ?",
+      "choix": [
+        "À chaque fois qu'une partie est insatisfaite de la décision",
+        "En cas de fraude avérée ou de découverte d'un faux ayant vicié le premier procès",
+        "Lorsque le jugement date de plus de dix ans",
+        "Uniquement en matière commerciale, jamais en matière civile"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La révision est une voie de recours extraordinaire, donc réservée à des cas exceptionnels.",
+        "Elle permet de remettre en cause même une décision définitive.",
+        "La fraude et le faux constituent les deux cas classiques de recours en révision."
+      ],
+      "explication": "La révision est une voie de recours extraordinaire permettant de remettre en cause un jugement définitivement rendu, dans des cas exceptionnels : principalement la fraude avérée ayant vicié le premier procès, ou la découverte d'un document faux sur lequel la décision s'appuyait. Elle ne sert pas à corriger une simple erreur d'appréciation, mais à sanctionner une atteinte à la loyauté du procès."
+    },
+    {
+      "question": "Vrai ou faux : la Cour Suprême de Madagascar adresse un rapport annuel de ses activités au Président de la République.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Ce rapport est une manifestation de la transparence et du contrôle institutionnel.",
+        "Il est adressé à plusieurs autorités, pas seulement au Président de la République.",
+        "Cette obligation figure dans la réglementation régissant la Cour Suprême malgache."
+      ],
+      "explication": "Vrai. La Cour Suprême adresse un rapport annuel de ses activités au Président de la République, au Premier Ministre, aux présidents des deux Assemblées (Assemblée Nationale et Sénat), au Ministre chargé de la Justice et au Conseil Supérieur de la Magistrature. Ce rapport contribue au contrôle institutionnel du fonctionnement de la justice."
+    },
+    {
+      "question": "En cas de conflit de compétence entre deux juridictions relevant d'ordres différents à Madagascar, quelle instance tranche ?",
+      "choix": [
+        "Le Ministère de la Justice, par décision administrative",
+        "La Cour Suprême en assemblée plénière",
+        "Le Président de la République, sur avis du Conseil Supérieur de la Magistrature",
+        "Le tribunal qui a été saisi en premier lieu"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Aucun des ordres en conflit ne peut trancher lui-même le conflit qui le concerne.",
+        "Il faut une instance au-dessus de tous ces ordres.",
+        "La Cour Suprême réunit en son sein les trois ordres de juridiction."
+      ],
+      "explication": "En cas de conflit de compétence entre deux juridictions relevant d'ordres différents (par exemple entre un TPI et un tribunal administratif), c'est la Cour Suprême en assemblée plénière qui tranche. Étant la seule instance qui chapeaute l'ensemble des trois ordres, elle est la mieux placée pour résoudre ces conflits inter-ordres."
+    },
+    {
+      "question": "Vrai ou faux : en matière civile à Madagascar, le juge peut rechercher d'office des preuves sans attendre que les parties les produisent.",
+      "choix": [
+        "Vrai, le juge malgache est entièrement libre de rechercher les preuves",
+        "Faux : en matière civile, c'est aux parties elles-mêmes de rassembler et de produire les preuves de leurs prétentions ; le juge est passif dans la recherche des preuves"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comparez avec la matière pénale, où le juge d'instruction joue un rôle actif.",
+        "En matière civile, le procès est en principe la chose des parties.",
+        "Le juge peut ordonner des mesures d'instruction, mais c'est aux parties de produire l'essentiel des preuves."
+      ],
+      "explication": "Faux. En matière civile, c'est aux parties elles-mêmes de rassembler et de produire les preuves de leurs prétentions. Le juge civil est passif dans la recherche des preuves : il tranche sur la base de ce que les parties lui soumettent, même s'il peut ordonner des mesures d'instruction complémentaires. C'est le contraire en matière pénale, où le juge d'instruction peut conduire une enquête approfondie."
+    },
+    {
+      "question": "Quelle est la condition nécessaire pour que la sentence arbitrale puisse être exécutée de force à Madagascar ?",
+      "choix": [
+        "L'accord unanime des deux parties pour son exécution",
+        "L'obtention d'une ordonnance d'exequatur d'un tribunal judiciaire autorisant l'exécution",
+        "La ratification de la sentence par le Ministère de la Justice",
+        "La confirmation de la sentence par la Cour de Cassation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La sentence arbitrale a force de chose jugée mais vient d'une juridiction privée.",
+        "Un acte d'une juridiction étatique est nécessaire pour lui conférer la force exécutoire.",
+        "Cette procédure particulière s'appelle l'exequatur."
+      ],
+      "explication": "Bien que la sentence arbitrale ait, en principe, force de chose jugée, son exécution forcée nécessite une ordonnance d'exequatur rendue par un tribunal judiciaire. Cette procédure permet au juge étatique de vérifier que la sentence arbitrale respecte les conditions minimales de régularité avant d'en autoriser l'exécution forcée par voie d'huissier."
+    },
+    {
+      "question": "Qu'est-ce que l'assignation comme mode de saisine d'un tribunal civil ?",
+      "choix": [
+        "Un message envoyé par le demandeur directement au juge par courrier électronique",
+        "Un acte d'huissier qui notifie au défendeur qu'il est convoqué devant le tribunal et lui expose les prétentions du demandeur",
+        "Une déclaration orale faite par le demandeur lors de l'audience",
+        "Un formulaire rempli par le juge pour convoquer les parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'huissier joue un rôle central dans ce mode de saisine.",
+        "Cet acte informe officiellement le défendeur du procès intenté contre lui.",
+        "C'est la forme de saisine la plus formelle et la plus courante en matière civile."
+      ],
+      "explication": "L'assignation est un acte d'huissier de justice qui notifie officiellement au défendeur qu'il est convoqué devant le tribunal, et qui lui expose les prétentions du demandeur (ce que ce dernier réclame) ainsi que les fondements juridiques de la demande. C'est la forme de saisine la plus formelle et la plus courante en matière civile à Madagascar."
+    },
+    {
+      "question": "Pourquoi la Constitution du 11 décembre 2010 est-elle importante pour le droit processuel malgache ?",
+      "choix": [
+        "Elle n'a aucun lien avec le droit processuel, qui est entièrement régi par les codes de procédure",
+        "Elle garantit le droit à la justice pour tous et consacre l'indépendance de la magistrature, principes qui fondent tout le système processuel malgache",
+        "Elle fixe précisément le montant des frais de justice",
+        "Elle désigne nominativement les juges compétents pour chaque type de litige"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Constitution est la norme suprême : elle prime sur tous les autres textes.",
+        "L'article 97 consacre le droit à la justice ; l'article 99 garantit l'indépendance des juges.",
+        "Sans ces garanties constitutionnelles, les règles procédurales ordinaires seraient sans fondement solide."
+      ],
+      "explication": "La Constitution du 11 décembre 2010 est fondamentale pour le droit processuel malgache car elle garantit le droit à la justice pour tous (article 97) et consacre l'indépendance de la magistrature (article 99), en protégeant les magistrats du siège contre toute pression. Ces principes constitutionnels fondent et encadrent l'ensemble du système processuel malgache."
+    },
+    {
+      "question": "Résumé : à quoi sert fondamentalement le droit processuel dans un État de droit comme Madagascar ?",
+      "choix": [
+        "À enrichir les avocats et les huissiers",
+        "À transformer un désaccord brut entre deux personnes en un débat organisé, encadré par des règles précises, devant un tiers impartial, garantissant à chacun une justice équitable et prévisible",
+        "À permettre à l'État de contrôler toutes les relations entre les citoyens",
+        "À protéger exclusivement les intérêts de l'État contre les citoyens"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'alternative à la justice étatique : la justice privée et ses dangers.",
+        "Le droit processuel donne une forme organisée et équitable au conflit.",
+        "Sans lui, chacun pourrait agir à sa guise devant les tribunaux, sans règles ni prévisibilité."
+      ],
+      "explication": "Le droit processuel sert fondamentalement à transformer un désaccord brut entre deux personnes en un débat organisé, encadré par des règles précises, devant un tiers impartial. Il garantit à chacun une justice équitable et prévisible, protège contre la justice privée, et assure que les droits reconnus par le droit substantiel peuvent effectivement être mis en œuvre devant les tribunaux."
+    },
+    {
+      "question": "Vrai ou faux : en matière pénale à Madagascar, la victime d'une infraction peut se constituer partie civile pour réclamer réparation.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La victime ne conduit pas l'action publique, mais elle peut demander réparation.",
+        "La constitution de partie civile lui permet d'obtenir des dommages-intérêts.",
+        "Elle agit en parallèle du Ministère Public, qui conduit lui-même l'action publique."
+      ],
+      "explication": "Vrai. En matière pénale, la victime d'une infraction peut se constituer partie civile pour réclamer réparation de son préjudice devant la juridiction pénale. Elle n'est toutefois pas celle qui poursuit l'auteur de l'infraction au nom de la société : ce rôle appartient exclusivement au Ministère Public. La constitution de partie civile lui permet d'obtenir des dommages-intérêts en même temps que la peine est prononcée."
+    },
+    {
+      "question": "Un justiciable malgache introduit une action civile devant le TPI d'Antananarivo, alors que son adversaire est domicilié à Fianarantsoa et que le contrat litigieux devait être exécuté à Fianarantsoa. Quel moyen de défense l'adversaire peut-il soulever ?",
+      "choix": [
+        "Une fin de non-recevoir pour défaut d'intérêt à agir",
+        "Une exception d'incompétence territoriale, le tribunal compétent étant en principe celui du domicile du défendeur ou du lieu d'exécution du contrat",
+        "Une demande reconventionnelle devant la Cour d'Appel d'Antananarivo",
+        "Un pourvoi immédiat en cassation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'adversaire n'est pas domicilié dans le ressort du TPI saisi.",
+        "Le lieu d'exécution du contrat est également à Fianarantsoa, pas à Antananarivo.",
+        "Ce moyen de défense porte sur la géographie, pas sur le fond du litige."
+      ],
+      "explication": "L'adversaire peut soulever une exception d'incompétence territoriale : en matière civile, la règle générale désigne le tribunal du domicile du défendeur comme compétent, et en matière contractuelle, le lieu d'exécution du contrat peut également désigner le tribunal compétent. Dans les deux cas, c'est Fianarantsoa, non Antananarivo. Si le juge fait droit à cette exception, il renverra l'affaire devant le TPI de Fianarantsoa."
+    },
+    {
+      "question": "Pourquoi l'exécution des décisions de justice est-elle décrite comme l'un des défis majeurs du système judiciaire malgache ?",
+      "choix": [
+        "Parce que les juges malgaches refusent généralement de délivrer la formule exécutoire",
+        "Parce que les moyens d'exécution restent limités dans certaines zones, notamment rurales, et que la résistance à l'exécution peut être forte, rendant l'accès effectif à la justice inégal sur le territoire",
+        "Parce que la loi malgache interdit l'exécution forcée en dehors d'Antananarivo",
+        "Parce que les huissiers n'ont aucun pouvoir légal à Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un jugement non exécuté est un jugement qui reste lettre morte.",
+        "La vaste étendue du territoire malgache et les inégalités de moyens créent des difficultés pratiques.",
+        "Ce défi touche particulièrement les justiciables des zones éloignées."
+      ],
+      "explication": "L'exécution des décisions de justice est un défi majeur à Madagascar notamment parce que les moyens d'exécution restent limités dans certaines zones, particulièrement rurales, où la présence des huissiers est insuffisante et où la résistance à l'exécution est parfois forte. Ce problème crée une inégalité dans l'accès effectif à la justice selon que le justiciable réside dans une grande ville ou dans une zone reculée."
+    },
+    {
+      "question": "Un contrat commercial entre deux entreprises malgaches contient une clause compromissoire. L'une d'elles saisit malgré tout le TPI pour un litige relatif à ce contrat. Que peut faire l'autre partie ?",
+      "choix": [
+        "Rien : une fois le TPI saisi, la clause compromissoire ne peut plus être invoquée",
+        "Soulever une exception d'incompétence du TPI au profit du tribunal arbitral prévu par la clause, en invoquant la clause compromissoire",
+        "Former un pourvoi en cassation immédiat",
+        "Saisir directement la Cour Suprême pour conflit de compétence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une clause compromissoire valablement insérée dans un contrat prive les tribunaux étatiques de leur compétence pour ce litige.",
+        "La partie qui souhaite faire respecter cette clause peut utiliser un moyen procédural précis.",
+        "Ce moyen attaque la compétence du TPI, pas le fond du litige."
+      ],
+      "explication": "L'autre partie peut soulever une exception d'incompétence du TPI : une clause compromissoire valablement insérée dans le contrat prive les tribunaux étatiques de leur compétence pour les litiges visés par la clause, au profit du tribunal arbitral convenu. Si le juge retient cette exception, il déclarera son incompétence et invitera les parties à se soumettre à la procédure arbitrale convenue."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Haja, commerçant domicilié et exerçant à Toamasina, a vendu des marchandises à une société dont le siège social est à Antananarivo. Cette société refuse de payer la facture de 8 000 000 ariary. Haja souhaite agir en justice. Il envisage de saisir le TPI d'Antananarivo chambre civile, car c'est là que se trouve le siège de la société. (1) Le TPI d'Antananarivo est-il compétent d'attribution pour ce litige ? (2) Est-il territorialement compétent ? (3) Quels conseils procéduraux peut-on donner à Haja pour bien introduire son action ?",
+      "choix": [
+        "Haja doit obligatoirement saisir la Cour Suprême directement pour un litige de cette importance",
+        "(1) Non pour la compétence d'attribution : un litige entre commerçants portant sur un contrat commercial relève de la chambre commerciale du TPI, non de la chambre civile. (2) La compétence territoriale peut se discuter : en matière commerciale, le tribunal compétent peut être celui du domicile du défendeur (Antananarivo) OU celui du lieu d'exécution du contrat (livraison à Toamasina). Haja peut donc choisir. S'il saisit Antananarivo, la compétence territoriale est valide. (3) Haja doit saisir la chambre commerciale (et non civile) du TPI compétent, par voie d'assignation délivrée par un huissier. Il doit veiller à rassembler ses preuves : contrat de vente, facture, bons de livraison, échanges écrits attestant du refus de paiement.",
+        "Haja n'a aucun recours possible, la prescription étant déjà acquise",
+        "Haja doit obligatoirement passer par la médiation avant de saisir un tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Identifiez d'abord la nature du litige : civil ou commercial ? Cela détermine la chambre compétente.",
+        "En matière commerciale, plusieurs lieux peuvent fonder la compétence territoriale : le domicile du défendeur, le lieu d'exécution du contrat.",
+        "Rappelez-vous les modes de saisine d'un TPI : quelle formalité Haja doit-il accomplir ?"
+      ],
+      "explication": "(1) Non : la chambre civile n'est pas compétente d'attribution pour un litige entre commerçants portant sur un contrat de vente commerciale. C'est la chambre commerciale du TPI qui est compétente, car le litige oppose deux commerçants à propos d'une opération commerciale. La saisine de la chambre civile constituerait une erreur de compétence d'attribution susceptible d'être sanctionnée par une exception d'incompétence soulevée par la société adverse. (2) En matière commerciale, la compétence territoriale peut appartenir au tribunal du domicile du défendeur (Antananarivo, siège de la société) OU au tribunal du lieu d'exécution du contrat (Toamasina, lieu probable de livraison des marchandises). Haja dispose donc d'un choix entre ces deux tribunaux ; s'il opte pour Antananarivo, la compétence territoriale est valide. (3) Pour bien introduire son action, Haja doit : saisir la chambre commerciale (non la chambre civile) du TPI compétent ; procéder par voie d'assignation délivrée par un huissier de justice, qui notifiera officiellement à la société adverse le recours intenté contre elle et l'assignera à comparaître ; rassembler soigneusement ses preuves — contrat de vente, facture, bons de livraison, accusés de réception, échanges écrits ou courriels attestant de la demande de paiement et du refus de la société. Rappelons que la charge de la preuve incombe au demandeur en matière civile et commerciale : Haja doit pouvoir démontrer l'existence de la créance et le refus de paiement."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Miora a obtenu un jugement définitif du TPI de Fianarantsoa condamnant son ex-associé Tiana à lui payer 5 000 000 ariary au titre d'un partage d'actifs commerciaux. Ce jugement est définitif et revêtu de la formule exécutoire. Tiana refuse catégoriquement de payer, affirmant que 'ce jugement ne vaut rien'. Il dispose de biens mobiliers (véhicule) et d'un compte bancaire. Par ailleurs, Miora a appris que le jugement a été obtenu sur la base d'un faux document produit par son avocat à son insu, ce qu'elle ignore encore. (1) Quelles démarches Miora peut-elle accomplir pour obtenir l'exécution forcée du jugement ? (2) Quels moyens de pression supplémentaires le juge peut-il accorder à Miora pour contraindre Tiana ? (3) Si plus tard Tiana découvre la preuve certaine du faux document utilisé dans la procédure, quelle voie de recours extraordinaire peut-il exercer, et dans quel but ?",
+      "choix": [
+        "Miora ne peut rien faire si Tiana refuse : les jugements malgaches ne peuvent pas être exécutés de force",
+        "(1) Le jugement étant revêtu de la formule exécutoire, Miora peut mandater un huissier de justice pour procéder à l'exécution forcée : saisie du véhicule de Tiana (saisie mobilière) et/ou saisie-arrêt sur son compte bancaire, afin d'obtenir le paiement des 5 000 000 ariary condamnés. (2) Miora peut demander au juge de l'exécution de prononcer une astreinte à l'encontre de Tiana : une somme due par jour de retard qui s'accumule pour le contraindre à s'exécuter rapidement plutôt que de subir une saisie directe. (3) Si Tiana découvre la preuve certaine que le jugement repose sur un faux document, il peut exercer un recours en révision devant la juridiction compétente : cette voie extraordinaire permet de remettre en cause un jugement définitif en cas de fraude ou de faux avéré, afin d'obtenir que l'affaire soit rejugée dans des conditions de loyauté procédurale.",
+        "Tiana peut refuser indéfiniment sans aucune conséquence juridique",
+        "Miora doit reprendre l'intégralité du procès depuis le début devant un nouveau tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La formule exécutoire et le rôle de l'huissier sont essentiels pour répondre à la question (1).",
+        "Repensez aux outils que le juge peut utiliser pour forcer psychologiquement et financièrement un débiteur récalcitrant — question (2).",
+        "Pour la question (3), quel mécanisme permet de remettre en cause un jugement définitif en cas de fraude ou de faux ? Ce n'est ni l'appel (délai dépassé pour un jugement définitif) ni l'opposition (Tiana a comparu)."
+      ],
+      "explication": "(1) Le jugement étant définitif et revêtu de la formule exécutoire apposée par le greffier, Miora dispose de tout le pouvoir nécessaire pour mandater un huissier de justice afin qu'il procède à l'exécution forcée. L'huissier peut notamment : procéder à la saisie du véhicule de Tiana (saisie mobilière, puis vente aux enchères publiques pour récupérer la somme due) et/ou pratiquer une saisie-arrêt sur son compte bancaire pour bloquer les fonds et les transférer à Miora. L'affirmation de Tiana selon laquelle 'ce jugement ne vaut rien' ne constitue pas un moyen juridique valable pour résister à l'exécution d'un jugement définitif et exécutoire. (2) Pour renforcer la pression sur Tiana, Miora peut demander au juge compétent de prononcer une astreinte : une somme d'argent due par jour de retard dans l'exécution du jugement. Cette astreinte s'accumule chaque jour tant que Tiana résiste, rendant son refus de plus en plus coûteux. Combinée à la menace directe des saisies, l'astreinte crée une pression financière et psychologique efficace sur le débiteur récalcitrant. (3) Si Tiana découvre ultérieurement la preuve certaine que le jugement a été obtenu sur la base d'un faux document, il peut exercer un recours en révision devant la juridiction compétente. La révision est une voie de recours extraordinaire qui permet de remettre en cause même un jugement définitif, dans les cas exceptionnels de fraude avérée ou de faux ayant vicié le premier procès. L'objectif n'est pas d'obtenir une décision favorable automatiquement, mais de faire rejuger l'affaire dans des conditions de loyauté procédurale, en écartant le faux document. Il s'agit de l'une des rares voies permettant de remettre en cause ce qui était censé être définitivement tranché."
+    }
+  ]
+}
