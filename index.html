@@ -795,12 +795,12 @@ html, body {
 
 <!-- RAPPEL DE COURS -->
 <div id="review-modal">
-  <div class="lc-card">
+  <div class="lc-card" style="max-height:88vh;overflow-y:auto;-webkit-overflow-scrolling:touch;">
     <div class="lc-icon">📖</div>
-    <div class="lc-title">Petite pause révision</div>
-    <div class="lc-desc">Vous avez fait plusieurs erreurs d'affilée. Voici un rappel du cours avant de continuer.</div>
-    <div class="review-box" id="review-box"></div>
-    <button class="btn-primary" onclick="closeReview()">J'ai relu, je continue →</button>
+    <div class="lc-title">Pause révision</div>
+    <div class="lc-desc">Vous avez perdu toutes vos vies. Relisez le cours avant de continuer.</div>
+    <div id="review-box"></div>
+    <button class="btn-primary" onclick="closeReview()" style="margin-top:8px;">J'ai relu, je continue →</button>
   </div>
 </div>
 
@@ -833,6 +833,7 @@ html, body {
 
 const AUTH_KEY  = 'lexmada_users';
 const SESS_KEY  = 'lexmada_session';
+const QUIZ_KEY  = 'lexmada_quiz_pos'; // sauvegarde de position quiz, indépendante de la session
 
 function getUsers() {
   try { return JSON.parse(localStorage.getItem(AUTH_KEY) || '{}'); } catch { return {}; }
@@ -871,6 +872,12 @@ function authLogout() { clearSession(); }
 
 function saveProgress(quizPos) {
   try {
+    // Sauvegarde directe dans localStorage (survit à la fermeture de l'app)
+    if (quizPos) {
+      localStorage.setItem(QUIZ_KEY, JSON.stringify(quizPos));
+    } else {
+      localStorage.removeItem(QUIZ_KEY);
+    }
     const sess = getSession();
     if (!sess || !sess.email) return;
     const users = getUsers();
@@ -1396,24 +1403,31 @@ function startQuiz() {
   const l = formations[curNiveau].modules[curModule].lecons[curLecon];
   loadLeconData(l, (data) => {
     if (!data || data.error || !data.quiz) return;
-    const sess = getSession();
-    const saved = sess && sess.quizPos;
+    // Lit la position depuis QUIZ_KEY (localStorage direct, survit à la fermeture)
     let startIndex = 0, startType = 'quiz';
-    if (saved && saved.fi === curNiveau && saved.mi === curModule && saved.li === curLecon) {
-      startIndex = saved.index || 0;
-      startType  = saved.type  || 'quiz';
-    }
+    try {
+      const raw = localStorage.getItem(QUIZ_KEY);
+      if (raw) {
+        const saved = JSON.parse(raw);
+        if (saved.fi === curNiveau && saved.mi === curModule && saved.li === curLecon) {
+          startIndex = saved.index || 0;
+          startType  = saved.type  || 'quiz';
+        }
+      }
+    } catch(e) {}
     const questions = startType === 'exercices' ? (data.exercices || []) : data.quiz;
-    quizState = { type: startType, questions, index: startIndex, wrongCount: 0, answered: false, hearts: 3, lecon: data, fullData: data };
+    // Garde les cœurs si on reprend
+    const hearts = startIndex > 0 ? 3 : 3;
+    quizState = { type: startType, questions, index: startIndex, wrongCount: 0, answered: false, hearts, lecon: data, fullData: data };
     renderQuestion();
     showScreen('screen-quiz');
-    // Confirmation visuelle si reprise en cours
+    // Bannière de reprise
     if (startIndex > 0) {
       const banner = document.createElement('div');
-      banner.style.cssText = 'position:fixed;top:0;left:0;right:0;background:rgba(201,168,76,0.15);border-bottom:1px solid rgba(201,168,76,0.3);padding:8px 16px;text-align:center;font-size:11px;color:#C9A84C;z-index:50;';
-      banner.textContent = '↩ Reprise à la question ' + (startIndex + 1);
+      banner.style.cssText = 'position:fixed;top:0;left:0;right:0;background:rgba(201,168,76,0.18);border-bottom:1px solid rgba(201,168,76,0.4);padding:10px 16px;text-align:center;font-size:12px;color:#C9A84C;z-index:500;letter-spacing:1px;';
+      banner.textContent = '↩ Reprise à la question ' + (startIndex + 1) + ' / ' + questions.length;
       document.body.appendChild(banner);
-      setTimeout(() => banner.remove(), 3000);
+      setTimeout(() => banner.remove(), 4000);
     }
   });
 }
@@ -1566,7 +1580,7 @@ function selectAnswer(ci) {
     const nextBtn = document.getElementById('btn-quiz-next');
     nextBtn.style.display = 'block';
     nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
-    saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index + 1 }); // +1 = question suivante à faire
+    saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index + 1 });
   } else {
     choiceDivs[ci].classList.add('wrong');
     choiceDivs[ci].classList.add('disabled');
@@ -1611,14 +1625,39 @@ function showReview() {
   box.innerHTML = '';
   const sections = (lecon && lecon.contenu) ? lecon.contenu : [];
   if (sections.length > 0) {
-    const sec = sections[Math.floor(Math.random() * sections.length)];
-    box.innerHTML = '<div class="review-box-title"></div><div class="review-box-text"></div>';
-    box.querySelector('.review-box-title').textContent = sec.titre;
-    box.querySelector('.review-box-text').textContent = sec.texte;
+    // Affiche TOUTES les sections de la leçon
+    sections.forEach(sec => {
+      const wrap = document.createElement('div');
+      wrap.style.cssText = 'margin-bottom:18px;padding:14px 16px;border-radius:12px;border-left:3px solid var(--gold);background:var(--navy);text-align:left;';
+      const t = document.createElement('div');
+      t.style.cssText = 'font-family:"Playfair Display",Georgia,serif;font-size:14px;font-weight:700;color:var(--gold-light);margin-bottom:8px;';
+      t.textContent = sec.titre;
+      const p = document.createElement('div');
+      p.style.cssText = 'font-size:13px;line-height:1.75;color:var(--cream-dim);';
+      p.textContent = sec.texte;
+      wrap.appendChild(t);
+      wrap.appendChild(p);
+      if (sec.definition) {
+        const d = document.createElement('div');
+        d.style.cssText = 'margin-top:10px;padding:10px 12px;border-radius:8px;background:rgba(201,168,76,0.08);border:1px solid rgba(201,168,76,0.2);font-size:12.5px;color:var(--cream-dim);line-height:1.6;';
+        d.textContent = '📌 ' + sec.definition;
+        wrap.appendChild(d);
+      }
+      if (sec.exemple) {
+        const e = document.createElement('div');
+        e.style.cssText = 'margin-top:8px;padding:10px 12px;border-radius:8px;background:rgba(82,183,136,0.07);border:1px solid rgba(82,183,136,0.2);font-size:12.5px;color:var(--cream-dim);line-height:1.6;';
+        e.textContent = '💡 ' + sec.exemple;
+        wrap.appendChild(e);
+      }
+      box.appendChild(wrap);
+    });
   } else {
-    box.innerHTML = '<div class="review-box-text">Reprenez votre souffle, puis continuez tranquillement.</div>';
+    box.innerHTML = '<div style="font-size:13px;color:var(--cream-dim);padding:12px 0;">Reprenez votre souffle, puis continuez tranquillement.</div>';
   }
   document.getElementById('review-modal').classList.add('show');
+  // Scroll en haut du modal
+  const modal = document.getElementById('review-modal');
+  if (modal.querySelector('.lc-card')) modal.querySelector('.lc-card').scrollTop = 0;
 }
 function closeReview() {
   document.getElementById('review-modal').classList.remove('show');
