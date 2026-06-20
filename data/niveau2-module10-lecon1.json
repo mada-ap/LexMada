@@ -1,0 +1,933 @@
+{
+  "titre": "Le droit commercial — les actes de commerce",
+  "module": "Module 10 — Niveau 2 (Intermédiaire)",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que le droit commercial ? Le commerce saisi par le droit",
+      "texte": "Imaginez deux situations. Première situation : Razafy achète un sac de riz au marché d'Analakely pour nourrir sa famille. Deuxième situation : Hanta achète 500 sacs de riz en gros pour les revendre dans sa boutique à profit. Ces deux personnes ont fait le même geste physique — acheter du riz — mais le droit les traite de façon radicalement différente. Razafy fait un acte civil ordinaire. Hanta fait un acte de commerce. Voilà toute la question du droit commercial : qu'est-ce qui distingue une opération économique ordinaire d'un acte commercial ? Le droit commercial est la branche du droit privé qui régit les activités commerciales et les personnes qui les exercent à titre professionnel. Il ne s'applique pas à tout le monde ni à toute transaction. Il a ses propres règles — souvent plus souples, plus rapides, plus adaptées aux exigences des affaires — qui dérogent au droit civil commun. Ces règles particulières existent pour une raison simple : le commerce suppose la rapidité, la confiance, la répétition des opérations, la prise de risque. Des règles trop lourdes ou trop rigides tueraient les affaires. À Madagascar, le droit commercial est influencé par les principes du droit OHADA (Organisation pour l'Harmonisation en Droit des Affaires en Afrique), même si Madagascar n'en est pas membre, ainsi que par le droit français hérité de la colonisation et par les textes nationaux propres. La distinction entre acte civil et acte commercial reste le point de départ de tout raisonnement en droit commercial.",
+      "definition": "Droit commercial : branche du droit privé régissant les actes de commerce et les commerçants. Il déroge au droit civil commun en matière de preuve, de solidarité, de prescription et de juridiction compétente. Son application dépend de la qualification de l'acte (commercial ou civil) et de la qualité de la personne (commerçant ou non-commerçant).",
+      "exemple": "Hanta achète 500 sacs de riz à un grossiste pour les revendre dans sa boutique. C'est un acte de commerce : achat pour revendre avec intention de profit. Son voisin Razafy achète 2 sacs pour sa famille. C'est un acte civil : achat pour consommation personnelle, sans intention de revendre."
+    },
+    {
+      "titre": "La notion d'acte de commerce : critères et enjeux concrets",
+      "texte": "La question 'est-ce un acte de commerce ?' n'est pas philosophique — elle a des conséquences très concrètes sur votre vie quotidienne. Selon la réponse, le tribunal compétent change, les règles de preuve changent, la prescription change. Alors comment reconnaître un acte de commerce ? Trois critères ont été développés par la doctrine et la jurisprudence. Le premier est le critère de la spéculation : l'acte est fait dans l'intention de réaliser un profit. Acheter pour revendre plus cher, louer pour percevoir un loyer, prêter pour percevoir des intérêts — tout cela révèle une intention spéculative. Le deuxième est le critère de l'entreprise ou de la répétition : l'acte n'est pas isolé, il s'inscrit dans une activité organisée et répétée. Une personne qui vend sa voiture personnelle ne fait pas un acte de commerce. Un garagiste qui achète et revend des voitures régulièrement, si. Le troisième est le critère de la circulation des richesses : l'acte fait circuler des biens ou des services dans l'économie, il crée de la valeur en mettant en relation l'offre et la demande. Ces trois critères ne sont pas toujours tous présents — certains actes sont commerciaux par la seule volonté de la loi, indépendamment de l'intention des parties. C'est pourquoi on distingue classiquement les actes de commerce par nature, par la forme, et par accessoire.",
+      "definition": "Acte de commerce : opération juridique qualifiée comme telle par la loi ou par les critères jurisprudentiels (spéculation, répétition, circulation des richesses). Cette qualification emporte application du régime commercial : tribunal de commerce compétent, preuve libre, solidarité présumée, prescription abrégée.",
+      "exemple": "Jean ouvre une épicerie à Toamasina. Chaque achat qu'il fait auprès de ses fournisseurs est un acte de commerce par nature — il achète pour revendre. Mais quand il achète un réfrigérateur pour conserver ses marchandises, c'est aussi un acte de commerce — par accessoire, car il sert son activité commerciale."
+    },
+    {
+      "titre": "Les actes de commerce par nature : ce que la loi désigne directement",
+      "texte": "Les actes de commerce par nature — appelés aussi actes objectifs de commerce — sont ceux que la loi déclare commerciaux en eux-mêmes, peu importe qui les accomplit et dans quel but. Même un agriculteur, même un médecin, même un artisan peut accomplir un acte de commerce par nature s'il réalise l'une de ces opérations. La liste est issue du Code de commerce hérité du droit français et adapté aux réalités malgaches. Voici les principales catégories. Premièrement, l'achat pour revendre : acheter des biens meubles ou immeubles pour les revendre, avec intention de profit. C'est l'acte commercial fondamental. Un grossiste en riz, un revendeur de téléphones, un marchand de bœufs au zébu market — tous font des actes de commerce par nature. Deuxièmement, les opérations de banque, de change et de courtage : les banques qui reçoivent des dépôts et accordent des crédits, les bureaux de change, les courtiers qui mettent en relation acheteurs et vendeurs. Troisièmement, les opérations de transport : les entreprises de taxi, de camionnage, de transport maritime ou aérien de marchandises. Quatrièmement, les opérations d'assurance : les compagnies d'assurance qui mutualisent les risques contre prime. Cinquièmement, les opérations de manufacture et d'industrie : toute transformation de matières premières à l'échelle industrielle ou artisanale organisée. Un menuisier qui fabrique des meubles pour les vendre réalise des actes de commerce par nature. Sixièmement, les opérations de commission, de courtage et d'agence : ceux qui agissent pour le compte d'autrui à titre professionnel.",
+      "definition": "Actes de commerce par nature (ou objectifs) : actes déclarés commerciaux par la loi en raison de leur nature même, indépendamment de la qualité de leur auteur. Principales catégories : achat pour revendre, opérations de banque et de change, transport, assurance, industrie et manufacture, commission et courtage.",
+      "exemple": "Sylvain est enseignant. Pendant les vacances, il achète 200 poulets à la campagne et les revend au marché de Tana avec un bénéfice. Cet achat-revente est un acte de commerce par nature — même si Sylvain n'est pas commerçant au sens habituel. S'il le fait régulièrement, il deviendra commerçant de fait et devra s'immatriculer."
+    },
+    {
+      "titre": "Les actes de commerce par la forme : quand la forme suffit",
+      "texte": "Certains actes sont commerciaux non pas à cause de leur contenu ou de leur but, mais uniquement à cause de leur forme juridique. Peu importe qui les signe, peu importe l'objet de la transaction — la forme de l'acte suffit à le rendre commercial. L'exemple le plus important est la lettre de change, appelée aussi traite. La lettre de change est un document par lequel une personne — le tireur — donne l'ordre à une autre personne — le tiré — de payer une certaine somme à une date précise à une troisième personne — le bénéficiaire. Même si un agriculteur signe une lettre de change pour régler une dette agricole, cet acte est commercial par sa forme. Il n'y a pas à chercher s'il y a intention commerciale ou non. Le billet à ordre est dans la même situation : c'est un engagement écrit par lequel une personne promet de payer une somme à une date déterminée. Ces titres sont commerciaux par eux-mêmes parce que leur régime de circulation et de rigueur du paiement est essentiel à la vie des affaires — on doit pouvoir faire circuler ces titres et en exiger le paiement sans discussions sur la nature de la dette sous-jacente. La société commerciale elle-même est un acte de commerce par la forme : la création d'une SARL, d'une SA ou d'une SNC rend les actes accomplis au nom de cette société commerciaux, même si l'activité exercée serait civile pour un particulier — par exemple une société d'avocats ou une société médicale.",
+      "definition": "Actes de commerce par la forme : actes réputés commerciaux en raison de leur forme juridique, indépendamment de leur contenu et de la qualité de leur auteur. Principaux exemples : la lettre de change (traite), le billet à ordre, les sociétés commerciales par leur forme (SA, SARL, SNC, SCS).",
+      "exemple": "Monique est agricultrice. Elle reçoit une lettre de change de son fournisseur d'engrais — elle doit payer 2 millions d'ariary dans 60 jours. Cet acte est commercial par sa forme. Si Monique ne paie pas à l'échéance, le fournisseur peut saisir le tribunal de commerce — même si l'activité agricole de Monique est civile."
+    },
+    {
+      "titre": "Les actes de commerce par accessoire : quand l'activité colore l'acte",
+      "texte": "La théorie de l'accessoire est l'une des plus intelligentes du droit commercial. Son idée est simple : un acte qui serait civil en temps normal devient commercial lorsqu'il est accompli par un commerçant pour les besoins de son commerce. L'accessoire suit le principal. Si l'activité principale est commerciale, tout ce qui s'y rattache devient commercial aussi. Concrètement : un commerçant qui achète un ordinateur pour tenir sa comptabilité, un véhicule pour livrer ses marchandises, qui souscrit une assurance pour son stock, qui emprunte de l'argent pour financer son activité — tous ces actes sont civils par nature mais deviennent commerciaux par accessoire. Pourquoi ? Parce qu'ils servent directement l'activité commerciale du commerçant. Cette règle joue aussi dans l'autre sens — c'est ce qu'on appelle l'accessoire civil. Lorsqu'une personne civile accomplit un acte en lien avec son activité civile, cet acte reste civil même si sa nature serait commerciale. Ainsi, un artisan qui emprunte de l'argent pour acheter ses outils réalise un emprunt civil — même si normalement l'emprunt pourrait être commercial. La théorie de l'accessoire a des limites : elle ne s'applique pas aux actes de commerce par la forme (comme la lettre de change) qui sont toujours commerciaux. Et elle ne transforme pas en acte commercial un acte qui serait contraire à la loi ou à l'objet de la société.",
+      "definition": "Acte de commerce par accessoire : acte civil par nature mais devenu commercial parce qu'il est accompli par un commerçant pour les besoins de son commerce (accessoire commercial). Inversement, un acte commercialement qualifié peut rester civil s'il est accompli par un non-commerçant dans le cadre de son activité civile (accessoire civil). L'accessoire suit le principal.",
+      "exemple": "Parfait tient une quincaillerie à Fianarantsoa. Il emprunte 5 millions d'ariary à une banque pour agrandir son stock. Cet emprunt est civil par nature — mais il devient commercial par accessoire, car il sert son activité commerciale. Le tribunal de commerce sera compétent si un litige surgit sur ce prêt."
+    },
+    {
+      "titre": "Commerçant ou non-commerçant : une frontière qui change tout",
+      "texte": "Savoir si quelqu'un est commerçant n'est pas une question de titre ou de diplôme — c'est une question de fait. Est commerçant celui qui accomplit des actes de commerce à titre habituel et professionnel, en son nom propre et pour son propre compte. Décomposons cette définition. 'À titre habituel' signifie de façon répétée, régulière — pas un coup isolé. Vendre sa voiture une fois n'en fait pas un commerçant. En revanche, acheter et revendre des voitures régulièrement, si. 'En son nom propre' distingue le commerçant de l'employé ou du mandataire : le gérant d'un magasin qui agit au nom de son patron n'est pas lui-même commerçant. 'Pour son propre compte' distingue le commerçant de l'agent public. Certaines personnes ne peuvent pas être commerçantes même si elles en remplissent les conditions matérielles. Les mineurs non émancipés sont exclus. Certaines professions sont incompatibles avec le commerce : les fonctionnaires, les avocats, les notaires, les médecins — ils exercent des professions libérales ou réglementées, pas du commerce. À Madagascar, cette distinction est fondamentale pour déterminer le tribunal compétent (tribunal de commerce versus tribunal civil), les règles de preuve applicables, et les obligations légales comme l'immatriculation au registre du commerce.",
+      "definition": "Commerçant : personne qui accomplit des actes de commerce à titre habituel et professionnel, en son nom propre et pour son propre compte. La qualité de commerçant entraîne des droits (tribunal de commerce, preuve libre) et des obligations (immatriculation au RCS, tenue de comptabilité, déclaration de cessation de paiements).",
+      "exemple": "Vonjy vend des vêtements tous les samedis au marché de Behoririka depuis trois ans. Elle n'a aucun diplôme de commerce, aucune carte de commerçant officielle — mais elle est commerçante de fait : elle accomplit des actes de commerce (achat pour revendre) de façon habituelle, en son nom et pour son compte. Elle devrait s'immatriculer et peut être attraite devant le tribunal de commerce."
+    },
+    {
+      "titre": "La preuve en droit commercial : la liberté au service de la rapidité",
+      "texte": "En droit civil, la preuve est encadrée de manière stricte. Au-dessus d'un certain montant, un acte écrit est exigé pour prouver un contrat. On ne peut pas prouver contre un écrit par des témoins. Ces règles protègent les parties — elles évitent les contestations abusives. Mais en droit commercial, ces règles seraient catastrophiques. Imaginez un grossiste de Tana qui doit rédiger un acte notarié à chaque vente de marchandises — l'économie s'arrêterait. C'est pourquoi, en matière commerciale, la preuve est libre. Cela signifie qu'on peut prouver un acte de commerce par tous moyens : un email, un SMS, une facture, la parole d'un témoin, un relevé bancaire, un bon de commande, un compte courant, une simple comptabilité. Il n'y a pas de hiérarchie des preuves — ce qui compte, c'est la conviction du juge. Cette liberté de la preuve est une nécessité vitale pour les affaires : les transactions commerciales sont rapides, nombreuses, souvent orales ou électroniques. Exiger un écrit signé pour chaque transaction paralyserait les échanges. Attention cependant : cette liberté de la preuve joue entre commerçants. Lorsqu'un commerçant traite avec un non-commerçant, les règles de preuve du droit civil s'appliquent du côté du non-commerçant — on parle alors d'acte mixte, et la règle de preuve applicable dépend de qui invoque la preuve.",
+      "definition": "Liberté de la preuve en droit commercial : en matière d'actes de commerce entre commerçants, la preuve est libre — elle peut être rapportée par tous moyens (écrit, témoignage, facture, email, relevé bancaire, présomption). Cette règle déroge aux exigences du droit civil qui impose en principe un écrit au-dessus d'un certain montant.",
+      "exemple": "Bertrand, grossiste en matériaux de construction, a vendu pour 8 millions d'ariary de ciment à un autre commerçant, verbalement, lors d'une réunion. L'acheteur refuse de payer. Bertrand peut prouver la vente par tous moyens : témoins présents à la réunion, emails de suivi, bon de livraison signé par le chauffeur — même sans contrat écrit, il peut gagner."
+    },
+    {
+      "titre": "La solidarité commerciale : une présomption au service des créanciers",
+      "texte": "En droit civil, si plusieurs personnes doivent une somme ensemble, la solidarité ne se présume pas. Le créancier doit avoir expressément stipulé dans le contrat que les codébiteurs sont solidaires — sinon, chacun ne doit que sa part. Cette règle peut être un piège pour les créanciers : si l'un des codébiteurs est insolvable, le créancier perd sa part. En droit commercial, la règle est inversée : la solidarité est présumée entre codébiteurs commerciaux. Cela signifie que si deux commerçants s'engagent ensemble envers un créancier dans le cadre d'une opération commerciale, le créancier peut réclamer la totalité de la dette à l'un ou l'autre, sans avoir à diviser sa poursuite. L'un paie tout — et se retourne ensuite contre l'autre pour sa part. Cette présomption de solidarité est une protection essentielle des créanciers dans les affaires : elle sécurise les transactions et facilite le crédit commercial. Un fournisseur qui livre à deux associés commerciaux sait qu'il peut poursuivre l'un d'eux pour la totalité si l'autre disparaît. Sans cette règle, le commerce à crédit serait beaucoup plus risqué. La solidarité commerciale peut être écartée par une convention expresse des parties — mais en l'absence de précision, elle s'applique automatiquement dès lors que l'obligation est commerciale.",
+      "definition": "Solidarité commerciale : en droit commercial, la solidarité entre codébiteurs est présumée — le créancier peut poursuivre chacun d'eux pour la totalité de la dette, sans avoir à diviser ses recours. Cette règle est inverse de celle du droit civil où la solidarité doit être expressément stipulée. Elle peut être écartée par convention expresse.",
+      "exemple": "Rivo et Soa sont associés dans un commerce de textile. Ils commandent conjointement pour 10 millions d'ariary de tissu à un fournisseur. Rivo disparaît sans payer. Le fournisseur peut réclamer la totalité des 10 millions à Soa seule — grâce à la présomption de solidarité commerciale. Soa paie, puis se retourne contre Rivo pour récupérer sa moitié."
+    },
+    {
+      "titre": "La prescription commerciale : des délais plus courts pour des litiges plus rapides",
+      "texte": "La prescription, c'est le délai au-delà duquel on ne peut plus agir en justice. En droit civil ordinaire, le délai de prescription est en général de cinq ans pour les créances personnelles. En droit commercial, les délais sont historiquement plus courts — parce que les commerçants doivent savoir rapidement où ils en sont, clore leurs comptes, passer à autre chose. Un commerçant ne peut pas se retrouver poursuivi dix ans après une transaction. À Madagascar, comme dans la plupart des droits d'inspiration française, la prescription commerciale est de cinq ans en règle générale pour les actes de commerce. Mais il existe des prescriptions spéciales plus courtes selon la nature de l'acte. Les actions entre commerçants pour les ventes commerciales peuvent être soumises à des délais réduits. Les actions en garantie des vices cachés ont leurs propres délais. Les actions en matière de transport ont des délais très courts — parfois un an. La prescription commence à courir à partir du jour où le créancier pouvait agir — c'est-à-dire à partir de l'échéance de la créance ou du moment où le dommage était connu. La prescription peut être interrompue par une citation en justice, une reconnaissance de dette par le débiteur, ou une saisie. Elle peut être suspendue par certaines circonstances légales. La connaissance de ces délais est vitale pour un commerçant : agir trop tard, c'est perdre son droit.",
+      "definition": "Prescription commerciale : délai au-delà duquel une action commerciale ne peut plus être intentée. En droit malgache d'inspiration française, la prescription de droit commun est de cinq ans pour les obligations commerciales. Des prescriptions spéciales plus courtes existent selon la nature de l'acte (transport, assurance, vices cachés). La prescription peut être interrompue ou suspendue.",
+      "exemple": "En mars 2020, Lalao livre des marchandises à un commerçant qui refuse de la payer. Elle attend, espérant un règlement à l'amiable. En avril 2025, elle veut enfin saisir le tribunal — mais la prescription de cinq ans est expirée depuis mars 2025. Son droit d'action est éteint. Elle aurait dû agir en justice ou faire reconnaître sa créance avant mars 2025."
+    },
+    {
+      "titre": "Les actes mixtes : quand un commerçant rencontre un non-commerçant",
+      "texte": "Voici une situation très courante dans la vie des affaires : un commerçant vend quelque chose à un particulier non-commerçant. Cette vente est commerciale du côté du vendeur — mais civile du côté de l'acheteur qui achète pour consommer, pas pour revendre. On appelle cela un acte mixte. Et les actes mixtes posent une vraie question : quel droit applique-t-on ? La réponse est élégante et logique : on applique le régime correspondant à la qualité de chaque partie. Du côté du commerçant, c'est le droit commercial qui s'applique. Du côté du non-commerçant, c'est le droit civil. Concrètement, cela a des conséquences importantes sur deux points. Sur la preuve : si le commerçant veut prouver quelque chose contre le non-commerçant, il doit respecter les règles de preuve civiles — il ne peut pas se contenter de témoins si la somme est élevée. Mais si le non-commerçant veut prouver quelque chose contre le commerçant, il peut utiliser tous les moyens de preuve commerciaux. Sur la juridiction : le non-commerçant a le choix — il peut saisir soit le tribunal civil, soit le tribunal de commerce. Mais le commerçant ne peut pas forcer le non-commerçant à aller devant le tribunal de commerce. Cette asymétrie protège le consommateur : il est la partie faible, et le droit lui donne des options.",
+      "definition": "Acte mixte : acte commercial pour l'une des parties et civil pour l'autre. Régime : chaque partie est soumise aux règles correspondant à sa qualité. Conséquences : (1) preuve — le commerçant doit respecter les règles civiles contre le non-commerçant, mais le non-commerçant a la liberté de preuve commerciale contre le commerçant ; (2) juridiction — le non-commerçant a le choix du tribunal.",
+      "exemple": "Nirina achète un téléviseur dans un magasin électronique de Tana. Le magasin (commerçant) veut prouver que Nirina a accepté une clause d'exclusion de garantie. Il doit le faire selon les règles de preuve civiles. Mais si Nirina veut prouver un défaut du téléviseur, elle peut utiliser tout moyen : photo, témoin, expertise informelle. Et si elle veut agir, elle choisit : tribunal civil ou tribunal de commerce."
+    },
+    {
+      "titre": "Le fonds de commerce : la valeur invisible du commerçant",
+      "texte": "Quand vous entrez dans une boulangerie, vous voyez des murs, un four, des vitrines, du pain. Mais il y a quelque chose d'invisible qui vaut souvent bien plus que tous ces équipements réunis : la clientèle, la réputation, l'emplacement, le nom de la boutique. C'est cela, le fonds de commerce. Le fonds de commerce est l'ensemble des éléments corporels et incorporels qu'un commerçant réunit pour attirer et retenir une clientèle. Il n'a pas d'existence physique unique — c'est un bien meuble incorporel complexe, fruit de l'activité du commerçant. Ses éléments corporels sont les marchandises, le matériel, l'outillage. Ses éléments incorporels — les plus précieux — sont la clientèle et l'achalandage (la réputation et la position), le droit au bail (le droit de continuer à occuper les locaux commerciaux), le nom commercial (la dénomination sous laquelle le commerçant est connu), les enseignes, les marques, les brevets, les licences. Le fonds de commerce peut être vendu, apporté en société, donné en nantissement (une sorte de gage mobilier), loué par voie de gérance. Quand un fonds de commerce change de mains, les créanciers du vendeur peuvent s'opposer au paiement du prix pendant un délai — pour éviter que le vendeur disparaisse avec l'argent sans rembourser ses dettes. C'est ce qu'on appelle l'opposition sur le prix de cession du fonds de commerce.",
+      "definition": "Fonds de commerce : ensemble des éléments corporels (matériel, marchandises) et incorporels (clientèle, droit au bail, nom commercial, marques, brevets) réunis par un commerçant pour attirer une clientèle. C'est un bien meuble incorporel, cessible, nantissable et susceptible de gérance-location. L'élément essentiel est la clientèle — sans elle, il n'y a pas de fonds de commerce.",
+      "exemple": "Tovo veut acheter la boulangerie 'Mofomamy' d'Antsiranana. Le vendeur lui cède non seulement le four et les tables (éléments corporels), mais aussi le nom 'Mofomamy', le bail des locaux, la clientèle fidèle du quartier et la recette secrète du pain (éléments incorporels). Le tout constitue le fonds de commerce. Tovo paie 50 millions d'ariary — dont 40 pour la clientèle et le bail, et seulement 10 pour le matériel."
+    },
+    {
+      "titre": "Les effets de la qualité de commerçant : droits et obligations",
+      "texte": "Être reconnu comme commerçant n'est pas qu'une question d'étiquette — cela crée des droits et des obligations concrets. Du côté des obligations, le commerçant doit s'immatriculer au registre du commerce. Il doit tenir une comptabilité régulière — livre journal, grand livre, livre d'inventaire. Il doit déclarer sa cessation de paiements dans les quarante-cinq jours (en droit OHADA) pour permettre l'ouverture d'une procédure collective (redressement ou liquidation). Il doit ouvrir un compte bancaire professionnel. Il supporte des obligations fiscales spécifiques : la patente, la TVA selon son régime. Du côté des droits, le commerçant bénéficie de la liberté de preuve. Il bénéficie de la présomption de solidarité. Il peut saisir le tribunal de commerce pour ses litiges. Il peut être protégé par le droit au bail commercial — qui lui garantit le renouvellement de son bail et lui évite d'être expulsé de ses locaux commerciaux sans indemnité. Il peut mettre son fonds de commerce en nantissement pour obtenir un crédit. Ces droits et obligations ne sont pas facultatifs pour les vrais commerçants : même celui qui s'est abstenu de s'immatriculer mais qui exerce réellement une activité commerciale est soumis à toutes les obligations — il ne peut pas se prévaloir de son manquement à l'immatriculation pour échapper aux règles commerciales.",
+      "definition": "Effets de la qualité de commerçant. Obligations : immatriculation au registre du commerce, tenue de comptabilité, déclaration de cessation de paiements, obligations fiscales. Droits : liberté de preuve, présomption de solidarité, droit au bail commercial, compétence du tribunal de commerce, possibilité de nantissement du fonds de commerce.",
+      "exemple": "Claudine gère un salon de coiffure depuis deux ans sans s'être immatriculée. Elle pense être à l'abri des règles commerciales. Erreur : un fournisseur de produits capillaires la poursuit devant le tribunal de commerce pour un impayé. Elle ne peut pas invoquer son défaut d'immatriculation pour contester la compétence du tribunal — elle est commerçante de fait."
+    },
+    {
+      "titre": "Le registre du commerce et des sociétés (RCS) : la carte d'identité du commerçant",
+      "texte": "Le registre du commerce et des sociétés, qu'on désigne couramment par l'acronyme RCS, est le fichier officiel dans lequel tout commerçant personne physique et toute société commerciale doit s'inscrire. À Madagascar, ce registre est géré par le tribunal de commerce ou par les greffes des tribunaux selon les villes. L'immatriculation au RCS n'est pas une option — c'est une obligation légale. Elle remplit plusieurs fonctions essentielles. Premièrement, elle confère la qualité officielle de commerçant : c'est la présomption légale de commercialité. Celui qui est immatriculé est présumé commerçant — mais la présomption peut être renversée si l'activité réelle ne correspond pas. Deuxièmement, elle informe les tiers : toute personne peut consulter le RCS pour connaître la situation juridique d'un commerçant — son nom, son adresse, son activité, ses éventuelles procédures collectives. Troisièmement, elle permet la publicité légale : certains actes (changement de siège, modification des statuts, cession du fonds) doivent être publiés pour être opposables aux tiers. Le numéro d'immatriculation au RCS est obligatoire sur tous les documents commerciaux : factures, papiers à en-tête, contrats. L'absence d'immatriculation constitue une infraction punie par la loi. Elle n'empêche pas le commerçant de fait d'être soumis aux obligations commerciales — mais elle lui fait perdre certains droits, comme la protection du bail commercial.",
+      "definition": "Registre du commerce et des sociétés (RCS) : fichier officiel tenu au greffe du tribunal de commerce, dans lequel tout commerçant personne physique et toute société commerciale doit s'immatriculer. L'immatriculation confère la présomption légale de commercialité, informe les tiers, et est obligatoire pour bénéficier de certains droits comme la protection du bail commercial.",
+      "exemple": "Fara veut ouvrir une boutique de vêtements à Antananarivo. Avant de commencer à vendre, elle doit s'immatriculer au RCS auprès du greffe du tribunal de commerce. Elle obtient un numéro d'immatriculation qu'elle devra faire figurer sur ses factures. Sans immatriculation, elle ne pourra pas bénéficier de la protection du bail commercial ni de certains crédits bancaires réservés aux commerçants."
+    },
+    {
+      "titre": "Le cadre législatif du droit commercial à Madagascar",
+      "texte": "Le droit commercial malgache est un droit composite — il est nourri de plusieurs sources qui se superposent et parfois se complètent. La première source est l'héritage du droit français. Madagascar, ancienne colonie française, a conservé à l'indépendance (1960) de nombreuses dispositions du Code de commerce français. Ces textes ont été progressivement adaptés, mais leur influence reste forte sur la théorie des actes de commerce, la lettre de change, le fonds de commerce. La deuxième source est le droit OHADA, dont Madagascar n'est pas membre mais dont les solutions juridiques influencent la doctrine et les tribunaux malgaches, notamment sur les sociétés commerciales, les procédures collectives et les sûretés. La troisième source est la législation nationale proprement malgache : la loi sur les sociétés commerciales, les textes fiscaux (patente, TVA, impôt sur les bénéfices), la réglementation des investissements. La quatrième source est la jurisprudence des tribunaux de commerce de Tana, Toamasina, Mahajanga et des autres grandes villes. Les juges consulaires — des commerçants élus par leurs pairs pour juger les litiges commerciaux — développent une pratique qui affine l'application des textes. Comprendre ces sources multiples est essentiel pour naviguer dans le droit commercial malgache : une solution peut provenir d'un texte ancien d'inspiration française, d'un arrêt récent d'un tribunal de Tana, ou d'une pratique commerciale devenue coutume reconnue.",
+      "definition": "Sources du droit commercial malgache : (1) héritage du Code de commerce français ; (2) influence du droit OHADA (non applicable directement mais influent) ; (3) législation nationale (sociétés, fiscalité, investissements) ; (4) jurisprudence des tribunaux de commerce. Ce pluralisme des sources exige une analyse des textes applicable à chaque situation concrète.",
+      "exemple": "Un litige oppose un transporteur malgache à un expéditeur sur un retard de livraison. L'avocat du transporteur cherche le droit applicable : il consulte d'abord les textes nationaux sur le transport, puis les solutions OHADA (pour comparer), puis la jurisprudence du tribunal de commerce de Toamasina — qui a peut-être déjà tranché une question similaire. C'est la méthode du droit commercial malgache."
+    },
+    {
+      "titre": "Récapitulatif : maîtriser les actes de commerce",
+      "texte": "Voici ce que vous devez avoir parfaitement compris à l'issue de ce module. Premièrement, la distinction entre acte civil et acte commercial est le point de départ de tout raisonnement en droit des affaires. Elle détermine le tribunal compétent, les règles de preuve, la solidarité et la prescription. Deuxièmement, les actes de commerce se divisent en trois grandes catégories : par nature (la loi les qualifie commerciaux — achat pour revendre, transport, banque, assurance), par la forme (la lettre de change, le billet à ordre, les sociétés commerciales), et par accessoire (les actes civils d'un commerçant liés à son activité commerciale). Troisièmement, le commerçant est celui qui accomplit des actes de commerce à titre habituel, en son nom et pour son compte. Même sans immatriculation, on peut être commerçant de fait. Quatrièmement, le droit commercial déroge au droit civil sur trois points essentiels : la preuve est libre entre commerçants, la solidarité est présumée entre codébiteurs commerciaux, et les délais de prescription sont spécifiques. Cinquièmement, les actes mixtes appliquent un régime dual : droit commercial pour le commerçant, droit civil pour le non-commerçant — avec un avantage pour ce dernier en matière de juridiction. Sixièmement, le fonds de commerce est une valeur incorporelle essentielle — dominée par la clientèle et le droit au bail — transmissible et nantissable. Septièmement, l'immatriculation au RCS est obligatoire et confère la présomption légale de commercialité.",
+      "definition": "À retenir : acte de commerce = par nature / par la forme / par accessoire. Commerçant = actes de commerce habituels + en son nom + pour son compte. Régime commercial = preuve libre + solidarité présumée + prescription commerciale. Acte mixte = régime dual. Fonds de commerce = ensemble corporel et incorporel centré sur la clientèle. RCS = immatriculation obligatoire."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Razafy achète 3 kilos de riz pour nourrir sa famille. Hanta achète 500 sacs de riz pour les revendre dans sa boutique. Lequel accomplit un acte de commerce ?",
+      "choix": [
+        "Razafy, car il achète plus souvent",
+        "Hanta, car elle achète pour revendre avec intention de profit",
+        "Les deux, car ils achètent tous les deux du riz",
+        "Ni l'un ni l'autre, car le riz est un produit alimentaire non commercial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acte de commerce suppose une intention de revendre à profit.",
+        "Razafy consomme — Hanta revend.",
+        "C'est l'intention qui distingue, pas la quantité achetée."
+      ],
+      "explication": "Hanta accomplit un acte de commerce par nature : elle achète pour revendre avec l'intention de réaliser un profit. C'est la définition même de l'achat pour revendre, premier acte de commerce par nature. Razafy, lui, achète pour consommer — c'est un acte civil ordinaire. La distinction ne tient pas à la quantité mais à l'intention et à la destination du bien."
+    },
+    {
+      "question": "Quels sont les trois critères jurisprudentiels permettant d'identifier un acte de commerce ?",
+      "choix": [
+        "La rapidité, la quantité et la valeur de la transaction",
+        "La spéculation, la répétition ou organisation, et la circulation des richesses",
+        "L'écrit, le témoin et la signature notariale",
+        "Le profit réalisé, le lieu de vente et la nationalité du vendeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces critères permettent de qualifier un acte même quand la loi est silencieuse.",
+        "L'un d'eux suppose une intention de gain.",
+        "Un acte isolé peut ne pas suffire — la régularité compte."
+      ],
+      "explication": "Les trois critères jurisprudentiels sont : (1) la spéculation — l'acte est fait dans l'intention de réaliser un profit ; (2) la répétition ou l'organisation — l'acte s'inscrit dans une activité régulière et organisée, pas un coup isolé ; (3) la circulation des richesses — l'acte fait circuler des biens ou des services dans l'économie. Ces critères guident les juges quand la loi ne classe pas expressément un acte."
+    },
+    {
+      "question": "Un enseignant achète 200 poulets à la campagne pendant ses vacances et les revend au marché de Tana. De quel type d'acte de commerce s'agit-il ?",
+      "choix": [
+        "Un acte de commerce par la forme, car il utilise une lettre de change",
+        "Un acte de commerce par nature, car c'est un achat pour revendre avec intention de profit",
+        "Un acte civil, car l'enseignant n'est pas commerçant",
+        "Un acte mixte, car il est enseignant et commerçant à la fois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les actes de commerce par nature s'appliquent à tout le monde.",
+        "La qualité professionnelle de la personne n'efface pas la nature commerciale de l'acte.",
+        "Achat pour revendre = acte de commerce par nature."
+      ],
+      "explication": "C'est un acte de commerce par nature : l'enseignant achète des poulets pour les revendre à profit. Les actes de commerce par nature sont commerciaux indépendamment de la qualité de leur auteur. Peu importe qu'il soit enseignant — cet acte d'achat-revente est commercial. S'il le fait régulièrement, il pourrait même être qualifié de commerçant de fait."
+    },
+    {
+      "question": "Pourquoi la lettre de change est-elle un acte de commerce par la forme ?",
+      "choix": [
+        "Parce qu'elle est utilisée uniquement par des commerçants",
+        "Parce que sa forme juridique suffit à la rendre commerciale, indépendamment de son objet et de la qualité de ses signataires",
+        "Parce qu'elle porte toujours sur des marchandises",
+        "Parce qu'elle est signée devant un notaire commercial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La forme prime sur tout le reste pour cette catégorie.",
+        "Même un agriculteur qui signe une traite accomplit un acte commercial.",
+        "C'est la nature du titre qui compte, pas ce qu'il représente."
+      ],
+      "explication": "La lettre de change est un acte de commerce par la forme : sa simple forme juridique suffit à la rendre commerciale, peu importe qui la signe et pour quelle raison. Un agriculteur qui signe une traite pour régler une dette agricole accomplit un acte commercial. Cette règle garantit la rigueur et la sécurité des paiements commerciaux — on ne peut pas remettre en cause la nature commerciale d'une traite en arguant du but civil de la transaction."
+    },
+    {
+      "question": "Quel est le principe de la théorie de l'accessoire en droit commercial ?",
+      "choix": [
+        "Tout acte accompli avec un accessoire physique (camion, outil) est commercial",
+        "Un acte civil devient commercial lorsqu'il est accompli par un commerçant pour les besoins de son commerce",
+        "Les accessoires d'un fonds de commerce sont toujours des immeubles",
+        "Un acte commercial devient civil lorsqu'il concerne un produit accessoire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'accessoire suit le principal.",
+        "Si l'activité principale est commerciale, les actes qui la servent le deviennent aussi.",
+        "Un achat d'ordinateur pour tenir sa comptabilité commerciale en est un exemple."
+      ],
+      "explication": "La théorie de l'accessoire pose que l'accessoire suit le principal : un acte civil par nature (achat d'un véhicule, souscription d'une assurance, emprunt bancaire) devient commercial lorsqu'il est accompli par un commerçant pour les besoins de son commerce. Inversement, un acte commercialement qualifiable reste civil s'il est accompli par un non-commerçant dans le cadre de son activité civile."
+    },
+    {
+      "question": "Un médecin emprunte de l'argent à sa banque pour acheter un appareil médical pour son cabinet. Cet emprunt est-il civil ou commercial ?",
+      "choix": [
+        "Commercial, car l'emprunt bancaire est toujours un acte de commerce",
+        "Civil, car le médecin exerce une profession libérale et non commerciale — l'emprunt est accessoire de son activité civile",
+        "Mixte, car la banque est commerciale mais le médecin est civil",
+        "Cela dépend du montant de l'emprunt"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La théorie de l'accessoire joue dans les deux sens.",
+        "L'activité médicale est-elle civile ou commerciale ?",
+        "L'accessoire d'une activité civile reste civil."
+      ],
+      "explication": "L'emprunt est civil. La médecine est une profession libérale — elle est civile, pas commerciale. Par la théorie de l'accessoire civil, l'emprunt contracté par le médecin pour son activité médicale reste civil, même si techniquement l'emprunt bancaire pourrait être commercial. L'accessoire d'une activité civile demeure civil. Le tribunal civil est donc compétent en cas de litige sur cet emprunt."
+    },
+    {
+      "question": "Qui est commerçant selon la définition juridique ?",
+      "choix": [
+        "Toute personne qui possède un magasin ou une boutique",
+        "Toute personne qui accomplit des actes de commerce à titre habituel et professionnel, en son nom propre et pour son propre compte",
+        "Toute personne immatriculée au registre du commerce",
+        "Toute personne qui déclare être commerçante auprès des impôts"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La définition est une question de fait, pas de titre officiel.",
+        "Trois éléments cumulatifs sont nécessaires.",
+        "L'immatriculation est une conséquence, pas une condition."
+      ],
+      "explication": "Est commerçant celui qui accomplit des actes de commerce (1) à titre habituel et professionnel — pas de manière isolée, (2) en son nom propre — pas comme employé ou mandataire d'un tiers, (3) pour son propre compte — il assume le risque économique. L'immatriculation au RCS n'est pas une condition de la qualité de commerçant mais une obligation légale découlant de cette qualité."
+    },
+    {
+      "question": "Vonjy vend des vêtements tous les samedis au marché depuis trois ans sans s'être immatriculée. Est-elle commerçante ?",
+      "choix": [
+        "Non, car elle n'est pas immatriculée au registre du commerce",
+        "Oui, elle est commerçante de fait — l'absence d'immatriculation ne supprime pas la qualité de commerçant",
+        "Non, car vendre au marché n'est pas une activité commerciale",
+        "Cela dépend de son chiffre d'affaires annuel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La qualité de commerçant est une question de fait.",
+        "L'immatriculation est une obligation, pas une condition.",
+        "Vendre pour revendre à profit de façon habituelle..."
+      ],
+      "explication": "Vonjy est commerçante de fait. Elle accomplit des actes de commerce (achat pour revendre) de façon habituelle (chaque samedi depuis trois ans), en son nom propre et pour son compte. L'absence d'immatriculation est une infraction, mais elle ne lui permet pas d'échapper aux obligations commerciales. Elle peut être attraite devant le tribunal de commerce et doit supporter toutes les obligations d'un commerçant."
+    },
+    {
+      "question": "Quelle est la règle de preuve en matière commerciale ?",
+      "choix": [
+        "La preuve écrite est toujours exigée, comme en matière civile",
+        "La preuve est libre — elle peut être rapportée par tous moyens entre commerçants",
+        "La preuve doit être faite devant notaire",
+        "La preuve testimoniale est interdite en matière commerciale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit commercial a besoin de rapidité et de souplesse.",
+        "Un email, une facture, un témoin peuvent suffire.",
+        "Cette règle déroge aux exigences du droit civil."
+      ],
+      "explication": "En droit commercial, la preuve est libre entre commerçants : elle peut être rapportée par tous moyens — témoignage, facture, email, SMS, relevé bancaire, bon de livraison, comptabilité. Il n'y a pas de hiérarchie des preuves. Cette liberté est une nécessité vitale pour les affaires : les transactions sont rapides, souvent orales ou électroniques. Cette règle déroge au droit civil qui impose en principe un écrit pour les sommes importantes."
+    },
+    {
+      "question": "Bertrand, grossiste, a vendu pour 8 millions d'ariary de ciment verbalement. L'acheteur nie la vente. Comment Bertrand peut-il prouver ?",
+      "choix": [
+        "Il ne peut pas prouver — il aurait dû faire un écrit",
+        "Il peut prouver par tous moyens : témoins, emails, bons de livraison, relevés — même sans contrat écrit",
+        "Il doit absolument produire un contrat notarié pour être cru",
+        "Il doit produire un contrat écrit et signé par les deux parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les deux parties sont commerçantes.",
+        "La preuve commerciale est libre.",
+        "Un bon de livraison ou un email de confirmation suffit."
+      ],
+      "explication": "Bertrand peut prouver par tous moyens : la liberté de la preuve commerciale s'applique car les deux parties sont commerçantes. Témoins présents à la réunion, emails de suivi, bon de livraison signé par le chauffeur de l'acheteur, extrait de comptabilité — tout cela est recevable. L'absence de contrat écrit n'est pas fatale en droit commercial, contrairement au droit civil."
+    },
+    {
+      "question": "Rivo et Soa commandent conjointement pour 10 millions d'ariary de tissu. Rivo disparaît. Le fournisseur peut-il réclamer la totalité à Soa ?",
+      "choix": [
+        "Non, le fournisseur peut seulement réclamer 5 millions à Soa — sa moitié",
+        "Oui, grâce à la présomption de solidarité commerciale, le fournisseur peut réclamer la totalité à Soa",
+        "Oui, mais seulement si le contrat a expressément stipulé la solidarité",
+        "Non, le fournisseur doit d'abord chercher Rivo pendant six mois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En droit commercial, la solidarité est présumée.",
+        "Cette règle est l'inverse de celle du droit civil.",
+        "Le créancier peut poursuivre l'un ou l'autre pour la totalité."
+      ],
+      "explication": "Oui. En droit commercial, la solidarité entre codébiteurs est présumée. Le fournisseur peut réclamer la totalité des 10 millions à Soa seule, sans avoir à diviser sa poursuite. Soa paiera tout et se retournera ensuite contre Rivo pour récupérer sa moitié. Cette présomption de solidarité protège les créanciers et facilite le crédit commercial — elle est l'inverse de la règle civile où la solidarité doit être expressément stipulée."
+    },
+    {
+      "question": "Pourquoi la solidarité est-elle présumée en droit commercial mais pas en droit civil ?",
+      "choix": [
+        "Parce que les commerçants sont plus riches que les civils",
+        "Parce que le commerce suppose la prise de risque collective et la rapidité — une solidarité présumée sécurise le crédit et les transactions",
+        "Parce que la loi commerciale est plus ancienne que la loi civile",
+        "Parce que les commerçants ont expressément demandé cette règle au parlement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à l'utilité pratique de cette règle pour les créanciers.",
+        "Sans solidarité présumée, un créancier risque de ne rien récupérer si l'un des débiteurs disparaît.",
+        "Le commerce à crédit repose sur la confiance et la sécurité."
+      ],
+      "explication": "La solidarité est présumée en droit commercial parce que le commerce exige confiance, rapidité et sécurité des transactions. Si un fournisseur devait prouver à chaque fois que ses clients s'engagent solidairement, le commerce à crédit serait paralysé. La solidarité présumée protège le créancier contre l'insolvabilité de l'un des codébiteurs et facilite le crédit commercial. C'est une règle d'efficacité économique."
+    },
+    {
+      "question": "Lalao livre des marchandises en mars 2020. L'acheteur refuse de payer. En avril 2025, Lalao veut agir en justice. Peut-elle encore le faire ?",
+      "choix": [
+        "Oui, elle a encore 10 ans",
+        "Non, la prescription de cinq ans en matière commerciale est expirée depuis mars 2025",
+        "Oui, car elle n'a jamais renoncé à sa créance",
+        "Cela dépend du montant de la créance"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quel est le délai de prescription commerciale ?",
+        "La prescription commence à courir quand ?",
+        "Mars 2020 + 5 ans = ?"
+      ],
+      "explication": "Non. La prescription commerciale de droit commun est de cinq ans. Lalao pouvait agir jusqu'en mars 2025. En avril 2025, son délai est expiré — son action est prescrite. Elle aurait dû saisir le tribunal ou obtenir une reconnaissance de dette du débiteur avant mars 2025 pour interrompre la prescription. C'est une leçon essentielle : surveiller les délais en droit commercial."
+    },
+    {
+      "question": "Comment peut-on interrompre la prescription en droit commercial ?",
+      "choix": [
+        "En envoyant une lettre simple au débiteur",
+        "Par une citation en justice, une reconnaissance de dette par le débiteur, ou une saisie",
+        "En attendant que le débiteur revienne de lui-même",
+        "En changeant d'avocat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'interruption fait repartir le délai de zéro.",
+        "Un acte du créancier ou du débiteur peut l'interrompre.",
+        "L'assignation en justice en est l'exemple classique."
+      ],
+      "explication": "La prescription commerciale peut être interrompue par : (1) une citation en justice — l'assignation du débiteur devant le tribunal fait repartir le délai à zéro ; (2) une reconnaissance de dette par le débiteur — il admet devoir la somme, ce qui réinitialise le délai ; (3) une saisie — tout acte d'exécution forcée interrompt la prescription. Après l'interruption, un nouveau délai de cinq ans commence à courir."
+    },
+    {
+      "question": "Nirina achète un téléviseur dans un magasin (commerçant). Le magasin veut prouver que Nirina a accepté une clause d'exclusion de garantie. Quelles règles de preuve s'appliquent ?",
+      "choix": [
+        "Le magasin peut prouver par tous moyens — c'est la liberté de preuve commerciale",
+        "Le magasin doit respecter les règles de preuve civiles pour prouver contre Nirina, non-commerçante",
+        "Nirina doit prouver elle-même que la clause n'existe pas",
+        "Aucune règle de preuve — seule la décision du juge compte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un acte mixte — commercial pour le magasin, civil pour Nirina.",
+        "En matière d'acte mixte, le régime de preuve dépend de qui veut prouver contre qui.",
+        "Le non-commerçant est protégé par les règles civiles."
+      ],
+      "explication": "C'est un acte mixte. Pour prouver contre Nirina (non-commerçante), le magasin doit respecter les règles de preuve civiles — il ne peut pas se contenter de témoins pour des sommes importantes, il faut un écrit. Mais Nirina, elle, peut prouver contre le magasin (commerçant) par tous moyens. Cette asymétrie protège le consommateur non-commerçant."
+    },
+    {
+      "question": "En cas d'acte mixte, quel droit le non-commerçant a-t-il concernant le choix du tribunal ?",
+      "choix": [
+        "Il doit obligatoirement aller devant le tribunal de commerce",
+        "Il a le choix entre le tribunal civil et le tribunal de commerce",
+        "Il doit aller devant le tribunal civil uniquement",
+        "Le choix appartient toujours au commerçant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acte mixte crée une asymétrie protectrice.",
+        "Le non-commerçant est la partie faible.",
+        "Ce choix est un droit d'option, pas une obligation."
+      ],
+      "explication": "En matière d'acte mixte, le non-commerçant a une option de compétence : il peut saisir soit le tribunal civil (tribunal de droit commun), soit le tribunal de commerce. Cette option le protège — il peut choisir la juridiction avec laquelle il est le plus à l'aise ou celle qui lui est la plus favorable. Le commerçant ne peut pas lui imposer le tribunal de commerce."
+    },
+    {
+      "question": "Quel est l'élément essentiel et central du fonds de commerce ?",
+      "choix": [
+        "Le matériel et l'outillage",
+        "Les marchandises en stock",
+        "La clientèle — sans elle, il n'y a pas de fonds de commerce",
+        "Le contrat de bail des locaux"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Un fonds de commerce peut exister sans marchandises ni matériel.",
+        "Ce qui fait la valeur réelle d'un commerce, c'est ce qui revient régulièrement.",
+        "Sans cet élément, le reste n'a aucune valeur commerciale."
+      ],
+      "explication": "La clientèle est l'élément central et essentiel du fonds de commerce. Sans clientèle, il n'existe pas de fonds de commerce — juste des meubles et des marchandises sans valeur commerciale particulière. C'est la clientèle qui donne sa valeur à tout le reste : le bail, le nom commercial, les équipements n'ont de valeur que parce qu'ils servent à attirer et retenir cette clientèle."
+    },
+    {
+      "question": "Tovo achète la boulangerie 'Mofomamy'. Il acquiert le four, les tables, le nom 'Mofomamy' et le bail des locaux. Que constitue l'ensemble de ces éléments ?",
+      "choix": [
+        "Un immeuble par destination",
+        "Un fonds de commerce",
+        "Une société commerciale",
+        "Un contrat de franchise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il y a des éléments corporels et des éléments incorporels.",
+        "La clientèle et le bail font partie de ce tout.",
+        "C'est un bien meuble incorporel complexe."
+      ],
+      "explication": "L'ensemble constitue un fonds de commerce : il réunit des éléments corporels (four, tables, matériel) et des éléments incorporels (nom commercial 'Mofomamy', droit au bail des locaux, clientèle fidèle du quartier). Le fonds de commerce est un bien meuble incorporel complexe — la jurisprudence le considère comme une universalité de fait, transmissible en bloc."
+    },
+    {
+      "question": "Peut-on hypothéquer un fonds de commerce ?",
+      "choix": [
+        "Oui, l'hypothèque peut porter sur un fonds de commerce",
+        "Non, l'hypothèque ne porte que sur des immeubles — on constitue un nantissement sur le fonds de commerce",
+        "Non, un fonds de commerce ne peut jamais servir de garantie",
+        "Oui, mais seulement si le fonds vaut plus de 10 millions d'ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'hypothèque est une sûreté immobilière.",
+        "Le fonds de commerce est un bien meuble incorporel.",
+        "Quelle sûreté porte sur les meubles incorporels ?"
+      ],
+      "explication": "Non. L'hypothèque ne porte que sur des immeubles. Le fonds de commerce étant un bien meuble incorporel, on ne peut pas l'hypothéquer. La sûreté applicable au fonds de commerce est le nantissement — une forme de gage sans dépossession portant sur les éléments incorporels du fonds. Le créancier titulaire du nantissement peut faire vendre le fonds si le débiteur ne paie pas."
+    },
+    {
+      "question": "Quelles sont les obligations d'un commerçant en matière de comptabilité ?",
+      "choix": [
+        "Il n'a aucune obligation comptable — c'est facultatif",
+        "Il doit tenir une comptabilité régulière : livre journal, grand livre, livre d'inventaire",
+        "Il doit seulement noter ses recettes dans un carnet personnel",
+        "Il doit confier sa comptabilité à l'État chaque année"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La comptabilité est une obligation légale pour les commerçants.",
+        "Elle sert à plusieurs fins : fiscales, commerciales, judiciaires.",
+        "Certains documents comptables ont force probante devant les tribunaux."
+      ],
+      "explication": "Le commerçant est légalement tenu de tenir une comptabilité régulière comportant notamment : le livre journal (enregistrement chronologique de toutes les opérations), le grand livre (classement par compte), et le livre d'inventaire (recensement annuel des actifs et passifs). Cette obligation est à la fois fiscale (permettre le contrôle fiscal) et juridique (la comptabilité peut servir de preuve devant le tribunal de commerce)."
+    },
+    {
+      "question": "Claudine gère un salon de coiffure depuis deux ans sans s'être immatriculée. Un fournisseur la poursuit devant le tribunal de commerce. Peut-elle contester la compétence de ce tribunal ?",
+      "choix": [
+        "Oui, sans immatriculation elle n'est pas commerçante et le tribunal civil est seul compétent",
+        "Non, elle est commerçante de fait — le défaut d'immatriculation ne la protège pas des obligations commerciales",
+        "Oui, car le tribunal de commerce n'est compétent que pour les immatriculés",
+        "Cela dépend du montant du litige"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La qualité de commerçant est une question de fait.",
+        "L'immatriculation est une obligation, pas une condition.",
+        "Un commerçant ne peut pas se prévaloir de son propre manquement."
+      ],
+      "explication": "Non. Claudine est commerçante de fait — elle accomplit des actes de commerce (services de coiffure à titre professionnel, achat de produits pour les revendre en prestation) de façon habituelle. Le défaut d'immatriculation est une infraction, mais il ne la protège pas des obligations commerciales. Elle ne peut pas invoquer son propre manquement légal pour échapper à la compétence du tribunal de commerce."
+    },
+    {
+      "question": "Quelles informations doit comporter obligatoirement le numéro d'immatriculation au RCS sur les documents commerciaux ?",
+      "choix": [
+        "Il n'est obligatoire que sur les contrats de plus de 5 millions d'ariary",
+        "Il doit figurer sur tous les documents commerciaux : factures, papiers à en-tête, contrats",
+        "Il est obligatoire uniquement sur les documents adressés à l'État",
+        "Il n'est obligatoire que pour les sociétés, pas pour les commerçants individuels"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le RCS est la carte d'identité du commerçant.",
+        "Les tiers doivent pouvoir identifier le commerçant dans chaque document.",
+        "Cette obligation s'applique à tous les commerçants immatriculés."
+      ],
+      "explication": "Le numéro d'immatriculation au RCS est obligatoire sur tous les documents commerciaux sans exception : factures, bons de commande, papiers à en-tête, contrats commerciaux. Cette obligation de transparence permet aux tiers (clients, fournisseurs, créanciers) d'identifier précisément le commerçant et de vérifier sa situation juridique. Son absence est une infraction."
+    },
+    {
+      "question": "Qu'est-ce que le droit au bail commercial et pourquoi est-il précieux ?",
+      "choix": [
+        "C'est le droit de construire un bâtiment commercial sur un terrain public",
+        "C'est le droit du commerçant au renouvellement de son bail et à une indemnité d'éviction s'il est expulsé, protégeant la continuité de son activité",
+        "C'est le droit de louer son fonds de commerce à un tiers",
+        "C'est le droit du propriétaire d'augmenter le loyer chaque année"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce droit protège l'emplacement commercial du commerçant.",
+        "Sans emplacement, la clientèle et le fonds de commerce peuvent disparaître.",
+        "Il fait partie des éléments incorporels du fonds de commerce."
+      ],
+      "explication": "Le droit au bail commercial est le droit du commerçant d'occuper ses locaux commerciaux de façon stable — avec notamment le droit au renouvellement du bail à l'expiration et, en cas d'éviction, le droit à une indemnité d'éviction qui compense la perte de clientèle. Ce droit est précieux car l'emplacement est souvent la clé de la clientèle : un commerçant expulsé de ses locaux sans indemnité perd sa clientèle. Il fait partie des éléments incorporels du fonds de commerce."
+    },
+    {
+      "question": "Qu'est-ce que la gérance-location d'un fonds de commerce ?",
+      "choix": [
+        "La vente d'un fonds de commerce à crédit",
+        "La mise du fonds de commerce en exploitation par un gérant qui paie une redevance au propriétaire du fonds tout en exploitant le commerce à son propre risque",
+        "La location des locaux commerciaux sans le fonds",
+        "La mise en nantissement du fonds de commerce au profit d'un créancier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le gérant-locataire exploite le fonds mais n'en est pas propriétaire.",
+        "Il paie une redevance au propriétaire.",
+        "Il exploite à ses propres risques."
+      ],
+      "explication": "La gérance-location est l'opération par laquelle le propriétaire d'un fonds de commerce le confie à un gérant-locataire qui l'exploite à ses propres risques et périls, en contrepartie d'une redevance. Le gérant-locataire devient commerçant — il est responsable des dettes contractées pendant sa gérance. Le propriétaire continue à percevoir une redevance sans exploiter lui-même. C'est une alternative à la vente ou à la cession."
+    },
+    {
+      "question": "Quelle est la différence entre un commerçant et un artisan ?",
+      "choix": [
+        "L'artisan vend des objets d'art, le commerçant vend des objets utiles",
+        "L'artisan exerce une activité manuelle principalement sur commande avec une faible organisation industrielle ; le commerçant spécule sur les marchandises et organise la circulation des biens",
+        "Il n'y a aucune différence juridique",
+        "L'artisan est toujours exonéré d'impôts ; le commerçant ne l'est jamais"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'artisan crée lui-même ce qu'il vend, avec un travail manuel dominant.",
+        "Le commerçant achète pour revendre ou organise la prestation à grande échelle.",
+        "Cette distinction a des conséquences sur le droit applicable."
+      ],
+      "explication": "L'artisan exerce une activité manuelle à titre principal, sur commande, avec une organisation modeste — le menuisier qui fabrique des meubles sur mesure, le cordonnier, le forgeron. La valeur réside dans le travail manuel. Le commerçant, lui, spécule sur les marchandises ou organise la circulation des biens à grande échelle. Un menuisier qui fabrique en série pour revendre en gros peut basculer vers le statut de commerçant-industriel."
+    },
+    {
+      "question": "Les professions libérales (médecins, avocats, architectes) sont-elles des commerçants ?",
+      "choix": [
+        "Oui, dès lors qu'ils perçoivent des honoraires",
+        "Non, les professions libérales exercent une activité civile réglementée incompatible avec la qualité de commerçant",
+        "Oui, si leur chiffre d'affaires dépasse un certain seuil",
+        "Cela dépend de leur mode d'exercice (libéral ou salarié)"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le médecin vend-il des marchandises ou rend-il un service intellectuel réglementé ?",
+        "Certaines professions sont incompatibles avec le commerce.",
+        "Leur activité est civile par nature."
+      ],
+      "explication": "Non. Les professions libérales (médecins, avocats, notaires, architectes, experts-comptables) exercent une activité civile réglementée — elles sont incompatibles avec la qualité de commerçant. Leur activité repose sur la compétence intellectuelle et l'intuitu personae (relation de confiance personnelle), pas sur la spéculation sur les marchandises. Ils sont soumis au droit civil et à leurs ordres professionnels, pas au droit commercial."
+    },
+    {
+      "question": "Un fonctionnaire peut-il être commerçant ?",
+      "choix": [
+        "Oui, s'il exerce son commerce le week-end",
+        "Non, le statut de fonctionnaire est incompatible avec la qualité de commerçant",
+        "Oui, s'il en a l'autorisation de son supérieur hiérarchique",
+        "Oui, mais seulement pendant sa retraite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le fonctionnaire a un statut particulier qui crée des incompatibilités.",
+        "L'État ne veut pas que ses agents aient des intérêts commerciaux concurrents.",
+        "Cette incompatibilité est légale, pas seulement déontologique."
+      ],
+      "explication": "Non. Le statut de fonctionnaire est légalement incompatible avec la qualité de commerçant. Cette incompatibilité vise à protéger l'impartialité et la disponibilité des agents publics, et à éviter les conflits d'intérêts. Un fonctionnaire qui exercerait quand même une activité commerciale serait exposé à des sanctions disciplinaires et ne pourrait pas revendiquer les droits attachés à la qualité de commerçant."
+    },
+    {
+      "question": "Quelles sont les opérations de banque qualifiées d'actes de commerce par nature ?",
+      "choix": [
+        "Uniquement les opérations de prêt entre particuliers",
+        "Les opérations de réception de dépôts, d'octroi de crédits, de change et de services de paiement réalisées à titre professionnel",
+        "Uniquement les opérations en devises étrangères",
+        "Les opérations de vente d'or et de métaux précieux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les banques sont des commerçants professionnels.",
+        "Toute opération bancaire à titre professionnel est commerciale.",
+        "Le dépôt, le crédit, le change — voilà les opérations de banque."
+      ],
+      "explication": "Les opérations de banque — réception de dépôts du public, octroi de crédits, opérations de change, services de paiement — sont des actes de commerce par nature lorsqu'elles sont réalisées à titre professionnel. Les établissements bancaires sont des commerçants soumis au droit commercial. Même une opération de change réalisée de façon professionnelle par un particulier serait un acte de commerce par nature."
+    },
+    {
+      "question": "Le transport de marchandises est-il un acte de commerce par nature ?",
+      "choix": [
+        "Non, le transport est une activité purement technique sans caractère commercial",
+        "Oui, les opérations de transport par terre, par eau et par air sont des actes de commerce par nature",
+        "Seulement le transport international",
+        "Seulement le transport de marchandises, pas le transport de personnes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le transport s'inscrit dans la circulation des richesses.",
+        "Une entreprise de transport est une entreprise commerciale.",
+        "La liste des actes de commerce par nature inclut le transport."
+      ],
+      "explication": "Oui. Les opérations de transport — par terre (camions, taxis, bus), par eau (transport maritime, fluvial) et par air — sont des actes de commerce par nature. Les entreprises de transport sont des commerçants soumis au droit commercial. Cela inclut le transport de marchandises comme le transport de personnes organisé à titre professionnel."
+    },
+    {
+      "question": "Qu'est-ce qu'une société commerciale par la forme ?",
+      "choix": [
+        "Une société qui a une belle façade et une enseigne lumineuse",
+        "Une société dont la forme juridique (SA, SARL, SNC) la rend commerciale indépendamment de l'activité exercée",
+        "Une société qui vend uniquement des produits de forme régulière",
+        "Une société immatriculée au registre du commerce depuis plus de cinq ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La forme juridique peut elle-même être un acte de commerce.",
+        "Même une activité civile peut être exercée par une société commerciale.",
+        "SA, SARL, SNC sont des exemples."
+      ],
+      "explication": "Les sociétés commerciales par la forme sont celles dont la forme juridique les rend commerciales indépendamment de leur activité. Une SA (société anonyme), une SARL (société à responsabilité limitée) ou une SNC (société en nom collectif) sont commerciales par leur forme, même si elles exercent une activité qui serait civile pour un particulier. Tous les actes accomplis au nom de ces sociétés sont commerciaux."
+    },
+    {
+      "question": "Quelle est la différence entre le billet à ordre et la lettre de change ?",
+      "choix": [
+        "Le billet à ordre est signé par le créancier ; la lettre de change est signée par le débiteur",
+        "Dans la lettre de change, le tireur donne l'ordre à un tiers (tiré) de payer. Dans le billet à ordre, le débiteur s'engage lui-même à payer à l'échéance",
+        "Le billet à ordre est un acte civil ; la lettre de change est un acte commercial",
+        "Il n'y a aucune différence pratique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La lettre de change implique trois personnes au minimum.",
+        "Le billet à ordre implique deux personnes.",
+        "Dans l'un, c'est un ordre ; dans l'autre, c'est une promesse."
+      ],
+      "explication": "La lettre de change (traite) est un titre par lequel le tireur donne l'ordre au tiré de payer une somme au bénéficiaire à une date déterminée — trois personnes impliquées. Le billet à ordre est un titre par lequel le souscripteur (débiteur) s'engage lui-même à payer la somme indiquée au bénéficiaire à l'échéance — deux personnes. Les deux sont des actes de commerce par la forme."
+    },
+    {
+      "question": "Qu'appelle-t-on le 'droit de suite' en matière de nantissement du fonds de commerce ?",
+      "choix": [
+        "Le droit du vendeur de suivre l'acheteur si le prix n'est pas payé",
+        "Le droit du créancier nanti de faire vendre le fonds de commerce entre les mains de tout acquéreur si le débiteur ne paie pas, même si le fonds a changé de propriétaire",
+        "Le droit du commerçant de poursuivre sa clientèle dans un autre établissement",
+        "Le droit du propriétaire des locaux de suivre le commerçant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le nantissement est une sûreté réelle sur le fonds de commerce.",
+        "Comme l'hypothèque, il donne un droit de suite.",
+        "Le créancier peut saisir le fonds même vendu à un tiers."
+      ],
+      "explication": "Le droit de suite est le droit du créancier titulaire d'un nantissement sur le fonds de commerce de saisir ce fonds en quelques mains qu'il passe — même si le débiteur l'a vendu à un tiers. Ce droit protège le créancier nanti contre les manœuvres du débiteur qui vendrait son fonds pour échapper à ses créanciers. C'est l'une des caractéristiques fondamentales des sûretés réelles."
+    },
+    {
+      "question": "Un commerçant qui cesse ses paiements doit-il le déclarer ? Dans quel délai ?",
+      "choix": [
+        "Non, c'est facultatif — il peut attendre que ses créanciers réagissent",
+        "Oui, il doit déclarer sa cessation de paiements dans les quarante-cinq jours selon les principes OHADA influençant le droit malgache",
+        "Oui, mais dans les six mois suivant la cessation",
+        "Non, seul le tribunal peut constater la cessation de paiements"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette obligation protège les créanciers.",
+        "Le délai est court pour permettre un redressement rapide.",
+        "Le droit OHADA influence cette règle à Madagascar."
+      ],
+      "explication": "Oui. Le commerçant qui se trouve en état de cessation de paiements — incapable de faire face à son passif exigible avec son actif disponible — est obligé de le déclarer dans les quarante-cinq jours. Cette déclaration permet l'ouverture d'une procédure collective (redressement judiciaire ou liquidation) qui organise le traitement des dettes. Manquer à cette obligation peut engager la responsabilité personnelle du dirigeant."
+    },
+    {
+      "question": "Qu'est-ce que la cessation de paiements ?",
+      "choix": [
+        "Le simple fait de ne pas payer une facture à temps",
+        "L'état du commerçant qui est dans l'impossibilité de faire face à son passif exigible avec son actif disponible",
+        "Le fait de cesser toute activité commerciale",
+        "La décision volontaire de fermer son commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce n'est pas juste un retard de paiement.",
+        "Il faut une impossibilité de payer avec ce qu'on a disponible.",
+        "C'est le seuil d'ouverture des procédures collectives."
+      ],
+      "explication": "La cessation de paiements est l'impossibilité pour le commerçant de faire face à son passif exigible (les dettes arrivées à échéance) avec son actif disponible (les liquidités et biens immédiatement réalisables). C'est plus qu'un simple retard de paiement — c'est un état financier critique qui ouvre la voie aux procédures collectives. La distinction entre difficultés passagères et cessation de paiements est déterminante."
+    },
+    {
+      "question": "Peut-on constituer un fonds de commerce sans avoir de locaux propres ?",
+      "choix": [
+        "Non, les locaux sont indispensables à l'existence d'un fonds de commerce",
+        "Oui, un fonds de commerce peut exister sans locaux stables si une clientèle est attachée à l'activité (commerce ambulant, e-commerce, marché)",
+        "Non, sans bail commercial, il n'y a pas de fonds de commerce",
+        "Oui, mais seulement pour les commerçants ambulants officiellement enregistrés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'élément central du fonds de commerce est la clientèle, pas les locaux.",
+        "Un commerce peut se faire en ligne ou dans des marchés.",
+        "Les locaux sont un élément important mais pas indispensable."
+      ],
+      "explication": "Oui. L'élément essentiel du fonds de commerce est la clientèle — pas les locaux. Un commerçant ambulant qui a une clientèle fidèle, un e-commerçant, un vendeur de marché régulier peuvent avoir un fonds de commerce sans locaux permanents. Le droit au bail est un élément précieux du fonds mais n'est pas une condition de son existence. Ce qui compte, c'est l'existence d'une clientèle propre et attachée à l'activité."
+    },
+    {
+      "question": "Quel est le rôle du greffe du tribunal de commerce à Madagascar ?",
+      "choix": [
+        "Il juge les litiges commerciaux en première instance",
+        "Il tient le registre du commerce et assure la publicité légale des actes commerciaux",
+        "Il fixe les prix des transactions commerciales",
+        "Il collecte les impôts des commerçants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le greffe n'est pas une juridiction — c'est un service administratif du tribunal.",
+        "C'est là que les commerçants s'immatriculent.",
+        "Il conserve et publie les informations commerciales."
+      ],
+      "explication": "Le greffe du tribunal de commerce est le service administratif qui tient le registre du commerce et des sociétés (RCS), reçoit les demandes d'immatriculation des commerçants et des sociétés, conserve les documents déposés (statuts, comptes annuels, actes modificatifs), et assure la publicité légale des actes commerciaux. Ce n'est pas lui qui juge — c'est le tribunal de commerce composé de juges consulaires élus."
+    },
+    {
+      "question": "Qu'est-ce qu'un juge consulaire ?",
+      "choix": [
+        "Un juge spécialisé dans le droit de la consommation",
+        "Un commerçant élu par ses pairs pour juger les litiges commerciaux au tribunal de commerce",
+        "Un juge nommé par le consul général d'un pays étranger",
+        "Un magistrat professionnel spécialisé en droit des affaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les tribunaux de commerce ont une composition particulière.",
+        "Ce sont des praticiens des affaires, pas des magistrats professionnels.",
+        "Ils sont élus, pas nommés."
+      ],
+      "explication": "Un juge consulaire est un commerçant ou un chef d'entreprise élu par ses pairs — d'autres commerçants — pour siéger au tribunal de commerce et juger les litiges commerciaux. Ce système repose sur l'idée que des praticiens des affaires sont mieux placés pour comprendre les réalités du commerce que des magistrats de carrière. À Madagascar, le tribunal de commerce est composé de juges consulaires présidés par un magistrat professionnel."
+    },
+    {
+      "question": "Pourquoi le droit commercial est-il plus souple que le droit civil ?",
+      "choix": [
+        "Parce que les commerçants ont négocié des règles avantageuses avec le parlement",
+        "Parce que le commerce suppose rapidité, confiance et répétition — des règles trop rigides paralyseraient les échanges économiques",
+        "Parce que les commerçants ont moins d'instruction que les non-commerçants",
+        "Parce que le droit commercial est plus récent et donc plus moderne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez aux besoins réels du commerce quotidien.",
+        "Un grossiste qui signe un contrat notarié pour chaque vente...",
+        "La rapidité et la confiance sont les moteurs du commerce."
+      ],
+      "explication": "Le droit commercial est plus souple parce que le commerce exige rapidité, confiance et répétition des opérations. Imposer la rigueur formelle du droit civil — écrit obligatoire, preuve stricte, délais longs — paralyserait les échanges économiques. Un grossiste qui traite 50 transactions par jour ne peut pas rédiger des contrats notariés pour chacune. La souplesse commerciale est une nécessité économique, pas un cadeau aux commerçants."
+    },
+    {
+      "question": "Qu'est-ce que la clause compromissoire en droit commercial ?",
+      "choix": [
+        "Une clause qui compromet la validité du contrat",
+        "Une clause par laquelle les parties conviennent à l'avance de soumettre leurs litiges à un arbitre plutôt qu'au tribunal",
+        "Une clause qui réduit le prix en cas de défaut de livraison",
+        "Une clause qui interdit toute modification ultérieure du contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'arbitrage est une alternative au tribunal.",
+        "Cette clause est valable en matière commerciale.",
+        "Elle figure souvent dans les contrats commerciaux importants."
+      ],
+      "explication": "La clause compromissoire est une clause insérée dans un contrat commercial par laquelle les parties conviennent à l'avance que tout litige relatif à ce contrat sera soumis à l'arbitrage plutôt qu'aux tribunaux étatiques. Elle est valable en matière commerciale. L'arbitrage est souvent préféré pour sa confidentialité, sa rapidité et la compétence technique des arbitres en matière d'affaires."
+    },
+    {
+      "question": "Quelle est la principale différence entre la vente commerciale et la vente civile ?",
+      "choix": [
+        "La vente commerciale porte uniquement sur des marchandises ; la vente civile sur des immeubles",
+        "La vente commerciale est faite par un commerçant dans le cadre de son activité avec intention de profit ; la vente civile est faite par un non-commerçant pour ses besoins propres",
+        "La vente commerciale nécessite toujours un intermédiaire ; la vente civile est directe",
+        "Il n'y a aucune différence — les deux régimes sont identiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La qualité des parties et l'intention font la différence.",
+        "Une vente peut être commerciale pour l'un et civile pour l'autre.",
+        "Les conséquences (preuve, tribunal, prescription) divergent."
+      ],
+      "explication": "La vente commerciale est accomplie par un commerçant dans le cadre de son activité professionnelle, avec intention de profit (achat pour revendre). La vente civile est réalisée par un non-commerçant pour ses besoins personnels ou dans le cadre d'une activité civile. Les conséquences pratiques différent : preuve libre pour la vente commerciale, règles civiles pour la vente civile ; tribunaux différents ; prescriptions différentes."
+    },
+    {
+      "question": "Qu'est-ce que l'achalandage dans le fonds de commerce ?",
+      "choix": [
+        "Le stock de marchandises disponibles en magasin",
+        "La capacité du fonds à attirer une clientèle de passage grâce à son emplacement et sa réputation",
+        "Le nombre de salariés employés dans le commerce",
+        "Le chiffre d'affaires mensuel du commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'achalandage est souvent confondu avec la clientèle.",
+        "Il concerne surtout la clientèle non régulière attirée par l'emplacement.",
+        "C'est un élément incorporel du fonds de commerce."
+      ],
+      "explication": "L'achalandage désigne la capacité d'un commerce à attirer une clientèle de passage — les gens qui entrent parce qu'ils passent devant, attirés par l'emplacement favorable ou la réputation du lieu. Il se distingue de la clientèle personnelle (fidèle et attachée à la personne du commerçant). L'achalandage dépend de facteurs comme l'emplacement en centre-ville, la visibilité de la boutique, le flux de piétons."
+    },
+    {
+      "question": "Un commerçant peut-il vendre son fonds de commerce à quelqu'un qui n'est pas commerçant ?",
+      "choix": [
+        "Non, le fonds de commerce ne peut être cédé qu'entre commerçants",
+        "Oui, le fonds peut être vendu à toute personne — l'acquéreur devra alors s'immatriculer pour exercer le commerce",
+        "Oui, mais seulement si l'acquéreur est un membre de la famille du vendeur",
+        "Non, la cession d'un fonds nécessite l'autorisation du tribunal de commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le fonds est un bien dans le commerce, librement cessible.",
+        "L'acquéreur qui veut l'exploiter doit cependant remplir les conditions légales.",
+        "Il n'y a pas de restriction sur la qualité de l'acquéreur."
+      ],
+      "explication": "Oui, le fonds de commerce peut être vendu à toute personne — commerçant ou non. Mais l'acquéreur qui souhaite exploiter ce fonds devra s'immatriculer au RCS et remplir les conditions légales pour exercer le commerce. Certaines activités réglementées (pharmacie, débit de boisson) exigent en plus des autorisations spécifiques. La cession elle-même est libre mais doit être publiée pour être opposable aux créanciers."
+    },
+    {
+      "question": "Qu'est-ce que l'opposition des créanciers lors de la cession d'un fonds de commerce ?",
+      "choix": [
+        "Le droit des voisins de s'opposer à la cession",
+        "Le droit des créanciers du vendeur de faire opposition au paiement du prix de cession pour se désintéresser sur ce prix avant que le vendeur ne le perçoive",
+        "Le droit de l'État de bloquer toute cession de fonds de commerce",
+        "Le droit des salariés de refuser le changement de propriétaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les créanciers ont peur que le vendeur disparaisse avec l'argent.",
+        "Ce mécanisme protège les créanciers contre les ventes organisées en fraude.",
+        "Le prix est bloqué pendant un délai après la publication."
+      ],
+      "explication": "Lors de la cession d'un fonds de commerce, les créanciers du vendeur peuvent former opposition au paiement du prix de cession pendant un délai légal après la publication de la vente. Cela signifie que le prix reste consigné — le vendeur ne peut pas l'encaisser librement — jusqu'à ce que les créanciers aient été désintéressés. Ce mécanisme protège les créanciers contre un vendeur qui vendrait son fonds pour liquider ses actifs et disparaître avec l'argent."
+    },
+    {
+      "question": "Qu'est-ce que le commerce électronique (e-commerce) et est-il soumis au droit commercial ?",
+      "choix": [
+        "Non, le commerce en ligne est une activité civile non soumise au droit commercial",
+        "Oui, le commerce électronique est soumis au droit commercial dès lors qu'il constitue une activité professionnelle de vente avec intention de profit",
+        "Oui, mais uniquement le commerce international en ligne",
+        "Cela dépend du pays du vendeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les critères du droit commercial s'appliquent quelle que soit la forme du commerce.",
+        "Vendre régulièrement en ligne à des inconnus avec profit...",
+        "La plateforme ne change pas la nature de l'acte."
+      ],
+      "explication": "Oui. Le commerce électronique est soumis au droit commercial dès lors qu'il constitue une activité professionnelle d'achat-revente ou de prestation de services avec intention de profit. Un vendeur qui revend régulièrement des produits sur une plateforme en ligne avec des marges bénéficiaires accomplit des actes de commerce par nature. La forme électronique ne change pas la nature commerciale de l'activité. Il doit s'immatriculer et respecter les obligations des commerçants."
+    },
+    {
+      "question": "Un mineur peut-il être commerçant à Madagascar ?",
+      "choix": [
+        "Oui, s'il a l'autorisation de ses parents",
+        "Non, le mineur non émancipé ne peut pas être commerçant — l'incapacité commerciale le protège",
+        "Oui, s'il a plus de 16 ans",
+        "Oui, si le tribunal de commerce le lui permet"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La capacité juridique est une condition pour être commerçant.",
+        "Le commerce suppose la prise de risques que l'on ne peut pas imposer à un mineur.",
+        "L'émancipation peut changer la situation."
+      ],
+      "explication": "Non. Le mineur non émancipé ne peut pas être commerçant — il n'a pas la pleine capacité juridique pour s'engager dans des actes de commerce et en assumer les risques (dettes, poursuites, procédures collectives). Cette règle le protège. En revanche, le mineur émancipé — celui dont le tribunal a levé l'incapacité avant ses 18 ans — peut exercer le commerce s'il en a reçu l'autorisation expresse lors de l'émancipation."
+    },
+    {
+      "question": "Qu'est-ce que le nantissement du fonds de commerce ?",
+      "choix": [
+        "La vente du fonds de commerce à terme",
+        "La mise en garantie du fonds de commerce au profit d'un créancier, sans dépossession du commerçant qui continue à exploiter le fonds",
+        "La location du fonds de commerce à un gérant",
+        "L'inscription du fonds au registre du commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une sûreté réelle sur le fonds de commerce.",
+        "Contrairement au gage, le commerçant garde le fonds.",
+        "Le créancier peut faire vendre le fonds si le débiteur ne paie pas."
+      ],
+      "explication": "Le nantissement du fonds de commerce est une sûreté réelle par laquelle le commerçant affecte son fonds en garantie d'une dette, sans en perdre la possession — il continue à exploiter son fonds normalement. Le créancier nanti dispose d'un droit de préférence et d'un droit de suite : si le débiteur ne paie pas, il peut faire vendre le fonds et être payé par préférence sur le prix. Le nantissement doit être inscrit au RCS pour être opposable aux tiers."
+    },
+    {
+      "question": "Pourquoi les opérations d'assurance sont-elles des actes de commerce par nature ?",
+      "choix": [
+        "Parce que les compagnies d'assurance font des placements en bourse",
+        "Parce qu'elles constituent une activité organisée de mutualisation des risques contre prime, réalisée avec intention de profit à titre professionnel",
+        "Parce que les assureurs achètent et revendent des risques",
+        "Parce que l'assurance est obligatoire pour les commerçants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'assurance est une entreprise organisée.",
+        "Elle perçoit des primes et prend en charge des risques.",
+        "C'est une activité professionnelle à but lucratif."
+      ],
+      "explication": "Les opérations d'assurance sont des actes de commerce par nature parce qu'elles constituent une activité professionnelle organisée de mutualisation des risques : la compagnie d'assurance perçoit des primes de nombreux assurés et indemnise ceux qui subissent un sinistre. Cette activité est exercée à titre professionnel avec intention de profit. Elle entre dans la catégorie des entreprises commerciales par nature."
+    },
+    {
+      "question": "Un agriculteur qui vend directement ses récoltes au marché accomplit-il un acte de commerce ?",
+      "choix": [
+        "Oui, car vendre au marché est toujours commercial",
+        "Non, l'agriculture est une activité civile — la vente de ses propres récoltes par l'agriculteur n'est pas un acte de commerce",
+        "Oui, dès lors que la vente dépasse 1 million d'ariary",
+        "Cela dépend si l'agriculteur est propriétaire ou locataire de sa terre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'agriculteur vend ce qu'il a lui-même produit.",
+        "Il n'y a pas d'achat pour revendre — il vend sa propre production.",
+        "L'agriculture est traditionnellement classée comme activité civile."
+      ],
+      "explication": "Non. L'agriculture est une activité civile par tradition juridique. Quand un agriculteur vend ses propres récoltes, il n'y a pas achat pour revendre — il vend ce qu'il a lui-même produit. Il n'y a pas de spéculation sur les marchandises. En revanche, si un agriculteur achetait en plus les récoltes de ses voisins pour les revendre à profit, ces achats-reventes seraient des actes de commerce par nature."
+    },
+    {
+      "question": "Qu'est-ce que la patente commerciale à Madagascar ?",
+      "choix": [
+        "Un brevet délivré aux inventeurs malgaches",
+        "Un impôt ou une taxe professionnelle due par les commerçants et industriels en raison de l'exercice de leur activité",
+        "L'autorisation administrative d'ouvrir un commerce",
+        "Le certificat d'immatriculation au registre du commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La patente est une obligation fiscale des commerçants.",
+        "Elle est due en raison de l'exercice de l'activité professionnelle commerciale.",
+        "C'est une taxe locale ou nationale selon le système fiscal."
+      ],
+      "explication": "La patente est un impôt ou une taxe professionnelle due par les commerçants, industriels et artisans en raison de l'exercice habituel de leur activité à titre professionnel. Elle est calculée selon la nature de l'activité, la valeur locative des locaux, ou le chiffre d'affaires. La patente est une obligation fiscale distincte de l'immatriculation au RCS — un commerçant doit être à la fois immatriculé et en règle avec la patente."
+    },
+    {
+      "question": "Qu'est-ce que la gérance libre d'un fonds de commerce ? En quoi diffère-t-elle de la cession ?",
+      "choix": [
+        "La gérance libre est une vente à terme ; la cession est une vente comptant",
+        "La gérance libre est une location du fonds — le propriétaire conserve la propriété et perçoit une redevance. La cession transfère définitivement la propriété du fonds à l'acquéreur",
+        "La gérance libre est réservée aux membres de la famille du commerçant",
+        "Il n'y a aucune différence : les deux transfèrent la propriété du fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans la gérance libre, qui reste propriétaire du fonds ?",
+        "La cession crée-t-elle une obligation de redevance ?",
+        "L'une est temporaire ; l'autre est définitive."
+      ],
+      "explication": "La gérance libre (ou gérance-location) est une location du fonds de commerce : le propriétaire conserve la propriété du fonds et le confie à un gérant-locataire qui l'exploite à ses risques en versant une redevance. La cession transfère définitivement la propriété du fonds à l'acquéreur qui devient le nouveau propriétaire. La gérance est temporaire et réversible ; la cession est définitive et irrévocable."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Andry est enseignant à Antananarivo. Pendant les grandes vacances, il achète régulièrement des poulets en zone rurale et les revend au marché de Behoririka depuis deux ans. Il n'est pas immatriculé au registre du commerce. Un fournisseur de volailles lui réclame 3 millions d'ariary d'impayés et l'assigne devant le tribunal de commerce. Andry conteste : 'Je suis enseignant, pas commerçant — le tribunal de commerce n'est pas compétent.' Son ami Ravo lui prête 500 000 ariary pour l'aider à payer verbalement. Le fournisseur veut aussi prouver la dette par témoins. (1) Andry est-il commerçant ? (2) Le tribunal de commerce est-il compétent ? (3) Le fournisseur peut-il prouver la dette par témoins ? (4) Le prêt de Ravo est-il civil ou commercial ?",
+      "choix": [
+        "Andry n'est pas commerçant car il est enseignant. Le tribunal civil est seul compétent. La preuve par témoins est impossible. Le prêt est commercial.",
+        "(1) Andry est commerçant de fait : achat pour revendre, habituel, en son nom, pour son compte. (2) Le tribunal de commerce est compétent — le défaut d'immatriculation ne le protège pas. (3) Oui, entre commerçants la preuve est libre — témoins admis. (4) Le prêt de Ravo est civil par accessoire civil — Ravo n'est pas commerçant et prête pour aider, pas dans le cadre d'une activité commerciale.",
+        "Andry est commerçant. Le tribunal de commerce est compétent. La preuve par témoins est interdite. Le prêt de Ravo est commercial.",
+        "Andry n'est pas commerçant. Le tribunal civil est compétent. La preuve est libre. Le prêt est mixte."
+      ],
+      "reponse": 1,
+      "indices": [
+        "La qualité de commerçant est une question de fait — trois critères cumulatifs.",
+        "L'absence d'immatriculation est une infraction, pas une protection.",
+        "La preuve commerciale est libre entre commerçants.",
+        "Ravo est-il commerçant ? Prête-t-il dans le cadre d'une activité commerciale ?"
+      ],
+      "explication": "(1) Andry EST commerçant de fait. Il accomplit des actes de commerce par nature (achat de poulets pour les revendre à profit) de façon habituelle (depuis deux ans, régulièrement pendant les vacances), en son nom propre et pour son compte. Sa qualité d'enseignant n'efface pas sa qualité de commerçant de fait — on peut cumuler deux activités. (2) Le tribunal de commerce EST compétent. Le défaut d'immatriculation au RCS est une infraction légale — mais il ne supprime pas la qualité de commerçant de fait ni ne fait obstacle à la compétence du tribunal de commerce. Andry ne peut pas se prévaloir de son propre manquement légal pour échapper aux obligations commerciales. (3) Oui, le fournisseur peut prouver par témoins. Les deux parties sont commerçants (le fournisseur de volailles et Andry, commerçant de fait). Entre commerçants, la preuve est libre — tous moyens sont admissibles : témoins, factures, SMS, relevés. (4) Le prêt de Ravo est civil. Ravo n'est pas commerçant — il n'exerce pas d'activité commerciale. Il prête de l'argent à un ami ponctuellement, pas dans le cadre d'une activité professionnelle de crédit. Par la théorie de l'accessoire civil, cet emprunt reste civil. Si un litige surgissait sur ce prêt, c'est le tribunal civil qui serait compétent."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Soa et Mirindra sont deux commerçantes associées dans une boutique de textile à Toamasina. Elles commandent conjointement pour 15 millions d'ariary de tissu auprès d'un grossiste, sans contrat écrit — juste un accord verbal confirmé par un email. Soa disparaît du jour au lendemain avec sa part du stock. Le grossiste veut récupérer la totalité de sa créance. Mirindra refuse de payer plus que sa moitié (7,5 millions). Par ailleurs, la commande avait été passée en mars 2018. Le grossiste attend et n'agit en justice qu'en avril 2024. (1) Le grossiste peut-il prouver la dette malgré l'absence de contrat écrit ? (2) Peut-il réclamer la totalité des 15 millions à Mirindra seule ? (3) L'action est-elle prescrite ?",
+      "choix": [
+        "Le grossiste ne peut pas prouver sans écrit. Il ne peut réclamer que 7,5 millions à Mirindra. L'action est prescrite.",
+        "(1) Oui — preuve libre entre commerçants, l'email suffit. (2) Oui — solidarité commerciale présumée, le grossiste peut réclamer la totalité à Mirindra. (3) Oui — la prescription de 5 ans est expirée depuis mars 2023 ; l'action d'avril 2024 est prescrite.",
+        "(1) Oui — preuve libre. (2) Non — solidarité non présumée en droit commercial. (3) Non — la prescription est de 10 ans.",
+        "(1) Non — il faut un écrit. (2) Oui — solidarité présumée. (3) Non — pas prescrit."
+      ],
+      "reponse": 1,
+      "indices": [
+        "Entre commerçants, la preuve est libre — l'email suffit-il ?",
+        "La solidarité commerciale est présumée — le grossiste peut-il tout réclamer à une seule ?",
+        "Mars 2018 + 5 ans de prescription = quand expire le délai ?"
+      ],
+      "explication": "(1) OUI, le grossiste peut prouver la dette malgré l'absence de contrat écrit. Entre commerçants, la preuve est libre — tous moyens sont admissibles. L'email de confirmation de la commande est une preuve parfaitement recevable devant le tribunal de commerce. Un bon de livraison, les relevés de compte du grossiste, ou même des témoins auraient également suffi. (2) OUI, le grossiste peut réclamer la totalité des 15 millions à Mirindra seule. En droit commercial, la solidarité entre codébiteurs est présumée — le créancier peut poursuivre l'un ou l'autre des codébiteurs pour la totalité sans avoir à diviser sa poursuite. Mirindra paiera tout et exercera ensuite son recours contre Soa pour récupérer sa moitié. C'est la grande différence avec le droit civil où la solidarité devrait être expressément stipulée. (3) OUI, l'action EST prescrite. La commande a été passée en mars 2018. La prescription commerciale de cinq ans court à partir du moment où le créancier pouvait agir — ici, dès que la livraison a été faite et que le paiement était exigible. Le délai de cinq ans expirait donc en mars 2023. L'action intentée en avril 2024 est prescrite. Le grossiste a attendu trop longtemps. Il aurait dû agir en justice, obtenir une reconnaissance de dette ou pratiquer une saisie avant mars 2023 pour interrompre la prescription."
+    }
+  ]
+}
