@@ -1,0 +1,882 @@
+{
+  "titre": "Les conventions collectives",
+  "module": "Module 9 — Niveau 2 (Intermédiaire)",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'une convention collective ?",
+      "texte": "Imaginez deux mondes qui se font face : d'un côté, des travailleurs qui veulent de meilleures conditions de travail, un salaire décent, des garanties en cas de maladie ou de licenciement. De l'autre, un employeur qui gère une entreprise, avec des contraintes économiques, des objectifs de rentabilité, des obligations légales. Entre les deux, il faut un terrain d'entente — pas un terrain improvisé, mais un texte construit, négocié, signé, opposable. C'est exactement ce qu'est une convention collective. La convention collective est un contrat écrit conclu entre, d'un côté, un ou plusieurs employeurs ou un groupement d'employeurs et, de l'autre côté, des représentants des travailleurs — délégués du personnel, comité d'entreprise ou représentants syndicaux selon la taille de l'établissement. Elle a pour objet de fixer les conditions d'emploi et de travail : salaires, durée du travail, congés, classifications professionnelles, modalités de licenciement, avantages sociaux. En droit malgache, la convention collective est régie par le Code du Travail, notamment la Loi n° 2024-014 qui a refondé et modernisé l'ensemble du droit du travail malgache. Ce nouveau Code du Travail de 2024, qui contient 395 articles, a renforcé le cadre de la négociation collective en intégrant les conventions de l'OIT récemment ratifiées par Madagascar. La convention collective n'est pas un simple accord de principe : elle a une force contraignante. Une fois signée et déposée, elle s'impose à toutes les parties et même, dans certains cas, à des entreprises qui ne l'ont pas signée.",
+      "definition": "Convention collective : contrat écrit portant sur les conditions d'emploi et de travail, conclu entre un ou plusieurs employeurs (ou groupement d'employeurs) et les représentants des travailleurs (délégués du personnel, comité d'entreprise ou syndicats). Elle a force obligatoire et peut améliorer les droits des travailleurs au-delà du minimum légal."
+    },
+    {
+      "titre": "Les parties à la convention collective selon la taille de l'entreprise",
+      "texte": "En droit malgache, l'identité des parties qui négocient et signent la convention collective dépend directement de la taille de l'entreprise et du niveau auquel la convention est conclue. C'est une architecture précise que le Code du Travail a soigneusement organisée. Dans les établissements de moins de 50 travailleurs permanents, la convention collective est conclue entre l'employeur et les délégués du personnel. Ces délégués, élus par les salariés, sont les interlocuteurs naturels de l'employeur pour toutes les questions collectives dans les petites structures. Dans les établissements comptant 50 travailleurs ou plus, les travailleurs sont représentés par le Comité d'Entreprise. Le Comité d'Entreprise est un organe élu qui dispose de prérogatives plus larges que les simples délégués du personnel — il est informé et consulté sur les décisions économiques et sociales de l'entreprise, et c'est lui qui négocie les conventions collectives d'entreprise dans les grandes structures. Au niveau régional ou national, la logique change : ce ne sont plus des représentants d'une seule entreprise qui négocient, mais les représentants des organisations syndicales les plus représentatives du côté des travailleurs, et les représentants syndicaux ou tout autre groupement d'employeurs représentatif du côté patronal. Cette architecture à plusieurs niveaux est cohérente : plus le champ de la convention est large, plus les négociateurs doivent avoir une légitimité et une représentativité étendue.",
+      "definition": "Parties à la convention collective en droit malgache : côté employeur (un ou plusieurs employeurs, groupement d'employeurs ou syndicat patronal) ; côté travailleurs (délégués du personnel dans les établissements de moins de 50 salariés, Comité d'Entreprise au-delà de 50, syndicats les plus représentatifs pour les conventions régionales ou nationales).",
+      "exemple": "Une usine textile à Antananarivo emploie 80 travailleurs permanents. La convention collective d'entreprise sera négociée entre la direction et le Comité d'Entreprise élu par les salariés. En revanche, une petite entreprise de maçonnerie à Toamasina employant 15 personnes négociera avec ses délégués du personnel — pas avec un comité d'entreprise, qui n'est pas requis en dessous de 50 salariés."
+    },
+    {
+      "titre": "Les différents niveaux de conventions collectives",
+      "texte": "Les conventions collectives ne sont pas toutes conclues au même niveau — et cette différence de niveau a des conséquences très concrètes sur leur champ d'application et leur articulation. On distingue trois niveaux principaux. La convention collective d'entreprise est la plus proche du terrain : elle ne concerne qu'une seule entreprise ou un seul établissement. Elle est négociée entre l'employeur et les représentants des travailleurs de cette entreprise. Elle adapte les règles générales aux réalités spécifiques de l'entreprise — son secteur d'activité, sa taille, ses contraintes économiques. La convention collective de branche (ou sectorielle) couvre toutes les entreprises d'un même secteur d'activité sur un territoire donné — par exemple toutes les entreprises du secteur minier, ou du secteur bancaire, ou du secteur textile à Madagascar. C'est à ce niveau que se négocient généralement les classifications professionnelles, les grilles de salaires minimaux par catégorie, les conditions de travail spécifiques au secteur. La convention collective interprofessionnelle ou nationale est la plus large : elle s'applique à l'ensemble des secteurs et de l'économie. C'est à ce niveau que se déterminent les principes généraux communs à tous les travailleurs. Ces trois niveaux forment une pyramide. La règle fondamentale est que chaque niveau inférieur peut améliorer les droits des travailleurs par rapport au niveau supérieur, mais ne peut en principe pas les réduire. C'est l'expression du principe de faveur.",
+      "definition": "Trois niveaux de conventions collectives : entreprise (une seule entreprise), branche ou sectorielle (tout un secteur d'activité), interprofessionnelle ou nationale (l'ensemble de l'économie). Chaque niveau inférieur peut améliorer les droits garantis par le niveau supérieur, mais ne peut pas les réduire — c'est le principe de faveur.",
+      "exemple": "La convention collective nationale interprofessionnelle fixe un salaire minimum général. La convention collective de branche du secteur minier peut prévoir un salaire minimum supérieur pour les mineurs, compte tenu de la pénibilité. La convention d'entreprise d'une mine d'Ambatovy peut aller encore plus loin en accordant des primes de risque et des congés supplémentaires que la convention de branche ne prévoit pas."
+    },
+    {
+      "titre": "Le principe de faveur : le cœur du droit du travail",
+      "texte": "C'est l'un des principes les plus importants et les plus originaux du droit du travail — il distingue fondamentalement le droit du travail du droit civil ordinaire. En droit civil, la hiérarchie des normes est stricte : la norme inférieure doit se conformer à la norme supérieure. Point. En droit du travail, c'est différent. Le principe de faveur permet à une norme de rang inférieur de déroger à une norme de rang supérieur — mais uniquement dans un sens plus favorable aux travailleurs. Concrètement : la loi fixe un plancher — un minimum garanti à tous les travailleurs. Une convention collective de branche peut améliorer ce plancher. Une convention d'entreprise peut améliorer encore davantage ce que la convention de branche a prévu. Et le contrat de travail individuel peut lui aussi améliorer ce que la convention d'entreprise garantit. Mais à aucun niveau, on ne peut descendre en dessous du plancher fixé par le niveau supérieur. Personne — ni l'employeur, ni le salarié lui-même — ne peut contractuellement renoncer aux droits que la loi ou la convention collective lui reconnaît, sauf pour améliorer encore sa situation. Ce principe a une logique profonde : le salarié est en position de faiblesse économique face à l'employeur. Sans ce principe, la liberté contractuelle deviendrait une liberté formelle qui permettrait à l'employeur de contourner toutes les protections légales en faisant 'librement' accepter au salarié des conditions dégradées. Le principe de faveur évite cette dérive.",
+      "definition": "Principe de faveur : règle fondamentale du droit du travail selon laquelle une norme de rang inférieur (convention d'entreprise, contrat individuel) peut déroger à une norme de rang supérieur (loi, convention de branche) uniquement dans un sens plus favorable aux travailleurs. La loi fixe un plancher qu'on ne peut qu'améliorer, jamais abaisser.",
+      "exemple": "La loi malgache fixe un préavis minimum de 8 jours pour un ouvrier. La convention collective de branche du secteur industriel prévoit 30 jours. L'employeur ne peut pas, dans le contrat individuel, prévoir un préavis de 15 jours — ce serait moins favorable que la convention de branche. En revanche, il peut prévoir 45 jours — c'est plus favorable, donc autorisé."
+    },
+    {
+      "titre": "Le contenu d'une convention collective : que peut-on négocier ?",
+      "texte": "Une convention collective peut être plus ou moins détaillée, mais elle porte toujours sur les conditions d'emploi et de travail. Concrètement, voici ce qu'elle peut contenir, et que l'on retrouve dans la plupart des conventions collectives malgaches. Les salaires et rémunérations : grilles de salaires par catégorie professionnelle, primes diverses (ancienneté, assiduité, pénibilité, transport, logement), treizième mois, intéressement. Les classifications professionnelles : comment sont définis et hiérarchisés les postes dans l'entreprise ou le secteur — ouvrier, technicien, agent de maîtrise, cadre, et leurs subdivisions. La durée et l'organisation du travail : horaires, heures supplémentaires et leur majoration, régimes de travail en équipes, aménagement du temps de travail. Les congés : durée des congés annuels au-delà du minimum légal, congés de circonstance (mariage, naissance, décès), congés pour ancienneté. Les conditions de rupture du contrat : durée du préavis selon la catégorie, conditions du licenciement, indemnités de licenciement au-delà du minimum légal, procédures disciplinaires. La protection sociale complémentaire : couverture maladie, accident du travail, retraite complémentaire. La formation professionnelle : droits à la formation, accès au plan de formation. Les délégués du personnel et les syndicats : heures de délégation, accès aux locaux, communication syndicale. La convention collective d'entreprise peut aussi aborder des sujets spécifiques au contexte de l'entreprise que le Code du Travail n'a pas voulu réglementer dans le détail.",
+      "definition": "Contenu d'une convention collective : salaires et primes, classifications professionnelles, durée et organisation du travail, congés, conditions de rupture du contrat, protection sociale complémentaire, formation professionnelle, droits syndicaux. La convention améliore systématiquement le minimum légal sur ces points.",
+      "exemple": "La Convention Collective de l'ADER à Madagascar prévoit des conditions précises d'embauche (nationalité malgache ou autorisation de travail pour les étrangers, absence d'antécédents judiciaires, aptitude médicale), des procédures disciplinaires détaillées, et des conditions strictes pour la rupture du contrat de travail avec préavis."
+    },
+    {
+      "titre": "La représentativité syndicale : une condition sine qua non",
+      "texte": "On ne peut pas négocier une convention collective avec n'importe qui. Pour que la convention soit valide — et surtout pour qu'elle s'applique à tous — il faut que les syndicats qui la signent soient représentatifs. Mais qu'est-ce que la représentativité syndicale ? En droit malgache comme dans la plupart des systèmes de droit du travail, un syndicat est représentatif lorsqu'il réunit un certain nombre de critères prouvant qu'il représente effectivement les travailleurs concernés. Ces critères incluent notamment : les effectifs — le nombre de membres cotisants ; l'indépendance — le syndicat doit être autonome par rapport à l'employeur, sans lien de subordination financière ou organisationnelle ; l'ancienneté et l'implantation dans le secteur concerné ; les résultats aux élections professionnelles — les votes des salariés lors des élections de délégués du personnel ou du comité d'entreprise sont un indicateur objectif. La représentativité est cruciale car elle conditionne la légitimité des signataires. Une convention collective signée par un syndicat minoritaire et non représentatif n'a pas la même force qu'une convention signée par les organisations représentant la majorité des travailleurs. À Madagascar, plusieurs confédérations syndicales coexistent, notamment dans les secteurs public, minier, textile et des transports. Le Conseil National du Travail (CNT), organe tripartite créé en 2005 auprès du Ministère du Travail, joue un rôle clé dans la reconnaissance de cette représentativité et dans la facilitation des négociations collectives.",
+      "definition": "Représentativité syndicale : qualité reconnue à un syndicat prouvant qu'il représente effectivement les travailleurs concernés. Critères : effectifs cotisants, indépendance par rapport à l'employeur, ancienneté, implantation dans le secteur, résultats électoraux. Seuls les syndicats représentatifs peuvent conclure des conventions collectives régionales ou nationales."
+    },
+    {
+      "titre": "Le Conseil National du Travail : le tiers de confiance",
+      "texte": "Le dialogue social ne se réduit pas à deux acteurs — employeurs et travailleurs — qui se font face. Il y a un troisième acteur : l'État. C'est ce qu'on appelle le tripartisme — et à Madagascar, il s'incarne dans le Conseil National du Travail (CNT). Le CNT est un organe tripartite de consultation, de dialogue et de négociation entre les partenaires sociaux. Il a été créé par décret en 2005 et est placé auprès du Ministère du Travail. Sa composition reflète sa nature tripartite : représentants du gouvernement, représentants des organisations d'employeurs, représentants des organisations de travailleurs. Les membres sont nommés pour un mandat de trois ans, renouvelable une fois. Les missions du CNT sont larges et stratégiques : contribuer à la détermination de la politique nationale en matière d'emploi, de conditions de travail, de salaires et de formation professionnelle ; formuler des avis sur les projets de loi et de règlement en matière de travail ; contribuer à la formulation de la législation du travail ; soutenir les partenaires sociaux dans l'élaboration des conventions collectives. Le CNT est donc l'espace institutionnel où se construit le consensus social. Il a notamment joué un rôle dans la refonte du Code du Travail de 2024, le projet ayant été soumis et débattu deux fois au CNT avant sa promulgation. Dans le contexte malgache, où le dialogue social reste parfois fragile et où le taux de syndicalisation demeure faible, le CNT est un rempart institutionnel essentiel.",
+      "definition": "Conseil National du Travail (CNT) : organe tripartite (gouvernement, employeurs, travailleurs) créé en 2005, placé auprès du Ministère du Travail. Missions : consultation sur la politique sociale, avis sur les projets de loi, soutien à la négociation collective. Mandat de 3 ans renouvelable une fois."
+    },
+    {
+      "titre": "La procédure de conclusion d'une convention collective",
+      "texte": "Une convention collective ne se signe pas à la va-vite. Sa conclusion est encadrée par une procédure précise que le Code du Travail malgache détaille. Première étape : l'ouverture des négociations. La demande peut venir de l'une ou l'autre des parties — employeur ou représentants des travailleurs. Elle prend généralement la forme d'une lettre de doléances ou d'une invitation à négocier. La partie qui reçoit cette demande est tenue d'y répondre dans un délai raisonnable — refuser de négocier sans motif légitime peut constituer une faute. Deuxième étape : les négociations elles-mêmes. Les parties se réunissent, échangent des propositions, contre-propositions, font des concessions de part et d'autre. C'est la phase de dialogue social concret. Un procès-verbal est établi à chaque séance pour conserver la trace des discussions et des accords partiels. Troisième étape : la signature. Lorsqu'un accord est trouvé, la convention est rédigée par écrit — c'est une exigence formelle — et signée par les parties. La convention doit indiquer clairement son champ d'application (quelles entreprises, quels travailleurs), sa date d'entrée en vigueur et sa durée. Quatrième étape : le dépôt et la publicité. La convention est déposée auprès de l'Inspection du Travail. Ce dépôt est indispensable pour que la convention produise ses effets juridiques. Il assure sa publicité : les travailleurs, les employeurs et les tiers peuvent en prendre connaissance.",
+      "definition": "Procédure de conclusion d'une convention collective : (1) ouverture des négociations (demande écrite d'une partie), (2) négociations avec établissement de procès-verbaux, (3) signature du texte écrit par les parties habilitées, (4) dépôt auprès de l'Inspection du Travail. Le dépôt conditionne l'entrée en vigueur et la publicité.",
+      "exemple": "Un syndicat de travailleurs du secteur minier envoie à l'association patronale minière une lettre de doléances réclamant l'ouverture de négociations sur les primes de risque. Les parties se réunissent quatre fois en deux mois. Un accord est trouvé sur une prime mensuelle de 15 % pour les travailleurs exposés à des produits chimiques. La convention est rédigée, signée et déposée à l'Inspection du Travail. Elle entre en vigueur un mois après son dépôt."
+    },
+    {
+      "titre": "La durée, la révision et la dénonciation d'une convention collective",
+      "texte": "Une convention collective n'est pas un monument immuable. Elle a une durée de vie, elle peut être modifiée et elle peut prendre fin. Trois situations doivent être distinguées. La convention à durée déterminée est conclue pour une période fixe définie dès sa signature — par exemple 2 ans ou 3 ans. À l'échéance, elle peut être renouvelée tacitement ou dénoncée. Si aucune des parties ne dénonce la convention avant son terme, elle se reconduit généralement dans les conditions prévues par le texte lui-même. La convention à durée indéterminée est plus ouverte : elle s'applique jusqu'à ce qu'une partie décide de la dénoncer ou que les parties s'accordent pour la réviser. La révision est la modification partielle de la convention en cours de vie. Les parties ouvrent une nouvelle négociation sur les points à modifier et signent un avenant — un texte complémentaire qui amende les clauses originales. Les clauses non visées par l'avenant restent applicables. La dénonciation met fin à la convention. Elle doit respecter un délai de préavis — généralement fixé par la convention elle-même ou, à défaut, par la loi. Attention : la dénonciation ne met pas fin immédiatement aux droits des salariés. Pendant la période de préavis et au-delà, les salariés conservent les avantages individuels acquis sous l'empire de la convention dénoncée — jusqu'à la conclusion d'une nouvelle convention ou pendant un délai légal.",
+      "definition": "Durée d'une convention collective : déterminée (durée fixe) ou indéterminée. Révision : modification partielle par avenant signé après de nouvelles négociations. Dénonciation : fin de la convention avec préavis, mais les avantages individuels acquis sont maintenus pour les salariés pendant la période de transition.",
+      "exemple": "Une entreprise de traitement de vanille et son syndicat avaient signé une convention collective de 3 ans. À l'approche de l'échéance, l'employeur souhaite réviser les primes de transport — trop coûteuses selon lui. Il ouvre des négociations. Un avenant est signé, réduisant la prime de transport mais augmentant en contrepartie le congé payé annuel d'un jour. La convention principale reste applicable sur tous les autres points."
+    },
+    {
+      "titre": "L'extension et l'élargissement : quand la convention s'applique à tous",
+      "texte": "Voilà un mécanisme puissant et souvent méconnu. Une convention collective, dans sa version de base, ne s'applique qu'aux entreprises qui l'ont signée ou qui adhèrent à une organisation patronale signataire. Mais l'État peut décider de l'étendre à l'ensemble d'un secteur ou d'un territoire — c'est ce qu'on appelle l'extension. L'extension est une décision de l'autorité publique compétente — en pratique le Ministère du Travail — qui rend la convention collective obligatoire pour toutes les entreprises du secteur concerné, y compris celles qui n'ont pas participé à la négociation et n'ont pas signé la convention. Pourquoi ? Pour éviter une concurrence déloyale entre entreprises : si certaines sont liées par la convention et d'autres non, ces dernières pourraient pratiquer des conditions de travail inférieures pour réduire leurs coûts. L'extension « nivelle par le haut ». Pour qu'une convention puisse être étendue, elle doit généralement satisfaire à des conditions de représentativité : les signataires doivent représenter une part significative du secteur. L'élargissement est un mécanisme différent : il consiste à étendre une convention collective à un secteur différent de celui pour lequel elle a été originellement conclue, lorsque ce secteur ne dispose pas de convention propre. Ces deux mécanismes sont des instruments puissants de régulation sociale : ils permettent à l'État d'assurer une couverture conventionnelle large et de protéger les travailleurs dans des secteurs ou entreprises où la négociation collective n'est pas spontanément pratiquée.",
+      "definition": "Extension : décision de l'autorité publique rendant une convention collective obligatoire pour toutes les entreprises d'un secteur, y compris celles qui ne l'ont pas signée. Élargissement : extension d'une convention collective à un secteur différent de celui pour lequel elle a été conclue. Objectif : assurer une couverture conventionnelle large et éviter la concurrence déloyale.",
+      "exemple": "La convention collective du secteur du textile est signée entre les principales associations patronales et les syndicats représentatifs du secteur. Le Ministère du Travail décide de l'étendre : désormais, toutes les entreprises de confection textile à Madagascar — qu'elles soient ou non membres des organisations signataires — sont tenues de respecter les minima salariaux et les conditions de travail prévus par cette convention."
+    },
+    {
+      "titre": "Les effets de la convention collective sur le contrat de travail individuel",
+      "texte": "Comment la convention collective s'articule-t-elle avec le contrat de travail individuel de chaque salarié ? C'est une question concrète et fondamentale. Première règle : la convention collective s'applique automatiquement et immédiatement à tous les contrats de travail en cours dans son champ d'application. Le salarié n'a pas besoin de le demander, l'employeur n'a pas besoin d'y consentir. Dès que la convention est applicable, ses dispositions s'intègrent aux contrats. Deuxième règle : la convention prime sur le contrat individuel dès lors qu'elle est plus favorable au salarié. Si le contrat individuel prévoit un salaire inférieur au salaire prévu par la convention, c'est le salaire conventionnel qui s'applique. En revanche, si le contrat individuel prévoit un avantage supérieur à la convention — un salaire plus élevé, des congés plus longs — cet avantage contractuel est maintenu. Le principe : la convention est un plancher au-delà duquel le contrat peut améliorer, mais jamais descendre. Troisième règle : l'employeur est tenu d'informer le salarié de la convention collective applicable. Lors de l'embauche, le salarié doit être informé de l'existence de la convention et de son contenu — soit par une remise d'un exemplaire, soit par affichage dans les locaux ou tout autre moyen permettant d'en prendre connaissance. En cas de changement de convention applicable — suite à une fusion d'entreprises, un changement d'activité — des règles spécifiques protègent les avantages déjà acquis par les salariés.",
+      "definition": "Effets de la convention collective sur le contrat individuel : application automatique dans le champ d'application ; primauté sur le contrat individuel si plus favorable au salarié ; maintien des avantages contractuels supérieurs à la convention. L'employeur doit informer le salarié de la convention applicable.",
+      "exemple": "Zo est recruté avec un salaire mensuel de 400 000 Ariary et 25 jours de congés annuels. Sa convention collective de branche prévoit un salaire minimum de 450 000 Ariary mais seulement 20 jours de congés. Son contrat sera exécuté avec 450 000 Ariary de salaire (la convention prime) et 25 jours de congés (le contrat prime car plus favorable que la convention)."
+    },
+    {
+      "titre": "Les classifications professionnelles dans la convention collective",
+      "texte": "C'est l'un des apports les plus pratiques et les plus quotidiens de la convention collective. La classification professionnelle est le système qui permet de situer chaque travailleur dans une hiérarchie de postes, de compétences et de responsabilités — et donc de déterminer son salaire minimum conventionnel. Sans classification, comment comparer les postes ? Comment garantir qu'un technicien de niveau II est mieux payé qu'un ouvrier de niveau I dans toutes les entreprises du secteur ? Les conventions collectives malgaches, à l'image de celles du monde entier, établissent des grilles de classification qui définissent pour chaque catégorie : le type de travaux concernés, le niveau de qualification requis, le salaire minimal applicable. Les grandes catégories sont généralement : les ouvriers et employés (niveaux I à III ou IV), les agents de maîtrise et techniciens (niveaux IV à VI), les cadres (niveaux VII et au-delà). Chaque niveau est défini par des critères précis : niveau de diplôme, expérience requise, type de responsabilités exercées, autonomie dans le poste. Cette grille de classification est le socle de la politique salariale dans l'entreprise. Elle garantit une certaine équité interne et permet aux travailleurs de comprendre les critères de leur propre positionnement. La classification a aussi des effets sur d'autres dispositions : le préavis, l'indemnité de licenciement, les droits à la formation — tout est souvent indexé sur la classification.",
+      "definition": "Classification professionnelle : système établi par la convention collective qui hiérarchise les postes de travail selon les qualifications, compétences et responsabilités. Elle associe à chaque niveau un salaire minimum conventionnel et détermine les droits annexes (préavis, indemnités). C'est le squelette de la politique salariale sectorielle.",
+      "exemple": "Dans une convention collective du secteur industriel malgache, un ouvrier qualifié de niveau II percevra un minimum de 350 000 Ariary par mois, un technicien de niveau IV percevra 550 000 Ariary, et un cadre de niveau VII percevra au minimum 1 200 000 Ariary. Ces minima s'imposent à toutes les entreprises du secteur qui appliquent la convention."
+    },
+    {
+      "titre": "La convention collective et la procédure disciplinaire",
+      "texte": "Le pouvoir disciplinaire de l'employeur — son droit de sanctionner les fautes professionnelles des salariés — est encadré par la loi, mais les conventions collectives jouent ici un rôle majeur en précisant, complétant et parfois renforçant les garanties procédurales. La loi fixe le cadre général : le salarié doit être informé des griefs retenus contre lui, il doit pouvoir se défendre avant toute sanction, les sanctions doivent être proportionnelles à la faute, et certaines sanctions sont interdites (comme les sanctions pécuniaires, c'est-à-dire les amendes prélevées sur le salaire). La convention collective vient préciser : l'échelle des sanctions applicables (avertissement, blâme, mise à pied disciplinaire, licenciement pour faute), les délais de procédure (combien de jours après la découverte de la faute l'employeur doit-il convoquer le salarié ?), les droits du salarié lors de l'entretien préalable (peut-il se faire assister ? par qui ?), les délais de prescription (au-delà de combien de temps une faute ne peut plus être invoquée ?). Dans le droit malgache, la convention collective de l'ADER, par exemple, prévoit que toute fausse déclaration lors de l'embauche entraîne l'annulation ou la résiliation du contrat de travail sans préavis. Elle définit aussi la notion de faute lourde de manière précise — ce qui est crucial car la faute lourde prive le salarié de son indemnité de licenciement. Ces précisions conventionnelles sont des garanties importantes : elles évitent l'arbitraire patronal et donnent aux salariés des droits clairs et opposables.",
+      "definition": "Rôle de la convention collective en matière disciplinaire : elle précise l'échelle des sanctions, les délais de procédure, les droits du salarié lors de l'entretien préalable et les délais de prescription des fautes. Elle encadre le pouvoir disciplinaire de l'employeur et renforce les garanties procédurales au-delà du minimum légal."
+    },
+    {
+      "titre": "La rupture du contrat et les conventions collectives",
+      "texte": "La fin du contrat de travail est souvent la situation la plus conflictuelle et la plus déterminante pour le salarié. Les conventions collectives jouent ici un rôle protecteur fondamental, notamment en matière de préavis et d'indemnités. Le préavis est le délai pendant lequel la relation de travail se poursuit après notification de la rupture — que ce soit un licenciement ou une démission. Ce délai donne au salarié le temps de chercher un nouvel emploi et à l'employeur le temps de trouver un remplaçant. Le Code du Travail malgache fixe des délais minimaux de préavis. La convention collective peut les augmenter, en général en fonction de la catégorie professionnelle et de l'ancienneté : plus le salarié est qualifié et ancien, plus le préavis conventionnel est long. En cas de licenciement, l'indemnité de licenciement est également encadrée par la loi, mais la convention peut prévoir une indemnité supérieure. Le droit malgache reconnaît le droit de démissionner à tout moment — la démission doit être formalisée par écrit et adressée à l'employeur avec un accusé de réception, comme le prévoit la convention de l'ADER. La rupture à l'initiative de l'employeur sans juste motif — ou sans respect de la procédure — peut donner lieu à des dommages et intérêts dont le montant est souvent précisé par la convention collective. Pour les travailleurs, connaître sa convention collective, c'est savoir exactement ce à quoi on a droit en cas de rupture — et éviter de signer n'importe quoi sous la pression.",
+      "definition": "Convention collective et rupture du contrat : la convention améliore les délais de préavis légaux (en fonction de la catégorie et de l'ancienneté), augmente les indemnités de licenciement, précise les procédures et conditions de rupture. La démission doit être formalisée par écrit avec accusé de réception selon les conventions qui l'exigent.",
+      "exemple": "Un cadre ayant 10 ans d'ancienneté dans une entreprise du secteur bancaire malgache est licencié. Le Code du Travail prévoit un préavis de 3 mois pour les cadres. La convention collective de branche bancaire prévoit 4 mois pour les cadres ayant plus de 5 ans d'ancienneté. C'est la convention collective — plus favorable — qui s'applique."
+    },
+    {
+      "titre": "Le contrôle et l'application des conventions collectives : le rôle de l'Inspection du Travail",
+      "texte": "Une convention collective qui existe sur le papier mais n'est pas appliquée ne sert à rien. Le contrôle de l'application effective des conventions collectives est une fonction essentielle du système de droit du travail malgache. L'Inspection du Travail est l'organe principal de ce contrôle. Les inspecteurs du travail ont le pouvoir de pénétrer dans les entreprises, de consulter les registres et les documents, d'interroger les salariés et les représentants de l'employeur, de constater les infractions et d'établir des procès-verbaux. Le non-respect d'une convention collective applicable est une infraction au droit du travail, passible de sanctions. Sur le plan judiciaire, les salariés lésés peuvent saisir le Tribunal du Travail pour faire respecter leurs droits conventionnels. Les délégués du personnel et les syndicats ont également qualité pour agir en justice afin de défendre l'application de la convention collective — au nom de l'intérêt collectif qu'ils représentent. En pratique, à Madagascar, l'application effective des conventions collectives reste un défi, notamment dans les petites entreprises et dans le secteur informel. Le taux de syndicalisation relativement faible dans le secteur privé limite la capacité des travailleurs à faire valoir leurs droits conventionnels. C'est pourquoi la formation et l'information des travailleurs sur leurs droits est un enjeu crucial — c'est d'ailleurs l'une des vocations d'une plateforme comme LexMada.",
+      "definition": "Contrôle de l'application des conventions collectives : Inspection du Travail (contrôle administratif avec pouvoir de sanction), Tribunal du Travail (contrôle judiciaire à la saisine des salariés ou syndicats). Le non-respect d'une convention collective est une infraction punissable.",
+      "exemple": "Un travailleur du secteur textile constate que son employeur ne lui verse pas la prime d'ancienneté prévue par la convention collective de branche depuis 6 mois. Il peut saisir l'Inspection du Travail, qui interpellera l'employeur. Il peut également saisir le Tribunal du Travail pour obtenir le paiement des arriérés et, éventuellement, des dommages et intérêts."
+    },
+    {
+      "titre": "Les réalités de la négociation collective à Madagascar",
+      "texte": "Comprendre les conventions collectives à Madagascar, c'est aussi comprendre le contexte dans lequel elles existent. La réalité est complexe et mérite d'être examinée sans naïveté. Le cadre légal est solide : la Constitution de 2010, le Code du Travail dans sa version de 2024, et les conventions de l'OIT ratifiées par Madagascar forment un ensemble de garanties formellement robustes. Madagascar a ratifié les principales conventions de l'OIT sur la liberté syndicale et la négociation collective. Le Code du Travail de 2024 a renforcé les sanctions contre les employeurs qui entravent l'activité syndicale et a intégré les conventions récemment ratifiées. Mais la réalité du terrain est différente. Le taux de syndicalisation reste faible, surtout dans le secteur privé et dans l'économie informelle qui représente une part très importante de l'emploi malgache. Beaucoup de travailleurs ne connaissent pas leurs droits. Les petites entreprises ne respectent pas toujours les conventions applicables, faute de contrôle suffisant. Le secteur informel échappe largement à toute régulation conventionnelle. Pourtant, des progrès existent. Le nouveau Code du Travail de 2024 traduit une volonté politique réelle d'améliorer les conditions des travailleurs malgaches. Le nombre de conventions collectives signées augmente, notamment dans les grandes entreprises. Le CNT joue un rôle de facilitation. Et les organisations internationales — l'OIT, la Banque mondiale — accompagnent ces évolutions. L'enjeu pour les années à venir est de faire descendre la négociation collective au niveau des PME et d'étendre sa couverture aux travailleurs les plus vulnérables.",
+      "definition": "Réalités de la négociation collective à Madagascar : cadre légal solide (Constitution 2010, Code du Travail 2024, conventions OIT) mais application pratique inégale (faible taux de syndicalisation, secteur informel prédominant, contrôle insuffisant dans les PME). Le Code du Travail 2024 renforce les droits et les sanctions."
+    },
+    {
+      "titre": "Récapitulatif : les clés des conventions collectives",
+      "texte": "Voici ce qu'il faut retenir pour maîtriser le droit des conventions collectives à Madagascar. Premièrement, la convention collective est un contrat collectif écrit entre employeurs et représentants des travailleurs, qui améliore les conditions d'emploi et de travail au-delà du minimum légal. Deuxièmement, les parties varient selon le niveau : délégués du personnel en dessous de 50 salariés, Comité d'Entreprise au-delà, syndicats représentatifs pour les niveaux sectoriel et national. Troisièmement, il existe trois niveaux : entreprise, branche, interprofessionnel. Chaque niveau inférieur peut améliorer le niveau supérieur mais pas l'abaisser. Quatrièmement, le principe de faveur est la règle d'or : la norme la plus favorable au salarié l'emporte toujours. Cinquièmement, la convention couvre les salaires, les classifications, la durée du travail, les congés, les conditions de rupture et la protection sociale. Sixièmement, l'extension permet de rendre une convention obligatoire pour tout un secteur. Septièmement, la convention s'applique automatiquement aux contrats individuels et prime sur eux dès qu'elle est plus favorable. Huitièmement, le Conseil National du Travail est l'organe tripartite de dialogue et de facilitation de la négociation collective. Neuvièmement, l'Inspection du Travail et le Tribunal du Travail assurent le contrôle de l'application. Dixièmement, le nouveau Code du Travail de 2024 a modernisé et renforcé ce cadre, dans un contexte où le défi reste l'extension de la couverture conventionnelle aux travailleurs les plus vulnérables.",
+      "definition": "À retenir : convention collective = contrat collectif améliorant le minimum légal. Parties selon le niveau. Trois niveaux : entreprise, branche, interprofessionnel. Principe de faveur : la norme la plus favorable s'applique. Extension : obligatoire pour tout un secteur. Application automatique aux contrats individuels. Contrôle : Inspection du Travail et Tribunal du Travail."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce qu'une convention collective en droit malgache ?",
+      "choix": [
+        "Un règlement intérieur rédigé unilatéralement par l'employeur",
+        "Un contrat écrit conclu entre un ou plusieurs employeurs et les représentants des travailleurs, fixant les conditions d'emploi et de travail",
+        "Une circulaire du Ministère du Travail s'appliquant à tous les travailleurs",
+        "Un accord informel entre collègues sur les horaires de travail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle suppose deux parties qui négocient et signent.",
+        "Elle est obligatoirement écrite.",
+        "Elle porte sur les conditions de travail."
+      ],
+      "explication": "La convention collective est un contrat écrit relatif aux conditions du travail, conclu entre un ou plusieurs employeurs (ou groupement d'employeurs) et les représentants des travailleurs. En droit malgache, elle est régie par le Code du Travail, notamment la Loi n° 2024-014. Elle a force obligatoire et s'impose aux parties signataires ainsi qu'aux entreprises relevant de son champ d'application."
+    },
+    {
+      "question": "Dans un établissement comptant 80 travailleurs permanents à Madagascar, qui représente les travailleurs lors de la négociation d'une convention collective d'entreprise ?",
+      "choix": [
+        "Les délégués du personnel",
+        "Le Comité d'Entreprise",
+        "Les syndicats nationaux représentatifs",
+        "Le Conseil National du Travail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le seuil de 50 salariés est déterminant.",
+        "L'établissement dépasse ce seuil.",
+        "Un organe spécifique prend le relais des délégués au-delà de 50 salariés."
+      ],
+      "explication": "En droit malgache, lorsque l'effectif dépasse 50 travailleurs permanents, les travailleurs sont représentés par le Comité d'Entreprise lors de la négociation d'une convention collective d'entreprise. En dessous de 50 salariés, ce sont les délégués du personnel qui remplissent ce rôle. Les syndicats nationaux représentatifs interviennent pour les conventions de niveau régional ou national."
+    },
+    {
+      "question": "Qui représente les travailleurs lors de la conclusion d'une convention collective de niveau national à Madagascar ?",
+      "choix": [
+        "Le Comité d'Entreprise de la plus grande entreprise du pays",
+        "Les représentants des organisations syndicales les plus représentatives",
+        "Les délégués du personnel de chaque entreprise",
+        "Le Ministère du Travail agissant au nom des travailleurs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "À ce niveau, une seule entreprise ne peut pas représenter tous les travailleurs.",
+        "La représentativité syndicale est le critère déterminant.",
+        "Ce sont des organisations, pas des représentants d'une seule entreprise."
+      ],
+      "explication": "Pour les conventions collectives dont le champ d'application est régional ou national, les travailleurs sont représentés par les représentants des organisations syndicales les plus représentatives. Ce critère de représentativité garantit la légitimité des signataires et la portée de la convention. Du côté employeur, ce sont les représentants syndicaux patronaux ou tout autre groupement d'employeurs représentatif."
+    },
+    {
+      "question": "Combien de niveaux principaux de conventions collectives distingue-t-on ?",
+      "choix": [
+        "Un seul : la convention nationale",
+        "Deux : entreprise et nationale",
+        "Trois : entreprise, branche sectorielle, interprofessionnelle ou nationale",
+        "Quatre : atelier, entreprise, branche, nationale"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Il y a un niveau le plus proche du terrain.",
+        "Il y a un niveau intermédiaire par secteur d'activité.",
+        "Et un niveau le plus large, couvrant toute l'économie."
+      ],
+      "explication": "On distingue trois niveaux principaux de conventions collectives : la convention d'entreprise (pour une seule entreprise ou établissement), la convention de branche ou sectorielle (pour toutes les entreprises d'un même secteur d'activité), et la convention interprofessionnelle ou nationale (pour l'ensemble de l'économie). Cette architecture pyramidale permet une articulation progressive des droits des travailleurs."
+    },
+    {
+      "question": "Qu'est-ce que le principe de faveur en droit du travail ?",
+      "choix": [
+        "Le principe selon lequel l'employeur doit toujours favoriser ses meilleurs salariés",
+        "Le principe selon lequel une norme de rang inférieur peut déroger à une norme supérieure uniquement dans un sens plus favorable aux travailleurs",
+        "Le principe selon lequel la loi prime toujours sur la convention collective",
+        "Le principe selon lequel le salarié peut choisir la convention qui lui est la plus favorable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il concerne la hiérarchie des normes en droit du travail.",
+        "Il permet une dérogation 'vers le haut' mais jamais 'vers le bas'.",
+        "Il protège le salarié contre les clauses défavorables."
+      ],
+      "explication": "Le principe de faveur est la règle d'or du droit du travail : une norme de rang inférieur (convention d'entreprise, contrat individuel) peut déroger à une norme de rang supérieur (loi, convention de branche) mais uniquement dans un sens plus favorable aux travailleurs. La loi fixe un plancher qu'on ne peut qu'améliorer. Ce principe distingue fondamentalement le droit du travail du droit civil ordinaire, où la hiérarchie des normes est stricte et absolue."
+    },
+    {
+      "question": "Un contrat individuel peut-il prévoir un salaire inférieur au minimum fixé par la convention collective applicable ?",
+      "choix": [
+        "Oui, si le salarié y consent librement",
+        "Oui, si l'entreprise traverse des difficultés économiques",
+        "Non, le contrat individuel ne peut pas descendre en dessous du minimum conventionnel",
+        "Oui, à condition que l'Inspection du Travail donne son accord"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le principe de faveur s'applique ici.",
+        "La convention collective est un plancher.",
+        "La liberté contractuelle a des limites en droit du travail."
+      ],
+      "explication": "Non. Le principe de faveur interdit au contrat individuel de prévoir des conditions moins favorables que celles fixées par la convention collective. Si le contrat prévoit un salaire inférieur au minimum conventionnel, c'est la convention collective qui s'applique, automatiquement. Le consentement du salarié ne change rien : on ne peut pas contractuellement renoncer aux droits que la convention collective reconnaît."
+    },
+    {
+      "question": "Une convention collective d'entreprise peut-elle prévoir moins de congés annuels que ce que prévoit la convention de branche applicable ?",
+      "choix": [
+        "Oui, si les deux parties à la négociation d'entreprise sont d'accord",
+        "Non, la convention d'entreprise ne peut qu'améliorer les droits prévus par la convention de branche",
+        "Oui, si l'entreprise appartient à un secteur particulièrement contraint économiquement",
+        "Oui, mais uniquement pour les cadres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La convention de branche est au niveau supérieur.",
+        "Le principe de faveur s'applique entre les niveaux conventionnels.",
+        "La convention d'entreprise est au niveau inférieur."
+      ],
+      "explication": "Non. En vertu du principe de faveur, la convention d'entreprise (niveau inférieur) ne peut que prévoir des droits supérieurs à ceux garantis par la convention de branche (niveau supérieur). Elle peut accorder plus de congés que la convention de branche, mais jamais moins. Ce principe s'applique dans toute la pyramide des normes du droit du travail."
+    },
+    {
+      "question": "Qu'est-ce que la classification professionnelle dans une convention collective ?",
+      "choix": [
+        "Le classement des entreprises par taille pour déterminer leurs obligations",
+        "Le système hiérarchisant les postes de travail selon les qualifications et responsabilités, avec un salaire minimum pour chaque niveau",
+        "La liste des professions interdites aux étrangers à Madagascar",
+        "Le classement des syndicats par ordre de représentativité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle concerne les postes occupés par les salariés.",
+        "Elle sert de base au calcul des salaires minimaux.",
+        "Elle distingue ouvriers, techniciens, cadres et leurs subdivisions."
+      ],
+      "explication": "La classification professionnelle est le système établi par la convention collective qui hiérarchise les postes de travail selon les qualifications, compétences et responsabilités. À chaque niveau correspond un salaire minimum conventionnel. Elle s'impose à toutes les entreprises du champ d'application de la convention. Elle a aussi des effets sur d'autres droits : préavis, indemnités de licenciement, accès à la formation."
+    },
+    {
+      "question": "Quel est le rôle du Conseil National du Travail (CNT) à Madagascar ?",
+      "choix": [
+        "Rédiger les conventions collectives à la place des partenaires sociaux",
+        "Être un organe tripartite de consultation, dialogue et négociation entre gouvernement, employeurs et travailleurs",
+        "Contrôler les entreprises et infliger des amendes en cas de non-respect des conventions",
+        "Fixer par décret les salaires minimaux de toutes les branches"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mot 'tripartite' est la clé.",
+        "Il est créé auprès du Ministère du Travail.",
+        "Il contribue mais ne décide pas seul."
+      ],
+      "explication": "Le CNT est un organe tripartite (gouvernement, employeurs, travailleurs) créé en 2005, placé auprès du Ministère du Travail. Ses missions incluent la contribution à la politique nationale en matière d'emploi et de formation, les avis sur les projets de loi et le soutien aux partenaires sociaux dans l'élaboration des conventions collectives. Il a joué un rôle clé dans la refonte du Code du Travail de 2024. Les membres ont un mandat de 3 ans renouvelable une fois."
+    },
+    {
+      "question": "Qu'est-ce que l'extension d'une convention collective ?",
+      "choix": [
+        "La prolongation de la durée d'une convention arrivant à expiration",
+        "La décision de l'autorité publique rendant une convention obligatoire pour toutes les entreprises d'un secteur, y compris celles qui ne l'ont pas signée",
+        "L'élargissement du nombre de clauses contenues dans une convention",
+        "La négociation d'une convention à un niveau supérieur à celui prévu initialement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle concerne les entreprises qui n'ont pas signé la convention.",
+        "C'est une décision de l'État, pas des partenaires sociaux.",
+        "Elle vise à éviter la concurrence déloyale."
+      ],
+      "explication": "L'extension est une décision de l'autorité publique (Ministère du Travail) qui rend la convention collective obligatoire pour toutes les entreprises d'un secteur, y compris celles qui n'ont pas participé à la négociation et n'ont pas signé. L'objectif est d'éviter qu'une concurrence déloyale s'installe entre entreprises liées par la convention et celles qui ne le sont pas. Elle assure une couverture conventionnelle large."
+    },
+    {
+      "question": "Comment la convention collective s'applique-t-elle aux contrats de travail en cours dans son champ d'application ?",
+      "choix": [
+        "Elle ne s'applique qu'aux nouveaux contrats signés après son entrée en vigueur",
+        "Elle s'applique automatiquement à tous les contrats en cours, sans que le salarié ni l'employeur n'aient à consentir",
+        "Elle s'applique seulement si le salarié en fait la demande par écrit",
+        "Elle s'applique uniquement si l'employeur a signé la convention directement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Son application est automatique, pas optionnelle.",
+        "Elle n'exige ni demande ni consentement du salarié.",
+        "C'est une caractéristique fondamentale de la norme collective."
+      ],
+      "explication": "La convention collective s'applique automatiquement et immédiatement à tous les contrats de travail en cours dans son champ d'application. Le salarié n'a pas besoin de le demander, l'employeur n'a pas besoin d'y consentir séparément. Dès que la convention est applicable, ses dispositions s'intègrent aux contrats. C'est une caractéristique essentielle qui distingue la norme collective de la norme contractuelle individuelle."
+    },
+    {
+      "question": "Vrai ou faux : si un contrat individuel prévoit un avantage supérieur à ce que prévoit la convention collective (par exemple 35 jours de congés alors que la convention en prévoit 30), l'employeur peut réduire cet avantage en invoquant la convention.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quel est le rapport entre contrat individuel et convention collective ?",
+        "La convention est un plancher, pas un plafond.",
+        "Le principe de faveur s'applique aussi dans ce sens."
+      ],
+      "explication": "Faux. La convention collective est un plancher au-delà duquel le contrat individuel peut améliorer mais jamais descendre. Si le contrat individuel prévoit un avantage supérieur à la convention (35 jours de congés contre 30 dans la convention), cet avantage contractuel est maintenu. L'employeur ne peut pas invoquer la convention pour réduire un avantage conventionnellement supérieur. La norme la plus favorable au salarié s'applique toujours."
+    },
+    {
+      "question": "Quelle est la première démarche formelle pour ouvrir une négociation collective ?",
+      "choix": [
+        "Saisir directement le Tribunal du Travail",
+        "Envoyer une demande de négociation ou une lettre de doléances à l'autre partie",
+        "Déclarer une grève pour forcer l'employeur à négocier",
+        "Demander l'autorisation du Ministère du Travail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La négociation commence par une demande formelle.",
+        "Elle peut venir de l'une ou l'autre des parties.",
+        "Elle prend généralement la forme d'un écrit."
+      ],
+      "explication": "La première démarche formelle pour ouvrir une négociation collective est l'envoi d'une demande de négociation ou d'une lettre de doléances à l'autre partie. Cette demande peut émaner de l'employeur comme des représentants des travailleurs. La partie qui la reçoit est tenue d'y répondre dans un délai raisonnable. Refuser de négocier sans motif légitime peut constituer une faute ouvrant droit à réparation."
+    },
+    {
+      "question": "Lors de la signature d'une convention collective, quelle formalité est indispensable pour qu'elle produise ses effets juridiques en droit malgache ?",
+      "choix": [
+        "La publication au Journal Officiel de Madagascar",
+        "Le dépôt auprès de l'Inspection du Travail",
+        "La validation par le Conseil National du Travail",
+        "La signature par le Ministre du Travail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une formalité administrative, pas une validation politique.",
+        "Elle assure la publicité de la convention.",
+        "L'organe concerné est chargé du contrôle du travail."
+      ],
+      "explication": "Le dépôt auprès de l'Inspection du Travail est la formalité indispensable qui conditionne l'entrée en vigueur de la convention collective et assure sa publicité. Ce dépôt permet aux travailleurs, aux employeurs et aux tiers d'en prendre connaissance. Sans ce dépôt, la convention ne produit pas ses effets juridiques à l'égard des tiers."
+    },
+    {
+      "question": "Qu'est-ce qu'un avenant à une convention collective ?",
+      "choix": [
+        "Un document annexe listant les entreprises soumises à la convention",
+        "Un texte signé après de nouvelles négociations qui modifie partiellement les clauses de la convention initiale",
+        "Une décision unilatérale de l'employeur modifiant certains avantages",
+        "Un résumé de la convention rédigé pour les salariés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il intervient pendant la vie de la convention.",
+        "Il ne remet pas en cause l'ensemble du texte.",
+        "Il suppose une nouvelle négociation et une nouvelle signature."
+      ],
+      "explication": "Un avenant est un texte signé par les parties après de nouvelles négociations, qui modifie partiellement les clauses de la convention collective sans remettre en cause l'ensemble du texte. Les clauses non visées par l'avenant continuent de s'appliquer. L'avenant est lui-même soumis aux mêmes formalités que la convention principale : il doit être écrit, signé par les parties habilitées et déposé."
+    },
+    {
+      "question": "Que se passe-t-il pour les droits des salariés lorsqu'une convention collective est dénoncée ?",
+      "choix": [
+        "Les droits conventionnels s'éteignent immédiatement à la date de dénonciation",
+        "Les avantages individuels acquis sont maintenus pendant la période de transition, jusqu'à la conclusion d'une nouvelle convention",
+        "La loi reprend immédiatement la place de la convention sans aucune protection transitoire",
+        "L'employeur peut choisir quels avantages il maintient et lesquels il supprime"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La dénonciation n'est pas un effacement immédiat des droits.",
+        "Il existe une période de protection pour les salariés.",
+        "L'objectif est d'éviter un vide brutal de protection."
+      ],
+      "explication": "Lorsqu'une convention collective est dénoncée, les salariés ne perdent pas immédiatement leurs droits conventionnels. Un principe protecteur s'applique : les avantages individuels acquis sont maintenus pendant la période de préavis et au-delà, jusqu'à la conclusion d'une nouvelle convention ou pendant un délai légal déterminé. Ce mécanisme évite que la dénonciation serve à priver brutalement les salariés de protections qu'ils avaient acquises."
+    },
+    {
+      "question": "Quelle est la différence entre l'extension et l'élargissement d'une convention collective ?",
+      "choix": [
+        "Il n'y a aucune différence, les deux termes sont synonymes",
+        "L'extension rend une convention obligatoire dans son secteur d'origine ; l'élargissement l'étend à un secteur différent",
+        "L'extension concerne les conventions nationales ; l'élargissement concerne les conventions d'entreprise",
+        "L'extension est décidée par les syndicats ; l'élargissement est décidé par le gouvernement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Réfléchissez à ce qui est 'élargi' dans chaque cas.",
+        "L'un des mécanismes concerne le même secteur mais des entreprises supplémentaires.",
+        "L'autre concerne un secteur complètement différent."
+      ],
+      "explication": "L'extension rend une convention collective obligatoire pour toutes les entreprises du secteur pour lequel elle a été conclue, y compris celles qui ne l'ont pas signée. L'élargissement va plus loin : il consiste à étendre une convention collective à un secteur d'activité différent de celui pour lequel elle a été originellement conclue, généralement parce que ce secteur ne dispose pas de convention propre. Les deux mécanismes sont des décisions de l'autorité publique."
+    },
+    {
+      "question": "Quel organe contrôle administrativement l'application des conventions collectives dans les entreprises à Madagascar ?",
+      "choix": [
+        "Le Conseil National du Travail",
+        "L'Inspection du Travail",
+        "Le Tribunal du Travail",
+        "Le Ministère de l'Économie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cet organe peut pénétrer dans les entreprises.",
+        "Il peut constater les infractions et dresser des procès-verbaux.",
+        "Son nom inclut le mot 'inspection'."
+      ],
+      "explication": "L'Inspection du Travail est l'organe de contrôle administratif de l'application des conventions collectives. Les inspecteurs du travail ont le pouvoir de pénétrer dans les entreprises, de consulter les documents, d'interroger les parties, de constater les infractions et d'établir des procès-verbaux. Le non-respect d'une convention collective est une infraction passible de sanctions. Le Tribunal du Travail est, lui, l'organe de contrôle judiciaire, saisi à l'initiative des salariés ou des syndicats."
+    },
+    {
+      "question": "Vrai ou faux : en droit malgache, la représentativité syndicale est notamment déterminée par les résultats des élections professionnelles.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La représentativité suppose une légitimité démontrée.",
+        "Les élections sont un indicateur objectif de soutien des travailleurs.",
+        "C'est l'un des critères parmi d'autres."
+      ],
+      "explication": "Vrai. La représentativité syndicale est établie à partir de plusieurs critères dont les résultats aux élections professionnelles (élections de délégués du personnel ou du comité d'entreprise) constituent un indicateur objectif et fondamental. S'y ajoutent d'autres critères : les effectifs cotisants, l'indépendance par rapport à l'employeur, l'ancienneté et l'implantation dans le secteur. Seuls les syndicats représentatifs peuvent conclure des conventions collectives régionales ou nationales."
+    },
+    {
+      "question": "Un syndicat peut-il être représentatif s'il reçoit un financement régulier de l'employeur dont il est supposé défendre les salariés ?",
+      "choix": [
+        "Oui, à condition que le financement soit transparent et déclaré",
+        "Non, l'indépendance par rapport à l'employeur est un critère fondamental de la représentativité syndicale",
+        "Oui, si les salariés élisent les représentants du syndicat lors d'élections régulières",
+        "Cela dépend du montant du financement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un des critères de représentativité est l'indépendance.",
+        "Un syndicat financé par l'employeur peut difficilement négocier librement contre lui.",
+        "Ce serait une forme de syndicat 'maison' ou 'jaune'."
+      ],
+      "explication": "Non. L'indépendance par rapport à l'employeur est un critère fondamental de la représentativité syndicale. Un syndicat financé par l'employeur dont il est supposé défendre les salariés ne peut pas être considéré comme indépendant. Ce type de syndicat — parfois appelé syndicat 'maison' ou syndicat 'jaune' — ne peut pas avoir la qualité de représentatif et ne peut pas valablement conclure des conventions collectives. Le Code du Travail malgache de 2024 renforce d'ailleurs les sanctions contre les employeurs qui entravent la liberté syndicale."
+    },
+    {
+      "question": "Pourquoi dit-on que le droit du travail est un 'ordre public social' ?",
+      "choix": [
+        "Parce que les règles du travail sont décidées collectivement par la société",
+        "Parce que les protections accordées aux salariés ne peuvent être réduites par accord inférieur, seulement améliorées",
+        "Parce que le gouvernement impose ses règles sans pouvoir être contredit",
+        "Parce que les conventions collectives ont la même valeur que les lois de la République"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le concept d'ordre public s'oppose à ce qu'on peut y déroger.",
+        "Le mot 'social' indique que c'est dans l'intérêt des travailleurs.",
+        "Les normes inférieures ne peuvent qu'améliorer, jamais abaisser."
+      ],
+      "explication": "L'ordre public social désigne le caractère protecteur et minimal des normes du droit du travail. En vertu de cet ordre public spécial, les normes de rang inférieur (convention d'entreprise, contrat individuel) peuvent déroger aux normes de rang supérieur mais uniquement dans un sens plus favorable aux salariés. Les protections légales constituent un plancher social que personne — ni l'employeur, ni le salarié — ne peut faire descendre par accord contractuel."
+    },
+    {
+      "question": "Le Code du Travail malgache actuellement en vigueur date de :",
+      "choix": [
+        "1993",
+        "2003 (Loi n° 2003-044)",
+        "2024 (Loi n° 2024-014)",
+        "2010, même année que la Constitution"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le Code du Travail a été refondé récemment.",
+        "Cette refonte visait à aligner le droit malgache sur les conventions récentes de l'OIT.",
+        "Le nouveau Code contient 395 articles."
+      ],
+      "explication": "Le Code du Travail malgache actuellement en vigueur est la Loi n° 2024-014, qui a refondé et modernisé l'ensemble du droit du travail malgache. Ce nouveau Code contient 395 articles et se subdivise en onze titres. Il a été élaboré après de larges consultations incluant deux débats au Conseil National du Travail. Il remplace la loi n° 2003-044 du 28 juillet 2004 et intègre les conventions de l'OIT récemment ratifiées par Madagascar."
+    },
+    {
+      "question": "Quelle est l'une des principales limites de la négociation collective à Madagascar identifiée par les observateurs ?",
+      "choix": [
+        "Le nombre excessif de conventions collectives qui créent une confusion juridique",
+        "Le faible taux de syndicalisation, surtout dans le secteur privé et l'économie informelle",
+        "L'interdiction constitutionnelle des grèves qui empêche toute pression syndicale",
+        "Le fait que le Code du Travail est rédigé uniquement en malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'économie malgache comporte une large part d'emploi non déclaré.",
+        "Les syndicats ont besoin d'adhérents pour être puissants.",
+        "Ce problème affecte la capacité des travailleurs à se défendre."
+      ],
+      "explication": "L'une des principales limites de la négociation collective à Madagascar est le faible taux de syndicalisation, surtout dans le secteur privé et dans l'économie informelle qui représente une part très importante de l'emploi malgache. Cette faiblesse limite la capacité des travailleurs à négocier collectivement et à faire respecter leurs droits conventionnels. De plus, le contrôle insuffisant dans les petites entreprises aggrave ce problème. Le Code du Travail de 2024 tente d'y répondre mais les défis restent importants."
+    },
+    {
+      "question": "L'employeur est-il tenu d'informer le salarié de la convention collective applicable à son contrat ?",
+      "choix": [
+        "Non, il appartient au salarié de se renseigner lui-même",
+        "Oui, l'employeur doit permettre au salarié de connaître la convention applicable, notamment lors de l'embauche",
+        "Uniquement si le salarié le demande formellement par écrit",
+        "Non, cette obligation appartient aux syndicats et non à l'employeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un droit qui n'est pas connu n'est pas exercé.",
+        "L'employeur a des obligations d'information envers ses salariés.",
+        "Cette obligation se manifeste notamment à l'embauche."
+      ],
+      "explication": "Oui. L'employeur est tenu d'informer le salarié de la convention collective applicable à son contrat de travail. Lors de l'embauche, le salarié doit pouvoir prendre connaissance de la convention, soit par remise d'un exemplaire, soit par affichage dans les locaux ou tout autre moyen. Cette obligation d'information est fondamentale : un salarié qui ne connaît pas ses droits conventionnels ne peut pas les exercer. L'affichage dans les lieux de travail est souvent imposé pour les principales dispositions conventionnelles."
+    },
+    {
+      "question": "Pourquoi dit-on que la convention collective est un 'contrat collectif' ?",
+      "choix": [
+        "Parce qu'elle est signée collectivement par tous les salariés de l'entreprise",
+        "Parce qu'elle est négociée et conclue par des représentants agissant au nom d'un groupe, et produit des effets sur l'ensemble du groupe, pas seulement sur les signataires",
+        "Parce qu'elle est rédigée collectivement par le gouvernement et les partenaires sociaux",
+        "Parce qu'elle s'applique collectivement, c'est-à-dire de la même manière à tous les salariés sans distinction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Qui la signe ? Des représentants, pas des individus.",
+        "À qui s'applique-t-elle ? Au-delà des seuls signataires.",
+        "Son originalité tient à la dissociation entre qui signe et qui est lié."
+      ],
+      "explication": "La convention collective est dite 'contrat collectif' car elle est négociée et signée par des représentants (délégués du personnel, comité d'entreprise, syndicats) agissant au nom d'un groupe, et elle produit des effets sur l'ensemble des personnes appartenant à son champ d'application — y compris des salariés qui n'étaient pas représentés lors de la négociation et des entreprises qui n'ont pas directement signé. C'est une différence fondamentale avec le contrat individuel qui ne lie que ses parties."
+    },
+    {
+      "question": "Qu'est-ce qu'une convention collective interprofessionnelle ?",
+      "choix": [
+        "Une convention qui concerne uniquement les professions libérales",
+        "Une convention conclue entre des professions concurrentes pour harmoniser leurs tarifs",
+        "La convention collective au champ d'application le plus large, couvrant l'ensemble des secteurs et de l'économie nationale",
+        "Une convention signée entre plusieurs entreprises d'un même groupe"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le préfixe 'inter' signifie 'entre plusieurs'.",
+        "Elle se situe au sommet de la pyramide des conventions collectives.",
+        "Elle concerne tous les secteurs, pas un seul."
+      ],
+      "explication": "La convention collective interprofessionnelle est la convention au champ d'application le plus large — elle couvre l'ensemble des secteurs et de l'économie nationale, quel que soit le secteur d'activité. Elle est conclue entre les organisations syndicales représentatives au niveau national et les organisations patronales représentatives au niveau national. Elle fixe les principes généraux communs à tous les travailleurs et constitue le socle sur lequel les conventions de branche et d'entreprise viennent ajouter des droits supplémentaires."
+    },
+    {
+      "question": "Dans le système de règlement des conflits collectifs du Code du Travail malgache, que se passe-t-il si la négociation directe entre les parties échoue ?",
+      "choix": [
+        "Le droit de grève est immédiatement acquis sans autre formalité",
+        "Les parties doivent obligatoirement passer par une phase de médiation, et à défaut d'accord, par une phase d'arbitrage",
+        "Le Ministère du Travail impose sa solution aux parties",
+        "L'employeur peut procéder à des licenciements économiques collectifs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le Code du Travail prévoit une procédure graduée.",
+        "L'échec de la négociation ne débouche pas directement sur le conflit ouvert.",
+        "Il y a d'abord une intervention d'un tiers, puis une autre procédure."
+      ],
+      "explication": "Le Code du Travail malgache prévoit une procédure graduée de règlement des conflits collectifs. En cas d'échec de la négociation directe (lettre de doléances, réunion dans les 72h, établissement d'un PV), les parties entrent obligatoirement en phase de médiation. Le médiateur est désigné d'un commun accord ou à défaut par l'Inspection du Travail. Si la médiation échoue, la procédure d'arbitrage s'applique — soit celle prévue par la convention collective si elle en prévoit une, soit celle du Tribunal du Travail. Ce n'est qu'après l'épuisement de ces procédures que le droit de grève ou de lock-out peut s'exercer avec un préavis de 48h."
+    },
+    {
+      "question": "Quelle est la durée maximale d'une convention à durée indéterminée à Madagascar ?",
+      "choix": [
+        "5 ans",
+        "10 ans",
+        "Il n'y a pas de durée maximale : elle court jusqu'à dénonciation ou révision",
+        "20 ans"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le terme 'indéterminée' est la clé.",
+        "Ce type de convention n'est pas limité dans le temps.",
+        "Ce qui peut y mettre fin, c'est une action des parties, pas le simple écoulement du temps."
+      ],
+      "explication": "Une convention collective à durée indéterminée n'a pas de durée maximale légale — elle s'applique jusqu'à ce qu'une partie décide de la dénoncer dans les formes légales, ou jusqu'à ce que les parties s'accordent pour la réviser. Ce type de convention offre une stabilité mais suppose que les parties aient prévu des mécanismes de révision périodique pour adapter les droits à l'évolution économique. La dénonciation est soumise à un délai de préavis."
+    },
+    {
+      "question": "Vrai ou faux : la démission d'un salarié peut être faite verbalement en droit malgache si les conventions collectives ne l'interdisent pas expressément.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les conventions collectives précisent les formes de rupture.",
+        "La convention de l'ADER, par exemple, exige un écrit signé avec accusé de réception.",
+        "La forme écrite est une garantie pour les deux parties."
+      ],
+      "explication": "Faux. Les conventions collectives malgaches, dans leur grande majorité, exigent que la démission soit formalisée par écrit et adressée à l'employeur avec un accusé de réception. La convention collective de l'ADER le précise expressément : 'La démission doit toujours faire l'objet d'un écrit signé de l'employé à adresser au Secrétaire Exécutif avec un accusé de réception.' Cette exigence de forme est une garantie pour les deux parties : elle évite les contestations sur la réalité et la date de la démission."
+    },
+    {
+      "question": "Une entreprise peut-elle embaucher un travailleur à des conditions moins favorables que celles prévues par la convention collective applicable, si ce travailleur est d'accord et signe le contrat ?",
+      "choix": [
+        "Oui, car la liberté contractuelle permet aux parties de convenir de ce qu'elles veulent",
+        "Non, le consentement du salarié ne peut pas permettre de déroger en sa défaveur aux droits conventionnels",
+        "Oui, seulement pendant la période d'essai",
+        "Oui, si l'entreprise traverse des difficultés économiques prouvées"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le principe de faveur protège le salarié même contre lui-même.",
+        "La faiblesse économique du salarié est présumée.",
+        "Le consentement n'est pas un argument suffisant en droit du travail."
+      ],
+      "explication": "Non. Le principe de l'ordre public social interdit toute dérogation au détriment du salarié aux droits que lui reconnaît la convention collective, même si le salarié y consent librement. La logique est que le salarié se trouve en position de faiblesse économique face à l'employeur : sa liberté de consentir est relative. On ne peut pas contractuellement renoncer aux protections collectives. Le consentement du salarié est sans effet sur ce point."
+    },
+    {
+      "question": "Qu'est-ce que l'élargissement d'une convention collective et en quoi diffère-t-il de l'extension ?",
+      "choix": [
+        "L'élargissement augmente le nombre de clauses de la convention ; l'extension augmente le nombre de signataires",
+        "L'élargissement étend la convention à un secteur différent de celui pour lequel elle a été conclue ; l'extension la rend obligatoire dans son secteur d'origine pour les non-signataires",
+        "Les deux termes désignent la même opération juridique",
+        "L'élargissement est décidé par les syndicats ; l'extension est décidée par les employeurs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'extension et l'élargissement ont en commun d'être des décisions de l'autorité publique.",
+        "La différence tient au secteur concerné.",
+        "L'élargissement s'applique à un secteur qui n'avait pas sa propre convention."
+      ],
+      "explication": "L'extension rend une convention collective obligatoire pour toutes les entreprises du secteur pour lequel elle a été conclue, y compris les non-signataires. L'élargissement va plus loin en étendant une convention à un secteur d'activité différent, généralement parce que ce secteur ne dispose pas de convention collective propre. Les deux mécanismes sont des décisions de l'autorité publique et visent à assurer une couverture conventionnelle large et à éviter les inégalités de traitement entre travailleurs."
+    },
+    {
+      "question": "Quelle est la conséquence juridique pour un employeur qui ne respecte pas les dispositions d'une convention collective qui lui est applicable ?",
+      "choix": [
+        "Aucune : la convention collective n'est qu'un engagement moral",
+        "L'Inspection du Travail peut constater l'infraction, et le salarié peut saisir le Tribunal du Travail pour faire respecter ses droits et obtenir réparation",
+        "La convention collective est automatiquement résiliée",
+        "Le salarié peut uniquement signaler le problème au syndicat, qui agira à sa place"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La convention a force obligatoire — le non-respect est une infraction.",
+        "Deux organes peuvent intervenir : l'un administratif, l'autre judiciaire.",
+        "Le salarié a aussi la possibilité d'agir directement."
+      ],
+      "explication": "Le non-respect d'une convention collective est une infraction au droit du travail avec des conséquences concrètes. Sur le plan administratif, l'Inspection du Travail peut constater l'infraction et établir un procès-verbal. Sur le plan judiciaire, le salarié peut saisir le Tribunal du Travail pour faire respecter ses droits conventionnels et obtenir le paiement des sommes dues (salaires, primes, indemnités) ainsi que des dommages et intérêts. Les syndicats ont également qualité pour agir en justice dans l'intérêt collectif des salariés."
+    },
+    {
+      "question": "Comment s'appelle le préavis que les parties doivent respecter avant de déclencher une grève en droit malgache, après échec des procédures de règlement des conflits ?",
+      "choix": [
+        "48 heures, notifié par lettre recommandée à l'employeur",
+        "72 heures, notifié verbalement ou par écrit",
+        "8 jours, déposé à l'Inspection du Travail",
+        "24 heures, sans formalité particulière"
+      ],
+      "reponse": 0,
+      "indices": [
+        "C'est un délai court mais suffisant pour une ultime tentative de conciliation.",
+        "La notification doit être formelle.",
+        "Ce préavis s'applique aussi au lock-out côté patronal."
+      ],
+      "explication": "En droit malgache (Code du Travail 2024), après l'échec des procédures de négociation et de médiation, le droit de grève (ou de lock-out) peut s'exercer avec un préavis de 48 heures, notifié par lettre recommandée adressée à l'employeur. Ce court délai vise à permettre une ultime tentative de résolution amiable tout en reconnaissant le droit fondamental à l'action collective. Les travailleurs doivent avoir épuisé les procédures de conciliation, médiation et arbitrage avant d'exercer ce droit."
+    },
+    {
+      "question": "Quelle institution joue un rôle dans l'arbitrage des conflits collectifs lorsqu'aucune procédure d'arbitrage n'est prévue par la convention collective ?",
+      "choix": [
+        "Le Conseil National du Travail",
+        "Le Tribunal du Travail",
+        "Le Ministère de la Justice",
+        "La Cour Suprême"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une juridiction spécialisée en matière de travail.",
+        "Il intervient en l'absence de disposition conventionnelle sur l'arbitrage.",
+        "Il traite les différends entre employeurs et salariés."
+      ],
+      "explication": "Lorsque la convention collective ne prévoit pas de procédure d'arbitrage, c'est la procédure d'arbitrage du Tribunal du Travail qui s'applique. L'arbitrage porte sur les points de désaccord définis dans le procès-verbal du médiateur. Le Tribunal du Travail est la juridiction spécialisée dans les litiges entre employeurs et salariés à Madagascar. Son rôle dans l'arbitrage des conflits collectifs est subsidiaire : il n'intervient qu'en l'absence de mécanisme conventionnel."
+    },
+    {
+      "question": "Quels sont les secteurs où les syndicats sont les plus actifs à Madagascar selon les observateurs ?",
+      "choix": [
+        "Commerce et agriculture",
+        "Public, minier, textile et transports",
+        "Tourisme et hôtellerie",
+        "Banque et assurances uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce sont des secteurs avec de grands effectifs ou des conditions de travail particulières.",
+        "L'un est le secteur de l'État, les autres sont des secteurs d'activité économique intense.",
+        "Le secteur textile emploie notamment beaucoup de femmes dans les zones franches."
+      ],
+      "explication": "Selon les observateurs, les syndicats les plus actifs à Madagascar se trouvent dans les secteurs public, minier, textile et des transports. Ce sont des secteurs avec des effectifs importants, des conditions de travail spécifiques et une tradition syndicale plus ancienne. Le secteur du textile en particulier, avec ses zones franches d'exportation, est un terrain important de la négociation collective. En revanche, le taux de syndicalisation reste faible dans le secteur informel et dans les petites entreprises."
+    },
+    {
+      "question": "Une convention collective peut-elle contenir des dispositions sur les droits syndicaux au sein de l'entreprise ?",
+      "choix": [
+        "Non, les droits syndicaux sont exclusivement du ressort de la loi",
+        "Oui, elle peut préciser les heures de délégation, l'accès aux locaux et les droits de communication syndicale",
+        "Oui, mais uniquement pour les syndicats qui ont signé la convention",
+        "Non, cela relèverait d'une ingérence dans la vie syndicale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les conventions collectives peuvent traiter de nombreux sujets liés aux relations collectives.",
+        "Les représentants des travailleurs ont besoin de moyens pour exercer leur mandat.",
+        "Ces moyens peuvent être précisés dans la convention."
+      ],
+      "explication": "Oui. Une convention collective peut tout à fait comporter des dispositions sur les droits syndicaux et les droits des représentants des travailleurs au sein de l'entreprise : heures de délégation supplémentaires par rapport au minimum légal, accès aux locaux de l'entreprise, affichage syndical, circulation des représentants dans l'établissement, communication avec les salariés. Ces dispositions conventionnelles renforcent les moyens d'action des représentants et contribuent à un dialogue social effectif dans l'entreprise."
+    },
+    {
+      "question": "Qu'est-ce qu'une prime d'ancienneté et pourquoi est-elle souvent incluse dans les conventions collectives ?",
+      "choix": [
+        "Une prime versée aux salariés âgés de plus de 50 ans",
+        "Une augmentation de salaire liée à la durée de présence du salarié dans l'entreprise, qui récompense la fidélité et l'expérience",
+        "Une compensation pour les salariés qui acceptent de travailler dans des conditions difficiles",
+        "Une prime versée par l'État aux entreprises qui conservent leurs salariés longtemps"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle est liée à la durée dans l'entreprise.",
+        "Elle augmente avec le temps passé.",
+        "Elle valorise la fidélité et l'expérience accumulée."
+      ],
+      "explication": "La prime d'ancienneté est une augmentation de salaire liée à la durée de présence continue du salarié dans l'entreprise. Elle augmente généralement par tranches — par exemple 2 % par an d'ancienneté, avec un plafond à 20 ou 25 %. Les conventions collectives l'incluent pour valoriser la fidélité des salariés, compenser leur expérience accumulée, et réduire le turnover. Elle est souvent calculée sur le salaire de base ou sur le salaire minimum conventionnel de la catégorie du salarié."
+    },
+    {
+      "question": "La convention collective peut-elle régir les conditions d'embauche dans une entreprise ?",
+      "choix": [
+        "Non, l'embauche est une prérogative exclusive de l'employeur que la convention ne peut pas encadrer",
+        "Oui, elle peut préciser les critères d'accès aux emplois, les conditions de nationalité, les exigences médicales et morales",
+        "Uniquement pour les postes de cadre",
+        "Oui, mais seulement pour les travailleurs étrangers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La convention couvre 'les conditions d'emploi', pas seulement les conditions de travail.",
+        "L'embauche est le premier moment de la relation de travail.",
+        "La convention de l'ADER en est un exemple concret."
+      ],
+      "explication": "Oui. La convention collective peut encadrer les conditions d'embauche. La convention collective de l'ADER à Madagascar en donne un exemple concret : elle précise que peuvent être embauchés comme personnel de l'ADER toute personne de nationalité malgache jouissant de ses droits civiques, tout étranger disposant d'une autorisation d'emploi, toute personne remplissant les conditions physiques et intellectuelles requises, toute personne satisfaisant aux visites médicales d'aptitude, et toute personne n'ayant pas d'antécédent judiciaire. Des critères clairs évitent les embauches arbitraires ou discriminatoires."
+    },
+    {
+      "question": "Vrai ou faux : le Code du Travail malgache de 2024 interdit expressément le travail forcé ou obligatoire.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "C'est l'une des normes fondamentales de l'OIT ratifiées par Madagascar.",
+        "L'article 4 du Code du Travail de 2024 traite de cette question.",
+        "Cette interdiction est une évidence dans tout système juridique moderne."
+      ],
+      "explication": "Vrai. L'article 4 de la Loi n° 2024-014 portant Code du Travail malgache dispose expressément : 'Le travail forcé ou obligatoire est interdit.' Cette disposition est conforme aux conventions fondamentales de l'OIT sur le travail forcé (Convention n° 29 et Convention n° 105) ratifiées par Madagascar. Le Code du Travail de 2024 a été notamment élaboré pour mettre le droit malgache en conformité avec ces conventions internationales."
+    },
+    {
+      "question": "Dans la pyramide des normes du droit du travail, dans quel ordre s'articulent (du plus haut au plus bas) : convention d'entreprise, Code du Travail, convention de branche, contrat individuel ?",
+      "choix": [
+        "Contrat individuel, convention d'entreprise, convention de branche, Code du Travail",
+        "Code du Travail, convention de branche, convention d'entreprise, contrat individuel",
+        "Convention de branche, Code du Travail, convention d'entreprise, contrat individuel",
+        "Code du Travail, convention d'entreprise, convention de branche, contrat individuel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi est au sommet en droit du travail.",
+        "Plus le niveau est général, plus il est haut dans la pyramide.",
+        "Le contrat individuel est le niveau le plus proche du travailleur concret."
+      ],
+      "explication": "La pyramide des normes du droit du travail s'ordonne ainsi, du plus haut au plus bas : Code du Travail (et Constitution), convention de branche ou sectorielle, convention d'entreprise, contrat individuel de travail. Chaque niveau inférieur peut déroger au niveau supérieur uniquement dans un sens plus favorable au salarié (principe de faveur). Le Code du Travail fixe le plancher légal absolu que personne ne peut franchir à la baisse."
+    },
+    {
+      "question": "Qu'est-ce qu'une faute lourde dans le contexte d'une convention collective malgache et quel est son effet principal ?",
+      "choix": [
+        "Une faute grave répétée plusieurs fois ; elle permet à l'employeur d'augmenter la durée du préavis",
+        "Une faute d'une gravité exceptionnelle rendant impossible le maintien du salarié même pendant le préavis ; elle prive le salarié de son indemnité de licenciement",
+        "Une faute commise en dehors du lieu de travail ; elle ne peut pas justifier un licenciement",
+        "Une faute commise par l'employeur ; elle ouvre droit à des dommages et intérêts supplémentaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La faute lourde est le niveau maximal de faute professionnelle.",
+        "Elle a des conséquences financières très importantes pour le salarié.",
+        "Elle prive le salarié de protections normalement dues."
+      ],
+      "explication": "La faute lourde est une faute d'une gravité exceptionnelle — trahison, sabotage, violence — qui rend impossible le maintien du salarié dans l'entreprise même pendant le délai de préavis. Son effet principal et le plus grave pour le salarié est de le priver de son indemnité de licenciement. Les conventions collectives définissent souvent avec précision ce qui constitue une faute lourde dans leur secteur, car cette qualification a des conséquences financières considérables. La convention de l'ADER précise par exemple que certaines fausses déclarations à l'embauche peuvent entraîner la résiliation sans préavis."
+    },
+    {
+      "question": "Un employeur peut-il se référer à une convention collective de branche qui lui est moins favorable pour réduire les avantages qu'il accordait jusque-là à ses salariés ?",
+      "choix": [
+        "Oui, si la convention de branche est plus récente que les pratiques antérieures",
+        "Non, les avantages individuels acquis par les salariés ne peuvent pas être réduits par l'application d'une convention collective",
+        "Oui, car la convention collective prime toujours sur les pratiques d'entreprise",
+        "Cela dépend de l'accord du Comité d'Entreprise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La convention collective est un plancher, pas un plafond.",
+        "Les avantages supérieurs à la convention sont protégés.",
+        "Le principe de faveur s'applique aussi aux pratiques et usages de l'entreprise."
+      ],
+      "explication": "Non. La convention collective est un plancher au-delà duquel le contrat ou les pratiques d'entreprise peuvent améliorer, mais jamais descendre. Si un employeur accordait jusque-là des avantages supérieurs à ce que prévoit la convention collective de branche (qu'il commence à appliquer ou qui vient d'être étendue), il ne peut pas utiliser l'application de la convention pour réduire ces avantages. Les avantages individuels acquis sont protégés. Le principe de faveur s'applique pleinement."
+    },
+    {
+      "question": "Qu'est-ce qu'un usage d'entreprise et peut-il être remplacé par une convention collective moins favorable ?",
+      "choix": [
+        "C'est une pratique coutumière de l'entreprise ; oui, une convention collective peut le supprimer",
+        "C'est une pratique habituelle, générale et constante accordant des avantages aux salariés ; non, une convention collective moins favorable ne peut pas le supprimer sauf procédure de dénonciation spécifique",
+        "C'est le règlement intérieur de l'entreprise ; la convention collective peut le modifier librement",
+        "Ce sont les horaires habituels de l'entreprise ; ils ne peuvent jamais être modifiés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un usage est une pratique constante qui crée des droits pour les salariés.",
+        "Le principe de faveur protège aussi les usages.",
+        "Pour supprimer un usage, une procédure spécifique est nécessaire."
+      ],
+      "explication": "Un usage d'entreprise est une pratique habituelle, générale et constante qui accorde des avantages aux salariés — comme le versement d'une prime de Noël non prévue par la convention ou le contrat. Les usages créent des droits pour les salariés. Une convention collective moins favorable ne peut pas automatiquement supprimer un usage plus favorable : le principe de faveur protège aussi les usages. Pour mettre fin à un usage, l'employeur doit suivre une procédure de dénonciation spécifique avec préavis et information des représentants des travailleurs."
+    },
+    {
+      "question": "Vrai ou faux : à Madagascar, les fonctionnaires sont soumis au Code du Travail et peuvent conclure des conventions collectives au même titre que les salariés du secteur privé.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les fonctionnaires ont leur propre statut.",
+        "Le Code du Travail est principalement destiné au secteur privé.",
+        "Les fonctionnaires et les marins ont leurs propres codes."
+      ],
+      "explication": "Faux. À Madagascar, les fonctionnaires ne sont pas soumis au Code du Travail mais à leur statut général de la fonction publique. Les marins ont également leur propre code. Le Code du Travail s'applique aux relations de travail entre employeurs et salariés du secteur privé. Les conditions de travail des fonctionnaires sont déterminées par voie réglementaire (statuts, décrets) et non par convention collective au sens du Code du Travail. Certains agents contractuels de l'État peuvent toutefois être soumis au Code du Travail."
+    },
+    {
+      "question": "Que contient généralement la grille salariale d'une convention collective malgache ?",
+      "choix": [
+        "Le salaire exact de chaque salarié nommément désigné",
+        "Les salaires minimaux par catégorie professionnelle, que les entreprises ne peuvent pas verser en dessous",
+        "Les salaires maximaux que les entreprises sont autorisées à verser",
+        "Une recommandation de salaires que les entreprises peuvent ignorer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La convention fixe des planchers, pas des plafonds.",
+        "Chaque catégorie a son propre minimum.",
+        "Ces minima s'imposent à toutes les entreprises du champ d'application."
+      ],
+      "explication": "La grille salariale d'une convention collective fixe les salaires minimaux par catégorie professionnelle. C'est-à-dire le minimum en dessous duquel aucune entreprise relevant du champ d'application de la convention ne peut rémunérer un salarié de cette catégorie. Ces minimaux sont des planchers — les entreprises peuvent payer plus, jamais moins. Les salaires réels dans les entreprises sont souvent supérieurs aux minima conventionnels, surtout dans les grandes entreprises ou les secteurs attractifs."
+    },
+    {
+      "question": "Quel est l'avantage, pour un salarié, de travailler dans une entreprise couverte par une convention collective de branche bien négociée ?",
+      "choix": [
+        "Il est automatiquement membre du syndicat signataire de la convention",
+        "Il bénéficie de droits supérieurs au minimum légal (salaires, congés, primes, protection en cas de licenciement) sans avoir à les négocier individuellement",
+        "Il ne peut pas être licencié sans l'accord de son syndicat",
+        "Son salaire est payé directement par le fonds de la branche"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La convention s'applique automatiquement.",
+        "Elle améliore les conditions au-delà du minimum légal.",
+        "Elle évite au salarié de devoir négocier seul face à l'employeur."
+      ],
+      "explication": "L'avantage principal pour le salarié est de bénéficier automatiquement de droits supérieurs au minimum légal — salaires plus élevés, primes d'ancienneté, congés supplémentaires, procédures disciplinaires plus protectrices, indemnités de licenciement améliorées — sans avoir à les négocier individuellement face à son employeur. La négociation collective lui confère une protection qu'il n'aurait pas pu obtenir seul, compte tenu du rapport de force inégal avec l'employeur. C'est la raison d'être fondamentale des conventions collectives."
+    },
+    {
+      "question": "Récapitulatif final : parmi les affirmations suivantes, laquelle est FAUSSE en droit malgache des conventions collectives ?",
+      "choix": [
+        "Une convention collective doit être obligatoirement rédigée par écrit",
+        "Le Comité d'Entreprise représente les travailleurs dans les établissements de moins de 50 salariés",
+        "L'extension d'une convention collective est décidée par l'autorité publique",
+        "Une convention collective peut prévoir des droits supérieurs au minimum légal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Lisez attentivement chaque affirmation.",
+        "L'une d'elles inverse les seuils d'effectifs.",
+        "Rappelez-vous qui représente les travailleurs selon la taille de l'établissement."
+      ],
+      "explication": "L'affirmation fausse est la deuxième : 'Le Comité d'Entreprise représente les travailleurs dans les établissements de moins de 50 salariés.' C'est l'inverse — le Comité d'Entreprise représente les travailleurs dans les établissements de 50 salariés ou plus. En dessous de 50 salariés, ce sont les délégués du personnel qui représentent les travailleurs. Les trois autres affirmations sont vraies : la convention est nécessairement écrite ; l'extension est une décision de l'autorité publique ; et une convention peut prévoir des droits supérieurs au minimum légal."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : La société TEXTILE MADA SA emploie 120 travailleurs dans son usine d'Antananarivo. Elle est soumise à la convention collective de branche du secteur textile, qui prévoit un salaire minimum de 400 000 Ariary pour les ouvriers qualifiés de niveau II, un préavis de 45 jours pour cette catégorie en cas de licenciement, et une prime d'ancienneté de 2 % par année complète d'ancienneté plafonnée à 30 %. M. Rakoto, ouvrier qualifié de niveau II avec 8 ans d'ancienneté, a un contrat individuel qui prévoit un salaire de 380 000 Ariary, un préavis de 60 jours et aucune mention de prime d'ancienneté. Il vient d'être licencié. Questions : (1) Quel salaire aurait dû percevoir M. Rakoto pendant son emploi ? Pourquoi ? (2) Quel est le préavis applicable à son licenciement ? (3) A-t-il droit à une prime d'ancienneté, et si oui, de quel montant ? (4) Qui peut-il saisir pour faire respecter ses droits ?",
+      "choix": [
+        "Son contrat prévaut sur tout, donc 380 000 Ar, 60 jours de préavis, et pas de prime.",
+        "(1) 400 000 Ar (la convention prime car plus favorable). (2) 60 jours de préavis (le contrat prime car plus favorable que les 45 jours conventionnels). (3) Oui : 2 % × 8 ans = 16 % × 400 000 = 64 000 Ar par mois. (4) L'Inspection du Travail et/ou le Tribunal du Travail.",
+        "(1) 380 000 Ar. (2) 45 jours. (3) Non. (4) Le CNT.",
+        "(1) 400 000 Ar. (2) 45 jours. (3) 16 % de 380 000 Ar. (4) Le Ministère du Travail uniquement."
+      ],
+      "reponse": 1,
+      "indices": [
+        "Appliquez le principe de faveur pour chaque élément séparément.",
+        "Pour le salaire : comparez 380 000 (contrat) et 400 000 (convention). Lequel est plus favorable ?",
+        "Pour le préavis : comparez 60 jours (contrat) et 45 jours (convention). Lequel est plus favorable ?",
+        "Pour la prime d'ancienneté : elle est prévue par la convention — le silence du contrat ne l'efface pas."
+      ],
+      "explication": "(1) Salaire : M. Rakoto aurait dû percevoir 400 000 Ariary — le minimum conventionnel. Son contrat prévoyait 380 000 Ariary, ce qui est inférieur au minimum de la convention collective applicable. En vertu du principe de faveur, c'est la norme la plus favorable qui s'applique : la convention collective prime sur le contrat individuel dès qu'elle est plus favorable. Le contrat individuel ne peut pas descendre en dessous du minimum conventionnel. L'employeur devra les arriérés de salaire correspondant à la différence de 20 000 Ariary par mois sur toute la durée du contrat. (2) Préavis : le préavis applicable est 60 jours — celui prévu par le contrat individuel, qui est plus favorable que les 45 jours de la convention. Le principe de faveur s'applique ici aussi : le contrat individuel peut améliorer la convention. 60 jours > 45 jours, donc le contrat prime. M. Rakoto a droit à 60 jours de préavis, pas seulement 45. (3) Prime d'ancienneté : Oui. La prime d'ancienneté est prévue par la convention collective, qui s'applique automatiquement à M. Rakoto. Le silence du contrat individuel sur ce point ne supprime pas ce droit conventionnel. Le montant : 2 % × 8 années complètes d'ancienneté = 16 %. Cette prime se calcule sur le salaire minimum conventionnel de sa catégorie : 16 % × 400 000 = 64 000 Ariary par mois. Ce montant lui est dû depuis sa 1ère année complète d'ancienneté, avec une progression annuelle. (4) Pour faire respecter ses droits, M. Rakoto peut saisir l'Inspection du Travail (contrôle administratif) et/ou le Tribunal du Travail (contrôle judiciaire) pour obtenir le paiement des arriérés de salaire, la prime d'ancienneté non versée et le respect du préavis. Le syndicat de sa branche peut également l'assister et agir à ses côtés."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Le syndicat FIMPITOAVANA, représentatif des travailleurs du secteur minier à Madagascar, a négocié avec l'association des employeurs miniers une convention collective de branche prévoyant notamment : une prime de risque de 20 % pour les travailleurs exposés aux produits chimiques, un préavis de 3 mois pour tous les agents de maîtrise, et une durée du travail de 44 heures par semaine (au lieu des 40 heures légales). La mine AMBATOVY SA applique cette convention. Cependant : (a) son directeur refuse de payer la prime de risque aux techniciens de laboratoire qui manipulent des produits chimiques, estimant que leur travail n'est 'pas assez dangereux' ; (b) il souhaite conclure des contrats individuels avec les nouveaux agents de maîtrise prévoyant un préavis de 2 mois pour 'simplifier les procédures' ; (c) la convention prévoit 44 heures par semaine alors que la loi prévoit 40 heures — est-ce légal ? Analysez chacune des trois situations.",
+      "choix": [
+        "Les trois situations sont légales : l'employeur a le droit d'interpréter la convention et d'adapter les contrats.",
+        "(a) Le refus de la prime est illégal : la convention s'applique objectivement sans que l'employeur puisse l'interpréter subjectivement. (b) Les contrats à 2 mois sont nuls sur ce point : on ne peut pas descendre en dessous du minimum conventionnel de 3 mois. (c) La clause de 44 heures est illégale : une convention ne peut déroger à la loi qu'en faveur des travailleurs, jamais à leur détriment.",
+        "(a) Légal si l'employeur a de bonnes raisons. (b) Légal car les parties sont d'accord. (c) Légal car la convention a négocié librement.",
+        "(a) Illégal. (b) Légal. (c) Légal car cela correspond à la pratique sectorielle."
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pour (a) : la convention s'applique objectivement à ceux qu'elle vise. Qui décide de son interprétation ?",
+        "Pour (b) : appliquez le principe de faveur entre le contrat individuel (2 mois) et la convention (3 mois).",
+        "Pour (c) : appliquez le principe de faveur entre la loi (40 heures) et la convention (44 heures). Qui est favorisé ?"
+      ],
+      "explication": "(a) Le refus de payer la prime de risque aux techniciens de laboratoire est ILLÉGAL. La convention collective s'applique objectivement à toutes les personnes entrant dans son champ d'application. Si la convention prévoit une prime pour les travailleurs 'exposés aux produits chimiques', l'employeur ne peut pas unilatéralement décider que certains travailleurs ne sont 'pas assez exposés' pour en bénéficier. L'interprétation de la convention appartient aux parties qui l'ont négociée et, en cas de litige, au Tribunal du Travail — pas à l'employeur seul. Les techniciens de laboratoire manipulant des produits chimiques entrent dans le champ de la clause. Le refus de payer constitue une infraction aux obligations conventionnelles, ouvrant droit à une action devant l'Inspection du Travail ou le Tribunal du Travail. (b) Les contrats prévoyant un préavis de 2 mois pour les agents de maîtrise sont NULS sur ce point. La convention collective prévoit un préavis de 3 mois pour les agents de maîtrise. En vertu du principe de faveur, le contrat individuel ne peut pas prévoir un préavis inférieur au minimum conventionnel — ce serait moins favorable au salarié. Même si l'employeur et le salarié sont d'accord, le consentement ne peut pas permettre de renoncer à une protection conventionnelle. La clause contractuelle de 2 mois est donc nulle et sera remplacée automatiquement par le minimum conventionnel de 3 mois. Le salarié pourra toujours réclamer les 3 mois en cas de licenciement. (c) La clause conventionnelle de 44 heures par semaine est ILLÉGALE. Le principe de faveur est ici décisif : une convention collective ne peut déroger à la loi qu'en faveur des travailleurs. La durée légale du travail est de 40 heures par semaine — c'est un minimum légal protecteur des travailleurs. Imposer 44 heures est défavorable aux travailleurs par rapport à la loi. La convention ne peut donc pas prévoir une durée de travail supérieure à la durée légale. Cette clause est nulle et c'est la limite légale de 40 heures qui s'applique. Les heures effectuées entre 40 et 44 heures constitueraient des heures supplémentaires à majorer selon les règles légales."
+    }
+  ]
+}
