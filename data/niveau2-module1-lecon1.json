@@ -1,0 +1,910 @@
+{
+  "titre": "La SARL et la SA : deux formes sociales à risque limité",
+  "module": "Module 2 (Niveau Intermédiaire) — La SARL et la SA",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Deux formes à responsabilité limitée, mais de logiques différentes",
+      "texte": "Après avoir étudié les généralités du droit des sociétés, ce module entre dans le détail de deux formes sociales parmi les plus utilisées à Madagascar : la société à responsabilité limitée (SARL) et la société anonyme (SA). Ces deux formes ont un point commun essentiel : dans l'une comme dans l'autre, les associés ou actionnaires ne sont responsables des dettes sociales qu'à concurrence de leurs apports. Mais leur logique interne diffère profondément. La SARL, on l'a vu, est une forme hybride : elle conserve un fort intuitu personae (l'identité des associés compte, la cession de parts à des tiers est encadrée), tout en limitant le risque financier de chacun. La SA, en revanche, est une véritable société de capitaux, pensée pour réunir des capitaux importants auprès d'actionnaires qui n'ont pas nécessairement de lien personnel entre eux, avec des actions plus facilement cessibles. La loi malgache n° 2003-036 du 30 janvier 2004 sur les sociétés commerciales, modifiée notamment par la loi n° 2014-010 du 21 août 2014, régit ces deux formes selon des règles précises qu'il faut maîtriser avec rigueur, car des erreurs de chiffres ou de seuils peuvent avoir des conséquences pratiques importantes.",
+      "definition": "SARL et SA : deux formes sociales où la responsabilité des associés/actionnaires est limitée à leurs apports. La SARL conserve un intuitu personae fort (forme hybride) ; la SA est une société de capitaux ouverte, conçue pour réunir des capitaux importants. Les deux sont commerciales par leur forme, quel que soit leur objet (article 3 de la loi n° 2003-036)."
+    },
+    {
+      "titre": "La SARL : définition légale et nombre d'associés",
+      "texte": "La société à responsabilité limitée est une société dans laquelle les associés ne sont responsables des dettes sociales qu'à concurrence de leurs apports, et dont les droits sont représentés par des parts sociales. Conformément au principe général posé par l'article premier de la loi sur les sociétés commerciales, une société commerciale est en principe instituée par deux personnes au moins. Mais la loi malgache a innové, dès 2004, en autorisant la constitution d'une SARL par une seule personne : c'est la SARL unipersonnelle, où l'associé unique — personne physique ou morale — établit la société par un acte écrit. La SARL peut donc compter un seul associé, ou plusieurs, sans qu'un nombre maximum ne soit imposé par la loi. C'est l'une des raisons du grand succès pratique de cette forme sociale à Madagascar : elle convient aussi bien à un entrepreneur individuel souhaitant protéger son patrimoine personnel qu'à une entreprise familiale réunissant plusieurs membres, ou à des associés extérieurs à la famille.",
+      "definition": "SARL : société dans laquelle les associés ne sont responsables des dettes sociales qu'à concurrence de leurs apports, les droits des associés étant représentés par des parts sociales. Elle peut être constituée par un associé unique (SARL unipersonnelle) ou par plusieurs associés, sans maximum légal de nombre d'associés.",
+      "exemple": "Rasoa souhaite créer seule une entreprise de transformation agroalimentaire à Antsiranana tout en protégeant son patrimoine personnel en cas de difficultés. Elle peut constituer une SARL unipersonnelle, dont elle sera l'associée unique, par un simple acte écrit établissant les statuts."
+    },
+    {
+      "titre": "La SARL : le capital social",
+      "texte": "Le capital social de la SARL est divisé en parts sociales. Historiquement, depuis l'entrée en vigueur de la loi de 2004, un capital minimum légal était imposé pour constituer une SARL. Mais ce système a été profondément réformé par la loi n° 2014-010 du 21 août 2014, qui a modifié les dispositions relatives au capital social de la SARL afin de supprimer l'exigence d'un capital minimum légal fixé par la réglementation. Depuis cette réforme, le montant du capital social d'une SARL est librement déterminé par les associés dans les statuts, sans seuil plancher imposé par la loi. Cette évolution s'explique par la volonté du législateur de lever un obstacle à la création d'entreprises : exiger un capital minimum élevé décourageait de nombreux porteurs de projets, en particulier les petites structures. Les apports faits à la SARL peuvent être des apports en numéraire (une somme d'argent) ou des apports en nature (un bien autre que de l'argent) ; ces deux types d'apports doivent être intégralement libérés dès la constitution de la société, c'est-à-dire que les sommes ou les biens promis doivent être effectivement versés ou transférés à la société sans délai de paiement différé.",
+      "definition": "Capital social de la SARL : librement fixé par les associés dans les statuts depuis la réforme de la loi n° 2014-010 (aucun capital minimum légal imposé). Les apports en numéraire et en nature doivent être intégralement libérés (versés ou transférés) dès la constitution de la société, sans possibilité de paiement différé.",
+      "exemple": "Trois associés créent une SARL avec un capital social de 2 000 000 ariary, librement choisi par eux dans les statuts puisqu'aucun minimum légal ne s'impose à eux. Ce montant doit être intégralement versé à la société au moment de sa constitution, et non en plusieurs fois sur plusieurs années."
+    },
+    {
+      "titre": "La SARL : un apport réservé aux sociétés de personnes — l'apport en industrie",
+      "texte": "Il existe une nuance importante, souvent ignorée, concernant les types d'apports admis dans une SARL. La loi distingue trois types d'apports possibles de façon générale : l'apport en numéraire, l'apport en nature, et l'apport en industrie. Mais ce dernier — l'apport du travail, des compétences ou du savoir-faire d'un associé — est expressément rattaché par la loi aux sociétés de personnes (comme la société en nom collectif), et non aux sociétés de capitaux comme la SARL ou la SA. Concrètement, cela signifie qu'un associé d'une SARL ne peut pas faire entrer ses seules compétences professionnelles dans le calcul du capital social de la société, contrairement à ce qui serait possible dans une société de personnes. Cette règle se comprend aisément : le capital social d'une SARL ou d'une SA constitue une garantie patrimoniale pour les créanciers, puisque la responsabilité des associés y est limitée à leurs apports — il doit donc être composé d'éléments ayant une valeur patrimoniale certaine et cessible, ce qui n'est pas le cas du travail futur d'une personne.",
+      "definition": "Apport en industrie : apport du travail, des compétences ou du savoir-faire d'un associé, réservé par la loi aux sociétés de personnes. Il n'entre pas dans la composition du capital social d'une SARL ou d'une SA, qui ne peut être formé que d'apports en numéraire et en apports en nature.",
+      "exemple": "Mamisoa, expert en informatique, souhaite s'associer dans une SARL en n'apportant que ses compétences techniques, sans argent ni bien matériel. Cet apport en industrie ne pourra pas entrer dans le calcul du capital social de la SARL ; Mamisoa devra, s'il veut devenir associé à part entière au capital, réaliser un apport en numéraire ou en nature, ou alors convenir d'un autre mécanisme contractuel pour valoriser sa contribution en travail."
+    },
+    {
+      "titre": "La SARL : la gérance",
+      "texte": "La SARL est gérée par une ou plusieurs personnes physiques, associées de la société ou non. C'est une règle stricte : contrairement à une société de capitaux pure, le gérant d'une SARL ne peut pas être une personne morale — il doit nécessairement s'agir d'un être humain. Le ou les gérants assurent la direction de la société et la représentent dans ses rapports avec les tiers, avec des pouvoirs étendus pour engager la société, dans les limites fixées par l'objet social. Concernant la révocation du gérant, la loi prévoit une procédure précise : le gérant peut être révoqué par une décision des associés représentant plus de la moitié des parts sociales. Si cette majorité n'est pas atteinte par un premier vote, une seconde consultation peut avoir lieu à la majorité des votes émis, sauf clause contraire des statuts. Le gérant peut également être révoqué par le tribunal de commerce, à la demande de tout associé, pour cause légitime. Un point important pour la pratique : si la révocation est décidée sans juste motif, le gérant révoqué peut prétendre à des dommages-intérêts en réparation du préjudice subi du fait de cette révocation abusive.",
+      "definition": "Gérance de la SARL : assurée par une ou plusieurs personnes physiques (jamais une personne morale), associées ou non. Révocation : par décision des associés représentant plus de la moitié des parts sociales, ou par le tribunal de commerce pour cause légitime. Une révocation sans juste motif ouvre droit à des dommages-intérêts pour le gérant révoqué.",
+      "exemple": "Les associés d'une SARL familiale décident, lors d'une assemblée, de révoquer leur gérant en raison de fautes de gestion répétées. La décision est prise par des associés représentant 60 % des parts sociales : la majorité requise (plus de la moitié) est atteinte, la révocation est régulière. Si les fautes invoquées sont avérées, le gérant ne pourra prétendre à aucune indemnité, la révocation étant fondée sur un juste motif."
+    },
+    {
+      "titre": "La SARL : la cession des parts sociales",
+      "texte": "La cession des parts sociales d'une SARL illustre concrètement l'intuitu personae qui caractérise cette forme sociale. Entre associés, ou au profit du conjoint, d'un ascendant ou d'un descendant d'un associé, la cession des parts est en principe libre, sans qu'un agrément des autres associés soit nécessaire — la loi présumant que ces personnes proches ne menacent pas l'équilibre relationnel de la société. En revanche, la cession de parts sociales à un tiers étranger à la société — une personne qui n'est ni associée, ni membre de la famille proche d'un associé — est subordonnée au consentement de la majorité des associés, représentant au moins une majorité des parts sociales, selon les modalités précises fixées par les statuts dans le respect du cadre légal. Cette procédure d'agrément protège les associés restants contre l'arrivée d'un nouvel associé qu'ils n'auraient pas choisi. Si l'agrément est refusé, des mécanismes de rachat des parts par les autres associés ou par la société elle-même peuvent être mis en œuvre, afin de permettre à l'associé cédant de sortir de la société tout en respectant l'équilibre voulu par les autres.",
+      "definition": "Cession de parts sociales de SARL : libre entre associés, et au profit du conjoint, des ascendants ou descendants d'un associé. Soumise à l'agrément de la majorité des associés (représentant une majorité des parts) pour toute cession à un tiers étranger à la société. En cas de refus d'agrément, des mécanismes de rachat des parts permettent à l'associé cédant de se retirer.",
+      "exemple": "Un associé d'une SARL familiale souhaite céder ses parts à son fils : cette cession est libre, sans agrément requis. S'il souhaite les céder à un ami extérieur à la famille et non associé, il devra obtenir l'accord de la majorité des autres associés selon la procédure prévue par les statuts."
+    },
+    {
+      "titre": "La SA : définition légale et formes possibles",
+      "texte": "La société anonyme est une société dans laquelle les actionnaires ne sont responsables des dettes sociales qu'à concurrence de leurs apports, et dont les droits sont représentés par des actions. Comme la SARL, la SA est toujours commerciale par sa forme, quel que soit son objet réel. Et comme la SARL, la loi malgache de 2004 a innové en autorisant la création d'une société anonyme unipersonnelle, comportant un seul actionnaire. Une SA peut donc être constituée soit par un actionnaire unique, soit par plusieurs actionnaires, sans nombre maximum fixé par la loi elle-même. Cette ouverture à l'unipersonnalité, tant pour la SARL que pour la SA, est l'une des innovations majeures de la réforme malgache de 2004 par rapport au droit antérieur, qui imposait systématiquement une pluralité d'associés ou d'actionnaires. La SA se distingue toutefois fondamentalement de la SARL par son régime de capital, ses modes d'administration et ses règles relatives aux titres émis, que nous allons détailler.",
+      "definition": "SA : société dans laquelle les actionnaires ne sont responsables des dettes sociales qu'à concurrence de leurs apports, les droits étant représentés par des actions. Toujours commerciale par sa forme. Peut être constituée par un actionnaire unique (société anonyme unipersonnelle) ou par plusieurs actionnaires, sans maximum légal."
+    },
+    {
+      "titre": "La SA : le capital social et la libération des apports",
+      "texte": "Contrairement à la SARL, la société anonyme reste soumise à une exigence de capital minimum légal, qui n'a pas été supprimée par la réforme de 2014 — celle-ci n'ayant porté que sur le régime spécifique de la SARL. Le capital social d'une SA pluripersonnelle (avec plusieurs actionnaires) doit être au moins de 10 000 000 ariary. Pour une société anonyme unipersonnelle, comportant un seul actionnaire, ce minimum est réduit à 2 000 000 ariary. La SA présente par ailleurs une particularité importante concernant la libération des apports en numéraire, que ne connaît pas la SARL : alors que les apports en nature doivent être intégralement libérés dès la constitution de la société, les apports en numéraire peuvent n'être que partiellement libérés à la souscription. La loi exige seulement la libération d'au moins un quart de la valeur nominale des actions de numéraire au moment de la souscription. Le solde, c'est-à-dire les trois quarts restants, doit ensuite être versé dans un délai de trois ans à compter de l'immatriculation de la société au registre du commerce et des sociétés, selon les modalités d'appel de fonds décidées par les organes de gestion.",
+      "definition": "Capital social de la SA : minimum légal de 10 000 000 ariary (SA pluripersonnelle) ou 2 000 000 ariary (SA unipersonnelle). Les apports en numéraire peuvent être libérés seulement à hauteur d'un quart au moins lors de la souscription, le solde devant être versé dans un délai de trois ans à compter de l'immatriculation ; les apports en nature, en revanche, doivent toujours être intégralement libérés dès la constitution.",
+      "exemple": "Une SA est constituée avec trois actionnaires et un capital social de 40 000 000 ariary, entièrement composé d'apports en numéraire. Les actionnaires ne sont tenus de verser, au moment de la souscription, qu'un quart de cette somme, soit 10 000 000 ariary au minimum. Le solde de 30 000 000 ariary devra être versé dans les trois années suivant l'immatriculation de la société, selon les appels de fonds décidés par les dirigeants."
+    },
+    {
+      "titre": "La SA : deux modes d'administration possibles",
+      "texte": "Une particularité notable du droit malgache des sociétés, qui distingue nettement la SA de la SARL, réside dans le choix entre deux modes d'administration. La société anonyme peut être administrée soit par un conseil d'administration, organe collégial composé de plusieurs membres qui élit en son sein un président, soit par un administrateur général, personne physique unique assurant seule l'administration et la direction générale de la société. Ce second mode, plus souple, est conçu pour les sociétés anonymes de petite taille, comportant un nombre réduit d'actionnaires : lorsque le nombre d'actionnaires d'une société anonyme est inférieur à trois, celle-ci ne peut en principe pas constituer un véritable conseil d'administration collégial, et doit recourir à un administrateur général unique. Ce choix entre les deux modes d'administration est une décision structurante prise par les actionnaires, et il a des conséquences sur l'ensemble du fonctionnement de la société : la dénomination et les pouvoirs des dirigeants, la procédure de prise de décision, les modalités de contrôle, et même certaines obligations comme l'interdiction de l'appel public à l'épargne pour les SA sans conseil d'administration.",
+      "definition": "Modes d'administration de la SA : (1) le conseil d'administration, organe collégial avec un président, adapté aux sociétés à plusieurs actionnaires ; (2) l'administrateur général, personne physique unique assurant seule l'administration et la direction générale, notamment lorsque le nombre d'actionnaires est inférieur à trois. Ce choix conditionne plusieurs règles de fonctionnement de la société.",
+      "exemple": "Deux amis créent ensemble une société anonyme pour développer une activité d'import-export. Comme leur SA ne compte que deux actionnaires — moins de trois — ils ne peuvent constituer un conseil d'administration classique : ils doivent désigner un administrateur général unique, qui assurera seul l'administration et la direction de la société."
+    },
+    {
+      "titre": "La SA : les actions et l'appel public à l'épargne",
+      "texte": "Les titres émis par une société anonyme s'appellent des actions ; elles sont en principe négociables, ce qui les distingue des parts sociales de la SARL, plus difficilement cessibles. Seules les sociétés anonymes peuvent légalement émettre des titres négociables : toute émission de ce type de titres par une autre forme sociale est frappée de nullité. Cette négociabilité facilite la circulation du capital entre actionnaires, ou avec des tiers, selon les clauses prévues par les statuts. La loi malgache encadre par ailleurs précisément la notion d'appel public à l'épargne, qui consiste à offrir des titres au public au-delà du cercle restreint des fondateurs et de leurs proches. Il y a appel public à l'épargne notamment lorsqu'une société recourt à des établissements de crédit, à des agents de change ou à des procédés de publicité pour diffuser ses titres, ou encore dès que la diffusion de ces titres dépasse un cercle de cinquante personnes. Or, la loi interdit formellement l'appel public à l'épargne à certaines catégories de sociétés : les sociétés à responsabilité limitée, les sociétés unipersonnelles, et les sociétés anonymes qui n'ont pas de conseil d'administration — c'est-à-dire celles administrées par un simple administrateur général. Seules les sociétés anonymes pluripersonnelles dotées d'un véritable conseil d'administration peuvent donc, sous conditions, faire appel public à l'épargne.",
+      "definition": "Action : titre négociable émis par la SA, seule forme sociale habilitée à émettre des titres négociables. Appel public à l'épargne : offre de titres au public, caractérisée notamment par le recours à des intermédiaires financiers, à la publicité, ou par une diffusion dépassant un cercle de cinquante personnes. Il est interdit aux SARL, aux sociétés unipersonnelles et aux SA sans conseil d'administration.",
+      "exemple": "Une société anonyme pluripersonnelle, dotée d'un conseil d'administration, souhaite lever des fonds en proposant ses actions à plus de cinquante investisseurs potentiels par voie de publicité. Cette opération constitue un appel public à l'épargne, qui lui est en principe ouvert. Une SARL ou une SA administrée par un simple administrateur général ne pourrait pas recourir à un tel procédé."
+    },
+    {
+      "titre": "Règles communes : réserve légale et commissaire aux comptes",
+      "texte": "Au-delà de leurs différences, la SARL et la SA sont soumises à des règles communes destinées à protéger les associés, les actionnaires et les tiers créanciers. La première règle commune concerne la réserve légale : dans les sociétés à responsabilité limitée comme dans les sociétés par actions, la loi impose, sur le bénéfice de l'exercice diminué le cas échéant des pertes antérieures, un prélèvement d'au moins un vingtième (soit 5 %) destiné à constituer un fonds de réserve appelé réserve légale. Ce prélèvement obligatoire cesse dès que cette réserve atteint un dixième (soit 10 %) du capital social. Cette règle vise à renforcer progressivement les capitaux propres de la société, dans l'intérêt des créanciers comme de la pérennité de l'entreprise. La seconde règle commune concerne le contrôle par un commissaire aux comptes : dans une société anonyme, la désignation d'un commissaire aux comptes est une obligation systématique, quelle que soit la taille de la société. Dans une SARL, en revanche, cette obligation n'est imposée qu'au-delà de certains seuils fixés par la réglementation, liés notamment à l'importance du capital social, du chiffre d'affaires ou de l'effectif salarié de la société — en dessous de ces seuils, la nomination d'un commissaire aux comptes reste facultative.",
+      "definition": "Réserve légale : prélèvement obligatoire d'au moins 1/20e (5 %) du bénéfice de l'exercice, applicable aux SARL comme aux sociétés par actions, jusqu'à ce que la réserve atteigne 1/10e (10 %) du capital social. Commissaire aux comptes : obligatoire de façon systématique dans toute société anonyme ; obligatoire dans la SARL seulement au-delà de certains seuils réglementaires (capital, chiffre d'affaires, effectif).",
+      "exemple": "Une SARL réalise un bénéfice net de 4 000 000 ariary lors d'un exercice. Avant toute distribution aux associés, elle doit affecter au moins 200 000 ariary (un vingtième du bénéfice) à sa réserve légale, et ce jusqu'à ce que cette réserve atteigne un dixième de son capital social. Une SA, quelle que soit sa taille, doit dans tous les cas désigner un commissaire aux comptes ; une petite SARL n'y est tenue que si elle dépasse certains seuils légaux."
+    },
+    {
+      "titre": "Choisir entre SARL et SA : éléments de comparaison",
+      "texte": "Le choix entre la SARL et la SA dépend de plusieurs facteurs concrets que tout porteur de projet doit examiner. Le critère du contrôle de l'actionnariat est central : si les fondateurs souhaitent garder la maîtrise de l'identité de leurs partenaires et limiter les arrivées de tiers non désirés, la SARL, avec sa procédure d'agrément pour la cession des parts, sera mieux adaptée. Si au contraire l'objectif est d'ouvrir le capital à des investisseurs nombreux et de faciliter la circulation des titres, la SA, avec ses actions négociables et la possibilité de recourir, sous conditions, à l'appel public à l'épargne, sera préférable. Le critère du capital et des formalités compte également : la SARL, sans capital minimum légal depuis 2014, est plus accessible aux petits projets et aux entrepreneurs disposant de moyens limités au démarrage ; la SA, avec son capital minimum (10 000 000 ou 2 000 000 ariary selon le nombre d'actionnaires) et son obligation systématique de commissaire aux comptes, convient mieux à des projets de plus grande envergure, ou à des activités pour lesquelles la forme SA est exigée par une réglementation sectorielle particulière. Enfin, le critère de la gouvernance doit être pris en compte : la SARL est gérée de façon plus souple par un ou plusieurs gérants, tandis que la SA impose une organisation plus structurée, avec le choix entre un conseil d'administration collégial ou un administrateur général selon le nombre d'actionnaires.",
+      "definition": "Critères de choix entre SARL et SA : le degré de contrôle souhaité sur l'identité des associés (SARL plus protectrice), l'ampleur du projet et des moyens disponibles au démarrage (SARL plus accessible, sans capital minimum légal), le besoin d'ouverture du capital à des investisseurs nombreux (SA mieux adaptée, actions négociables), et la complexité de gouvernance acceptée (SARL plus souple, SA plus structurée)."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel est le point commun fondamental entre la SARL et la SA ?",
+      "choix": [
+        "Les deux exigent un capital minimum légal identique",
+        "Dans les deux formes, les associés ou actionnaires ne sont responsables des dettes sociales qu'à concurrence de leurs apports",
+        "Les deux interdisent la présence d'un seul associé ou actionnaire",
+        "Les deux sont gérées uniquement par un conseil d'administration"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est le trait commun le plus fondamental entre ces deux formes.",
+        "Il concerne le risque financier supporté par les membres de la société.",
+        "Ce trait les distingue des sociétés de personnes à risque illimité."
+      ],
+      "explication": "Le point commun fondamental entre la SARL et la SA est que, dans les deux formes, les associés ou actionnaires ne sont responsables des dettes sociales qu'à concurrence de leurs apports. C'est ce qui les classe parmi les sociétés à risque limité, par opposition aux sociétés de personnes où la responsabilité est souvent illimitée."
+    },
+    {
+      "question": "En quoi la SARL diffère-t-elle fondamentalement de la SA dans sa logique interne ?",
+      "choix": [
+        "La SARL n'a jamais de capital social, contrairement à la SA",
+        "La SARL conserve un fort intuitu personae, tandis que la SA est une véritable société de capitaux conçue pour réunir des capitaux auprès d'actionnaires sans lien personnel nécessaire",
+        "La SARL ne peut jamais avoir plus d'un associé",
+        "La SA ne peut jamais être commerciale par sa forme"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La SARL est qualifiée de forme hybride dans le module précédent.",
+        "La SA est pensée pour ouvrir le capital, pas pour le restreindre.",
+        "L'intuitu personae caractérise la considération de la personne des associés."
+      ],
+      "explication": "La SARL conserve un fort intuitu personae : l'identité des associés compte, et la cession de parts à des tiers est encadrée. La SA, en revanche, est une véritable société de capitaux, pensée pour réunir des capitaux importants auprès d'actionnaires qui n'ont pas nécessairement de lien personnel entre eux, avec des actions plus facilement cessibles."
+    },
+    {
+      "question": "Quelle loi malgache régit principalement la SARL et la SA, et par quel texte a-t-elle été notablement modifiée ?",
+      "choix": [
+        "La loi n° 2003-036 du 30 janvier 2004, modifiée notamment par la loi n° 2014-010 du 21 août 2014",
+        "Le Code civil malgache uniquement, sans loi spéciale",
+        "La loi n° 90-031 sur la communication",
+        "Une simple ordonnance présidentielle de 1995"
+      ],
+      "reponse": 0,
+      "indices": [
+        "C'est la loi sur les sociétés commerciales, citée à plusieurs reprises dans ce module.",
+        "Une réforme importante est intervenue dix ans après son entrée en vigueur.",
+        "Cette réforme a notamment modifié le régime du capital social de la SARL."
+      ],
+      "explication": "La SARL et la SA sont régies par la loi n° 2003-036 du 30 janvier 2004 sur les sociétés commerciales, modifiée notamment par la loi n° 2014-010 du 21 août 2014, qui a notamment supprimé l'exigence d'un capital minimum légal pour la SARL."
+    },
+    {
+      "question": "Combien d'associés au minimum sont nécessaires pour constituer une SARL à Madagascar ?",
+      "choix": [
+        "Deux associés au minimum, sans aucune exception possible",
+        "Un seul associé suffit, la SARL pouvant être unipersonnelle, ou plusieurs associés sans maximum légal",
+        "Cinq associés au minimum",
+        "Aucun minimum n'est fixé par la loi"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi malgache a innové en 2004 sur ce point précis.",
+        "Une SARL peut être constituée par un associé unique.",
+        "Au-delà de l'associé unique, il n'y a pas de plafond légal du nombre d'associés."
+      ],
+      "explication": "Une SARL peut être constituée par un seul associé (SARL unipersonnelle) ou par plusieurs associés, sans nombre maximum imposé par la loi. C'est l'une des innovations de la loi n° 2003-036 par rapport au droit antérieur, qui imposait systématiquement une pluralité d'associés."
+    },
+    {
+      "question": "Qu'est-ce qu'une SARL unipersonnelle ?",
+      "choix": [
+        "Une SARL gérée par une seule personne, quel que soit le nombre d'associés",
+        "Une SARL constituée par un seul associé, personne physique ou morale, par un acte écrit",
+        "Une SARL qui n'a qu'un seul salarié",
+        "Une SARL dont le capital social est inférieur à 1 000 000 ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le terme renvoie au nombre d'associés, pas au nombre de dirigeants ou de salariés.",
+        "Un associé unique, personne physique ou morale, peut établir cette société.",
+        "Cette possibilité est une innovation de la loi malgache de 2004."
+      ],
+      "explication": "Une SARL unipersonnelle est une SARL constituée par un seul associé — personne physique ou morale — qui établit la société par un acte écrit. Cette possibilité permet à un entrepreneur individuel de bénéficier de la responsabilité limitée propre à la SARL, sans avoir besoin de s'associer avec une autre personne."
+    },
+    {
+      "question": "Depuis quelle réforme le capital social minimum légal de la SARL a-t-il été supprimé à Madagascar ?",
+      "choix": [
+        "Depuis l'entrée en vigueur initiale de la loi n° 2003-036 en 2004",
+        "Depuis la réforme opérée par la loi n° 2014-010 du 21 août 2014",
+        "Le capital minimum légal de la SARL n'a jamais existé à Madagascar",
+        "Depuis l'indépendance de Madagascar en 1960"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une exigence de capital minimum existait initialement dans la loi de 2004.",
+        "Cette exigence a été supprimée dix ans plus tard.",
+        "Le but était de lever un obstacle à la création d'entreprises."
+      ],
+      "explication": "Le capital minimum légal de la SARL, qui existait initialement sous l'empire de la loi de 2004, a été supprimé par la réforme opérée par la loi n° 2014-010 du 21 août 2014. Depuis cette réforme, le capital social de la SARL est librement fixé par les associés dans les statuts."
+    },
+    {
+      "question": "Quel est, aujourd'hui, le montant du capital social minimum légal exigé pour constituer une SARL à Madagascar ?",
+      "choix": [
+        "10 000 000 ariary obligatoirement",
+        "1 000 000 ariary obligatoirement",
+        "Aucun montant minimum légal n'est imposé : le capital est librement fixé par les associés dans les statuts",
+        "100 000 000 ariary obligatoirement"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Cette question fait directement suite à la réforme de 2014.",
+        "La SARL se distingue ici nettement de la SA, qui conserve un minimum légal.",
+        "Les associés décident eux-mêmes du montant, dans les statuts."
+      ],
+      "explication": "Depuis la réforme de 2014, aucun montant minimum légal n'est imposé pour le capital social d'une SARL à Madagascar : il est librement fixé par les associés dans les statuts. C'est une différence majeure avec la société anonyme, qui reste soumise à un capital minimum légal."
+    },
+    {
+      "question": "Quels sont les deux types d'apports qui composent normalement le capital social d'une SARL ou d'une SA ?",
+      "choix": [
+        "L'apport en numéraire et l'apport en industrie uniquement",
+        "L'apport en numéraire et l'apport en nature",
+        "L'apport en industrie et l'apport en nature uniquement",
+        "Uniquement l'apport en numéraire, à l'exclusion de tout autre type"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un est un apport d'argent, l'autre un apport de bien.",
+        "Le troisième type d'apport classique est réservé à une autre catégorie de sociétés.",
+        "Ce troisième type n'entre pas dans le capital de la SARL ou de la SA."
+      ],
+      "explication": "Le capital social d'une SARL ou d'une SA est normalement composé d'apports en numéraire (somme d'argent) et d'apports en nature (biens autres que de l'argent). L'apport en industrie (travail, compétences) est réservé par la loi aux sociétés de personnes et n'entre pas dans le calcul du capital social de ces deux formes."
+    },
+    {
+      "question": "Pourquoi l'apport en industrie n'entre-t-il pas dans le capital social d'une SARL ou d'une SA ?",
+      "choix": [
+        "Parce que la loi l'interdit purement et simplement dans toutes les formes de sociétés",
+        "Parce que le capital social constitue une garantie patrimoniale pour les créanciers et doit être composé d'éléments ayant une valeur patrimoniale certaine et cessible, ce que n'est pas le travail futur d'une personne",
+        "Parce que les associés ne travaillent jamais dans une SARL ou une SA",
+        "Parce que l'apport en industrie est réservé exclusivement aux sociétés anonymes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le capital social protège les créanciers de la société à risque limité.",
+        "Le travail futur n'a pas la même nature patrimoniale qu'un bien ou une somme d'argent.",
+        "Cette logique explique pourquoi la loi réserve l'apport en industrie aux sociétés de personnes."
+      ],
+      "explication": "Le capital social d'une société à risque limité (SARL, SA) constitue une garantie patrimoniale pour les créanciers, puisque la responsabilité des associés y est limitée à leurs apports. Il doit donc être composé d'éléments ayant une valeur patrimoniale certaine et cessible, ce qui n'est pas le cas du travail futur d'une personne — c'est pourquoi l'apport en industrie est réservé aux sociétés de personnes."
+    },
+    {
+      "question": "Mamisoa souhaite devenir associé d'une SARL en n'apportant que ses compétences en informatique, sans argent ni bien matériel. Cet apport peut-il entrer dans le calcul du capital social de la SARL ?",
+      "choix": [
+        "Oui, automatiquement, car les compétences ont toujours une valeur reconnue par la loi",
+        "Non, cet apport en industrie ne peut pas entrer dans le calcul du capital social d'une SARL",
+        "Oui, mais seulement si un commissaire aux apports valide cette évaluation",
+        "Oui, à condition que Mamisoa soit également gérant de la société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'apport en industrie est réservé aux sociétés de personnes.",
+        "La SARL est une société de capitaux à risque limité.",
+        "Mamisoa devra envisager un autre type d'apport ou un autre mécanisme contractuel."
+      ],
+      "explication": "Non, cet apport en industrie ne peut pas entrer dans le calcul du capital social d'une SARL, qui ne peut être composé que d'apports en numéraire et en nature. Mamisoa devra réaliser un apport en numéraire ou en nature s'il souhaite devenir associé au capital, ou convenir d'un autre mécanisme contractuel pour valoriser sa contribution en travail."
+    },
+    {
+      "question": "Les apports en numéraire et en nature faits à une SARL doivent-ils être versés intégralement et immédiatement, ou peuvent-ils être différés ?",
+      "choix": [
+        "Ils peuvent être versés en plusieurs fois sur dix ans",
+        "Ils doivent être intégralement libérés dès la constitution de la société, sans délai de paiement différé",
+        "Seuls les apports en nature doivent être versés immédiatement",
+        "Aucune règle n'encadre le moment du versement des apports à une SARL"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La SARL ne connaît pas le mécanisme de libération partielle propre à la SA.",
+        "Les apports doivent être effectivement versés ou transférés dès la création.",
+        "C'est une différence importante avec le régime des apports en numéraire de la SA."
+      ],
+      "explication": "Les apports en numéraire et en nature faits à une SARL doivent être intégralement libérés dès la constitution de la société, sans possibilité de paiement différé. C'est une différence majeure avec la SA, qui autorise une libération partielle des apports en numéraire à la souscription."
+    },
+    {
+      "question": "Qui peut assurer la gérance d'une SARL à Madagascar ?",
+      "choix": [
+        "Uniquement une personne morale, jamais une personne physique",
+        "Une ou plusieurs personnes physiques, associées de la société ou non",
+        "Uniquement l'associé qui détient le plus de parts sociales",
+        "Uniquement un expert-comptable inscrit à l'Ordre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le gérant doit nécessairement être un être humain, jamais une société.",
+        "Il peut être associé, mais ce n'est pas une obligation.",
+        "Il peut y avoir un ou plusieurs gérants."
+      ],
+      "explication": "La SARL est gérée par une ou plusieurs personnes physiques, associées de la société ou non. C'est une règle stricte : contrairement à ce qui est parfois possible dans d'autres types de sociétés, le gérant d'une SARL ne peut jamais être une personne morale — il doit nécessairement s'agir d'un être humain."
+    },
+    {
+      "question": "Quelle majorité est en principe requise pour révoquer le gérant d'une SARL par décision des associés ?",
+      "choix": [
+        "L'unanimité de tous les associés, sans exception",
+        "Une décision des associés représentant plus de la moitié des parts sociales",
+        "Un seul associé suffit, quel que soit le nombre de parts qu'il détient",
+        "Les deux tiers des associés présents, indépendamment du nombre de parts détenues"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La majorité requise se calcule sur les parts sociales, pas sur le nombre de têtes.",
+        "Il s'agit d'une majorité supérieure à 50 % des parts.",
+        "Une seconde consultation à la majorité des votes émis est possible si ce seuil n'est pas atteint."
+      ],
+      "explication": "Le gérant d'une SARL peut être révoqué par une décision des associés représentant plus de la moitié des parts sociales. Si cette majorité n'est pas atteinte par un premier vote, une seconde consultation peut avoir lieu à la majorité des votes émis, sauf clause contraire des statuts."
+    },
+    {
+      "question": "En dehors de la décision des associés, par quelle autre voie un gérant de SARL peut-il être révoqué ?",
+      "choix": [
+        "Uniquement par une décision du ministère de la Justice",
+        "Par le tribunal de commerce, à la demande de tout associé, pour cause légitime",
+        "Par simple décision du commissaire aux comptes",
+        "Le gérant ne peut jamais être révoqué une fois nommé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une voie judiciaire complète la voie décisionnelle des associés.",
+        "C'est une juridiction commerciale qui est compétente.",
+        "Un motif légitime doit être invoqué pour cette révocation judiciaire."
+      ],
+      "explication": "Le gérant d'une SARL peut également être révoqué par le tribunal de commerce, à la demande de tout associé, pour cause légitime. Cette voie judiciaire complète la voie décisionnelle des associés représentant plus de la moitié des parts sociales."
+    },
+    {
+      "question": "Que se passe-t-il si un gérant de SARL est révoqué sans juste motif ?",
+      "choix": [
+        "Rien : la révocation produit ses effets sans aucune conséquence supplémentaire",
+        "Le gérant révoqué peut prétendre à des dommages-intérêts en réparation du préjudice subi du fait de cette révocation abusive",
+        "La révocation est automatiquement annulée par le tribunal",
+        "Les associés qui ont voté la révocation sont automatiquement exclus de la société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La révocation reste valable, mais elle peut entraîner une conséquence financière.",
+        "Cette conséquence profite au gérant révoqué.",
+        "C'est une réparation du préjudice subi du fait du caractère abusif de la révocation."
+      ],
+      "explication": "Si la révocation du gérant est décidée sans juste motif, le gérant révoqué peut prétendre à des dommages-intérêts en réparation du préjudice subi du fait de cette révocation abusive. La révocation elle-même reste néanmoins valable et produit ses effets sur la cessation des fonctions."
+    },
+    {
+      "question": "La cession de parts sociales d'une SARL au profit du conjoint d'un associé nécessite-t-elle l'agrément des autres associés ?",
+      "choix": [
+        "Oui, dans tous les cas, sans aucune exception",
+        "Non, cette cession est en principe libre, sans agrément requis",
+        "Oui, mais uniquement si le conjoint réside à l'étranger",
+        "Non, mais uniquement si le capital social dépasse 10 000 000 ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi présume que certaines personnes proches ne menacent pas l'équilibre de la société.",
+        "Le conjoint, les ascendants et les descendants d'un associé bénéficient de cette liberté.",
+        "C'est différent de la cession à un tiers totalement étranger à la société."
+      ],
+      "explication": "Non, la cession de parts sociales au profit du conjoint d'un associé est en principe libre, sans qu'un agrément des autres associés soit nécessaire. Il en va de même pour la cession au profit d'un ascendant ou d'un descendant d'un associé. La loi présume que ces personnes proches ne menacent pas l'équilibre relationnel de la société."
+    },
+    {
+      "question": "Quelle est la règle applicable à la cession de parts sociales d'une SARL à un tiers totalement étranger à la société ?",
+      "choix": [
+        "Cette cession est totalement libre, sans aucune condition",
+        "Cette cession est subordonnée au consentement de la majorité des associés représentant au moins une majorité des parts sociales",
+        "Cette cession est purement et simplement interdite par la loi",
+        "Cette cession nécessite l'autorisation préalable du tribunal de commerce dans tous les cas"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est ici qu'intervient la procédure d'agrément propre à l'intuitu personae de la SARL.",
+        "Les associés restants doivent donner leur accord selon une majorité précise.",
+        "Cette procédure protège les associés contre l'arrivée d'un nouvel associé non désiré."
+      ],
+      "explication": "La cession de parts sociales à un tiers étranger à la société est subordonnée au consentement de la majorité des associés, représentant au moins une majorité des parts sociales, selon les modalités précises fixées par les statuts dans le respect du cadre légal. Cette procédure d'agrément protège les associés restants."
+    },
+    {
+      "question": "Que se passe-t-il si l'agrément à la cession de parts sociales à un tiers est refusé par les autres associés ?",
+      "choix": [
+        "L'associé cédant ne peut plus jamais quitter la société, quelle que soit la situation",
+        "Des mécanismes de rachat des parts par les autres associés ou par la société elle-même peuvent permettre à l'associé cédant de sortir de la société",
+        "La société est automatiquement dissoute",
+        "L'associé cédant peut imposer la cession malgré le refus, sans aucune conséquence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi prévoit une solution équilibrée pour ne pas enfermer indéfiniment l'associé cédant.",
+        "Le rachat peut être effectué par les autres associés ou par la société.",
+        "Ce mécanisme respecte à la fois la volonté de sortie et l'équilibre voulu par les autres."
+      ],
+      "explication": "En cas de refus d'agrément, des mécanismes de rachat des parts par les autres associés ou par la société elle-même peuvent être mis en œuvre, afin de permettre à l'associé cédant de sortir de la société tout en respectant l'équilibre voulu par les autres associés."
+    },
+    {
+      "question": "Comment s'appellent les titres représentant les droits des actionnaires dans une société anonyme ?",
+      "choix": [
+        "Des parts sociales, comme dans la SARL",
+        "Des actions",
+        "Des obligations",
+        "Des certificats de propriété"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce terme distingue les titres de la SA de ceux de la SARL.",
+        "Ces titres sont en principe négociables.",
+        "C'est le terme classique pour les titres d'une société de capitaux."
+      ],
+      "explication": "Les titres représentant les droits des actionnaires dans une société anonyme s'appellent des actions, par opposition aux parts sociales qui représentent les droits des associés dans une SARL. Les actions sont en principe négociables, ce qui les distingue des parts sociales."
+    },
+    {
+      "question": "Une SA peut-elle être constituée par un seul actionnaire ?",
+      "choix": [
+        "Non, la SA exige toujours au moins deux actionnaires",
+        "Oui, la loi malgache autorise la société anonyme unipersonnelle, comportant un seul actionnaire",
+        "Non, la SA exige toujours au moins trois actionnaires",
+        "Oui, mais uniquement pour les sociétés d'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comme pour la SARL, la loi de 2004 a innové sur ce point pour la SA.",
+        "Un seul actionnaire, personne physique ou morale, peut établir cette société.",
+        "C'est une des innovations majeures de la réforme malgache de 2004."
+      ],
+      "explication": "Oui, la loi malgache autorise la création d'une société anonyme unipersonnelle, comportant un seul actionnaire, au même titre que la SARL unipersonnelle. C'est l'une des innovations majeures de la réforme de 2004 par rapport au droit antérieur, qui imposait systématiquement une pluralité d'actionnaires."
+    },
+    {
+      "question": "Quel est le montant du capital social minimum légal d'une société anonyme pluripersonnelle (plusieurs actionnaires) à Madagascar ?",
+      "choix": [
+        "1 000 000 ariary",
+        "10 000 000 ariary",
+        "100 000 000 ariary",
+        "Aucun minimum n'est exigé, comme pour la SARL"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La SA, contrairement à la SARL, n'a pas vu son capital minimum supprimé en 2014.",
+        "Ce montant s'applique lorsque la société compte plusieurs actionnaires.",
+        "Un montant réduit existe pour la société anonyme unipersonnelle."
+      ],
+      "explication": "Le capital social minimum légal d'une société anonyme pluripersonnelle (avec plusieurs actionnaires) est de 10 000 000 ariary. Cette exigence, contrairement à celle de la SARL, n'a pas été supprimée par la réforme de 2014, qui n'a porté que sur le régime spécifique de la SARL."
+    },
+    {
+      "question": "Quel est le montant du capital social minimum légal d'une société anonyme unipersonnelle (un seul actionnaire) ?",
+      "choix": [
+        "10 000 000 ariary, identique à la SA pluripersonnelle",
+        "2 000 000 ariary",
+        "500 000 ariary",
+        "Aucun minimum n'est exigé pour la SA unipersonnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le montant est réduit par rapport à la SA pluripersonnelle.",
+        "Ce montant correspond à un cinquième du minimum applicable en cas de pluralité d'actionnaires.",
+        "C'est un montant spécifique à l'hypothèse de l'actionnaire unique."
+      ],
+      "explication": "Le capital social minimum légal d'une société anonyme unipersonnelle, comportant un seul actionnaire, est réduit à 2 000 000 ariary, contre 10 000 000 ariary pour une SA pluripersonnelle. Cette réduction tient compte de la situation particulière de l'actionnaire unique."
+    },
+    {
+      "question": "Quelle est la principale différence entre la SARL et la SA concernant la libération des apports en numéraire ?",
+      "choix": [
+        "Il n'y a aucune différence : les deux exigent une libération intégrale immédiate",
+        "Dans la SARL, les apports en numéraire doivent être intégralement libérés dès la constitution ; dans la SA, seul un quart au moins doit être libéré à la souscription, le solde étant versé dans un délai de trois ans",
+        "Dans la SA, les apports en numéraire doivent être intégralement libérés dès la constitution ; dans la SARL, seul un quart au moins doit être libéré à la souscription",
+        "Les deux formes interdisent tout apport en numéraire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est la SA, et non la SARL, qui bénéficie d'un mécanisme de libération partielle.",
+        "Le quart minimum se rapporte à la valeur nominale des actions de numéraire.",
+        "Le solde doit être versé dans un délai précis après l'immatriculation."
+      ],
+      "explication": "Dans la SARL, les apports en numéraire doivent être intégralement libérés dès la constitution de la société. Dans la SA, en revanche, seul un quart au moins de la valeur nominale des actions de numéraire doit être libéré à la souscription ; le solde doit être versé dans un délai de trois ans à compter de l'immatriculation de la société."
+    },
+    {
+      "question": "Une SA est constituée avec un capital de 40 000 000 ariary entièrement en numéraire. Quel montant minimum les actionnaires doivent-ils verser au moment de la souscription ?",
+      "choix": [
+        "40 000 000 ariary, soit l'intégralité du capital",
+        "10 000 000 ariary, soit un quart du capital",
+        "20 000 000 ariary, soit la moitié du capital",
+        "Aucun versement n'est requis à la souscription"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi exige la libération d'au moins un quart de la valeur nominale des actions de numéraire à la souscription.",
+        "Un quart de 40 000 000 ariary représente 10 000 000 ariary.",
+        "Le solde pourra être versé ultérieurement, dans un délai légal précis."
+      ],
+      "explication": "Les actionnaires doivent verser au minimum 10 000 000 ariary à la souscription, soit un quart du capital social de 40 000 000 ariary. Le solde de 30 000 000 ariary devra être versé dans un délai de trois ans à compter de l'immatriculation de la société, selon les appels de fonds décidés par les dirigeants."
+    },
+    {
+      "question": "Les apports en nature faits à une société anonyme peuvent-ils, comme les apports en numéraire, être libérés seulement partiellement à la souscription ?",
+      "choix": [
+        "Oui, les apports en nature suivent exactement la même règle que les apports en numéraire",
+        "Non, les apports en nature doivent toujours être intégralement libérés dès la constitution de la société",
+        "Oui, mais seulement si un commissaire aux apports l'autorise expressément",
+        "Non, les apports en nature sont en réalité interdits dans une SA"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mécanisme de libération partielle est réservé aux seuls apports en numéraire.",
+        "Les apports en nature ne bénéficient pas de ce régime d'exception.",
+        "Cette distinction est une nuance importante à retenir pour la SA."
+      ],
+      "explication": "Non, les apports en nature doivent toujours être intégralement libérés dès la constitution de la société, contrairement aux apports en numéraire qui peuvent n'être libérés qu'à hauteur d'un quart minimum à la souscription. Le mécanisme de libération partielle est une exception réservée aux seuls apports en numéraire dans la SA."
+    },
+    {
+      "question": "Quels sont les deux modes d'administration possibles d'une société anonyme à Madagascar ?",
+      "choix": [
+        "Le gérant unique et le directeur général adjoint",
+        "Le conseil d'administration et l'administrateur général",
+        "Le commissaire aux comptes et le commissaire aux apports",
+        "Le bureau exécutif et le comité de surveillance"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un est un organe collégial, l'autre une personne physique unique.",
+        "Le choix entre les deux dépend notamment du nombre d'actionnaires.",
+        "C'est une particularité notable du droit malgache des sociétés."
+      ],
+      "explication": "Les deux modes d'administration possibles d'une société anonyme à Madagascar sont le conseil d'administration, organe collégial composé de plusieurs membres élisant un président, et l'administrateur général, personne physique unique assurant seule l'administration et la direction générale de la société."
+    },
+    {
+      "question": "Dans quelle situation une société anonyme doit-elle en principe recourir à un administrateur général plutôt qu'à un conseil d'administration ?",
+      "choix": [
+        "Lorsque le capital social dépasse 100 000 000 ariary",
+        "Lorsque le nombre d'actionnaires de la société est inférieur à trois",
+        "Lorsque la société exerce une activité commerciale et non civile",
+        "Lorsque la société fait appel public à l'épargne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le critère décisif est le nombre d'actionnaires, pas le montant du capital.",
+        "En dessous d'un certain seuil de personnes, le conseil d'administration collégial n'est pas adapté.",
+        "Ce mode plus souple convient aux sociétés anonymes de petite taille."
+      ],
+      "explication": "Lorsque le nombre d'actionnaires d'une société anonyme est inférieur à trois, celle-ci ne peut en principe pas constituer un véritable conseil d'administration collégial, et doit recourir à un administrateur général unique. Ce mode plus souple est conçu pour les sociétés anonymes de petite taille."
+    },
+    {
+      "question": "Deux amis créent ensemble une société anonyme. Peuvent-ils constituer un conseil d'administration classique ?",
+      "choix": [
+        "Oui, sans aucune restriction, quel que soit le nombre d'actionnaires",
+        "Non, car leur SA ne compte que deux actionnaires — moins de trois — ils doivent désigner un administrateur général unique",
+        "Non, car une SA ne peut jamais être créée par seulement deux personnes",
+        "Oui, mais uniquement si leur capital dépasse 50 000 000 ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comptez le nombre d'actionnaires dans cette SA : est-il inférieur à trois ?",
+        "La règle sur le nombre minimal d'actionnaires pour un conseil d'administration s'applique ici.",
+        "Le mode d'administration alternatif, plus adapté, doit être utilisé."
+      ],
+      "explication": "Non, comme leur SA ne compte que deux actionnaires — un nombre inférieur à trois — ils ne peuvent pas constituer un conseil d'administration classique : ils doivent désigner un administrateur général unique, qui assurera seul l'administration et la direction de la société."
+    },
+    {
+      "question": "Quelle forme sociale est seule habilitée à émettre des titres négociables, à peine de nullité pour les autres formes ?",
+      "choix": [
+        "La société en nom collectif",
+        "La société anonyme",
+        "La société à responsabilité limitée",
+        "Toutes les formes de sociétés commerciales sans distinction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle protège la spécificité de la SA en matière de circulation des titres.",
+        "L'émission de titres négociables par une autre forme sociale serait frappée de nullité.",
+        "Cette exclusivité distingue nettement la SA des autres formes."
+      ],
+      "explication": "Seule la société anonyme est habilitée à émettre des titres négociables. L'émission de ce type de titres par toute autre forme sociale, y compris la SARL, est frappée de nullité, ce qui souligne la spécificité de la SA en matière de circulation de ses titres."
+    },
+    {
+      "question": "Qu'est-ce que l'appel public à l'épargne, selon la loi malgache ?",
+      "choix": [
+        "Toute demande de prêt formulée auprès d'une banque",
+        "L'offre de titres au public, caractérisée notamment par le recours à des intermédiaires financiers, à la publicité, ou par une diffusion dépassant un certain cercle de personnes",
+        "La simple immatriculation d'une société au registre du commerce",
+        "Le versement de dividendes aux actionnaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'agit d'une notion encadrant l'offre de titres à un public large.",
+        "Le recours à des établissements de crédit ou à la publicité en est un critère.",
+        "Un seuil précis de diffusion est également fixé par la loi."
+      ],
+      "explication": "L'appel public à l'épargne est l'offre de titres au public, caractérisée notamment par le recours à des établissements de crédit, à des agents de change ou à des procédés de publicité pour diffuser les titres, ou par une diffusion dépassant un cercle de cinquante personnes."
+    },
+    {
+      "question": "Au-delà de combien de personnes la diffusion de titres caractérise-t-elle un appel public à l'épargne, selon la loi malgache ?",
+      "choix": [
+        "Dix personnes",
+        "Cinquante personnes",
+        "Cent personnes",
+        "Mille personnes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce seuil précis est fixé directement par la loi sur les sociétés commerciales.",
+        "Au-delà de ce cercle, on considère qu'il y a appel public à l'épargne.",
+        "C'est un chiffre rond, à retenir précisément."
+      ],
+      "explication": "Il y a appel public à l'épargne dès lors qu'il y a diffusion des titres au-delà d'un cercle de cinquante personnes, selon la loi malgache sur les sociétés commerciales. Pour l'appréciation de ce chiffre, chaque société constitue une entité unique."
+    },
+    {
+      "question": "Quelles formes de sociétés ne peuvent jamais faire appel public à l'épargne, selon la loi malgache ?",
+      "choix": [
+        "Uniquement les sociétés en nom collectif",
+        "Les sociétés à responsabilité limitée, les sociétés unipersonnelles, et les sociétés anonymes sans conseil d'administration",
+        "Uniquement les sociétés civiles",
+        "Aucune forme sociale n'est exclue de l'appel public à l'épargne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Plusieurs catégories sont expressément exclues par la loi.",
+        "Cela inclut la forme hybride SARL ainsi que les sociétés à associé/actionnaire unique.",
+        "Cela inclut aussi les SA administrées par un simple administrateur général."
+      ],
+      "explication": "La loi interdit formellement l'appel public à l'épargne aux sociétés à responsabilité limitée, aux sociétés unipersonnelles (qu'elles soient SARL ou SA), et aux sociétés anonymes qui n'ont pas de conseil d'administration — c'est-à-dire celles administrées par un simple administrateur général."
+    },
+    {
+      "question": "Une SA pluripersonnelle dotée d'un conseil d'administration souhaite proposer ses actions à plus de cinquante investisseurs par voie de publicité. Cette opération est-elle envisageable ?",
+      "choix": [
+        "Non, aucune SA ne peut jamais faire appel public à l'épargne",
+        "Oui, cette opération constitue un appel public à l'épargne, en principe ouvert à ce type de société",
+        "Non, car le nombre de cinquante personnes est un maximum absolu, jamais dépassable",
+        "Oui, mais uniquement si la société est administrée par un administrateur général"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une SA pluripersonnelle dotée d'un conseil d'administration n'est pas exclue de l'appel public à l'épargne.",
+        "Le seuil de cinquante personnes caractérise, justement, l'existence d'un appel public à l'épargne — il n'est pas un plafond interdit.",
+        "C'est au contraire le type de société auquel cette opération est ouverte, sous conditions."
+      ],
+      "explication": "Oui, cette opération constitue un appel public à l'épargne, qui est en principe ouvert à une SA pluripersonnelle dotée d'un conseil d'administration. Le seuil de cinquante personnes ne constitue pas une interdiction, mais le critère qui caractérise l'existence même d'un appel public à l'épargne, sous réserve du respect des règles encadrant cette opération."
+    },
+    {
+      "question": "Quelle est la règle de la réserve légale, commune à la SARL et à la SA ?",
+      "choix": [
+        "Un prélèvement d'au moins un dixième (10 %) du bénéfice, sans limite de plafond",
+        "Un prélèvement d'au moins un vingtième (5 %) du bénéfice de l'exercice, jusqu'à ce que la réserve atteigne un dixième (10 %) du capital social",
+        "Un prélèvement fixe et identique de 1 000 000 ariary chaque année",
+        "Aucune règle de réserve légale n'existe en droit malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le taux de prélèvement est un vingtième, soit cinq pour cent.",
+        "Ce prélèvement cesse d'être obligatoire à partir d'un certain seuil.",
+        "Ce seuil correspond à un dixième du capital social."
+      ],
+      "explication": "La règle de la réserve légale, commune à la SARL et à la SA, impose un prélèvement d'au moins un vingtième (5 %) du bénéfice de l'exercice diminué le cas échéant des pertes antérieures, destiné à constituer un fonds de réserve. Ce prélèvement obligatoire cesse dès que cette réserve atteint un dixième (10 %) du capital social."
+    },
+    {
+      "question": "Une SARL réalise un bénéfice net de 4 000 000 ariary lors d'un exercice. Quel montant minimum doit-elle affecter à sa réserve légale, avant toute distribution aux associés ?",
+      "choix": [
+        "400 000 ariary, soit un dixième du bénéfice",
+        "200 000 ariary, soit un vingtième du bénéfice",
+        "2 000 000 ariary, soit la moitié du bénéfice",
+        "Aucun montant n'est obligatoire, la réserve légale étant facultative"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le taux de prélèvement obligatoire est d'un vingtième, soit cinq pour cent.",
+        "Un vingtième de 4 000 000 ariary représente ce montant précis.",
+        "Ce prélèvement est obligatoire jusqu'à ce que la réserve atteigne un dixième du capital social."
+      ],
+      "explication": "La SARL doit affecter au moins 200 000 ariary à sa réserve légale, ce qui correspond à un vingtième (5 %) du bénéfice net de 4 000 000 ariary. Cette obligation s'applique jusqu'à ce que la réserve légale atteigne un dixième du capital social de la société."
+    },
+    {
+      "question": "Dans quelle forme sociale la désignation d'un commissaire aux comptes est-elle systématiquement obligatoire, quelle que soit la taille de la société ?",
+      "choix": [
+        "Dans la SARL, sans aucune exception",
+        "Dans la société anonyme",
+        "Dans la société en nom collectif uniquement",
+        "Dans aucune forme sociale, le commissaire aux comptes étant toujours facultatif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette obligation distingue nettement la SA de la SARL sur ce point.",
+        "Elle s'applique indépendamment du montant du capital social de la SA.",
+        "La SARL, elle, n'y est tenue qu'au-delà de certains seuils."
+      ],
+      "explication": "Dans une société anonyme, la désignation d'un commissaire aux comptes est une obligation systématique, quelle que soit la taille de la société. Dans une SARL, en revanche, cette obligation n'est imposée qu'au-delà de certains seuils fixés par la réglementation, liés notamment au capital social, au chiffre d'affaires ou à l'effectif salarié."
+    },
+    {
+      "question": "Une SARL de petite taille, ne dépassant aucun des seuils réglementaires applicables, est-elle obligée de désigner un commissaire aux comptes ?",
+      "choix": [
+        "Oui, dans tous les cas, comme pour la SA",
+        "Non, la nomination d'un commissaire aux comptes reste facultative en dessous de ces seuils",
+        "Oui, mais seulement si elle compte plus de deux associés",
+        "Non, la SARL n'a jamais le droit de désigner un commissaire aux comptes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'obligation de la SARL est conditionnée par certains seuils.",
+        "En dessous de ces seuils, la situation est différente de celle de la SA.",
+        "La nomination reste possible, mais n'est pas imposée."
+      ],
+      "explication": "Non, en dessous des seuils réglementaires applicables (liés notamment au capital social, au chiffre d'affaires ou à l'effectif salarié), la nomination d'un commissaire aux comptes reste facultative pour une SARL. Cette règle diffère de celle de la SA, où la désignation est systématiquement obligatoire."
+    },
+    {
+      "question": "Pourquoi la cession des actions d'une SA est-elle, en règle générale, plus facile que la cession des parts sociales d'une SARL ?",
+      "choix": [
+        "Parce que les actions sont des titres négociables, alors que les parts sociales sont en principe soumises à des restrictions liées à l'intuitu personae",
+        "Parce que la SA n'a jamais d'agrément, contrairement à la SARL qui en a toujours un",
+        "Parce que les parts sociales de la SARL n'ont aucune valeur économique",
+        "Parce que les actions de la SA ne peuvent jamais être cédées"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les actions sont qualifiées de titres négociables, contrairement aux parts sociales.",
+        "La SARL repose sur un fort intuitu personae qui justifie un encadrement de la cession.",
+        "La SA est conçue pour faciliter la circulation des titres entre actionnaires ou avec des tiers."
+      ],
+      "explication": "Les actions de la SA sont des titres négociables, ce qui facilite en principe leur cession, alors que les parts sociales de la SARL sont, en raison de l'intuitu personae propre à cette forme, soumises à des restrictions (notamment l'agrément requis pour la cession à un tiers étranger à la société)."
+    },
+    {
+      "question": "Quel critère est central pour choisir entre la SARL et la SA lorsqu'on souhaite garder la maîtrise de l'identité de ses partenaires ?",
+      "choix": [
+        "Le critère du nombre de salariés employés par la société",
+        "Le critère du contrôle de l'actionnariat : la SARL, avec sa procédure d'agrément, est mieux adaptée pour limiter les arrivées de tiers non désirés",
+        "Le critère de la couleur du logo de l'entreprise",
+        "Le critère de l'âge des fondateurs"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'intuitu personae de la SARL protège contre l'arrivée de partenaires non désirés.",
+        "C'est l'agrément requis pour la cession à des tiers qui joue ce rôle protecteur.",
+        "La SA, à l'inverse, facilite la circulation des titres."
+      ],
+      "explication": "Le critère du contrôle de l'actionnariat est central : si les fondateurs souhaitent garder la maîtrise de l'identité de leurs partenaires et limiter les arrivées de tiers non désirés, la SARL, avec sa procédure d'agrément pour la cession des parts, sera mieux adaptée que la SA."
+    },
+    {
+      "question": "Quel critère favorise plutôt le choix de la SA par rapport à la SARL, pour un projet de grande envergure ?",
+      "choix": [
+        "Le besoin d'ouverture du capital à des investisseurs nombreux, facilité par les actions négociables et la possibilité d'appel public à l'épargne",
+        "L'absence totale de formalités pour la SA",
+        "Le fait que la SA n'a jamais besoin de capital social",
+        "Le fait que la SA est toujours gratuite à constituer"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La SA est conçue pour réunir des capitaux importants auprès d'actionnaires nombreux.",
+        "Les actions négociables et l'appel public à l'épargne facilitent cette ouverture.",
+        "C'est l'inverse de la logique protectrice de la SARL."
+      ],
+      "explication": "Pour un projet de grande envergure visant à ouvrir le capital à des investisseurs nombreux, la SA est mieux adaptée grâce à ses actions négociables et à la possibilité, sous conditions, de recourir à l'appel public à l'épargne — ce que la SARL ne permet jamais."
+    },
+    {
+      "question": "Vrai ou faux : depuis la réforme de 2014, la SA bénéficie également de la suppression du capital minimum légal, comme la SARL.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La réforme de 2014 a porté spécifiquement sur le régime de la SARL.",
+        "La SA conserve un capital minimum légal (10 000 000 ou 2 000 000 ariary selon les cas).",
+        "Cette différence est l'une des distinctions majeures entre les deux formes aujourd'hui."
+      ],
+      "explication": "Faux. La réforme de la loi n° 2014-010 a porté spécifiquement sur le régime de la SARL, dont le capital minimum légal a été supprimé. La société anonyme, en revanche, reste soumise à un capital minimum légal de 10 000 000 ariary (SA pluripersonnelle) ou 2 000 000 ariary (SA unipersonnelle)."
+    },
+    {
+      "question": "Une SARL et une SA sont-elles toutes deux toujours commerciales, indépendamment de leur objet réel ?",
+      "choix": [
+        "Non, seule la SA est toujours commerciale ; la SARL peut être civile selon son objet",
+        "Oui, les deux sont toujours commerciales par leur forme, quel que soit leur objet",
+        "Non, ni la SARL ni la SA ne sont jamais commerciales",
+        "Oui, mais uniquement si leur capital dépasse 10 000 000 ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 3 de la loi sur les sociétés commerciales fixe cette règle.",
+        "Certaines formes sont toujours commerciales par leur forme, peu importe leur activité réelle.",
+        "La SARL et la SA figurent parmi ces formes toujours commerciales."
+      ],
+      "explication": "Oui, la SARL et la SA sont toutes deux toujours commerciales par leur forme, quel que soit leur objet réel. C'est une règle posée par la loi sur les sociétés commerciales : certaines formes sociales (SNC, SCS, SCA, SARL, SA) sont commerciales en raison de leur forme, indépendamment de l'activité qu'elles exercent."
+    },
+    {
+      "question": "Qu'est-ce qui distingue, en matière de cession, la transmission au profit d'un descendant d'associé de la transmission au profit d'un tiers totalement étranger dans une SARL ?",
+      "choix": [
+        "Aucune différence : les deux nécessitent un agrément identique",
+        "La cession au profit d'un descendant est en principe libre ; la cession à un tiers étranger nécessite l'agrément de la majorité des associés",
+        "La cession au profit d'un descendant est interdite, contrairement à la cession à un tiers",
+        "Les deux cessions sont totalement libres, sans aucune condition"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi distingue les proches familiaux d'un associé des tiers totalement étrangers.",
+        "Les descendants bénéficient d'un régime de liberté, pas les tiers étrangers.",
+        "Cette distinction illustre concrètement l'intuitu personae de la SARL."
+      ],
+      "explication": "La cession au profit d'un descendant d'un associé est en principe libre, sans agrément requis, alors que la cession à un tiers totalement étranger à la société nécessite l'agrément de la majorité des associés représentant une majorité des parts sociales. Cette distinction illustre concrètement l'intuitu personae propre à la SARL."
+    },
+    {
+      "question": "Pourquoi la loi malgache a-t-elle innové en autorisant les sociétés unipersonnelles (SARL et SA) dès 2004 ?",
+      "choix": [
+        "Pour interdire totalement la création de petites entreprises",
+        "Pour permettre à un entrepreneur individuel de bénéficier de la responsabilité limitée propre à ces formes sociales, sans avoir besoin de s'associer avec une autre personne",
+        "Pour obliger toutes les sociétés à n'avoir qu'un seul actionnaire désormais",
+        "Pour supprimer définitivement la notion de capital social"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette innovation a un objectif pratique précis pour les entrepreneurs solitaires.",
+        "Elle permet de cumuler protection patrimoniale et absence d'associé obligatoire.",
+        "C'était une rupture avec le droit antérieur, qui imposait toujours une pluralité."
+      ],
+      "explication": "La loi malgache a innové en autorisant les sociétés unipersonnelles pour permettre à un entrepreneur individuel de bénéficier de la responsabilité limitée propre à la SARL ou à la SA, sans avoir besoin de s'associer artificiellement avec une autre personne uniquement pour satisfaire une exigence légale de pluralité."
+    },
+    {
+      "question": "Dans une SA, qui élit le président lorsque la société est administrée par un conseil d'administration ?",
+      "choix": [
+        "Le ministère du Commerce",
+        "Le conseil d'administration élit en son sein un président, parmi ses membres",
+        "Les salariés de la société par un vote interne",
+        "Le commissaire aux comptes désigne lui-même le président"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le président est choisi à l'intérieur même de l'organe collégial.",
+        "Ce sont les membres du conseil eux-mêmes qui procèdent à cette élection.",
+        "Ce mécanisme suppose l'existence d'un conseil composé de plusieurs membres."
+      ],
+      "explication": "Dans une SA administrée par un conseil d'administration, ce dernier élit en son sein un président, parmi ses propres membres. Ce mécanisme suppose l'existence d'un organe collégial composé de plusieurs membres, ce qui n'est possible que lorsque la société compte un nombre suffisant d'actionnaires (au moins trois)."
+    },
+    {
+      "question": "Résumé : quelle phrase décrit le mieux la complémentarité entre la SARL et la SA dans le paysage des sociétés commerciales malgaches ?",
+      "choix": [
+        "La SARL et la SA sont deux formes identiques sans aucune différence pratique",
+        "La SARL convient davantage aux structures où le contrôle de l'identité des associés et la simplicité priment, tandis que la SA convient davantage aux projets nécessitant des capitaux importants et une ouverture à des investisseurs nombreux",
+        "La SARL est réservée aux activités civiles, la SA aux seules activités commerciales",
+        "Seule la SA peut être créée par une seule personne, jamais la SARL"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez aux critères de choix exposés en fin de module.",
+        "La SARL est plus protectrice et accessible ; la SA est plus ouverte et structurée.",
+        "Les deux formes répondent à des besoins économiques différents et complémentaires."
+      ],
+      "explication": "La SARL convient davantage aux structures où le contrôle de l'identité des associés, la simplicité de gouvernance et l'accessibilité financière (absence de capital minimum légal) priment, tandis que la SA convient davantage aux projets nécessitant des capitaux importants, une gouvernance plus structurée, et une ouverture éventuelle à des investisseurs nombreux par le biais d'actions négociables."
+    },
+    {
+      "question": "Un porteur de projet dispose de moyens financiers très limités au démarrage et souhaite s'associer avec deux membres de sa famille en gardant un contrôle total sur l'arrivée de futurs partenaires. Quelle forme sociale lui conviendrait le mieux, et pourquoi ?",
+      "choix": [
+        "La société anonyme, car elle impose un capital minimum rassurant pour les banques",
+        "La SARL, car elle n'exige aucun capital minimum légal depuis 2014 et permet de contrôler l'arrivée de tiers grâce à la procédure d'agrément",
+        "Aucune des deux formes ne convient à cette situation",
+        "La société en nom collectif, qui est la seule forme adaptée aux projets familiaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le critère des moyens financiers limités oriente vers une forme sans capital minimum.",
+        "Le critère du contrôle de l'identité des partenaires oriente vers la forme la plus protectrice.",
+        "Une seule forme réunit ces deux avantages."
+      ],
+      "explication": "La SARL conviendrait le mieux à cette situation : elle n'exige aucun capital minimum légal depuis la réforme de 2014, ce qui répond aux moyens financiers limités du porteur de projet, et elle permet, grâce à la procédure d'agrément pour la cession des parts à des tiers, de garder un contrôle total sur l'identité des futurs partenaires de la société."
+    },
+    {
+      "question": "Un mineur non émancipé peut-il être associé d'une SARL ou actionnaire d'une SA ?",
+      "choix": [
+        "Non, un mineur ne peut jamais être associé ou actionnaire d'une société commerciale",
+        "Oui, car dans la SARL et la SA, la responsabilité est limitée aux apports : le mineur ne serait jamais tenu des dettes sociales au-delà de ce qu'il a apporté",
+        "Oui, mais uniquement s'il est âgé de plus de seize ans",
+        "Non, sauf autorisation expresse du tribunal de commerce dans tous les cas"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi interdit aux mineurs d'être associés seulement dans les sociétés où ils seraient tenus des dettes sociales au-delà de leurs apports.",
+        "Dans la SARL et la SA, la responsabilité des associés ou actionnaires est précisément limitée à leurs apports.",
+        "Ce risque limité change la situation par rapport aux sociétés de personnes à risque illimité."
+      ],
+      "explication": "Oui, un mineur peut en principe être associé d'une SARL ou actionnaire d'une SA, car la loi interdit seulement aux mineurs non émancipés et aux incapables d'être associés d'une société dans laquelle ils seraient tenus des dettes sociales au-delà de leurs apports. Or, précisément, dans la SARL et la SA, la responsabilité est limitée aux apports : ce risque limité ne menace donc pas le patrimoine du mineur au-delà de sa mise initiale."
+    },
+    {
+      "question": "Deux époux peuvent-ils être associés ensemble d'une SARL ?",
+      "choix": [
+        "Non, la loi l'interdit absolument dans toutes les formes de sociétés",
+        "Oui, car la loi interdit seulement aux deux époux d'être associés d'une société où ils seraient tenus des dettes sociales indéfiniment ou solidairement, ce qui n'est pas le cas dans une SARL à risque limité",
+        "Oui, mais uniquement si l'un des deux a moins de 25 % des parts sociales",
+        "Non, sauf s'ils sont mariés sous le régime de la séparation de biens"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'interdiction posée par la loi concerne les sociétés où la responsabilité des associés est illimitée ou solidaire.",
+        "La SARL est une société à risque limité, ce qui change la donne.",
+        "L'interdiction vise typiquement les sociétés de personnes comme la société en nom collectif."
+      ],
+      "explication": "Oui, deux époux peuvent être associés ensemble d'une SARL. La loi interdit seulement à deux époux d'être associés d'une société dans laquelle ils seraient tenus des dettes sociales indéfiniment ou solidairement — ce qui concerne typiquement les sociétés de personnes comme la société en nom collectif. Dans une SARL, où la responsabilité est limitée aux apports, cette interdiction ne s'applique pas."
+    },
+    {
+      "question": "Si les associés d'une SARL ne formalisent pas leur accord par un écrit alors que la loi l'exige, et que la société ne peut donc pas être immatriculée, comment cette situation est-elle qualifiée juridiquement ?",
+      "choix": [
+        "Une société en participation",
+        "Une société créée de fait, qui n'a pas la personnalité juridique",
+        "Une société anonyme par défaut",
+        "Une SARL valable malgré tout, sans aucune conséquence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette situation résulte de l'absence d'écrit requis par la loi pour la constitution.",
+        "Elle se distingue de la société en participation, qui résulte d'un choix délibéré des associés de ne pas s'immatriculer.",
+        "Cette société n'acquiert jamais la personnalité juridique."
+      ],
+      "explication": "Cette situation est qualifiée de société créée de fait : si le contrat de société n'est pas établi par écrit comme la loi l'exige, et que la société ne peut de ce fait être immatriculée, elle est dénommée société créée de fait et n'a pas la personnalité juridique. Elle se distingue de la société en participation, qui résulte d'un choix volontaire des associés de ne pas immatriculer leur société, tout en respectant les formalités d'écrit requises."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Trois frères et sœurs, Hery, Faly et Zo, souhaitent reprendre l'épicerie familiale à Antsiranana en créant une société. Ils disposent ensemble de 1 500 000 ariary à investir, une somme modeste. Ils veulent absolument éviter qu'un jour, l'un d'eux ne puisse vendre ses parts à un inconnu sans l'accord des deux autres. Par ailleurs, ils ne souhaitent pas s'encombrer de formalités lourdes comme la désignation obligatoire d'un commissaire aux comptes, tant que leur activité reste modeste.\n\nAnalysez : (1) quelle forme sociale, entre la SARL et la SA, est la plus adaptée à leur projet, en tenant compte du montant de leur capital ; (2) si leur souhait de contrôler la cession future des parts est juridiquement réalisable dans la forme choisie ; (3) si leur souhait d'éviter la désignation d'un commissaire aux comptes est compatible avec la forme choisie.",
+      "choix": [
+        "La SA est la seule forme possible, car elle est plus prestigieuse pour une activité commerciale",
+        "(1) La SARL est la forme la plus adaptée : leur capital de 1 500 000 ariary est inférieur au minimum légal de 10 000 000 ariary exigé pour une SA pluripersonnelle, alors qu'aucun minimum légal n'est exigé pour une SARL depuis 2014. (2) Leur souhait est réalisable : la cession de parts sociales à un tiers étranger à la société est, dans la SARL, subordonnée à l'agrément de la majorité des associés. (3) Leur souhait est compatible : dans une SARL, la désignation d'un commissaire aux comptes n'est obligatoire qu'au-delà de certains seuils réglementaires, qu'une petite épicerie familiale ne dépasse probablement pas",
+        "Aucune forme sociale ne permet de réunir ces trois objectifs simultanément",
+        "La SA convient mieux car elle permet d'émettre des actions négociables, ce qui facilite la revente future de l'épicerie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comparez le montant de leur capital disponible (1 500 000 ariary) aux minima légaux exigés pour la SA pluripersonnelle (10 000 000 ariary) et pour la SARL (aucun minimum depuis 2014).",
+        "Rappelez-vous le mécanisme d'agrément pour la cession des parts sociales d'une SARL à un tiers étranger à la société.",
+        "Le commissaire aux comptes est-il systématiquement obligatoire dans la SARL, ou seulement au-delà de certains seuils ?"
+      ],
+      "explication": "Voici l'analyse complète. (1) Le choix de la forme sociale. La SARL est la forme la plus adaptée à leur projet. Leur capital disponible — 1 500 000 ariary — est largement inférieur au capital minimum légal de 10 000 000 ariary exigé pour constituer une société anonyme pluripersonnelle (avec trois actionnaires, ce serait le cas ici). En revanche, depuis la réforme de la loi n° 2014-010, aucun capital minimum légal n'est exigé pour constituer une SARL : Hery, Faly et Zo peuvent donc librement fixer leur capital social à 1 500 000 ariary dans les statuts de leur SARL, sans aucun obstacle légal. La SA serait, sur ce seul critère financier, hors de portée de leur projet sans apport supplémentaire. (2) Le contrôle de la cession des parts. Leur souhait de contrôler l'arrivée de tout nouvel associé est parfaitement réalisable dans le cadre d'une SARL. En effet, la cession de parts sociales à un tiers étranger à la société — c'est-à-dire une personne qui n'est ni associée, ni membre de la famille proche d'un associé — est subordonnée au consentement de la majorité des associés représentant au moins une majorité des parts sociales. Si l'un des trois frères et sœurs souhaite un jour céder ses parts à une personne extérieure à la famille, les deux autres devront donner leur accord selon cette procédure d'agrément, ce qui correspond exactement à leur souhait de garder la maîtrise de l'identité de leurs partenaires. Une société anonyme, à l'inverse, repose sur le principe de la libre négociabilité des actions, moins protecteur sur ce point précis (sauf clause statutaire particulière). (3) La question du commissaire aux comptes. Leur souhait d'éviter cette formalité est également compatible avec le choix de la SARL. Dans une société anonyme, la désignation d'un commissaire aux comptes est une obligation systématique, quelle que soit la taille de la société — Hery, Faly et Zo y seraient obligatoirement soumis s'ils choisissaient cette forme. Dans une SARL, en revanche, cette obligation n'est imposée qu'au-delà de certains seuils réglementaires liés notamment au capital social, au chiffre d'affaires ou à l'effectif salarié de la société. Une petite épicerie familiale au capital de 1 500 000 ariary ne dépassera probablement pas ces seuils, du moins dans les premières années de son activité, ce qui leur évitera cette formalité et son coût associé tant qu'ils restent en dessous des seuils légaux."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Andriamanana et Rasoa, deux investisseurs, décident de créer ensemble une société anonyme pour développer un projet d'import-export de matières premières, avec un capital social de 30 000 000 ariary, exclusivement composé d'apports en numéraire. Ils envisagent, à terme, de proposer des actions à de nouveaux investisseurs au-delà de leur cercle initial, par voie de publicité dans la presse, pour financer l'expansion de leur activité.\n\nAnalysez : (1) si le montant de leur capital social respecte le minimum légal applicable à leur situation ; (2) le mode d'administration que leur société devra adopter, étant donné qu'ils ne sont que deux actionnaires ; (3) si leur projet d'appel public à l'épargne est juridiquement envisageable dans la configuration actuelle de leur société, et ce qu'ils devraient faire pour le rendre possible ; (4) le montant minimum qu'ils doivent verser à la souscription pour leurs apports en numéraire, et le délai dont ils disposent pour le solde.",
+      "choix": [
+        "Leur capital est insuffisant car il faut toujours au moins 100 000 000 ariary pour une SA ; ils peuvent constituer un conseil d'administration sans difficulté ; leur projet d'appel public à l'épargne est sans aucune restriction",
+        "(1) Leur capital de 30 000 000 ariary est supérieur au minimum légal de 10 000 000 ariary pour une SA pluripersonnelle : il est donc conforme. (2) Comme ils ne sont que deux actionnaires — moins de trois — ils doivent recourir à un administrateur général unique, et non à un conseil d'administration. (3) Leur projet d'appel public à l'épargne n'est pas envisageable en l'état, car la loi l'interdit aux SA sans conseil d'administration ; ils devraient augmenter le nombre d'actionnaires à trois au moins pour pouvoir constituer un conseil d'administration et ainsi ouvrir la voie à l'appel public à l'épargne. (4) Ils doivent verser au moins 7 500 000 ariary à la souscription (un quart du capital), le solde de 22 500 000 ariary devant être versé dans un délai de trois ans à compter de l'immatriculation",
+        "Leur capital est largement suffisant pour faire immédiatement appel public à l'épargne sans aucune condition",
+        "Ils doivent obligatoirement verser l'intégralité du capital à la souscription, sans possibilité de délai"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comparez 30 000 000 ariary au minimum légal de 10 000 000 ariary pour une SA pluripersonnelle.",
+        "Comptez le nombre d'actionnaires (Andriamanana et Rasoa) : est-il inférieur à trois ? Quel mode d'administration en découle ?",
+        "Rappelez-vous quelles formes de SA sont exclues de l'appel public à l'épargne, et calculez le quart de 30 000 000 ariary pour la libération minimale à la souscription."
+      ],
+      "explication": "Voici l'analyse complète en quatre points. (1) Conformité du capital social. Le capital social de 30 000 000 ariary est largement supérieur au minimum légal de 10 000 000 ariary exigé pour une société anonyme pluripersonnelle. Leur capital respecte donc parfaitement l'exigence légale applicable à leur situation, puisqu'ils sont deux actionnaires (donc une SA pluripersonnelle, et non unipersonnelle). (2) Le mode d'administration applicable. Comme Andriamanana et Rasoa ne sont que deux actionnaires — un nombre inférieur à trois — leur société ne peut pas être administrée par un conseil d'administration classique. Ils doivent recourir à un administrateur général unique, personne physique assurant seule l'administration et la direction générale de la société. (3) La faisabilité de l'appel public à l'épargne. Leur projet de proposer des actions à de nouveaux investisseurs par voie de publicité constitue précisément un appel public à l'épargne. Or, la loi interdit formellement l'appel public à l'épargne aux sociétés anonymes qui n'ont pas de conseil d'administration — c'est-à-dire celles administrées par un simple administrateur général, comme c'est nécessairement leur cas avec seulement deux actionnaires. Pour pouvoir un jour réaliser ce projet, ils devraient préalablement faire entrer un troisième actionnaire au moins dans leur société, ce qui leur permettrait de constituer un véritable conseil d'administration et, ainsi, d'ouvrir la voie légale à l'appel public à l'épargne. (4) La libération de leurs apports en numéraire. Puisque leur capital de 30 000 000 ariary est exclusivement composé d'apports en numéraire, ils bénéficient du régime de libération partielle propre à la SA : ils doivent verser au moins un quart de cette somme à la souscription, soit 7 500 000 ariary. Le solde, soit 22 500 000 ariary, devra être versé dans un délai de trois ans à compter de l'immatriculation de la société au registre du commerce et des sociétés, selon les modalités d'appel de fonds qu'ils détermineront."
+    }
+  ]
+    }
