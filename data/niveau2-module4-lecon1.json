@@ -1,0 +1,503 @@
+{
+  "niveau": 2,
+  "niveau_label": "Intermédiaire",
+  "module": 4,
+  "titre": "Les effets et l'inexécution du contrat",
+  "description": "Ce module explore ce qui se passe une fois le contrat conclu : sa force obligatoire, ses effets entre les parties et à l'égard des tiers, puis les mécanismes juridiques déclenchés lorsqu'une partie n'exécute pas ses engagements.",
+  "duree_estimee": "45 minutes",
+  "source_legale": "Loi n°66-003 du 2 juillet 1966 relative à la Théorie générale des Obligations (Madagascar)",
+  "lecon": {
+    "introduction": "Imaginez que vous signez un contrat de vente avec quelqu'un à Diego Suarez. Le contrat est formé, vous avez donné votre accord. Mais que se passe-t-il maintenant ? Est-ce que vous pouvez changer d'avis ? Et si l'autre partie ne livre pas la marchandise ? C'est précisément ce que ce module vous apprend : les effets du contrat et les recours en cas de problème.",
+
+    "parties": [
+      {
+        "id": "P1",
+        "titre": "La force obligatoire du contrat : le contrat s'impose comme la loi",
+        "contenu": "Dès que le contrat est légalement formé, il devient obligatoire pour les deux parties. L'article 123 de la loi malgache n°66-003 est très clair : «Le contrat légalement formé s'impose aux parties au même titre que la loi.» Ce n'est pas une formule creuse. Cela signifie concrètement que :\n\n• Aucune partie ne peut se retirer unilatéralement, sauf accord mutuel ou autorisation légale.\n• Les parties doivent exécuter leurs obligations de bonne foi, selon l'esprit dans lequel elles ont conclu le contrat.\n• Le juge ne peut pas modifier le contrat à leur place, sauf cas exceptionnel.\n\nLe contrat comporte aussi des clauses implicites : l'article 124 précise qu'il inclut non seulement ce qui est écrit, mais aussi ce qui découle «de la loi, de l'équité et de l'usage». Ainsi, même si votre contrat de location à Antsiranana ne mentionne pas l'entretien courant, l'usage local et la loi l'imposent au locataire.\n\nPar ailleurs, l'article 126 pose une règle protectrice : «Dans le doute, la convention s'interprète en faveur du débiteur.» Cela veut dire que si une clause est ambiguë, le tribunal l'interprète dans le sens le moins contraignant pour celui qui doit quelque chose.\n\nEnfin, l'article 127 protège la partie faible dans les contrats d'adhésion (abonnements, formulaires standardisés) : les clauses imposées unilatéralement ne lient l'autre partie que si elle a pu en prendre connaissance. Un contractant ne peut pas se voir imposer une clause cachée dans des petits caractères qu'il n'a jamais lus.",
+
+        "exemple_concret": "Rakoto signe un contrat de transport avec une entreprise de fret à Toamasina. Une clause dans les conditions générales, rédigée en petits caractères, exonère l'entreprise de toute responsabilité. Rakoto n'en a jamais eu connaissance au moment de la signature. En vertu de l'article 127, cette clause ne lui est pas opposable."
+      },
+      {
+        "id": "P2",
+        "titre": "L'effet relatif du contrat : qui est lié par le contrat ?",
+        "contenu": "Le principe fondamental est que le contrat ne produit d'effets qu'entre les parties contractantes (article 129). On appelle cela l'effet relatif. Les tiers, c'est-à-dire les personnes extérieures au contrat, ne peuvent ni en réclamer les bénéfices ni en subir les charges.\n\nMais ce principe a des tempéraments importants :\n\n1. L'OPPOSABILITÉ AUX TIERS : Même si les tiers ne sont pas liés, ils doivent respecter la situation juridique créée par le contrat. Exemple : si Rasoa achète un terrain et le fait enregistrer, tout tiers doit respecter son titre de propriété. Le contrat lui est opposable.\n\n2. LES HÉRITIERS ET AYANTS-CAUSE : Selon l'article 130, les héritiers prennent la place du défunt dans les contrats qu'il avait conclus, sauf si le contrat était personnel (contrat de travail artistique, mandat, par exemple). Si votre père avait une dette contractuelle, vous pouvez en hériter.\n\n3. LA STIPULATION POUR AUTRUI : Mécanisme par lequel une personne (le stipulant) obtient d'une autre (le promettant) l'engagement d'effectuer une prestation au profit d'un tiers bénéficiaire. Exemple classique : l'assurance-vie. Vous souscrivez un contrat avec une compagnie d'assurance (vous êtes le stipulant), et en cas de décès, votre enfant (le tiers bénéficiaire) reçoit le capital. L'article 150 précise que ce tiers acquiert un droit propre et direct contre le promettant.\n\n4. LA REPRÉSENTATION : Le représentant agit au nom et pour le compte d'autrui. Les effets du contrat se réalisent directement dans la personne du représenté (article 132). Un directeur de société qui signe un contrat engage la société, pas lui-même personnellement.",
+
+        "exemple_concret": "Rasoa souscrit une assurance-vie au profit de ses trois enfants. Elle décède. Les enfants peuvent directement réclamer le capital à la compagnie d'assurance, même s'ils n'ont jamais signé quoi que ce soit. C'est la stipulation pour autrui (art. 148 à 156)."
+      },
+      {
+        "id": "P3",
+        "titre": "L'inexécution du contrat : les mécanismes de réaction",
+        "contenu": "Quand une partie n'exécute pas ses obligations, la loi malgache offre plusieurs armes au créancier. Il est essentiel de bien les distinguer.\n\nA. LA RÉSOLUTION ET LA RÉSILIATION\n\nCes deux mécanismes mettent fin au contrat, mais leurs effets sont radicalement différents :\n\n• La RÉSOLUTION (art. 164) anéantit le contrat rétroactivement : le contrat est censé n'avoir jamais existé. Les parties doivent se restituer mutuellement ce qu'elles ont reçu. Si Rakoto a payé une avance pour des travaux non réalisés, il peut tout récupérer.\n\n• La RÉSILIATION (art. 165) met fin au contrat pour l'avenir seulement : les effets passés sont maintenus. Elle s'applique surtout aux contrats à exécution successive (bail, abonnement). Si un bail est résilié, les loyers déjà payés ne sont pas remboursés.\n\nComment obtenir la résolution ou la résiliation ? L'article 166 prévoit trois voies :\n1. Par accord mutuel des parties\n2. Par décision de justice (le juge prononce la résolution ou résiliation)\n3. Par décision unilatérale d'une partie, dans des cas limitatifs (art. 167) :\n   - Contrat à durée indéterminée\n   - Exécution devenue matériellement impossible\n   - L'autre partie a écrit qu'elle n'exécuterait pas\n   - Après mise en demeure restée sans effet dans le délai fixé\n\nATTENTION : Une résolution ou résiliation unilatérale notifiée devient irrévocable si le débiteur ne proteste pas et ne saisit pas la justice dans les 3 mois.\n\nB. L'EXCEPTION D'INEXÉCUTION (art. 171-172)\n\nC'est un mécanisme de défense immédiate : si les deux parties doivent exécuter simultanément leurs obligations, l'une peut refuser d'exécuter tant que l'autre ne s'exécute pas. C'est comme dire : «Je ne paie pas si vous ne livrez pas.»\n\nConditions :\n- Les obligations doivent être réciproques et simultanées\n- L'inexécution de l'autre partie doit être suffisamment grave (art. 172)\n- La partie qui invoque l'exception doit être de bonne foi\n\nC. L'IMPOSSIBILITÉ D'EXÉCUTION (art. 173-176)\n\nSi la prestation devient matériellement ou légalement impossible, l'obligation s'éteint. Mais attention à la cause de cette impossibilité :\n- Si c'est la faute du débiteur → il doit réparation (art. 174)\n- Si c'est la force majeure (fait imprévisible, insurmontable, extérieur) → le débiteur est libéré\n\nExemple : Un artisan s'engage à livrer des meubles. Sa boutique brûle accidentellement. Si l'incendie est sans faute de sa part, il est libéré de son obligation. Mais si l'incendie résultait de sa négligence, il reste responsable.",
+
+        "exemple_concret": "Hery commande des briques à un fournisseur pour construire sa maison. Il paie un acompte. Le fournisseur livre des matériaux de mauvaise qualité. Hery peut :\n1. Invoquer l'exception d'inexécution pour ne pas payer le solde\n2. Demander la résolution du contrat et récupérer son acompte\n3. Exiger l'exécution forcée avec dommages-intérêts complémentaires"
+      },
+      {
+        "id": "P4",
+        "titre": "La responsabilité contractuelle : réparer le préjudice causé",
+        "contenu": "Quand le contrat n'est pas exécuté, ou mal exécuté, ou exécuté avec retard, le débiteur doit réparer le préjudice causé au créancier. C'est la responsabilité contractuelle (art. 177 à 196).\n\nA. LES CONDITIONS DE LA RESPONSABILITÉ CONTRACTUELLE\n\n• Une inexécution (totale, partielle ou tardive)\n• Un préjudice subi par le créancier\n• Un lien de causalité entre les deux\n\nLe débiteur peut s'exonérer s'il prouve (art. 178) :\n- Que l'inexécution provient du fait du créancier lui-même\n- Qu'il y a eu force majeure ou fait d'un tiers assimilable\n\nB. OBLIGATION DE MOYENS / OBLIGATION DE RÉSULTAT\n\nCette distinction est cruciale (art. 179) :\n\n• OBLIGATION DE RÉSULTAT : Le débiteur s'engage à atteindre un résultat précis. Il est responsable dès que le résultat n'est pas atteint, sans que le créancier ait à prouver une faute. Exemples : transporter un colis sans le casser, livrer une chose conforme à ce qui a été commandé.\n\n• OBLIGATION DE MOYENS : Le débiteur s'engage seulement à faire de son mieux. Il n'est responsable que si sa faute (manque de diligence, imprudence) est prouvée par le créancier. Exemple : un avocat s'engage à défendre son client de son mieux, pas à gagner le procès.\n\nC. LA MISE EN DEMEURE : ÉTAPE OBLIGATOIRE\n\nAvant de réclamer des dommages-intérêts, le créancier doit en principe mettre le débiteur en demeure d'exécuter (art. 188). C'est une formalité qui consiste à signifier officiellement au débiteur qu'il doit exécuter son obligation.\n\nLa mise en demeure n'est PAS nécessaire (art. 189) dans certains cas :\n- Quand le contrat lui-même le prévoit\n- Quand le débiteur a déclaré par écrit qu'il n'exécuterait pas\n- Quand l'exécution dans un délai précis était de l'essence du contrat (ex : livraison pour un mariage à date fixe)\n\nD. LES DOMMAGES-INTÉRÊTS\n\nLes dommages-intérêts couvrent le préjudice prévisible au moment du contrat (art. 190). Ils comprennent (art. 191) :\n- La perte subie (damnum emergens) : la perte directe, concrète\n- Le gain manqué (lucrum cessans) : les bénéfices que le créancier aurait réalisés si le contrat avait été exécuté\n\nImportant : le créancier a l'obligation de minimiser son préjudice. S'il peut limiter les dégâts et ne le fait pas, les dommages-intérêts seront réduits en conséquence (art. 191 al. 2).\n\nE. LES INTÉRÊTS MORATOIRES\n\nPour les obligations de somme d'argent, des intérêts moratoires courent à compter de la mise en demeure (art. 192). Si aucun taux n'a été prévu dans le contrat, seul le taux légal s'applique.\n\nF. LES CLAUSES PÉNALES\n\nLes parties peuvent prévoir à l'avance, dans le contrat, le montant des dommages-intérêts en cas d'inexécution : c'est la clause pénale (art. 182). Elle s'impose au juge et aux parties.\n\nMais si l'inexécution est seulement partielle, le juge peut réduire proportionnellement la pénalité (art. 183). Et la clause pénale ne protège pas le débiteur en cas de faute lourde ou de dol (art. 185).",
+
+        "exemple_concret": "Voahangy loue un local commercial à Diego Suarez. Le bailleur tarde à effectuer des réparations indispensables pendant 3 mois, causant la fermeture de son commerce. Le préjudice de Voahangy comprend : les frais de fermeture (perte subie) + le manque à gagner de 3 mois d'activité (gain manqué). Elle doit d'abord mettre en demeure le bailleur, puis peut saisir le tribunal pour réclamer ces dommages-intérêts."
+      },
+      {
+        "id": "P5",
+        "titre": "Les conventions relatives à la responsabilité",
+        "contenu": "La loi autorise les parties à aménager contractuellement la responsabilité en cas d'inexécution, dans certaines limites.\n\nCE QUI EST PERMIS (art. 180) :\n• Limiter les cas de responsabilité du débiteur\n• Prévoir que le débiteur assume les conséquences de la force majeure\n• Plafonner le montant des dommages-intérêts\n\nCE QUI EST INTERDIT (art. 181) :\n• S'exonérer totalement et à l'avance de toute responsabilité\n• S'exonérer des conséquences de sa faute lourde (négligence grave) ou de son dol (tromperie intentionnelle)\n\nCes limites protègent le créancier : on ne peut pas signer un contrat qui exonère complètement l'autre partie de ses manquements graves. Une telle clause serait nulle.\n\nLES ARRHES ET L'ACOMPTE (art. 186-187) :\nCes deux notions sont souvent confondues mais ont des effets très différents :\n\n• Les ARRHES : somme versée à la conclusion, qui permet à chaque partie de se désengager. Celui qui donne les arrhes les perd s'il se rétracte. Celui qui les reçoit doit verser le double s'il se rétracte. C'est une faculté de dédit.\n\n• L'ACOMPTE : simple avance sur le prix. Le contrat est définitif. Aucune des parties ne peut se désengager sans conséquences juridiques.\n\nEn cas de doute sur la nature de la somme versée, la loi présume qu'il s'agit d'un acompte (art. 187), pas d'arrhes.",
+
+        "exemple_concret": "Fanja réserve une salle de mariage en versant 200.000 Ar. Le contrat dit «arrhes». Finalement, elle annule. Elle perd les 200.000 Ar. Si c'était le propriétaire de la salle qui annulait, il devrait lui rembourser 400.000 Ar (le double). Si le contrat avait dit «acompte», Fanja devrait payer des dommages-intérêts, pas juste perdre la somme versée."
+      }
+    ],
+
+    "resume": "En résumé : une fois le contrat conclu, il s'impose avec la force de la loi (art. 123). Il lie principalement les parties (effet relatif, art. 129), mais certains tiers peuvent y être associés (stipulation pour autrui, représentation). En cas d'inexécution, le créancier dispose de plusieurs armes : l'exception d'inexécution (refuser d'exécuter à son tour), la résolution (anéantir le contrat rétroactivement) ou la résiliation (y mettre fin pour l'avenir), et toujours les dommages-intérêts après mise en demeure. La distinction obligation de moyens / obligation de résultat détermine qui doit prouver la faute. Les clauses pénales, les arrhes et les acomptes sont des outils préventifs que les parties peuvent utiliser, dans les limites posées par la loi.",
+
+    "points_cles": [
+      "Art. 123 : le contrat s'impose comme la loi",
+      "Art. 126 : en cas de doute, interprétation en faveur du débiteur",
+      "Art. 129 : effet relatif du contrat — seules les parties sont liées",
+      "Art. 148 : la stipulation pour autrui crée un droit direct au profit du tiers",
+      "Art. 164 : résolution = anéantissement rétroactif",
+      "Art. 165 : résiliation = fin pour l'avenir seulement",
+      "Art. 171 : exception d'inexécution — refus légitime d'exécuter",
+      "Art. 179 : obligation de résultat vs obligation de moyens",
+      "Art. 188 : mise en demeure obligatoire avant dommages-intérêts",
+      "Art. 190 : réparation du préjudice prévisible",
+      "Art. 186-187 : arrhes (faculté de dédit) ≠ acompte (avance sur prix)"
+    ]
+  },
+
+  "quiz": {
+    "instructions": "50 questions pour tester votre maîtrise du module. Lisez attentivement chaque question avant de répondre.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Selon l'article 123 de la loi n°66-003, le contrat légalement formé s'impose aux parties :",
+        "options": ["Comme une simple recommandation", "Au même titre que la loi", "Seulement si les deux parties le souhaitent encore", "Uniquement en présence d'un notaire"],
+        "reponse_correcte": 1,
+        "explication": "L'article 123 est formel : «Le contrat légalement formé s'impose aux parties au même titre que la loi.» C'est le principe de la force obligatoire du contrat."
+      },
+      {
+        "id": 2,
+        "question": "Selon la loi malgache, les parties doivent exécuter leur contrat :",
+        "options": ["Uniquement si c'est rentable pour elles", "De bonne foi, dans le sens qu'elles ont entendu lui donner", "Selon l'interprétation du juge", "De manière strictement littérale"],
+        "reponse_correcte": 1,
+        "explication": "L'article 123 al. 2 impose l'exécution de bonne foi, «dans le sens qu'elles ont entendu lui donner». L'intention des parties prime sur la lettre froide du contrat."
+      },
+      {
+        "id": 3,
+        "question": "Les parties peuvent-elles modifier leur contrat unilatéralement une fois conclu ?",
+        "options": ["Oui, à tout moment", "Non, uniquement d'un commun accord ou pour les causes prévues par la loi", "Oui, si une partie estime que les conditions ont changé", "Oui, avec l'accord du juge seulement"],
+        "reponse_correcte": 1,
+        "explication": "Selon l'article 123 al. 3, les parties «ne peuvent le révoquer ou le modifier que de leur consentement mutuel ou pour les causes que la loi autorise». C'est l'irrévocabilité du contrat."
+      },
+      {
+        "id": 4,
+        "question": "Le contrat comporte, outre les clauses expressément stipulées, celles qui découlent de :",
+        "options": ["La seule volonté des parties", "La loi, de l'équité et de l'usage", "La jurisprudence uniquement", "L'accord tacite des voisins"],
+        "reponse_correcte": 1,
+        "explication": "L'article 124 dispose que le contrat comporte aussi les clauses «qui découlent de la loi, de l'équité et de l'usage», à moins que les parties n'aient décidé d'y déroger."
+      },
+      {
+        "id": 5,
+        "question": "Comment s'interprète une convention ambiguë selon l'article 126 ?",
+        "options": ["En faveur du créancier", "En faveur du débiteur", "En faveur de la partie la plus riche", "Selon la libre appréciation du juge sans règle précise"],
+        "reponse_correcte": 1,
+        "explication": "L'article 126 pose la règle : «Dans le doute, la convention s'interprète en faveur du débiteur.» C'est une protection du débiteur dans l'interprétation contractuelle."
+      },
+      {
+        "id": 6,
+        "question": "Dans un contrat d'adhésion, une clause imposée unilatéralement par l'une des parties lie l'autre :",
+        "options": ["Automatiquement dès la signature", "Uniquement si elle a pu en avoir une exacte connaissance", "Jamais, ces clauses sont toujours nulles", "Seulement si elle est écrite en gras"],
+        "reponse_correcte": 1,
+        "explication": "L'article 127 protège la partie adhérente : elle n'est liée que «si elle a pu en avoir une exacte connaissance». Une clause cachée ou inintelligible ne lui est pas opposable."
+      },
+      {
+        "id": 7,
+        "question": "Le contrat conserve-t-il sa force obligatoire si des circonstances exceptionnelles rompent l'équilibre des prestations ?",
+        "options": ["Non, il peut être renégocié automatiquement", "Oui, il conserve sa force obligatoire même dans ce cas", "Cela dépend de la décision du juge", "Non, si le déséquilibre dépasse 50%"],
+        "reponse_correcte": 1,
+        "explication": "L'article 128 consacre le principe : «Le contrat conserve force obligatoire même si des circonstances exceptionnelles ont rompu l'équivalence des prestations.» C'est le rejet de la théorie de l'imprévision en droit malgache."
+      },
+      {
+        "id": 8,
+        "question": "Selon le principe de l'effet relatif (art. 129), un contrat produit des effets :",
+        "options": ["Envers tous sans exception", "Uniquement entre les parties contractantes", "Envers tous ceux qui en ont connaissance", "Envers tous les membres de la famille des contractants"],
+        "reponse_correcte": 1,
+        "explication": "L'article 129 pose le principe de l'effet relatif : «Les contrats ne produisent d'effets qu'entre les parties contractantes.» Les tiers ne peuvent ni en réclamer les bénéfices ni en subir les charges."
+      },
+      {
+        "id": 9,
+        "question": "Les situations juridiques créées par un contrat doivent-elles être respectées par les tiers ?",
+        "options": ["Non, les tiers sont totalement étrangers", "Oui, c'est ce qu'on appelle l'opposabilité aux tiers", "Seulement si le contrat est notarié", "Seulement pour les contrats immobiliers"],
+        "reponse_correcte": 1,
+        "explication": "L'article 129 al. 2 précise : «les situations juridiques qu'ils (les contrats) créent doivent être respectées par les tiers.» C'est l'opposabilité : le tiers ne peut ignorer l'existence du contrat."
+      },
+      {
+        "id": 10,
+        "question": "Les héritiers d'un contractant décédé reprennent-ils sa place dans les contrats qu'il avait conclus ?",
+        "options": ["Non, jamais", "Oui, à moins que le contraire n'ait été stipulé ou ne résulte de la nature du contrat", "Oui, toujours sans exception", "Seulement pour les contrats de moins de 5 ans"],
+        "reponse_correcte": 1,
+        "explication": "L'article 130 prévoit la transmission aux héritiers, sauf disposition contraire ou contrat à caractère personnel (intuitu personae), comme un contrat de service fondé sur les qualités personnelles du défunt."
+      },
+      {
+        "id": 11,
+        "question": "Qu'est-ce que la stipulation pour autrui ?",
+        "options": ["Un contrat entre deux absents", "Un contrat par lequel une personne obtient d'une autre un engagement au profit d'un tiers bénéficiaire", "Une clause pénale en faveur d'un tiers", "Un mandat donné à un tiers pour conclure un contrat"],
+        "reponse_correcte": 1,
+        "explication": "L'article 148 définit la stipulation pour autrui : une personne (stipulant) obtient d'une autre (promettant) l'engagement d'effectuer une prestation au profit d'un tiers bénéficiaire étranger au contrat."
+      },
+      {
+        "id": 12,
+        "question": "Dans la stipulation pour autrui, quel droit le tiers bénéficiaire acquiert-il ?",
+        "options": ["Aucun droit, il est tiers", "Un droit propre et direct à l'encontre du promettant", "Un simple droit de créance contre le stipulant", "Un droit conditionnel à l'accord du promettant"],
+        "reponse_correcte": 1,
+        "explication": "L'article 150 est clair : la stipulation «fait naître au profit du tiers bénéficiaire un droit propre et direct à l'encontre du promettant». Ce droit naît automatiquement, sans qu'il ait besoin d'accepter."
+      },
+      {
+        "id": 13,
+        "question": "Le stipulant peut-il révoquer la stipulation pour autrui après que le tiers l'a acceptée ?",
+        "options": ["Oui, à tout moment", "Non, plus possible après l'acceptation non équivoque du tiers", "Oui, avec l'accord du promettant", "Cela dépend du type de contrat"],
+        "reponse_correcte": 1,
+        "explication": "L'article 151 prévoit que la révocation n'est possible que «tant que le tiers bénéficiaire n'a pas manifesté, d'une façon quelconque mais non équivoque, son intention de l'accepter»."
+      },
+      {
+        "id": 14,
+        "question": "La représentation conventionnelle doit-elle faire l'objet d'un écrit ?",
+        "options": ["Non, elle peut être verbale", "Oui, selon l'article 135", "Seulement pour les actes immobiliers", "Non, la jurisprudence l'admet librement"],
+        "reponse_correcte": 1,
+        "explication": "L'article 135 exige un écrit pour la représentation conventionnelle. C'est une condition de forme indispensable pour prouver l'existence et l'étendue du mandat."
+      },
+      {
+        "id": 15,
+        "question": "Le représentant encourt-il une responsabilité envers les tiers lorsqu'il agit dans les limites de son mandat ?",
+        "options": ["Oui, solidairement avec le représenté", "Non, aucune responsabilité dans les limites du pouvoir", "Seulement en cas de faute", "Toujours, car il est signataire"],
+        "reponse_correcte": 1,
+        "explication": "L'article 137 précise : «Le représentant n'encourt pas de responsabilité à l'égard des tiers lorsqu'il ne dépasse pas les limites de son pouvoir.» C'est lui qui reçoit les effets du contrat, non son représentant."
+      },
+      {
+        "id": 16,
+        "question": "En matière de simulation (art. 161), quel est l'acte qui détermine les droits et obligations entre les parties ?",
+        "options": ["L'acte apparent (ostensible)", "L'acte secret", "Les deux actes combinés", "Ni l'un ni l'autre, le juge décide librement"],
+        "reponse_correcte": 1,
+        "explication": "L'article 162 est formel : «Seul l'acte secret détermine les droits et obligations des parties qui l'ont souscrit.» Mais les tiers de bonne foi peuvent choisir entre l'acte apparent et l'acte secret (art. 163)."
+      },
+      {
+        "id": 17,
+        "question": "Quelle est la différence fondamentale entre la résolution et la résiliation ?",
+        "options": ["Il n'y a aucune différence", "La résolution a un effet rétroactif, la résiliation ne vaut que pour l'avenir", "La résiliation est judiciaire, la résolution est amiable", "La résolution concerne les baux, la résiliation les autres contrats"],
+        "reponse_correcte": 1,
+        "explication": "C'est la distinction essentielle : la résolution (art. 164) anéantit le contrat rétroactivement (comme s'il n'avait jamais existé), tandis que la résiliation (art. 165) y met fin pour l'avenir seulement."
+      },
+      {
+        "id": 18,
+        "question": "Dans quels cas la résolution ou la résiliation peut-elle résulter d'une décision unilatérale d'une partie ?",
+        "options": ["En aucun cas, il faut toujours un accord ou un juge", "Dans les 4 cas limitatifs prévus par l'article 167", "Dès qu'il y a un simple retard d'exécution", "Uniquement dans les contrats commerciaux"],
+        "reponse_correcte": 1,
+        "explication": "L'article 167 prévoit 4 cas : contrat à durée indéterminée, exécution matériellement impossible, l'autre partie a écrit qu'elle n'exécuterait pas, ou après mise en demeure restée sans effet."
+      },
+      {
+        "id": 19,
+        "question": "Une résolution ou résiliation unilatérale notifiée devient irrévocable si le débiteur ne proteste pas dans un délai de :",
+        "options": ["1 mois", "3 mois", "6 mois", "1 an"],
+        "reponse_correcte": 1,
+        "explication": "L'article 167 al. 2 précise : «La résolution ou la résiliation ainsi notifiées deviennent irrévocables si, dans le délai de trois mois, le débiteur n'a pas protesté et saisi la justice du litige.»"
+      },
+      {
+        "id": 20,
+        "question": "Qu'est-ce que l'exception d'inexécution ?",
+        "options": ["Le droit de résoudre le contrat sans passer par le juge", "Le droit de refuser sa propre prestation tant que l'autre partie n'a pas exécuté", "La possibilité d'invoquer la force majeure", "Une clause contractuelle permettant de retarder l'exécution"],
+        "reponse_correcte": 1,
+        "explication": "L'article 171 définit l'exception d'inexécution : chaque partie peut «refuser la prestation qu'elle doit, dans la mesure où l'autre n'a pas fourni la sienne ou offert de la fournir». Le contrat est suspendu, pas résolu."
+      },
+      {
+        "id": 21,
+        "question": "Pour invoquer l'exception d'inexécution, le manquement de l'autre partie doit être :",
+        "options": ["Minime", "Suffisamment grave", "Total uniquement", "Confirmé par un tribunal"],
+        "reponse_correcte": 1,
+        "explication": "L'article 172 exige que «celui qui invoque l'exception d'inexécution devra justifier d'un manquement suffisamment grave de l'autre partie». Une légère irrégularité ne suffit pas."
+      },
+      {
+        "id": 22,
+        "question": "Que se passe-t-il si l'exécution de la prestation devient matériellement impossible sans faute du débiteur ?",
+        "options": ["Le débiteur doit payer des dommages-intérêts", "L'obligation s'éteint avec tous ses accessoires", "Le juge adapte l'obligation", "Le créancier peut saisir les biens du débiteur"],
+        "reponse_correcte": 1,
+        "explication": "L'article 173 prévoit l'extinction de l'obligation «lorsque la prestation qui en fait l'objet devient matériellement ou légalement impossible». L'obligation disparaît totalement ou partiellement."
+      },
+      {
+        "id": 23,
+        "question": "Si l'impossibilité d'exécution provient de la faute du débiteur, que doit-il au créancier ?",
+        "options": ["Rien, il est libéré comme en cas de force majeure", "Réparation dans la proportion du préjudice subi", "Le double de la valeur de la prestation", "Une indemnité forfaitaire fixée par la loi"],
+        "reponse_correcte": 1,
+        "explication": "L'article 174 : «Si l'impossibilité provient du fait ou de la faute du débiteur, celui-ci en doit réparation au créancier, dans la proportion du préjudice subi.» La faute fait naître l'obligation de réparer."
+      },
+      {
+        "id": 24,
+        "question": "En cas d'inexécution totale ou partielle d'un contrat, le débiteur répond des actions de :",
+        "options": ["Ses seuls actes personnels", "Ses actes personnels, de ses substituts, préposés ou représentants", "Ses actes personnels uniquement s'il a agi seul", "Ses actes et ceux de ses associés"],
+        "reponse_correcte": 1,
+        "explication": "L'article 177 al. 2 précise que «lorsque l'exécution est assumée par le substitut, le préposé ou le représentant du débiteur, celui-ci répond de leurs actions et abstentions comme des siennes propres»."
+      },
+      {
+        "id": 25,
+        "question": "Quelle est la différence entre une obligation de résultat et une obligation de moyens ?",
+        "options": ["Le résultat est toujours plus lourd que les moyens", "Le résultat engage sans faute prouvée, les moyens n'engagent qu'en cas de faute prouvée du créancier", "L'obligation de résultat s'applique aux professionnels, les moyens aux particuliers", "Il n'y a pas de différence en droit malgache"],
+        "reponse_correcte": 1,
+        "explication": "Article 179 : le débiteur d'une obligation de résultat est responsable dès que le résultat n'est pas atteint. Le débiteur d'une obligation de moyens n'est responsable que si son manque de diligence est prouvé."
+      },
+      {
+        "id": 26,
+        "question": "Un médecin souscrit-il généralement une obligation de résultat ou de moyens envers son patient ?",
+        "options": ["Obligation de résultat (il doit guérir le patient)", "Obligation de moyens (il doit soigner avec diligence et compétence)", "Les deux selon les cas", "Aucune des deux, il bénéficie d'une immunité"],
+        "reponse_correcte": 1,
+        "explication": "Le médecin souscrit classiquement une obligation de moyens : il s'engage à soigner selon les règles de l'art, pas à guérir. La responsabilité ne naît que si une faute (imprudence, négligence) est prouvée."
+      },
+      {
+        "id": 27,
+        "question": "Le transporteur qui s'engage à livrer une marchandise intacte souscrit généralement :",
+        "options": ["Une obligation de moyens", "Une obligation de résultat", "Une obligation naturelle", "Une obligation alternative"],
+        "reponse_correcte": 1,
+        "explication": "Le transporteur s'engage à livrer la chose dans l'état convenu : c'est une obligation de résultat. Toute détérioration engage sa responsabilité sans que le créancier ait à prouver une faute."
+      },
+      {
+        "id": 28,
+        "question": "Avant de réclamer des dommages-intérêts, le créancier doit en principe :",
+        "options": ["Saisir immédiatement le tribunal", "Mettre le débiteur en demeure d'exécuter", "Résilier unilatéralement le contrat", "Prouver la mauvaise foi du débiteur"],
+        "reponse_correcte": 1,
+        "explication": "L'article 188 impose la mise en demeure préalable : «Le créancier ne peut poursuivre la réparation du préjudice subi qu'après avoir mis le débiteur en demeure d'exécuter son obligation.»"
+      },
+      {
+        "id": 29,
+        "question": "La mise en demeure est-elle soumise à une forme spéciale selon la loi malgache ?",
+        "options": ["Oui, elle doit être notariée", "Non, sauf disposition légale contraire, elle n'est soumise à aucune forme spéciale", "Oui, elle doit être envoyée en lettre recommandée uniquement", "Oui, elle doit être faite par voie d'huissier"],
+        "reponse_correcte": 1,
+        "explication": "L'article 188 al. 2 : «Sauf lorsque la loi en dispose autrement, la mise en demeure n'est soumise à aucune forme spéciale.» Elle peut donc être verbale, par lettre simple, par email, etc."
+      },
+      {
+        "id": 30,
+        "question": "Dans quel cas la mise en demeure n'est-elle PAS nécessaire avant de réclamer des dommages-intérêts ?",
+        "options": ["Quand le contrat est verbal", "Quand le débiteur a déclaré par écrit qu'il n'exécuterait pas son obligation", "Quand le préjudice est supérieur à 1 million d'ariary", "Quand les parties sont domiciliées dans des villes différentes"],
+        "reponse_correcte": 1,
+        "explication": "L'article 189 prévoit plusieurs exceptions à l'exigence de mise en demeure, dont le cas où «le débiteur s'est reconnu en demeure» ou «a déclaré par écrit qu'il n'exécuterait pas son obligation»."
+      },
+      {
+        "id": 31,
+        "question": "Les dommages-intérêts contractuels couvrent en principe :",
+        "options": ["Tout préjudice, même imprévisible", "Le préjudice découlant directement de l'inexécution et pouvant être raisonnablement prévu", "Uniquement les préjudices matériels", "Le double de la valeur de la prestation inexécutée"],
+        "reponse_correcte": 1,
+        "explication": "L'article 190 limite les dommages-intérêts au «préjudice découlant directement de l'inexécution et pouvant être raisonnablement prévu». Exception : en cas de faute lourde ou de dol, même le préjudice imprévisible est couvert."
+      },
+      {
+        "id": 32,
+        "question": "Les dommages-intérêts peuvent comprendre :",
+        "options": ["Uniquement la perte subie", "La perte subie ET le gain manqué (bénéfice dont le créancier a été privé)", "Uniquement le gain manqué", "Le préjudice moral uniquement"],
+        "reponse_correcte": 1,
+        "explication": "L'article 191 est explicite : «Le créancier peut invoquer comme éléments de son préjudice la perte qu'il a subie et le gain dont il a été privé.» Ces deux composantes forment le préjudice réparable."
+      },
+      {
+        "id": 33,
+        "question": "Si le créancier pouvait limiter son préjudice et ne l'a pas fait, que se passe-t-il ?",
+        "options": ["Ses dommages-intérêts sont doublés à titre de sanction", "Ses dommages-intérêts sont réduits à hauteur de sa négligence", "Rien, il perçoit l'intégralité de ce qui lui est dû", "Il perd tout droit à réparation"],
+        "reponse_correcte": 1,
+        "explication": "L'article 191 al. 2 oblige le créancier à minimiser son préjudice. S'il ne le fait pas, les dommages-intérêts sont réduits «correspondant à cette négligence». C'est le principe de mitigation du préjudice."
+      },
+      {
+        "id": 34,
+        "question": "À partir de quand les intérêts moratoires sont-ils dus sur une somme d'argent ?",
+        "options": ["Du jour du contrat", "Du jour de la mise en demeure ou du jour prévu par la loi", "Du jour du jugement définitif", "Du jour de la demande en justice uniquement"],
+        "reponse_correcte": 1,
+        "explication": "L'article 192 : «Les intérêts moratoires sont dus du jour de la mise en demeure ou du jour où la loi les fait courir de plein droit.» Ils compensent le retard dans le paiement d'une somme d'argent."
+      },
+      {
+        "id": 35,
+        "question": "Si aucun taux d'intérêt n'est prévu dans le contrat, quel taux s'applique ?",
+        "options": ["Aucun intérêt n'est dû", "Le taux légal uniquement", "Un taux fixé par le juge", "Le taux du marché monétaire"],
+        "reponse_correcte": 1,
+        "explication": "L'article 192 al. 2 : «À défaut de taux fixé par le contrat, seul l'intérêt légal est exigible.» Le taux légal est fixé périodiquement par les autorités compétentes."
+      },
+      {
+        "id": 36,
+        "question": "Pour apprécier le préjudice subi par le créancier, les juges se placent :",
+        "options": ["Au jour de la conclusion du contrat", "Au jour de l'inexécution", "Au jour où ils rendent leur décision", "Au jour de la mise en demeure"],
+        "reponse_correcte": 2,
+        "explication": "L'article 194 : «Les juges doivent se placer, pour apprécier le préjudice subi par le créancier, au jour où ils rendent leur décision.» Cela permet de tenir compte de l'évolution de la valeur des choses."
+      },
+      {
+        "id": 37,
+        "question": "Les parties peuvent-elles limiter à l'avance leur responsabilité contractuelle ?",
+        "options": ["Non, c'est impossible", "Oui, dans les cas non interdits par la loi", "Oui, sans aucune limite", "Non, sauf pour les contrats commerciaux"],
+        "reponse_correcte": 1,
+        "explication": "L'article 180 autorise les parties à «étendre ou limiter par avance leur responsabilité contractuelle», notamment en réduisant les cas de responsabilité ou le montant des dommages-intérêts."
+      },
+      {
+        "id": 38,
+        "question": "Peut-on s'exonérer contractuellement des conséquences de sa faute lourde ou de son dol ?",
+        "options": ["Oui, si c'est expressément stipulé", "Non, c'est formellement interdit par l'article 181", "Oui, dans les contrats commerciaux uniquement", "Oui, si la partie adverse est d'accord"],
+        "reponse_correcte": 1,
+        "explication": "L'article 181 est impératif : «On ne peut s'exonérer par avance ni de toute responsabilité, ni des conséquences de la faute lourde ou du dol.» Une telle clause serait nulle de plein droit."
+      },
+      {
+        "id": 39,
+        "question": "Qu'est-ce qu'une clause pénale ?",
+        "options": ["Une clause qui punit pénalement le débiteur défaillant", "Une clause qui prévoit à l'avance le montant des dommages-intérêts en cas d'inexécution", "Une clause qui donne au créancier le droit de saisir les biens du débiteur", "Une clause d'exclusion de responsabilité totale"],
+        "reponse_correcte": 1,
+        "explication": "L'article 182 définit la clause pénale : «s'engager au paiement d'une réparation forfaitaire en cas d'inexécution d'une obligation». Elle fixe à l'avance le montant des dommages-intérêts."
+      },
+      {
+        "id": 40,
+        "question": "En cas d'inexécution totale avec clause pénale, le créancier peut-il cumuler la pénalité et l'exécution forcée ?",
+        "options": ["Oui, toujours", "Non, il doit choisir entre l'un ou l'autre", "Oui, si le contrat le prévoit expressément", "Non, la pénalité remplace automatiquement tout recours"],
+        "reponse_correcte": 1,
+        "explication": "L'article 183 : en cas d'inexécution totale, «le créancier ne peut que poursuivre l'exécution de l'obligation principale ou demander la pénalité stipulée». C'est une alternative, pas un cumul."
+      },
+      {
+        "id": 41,
+        "question": "La clause pénale protège-t-elle le débiteur en cas de faute lourde ou de dol ?",
+        "options": ["Oui, elle limite sa responsabilité dans tous les cas", "Non, elle ne l'exonère pas des conséquences de sa faute lourde ou de son dol", "Oui, mais seulement pour la faute lourde", "Oui, sauf indication contraire dans le contrat"],
+        "reponse_correcte": 1,
+        "explication": "L'article 185 : «L'application de la clause pénale au débiteur ne l'exonère pas des conséquences de sa faute lourde ou de son dol.» La faute grave ou la tromperie doivent être pleinement réparées."
+      },
+      {
+        "id": 42,
+        "question": "Quelle est la différence entre les arrhes et un acompte ?",
+        "options": ["Les arrhes sont plus importantes que l'acompte", "Les arrhes permettent de se désengager (faculté de dédit), l'acompte est une simple avance sur prix", "L'acompte est perdu en cas de dédit, pas les arrhes", "Il n'y a aucune différence juridique"],
+        "reponse_correcte": 1,
+        "explication": "L'article 186 : les arrhes permettent à chaque partie de se désengager (celui qui les donne les perd, celui qui les reçoit verse le double). L'acompte (art. 187) est une avance : le contrat reste définitif."
+      },
+      {
+        "id": 43,
+        "question": "En cas de doute sur la nature d'une somme versée (arrhes ou acompte), la loi présume qu'il s'agit :",
+        "options": ["D'arrhes", "D'un acompte", "D'une garantie", "D'une avance remboursable sans condition"],
+        "reponse_correcte": 1,
+        "explication": "L'article 187 établit une présomption légale : «la remise initiale d'une somme par le débiteur d'une obligation contractuelle doit être considérée comme un acompte sur le prix et non comme versement d'arrhes.»"
+      },
+      {
+        "id": 44,
+        "question": "Si le vendeur reçoit des arrhes et souhaite annuler le contrat, que doit-il faire ?",
+        "options": ["Rembourser simplement le montant des arrhes", "Verser le double des arrhes reçues", "Conserver les arrhes et proposer un remplaçant", "Payer une pénalité fixée par le juge"],
+        "reponse_correcte": 1,
+        "explication": "L'article 186 al. 2 : la partie qui a reçu les arrhes «s'en départir en versant le double». C'est la contrepartie du droit de dédit : si je reçois 100.000 Ar d'arrhes et que j'annule, je rembourse 200.000 Ar."
+      },
+      {
+        "id": 45,
+        "question": "La résolution d'un contrat pour inexécution peut-elle résulter de l'accord des parties ?",
+        "options": ["Non, seul le juge peut prononcer la résolution", "Oui, la résolution peut résulter de l'accord des parties", "Oui, mais uniquement pour les contrats commerciaux", "Non, il faut toujours passer par un notaire"],
+        "reponse_correcte": 1,
+        "explication": "L'article 166 prévoit clairement que résolution et résiliation «résulte soit de l'accord des parties, soit d'une décision de justice». L'amiable est donc toujours possible et même encouragé."
+      },
+      {
+        "id": 46,
+        "question": "Qu'est-ce que la clause résolutoire ?",
+        "options": ["Une clause qui oblige à résoudre tous les litiges par arbitrage", "Une clause contractuelle prévoyant la résolution automatique en cas d'inexécution d'une obligation déterminée", "Une clause qui limite la responsabilité du débiteur", "Une clause autorisant la résiliation unilatérale sans préavis"],
+        "reponse_correcte": 1,
+        "explication": "La clause résolutoire est une clause insérée dans le contrat par laquelle les parties conviennent que le contrat sera automatiquement résolu en cas de manquement à une obligation précise, sans intervention du juge."
+      },
+      {
+        "id": 47,
+        "question": "Selon l'article 170, face à une inexécution, le juge peut :",
+        "options": ["Uniquement prononcer la résolution", "Accorder un délai supplémentaire, justifier momentanément l'inexécution, ou refuser la résolution si l'exécution partielle est suffisante", "Uniquement accorder des dommages-intérêts", "Modifier les termes du contrat"],
+        "reponse_correcte": 1,
+        "explication": "L'article 170 donne au juge un large pouvoir d'appréciation : il peut accorder un délai à la partie défaillante, constater que l'inexécution est momentanément justifiée, ou refuser la résolution si l'exécution partielle est importante."
+      },
+      {
+        "id": 48,
+        "question": "Après une mise en demeure restée sans effet, que peut demander la partie lésée ?",
+        "options": ["Uniquement la résolution du contrat", "La résolution ou résiliation judiciaire et éventuellement des dommages-intérêts", "Uniquement des dommages-intérêts", "L'emprisonnement du débiteur"],
+        "reponse_correcte": 1,
+        "explication": "L'article 169 : «l'autre partie peut demander la résolution ou la résiliation judiciaire du contrat et, éventuellement, des dommages-intérêts.» Les deux sont possibles, même simultanément."
+      },
+      {
+        "id": 49,
+        "question": "La mort d'un contractant peut-elle entraîner la résolution ou la résiliation du contrat ?",
+        "options": ["Non, jamais", "Oui, si la considération de la personne décédée avait déterminé l'autre à contracter", "Oui, automatiquement dans tous les cas", "Seulement si le contrat dure plus de 5 ans"],
+        "reponse_correcte": 1,
+        "explication": "L'article 168 : résolution ou résiliation «résulte également de la mort de l'un des contractants, quand la considération de la personne décédée avait déterminé l'autre à contracter». Contrats intuitu personae."
+      },
+      {
+        "id": 50,
+        "question": "En cas d'inexécution contractuelle résultant d'une faute lourde du débiteur, les dommages-intérêts couvrent :",
+        "options": ["Uniquement le préjudice prévisible au jour du contrat", "Le préjudice direct effectivement subi, même s'il ne pouvait pas être prévu lors du contrat", "Le double du préjudice subi", "Uniquement le gain manqué"],
+        "reponse_correcte": 1,
+        "explication": "L'article 190 al. 2 crée une exception importante : en cas de «faute lourde ou de dol du débiteur», les dommages-intérêts «doivent compenser le préjudice direct effectivement subi, même s'il ne pouvait être prévu lors du contrat»."
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": "CP1",
+      "titre": "L'affaire du prestataire informatique de Diego Suarez",
+      "contexte": "Monsieur ANDRIAMAHEFA dirige une petite entreprise de services à Antsiranana. En janvier, il signe un contrat avec la société TECH MADA pour la création d'un logiciel de gestion de stock, livrable dans 3 mois, pour un prix de 2.000.000 Ar. Il verse un acompte de 800.000 Ar à la signature. Dans le contrat, une clause pénale prévoit que tout retard de livraison donnera lieu au paiement de 50.000 Ar par semaine de retard.\n\nSix mois après la signature, le logiciel n'est toujours pas livré. TECH MADA invoque des difficultés techniques imprévues. M. ANDRIAMAHEFA a perdu plusieurs clients faute d'un outil de gestion efficace, et estime son manque à gagner à 1.500.000 Ar sur 3 mois de retard.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "M. ANDRIAMAHEFA doit-il mettre en demeure TECH MADA avant de réclamer ses dommages-intérêts ?",
+          "reponse_attendue": "En principe, oui (art. 188). La mise en demeure est préalable à toute réclamation de dommages-intérêts. Cependant, si le contrat prévoit lui-même un délai de livraison précis (3 mois) dont le dépassement entraîne automatiquement l'application de la clause pénale, il peut être argumenté que la mise en demeure formelle est superflue. En pratique, M. ANDRIAMAHEFA devrait adresser une mise en demeure écrite à TECH MADA pour sécuriser sa position."
+        },
+        {
+          "numero": 2,
+          "question": "La clause pénale s'applique-t-elle ? Comment se calcule la pénalité ?",
+          "reponse_attendue": "Oui, la clause pénale (art. 182-183) s'applique en cas de retard. Le retard est de 3 mois = 13 semaines. Pénalité = 13 × 50.000 Ar = 650.000 Ar. Cette pénalité s'impose au juge et aux parties. M. ANDRIAMAHEFA ne peut pas en plus réclamer l'exécution forcée : il doit choisir entre la pénalité et l'exécution (art. 183). Sauf si le contrat précise que la pénalité s'applique pour l'exécution tardive (et non en lieu et place de l'exécution), auquel cas il peut cumuler."
+        },
+        {
+          "numero": 3,
+          "question": "M. ANDRIAMAHEFA peut-il réclamer 1.500.000 Ar de manque à gagner en plus de la clause pénale ?",
+          "reponse_attendue": "Difficilement en cas d'inexécution simple. La clause pénale est forfaitaire et s'impose. Cependant, si TECH MADA a commis une faute lourde ou un dol (art. 185), la clause pénale ne les exonère pas. Dans ce cas, M. ANDRIAMAHEFA pourrait réclamer les 1.500.000 Ar de manque à gagner supplémentaire. Il doit également démontrer qu'il a fait tout son possible pour minimiser son préjudice (art. 191 al. 2) : a-t-il cherché un autre prestataire ?"
+        },
+        {
+          "numero": 4,
+          "question": "L'acompte de 800.000 Ar peut-il être récupéré si M. ANDRIAMAHEFA demande la résolution du contrat ?",
+          "reponse_attendue": "Oui. En cas de résolution (art. 164), le contrat est anéanti rétroactivement et les parties doivent se restituer mutuellement ce qu'elles ont reçu. L'acompte n'est pas des arrhes (la loi présume qu'il s'agit d'un acompte selon l'art. 187), donc TECH MADA devra rembourser les 800.000 Ar. M. ANDRIAMAHEFA peut donc cumuler : résolution + restitution de l'acompte + clause pénale (si la faute est grave)."
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre l'articulation entre la clause pénale (réparation forfaitaire préétablie), la résolution (anéantissement rétroactif), et la restitution de l'acompte. En pratique, la rédaction soigneuse des contrats – notamment les clauses pénales et la qualification des avances – est déterminante pour protéger ses droits."
+    },
+    {
+      "id": "CP2",
+      "titre": "Le bail commercial et l'exception d'inexécution à Nosy-Be",
+      "contexte": "Madame RASOANIRINY loue un local commercial à Nosy-Be pour y exercer une activité de restauration. Le bail prévoit : loyer mensuel de 300.000 Ar, paiable le 5 de chaque mois, et obligation pour le bailleur d'assurer les grosses réparations du local. En juillet, la toiture du local se met à fuir, causant des dégâts importants et rendant une partie du restaurant inutilisable. Mme RASOANIRINY signale le problème au bailleur par écrit. Deux mois passent sans aucune intervention du bailleur.\n\nMme RASOANIRINY décide de ne plus payer son loyer tant que la toiture n'est pas réparée. Le bailleur la menace d'expulsion et réclame les 2 loyers impayés (600.000 Ar) devant le tribunal.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "Mme RASOANIRINY peut-elle légalement invoquer l'exception d'inexécution pour justifier le non-paiement des loyers ?",
+          "reponse_attendue": "Oui, sous conditions (art. 171-172). L'exception d'inexécution est possible si :\n1. Les obligations sont réciproques et simultanées : le loyer est dû en contrepartie de la jouissance paisible du local, incluant les grosses réparations.\n2. Le manquement du bailleur est suffisamment grave (art. 172) : une toiture qui fuit rendant une partie du local inutilisable est un manquement grave à l'obligation de délivrance et d'entretien.\n3. Mme RASOANIRINY est de bonne foi : elle a signalé le problème par écrit et attendu 2 mois.\nEn pratique, le juge appréciera la proportionnalité : peut-elle retenir 100% du loyer si seulement une partie est inutilisable ? Il pourrait décider une retenue proportionnelle."
+        },
+        {
+          "numero": 2,
+          "question": "Mme RASOANIRINY peut-elle résilier le bail unilatéralement si la situation perdure ?",
+          "reponse_attendue": "Oui, selon l'article 167. Elle peut résilier unilatéralement si le bailleur, «après mise en demeure, n'a pas exécuté son obligation» dans le délai prévu. Elle doit :\n1. Envoyer une mise en demeure formelle avec délai précis\n2. Si le bailleur ne réagit pas dans ce délai, notifier la résiliation par écrit\n3. Le bailleur a 3 mois pour contester en justice, sinon la résiliation devient irrévocable.\nMais attention : la résiliation (art. 165) ne vaut que pour l'avenir. Les loyers du passé ne sont pas effacés, mais le manquement du bailleur peut justifier une réduction ou une suspension."
+        },
+        {
+          "numero": 3,
+          "question": "Mme RASOANIRINY peut-elle réclamer des dommages-intérêts pour la perte de chiffre d'affaires causée par la fermeture partielle ?",
+          "reponse_attendue": "Oui, en application de l'article 177 et 190. Les conditions sont réunies :\n- Inexécution contractuelle du bailleur (non-réparation de la toiture)\n- Préjudice direct : perte de chiffre d'affaires sur la partie inutilisable\n- Lien de causalité direct\nElle doit prouver son préjudice (livres de caisse, comparaison avec périodes antérieures). Les dommages-intérêts comprennent la perte subie et le gain manqué (art. 191). Elle doit également démontrer qu'elle a fait ce qui était en son pouvoir pour limiter le préjudice (art. 191 al. 2) : a-t-elle tenté de réaménager l'espace disponible ?"
+        },
+        {
+          "numero": 4,
+          "question": "Le bailleur qui demande les 600.000 Ar de loyers impayés peut-il réussir devant le tribunal ?",
+          "reponse_attendue": "Probablement pas en totalité. Le tribunal appréciera :\n1. La réalité du manquement du bailleur (preuve : signalement écrit)\n2. La gravité du manquement (partie du local inutilisable)\n3. La proportionnalité de la suspension (100% de loyer suspendu pour un manquement partiel ?)\nLe juge peut (art. 170) refuser la demande intégrale du bailleur, accorder à Mme RASOANIRINY une réduction de loyer proportionnelle à la partie inutilisable, et condamner le bailleur à effectuer les travaux sous astreinte (art. 54). Le résultat dépend des preuves produites par chaque partie."
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre l'exception d'inexécution dans les contrats synallagmatiques et la nécessité de documenter tout manquement par écrit. En pratique, face à un bailleur défaillant, la stratégie la plus solide est de signaler les problèmes par écrit, conserver les preuves du préjudice, et saisir le juge des référés pour ordonner les travaux en urgence plutôt que de cesser unilatéralement de payer — ce qui expose à un risque d'expulsion."
+    }
+  ],
+
+  "references_legales": [
+    { "article": "123", "sujet": "Force obligatoire du contrat" },
+    { "article": "124", "sujet": "Clauses implicites du contrat" },
+    { "article": "125-126", "sujet": "Interprétation du contrat — favor debitoris" },
+    { "article": "127", "sujet": "Opposabilité des clauses dans les contrats d'adhésion" },
+    { "article": "128", "sujet": "Immutabilité du contrat face aux circonstances" },
+    { "article": "129-131", "sujet": "Effet relatif — opposabilité aux tiers" },
+    { "article": "132-147", "sujet": "La représentation" },
+    { "article": "148-156", "sujet": "La stipulation pour autrui" },
+    { "article": "161-163", "sujet": "La simulation" },
+    { "article": "164-165", "sujet": "Résolution vs résiliation" },
+    { "article": "166-170", "sujet": "Modes et effets de la résolution/résiliation" },
+    { "article": "171-172", "sujet": "L'exception d'inexécution" },
+    { "article": "173-176", "sujet": "L'impossibilité d'exécution" },
+    { "article": "177-179", "sujet": "Responsabilité contractuelle — obligation de moyens/résultat" },
+    { "article": "180-181", "sujet": "Conventions d'aménagement de la responsabilité" },
+    { "article": "182-185", "sujet": "La clause pénale" },
+    { "article": "186-187", "sujet": "Arrhes et acompte" },
+    { "article": "188-193", "sujet": "Mise en demeure et dommages-intérêts" },
+    { "article": "194", "sujet": "Appréciation du préjudice au jour du jugement" }
+  ]
+}
