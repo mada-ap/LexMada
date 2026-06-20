@@ -1,0 +1,943 @@
+{
+  "titre": "Le licenciement et ses conditions",
+  "module": "Module 8 — Niveau 2 (Intermédiaire)",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que le licenciement ? Définition et cadre juridique",
+      "texte": "Le licenciement est la décision unilatérale par laquelle l'employeur met fin au contrat de travail à durée indéterminée d'un salarié. C'est un acte grave, aux conséquences lourdes pour le salarié comme pour l'entreprise. C'est pourquoi la loi l'encadre strictement : on ne licencie pas comme on congédie un invité. Il faut une raison valable, une procédure respectée, et des obligations financières à honorer.\n\nLe licenciement ne concerne que les contrats à durée indéterminée — les CDI. La fin d'un CDD n'est pas un licenciement : elle résulte de l'arrivée du terme prévu. De même, la rupture en période d'essai n'est pas un licenciement à proprement parler — l'employeur n'a pas à en justifier le motif.\n\nEn droit malgache, comme dans les systèmes juridiques d'inspiration française dont s'inspire le Code du travail malgache, le licenciement d'un salarié engagé sans limitation de durée est une manifestation du droit de résiliation unilatérale du contrat de travail à durée indéterminée. Ce droit de résiliation est reconnu à l'employeur, mais il n'est pas sans limite.\n\nTrois grandes familles de limites encadrent ce droit : les procédures préalables que l'employeur doit respecter avant de licencier, les obligations financières envers le salarié licencié, et les circonstances dans lesquelles le licenciement peut revêtir un caractère abusif ouvrant droit à des dommages-intérêts.",
+      "definition": "Licenciement : rupture unilatérale par l'employeur du contrat de travail à durée indéterminée (CDI) d'un salarié. Acte strictement encadré par le Code du travail, qui exige un motif réel et sérieux, le respect d'une procédure précise, et le versement d'indemnités au salarié licencié. Ne concerne pas les CDD ni les ruptures en période d'essai."
+    },
+    {
+      "titre": "Le licenciement pour motif personnel : quand le salarié est en cause",
+      "texte": "Le licenciement pour motif personnel est celui dont la cause tient à la personne même du salarié — à son comportement, ses aptitudes, ou une situation qui lui est propre. On distingue deux grandes catégories : le licenciement disciplinaire (le salarié a commis une faute) et le licenciement non disciplinaire (aucune faute n'est reprochée, mais une autre raison justifie la rupture).\n\nDans les deux cas, la loi exige que le motif soit réel et sérieux. Réel signifie que le motif doit reposer sur des faits précis, vérifiables et objectifs — pas sur des intuitions, des rumeurs ou des préjugés. Sérieux signifie que le motif doit être suffisamment grave pour justifier le licenciement comme seule solution possible. Un retard isolé n'est pas sérieux. Un abandon de poste répété, oui.\n\nLe licenciement discriminatoire — fondé sur l'âge, le sexe, l'état de grossesse, la religion, l'appartenance syndicale, l'état de santé — est formellement interdit. Il constitue non seulement un licenciement sans cause réelle et sérieuse, mais peut aussi engager la responsabilité pénale de l'employeur.\n\nLe licenciement pour maladie est une zone de vigilance particulière : on ne peut pas licencier un salarié au seul motif qu'il est malade. En revanche, si une maladie prolongée désorganise l'entreprise et rend nécessaire son remplacement définitif, certaines conventions collectives permettent, sous conditions strictes, de procéder au licenciement. La frontière est subtile et les tribunaux du travail l'apprécient au cas par cas.",
+      "definition": "Licenciement pour motif personnel : licenciement dont la cause est inhérente à la personne du salarié — son comportement (faute disciplinaire) ou une situation personnelle (inaptitude, désorganisation de l'entreprise). Exige une cause réelle et sérieuse : faits objectifs, vérifiables, d'une gravité justifiant la rupture. Le motif discriminatoire (âge, sexe, religion, maladie, activité syndicale) est formellement interdit.",
+      "exemple": "Rasoa, salariée en CDI dans une entreprise de Toamasina, est absente depuis sept mois suite à une maladie. Son poste de responsable logistique ne peut pas rester vacant : l'entreprise est contrainte d'embaucher quelqu'un de façon permanente. Si la convention collective applicable prévoit une durée maximale de suspension du contrat en cas de maladie, et que cette durée est dépassée, l'employeur peut engager la procédure de licenciement — non pas à cause de la maladie elle-même, mais parce que le remplacement permanent est devenu une nécessité impérieuse pour le fonctionnement de l'entreprise."
+    },
+    {
+      "titre": "La faute disciplinaire : simple, grave ou lourde — trois niveaux, trois régimes",
+      "texte": "Lorsque le motif de licenciement est une faute du salarié, la gravité de cette faute détermine l'étendue de ses droits à indemnisation. Il faut distinguer trois niveaux, chacun correspondant à un régime juridique différent.\n\nLa faute simple est une erreur ou une négligence dans l'exercice des fonctions, dont la gravité n'est pas telle qu'elle rendrait impossible le maintien du salarié pendant le préavis. Un retard répété malgré avertissements, une exécution insuffisante des tâches confiées, un manquement aux règles de l'entreprise sans conséquence grave. La faute simple justifie le licenciement, mais le salarié conserve ses droits au préavis, à l'indemnité de licenciement et à l'indemnité compensatrice de congés payés.\n\nLa faute grave est celle qui rend impossible le maintien du salarié dans l'entreprise, même pendant la durée du préavis. Abandon de poste sans justification, absences injustifiées répétées, harcèlement, insubordination caractérisée, vol au préjudice de l'employeur, ivresse sur le lieu de travail, non-respect des consignes de sécurité. La faute grave prive le salarié du droit au préavis et à l'indemnité de licenciement. Il conserve toutefois son droit à l'indemnité compensatrice de congés payés.\n\nLa faute lourde est la plus grave : elle implique une intention délibérée de nuire à l'employeur ou à l'entreprise. Détournement de clientèle au profit d'un concurrent, sabotage, divulgation de secrets professionnels dans une intention malveillante, blocage des accès à l'entreprise. Elle prive le salarié du préavis, de l'indemnité de licenciement ET de l'indemnité compensatrice de congés payés. La preuve de l'intention de nuire incombe à l'employeur — et ce n'est pas aisé à démontrer.\n\nAttention : la qualification de la faute est déterminée par les faits, non par la volonté de l'employeur. Les tribunaux requalifient régulièrement une faute lourde en faute grave, ou une faute grave en faute simple, lorsque les preuves ne sont pas à la hauteur de la qualification retenue.",
+      "definition": "Trois niveaux de faute disciplinaire : faute simple (erreur ou négligence, droits au préavis et aux indemnités conservés) ; faute grave (impossibilité de maintien même pendant le préavis, perte du préavis et de l'indemnité de licenciement, mais congés payés conservés) ; faute lourde (intention de nuire, perte de tous les droits indemnitaires y compris les congés payés). La charge de la preuve incombe à l'employeur.",
+      "exemple": "Hery, agent de sécurité, est surpris en train de voler du matériel dans l'entrepôt de son employeur. L'employeur dispose d'images de vidéosurveillance et du témoignage du responsable de site. Il s'agit d'une faute grave : le vol rend impossible le maintien de Hery dans l'entreprise, même pendant le préavis. Hery perdra son droit au préavis et à l'indemnité de licenciement, mais conservera son droit à l'indemnité compensatrice pour les congés payés non pris. Si en plus, Hery avait organisé la revente des biens volés à des concurrents dans l'intention de nuire à l'entreprise, la faute lourde pourrait être retenue — mais il faudrait en apporter la preuve."
+    },
+    {
+      "titre": "Le licenciement non disciplinaire : quand il n'y a pas de faute",
+      "texte": "Le licenciement pour motif personnel ne suppose pas nécessairement une faute du salarié. Il existe des situations où l'employeur peut légitimement rompre le contrat sans que le salarié ait mal agi.\n\nL'inaptitude professionnelle est la situation dans laquelle le salarié ne parvient pas à accomplir correctement les tâches prévues dans son contrat, malgré la bonne volonté et sans faute particulière. Des résultats systématiquement insuffisants, une incapacité avérée à s'adapter aux exigences du poste, des erreurs répétées révélant une incompétence objective — peuvent constituer des motifs de licenciement. Attention : l'employeur doit avoir donné au salarié les moyens de s'améliorer (formation, avertissements, objectifs clairs) avant de conclure à l'inaptitude.\n\nL'inaptitude médicale ou physique est déclarée par le médecin du travail. Lorsqu'un salarié ne peut plus occuper son poste pour des raisons de santé, l'employeur doit d'abord rechercher sérieusement un reclassement sur un autre poste adapté. Ce n'est que si le reclassement est impossible — et après avis du médecin du travail — que le licenciement pour inaptitude médicale peut être engagé.\n\nLa modification refusée du contrat de travail est une autre situation : si l'employeur propose une modification substantielle du contrat (changement de poste, de lieu de travail, de rémunération) pour des raisons légitimes, et que le salarié refuse, ce refus peut justifier un licenciement — non disciplinaire, car le refus de modifier son contrat n'est pas une faute en soi.\n\nLe désaccord profond ou la mésentente peut aussi, dans certains cas, justifier un licenciement non disciplinaire si cette mésentente perturbe gravement le bon fonctionnement de l'entreprise. Mais ce motif est très encadré : la simple mauvaise humeur ou un conflit de personnes ne suffit pas.",
+      "definition": "Licenciement non disciplinaire pour motif personnel : licenciement sans faute du salarié, fondé sur l'inaptitude professionnelle (incompétence avérée), l'inaptitude médicale (déclarée par le médecin du travail, après recherche impossible de reclassement), le refus d'une modification substantielle du contrat, ou une mésentente grave perturbant l'entreprise. Le salarié conserve ses droits au préavis, à l'indemnité de licenciement et aux congés payés."
+    },
+    {
+      "titre": "Le licenciement pour motif économique : quand l'entreprise est en cause",
+      "texte": "Le licenciement pour motif économique est fondamentalement différent du licenciement pour motif personnel : la raison de la rupture n'est pas liée au salarié lui-même, mais à la situation de l'entreprise. Le salarié n'a commis aucune faute et n'est pas en cause personnellement — c'est l'environnement économique qui rend le licenciement nécessaire.\n\nLes causes admises sont précisément définies par la loi. Les difficultés économiques réelles et sérieuses : une baisse significative du chiffre d'affaires sur plusieurs trimestres consécutifs, des pertes d'exploitation durables. Les mutations technologiques : l'introduction de nouvelles technologies rendant certains postes obsolètes ou modifiant profondément les processus de production. La nécessité de sauvegarder la compétitivité de l'entreprise : une réorganisation indispensable pour éviter des difficultés futures, même si l'entreprise n'est pas encore en difficulté au moment de la décision. La cessation totale et définitive d'activité, non imputable à une faute de l'employeur.\n\nLe licenciement économique est soumis à des obligations particulières. L'employeur doit d'abord rechercher toutes les alternatives : réduction des heures de travail, chômage partiel, réorganisation interne, réaffectation des salariés concernés sur d'autres postes. Ce n'est que lorsque ces alternatives sont épuisées ou impossibles que le licenciement économique peut être envisagé.\n\nEn cas de licenciement collectif touchant un certain nombre de salariés, des consultations préalables avec les représentants du personnel sont obligatoires. La procédure est alors encore plus encadrée, avec des délais à respecter et parfois un plan de sauvegarde de l'emploi à établir.",
+      "definition": "Licenciement pour motif économique : licenciement non lié à la personne du salarié, mais à la situation de l'entreprise — difficultés économiques, mutations technologiques, réorganisation nécessaire à la sauvegarde de la compétitivité, ou cessation d'activité. L'employeur doit avoir sérieusement recherché des alternatives avant de licencier. Le salarié conserve tous ses droits indemnitaires et bénéficie souvent de garanties supplémentaires (priorité de réembauche, reclassement).",
+      "exemple": "Une entreprise de fabrication de vêtements à Antananarivo perd 40% de son chiffre d'affaires sur deux années consécutives en raison de la concurrence des importations à bas coût. La direction consulte les délégués du personnel, explore toutes les alternatives (réduction d'horaires, polyvalence des postes, chômage partiel), et constate que ces mesures sont insuffisantes. Elle engage alors la procédure de licenciement économique pour six salariés. Chacun bénéficiera d'un préavis, d'une indemnité de licenciement, et d'une priorité de réembauche si l'entreprise recrute dans l'année suivant le licenciement."
+    },
+    {
+      "titre": "La procédure préalable : ce qu'on doit faire AVANT de licencier",
+      "texte": "Avant de prononcer un licenciement, l'employeur doit impérativement respecter une procédure. Cette procédure n'est pas une formalité administrative optionnelle — son non-respect peut rendre le licenciement irrégulier, voire abusif, et exposer l'employeur à des condamnations.\n\nL'étape fondamentale est la convocation à un entretien préalable. L'employeur doit convoquer le salarié par lettre recommandée avec accusé de réception, ou remise en main propre contre décharge. Cette convocation doit être envoyée suffisamment à l'avance — au moins cinq jours ouvrables avant la date de l'entretien. La lettre de convocation doit obligatoirement mentionner : l'objet de l'entretien (le salarié doit savoir qu'il risque son poste), la date, l'heure et le lieu de l'entretien, et le droit du salarié de se faire accompagner d'un représentant du personnel ou d'un conseiller extérieur si l'entreprise n'en dispose pas.\n\nL'entretien préalable doit ensuite avoir lieu. Lors de cet entretien, l'employeur expose les motifs qui le conduisent à envisager le licenciement. Le salarié a pleinement le droit de s'expliquer, de contester les faits, d'apporter des éléments de défense. L'entretien n'est pas une formalité vide de sens — l'employeur doit réellement écouter le salarié et sa décision de licencier ne peut être prise qu'après avoir entendu ses observations.\n\nPour les licenciements collectifs, une consultation préalable des représentants du personnel (délégués, comité d'entreprise) est obligatoire. La direction doit les informer de la situation, des mesures envisagées, et recueillir leur avis avant d'agir. Cet avis ne lie pas la direction — elle reste libre de sa décision — mais son absence ou son respect insuffisant peut rendre la procédure irrégulière.\n\nEn cas de licenciement d'un salarié protégé (délégué du personnel, membre du comité d'entreprise), des garanties supplémentaires très strictes s'appliquent.",
+      "definition": "Procédure préalable obligatoire : convocation du salarié par lettre recommandée (au moins 5 jours ouvrables avant l'entretien), mention de l'objet, du droit d'accompagnement et des coordonnées de l'entretien ; tenue de l'entretien préalable pendant lequel le salarié peut s'expliquer ; consultation préalable des représentants du personnel en cas de licenciement collectif. Le non-respect de ces étapes rend le licenciement irrégulier.",
+      "exemple": "L'employeur de Zo décide de le licencier pour absence injustifiée. Il lui envoie lundi une lettre recommandée de convocation à un entretien préalable pour le vendredi suivant — soit seulement quatre jours ouvrables. C'est insuffisant : il faut au moins cinq jours ouvrables. Cette irrégularité dans la procédure peut être invoquée par Zo devant le tribunal du travail, même si le motif de licenciement est par ailleurs fondé. L'employeur aurait dû convoquer pour le lundi suivant au plus tôt."
+    },
+    {
+      "titre": "La notification du licenciement : la lettre qui engage tout",
+      "texte": "Une fois l'entretien préalable tenu, l'employeur qui maintient sa décision de licencier doit notifier formellement le licenciement au salarié. Cette notification se fait par lettre recommandée avec accusé de réception. C'est l'acte qui officialise la rupture du contrat.\n\nLe délai d'envoi est crucial. La lettre ne peut pas être envoyée trop tôt : il faut respecter un délai minimal après l'entretien préalable — deux jours ouvrables minimum pour un licenciement pour motif personnel. Ce délai de réflexion impose à l'employeur de ne pas avoir pris sa décision de façon définitive avant même d'avoir entendu le salarié. Pour un licenciement économique, le délai est plus long — sept jours ouvrables en règle générale, quinze jours pour les cadres.\n\nLa lettre de licenciement est un document capital. Elle doit obligatoirement énoncer les motifs précis et détaillés du licenciement. Ce n'est pas une formule vague du type « pour insuffisance professionnelle » — il faut des faits précis, datés, vérifiables. Les motifs énoncés dans la lettre de licenciement délimitent définitivement le cadre du litige : si le salarié conteste son licenciement devant le tribunal, l'employeur ne pourra pas invoquer d'autres motifs que ceux mentionnés dans la lettre.\n\nLa lettre doit être signée par l'employeur ou son représentant dûment habilité. Elle peut mentionner, selon les cas, la durée du préavis, le droit à la priorité de réembauche en cas de licenciement économique, et les modalités de restitution du matériel professionnel.\n\nLe salarié dispose d'un certain délai pour demander des précisions sur les motifs énoncés dans la lettre, et l'employeur est tenu d'y répondre.",
+      "definition": "Lettre de licenciement : notification obligatoire par lettre recommandée avec accusé de réception, envoyée au moins 2 jours ouvrables après l'entretien préalable (7 jours pour le licenciement économique, 15 jours pour les cadres). Doit contenir les motifs précis et circonstanciés du licenciement — ils définissent le cadre du litige en cas de contestation. L'employeur ne peut pas invoquer devant le tribunal des motifs non mentionnés dans la lettre.",
+      "exemple": "La lettre de licenciement de Vonjy mentionne uniquement qu'elle est licenciée pour 'résultats insuffisants'. Sans détails ni chiffres, sans période de référence, sans objectifs préalablement fixés. Si Vonjy conteste son licenciement aux prud'hommes, l'employeur ne pourra pas compléter sa lettre en audience avec de nouveaux griefs — les tribunaux s'en tiennent aux motifs écrits dans la lettre. Cette imprécision pourrait conduire à faire déclarer le licenciement sans cause réelle et sérieuse."
+    },
+    {
+      "titre": "Le préavis : la période entre la notification et le départ",
+      "texte": "Après réception de la lettre de licenciement, le contrat de travail ne prend pas fin immédiatement. Il se poursuit pendant une période appelée préavis. Durant ce temps, le salarié continue à exercer ses fonctions et perçoit sa rémunération habituelle.\n\nLa durée du préavis varie selon l'ancienneté du salarié dans l'entreprise, et est encadrée par la loi, les conventions collectives applicables, ou le contrat de travail lui-même. En règle générale : les salariés de moins de six mois d'ancienneté relèvent de la durée prévue par la convention collective ou l'usage ; les salariés entre six mois et deux ans ont droit à un mois de préavis ; les salariés de plus de deux ans ont droit à deux mois de préavis. Ces durées sont des minimums légaux — la convention collective ou le contrat peut prévoir des durées plus longues, notamment pour les cadres et les collaborateurs de haut rang.\n\nPendant le préavis, les obligations contractuelles des deux parties perdurent. L'employeur ne peut pas modifier unilatéralement les conditions de travail. Le salarié continue d'être rémunéré normalement. Dans de nombreux cas, le salarié bénéficie d'heures aménagées pour lui permettre de chercher un nouvel emploi.\n\nL'employeur peut dispenser le salarié d'exécuter le préavis — c'est la dispense de préavis. Dans ce cas, le salarié quitte l'entreprise immédiatement mais perçoit une indemnité compensatrice égale à la rémunération qu'il aurait perçue s'il avait travaillé pendant la durée du préavis. Le salarié peut aussi demander à ne pas l'exécuter, mais l'employeur n'est pas obligé d'accepter.\n\nLe préavis est supprimé en cas de faute grave ou lourde : le salarié part immédiatement, sans indemnité de préavis.",
+      "definition": "Préavis : période entre la notification du licenciement et la rupture effective du contrat, pendant laquelle le salarié continue à travailler et à être rémunéré. Durée variable selon l'ancienneté (minimum légal : 1 mois pour 6 mois à 2 ans, 2 mois pour plus de 2 ans), augmentée par la convention collective pour certains salariés. Peut être remplacé par une indemnité compensatrice si l'employeur dispense le salarié de l'exécuter. Supprimé en cas de faute grave ou lourde."
+    },
+    {
+      "titre": "Les indemnités de licenciement : ce que l'employeur doit verser",
+      "texte": "Lors d'un licenciement, l'employeur est tenu de verser au salarié plusieurs types d'indemnités, selon les circonstances.\n\nL'indemnité légale de licenciement est due à tout salarié licencié sans faute grave ou lourde, dès lors qu'il justifie d'une ancienneté minimale — généralement huit mois d'ancienneté ininterrompue. Son montant est calculé sur la base du salaire de référence (le plus favorable entre la moyenne des douze derniers mois ou la moyenne des trois derniers mois, primes incluses au prorata) et de l'ancienneté. À titre indicatif — les règles précises étant fixées par la loi malgache applicable — un quart de mois de salaire par année d'ancienneté pour les dix premières années, puis un tiers de mois par année à partir de la onzième année, constitue un barème fréquent. La convention collective peut prévoir une indemnité plus favorable, qui s'applique alors à la place de l'indemnité légale.\n\nL'indemnité compensatrice de préavis est versée lorsque l'employeur dispense le salarié d'exécuter son préavis. Elle est égale à la rémunération que le salarié aurait perçue s'il avait travaillé.\n\nL'indemnité compensatrice de congés payés est due pour tous les jours de congés acquis mais non encore pris au moment du départ. Elle est due dans tous les cas de licenciement, y compris pour faute grave — sauf faute lourde selon certaines législations.\n\nEn cas de licenciement abusif ou sans cause réelle et sérieuse, des dommages-intérêts supplémentaires peuvent être accordés par le tribunal, dont le montant tient compte de l'ancienneté, de l'âge, de la difficulté à retrouver un emploi et du préjudice subi.",
+      "definition": "Indemnités dues en cas de licenciement : indemnité légale de licenciement (calculée sur l'ancienneté et le salaire de référence, due sauf faute grave ou lourde) ; indemnité compensatrice de préavis (due si dispense d'exécution du préavis) ; indemnité compensatrice de congés payés (due pour les congés non pris, y compris en cas de faute grave) ; dommages-intérêts supplémentaires en cas de licenciement abusif. La convention collective peut prévoir des montants plus avantageux.",
+      "exemple": "Dada travaille depuis 7 ans dans une entreprise d'Antananarivo avec un salaire mensuel moyen de 800 000 ariary. Il est licencié pour réorganisation économique. Il a droit à : l'indemnité de licenciement calculée sur 7 ans d'ancienneté (7 × 1/4 × 800 000 = 1 400 000 ariary à titre indicatif, selon le barème légal applicable) ; l'indemnité de préavis si son employeur le dispense d'exécuter ses deux mois (1 600 000 ariary) ; l'indemnité pour ses 15 jours de congés non pris (400 000 ariary). Total : environ 3 400 000 ariary, sans compter les éventuels avantages prévus par la convention collective."
+    },
+    {
+      "titre": "Les documents à remettre lors du départ : les obligations finales de l'employeur",
+      "texte": "Au terme du préavis — ou au moment du départ en cas de dispense — l'employeur est tenu de remettre au salarié licencié plusieurs documents essentiels. Ces obligations ne sont pas optionnelles : leur non-respect expose l'employeur à des sanctions et peut donner lieu à des dommages-intérêts.\n\nLe certificat de travail est un document incontournable. Il mentionne exclusivement les informations objectives : la date d'entrée dans l'entreprise, la date de sortie, et la nature des emplois successivement occupés ainsi que les périodes correspondantes. L'employeur ne peut pas y faire figurer d'informations supplémentaires — notamment des appréciations négatives — sans le consentement du salarié. Un certificat de travail comportant des mentions défavorables non autorisées engage la responsabilité de l'employeur. Ce document est dû même en cas de licenciement pour faute grave ou lourde — c'est la seule obligation qui subsiste quel que soit le motif du licenciement.\n\nL'attestation permettant de s'inscrire auprès de l'organisme public de l'emploi (à Madagascar, l'ANPE ou son équivalent) est également obligatoire. Sans ce document, le salarié ne peut pas faire valoir ses droits à l'assurance-chômage ou aux aides à la recherche d'emploi.\n\nLe reçu pour solde de tout compte récapitule les sommes versées au salarié lors de la rupture du contrat. La pratique du « reçu pour solde de tout compte » est encadrée : le salarié dispose d'un délai légal pour le dénoncer s'il estime que toutes les sommes dues ne lui ont pas été versées. Ce reçu n'est pas une renonciation à tout recours — il n'a qu'une valeur libératoire limitée aux sommes qui y sont mentionnées.\n\nSelon les circonstances, d'autres documents peuvent être remis : attestation de formation, relevé de compte épargne temps, documents relatifs à la mutuelle ou à la prévoyance d'entreprise.",
+      "definition": "Documents obligatoires remis au départ : certificat de travail (dates d'entrée et de sortie, nature des emplois — sans mention défavorable sans accord du salarié, dû même en cas de faute grave) ; attestation pour l'organisme public de l'emploi ; reçu pour solde de tout compte (libératoire pour les sommes mentionnées, dénonçable par le salarié dans un délai légal). Non-remise = responsabilité de l'employeur.",
+      "exemple": "Ravao est licenciée pour faute grave. Son employeur lui remet le certificat de travail mentionnant ses dates et fonctions, mais y ajoute de sa propre initiative la mention 'licenciée pour vol'. Cette mention est illicite : le certificat de travail ne peut contenir que des informations objectives et neutres sur l'emploi occupé. L'employeur engage sa responsabilité civile par cette mention qui pourrait nuire à la réputation professionnelle de Ravao et empêcher toute réembauche future."
+    },
+    {
+      "titre": "Le licenciement abusif : quand l'employeur a tort",
+      "texte": "Le licenciement abusif — aussi appelé licenciement sans cause réelle et sérieuse — est un licenciement dont le motif est soit inexistant, soit insuffisant, soit viciée dans son expression ou dans la procédure. C'est l'abus du droit de licencier.\n\nUn licenciement peut être abusif pour plusieurs raisons. La cause peut être inexistante : l'employeur affirme que le salarié a commis une faute qu'il ne parvient pas à prouver. Elle peut être insuffisante : les faits sont réels mais trop mineurs pour justifier un licenciement — un seul retard de cinq minutes, une erreur isolée dans une longue carrière sans autre incident. La procédure peut avoir été violée : pas d'entretien préalable, délai de convocation non respecté, lettre de licenciement sans motifs précis. Le motif peut être discriminatoire : fondé sur le sexe, la grossesse, l'activité syndicale, etc.\n\nLa sanction du licenciement abusif est principalement financière : le tribunal condamne l'employeur à verser des dommages-intérêts au salarié. Ces dommages-intérêts compensent le préjudice réel subi — perte d'emploi, difficultés à retrouver un travail, atteinte à la réputation, anxiété. Contrairement à ce que croient parfois les salariés, la sanction du licenciement abusif n'est pas automatiquement la réintégration dans l'emploi. Elle est possible si les deux parties l'acceptent, mais ce n'est pas la règle.\n\nIl convient de distinguer le licenciement abusif du licenciement irrégulier. L'irrégularité porte sur la procédure (entretien non tenu, délais non respectés), tandis que l'abus porte sur le fond (motif inexistant ou insuffisant). Les deux peuvent se combiner.\n\nPour contester son licenciement, le salarié saisit le tribunal du travail compétent — le conseil des prud'hommes dans les systèmes d'inspiration française, ou son équivalent dans le droit malgache.",
+      "definition": "Licenciement abusif (sans cause réelle et sérieuse) : licenciement dont le motif est inexistant, insuffisant, discriminatoire, ou dont la procédure a été violée. Sanction principale : dommages-intérêts fixés par le tribunal en tenant compte du préjudice subi, de l'ancienneté, de l'âge et de la difficulté à retrouver un emploi. La réintégration est possible mais non obligatoire. À distinguer du licenciement irrégulier (vice de procédure sans vice de fond).",
+      "exemple": "Zo, responsable commercial avec 12 ans d'ancienneté, est licencié après avoir participé à une grève légale. Son employeur invoque une 'insuffisance professionnelle' sans aucun élément concret : pas d'avertissement préalable, pas d'objectifs fixés, pas de bilan de performance défavorable. Le tribunal du travail reconnaît que le vrai motif est la participation à la grève — un motif discriminatoire et abusif. Il condamne l'employeur à verser des dommages-intérêts substantiels à Zo, tenant compte de ses 12 ans d'ancienneté et de la difficulté pour un professionnel de 45 ans de retrouver un poste équivalent."
+    },
+    {
+      "titre": "La protection renforcée de certains salariés : les protégés",
+      "texte": "Certains salariés bénéficient d'une protection spéciale qui rend leur licenciement beaucoup plus difficile à mettre en œuvre. Cette protection existe parce que ces salariés exercent des fonctions qui les exposent particulièrement aux représailles de l'employeur.\n\nLes représentants du personnel — délégués du personnel, membres du comité d'entreprise, délégués syndicaux — sont les plus protégés. Tout licenciement envisagé à leur encontre doit d'abord être soumis à l'accord du comité d'entreprise, qui se prononce par vote au scrutin secret après audition de l'intéressé. En cas de désaccord du comité, le licenciement ne peut intervenir que sur décision conforme de l'inspecteur du travail, rendue après enquête contradictoire au cours de laquelle le salarié peut se faire assister. Cette protection s'étend aux anciens représentants pendant une période après la fin de leur mandat, ainsi qu'aux candidats aux élections de représentants du personnel.\n\nLes femmes enceintes ne peuvent pas être licenciées pendant leur grossesse ni pendant une période après l'accouchement. Un licenciement pendant cette période est nul de plein droit — pas seulement abusif.\n\nLes salariés en arrêt maladie ne peuvent pas, en principe, être licenciés en raison de leur maladie. Le contrat de travail est simplement suspendu pendant la maladie.\n\nLes salariés appelés à des obligations militaires ou civiques (service national, fonctions de juré, fonctions électives) bénéficient également d'une protection pendant ces périodes.\n\nLa violation de ces protections constitue non seulement un licenciement nul, mais peut aussi exposer l'employeur à des sanctions pénales.",
+      "definition": "Salariés protégés : catégories bénéficiant d'une protection renforcée contre le licenciement — représentants du personnel (accord du comité + autorisation de l'inspecteur du travail requis), femmes enceintes (protection absolue pendant la grossesse et après l'accouchement), salariés en arrêt maladie (suspension du contrat), salariés en obligations civiques ou militaires. Licenciement en violation de ces protections = nullité et possibles sanctions pénales.",
+      "exemple": "Une entreprise décide de licencier Neny, déléguée du personnel, en invoquant une 'attitude négative'. Elle procède au licenciement sans consulter le comité d'entreprise ni demander l'autorisation de l'inspecteur du travail. Ce licenciement est nul : il a été prononcé en violation des règles protectrices des représentants du personnel. Neny peut obtenir sa réintégration dans l'entreprise, et l'employeur s'expose à des sanctions pour entrave aux fonctions de représentation du personnel."
+    },
+    {
+      "titre": "Récapitulatif : les étapes clés d'un licenciement régulier",
+      "texte": "Pour qu'un licenciement soit valable, l'employeur doit respecter un enchaînement précis d'étapes. En voici le récapitulatif.\n\nPremièrement, vérifier que le motif est réel et sérieux : faits objectifs, vérifiables, suffisamment graves pour justifier la rupture, et non discriminatoires.\n\nDeuxièmement, respecter les procédures spéciales si elles s'appliquent : consultation du comité d'entreprise pour les licenciements collectifs, saisine de l'inspecteur du travail pour les salariés protégés.\n\nTroisièmement, envoyer la convocation à l'entretien préalable par lettre recommandée, en respectant le délai légal (au moins 5 jours ouvrables avant l'entretien), avec toutes les mentions obligatoires dont le droit d'être accompagné.\n\nQuatrièmement, tenir l'entretien préalable et laisser réellement le salarié s'expliquer.\n\nCinquièmement, envoyer la lettre de licenciement par lettre recommandée avec accusé de réception, en respectant le délai minimal après l'entretien (2 jours ouvrables pour le licenciement personnel, 7 jours pour le licenciement économique). La lettre doit contenir les motifs précis et circonstanciés.\n\nSixièmement, faire exécuter le préavis ou verser l'indemnité compensatrice de préavis en cas de dispense.\n\nSeptièmement, calculer et verser toutes les indemnités dues : indemnité de licenciement, indemnité compensatrice de congés payés, et toute autre prime ou avantage conventionnel.\n\nHuitièmement, remettre au salarié tous les documents obligatoires : certificat de travail, attestation pour l'organisme de l'emploi, reçu pour solde de tout compte.\n\nL'omission d'une seule de ces étapes peut avoir des conséquences importantes devant le tribunal.",
+      "definition": "Récapitulatif : 8 étapes d'un licenciement régulier — (1) motif réel et sérieux ; (2) procédures spéciales si salariés protégés ou licenciements collectifs ; (3) convocation à l'entretien préalable (LRAR, 5 jours ouvrables minimum) ; (4) tenue de l'entretien ; (5) lettre de licenciement (LRAR, motifs précis, délai minimal respecté) ; (6) exécution du préavis ou versement de l'indemnité compensatrice ; (7) versement de toutes les indemnités dues ; (8) remise des documents de fin de contrat."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que le licenciement en droit du travail ?",
+      "choix": [
+        "La démission du salarié qui met fin à son contrat de travail",
+        "La décision unilatérale de l'employeur de mettre fin au contrat de travail à durée indéterminée d'un salarié",
+        "La fin automatique d'un contrat à durée déterminée à l'arrivée du terme",
+        "Un accord entre l'employeur et le salarié pour mettre fin au contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une décision qui vient d'un seul côté — l'employeur.",
+        "Elle concerne un type particulier de contrat de travail.",
+        "Le salarié ne choisit pas de partir — c'est l'employeur qui décide."
+      ],
+      "explication": "Le licenciement est la décision unilatérale de l'employeur de rompre le contrat de travail à durée indéterminée (CDI) de son salarié. C'est précisément parce qu'il s'agit d'une décision imposée au salarié que la loi l'encadre strictement — motif, procédure, indemnités. Il ne faut pas confondre le licenciement avec la démission (initiative du salarié), la rupture conventionnelle (accord des deux parties), ou la fin naturelle d'un CDD."
+    },
+    {
+      "question": "Quel type de contrat est concerné par le licenciement ?",
+      "choix": [
+        "Le contrat à durée déterminée (CDD) uniquement",
+        "Tous les contrats de travail quelle que soit leur durée",
+        "Uniquement le contrat à durée indéterminée (CDI)",
+        "Les contrats à temps partiel uniquement"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Un CDD prend fin à l'arrivée du terme prévu — ce n'est pas un licenciement.",
+        "Le licenciement concerne le type de contrat le plus permanent.",
+        "La période d'essai, même en CDI, ne constitue pas un licenciement non plus."
+      ],
+      "explication": "Le licenciement ne concerne que les contrats à durée indéterminée (CDI). La fin d'un CDD résulte de l'arrivée du terme prévu — ce n'est pas un licenciement. La rupture d'une mission d'intérim n'est pas un licenciement non plus. C'est parce que le CDI est le contrat le plus stable, censé durer indéfiniment, que la loi entoure sa rupture par l'employeur de protections particulièrement strictes."
+    },
+    {
+      "question": "Quelles sont les deux grandes catégories de motifs de licenciement ?",
+      "choix": [
+        "Le licenciement disciplinaire et le licenciement non disciplinaire",
+        "Le licenciement pour motif personnel et le licenciement pour motif économique",
+        "Le licenciement avec préavis et le licenciement sans préavis",
+        "Le licenciement individuel et le licenciement collectif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une des catégories est liée à la personne même du salarié.",
+        "L'autre catégorie est liée à la situation de l'entreprise.",
+        "Ces deux catégories répondent à des procédures différentes."
+      ],
+      "explication": "Les deux grandes catégories de motifs sont le licenciement pour motif personnel (la cause est inhérente au salarié — son comportement, ses aptitudes, une situation le concernant personnellement) et le licenciement pour motif économique (la cause est liée à la situation de l'entreprise — difficultés économiques, mutations technologiques, réorganisation, cessation d'activité). À chaque catégorie correspond une procédure et des droits spécifiques pour le salarié."
+    },
+    {
+      "question": "Qu'exige la loi pour que le motif d'un licenciement pour motif personnel soit valable ?",
+      "choix": [
+        "Que l'employeur soit de bonne foi et ait pris sa décision sincèrement",
+        "Que le motif soit réel (faits objectifs et vérifiables) et sérieux (d'une gravité justifiant la rupture)",
+        "Que le salarié ait reçu un avertissement préalable obligatoirement",
+        "Que le salarié ait moins de deux ans d'ancienneté"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Deux adjectifs résument les exigences légales concernant le motif.",
+        "L'un concerne l'objectivité des faits, l'autre leur gravité.",
+        "L'absence de l'un ou l'autre rend le licenciement abusif."
+      ],
+      "explication": "La loi exige que le motif du licenciement pour motif personnel soit réel et sérieux. Réel signifie que le motif doit reposer sur des faits précis, objectifs et vérifiables — pas des suppositions ou des préjugés. Sérieux signifie que les faits doivent être d'une gravité suffisante pour que le licenciement soit la seule solution possible. Un motif non réel ou insuffisamment sérieux rend le licenciement abusif."
+    },
+    {
+      "question": "Vrai ou faux : un employeur peut légalement licencier un salarié parce qu'il est membre d'un syndicat.",
+      "choix": [
+        "Vrai, dès lors que l'employeur ne le mentionne pas explicitement dans la lettre de licenciement",
+        "Faux : l'appartenance syndicale est un motif de licenciement expressément interdit — c'est un licenciement discriminatoire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Certains motifs de licenciement sont formellement prohibés par la loi.",
+        "L'activité syndicale fait partie des motifs discriminatoires interdits.",
+        "Un tel licenciement serait non seulement abusif mais potentiellement illégal pénalement."
+      ],
+      "explication": "Faux. L'appartenance à un syndicat ou l'exercice d'une activité syndicale sont des motifs de licenciement expressément interdits. Un employeur qui licencie un salarié en raison de ses activités syndicales commet un licenciement discriminatoire — non seulement abusif, mais potentiellement illégal pénalement. Le salarié peut contester ce licenciement et obtenir des dommages-intérêts, voire la nullité du licenciement."
+    },
+    {
+      "question": "Quelle est la différence entre la faute grave et la faute lourde ?",
+      "choix": [
+        "Il n'y a aucune différence — ce sont deux termes synonymes",
+        "La faute grave rend impossible le maintien du salarié pendant le préavis ; la faute lourde implique en plus une intention délibérée de nuire à l'employeur",
+        "La faute grave concerne les ouvriers, la faute lourde concerne les cadres",
+        "La faute grave est sanctionnée par un avertissement ; la faute lourde par un licenciement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les deux fautes sont suffisamment graves pour justifier un licenciement sans préavis.",
+        "La différence porte sur l'intention du salarié.",
+        "Seule l'une des deux peut priver le salarié de l'indemnité compensatrice de congés payés."
+      ],
+      "explication": "La faute grave rend impossible le maintien du salarié dans l'entreprise même pendant la durée du préavis, mais elle ne requiert pas d'intention de nuire. La faute lourde va plus loin : elle implique une intention délibérée de causer un préjudice à l'employeur ou à l'entreprise. La différence est cruciale pour les indemnités : la faute grave prive le salarié du préavis et de l'indemnité de licenciement, mais pas des congés payés. La faute lourde le prive de tout, y compris des congés payés."
+    },
+    {
+      "question": "En cas de licenciement pour faute simple, quelles indemnités le salarié conserve-t-il ?",
+      "choix": [
+        "Aucune indemnité — la faute prive de tout",
+        "Uniquement l'indemnité compensatrice de congés payés",
+        "Le préavis, l'indemnité de licenciement et l'indemnité compensatrice de congés payés — tous les droits sont conservés",
+        "Le préavis uniquement"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La faute simple ne suffit pas à priver le salarié de ses droits indemnitaires.",
+        "C'est la faute grave ou lourde qui entraîne la perte de certains droits.",
+        "Pour la faute simple, le régime indemnitaire est celui d'un licenciement ordinaire."
+      ],
+      "explication": "En cas de licenciement pour faute simple, le salarié conserve l'ensemble de ses droits : le préavis (ou l'indemnité compensatrice si l'employeur le dispense de l'exécuter), l'indemnité légale de licenciement, et l'indemnité compensatrice de congés payés. La faute simple justifie le licenciement mais ne constitue pas une faute d'une gravité telle qu'elle priverait le salarié de ses droits indemnitaires. C'est seulement à partir de la faute grave que le préavis et l'indemnité de licenciement sont perdus."
+    },
+    {
+      "question": "Quels droits perd le salarié licencié pour faute grave ?",
+      "choix": [
+        "Tous ses droits, y compris les congés payés",
+        "Le préavis et l'indemnité de licenciement — mais il conserve l'indemnité compensatrice de congés payés",
+        "Uniquement l'indemnité de licenciement",
+        "Aucun droit — la faute grave n'entraîne pas de perte d'indemnités"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La faute grave prive de deux types d'indemnités mais pas d'une troisième.",
+        "Les congés payés ont été acquis par le travail effectué — ils restent dus même en cas de faute.",
+        "C'est la faute lourde qui prive de tout."
+      ],
+      "explication": "En cas de licenciement pour faute grave, le salarié perd son droit au préavis (ou à l'indemnité compensatrice de préavis) et son droit à l'indemnité légale de licenciement. En revanche, il conserve son droit à l'indemnité compensatrice de congés payés pour les jours de congés acquis mais non pris — ces congés ont été acquis par son travail et lui restent dus. Seule la faute lourde peut, selon les textes applicables, priver le salarié de cette indemnité de congés payés."
+    },
+    {
+      "question": "Quels sont les motifs admis pour un licenciement économique ?",
+      "choix": [
+        "Uniquement la faillite de l'entreprise",
+        "Les difficultés économiques réelles, les mutations technologiques, la nécessité de sauvegarder la compétitivité, ou la cessation totale et définitive d'activité",
+        "Tout motif lié à la rentabilité de l'entreprise, y compris l'amélioration des profits",
+        "Uniquement la perte de plus de 50% du chiffre d'affaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Plusieurs causes économiques distinctes sont reconnues par la loi.",
+        "L'entreprise ne doit pas nécessairement être en faillite pour procéder à des licenciements économiques.",
+        "La simple volonté de faire plus de bénéfices ne suffit pas."
+      ],
+      "explication": "Les motifs admis pour un licenciement économique sont : les difficultés économiques réelles et sérieuses (baisse durable du chiffre d'affaires, pertes d'exploitation), les mutations technologiques rendant certains postes obsolètes, la nécessité de réorganiser l'entreprise pour sauvegarder sa compétitivité (même si elle n'est pas encore en difficulté), et la cessation totale et définitive d'activité non imputable à une faute de l'employeur. La simple volonté d'augmenter les profits ne suffit pas."
+    },
+    {
+      "question": "Avant de procéder à un licenciement collectif, l'employeur doit-il consulter les représentants du personnel ?",
+      "choix": [
+        "Non, l'employeur est libre de ses décisions de gestion",
+        "Oui, mais seulement s'il existe un comité d'entreprise",
+        "Oui, la consultation préalable des représentants du personnel est obligatoire, même si leur avis ne lie pas la direction",
+        "Non, la consultation n'est obligatoire que pour les licenciements économiques de plus de 50 salariés"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La consultation est une obligation légale, pas une simple courtoisie.",
+        "Elle s'impose avant la décision — pas après.",
+        "L'avis des représentants est recueilli mais ne constitue pas un droit de veto."
+      ],
+      "explication": "Oui, la consultation préalable des représentants du personnel (comité d'entreprise ou délégués du personnel) est obligatoire avant tout licenciement collectif. L'employeur doit les informer de la situation, des raisons de la réduction de personnel envisagée, et des mesures alternatives étudiées. Toutefois, leur avis ne lie pas la direction — elle reste libre de sa décision finale. L'absence de consultation ou une consultation insuffisante rend la procédure irrégulière et peut exposer l'employeur à des sanctions."
+    },
+    {
+      "question": "Qu'est-ce que la convocation à l'entretien préalable et quelle est sa forme obligatoire ?",
+      "choix": [
+        "Un appel téléphonique informant le salarié d'une réunion",
+        "Un message électronique envoyé au salarié avec les détails de l'entretien",
+        "Une lettre recommandée avec accusé de réception ou remise en main propre contre décharge, envoyée au moins 5 jours ouvrables avant l'entretien",
+        "Une convocation orale devant témoins"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La forme écrite est impérative pour des raisons de preuve.",
+        "La lettre recommandée garantit que le salarié a bien reçu la convocation.",
+        "Un délai minimum est imposé pour laisser le salarié préparer sa défense."
+      ],
+      "explication": "La convocation à l'entretien préalable doit être faite par lettre recommandée avec accusé de réception, ou remise en main propre contre décharge (le salarié signe pour attester la réception). Elle doit être envoyée au moins cinq jours ouvrables avant la date de l'entretien. Ce délai permet au salarié de se préparer et, le cas échéant, de trouver un représentant pour l'accompagner. Le non-respect de cette forme ou de ce délai constitue une irrégularité de procédure."
+    },
+    {
+      "question": "Que doit obligatoirement mentionner la lettre de convocation à l'entretien préalable ?",
+      "choix": [
+        "Le montant des indemnités qui seront versées",
+        "L'objet de l'entretien (licenciement envisagé), la date, l'heure et le lieu, et le droit du salarié d'être accompagné",
+        "La liste des fautes reprochées au salarié en détail",
+        "Uniquement la date et le lieu de l'entretien"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le salarié doit savoir pourquoi il est convoqué — pour se préparer.",
+        "Le droit d'être accompagné est une garantie essentielle pour le salarié.",
+        "La lettre de convocation n'est pas encore la lettre de licenciement."
+      ],
+      "explication": "La lettre de convocation à l'entretien préalable doit mentionner : l'objet de l'entretien (le salarié doit comprendre qu'un licenciement est envisagé à son encontre), la date, l'heure et le lieu précis de l'entretien, et le droit du salarié de se faire accompagner par un représentant du personnel ou, si l'entreprise n'en dispose pas, par un conseiller extérieur. Ces mentions sont obligatoires — leur omission constitue une irrégularité de procédure."
+    },
+    {
+      "question": "Quel est le rôle de l'entretien préalable au licenciement ?",
+      "choix": [
+        "C'est une simple formalité administrative sans réel effet sur la décision",
+        "C'est l'occasion pour l'employeur d'expliquer les motifs et pour le salarié de s'expliquer — l'employeur doit réellement écouter avant de décider",
+        "C'est l'occasion pour l'employeur d'annoncer officiellement la décision de licenciement",
+        "C'est une réunion pour négocier le montant des indemnités"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La décision de licencier ne peut pas être déjà définitivement prise avant l'entretien.",
+        "Le salarié a le droit de se défendre et de contester les faits.",
+        "Le délai minimal après l'entretien avant d'envoyer la lettre de licenciement illustre l'idée."
+      ],
+      "explication": "L'entretien préalable est une véritable garantie pour le salarié. L'employeur expose les motifs qui le conduisent à envisager le licenciement. Le salarié a pleinement le droit de s'expliquer, de contester les faits, de fournir des éléments de défense. L'employeur doit réellement écouter — il ne peut pas avoir pris sa décision de façon irrévocable avant cet entretien. C'est pourquoi la lettre de licenciement ne peut être envoyée qu'après un délai minimal suivant l'entretien — ce délai symbolise l'obligation de réflexion."
+    },
+    {
+      "question": "Quel délai minimal doit être respecté entre l'entretien préalable et l'envoi de la lettre de licenciement pour motif personnel ?",
+      "choix": [
+        "24 heures",
+        "Aucun délai — l'employeur peut envoyer la lettre le jour même de l'entretien",
+        "2 jours ouvrables minimum",
+        "15 jours calendaires"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Ce délai oblige l'employeur à prendre le temps de réfléchir après avoir entendu le salarié.",
+        "Il est plus court que le délai pour un licenciement économique.",
+        "Les jours ouvrables excluent les weekends et jours fériés."
+      ],
+      "explication": "Pour un licenciement pour motif personnel, l'employeur doit attendre au moins deux jours ouvrables après l'entretien préalable avant d'envoyer la lettre de licenciement. Ce délai garantit que l'employeur ne s'est pas irrévocablement décidé avant d'avoir entendu le salarié — il doit réfléchir aux explications données. Pour un licenciement pour motif économique, ce délai est porté à sept jours ouvrables minimum (ou quinze pour les cadres)."
+    },
+    {
+      "question": "Que doit impérativement contenir la lettre de licenciement ?",
+      "choix": [
+        "Uniquement la date de départ et le montant des indemnités",
+        "Les motifs précis et circonstanciés du licenciement — faits datés et vérifiables",
+        "Une formule générale de politesse et la signature de l'employeur",
+        "Le résumé de l'entretien préalable et l'appréciation de l'employeur sur le salarié"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La lettre fixe définitivement le cadre du litige en cas de contestation.",
+        "L'employeur ne pourra pas invoquer devant le tribunal des motifs qu'il n'a pas écrits.",
+        "Les motifs doivent être précis — pas des formules vagues comme 'insuffisance professionnelle' sans détails."
+      ],
+      "explication": "La lettre de licenciement doit impérativement énoncer les motifs précis et circonstanciés du licenciement — des faits précis, datés, vérifiables, et non de vagues formules. Cette exigence est fondamentale car les motifs mentionnés dans la lettre délimitent définitivement le cadre du litige : si le salarié conteste son licenciement devant le tribunal, l'employeur ne pourra pas invoquer d'autres motifs que ceux figurant dans la lettre. Une lettre aux motifs vagues ou insuffisamment précis peut conduire à faire déclarer le licenciement sans cause réelle et sérieuse."
+    },
+    {
+      "question": "Qu'est-ce que le préavis de licenciement ?",
+      "choix": [
+        "La période pendant laquelle le salarié cherche un emploi après son départ",
+        "La période entre la notification du licenciement et la rupture effective du contrat, pendant laquelle le salarié continue à travailler et à être rémunéré",
+        "Le délai laissé à l'employeur pour trouver un remplaçant",
+        "La période de réflexion avant d'envoyer la lettre de licenciement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pendant cette période, le contrat de travail est toujours en vigueur.",
+        "Le salarié perçoit sa rémunération normale pendant cette durée.",
+        "Il peut utiliser une partie de ce temps pour chercher un nouvel emploi."
+      ],
+      "explication": "Le préavis est la période comprise entre la notification du licenciement (réception de la lettre recommandée) et la rupture effective du contrat de travail. Pendant cette période, le salarié continue à exercer ses fonctions et à percevoir sa rémunération habituelle. Le contrat de travail reste en vigueur avec toutes ses obligations. L'employeur peut dispenser le salarié d'exécuter le préavis, mais dans ce cas il doit verser une indemnité compensatrice équivalente à la rémunération qui aurait été perçue."
+    },
+    {
+      "question": "Quelle est la durée minimale du préavis pour un salarié ayant entre 6 mois et 2 ans d'ancienneté ?",
+      "choix": [
+        "15 jours calendaires",
+        "1 mois",
+        "2 mois",
+        "3 mois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi prévoit des minimums selon l'ancienneté.",
+        "Pour les salariés les plus anciens (plus de 2 ans), le minimum est de 2 mois.",
+        "La convention collective ou le contrat peut prévoir des durées plus longues."
+      ],
+      "explication": "Pour un salarié ayant entre 6 mois et 2 ans d'ancienneté, le préavis minimum légal est d'un mois. Pour les salariés ayant plus de 2 ans d'ancienneté, le minimum est de deux mois. Pour les salariés de moins de 6 mois, la durée est celle prévue par la convention collective ou les usages. Ces durées sont des minimums — la convention collective ou le contrat peut prévoir des durées plus longues, notamment pour les cadres ou les collaborateurs de statut supérieur."
+    },
+    {
+      "question": "Qu'est-ce que la dispense de préavis ?",
+      "choix": [
+        "La situation dans laquelle le salarié est licencié pour faute grave et n'a pas droit au préavis",
+        "La décision de l'employeur de permettre au salarié de quitter l'entreprise immédiatement, tout en lui versant une indemnité compensatrice équivalente à la rémunération du préavis",
+        "La décision du salarié de ne pas exécuter son préavis, ce qui lui fait perdre ses indemnités",
+        "Une procédure d'urgence permettant de licencier sans entretien préalable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est l'employeur qui prend cette décision — pas le salarié.",
+        "Le salarié quitte immédiatement mais n'est pas lésé financièrement.",
+        "C'est différent de la suppression du préavis pour faute grave."
+      ],
+      "explication": "La dispense de préavis est la décision de l'employeur de libérer le salarié licencié de l'obligation d'exécuter son préavis — il peut quitter l'entreprise immédiatement. En contrepartie, l'employeur doit lui verser une indemnité compensatrice de préavis équivalente à la rémunération qu'il aurait perçue s'il avait travaillé pendant toute la durée du préavis. Cette dispense ne pénalise pas financièrement le salarié — il reçoit la même somme qu'il aurait gagnée en restant."
+    },
+    {
+      "question": "Vrai ou faux : le préavis est obligatoire même en cas de licenciement pour faute grave.",
+      "choix": [
+        "Vrai",
+        "Faux : la faute grave prive le salarié de son droit au préavis — il part immédiatement sans préavis ni indemnité compensatrice de préavis"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La faute grave est définie comme rendant impossible le maintien du salarié même pendant le préavis.",
+        "C'est précisément la définition de la faute grave qui explique l'absence de préavis.",
+        "Le salarié quitte l'entreprise dès la notification du licenciement."
+      ],
+      "explication": "Faux. La faute grave prive le salarié de son droit au préavis. La définition même de la faute grave — rendre impossible le maintien du salarié dans l'entreprise — implique que l'employeur ne peut pas maintenir le salarié pendant la durée du préavis. Le salarié licencié pour faute grave quitte l'entreprise immédiatement et ne perçoit pas d'indemnité de préavis ni d'indemnité de licenciement. Il conserve uniquement son droit à l'indemnité compensatrice de congés payés pour les congés acquis non pris."
+    },
+    {
+      "question": "Comment est calculée l'indemnité légale de licenciement pour un salarié ayant moins de 10 ans d'ancienneté ?",
+      "choix": [
+        "Un mois de salaire par année d'ancienneté",
+        "Un quart de mois de salaire de référence par année d'ancienneté",
+        "Un tiers de mois de salaire par année d'ancienneté",
+        "Deux semaines de salaire par année d'ancienneté"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le barème légal varie selon l'ancienneté — avant et après 10 ans.",
+        "Le calcul est basé sur le salaire de référence le plus favorable.",
+        "Ce barème est un minimum légal — la convention collective peut être plus avantageuse."
+      ],
+      "explication": "Pour les salariés ayant moins de 10 ans d'ancienneté, l'indemnité légale de licenciement est calculée à raison d'un quart de mois de salaire de référence par année d'ancienneté. À partir de la 11ème année, le taux passe à un tiers de mois par année. Le salaire de référence est le plus favorable entre la moyenne des 12 derniers mois et la moyenne des 3 derniers mois (en incluant les primes au prorata). La convention collective applicable peut prévoir un barème plus avantageux, qui s'applique alors à la place du barème légal."
+    },
+    {
+      "question": "Dans quels cas le salarié licencié n'a-t-il pas droit à l'indemnité légale de licenciement ?",
+      "choix": [
+        "Lorsqu'il a moins de cinq ans d'ancienneté",
+        "Lorsqu'il est licencié pour faute grave ou faute lourde, ou lorsqu'il n'a pas l'ancienneté minimale requise",
+        "Lorsque l'entreprise est en difficulté économique",
+        "Lorsque le salarié a déjà perçu d'autres primes dans l'année"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les fautes d'une certaine gravité privent de certains droits.",
+        "Une ancienneté minimale est requise pour ouvrir le droit à l'indemnité.",
+        "Le licenciement économique, lui, maintient le droit à l'indemnité."
+      ],
+      "explication": "Le salarié licencié pour faute grave ou faute lourde n'a pas droit à l'indemnité légale de licenciement. De plus, l'indemnité n'est due que si le salarié justifie d'une ancienneté minimale ininterrompue dans l'entreprise — généralement fixée à 8 mois. En dessous de ce seuil, aucune indemnité de licenciement n'est due même si le licenciement est légitime. En revanche, un licenciement pour motif économique, pour inaptitude, ou pour motif personnel non disciplinaire ouvre bien droit à l'indemnité."
+    },
+    {
+      "question": "Qu'est-ce que l'indemnité compensatrice de congés payés ?",
+      "choix": [
+        "Une indemnité versée à la place du préavis",
+        "Une prime annuelle versée avant les congés d'été",
+        "L'indemnité versée au salarié pour compenser les jours de congés acquis mais non pris au moment du licenciement",
+        "Une indemnité versée uniquement en cas de licenciement économique"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Les congés payés ont été acquis par le travail effectué — ils appartiennent au salarié.",
+        "Elle est due même si le salarié n'a pas pris ses congés par sa propre décision.",
+        "C'est la seule indemnité due même en cas de faute grave."
+      ],
+      "explication": "L'indemnité compensatrice de congés payés est versée au salarié licencié pour compenser les jours de congés payés qu'il a acquis au cours de sa période de travail mais qu'il n'a pas encore pris au moment de son départ. Ces congés lui appartiennent — il les a gagnés par son travail. Cette indemnité est due dans presque tous les cas de licenciement, y compris pour faute grave. Seule la faute lourde peut, selon certains textes, priver le salarié de cette indemnité."
+    },
+    {
+      "question": "Quels documents l'employeur est-il obligé de remettre au salarié licencié à la fin du contrat ?",
+      "choix": [
+        "Uniquement le chèque des indemnités",
+        "Le certificat de travail, l'attestation pour l'organisme de l'emploi et le reçu pour solde de tout compte",
+        "Uniquement le certificat de travail",
+        "Le contrat de travail original et les bulletins de paie des derniers mois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Trois types de documents sont obligatoires.",
+        "L'un permet au salarié de prouver son expérience professionnelle.",
+        "Un autre lui permet de s'inscrire à l'organisme public de l'emploi."
+      ],
+      "explication": "L'employeur est obligé de remettre au salarié licencié : le certificat de travail (dates d'entrée et de sortie, nature des emplois), l'attestation permettant de s'inscrire auprès de l'organisme public de l'emploi (indispensable pour les droits au chômage), et le reçu pour solde de tout compte récapitulant les sommes versées. Ces documents sont dus dans tous les cas de licenciement — leur non-remise expose l'employeur à des sanctions."
+    },
+    {
+      "question": "Que peut mentionner l'employeur dans le certificat de travail ?",
+      "choix": [
+        "Tout ce qu'il souhaite, y compris des appréciations sur la qualité du travail",
+        "Exclusivement les informations objectives : dates d'entrée et de sortie, nature des emplois occupés et périodes correspondantes",
+        "Le motif du licenciement, pour informer les futurs employeurs",
+        "Les sanctions disciplinaires subies par le salarié au cours de sa carrière dans l'entreprise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le certificat de travail n'est pas un bulletin de notes.",
+        "L'employeur ne peut pas y ajouter des éléments défavorables sans accord du salarié.",
+        "C'est un document factuel et neutre."
+      ],
+      "explication": "Le certificat de travail ne peut contenir que des informations objectives et neutres : la date d'entrée dans l'entreprise, la date de sortie, et la nature des emplois successivement occupés ainsi que les périodes correspondantes. L'employeur ne peut pas, sans le consentement exprès du salarié, faire figurer d'autres mentions — notamment des appréciations négatives, le motif du licenciement, ou des informations sur le comportement du salarié. Un certificat comportant des mentions défavorables non autorisées engage la responsabilité civile de l'employeur."
+    },
+    {
+      "question": "Vrai ou faux : l'employeur est tenu de remettre le certificat de travail même au salarié licencié pour faute grave.",
+      "choix": [
+        "Vrai : le certificat de travail est le seul document obligatoire quel que soit le motif du licenciement",
+        "Faux : en cas de faute grave, l'employeur peut refuser de délivrer le certificat"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le certificat de travail permet au salarié de prouver son expérience — ce droit existe quelle que soit la faute.",
+        "C'est le seul document qui reste obligatoire même quand tous les droits indemnitaires sont perdus.",
+        "Le refus de délivrer ce document est en lui-même une faute de l'employeur."
+      ],
+      "explication": "Vrai. Le certificat de travail est le seul document qui reste obligatoire quel que soit le motif du licenciement — y compris en cas de faute grave ou lourde. Même lorsque le salarié perd tous ses droits indemnitaires (préavis, indemnité de licenciement, congés payés dans certains cas), l'employeur reste tenu de lui remettre son certificat de travail. Ce document lui permettra de prouver son expérience professionnelle auprès de futurs employeurs. Refuser de le délivrer est une faute qui engage la responsabilité de l'employeur."
+    },
+    {
+      "question": "Qu'est-ce qu'un licenciement abusif ?",
+      "choix": [
+        "Un licenciement pour lequel l'employeur a été trop généreux dans les indemnités",
+        "Un licenciement prononcé en violation d'une des étapes de la procédure obligatoire",
+        "Un licenciement dont le motif est inexistant, insuffisamment sérieux, discriminatoire, ou prononcé sans respecter la procédure requise",
+        "Un licenciement dans lequel le salarié proteste et conteste sa décision"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le terme 'abusif' vient de l'abus de droit — l'employeur use mal de son pouvoir.",
+        "Il peut y avoir abus sur le fond (motif), sur la forme (procédure), ou sur le motif (discrimination).",
+        "La sanction principale est financière — des dommages-intérêts."
+      ],
+      "explication": "Un licenciement est qualifié d'abusif lorsque le motif invoqué est inexistant ou insuffisamment sérieux pour justifier la rupture, lorsque le motif est discriminatoire (sexe, grossesse, activité syndicale, religion, etc.), ou lorsque la procédure obligatoire n'a pas été respectée. Le terme juridique est 'licenciement sans cause réelle et sérieuse'. La sanction principale est l'octroi de dommages-intérêts au salarié, dont le montant est fixé par le tribunal en fonction du préjudice subi."
+    },
+    {
+      "question": "Quelle est la sanction principale d'un licenciement abusif ?",
+      "choix": [
+        "L'annulation automatique du licenciement et la réintégration obligatoire du salarié",
+        "Des dommages-intérêts versés au salarié, dont le montant est fixé par le tribunal selon le préjudice subi",
+        "Une amende pénale pour l'employeur",
+        "Le remboursement uniquement des indemnités de licenciement déjà versées"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La réintégration est possible mais non automatique — elle exige l'accord des deux parties.",
+        "La sanction est avant tout financière.",
+        "Le tribunal prend en compte plusieurs critères pour fixer le montant."
+      ],
+      "explication": "La sanction principale d'un licenciement abusif est l'octroi de dommages-intérêts au salarié par le tribunal. Le montant est déterminé en fonction du préjudice réellement subi — ancienneté, âge, difficulté à retrouver un emploi, souffrance morale. La réintégration dans l'emploi est également possible, mais elle requiert l'accord des deux parties — elle ne peut pas être imposée si l'une des parties y est opposée. Ces dommages-intérêts s'ajoutent aux indemnités légales auxquelles le salarié a droit."
+    },
+    {
+      "question": "Comment le salarié peut-il contester un licenciement qu'il estime abusif ?",
+      "choix": [
+        "En envoyant une lettre de protestation à son ancien employeur",
+        "En saisissant le tribunal du travail compétent (conseil des prud'hommes ou son équivalent)",
+        "En se plaignant à l'inspection du travail, qui annulera le licenciement",
+        "En faisant grève pour exiger sa réintégration"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une instance judiciaire qui tranche les conflits entre salariés et employeurs.",
+        "Cette juridiction spécialisée est compétente pour les litiges liés au contrat de travail.",
+        "Le salarié a un délai légal pour agir après la notification du licenciement."
+      ],
+      "explication": "Pour contester un licenciement qu'il estime abusif ou sans cause réelle et sérieuse, le salarié doit saisir le tribunal du travail compétent — le conseil des prud'hommes dans les systèmes d'inspiration française, ou son équivalent en droit malgache. Cette juridiction est spécialisée dans les litiges individuels du travail. Le salarié doit agir dans les délais légaux de prescription — au-delà de ce délai, l'action est irrecevable. Avant le jugement, une phase de conciliation peut permettre de trouver un accord amiable."
+    },
+    {
+      "question": "Quelle est la protection spéciale dont bénéficient les délégués du personnel en cas de licenciement envisagé à leur encontre ?",
+      "choix": [
+        "Ils ne peuvent jamais être licenciés pendant la durée de leur mandat",
+        "Leur licenciement doit être soumis à l'accord du comité d'entreprise et, en cas de désaccord, à l'autorisation de l'inspecteur du travail",
+        "Ils bénéficient d'un préavis deux fois plus long que les autres salariés",
+        "Ils ont droit au double de l'indemnité légale de licenciement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette protection vise à éviter que l'employeur ne licencie les représentants du personnel par représailles.",
+        "Elle implique l'intervention d'une autorité extérieure à l'entreprise.",
+        "Le simple accord du comité ne suffit pas si ce dernier est en désaccord."
+      ],
+      "explication": "Le licenciement d'un délégué du personnel ou d'un membre du comité d'entreprise est soumis à une procédure renforcée. Il doit d'abord être soumis à l'accord du comité d'entreprise, qui vote au scrutin secret après audition de l'intéressé. En cas de désaccord du comité, l'employeur ne peut procéder au licenciement que sur décision favorable de l'inspecteur du travail, rendue après enquête contradictoire. Cette double protection vise à empêcher les licenciements discriminatoires liés à l'exercice du mandat de représentation."
+    },
+    {
+      "question": "Une femme enceinte peut-elle être licenciée ?",
+      "choix": [
+        "Oui, si la faute commise est suffisamment grave",
+        "Non, en aucun cas — la grossesse confère une protection absolue contre tout licenciement",
+        "Non en principe, la grossesse protège la salariée, sauf faute grave ou motif étranger à la grossesse",
+        "Oui, si le licenciement est notifié avant que l'employeur apprenne la grossesse"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La protection de la femme enceinte est particulièrement forte en droit du travail.",
+        "Mais certaines exceptions limitées existent.",
+        "Un licenciement prononcé en violation de cette protection est nul."
+      ],
+      "explication": "En principe, une femme enceinte bénéficie d'une protection renforcée contre le licenciement pendant sa grossesse et pendant une période après l'accouchement. Cependant, cette protection n'est pas totalement absolue : un licenciement peut être prononcé en cas de faute grave de la salariée non liée à son état de grossesse, ou pour un motif économique sérieux totalement étranger à la maternité. En dehors de ces cas très limités, le licenciement d'une femme enceinte est nul — pas seulement abusif — ce qui ouvre droit à la réintégration ou à des dommages-intérêts substantiels."
+    },
+    {
+      "question": "Un salarié en arrêt maladie peut-il être licencié ?",
+      "choix": [
+        "Non, jamais — la maladie confère une protection absolue et permanente",
+        "Oui, librement — la maladie ne change rien à la procédure de licenciement",
+        "En principe non — l'arrêt maladie suspend le contrat de travail ; mais si la maladie se prolonge et que le remplacement permanent devient nécessaire, le licenciement peut être possible dans les conditions prévues par la convention collective",
+        "Oui, uniquement si l'employeur a trouvé un remplaçant définitif"
+      ],
+      "reponse": 2,
+      "indices": [
+        "L'arrêt maladie suspend le contrat de travail — il ne le rompt pas.",
+        "La maladie elle-même n'est pas un motif de licenciement.",
+        "Mais une maladie très longue peut créer une situation justifiant un licenciement dans des conditions strictes."
+      ],
+      "explication": "En principe, le contrat de travail est simplement suspendu pendant l'arrêt maladie — on ne peut pas licencier un salarié en raison de sa maladie. Cependant, si l'absence se prolonge au-delà des durées prévues par la convention collective et que l'entreprise est contrainte d'embaucher quelqu'un de façon permanente pour remplacer le salarié absent, le licenciement peut devenir possible, sous des conditions strictement définies. Dans tous les cas, le motif ne peut jamais être la maladie elle-même — c'est la perturbation objective du fonctionnement de l'entreprise qui peut être invoquée."
+    },
+    {
+      "question": "Vrai ou faux : dans un licenciement collectif économique, l'employeur peut choisir librement les salariés à licencier.",
+      "choix": [
+        "Vrai, l'employeur est libre dans sa gestion du personnel",
+        "Faux : l'employeur doit respecter des critères d'ordre de licenciement définis par la convention collective ou le règlement intérieur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Des critères objectifs s'imposent pour éviter les choix arbitraires ou discriminatoires.",
+        "Ces critères tiennent notamment compte des charges de famille, de l'ancienneté et des qualités professionnelles.",
+        "Leur non-respect rend la procédure irrégulière."
+      ],
+      "explication": "Faux. En cas de licenciement collectif économique, l'employeur ne peut pas choisir arbitrairement les salariés à licencier. Il doit respecter des critères d'ordre de licenciement prévus par la convention collective ou, à défaut, par le règlement intérieur de l'entreprise. Ces critères tiennent classiquement compte des charges de famille (les personnes seules avec enfants à charge sont davantage protégées), de l'ancienneté dans l'entreprise, et des qualités professionnelles. Le non-respect de ces critères rend la procédure irrégulière et peut conférer un caractère abusif au licenciement."
+    },
+    {
+      "question": "Qu'est-ce que la priorité de réembauche en cas de licenciement économique ?",
+      "choix": [
+        "L'obligation pour l'employeur de reprendre tous les salariés licenciés dès que la situation économique s'améliore",
+        "Le droit du salarié licencié économiquement d'être informé et d'être prioritaire pour tout emploi disponible de même nature dans l'entreprise, pendant une durée limitée suivant son licenciement",
+        "Le droit du salarié d'imposer à son ex-employeur de le reprendre",
+        "L'obligation pour l'ex-employeur de verser des indemnités supplémentaires si le salarié ne trouve pas d'emploi dans l'année"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette priorité est une protection spécifique au licenciement économique.",
+        "Elle ne dure pas indéfiniment — une durée maximale est prévue.",
+        "Le salarié doit manifester son souhait pour en bénéficier."
+      ],
+      "explication": "La priorité de réembauche est un droit reconnu au salarié licencié pour motif économique. Si l'entreprise embauche à nouveau sur un poste de même nature dans un délai déterminé (généralement un an à compter de la rupture du contrat), elle doit informer le salarié licencié et lui proposer prioritairement ce poste. Le salarié doit avoir manifesté son souhait de bénéficier de cette priorité dans un délai fixé après son licenciement. S'il accepte, il retrouve son ancienneté antérieure."
+    },
+    {
+      "question": "Qu'est-ce que le reçu pour solde de tout compte ?",
+      "choix": [
+        "Un document par lequel l'employeur atteste avoir versé toutes les indemnités prévues par la convention collective",
+        "Un récapitulatif des sommes versées au salarié à la rupture du contrat, que le salarié signe mais qu'il peut dénoncer dans un délai légal s'il estime que tout ne lui a pas été payé",
+        "Une renonciation définitive et irrévocable du salarié à tout recours devant le tribunal",
+        "Un document fiscal nécessaire pour déclarer les indemnités de licenciement aux impôts"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Sa signature n'est pas une renonciation définitive à tous ses droits.",
+        "Le salarié dispose d'un délai pour le contester s'il estime être lésé.",
+        "Il n'a de valeur libératoire que pour les sommes qui y sont mentionnées."
+      ],
+      "explication": "Le reçu pour solde de tout compte est un document récapitulatif des sommes versées au salarié lors de la rupture de son contrat. Le salarié le signe, mais cette signature n'est pas une renonciation définitive à tous ses droits. Le salarié dispose d'un délai légal (généralement deux mois) pour dénoncer ce reçu s'il estime que des sommes lui sont encore dues ou que les montants sont erronés. Passé ce délai, le reçu n'a de valeur libératoire que pour les sommes expressément mentionnées."
+    },
+    {
+      "question": "Quelle est la différence entre un licenciement irrégulier et un licenciement abusif ?",
+      "choix": [
+        "Ce sont deux termes synonymes désignant la même situation",
+        "Le licenciement irrégulier concerne un vice de procédure (non-respect des étapes formelles) ; le licenciement abusif concerne un vice de fond (motif inexistant ou insuffisant)",
+        "Le licenciement irrégulier est plus grave que le licenciement abusif",
+        "Le licenciement irrégulier concerne uniquement les licenciements économiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'irrégularité porte sur la forme — comment la procédure a été conduite.",
+        "L'abus porte sur le fond — pourquoi on licencie.",
+        "Les deux peuvent se combiner dans un même licenciement."
+      ],
+      "explication": "La distinction est fondamentale. L'irrégularité de procédure désigne le non-respect des étapes formelles obligatoires — entretien préalable non tenu, délai de convocation insuffisant, lettre de licenciement sans motifs précis, absence de consultation des représentants du personnel. Le licenciement abusif (sans cause réelle et sérieuse) désigne quant à lui un vice sur le fond — motif inexistant, trop peu sérieux, ou discriminatoire. Un licenciement peut être régulier en la forme mais abusif sur le fond, ou vice-versa, ou les deux à la fois."
+    },
+    {
+      "question": "Vrai ou faux : une simple 'insuffisance professionnelle' mentionnée sans détails dans la lettre de licenciement constitue un motif suffisant.",
+      "choix": [
+        "Vrai, cette expression est reconnue comme un motif valable",
+        "Faux : les motifs doivent être précis et circonstanciés — des faits datés et vérifiables, pas de formules vagues"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La lettre de licenciement délimite le cadre du litige.",
+        "Des formules génériques ne permettent pas au tribunal d'apprécier le bien-fondé du licenciement.",
+        "Le salarié doit pouvoir se défendre utilement contre des griefs précis."
+      ],
+      "explication": "Faux. La simple mention 'insuffisance professionnelle' sans aucun détail concret ne constitue pas un motif suffisamment précis et circonstancié. La lettre de licenciement doit contenir des faits précis, datés et vérifiables — quels objectifs n'ont pas été atteints, quelles missions ont été mal exécutées, quelles erreurs ont été commises, pendant quelle période. Des formules vagues permettent difficilement au tribunal d'apprécier le bien-fondé du licenciement, et au salarié de se défendre efficacement. Un motif trop vague peut conduire à faire déclarer le licenciement sans cause réelle et sérieuse."
+    },
+    {
+      "question": "Le ralentissement des affaires de l'entreprise est-il assimilé à un cas de force majeure dispensant l'employeur du préavis ?",
+      "choix": [
+        "Oui, toute difficulté économique sérieuse permet de se dispenser du préavis",
+        "Non, le ralentissement des affaires n'est pas assimilable à un cas de force majeure et ne dispense pas l'employeur de l'obligation de préavis",
+        "Oui, mais uniquement si l'entreprise perd plus de 30% de son chiffre d'affaires",
+        "Cela dépend de la convention collective applicable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La force majeure suppose des faits imprévisibles et insurmontables.",
+        "Les difficultés économiques, même réelles, restent des aléas prévisibles du monde des affaires.",
+        "Seuls des événements extraordinaires (guerre, catastrophe naturelle) constituent une force majeure."
+      ],
+      "explication": "Non. La force majeure est strictement définie comme des événements imprévisibles et insurmontables — une guerre, une catastrophe naturelle, une réquisition par les autorités, la destruction des locaux par un incendie. Le ralentissement des affaires, même sévère, reste un aléa économique prévisible du monde des affaires et ne peut pas être qualifié de force majeure. L'employeur reste donc tenu de respecter le préavis, même en cas de difficultés économiques."
+    },
+    {
+      "question": "Vrai ou faux : la participation à une grève légale peut constituer une faute grave justifiant un licenciement sans préavis.",
+      "choix": [
+        "Vrai, si la grève perturbe sérieusement le fonctionnement de l'entreprise",
+        "Faux : la grève ne rompt pas le contrat de travail et ne constitue pas par elle-même une faute grave — seule une faute lourde commise pendant la grève peut justifier un licenciement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La grève est un droit reconnu aux travailleurs.",
+        "Elle suspend le contrat de travail mais ne le rompt pas.",
+        "Ce n'est qu'une faute particulièrement grave commise pendant la grève qui peut justifier un licenciement."
+      ],
+      "explication": "Faux. La grève est un droit fondamental des travailleurs. La simple participation à une grève légale ne constitue pas une faute grave et ne peut pas justifier un licenciement sans préavis. La grève suspend le contrat de travail mais ne le rompt pas. Ce n'est que si une faute lourde est commise pendant la grève — violence physique, séquestration de membres du personnel, sabotage, blocage illégal des accès — que le licenciement peut être justifié sur cette base, et uniquement à raison de cette faute lourde, pas de la participation à la grève elle-même."
+    },
+    {
+      "question": "Qu'est-ce que l'inaptitude médicale déclarée par le médecin du travail ?",
+      "choix": [
+        "Le refus du salarié de se soumettre à une visite médicale obligatoire",
+        "La constatation médicale que le salarié n'est plus en mesure d'occuper son poste pour des raisons de santé, ouvrant la possibilité d'un licenciement après recherche préalable de reclassement",
+        "Un arrêt de travail prolongé pour maladie ordinaire",
+        "Une contre-visite médicale organisée par l'employeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est le médecin du travail — et non le médecin personnel — qui déclare l'inaptitude.",
+        "Elle ne conduit pas automatiquement au licenciement — une étape préalable est obligatoire.",
+        "L'employeur doit d'abord chercher sérieusement un autre poste adapté."
+      ],
+      "explication": "L'inaptitude médicale est la constatation par le médecin du travail que le salarié n'est plus apte à occuper son poste pour des raisons de santé — physiques ou mentales. Cette déclaration ne débouche pas automatiquement sur un licenciement. L'employeur est d'abord obligé de rechercher sérieusement un reclassement du salarié sur un autre poste dans l'entreprise (ou dans le groupe), compatible avec les recommandations du médecin du travail. Ce n'est que si le reclassement est impossible — ou si le salarié refuse les postes proposés — que le licenciement pour inaptitude médicale peut être prononcé."
+    },
+    {
+      "question": "Peut-on licencier un salarié parce qu'il a refusé une modification de son contrat de travail proposée par l'employeur ?",
+      "choix": [
+        "Non, le refus du salarié de modifier son contrat ne peut jamais justifier un licenciement",
+        "Oui, si la modification était justifiée par des raisons légitimes et que le refus du salarié est la cause directe du licenciement — ce n'est pas une faute, mais un motif personnel non disciplinaire",
+        "Oui, mais uniquement pour une modification de la rémunération",
+        "Oui, et dans ce cas il s'agit d'une faute grave justifiant un licenciement sans préavis"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le refus de modifier son contrat n'est pas une faute du salarié.",
+        "Il peut néanmoins justifier un licenciement dans certaines conditions.",
+        "C'est un licenciement non disciplinaire — le salarié conserve ses droits indemnitaires."
+      ],
+      "explication": "Oui, mais sous conditions. Si l'employeur propose une modification substantielle du contrat de travail pour des raisons légitimes (réorganisation, difficultés économiques) et que le salarié la refuse, ce refus peut justifier un licenciement pour motif personnel non disciplinaire. Le refus de modifier son contrat n'est pas une faute — le salarié a le droit de refuser. Mais ce refus peut rendre le licenciement nécessaire pour l'employeur. Dans ce cas, le salarié conserve tous ses droits indemnitaires (préavis, indemnité de licenciement, congés payés)."
+    },
+    {
+      "question": "Quels critères le tribunal prend-il en compte pour fixer le montant des dommages-intérêts en cas de licenciement abusif ?",
+      "choix": [
+        "Uniquement l'ancienneté du salarié dans l'entreprise",
+        "Le préjudice réel subi, l'ancienneté, l'âge, la difficulté à retrouver un emploi, et en général toutes les circonstances qui permettent d'apprécier l'étendue du préjudice",
+        "Uniquement le dernier salaire perçu par le salarié",
+        "Un barème fixe déterminé à l'avance par la loi, sans pouvoir d'appréciation du juge"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le tribunal cherche à réparer le préjudice réellement subi.",
+        "Un salarié de 25 ans n'est pas dans la même situation qu'un salarié de 55 ans.",
+        "L'ancienneté est un critère parmi d'autres."
+      ],
+      "explication": "Pour fixer le montant des dommages-intérêts en cas de licenciement abusif, le tribunal prend en compte l'ensemble des circonstances permettant d'apprécier le préjudice réellement subi : l'ancienneté dans l'entreprise, l'âge du salarié, la nature des fonctions exercées, la facilité ou la difficulté à retrouver un emploi équivalent, la situation familiale, la durée du chômage qui a suivi, et tout autre facteur pertinent. L'objectif est de compenser intégralement le préjudice causé par le licenciement injustifié."
+    },
+    {
+      "question": "Vrai ou faux : l'employeur qui a licencié sans respecter la procédure obligatoire mais pour un motif réel et sérieux peut quand même être condamné.",
+      "choix": [
+        "Faux : si le motif est valable, la procédure importe peu",
+        "Vrai : l'irrégularité de procédure peut donner lieu à une indemnité distincte, même si le motif de fond est valable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La procédure et le fond sont deux questions distinctes devant le tribunal.",
+        "On peut avoir un bon motif mais avoir mal procédé — les deux s'apprécient séparément.",
+        "Une indemnité pour irrégularité de procédure peut s'ajouter aux autres condamnations."
+      ],
+      "explication": "Vrai. Le tribunal apprécie séparément le fond (le motif du licenciement) et la forme (la procédure). Même si le motif est réel et sérieux — c'est-à-dire que le licenciement était justifié —, l'employeur peut être condamné à payer une indemnité distincte au salarié si la procédure n'a pas été respectée (entretien préalable non tenu, délais insuffisants, lettre sans motifs précis, etc.). Cette indemnité pour irrégularité de procédure est en principe moins élevée que les dommages-intérêts pour licenciement abusif, mais elle existe."
+    },
+    {
+      "question": "Qu'est-ce que l'inspection du travail et quel est son rôle dans certains licenciements ?",
+      "choix": [
+        "Un organisme chargé de vérifier que les salariés travaillent suffisamment",
+        "Une autorité administrative qui contrôle l'application du droit du travail et dont l'autorisation est requise pour licencier certains salariés protégés",
+        "Un tribunal spécialisé dans les conflits entre salariés et employeurs",
+        "L'organisme qui calcule et verse les indemnités de chômage"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle intervient notamment lors du licenciement des représentants du personnel.",
+        "Son autorisation est requise lorsque le comité d'entreprise s'oppose au licenciement d'un protégé.",
+        "C'est une autorité administrative extérieure à l'entreprise."
+      ],
+      "explication": "L'inspection du travail est une autorité administrative chargée de contrôler l'application des lois et règlements du travail dans les entreprises. Dans le cadre du licenciement des salariés protégés (représentants du personnel, délégués syndicaux), lorsque le comité d'entreprise refuse son accord, l'employeur ne peut procéder au licenciement que sur autorisation conforme de l'inspecteur du travail. Celui-ci mène une enquête contradictoire — le salarié peut se faire assister — et rend sa décision dans un délai légal. Cette décision peut être contestée devant le ministre du Travail."
+    },
+    {
+      "question": "Vrai ou faux : les conventions collectives peuvent prévoir des indemnités de licenciement plus favorables que le minimum légal.",
+      "choix": [
+        "Vrai : les conventions collectives peuvent toujours améliorer les droits des salariés par rapport à la loi",
+        "Faux : les conventions collectives ne peuvent que reprendre les dispositions légales"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les conventions collectives sont des accords négociés entre employeurs et syndicats.",
+        "Le principe en droit du travail est que les conditions les plus favorables au salarié s'appliquent.",
+        "La loi fixe des minimums que les conventions peuvent dépasser mais pas réduire."
+      ],
+      "explication": "Vrai. Les conventions collectives sont des accords négociés entre organisations d'employeurs et syndicats de salariés. Elles peuvent toujours prévoir des dispositions plus favorables que les minimums légaux — notamment en matière d'indemnités de licenciement, de durée du préavis, de conditions d'ancienneté pour y avoir droit, etc. La règle est que s'applique toujours la disposition la plus favorable au salarié : si la convention collective prévoit une indemnité plus élevée que le légal minimum, c'est la convention qui s'applique. La loi ne peut pas être en dessous."
+    },
+    {
+      "question": "Combien de jours ouvrables minimum doit-on respecter entre la convocation et l'entretien préalable ?",
+      "choix": [
+        "3 jours ouvrables",
+        "5 jours ouvrables",
+        "7 jours ouvrables",
+        "10 jours ouvrables"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai permet au salarié de se préparer et de trouver un accompagnant.",
+        "Les jours ouvrables excluent les dimanches et jours fériés.",
+        "Ce délai concerne la convocation à l'entretien, pas l'envoi de la lettre de licenciement."
+      ],
+      "explication": "Le délai minimum entre la convocation et l'entretien préalable est de cinq jours ouvrables. Ce délai est impératif — il garantit que le salarié dispose du temps nécessaire pour se préparer, contacter un représentant du personnel ou un conseiller extérieur, et rassembler les éléments de sa défense. Un délai inférieur constitue une irrégularité de procédure pouvant rendre le licenciement irrégulier."
+    },
+    {
+      "question": "Qu'est-ce qu'un plan de sauvegarde de l'emploi (PSE) ?",
+      "choix": [
+        "Un plan d'assurance contre le chômage obligatoire pour toutes les entreprises",
+        "Un plan élaboré pour limiter les licenciements économiques collectifs importants et favoriser le reclassement des salariés concernés, obligatoire à partir d'un certain seuil",
+        "Un accord individuel entre l'employeur et chaque salarié licencié",
+        "Un document remis par l'État aux entreprises en difficulté"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il concerne les licenciements économiques collectifs d'une certaine ampleur.",
+        "Son but est de limiter les suppressions de postes et d'aider les salariés à retrouver un emploi.",
+        "Il doit être validé par l'autorité administrative compétente."
+      ],
+      "explication": "Le plan de sauvegarde de l'emploi (PSE) est un document obligatoire dans les entreprises d'une certaine taille lorsqu'un licenciement économique collectif dépasse un certain seuil (par exemple, plus de 10 salariés sur 30 jours dans les entreprises de plus de 50 salariés). Il doit prévoir des mesures concrètes pour limiter le nombre de licenciements — réductions d'horaires, mutations internes, départs volontaires — et des mesures pour favoriser le reclassement des salariés qui seraient néanmoins licenciés : formations, aides à la création d'entreprise, accompagnement à la recherche d'emploi. Il doit être validé par l'administration du travail compétente."
+    },
+    {
+      "question": "Vrai ou faux : en cas de force majeure, l'employeur est dispensé de toute la procédure de licenciement.",
+      "choix": [
+        "Vrai : la force majeure permet de mettre fin immédiatement au contrat sans aucune formalité",
+        "Faux : même en cas de force majeure, l'employeur doit signifier la rupture du contrat au salarié et lui remettre les documents de fin de contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La force majeure allège la procédure mais ne la supprime pas totalement.",
+        "Des obligations minimales subsistent envers le salarié.",
+        "Le certificat de travail reste notamment dû."
+      ],
+      "explication": "Faux. Même en cas de force majeure (destruction de l'usine, guerre, catastrophe naturelle), l'employeur n'est pas totalement dispensé de ses obligations. Il doit signifier la rupture du contrat au salarié et lui remettre les documents obligatoires, notamment le certificat de travail. En revanche, les étapes de la procédure ordinaire (convocation, entretien préalable, délais) peuvent être allégées ou écartées en raison du caractère imprévisible et insurmontable de la force majeure."
+    },
+    {
+      "question": "Quel est le salaire de référence utilisé pour calculer l'indemnité de licenciement ?",
+      "choix": [
+        "Uniquement le dernier salaire mensuel brut",
+        "Le salaire minimum légal en vigueur",
+        "Le plus favorable entre la moyenne mensuelle des 12 derniers mois et la moyenne mensuelle des 3 derniers mois (primes incluses au prorata)",
+        "La moyenne du salaire sur toute la durée du contrat"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La règle est d'adopter la méthode la plus avantageuse pour le salarié.",
+        "Les primes et gratifications périodiques sont incluses, au prorata.",
+        "Ce calcul protège les salariés dont la rémunération varie significativement."
+      ],
+      "explication": "Le salaire de référence pour le calcul de l'indemnité de licenciement est le plus favorable entre deux méthodes : la moyenne mensuelle des 12 derniers mois précédant le licenciement, ou la moyenne mensuelle des 3 derniers mois. Les primes et gratifications versées périodiquement sont prises en compte au prorata du temps de travail. Cette double méthode est favorable au salarié : si sa rémunération a augmenté récemment, la moyenne des 3 mois sera plus avantageuse ; si elle a diminué, la moyenne des 12 mois protège mieux."
+    },
+    {
+      "question": "Vrai ou faux : un licenciement prononcé sans entretien préalable est nul.",
+      "choix": [
+        "Vrai : l'absence d'entretien préalable rend le licenciement nul",
+        "Faux : l'absence d'entretien préalable rend le licenciement irrégulier (vice de procédure) mais pas nécessairement nul — il peut ouvrir droit à des dommages-intérêts"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité et l'irrégularité sont deux notions distinctes.",
+        "La nullité suppose généralement une violation d'une règle d'ordre public particulièrement grave.",
+        "L'irrégularité de procédure a ses propres sanctions."
+      ],
+      "explication": "Faux. L'absence d'entretien préalable rend le licenciement irrégulier — c'est un vice de procédure important qui peut ouvrir droit à des dommages-intérêts distincts de ceux éventuellement accordés pour licenciement sans cause réelle et sérieuse. Mais il ne rend pas nécessairement le licenciement nul. La nullité est une sanction plus radicale réservée à des violations particulièrement graves — comme le licenciement d'une femme enceinte ou d'un représentant du personnel sans respecter la procédure spéciale."
+    },
+    {
+      "question": "Qu'est-ce que le contrat de sécurisation professionnelle (CSP) proposé en cas de licenciement économique ?",
+      "choix": [
+        "Une assurance privée souscrite par le salarié avant le licenciement",
+        "Un dispositif proposé au salarié licencié économiquement dans les entreprises de moins de 1 000 salariés, lui permettant de bénéficier d'un accompagnement renforcé vers l'emploi",
+        "Un contrat de travail à durée déterminée proposé après le licenciement",
+        "Un accord entre l'employeur et le salarié reportant la date de licenciement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il est proposé dans le cadre des licenciements économiques.",
+        "Il concerne les entreprises en dessous d'un certain effectif.",
+        "Son acceptation modifie les conditions de rupture du contrat."
+      ],
+      "explication": "Le contrat de sécurisation professionnelle (CSP) est un dispositif proposé au salarié lors d'un licenciement économique dans les entreprises de moins de 1 000 salariés (et dans les entreprises en liquidation judiciaire quelle que soit leur taille). S'il l'accepte, le salarié bénéficie d'un accompagnement renforcé vers l'emploi — formations, bilan de compétences, ateliers de recherche d'emploi — avec le maintien d'une allocation pendant une durée déterminée. L'acceptation du CSP modifie les modalités de fin du contrat, notamment en ce qui concerne le préavis."
+    },
+    {
+      "question": "Peut-on licencier un salarié pendant ses congés payés ?",
+      "choix": [
+        "Oui, sans restriction particulière",
+        "Non, les congés payés suspendent le contrat de travail et l'employeur ne peut pas procéder à un licenciement pendant cette période",
+        "Oui, mais uniquement pour faute grave",
+        "Non, sauf accord écrit du salarié"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les congés payés constituent une période de suspension du contrat.",
+        "Un licenciement pendant les congés serait constitutif d'un trouble à la vie privée du salarié.",
+        "Le délai de préavis ne court pas pendant les congés."
+      ],
+      "explication": "En principe, l'employeur ne peut pas procéder à un licenciement (ou faire courir le préavis) pendant que le salarié est en congés payés. Les congés payés sont une période de repos légale à laquelle le salarié a droit — interrompre ces congés par un licenciement porterait atteinte à ce droit. Si un motif grave surgit pendant les congés du salarié, l'employeur doit en principe attendre le retour du salarié pour engager la procédure. En tout état de cause, le préavis de licenciement ne peut pas commencer à courir pendant les congés payés."
+    },
+    {
+      "question": "Vrai ou faux : l'employeur peut librement mentionner dans le certificat de travail que le salarié a été licencié pour faute grave, pour informer les futurs employeurs.",
+      "choix": [
+        "Vrai, la transparence professionnelle justifie cette mention",
+        "Faux : le certificat de travail ne peut contenir que des mentions objectives sur l'emploi — toute mention défavorable non autorisée par le salarié engage la responsabilité de l'employeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le certificat de travail est un document factuel et neutre.",
+        "L'employeur ne peut pas y exprimer ses opinions ou ajouter des qualifications.",
+        "Une telle mention pourrait nuire durablement aux chances de réemploi du salarié."
+      ],
+      "explication": "Faux. Le certificat de travail ne peut contenir que des informations objectives et neutres : dates d'entrée et de sortie, nature des emplois. L'employeur ne peut en aucun cas, sans le consentement exprès du salarié, y faire figurer des mentions défavorables comme le motif du licenciement ou l'existence d'une faute. Une telle mention engage sa responsabilité civile — elle pourrait rendre la réinsertion professionnelle du salarié particulièrement difficile, ce qui constitue un préjudice réparable."
+    },
+    {
+      "question": "Résumé final : parmi les situations suivantes, laquelle constitue un licenciement RÉGULIER ?",
+      "choix": [
+        "Un licenciement verbal annoncé lors d'une réunion d'équipe, sans lettre recommandée ni entretien préalable",
+        "Un licenciement pour vol prouvé par des témoins et des images, précédé d'une convocation formelle envoyée 6 jours ouvrables avant l'entretien, suivi d'une lettre de licenciement détaillée envoyée 3 jours ouvrables après l'entretien",
+        "Un licenciement d'une déléguée du personnel pour 'mauvaise ambiance', sans consultation du comité d'entreprise ni autorisation de l'inspecteur du travail",
+        "Un licenciement d'une salariée enceinte pour 'insuffisance professionnelle', annoncé par email le lendemain de l'entretien préalable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Vérifiez chaque élément de la procédure : convocation, délai, entretien, lettre, motif.",
+        "Le motif doit être réel et sérieux, les protections spéciales respectées.",
+        "La forme écrite (lettre recommandée) est impérative."
+      ],
+      "explication": "Seul le deuxième cas est régulier. Le vol prouvé par des témoins et des images constitue un motif réel et sérieux (voire une faute grave). La convocation a été envoyée 6 jours ouvrables avant l'entretien (le minimum est 5), l'entretien a bien eu lieu, et la lettre de licenciement a été envoyée 3 jours ouvrables après l'entretien (le minimum est 2) avec des motifs précis. Les trois autres cas sont irréguliers : un licenciement verbal (pas de forme écrite), le licenciement d'une déléguée sans procédure spéciale, et le licenciement d'une femme enceinte pour un motif insuffisant par email (délai et forme incorrects)."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Rakoto travaille depuis 9 ans comme responsable de production dans une usine textile à Antananarivo. Il est payé 1 200 000 ariary par mois. Son employeur décide de le licencier après avoir découvert qu'il avait autorisé plusieurs sorties de matières premières sans bons de sortie, pour un montant cumulé de 3 500 000 ariary. Des témoignages de collègues confirment les faits, et le responsable logistique atteste qu'aucun bon de sortie n'a été enregistré. L'employeur lui envoie lundi matin une convocation par lettre recommandée pour un entretien le vendredi suivant. L'entretien a lieu. Trois jours ouvrables après, l'employeur envoie la lettre de licenciement mentionnant précisément les sorties de matières sans bons et les témoignages. (1) Qualifiez la faute reprochée à Rakoto. (2) La procédure suivie par l'employeur est-elle régulière ? Justifiez en détail. (3) Quelles indemnités Rakoto peut-il prétendre ? Calculez. (4) L'employeur est-il tenu de lui remettre un certificat de travail ?",
+      "choix": [
+        "C'est une simple faute pouvant être sanctionnée par un avertissement",
+        "(1) Faute grave : les sorties de matières sans bons de sortie représentent un détournement de stock qui porte atteinte à l'entreprise et rend impossible le maintien de Rakoto pendant le préavis. (2) Procédure régulière : convocation lundi pour vendredi = 4 jours ouvrables (lundi, mardi, mercredi, jeudi) — c'est juste 4 jours ouvrables, soit insuffisant (minimum 5 requis). L'employeur aurait dû convoquer pour le lundi suivant au plus tôt. (3) Faute grave = pas de préavis, pas d'indemnité de licenciement, mais conserve les congés payés. (4) Oui, le certificat de travail est toujours dû.",
+        "Rakoto a tous ses droits car la procédure est entachée d'irrégularité",
+        "C'est une faute lourde — Rakoto perd tous ses droits y compris les congés payés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comptez soigneusement les jours ouvrables entre la convocation et l'entretien.",
+        "La qualification de la faute détermine les droits aux indemnités.",
+        "Le certificat de travail est dû même pour les fautes les plus graves."
+      ],
+      "explication": "(1) Qualification de la faute. Les sorties répétées de matières premières sans bons de sortie pour un montant significatif (3 500 000 ariary) constituent une faute grave. Ces actes représentent un détournement de stock qui apporte un trouble profond au fonctionnement de l'entreprise et rend impossible le maintien de Rakoto dans l'entreprise, même pendant la durée du préavis. Il n'y a pas nécessairement d'intention de nuire prouvée — ce serait une faute lourde — mais la gravité des faits suffit à caractériser la faute grave. (2) Analyse de la procédure. La convocation a été envoyée lundi pour un entretien le vendredi. Comptons les jours ouvrables séparant la réception de la convocation (lundi) de l'entretien (vendredi) : mardi, mercredi, jeudi — soit seulement 3 jours ouvrables si la convocation a été reçue le lundi même. Il en faut au minimum 5. La procédure est donc irrégulière sur ce point — l'employeur aurait dû convoquer pour le lundi ou le mardi de la semaine suivante au minimum. En revanche, la lettre de licenciement a été envoyée 3 jours ouvrables après l'entretien (le minimum pour une faute grave est de 2 jours) et contient des motifs précis et circonstanciés. La lettre elle-même est régulière, mais l'irrégularité de la convocation entache l'ensemble de la procédure. (3) Indemnités dues. Faute grave = perte du préavis (pas d'indemnité compensatrice de préavis) et perte de l'indemnité de licenciement. Rakoto conserve son droit à l'indemnité compensatrice de congés payés pour les jours de congés acquis non pris. Pour l'irrégularité de procédure (délai de convocation insuffisant), malgré la faute grave, Rakoto pourrait obtenir devant le tribunal une indemnité pour non-respect de la procédure. (4) Certificat de travail. Oui, absolument. Le certificat de travail est dû dans tous les cas de licenciement, y compris pour faute grave ou lourde. C'est la seule obligation qui subsiste inconditionnellement. L'employeur indiquera les dates d'emploi et la nature des fonctions de responsable de production, sans mentionner la raison du licenciement."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Vonjy est déléguée du personnel dans une entreprise de 75 salariés à Toamasina. Elle travaille depuis 6 ans comme comptable. La direction estime que ses relations avec l'équipe se sont dégradées et décide de la licencier pour 'mésentente grave perturbant le service'. Elle convoque Vonjy à un entretien préalable avec un délai de 7 jours ouvrables, tient l'entretien, envoie la lettre de licenciement 3 jours après — sans consulter le comité d'entreprise et sans demander l'autorisation de l'inspecteur du travail. La lettre mentionne 'mésentente grave avec l'équipe comptable depuis six mois'. (1) Y a-t-il un problème dans la procédure suivie ? Identifiez-le précisément. (2) Le motif invoqué est-il suffisant ? (3) Quelles sont les conséquences juridiques pour l'employeur ? (4) Vonjy peut-elle obtenir sa réintégration ?",
+      "choix": [
+        "La procédure est correcte car le délai de convocation est respecté",
+        "(1) Problème majeur : Vonjy est déléguée du personnel — son licenciement requiert impérativement l'accord du comité d'entreprise puis, en cas de désaccord, l'autorisation de l'inspecteur du travail. Ces étapes ont été totalement omises. (2) Motif insuffisant : 'mésentente grave avec l'équipe' depuis six mois est une formule vague ne permettant pas d'apprécier la réalité et la sérieuse du motif. (3) Le licenciement est nul — pas seulement irrégulier. L'employeur risque des dommages-intérêts substantiels et possiblement des sanctions pénales pour entrave aux fonctions de représentation. (4) Oui, Vonjy peut demander sa réintégration, qui est de droit en cas de licenciement nul d'un salarié protégé.",
+        "Le licenciement est valable car le motif de mésentente est reconnu",
+        "Vonjy ne peut rien faire car elle a participé à l'entretien préalable sans protester"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Vonjy a un statut particulier qui impose une procédure spéciale.",
+        "Son statut de déléguée du personnel modifie radicalement les obligations de l'employeur.",
+        "La nullité est la sanction la plus grave — elle ouvre droit à la réintégration."
+      ],
+      "explication": "(1) Problème majeur de procédure. Vonjy est déléguée du personnel — elle bénéficie d'une protection spéciale. Tout licenciement envisagé à son encontre doit obligatoirement être soumis à l'accord du comité d'entreprise, qui se prononce par vote au scrutin secret après audition de Vonjy. En cas de désaccord du comité (ou en l'absence de comité d'entreprise), l'employeur ne peut procéder au licenciement que sur autorisation conforme de l'inspecteur du travail, rendue après enquête contradictoire. Or l'entreprise compte 75 salariés — elle a donc un comité d'entreprise obligatoire (au-dessus de 50 salariés). L'employeur a totalement ignoré ces étapes essentielles. (2) Insuffisance du motif. La 'mésentente grave avec l'équipe depuis six mois' est un motif notoirement insuffisant et peu circonstancié. La mésentente peut justifier un licenciement non disciplinaire uniquement si elle est prouvée par des faits précis, si elle cause une réelle désorganisation du service, et si les tentatives de résolution ont échoué. La simple affirmation d'une dégradation relationnelle, sans faits précis ni dates, ne constitue pas un motif réel et sérieux. Par ailleurs, la vraie raison pourrait être l'activité syndicale de Vonjy — ce serait un motif discriminatoire. (3) Conséquences juridiques. Le licenciement est nul — pas seulement irrégulier — car il a été prononcé en violation des règles protectrices des délégués du personnel. La nullité est la sanction la plus grave : le licenciement est réputé n'avoir jamais eu lieu juridiquement. L'employeur risque : des dommages-intérêts substantiels pour licenciement nul d'un salarié protégé, des sanctions pénales pour entrave à l'exercice des fonctions de représentation du personnel (infraction pénalement réprimée), et éventuellement des dommages-intérêts supplémentaires si un motif discriminatoire (lié à l'activité syndicale) est prouvé. (4) Droit à la réintégration. Oui. En cas de licenciement nul d'un salarié protégé, la réintégration est de droit — Vonjy peut l'exiger, et l'employeur est en principe obligé d'y faire droit. Si la réintégration est impossible ou refusée par Vonjy elle-même, elle obtiendra des dommages-intérêts particulièrement importants pour compenser la perte de son emploi et l'atteinte portée à son mandat de représentation."
+    }
+  ]
+}
