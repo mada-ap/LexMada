@@ -1,0 +1,446 @@
+{
+  "titre": "La responsabilité civile délictuelle",
+  "module": "Module 06 — La responsabilité civile délictuelle",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que la responsabilité civile délictuelle ?",
+      "texte": "La responsabilité civile délictuelle — aussi appelée responsabilité extracontractuelle — est l'obligation imposée à une personne de réparer le dommage qu'elle a causé à autrui en dehors de tout contrat. Elle s'oppose à la responsabilité contractuelle, qui naît de l'inexécution d'un contrat. Ici, aucun lien contractuel n'existe entre l'auteur du dommage et la victime : un chauffard qui renverse un piéton, un voisin dont le chien mord un passant, un ouvrier qui laisse tomber un outil sur un collègue. Le fondement de ce régime en droit civil français et malgache est l'article 1382 du Code civil (devenu article 1240 en France depuis 2016), qui pose le principe fondateur : 'Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer.' Le droit malgache des obligations, codifié dans la loi n° 66-003 du 2 juillet 1966, reprend ces solutions en les adaptant au contexte local. À Madagascar, la responsabilité délictuelle est donc gouvernée par ce Code des obligations, qui s'inspire largement du droit civil français tout en reconnaissant certaines spécificités liées au contexte juridique et social malgache.",
+      "definition": "La responsabilité civile délictuelle est l'obligation de réparer un dommage causé à autrui hors de tout contrat. Elle repose sur trois éléments cumulatifs : une faute (ou un fait générateur), un dommage réparable, et un lien de causalité entre les deux.",
+      "exemple": "Rakoto conduit son taxi à vive allure à Antananarivo et brûle un feu rouge. Il percute le scooter de Fara, qui se fracture la cheville. Aucun contrat n'existait entre eux. Rakoto engage sa responsabilité civile délictuelle : il a commis une faute (brûler le feu), Fara a subi un dommage (fracture, perte de revenus), et ce dommage découle directement de cette faute."
+    },
+    {
+      "titre": "Le premier pilier : la faute",
+      "texte": "La faute est le premier élément constitutif de la responsabilité délictuelle pour fait personnel. Elle peut consister en un acte positif (frapper quelqu'un), une omission (ne pas signaler un danger), de la négligence (ne pas vérifier les freins de son véhicule) ou de l'imprudence (lancer un objet sans vérifier qu'il n'y a personne). En droit civil, la faute se définit classiquement par référence au comportement du bon père de famille — l'homme raisonnable placé dans les mêmes circonstances. Si l'auteur du dommage s'est comporté différemment de ce qu'aurait fait une personne normalement prudente et diligente, la faute est constituée. Il existe deux grandes catégories : la faute intentionnelle (le dol), où l'auteur veut le dommage ou en accepte le risque consciemment, et la faute non intentionnelle (quasi-délit), où le dommage résulte d'une négligence ou d'une imprudence sans volonté de nuire. En droit malgache comme en droit français, les deux engagent la responsabilité délictuelle. La faute peut aussi être une faute par abstention : même celui qui n'agit pas peut engager sa responsabilité s'il avait l'obligation d'agir et qu'il s'en est abstenu — par exemple, un médecin qui ne porte pas secours à un blessé en danger de mort.",
+      "definition": "La faute délictuelle est tout comportement illicite imputable à son auteur, qu'il soit intentionnel (délit civil) ou non intentionnel (quasi-délit). Elle s'apprécie par rapport au comportement qu'aurait eu une personne raisonnable dans les mêmes circonstances.",
+      "exemple": "Un menuisier laisse sa scie circulaire en marche sans surveillance dans un chantier accessible au public. Un enfant se blesse en la touchant. Le menuisier n'avait pas l'intention de blesser quiconque, mais son imprudence — ne pas sécuriser une machine dangereuse — constitue une faute non intentionnelle suffisante pour engager sa responsabilité délictuelle."
+    },
+    {
+      "titre": "Le deuxième pilier : le dommage réparable",
+      "texte": "Pour qu'une action en responsabilité délictuelle aboutisse, la victime doit avoir subi un dommage réel. Tout préjudice ne justifie pas réparation : le dommage doit réunir plusieurs caractères cumulatifs. Il doit être certain — actuel ou futur mais certain dans sa réalisation (contrairement au préjudice éventuel qui ne suffit pas). Il doit être direct — la victime doit être personnellement atteinte dans ses droits ou dans ses intérêts légitimes. Il doit être légitime — on ne peut réclamer réparation d'un dommage résultant d'une activité illicite. On distingue plusieurs catégories de dommages. Le dommage matériel touche au patrimoine : destruction d'un bien, perte de revenus, frais médicaux. Le dommage corporel affecte l'intégrité physique : blessures, incapacité de travail, séquelles permanentes. Le dommage moral atteint la personne dans ses sentiments, sa réputation, son honneur : douleur morale d'un parent ayant perdu un enfant, atteinte à l'image, divulgation de secrets. Le dommage par ricochet est celui subi par les proches de la victime directe : le conjoint d'un accidenté qui ne peut plus travailler, les enfants privés de leur soutien de famille. Tous ces dommages sont réparables en droit malgache et en droit français dès lors que les autres conditions sont réunies.",
+      "definition": "Le dommage réparable est le préjudice subi par la victime qui ouvre droit à réparation. Il doit être certain, direct, personnel et légitime. Il peut être matériel, corporel, moral ou par ricochet.",
+      "exemple": "Suite à un accident de la route à Mahajanga, Hery perd l'usage de sa jambe droite. Son dommage corporel est certain (l'amputation est avérée), direct (causé par l'accident), personnel (c'est Hery lui-même qui en souffre) et légitime. Son épouse, qui a dû quitter son emploi pour le soigner, subit un dommage par ricochet : perte de salaire due à l'incapacité de son mari. Les deux peuvent agir en réparation."
+    },
+    {
+      "titre": "Le troisième pilier : le lien de causalité",
+      "texte": "Le lien de causalité est le chaînon indispensable entre la faute et le dommage. La victime doit prouver que c'est bien la faute de l'auteur qui a causé son préjudice, et non un autre événement. Deux grandes théories coexistent. La théorie de l'équivalence des conditions retient comme cause tout fait sans lequel le dommage ne se serait pas produit. Elle est large : si plusieurs fautes ont contribué au dommage, chacune est considérée comme cause. La théorie de la causalité adéquate, plus sélective, ne retient que la cause qui, selon le cours normal des choses, était de nature à produire le dommage — celle qu'un observateur raisonnable aurait pu prévoir. En pratique, les tribunaux malgaches comme français combinent les deux approches selon les espèces. Le lien de causalité peut être brisé par une cause étrangère : la force majeure (événement imprévisible, irrésistible et extérieur à l'auteur — cyclone, tremblement de terre), la faute de la victime elle-même, ou le fait d'un tiers. Lorsque ces causes étrangères sont totales, elles exonèrent entièrement l'auteur. Lorsqu'elles sont partielles, elles réduisent le montant de la réparation. C'est le cas notamment quand la victime a elle-même contribué à son propre dommage.",
+      "definition": "Le lien de causalité est le rapport de cause à effet entre la faute de l'auteur et le dommage subi par la victime. Il doit être certain et direct. Il peut être rompu totalement ou partiellement par une cause étrangère : force majeure, faute de la victime ou fait d'un tiers.",
+      "exemple": "Un employeur à Toamasina omet de mettre des garde-corps sur un échafaudage. Un ouvrier tombe et se blesse. Mais il s'avère que l'ouvrier travaillait sous l'influence de l'alcool et a trébuché. Le tribunal peut reconnaître deux causes concurrentes : la faute de l'employeur (absence de garde-corps) et la faute de la victime (état d'ivresse). Il partagera la responsabilité : par exemple 60% à l'employeur, 40% à l'ouvrier, réduisant d'autant l'indemnisation."
+    },
+    {
+      "titre": "La responsabilité du fait des choses",
+      "texte": "Au-delà de la responsabilité pour faute personnelle, le droit civil consacre des régimes de responsabilité sans faute prouvée. Le plus important est la responsabilité du fait des choses, fondée en droit français sur l'article 1242 alinéa 1er du Code civil : 'On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde.' Cette responsabilité repose sur la notion de garde : est gardien de la chose celui qui en a l'usage, la direction et le contrôle au moment du dommage. La victime n'a pas à prouver une faute du gardien — elle prouve seulement que la chose a joué un rôle actif dans la réalisation du dommage (la chose était en mouvement, elle était en contact avec la victime, elle était défectueuse). Le gardien peut s'exonérer en prouvant une cause étrangère. Ce régime s'applique aux véhicules à moteur, aux machines industrielles, aux choses inertes présentant un danger anormal (un câble électrique au sol, une dalle glissante). À Madagascar, ce principe est repris dans le cadre du droit des obligations, et la jurisprudence des tribunaux civils l'applique notamment dans les accidents de la route, qui constituent l'essentiel du contentieux délictuel.",
+      "definition": "La responsabilité du fait des choses engage le gardien d'une chose (celui qui en a l'usage, la direction et le contrôle) dès lors que cette chose a causé un dommage, sans qu'il soit nécessaire de prouver sa faute.",
+      "exemple": "Le camion d'une société de transport à Antananarivo a des freins défectueux. Le chauffeur les a signalés mais la direction n'a pas réparé. Le camion emboutit une boutique. La société est gardienne du camion au moment du dommage. Sa responsabilité du fait des choses est engagée : la victime (le commerçant) n'a pas à prouver une faute précise, seulement le rôle du camion dans le dommage."
+    },
+    {
+      "titre": "La responsabilité du fait d'autrui",
+      "texte": "On peut aussi être responsable du dommage causé non par soi-même, mais par une personne dont on doit répondre. C'est la responsabilité du fait d'autrui. Elle concerne plusieurs catégories. Les parents sont responsables des dommages causés par leurs enfants mineurs : présomption de faute dans la surveillance et l'éducation. Les commettants (employeurs) sont responsables des dommages causés par leurs préposés (employés) dans l'exercice de leurs fonctions. C'est l'hypothèse la plus fréquente dans le contentieux des entreprises. L'employé commet une faute en conduisant le véhicule de l'entreprise : c'est l'employeur qui est tenu. Les instituteurs et artisans répondent des dommages causés par leurs élèves ou apprentis. L'élément central est le lien de préposition : le commettant donne des instructions à son préposé, qui agit pour son compte. Lorsque le préposé sort de sa mission (faute détachable du service, acte totalement étranger à ses fonctions), le commettant peut être exonéré. À Madagascar, dans les entreprises formelles comme informelles, ce principe régit de nombreux litiges liés aux accidents du travail, aux dommages causés par des livreurs, des agents de sécurité ou des artisans mandatés.",
+      "definition": "La responsabilité du fait d'autrui est l'obligation pour certaines personnes (parents, employeurs, instituteurs) de réparer les dommages causés par d'autres personnes (enfants, employés, élèves) dont elles avaient la garde, l'autorité ou le contrôle.",
+      "exemple": "Un agent de sécurité employé par une société privée à Nosy Be frappe violemment un client lors d'un contrôle d'accès à un hôtel. Le client est blessé. L'agent a agi dans l'exercice de ses fonctions. La société de sécurité — en tant que commettant — est responsable du fait de son préposé. La victime peut assigner directement la société, qui dispose d'un recours contre son employé si ce dernier a commis une faute intentionnelle."
+    },
+    {
+      "titre": "Les causes d'exonération et la réparation du dommage",
+      "texte": "L'auteur du dommage peut s'exonérer totalement ou partiellement de sa responsabilité en prouvant une cause étrangère. La force majeure est l'événement extérieur, imprévisible et irrésistible qui est la cause exclusive du dommage : un cyclone qui détruit une installation, un tremblement de terre. Elle exonère totalement. La faute de la victime, lorsqu'elle a contribué au dommage, réduit ou supprime la responsabilité de l'auteur selon sa part de causalité. Le fait d'un tiers, s'il présente les caractères de la force majeure, peut aussi exonérer. Les clauses limitatives de responsabilité peuvent être convenues entre professionnels, mais elles sont inefficaces en matière délictuelle envers les tiers et les consommateurs. Quant à la réparation, elle obéit au principe de réparation intégrale : la victime doit être replacée dans l'état où elle se trouvait avant le dommage, ni plus ni moins. Les dommages-intérêts couvrent le damnum emergens (la perte subie : frais médicaux, réparation du véhicule) et le lucrum cessans (le gain manqué : perte de revenus pendant l'incapacité). Le juge dispose d'un large pouvoir d'appréciation dans l'évaluation du préjudice. En matière de dommage corporel grave, une expertise médicale est souvent ordonnée. À Madagascar, la faiblesse institutionnelle des barèmes d'indemnisation et la lenteur judiciaire sont des obstacles réels à une réparation effective.",
+      "definition": "Le principe de réparation intégrale impose d'indemniser la victime de l'intégralité de son préjudice : perte subie (damnum emergens) et gain manqué (lucrum cessans). L'auteur peut s'exonérer en prouvant une cause étrangère : force majeure, faute de la victime, fait d'un tiers.",
+      "exemple": "Après un accident de taxi-brousse entre Fianarantsoa et Ranomafana, une passagère est hospitalisée 3 mois. La réparation intégrale couvre : frais d'hospitalisation (5 millions Ar), médicaments (800 000 Ar), perte de revenus pendant 3 mois (1,5 million Ar), préjudice moral (douleur physique, anxiété : 2 millions Ar). Total : 9,3 millions Ar. Si on prouve que la passagère n'avait pas mis la ceinture disponible, sa part de responsabilité pourrait réduire l'indemnisation de 20 à 30%."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel article du Code civil français pose le principe fondateur de la responsabilité civile délictuelle ?",
+      "choix": ["L'article 1382 (devenu 1240)", "L'article 1134", "L'article 1231-1", "L'article 1341"],
+      "reponse": 0,
+      "explication": "L'article 1382 ancien (devenu 1240 après la réforme de 2016) dispose que 'tout fait quelconque de l'homme qui cause à autrui un dommage oblige celui par la faute duquel il est arrivé à le réparer'. C'est le texte fondateur de la responsabilité pour faute en droit civil.",
+      "indices": ["Ce texte pose le principe général de responsabilité pour faute.", "Il a été renuméroté en France en 2016 mais reste le même en substance.", "En droit malgache, le Code des obligations de 1966 s'en inspire directement."]
+    },
+    {
+      "question": "Combien d'éléments cumulatifs faut-il réunir pour engager la responsabilité civile délictuelle pour fait personnel ?",
+      "choix": ["Deux : faute et dommage", "Trois : faute, dommage et lien de causalité", "Un seul : le dommage suffit", "Quatre : faute, dommage, causalité et mise en demeure"],
+      "reponse": 1,
+      "explication": "La responsabilité civile délictuelle pour fait personnel exige la réunion de trois éléments cumulatifs : une faute (ou fait générateur), un dommage réparable, et un lien de causalité entre les deux. L'absence d'un seul de ces éléments suffit à faire échouer l'action.",
+      "indices": ["Il ne suffit pas d'avoir subi un dommage sans qu'une faute soit commise.", "Il ne suffit pas non plus qu'une faute soit commise si aucun dommage n'en résulte.", "Le troisième élément est le chaînon entre les deux premiers."]
+    },
+    {
+      "question": "Un quasi-délit en droit civil se distingue du délit par :",
+      "choix": ["Le montant du dommage causé", "L'absence d'intention de nuire", "La qualité de la victime", "Le type de bien endommagé"],
+      "reponse": 1,
+      "explication": "Le délit civil est un acte intentionnel : l'auteur veut causer le dommage. Le quasi-délit est un acte non intentionnel résultant de la négligence ou de l'imprudence de son auteur, sans volonté de nuire. Les deux engagent la responsabilité délictuelle, mais la distinction peut influencer l'appréciation du juge.",
+      "indices": ["Pensez à la différence entre frapper intentionnellement quelqu'un et le blesser par maladresse.", "L'intention — ou son absence — est la clé.", "Dans les deux cas, la responsabilité est engagée."]
+    },
+    {
+      "question": "Comment s'apprécie la faute en droit civil ?",
+      "choix": ["Par rapport au comportement de la victime", "Par rapport au comportement d'une personne raisonnable placée dans les mêmes circonstances", "Par rapport à l'intention précise de l'auteur", "Par rapport aux usages de la profession uniquement"],
+      "reponse": 1,
+      "explication": "La faute civile s'apprécie objectivement, par référence au comportement qu'aurait eu une personne raisonnable et prudente dans les mêmes circonstances (le 'bon père de famille'). Ce standard objectif permet d'évaluer si l'auteur du dommage a dévié du comportement normal attendu.",
+      "indices": ["Ce standard est objectif, pas subjectif.", "Il ne s'agit pas de l'intention de l'auteur mais de son comportement concret.", "Imaginez ce qu'aurait fait 'l'homme normalement prudent' à sa place."]
+    },
+    {
+      "question": "Le dommage moral est-il réparable en droit civil délictuel ?",
+      "choix": ["Non, seuls les dommages matériels sont réparables", "Oui, mais uniquement en cas de décès", "Oui, dès lors qu'il est certain, direct et légitime", "Non, car il n'est pas quantifiable en argent"],
+      "reponse": 2,
+      "explication": "Le dommage moral est pleinement réparable dès lors qu'il réunit les caractères requis : certain, direct, personnel et légitime. Il peut s'agir de la douleur physique, du préjudice d'affection, de l'atteinte à l'honneur ou à la réputation. Le fait qu'il soit difficile à chiffrer n'exclut pas sa réparation.",
+      "indices": ["Le droit civil protège la personne dans toutes ses dimensions.", "La difficulté d'évaluation en argent n'exclut pas la réparation.", "Un juge peut accorder une somme symbolique ou substantielle selon les circonstances."]
+    },
+    {
+      "question": "Qu'est-ce que le dommage par ricochet ?",
+      "choix": ["Le dommage causé par un objet qui rebondit", "Le dommage subi par les proches de la victime directe", "Le dommage qui se produit en plusieurs étapes", "Le dommage causé indirectement par une chose"],
+      "reponse": 1,
+      "explication": "Le dommage par ricochet est celui que subissent les proches de la victime directe du fait des conséquences du dommage principal. Par exemple, les enfants d'un accidenté décédé perdent leur soutien de famille : ils subissent un dommage par ricochet. Il est réparable à condition que le lien entre le dommage principal et le préjudice des proches soit certain.",
+      "indices": ["Ce n'est pas la victime directe qui agit.", "Ce sont des personnes liées à la victime qui souffrent des conséquences.", "Le conjoint, les enfants, parfois les parents peuvent être concernés."]
+    },
+    {
+      "question": "Quelle théorie retient comme cause du dommage tout fait sans lequel le dommage ne se serait pas produit ?",
+      "choix": ["La théorie de la causalité adéquate", "La théorie de l'équivalence des conditions", "La théorie du risque créé", "La théorie de la faute collective"],
+      "reponse": 1,
+      "explication": "La théorie de l'équivalence des conditions (ou conditio sine qua non) considère comme cause du dommage tout antécédent sans lequel il ne se serait pas produit. Elle est plus large que la théorie de la causalité adéquate, qui ne retient que la cause qui était normalement prévisible pour produire ce type de dommage.",
+      "indices": ["Elle répond à la question : 'Sans cela, le dommage aurait-il eu lieu ?'", "Elle tend à multiplier les causes retenues.", "Son opposée est plus restrictive et sélectionne la cause 'normale'."]
+    },
+    {
+      "question": "La force majeure exonère-t-elle totalement ou partiellement l'auteur du dommage ?",
+      "choix": ["Partiellement seulement", "Totalement, si elle est la cause exclusive du dommage", "Elle n'exonère jamais en matière délictuelle", "Cela dépend du montant du dommage"],
+      "reponse": 1,
+      "explication": "Lorsque la force majeure est la cause exclusive du dommage, elle exonère totalement l'auteur. Si elle est concomitante à une faute de l'auteur, elle peut n'exonérer que partiellement. La force majeure doit être extérieure à l'auteur, imprévisible et irrésistible.",
+      "indices": ["Elle doit être extérieure, imprévisible et irrésistible.", "Si l'auteur a quand même commis une faute en plus, l'exonération peut n'être que partielle.", "Un cyclone ou un tremblement de terre peuvent en être des exemples classiques."]
+    },
+    {
+      "question": "Sur quelle notion repose la responsabilité du fait des choses ?",
+      "choix": ["La propriété de la chose", "La garde de la chose", "La valeur de la chose", "L'ancienneté de la chose"],
+      "reponse": 1,
+      "explication": "La responsabilité du fait des choses repose sur la notion de garde : est responsable celui qui avait l'usage, la direction et le contrôle de la chose au moment du dommage. Le propriétaire n'est pas nécessairement le gardien : si une voiture est confiée à un tiers, c'est ce tiers qui est gardien et responsable.",
+      "indices": ["Ce n'est pas toujours le propriétaire.", "La question est : qui contrôlait la chose au moment du dommage ?", "Usage, direction et contrôle sont les trois critères de la garde."]
+    },
+    {
+      "question": "Dans la responsabilité du fait des choses, que doit prouver la victime ?",
+      "choix": ["La faute du gardien", "Le rôle actif de la chose dans la réalisation du dommage", "L'intention du gardien de causer le dommage", "La valeur de la chose endommagée"],
+      "reponse": 1,
+      "explication": "La victime n'a pas à prouver la faute du gardien : elle doit seulement établir que la chose a joué un rôle causal dans la réalisation de son dommage (la chose était en mouvement, en contact avec la victime, ou présentait un défaut). C'est une responsabilité présumée qui facilite l'indemnisation.",
+      "indices": ["C'est une responsabilité sans faute prouvée.", "La victime a un fardeau probatoire allégé.", "C'est le gardien qui doit prouver la cause étrangère pour s'exonérer."]
+    },
+    {
+      "question": "Qui est le 'commettant' dans la responsabilité du fait d'autrui ?",
+      "choix": ["Le salarié qui commet la faute", "L'employeur qui donne des ordres à son employé", "Le juge qui rend la décision", "La victime du dommage"],
+      "reponse": 1,
+      "explication": "Le commettant est celui qui donne des instructions à un autre (le préposé) et en répond. Dans le contexte le plus fréquent, c'est l'employeur. La responsabilité du commettant est engagée lorsque le préposé cause un dommage dans l'exercice de ses fonctions.",
+      "indices": ["C'est celui qui a une autorité sur l'auteur direct du dommage.", "Il n'est pas lui-même l'auteur du dommage.", "L'employeur répond des actes de son employé dans l'exercice de ses fonctions."]
+    },
+    {
+      "question": "Pour que la responsabilité du commettant soit engagée, le préposé doit avoir causé le dommage :",
+      "choix": ["En dehors de toute relation de travail", "Dans l'exercice de ses fonctions ou à l'occasion de celles-ci", "Uniquement pendant les heures de travail strictes", "Avec l'accord explicite de son employeur"],
+      "reponse": 1,
+      "explication": "La responsabilité du commettant est engagée lorsque le préposé a causé le dommage dans l'exercice de ses fonctions ou à l'occasion de celles-ci. Si le préposé sort totalement de sa mission (faute détachable du service, acte purement personnel), le commettant peut être exonéré.",
+      "indices": ["Le lien doit exister entre le dommage et les fonctions exercées.", "Un acte purement personnel sans lien avec le travail peut exonérer l'employeur.", "'Dans l'exercice' ou 'à l'occasion de' les fonctions sont les formules-clés."]
+    },
+    {
+      "question": "Les parents sont-ils responsables des dommages causés par leurs enfants mineurs ?",
+      "choix": ["Non, sauf si leur faute personnelle est prouvée", "Oui, de plein droit, sans avoir à prouver une faute dans la surveillance", "Oui, mais uniquement si l'enfant a plus de 10 ans", "Non, la responsabilité de l'enfant est personnelle"],
+      "reponse": 1,
+      "explication": "En droit français et en droit civil inspiré du Code Napoléon, les parents sont responsables de plein droit des dommages causés par leurs enfants mineurs habitant avec eux. Depuis un arrêt de la Cour de cassation française de 1997, cette responsabilité est quasi-objective : la victime n'a pas à prouver une faute des parents dans la surveillance ou l'éducation.",
+      "indices": ["C'est une responsabilité présumée, liée à l'autorité parentale.", "La victime n'a pas à prouver que les parents ont mal surveillé.", "Les parents peuvent s'exonérer en prouvant une cause étrangère."]
+    },
+    {
+      "question": "Qu'est-ce que le principe de réparation intégrale ?",
+      "choix": ["La victime reçoit le double du préjudice subi à titre punitif", "La victime est replacée dans l'état où elle se trouvait avant le dommage, ni plus ni moins", "La réparation couvre uniquement les dommages matériels", "La réparation est plafonnée à 10 millions d'ariary"],
+      "reponse": 1,
+      "explication": "Le principe de réparation intégrale signifie que la victime doit être indemnisée de l'intégralité de son préjudice, sans enrichissement ni appauvrissement. Il n'y a pas de peine privée : la réparation n'a pas pour but de punir l'auteur mais de compenser exactement ce qu'a perdu la victime.",
+      "indices": ["Ce principe exclut toute logique punitive.", "Ni plus, ni moins que le préjudice réel.", "Il couvre tous les types de dommage : matériel, corporel, moral."]
+    },
+    {
+      "question": "Qu'est-ce que le 'damnum emergens' dans l'évaluation des dommages-intérêts ?",
+      "choix": ["Le gain manqué par la victime", "La perte effectivement subie par la victime", "Le préjudice moral de la victime", "Les frais d'avocat"],
+      "reponse": 1,
+      "explication": "Le damnum emergens désigne la perte effectivement et directement subie par la victime : frais médicaux, coût des réparations, dépenses engagées à cause du dommage. Il s'oppose au lucrum cessans, qui est le gain dont la victime a été privée (perte de revenus, manque à gagner).",
+      "indices": ["Son opposé est le lucrum cessans.", "Il s'agit de ce qui a déjà été perdu, pas de ce qui aurait pu être gagné.", "Frais d'hospitalisation, coût de remplacement d'un bien détruit en sont des exemples."]
+    },
+    {
+      "question": "Un dommage purement éventuel — dont la réalisation est incertaine — est-il réparable ?",
+      "choix": ["Oui, si la victime en fait la preuve", "Non, seul un dommage certain est réparable", "Oui, à hauteur de 50% du préjudice potentiel", "Cela dépend du juge"],
+      "reponse": 1,
+      "explication": "Le dommage doit être certain pour être réparable. Un préjudice éventuel ou hypothétique ne suffit pas. Cependant, un préjudice futur mais certain dans sa réalisation est réparable : par exemple, la perte de revenus futurs d'une personne définitivement invalide est un dommage futur mais certain.",
+      "indices": ["La règle est la certitude du dommage.", "Un préjudice purement hypothétique ne peut pas être indemnisé.", "Un préjudice futur mais inévitable reste certain."]
+    },
+    {
+      "question": "La faute de la victime peut-elle avoir une incidence sur l'indemnisation qu'elle reçoit ?",
+      "choix": ["Non, la responsabilité de l'auteur est toujours entière", "Oui, elle peut réduire ou supprimer le droit à indemnisation", "Oui, mais seulement si la faute est intentionnelle", "Non, sauf si la victime est professionnelle"],
+      "reponse": 1,
+      "explication": "La faute de la victime est une cause d'exonération partielle ou totale pour l'auteur du dommage. Si la victime a contribué à son propre dommage par son comportement fautif, l'indemnisation est réduite à proportion de sa part de responsabilité, ou même supprimée si sa faute est la cause exclusive du dommage.",
+      "indices": ["Elle est une cause étrangère au même titre que la force majeure.", "Elle peut être partielle (réduction) ou totale (exonération).", "Un piéton qui traverse hors des clous et est renversé en est un exemple classique."]
+    },
+    {
+      "question": "Qu'est-ce que la théorie de la causalité adéquate ?",
+      "choix": ["Elle retient toutes les causes sans distinction", "Elle ne retient que la cause qui était normalement de nature à produire le dommage selon le cours ordinaire des choses", "Elle exige une causalité prouvée par expertise médicale", "Elle ne s'applique qu'aux accidents de la route"],
+      "reponse": 1,
+      "explication": "La théorie de la causalité adéquate est plus sélective que l'équivalence des conditions : elle ne retient comme cause du dommage que l'événement qui, selon le cours normal et prévisible des choses, était de nature à produire ce type de dommage. Elle permet d'éviter de remonter à l'infini dans la chaîne des causes.",
+      "indices": ["Elle est plus restrictive que la théorie de l'équivalence des conditions.", "Elle demande : 'Cette cause était-elle normalement susceptible de produire ce dommage ?'", "Elle écarte les causes trop lointaines ou trop improbables."]
+    },
+    {
+      "question": "La responsabilité délictuelle peut-elle être engagée par une omission ?",
+      "choix": ["Non, seul un acte positif peut engager la responsabilité délictuelle", "Oui, lorsque l'auteur avait l'obligation d'agir et s'en est abstenu", "Oui, uniquement en matière professionnelle", "Non, car l'omission ne crée pas de causalité directe"],
+      "reponse": 1,
+      "explication": "La faute par abstention ou omission peut engager la responsabilité délictuelle lorsque l'auteur avait une obligation légale, réglementaire ou professionnelle d'agir et qu'il ne l'a pas respectée. Par exemple, un médecin qui ne porte pas secours à un blessé, un propriétaire qui ne signale pas un danger évident sur son bien.",
+      "indices": ["Ce n'est pas uniquement l'action qui peut être fautive.", "L'obligation d'agir peut découler de la loi, d'un règlement ou d'une situation de fait.", "Le médecin qui ne porte pas secours en est un exemple classique."]
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre responsabilité délictuelle et responsabilité contractuelle ?",
+      "choix": ["La responsabilité contractuelle exige une faute, la délictuelle non", "La responsabilité délictuelle suppose l'absence de contrat entre les parties", "La responsabilité contractuelle est plus sévère", "La responsabilité délictuelle ne couvre pas le dommage moral"],
+      "reponse": 1,
+      "explication": "La distinction fondamentale est l'existence ou non d'un contrat entre les parties. La responsabilité contractuelle naît de l'inexécution d'une obligation contractuelle entre des parties liées par un contrat. La responsabilité délictuelle s'applique en dehors de tout contrat. Entre les mêmes parties, on ne peut pas cumuler les deux régimes (principe du non-cumul).",
+      "indices": ["La question est : existait-il un contrat entre l'auteur et la victime ?", "En présence d'un contrat, c'est le régime contractuel qui s'applique.", "Le principe du non-cumul interdit de choisir entre les deux."]
+    },
+    {
+      "question": "Qu'est-ce que le principe du non-cumul des responsabilités ?",
+      "choix": ["On ne peut pas agir en justice deux fois pour le même dommage", "La victime ne peut pas choisir entre responsabilité contractuelle et délictuelle quand un contrat existe", "On ne peut pas réclamer à la fois des dommages matériels et moraux", "L'auteur ne peut être condamné qu'une seule fois"],
+      "reponse": 1,
+      "explication": "Le principe du non-cumul interdit à la victime d'un dommage causé dans le cadre d'un contrat d'opter pour la responsabilité délictuelle (qui pourrait lui être plus favorable). Si un contrat existe entre les parties, seule la responsabilité contractuelle s'applique, avec ses propres règles. Ce principe est fondamental en droit civil français et malgache.",
+      "indices": ["Il concerne le choix du régime applicable, pas le nombre d'actions.", "Il n'est possible que lorsqu'un contrat existe entre les parties.", "La victime ne peut pas 'choisir' le régime le plus avantageux."]
+    },
+    {
+      "question": "Pour exonérer l'auteur, la force majeure doit réunir trois caractères. Lesquels ?",
+      "choix": ["Grave, soudain, coûteux", "Extérieur, imprévisible, irrésistible", "Naturel, inévitable, proportionnel", "Légal, officiel, déclaré"],
+      "reponse": 1,
+      "explication": "La force majeure est un événement extérieur à l'auteur (il ne dépend pas de lui), imprévisible (qu'il ne pouvait pas raisonnablement anticiper) et irrésistible (qu'il ne pouvait pas surmonter même en prenant toutes les précautions). Ces trois critères sont cumulatifs. Un seul suffit à écarter la qualification de force majeure.",
+      "indices": ["Trois critères cumulatifs sont exigés.", "Un cyclone peut y répondre, mais une panne de freins prévisible non.", "Ces critères s'apprécient au moment des faits."]
+    },
+    {
+      "question": "Dans quel cas le gardien d'une chose peut-il s'exonérer de sa responsabilité ?",
+      "choix": ["En prouvant qu'il n'a commis aucune faute", "En prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers)", "En remboursant la victime avant le jugement", "En démontrant la vétusté de la chose"],
+      "reponse": 1,
+      "explication": "Le gardien d'une chose ne peut pas s'exonérer en prouvant simplement qu'il n'a commis aucune faute, car la responsabilité du fait des choses est une responsabilité présumée. Il ne peut s'exonérer qu'en prouvant une cause étrangère qui rompt le lien de causalité : force majeure, faute de la victime ou fait d'un tiers.",
+      "indices": ["Ce n'est pas une responsabilité pour faute, donc prouver l'absence de faute ne suffit pas.", "La cause étrangère doit rompre le lien de causalité.", "Trois types de causes étrangères sont possibles."]
+    },
+    {
+      "question": "Un employeur peut-il être exonéré de la responsabilité du fait de son préposé ?",
+      "choix": ["Non, il est toujours responsable des actes de ses salariés", "Oui, si le préposé a commis une faute totalement détachable de ses fonctions", "Oui, si le contrat de travail prévoit une clause d'exonération", "Non, sauf en cas de force majeure"],
+      "reponse": 1,
+      "explication": "L'employeur peut s'exonérer si le préposé a commis une faute qui constitue un abus de fonctions : le préposé agissait à des fins personnelles, sans autorisation et à des fins étrangères à ses attributions. Dans ce cas, il sort complètement du cadre de sa mission et l'employeur n'est plus responsable.",
+      "indices": ["Le lien avec les fonctions doit être totalement absent.", "Un salarié qui utilise le véhicule de l'entreprise pour ses courses personnelles sans autorisation pourrait constituer un tel abus.", "C'est une exception restrictive : les tribunaux l'appliquent avec prudence."]
+    },
+    {
+      "question": "Le dommage doit être 'légitime' pour être réparable. Qu'est-ce que cela signifie ?",
+      "choix": ["Il doit être reconnu par la loi comme un préjudice grave", "La victime ne peut pas réclamer la réparation d'un dommage résultant de sa propre activité illicite", "Il doit être certifié par un juge avant toute action", "Il doit avoir été subi dans un lieu public"],
+      "reponse": 1,
+      "explication": "Le caractère légitime du dommage signifie que la victime ne peut réclamer réparation que d'un préjudice subi dans l'exercice d'un intérêt protégé par le droit. Par exemple, un trafiquant dont la marchandise illicite est détruite ne peut pas réclamer réparation pour cette perte : son intérêt n'est pas légitime.",
+      "indices": ["On ne peut pas réclamer la réparation d'un préjudice lié à une activité illégale.", "Le droit ne protège que les intérêts licites.", "Un trafiquant dont les stocks illicites sont brûlés ne peut pas agir en justice pour cela."]
+    },
+    {
+      "question": "Qu'est-ce que le lucrum cessans dans le calcul des dommages-intérêts ?",
+      "choix": ["La perte subie par la victime (frais engagés)", "Le gain dont la victime a été privée du fait du dommage", "Les intérêts moratoires dus par l'auteur", "Les frais d'expertise judiciaire"],
+      "reponse": 1,
+      "explication": "Le lucrum cessans est le manque à gagner : le gain dont la victime a été privée à cause du dommage. Par exemple, un commerçant dont la boutique est détruite par une faute perd ses revenus futurs pendant la reconstruction. Ce manque à gagner s'ajoute aux pertes directes (damnum emergens) dans le calcul de la réparation intégrale.",
+      "indices": ["Il s'oppose au damnum emergens.", "C'est ce que la victime aurait gagné si le dommage ne s'était pas produit.", "Un artisan incapable de travailler pendant 6 mois perd ses revenus professionnels."]
+    },
+    {
+      "question": "En matière délictuelle, une clause limitative de responsabilité entre l'auteur et un tiers victime est-elle valable ?",
+      "choix": ["Oui, si elle est rédigée clairement", "Non, les clauses limitatives de responsabilité ne sont pas opposables aux tiers", "Oui, entre professionnels uniquement", "Oui, si elle est acceptée par la victime avant le dommage"],
+      "reponse": 1,
+      "explication": "Les clauses limitatives ou exonératoires de responsabilité sont des clauses contractuelles. Elles ne peuvent pas être opposées à des tiers qui n'ont pas été parties au contrat. Un tiers victime d'un dommage délictuel est donc fondé à demander une réparation intégrale, sans être limité par une clause qu'il n'a pas signée.",
+      "indices": ["Les clauses contractuelles n'ont d'effet qu'entre les parties.", "Un tiers n'a pas signé le contrat et n'est pas lié par ses clauses.", "En matière délictuelle, l'indemnisation est intégrale."]
+    },
+    {
+      "question": "Qu'est-ce que la responsabilité délictuelle pour faute intentionnelle (délit civil) ?",
+      "choix": ["Une responsabilité sans faute fondée sur le risque", "Une responsabilité où l'auteur a voulu causer le dommage ou en a accepté le risque consciemment", "Une responsabilité pour négligence grave", "Une responsabilité uniquement sanctionnée pénalement"],
+      "reponse": 1,
+      "explication": "Le délit civil est un acte illicite commis avec l'intention de nuire ou avec une conscience claire du risque de dommage. Il se distingue du quasi-délit (négligence ou imprudence sans intention). En droit civil, les deux engagent la responsabilité délictuelle pour réparation, mais la faute intentionnelle peut influer sur l'appréciation des clauses contractuelles et sur certains régimes particuliers.",
+      "indices": ["La volonté de nuire ou la conscience du risque caractérise le délit civil.", "Le quasi-délit est son opposé : l'imprudence ou la négligence.", "Les deux engagent la même responsabilité de réparation."]
+    },
+    {
+      "question": "Quelle est la conséquence pratique de la responsabilité du fait d'autrui pour les victimes ?",
+      "choix": ["Elles doivent prouver la faute personnelle du commettant", "Elles peuvent agir directement contre le commettant sans avoir à prouver sa faute propre", "Elles ne peuvent agir qu'après avoir épuisé les recours contre le préposé", "Elles n'ont droit qu'à une indemnité réduite de moitié"],
+      "reponse": 1,
+      "explication": "La responsabilité du fait d'autrui est avantageuse pour les victimes car elles peuvent se retourner directement contre le commettant (employeur, parents) sans avoir à prouver leur faute propre. Cela est particulièrement utile lorsque le préposé auteur du dommage est insolvable : l'employeur, souvent plus solvable, assume la réparation.",
+      "indices": ["La victime a un débiteur plus 'solide' financièrement.", "Elle n'a pas à prouver la faute de l'employeur.", "L'employeur peut ensuite se retourner contre son employé fautif."]
+    },
+    {
+      "question": "Un enfant mineur peut-il être personnellement responsable de ses actes délictuels en droit civil ?",
+      "choix": ["Non, il est totalement irresponsable jusqu'à 18 ans", "Oui, il peut engager sa responsabilité personnelle même si ses parents sont également responsables", "Oui, mais uniquement à partir de 16 ans", "Non, la faute d'un mineur est toujours reportée sur ses parents"],
+      "reponse": 1,
+      "explication": "En droit civil français et dans les systèmes inspirés du Code civil, un mineur peut engager sa propre responsabilité délictuelle même sans discernement (depuis un arrêt de la Cour de cassation en 1984). La responsabilité des parents s'y ajoute mais ne la remplace pas. La victime peut agir contre l'un ou l'autre ou les deux.",
+      "indices": ["La responsabilité des parents et celle de l'enfant sont cumulatives.", "Un arrêt de 1984 en droit français a supprimé l'exigence de discernement.", "La victime peut choisir contre qui agir."]
+    },
+    {
+      "question": "Quel est le rôle de l'expertise médicale dans les dommages corporels ?",
+      "choix": ["Elle remplace le jugement du tribunal", "Elle permet d'évaluer objectivement l'étendue des séquelles physiques pour calculer l'indemnisation", "Elle est obligatoire dans tous les cas de responsabilité délictuelle", "Elle détermine la faute de l'auteur du dommage"],
+      "reponse": 1,
+      "explication": "En matière de dommage corporel, l'expertise médicale est souvent ordonnée par le juge pour évaluer objectivement les séquelles : taux d'incapacité permanente partielle (IPP), durée de l'incapacité temporaire totale (ITT), préjudice esthétique, préjudice d'agrément. Ces données médicales permettent de calculer avec précision le montant des dommages-intérêts.",
+      "indices": ["Elle évalue les conséquences médicales du dommage.", "Le juge s'appuie sur ses conclusions pour fixer l'indemnisation.", "Elle n'établit pas la faute, elle quantifie le préjudice."]
+    },
+    {
+      "question": "Le Code des obligations de Madagascar (loi n° 66-003 de 1966) s'inspire principalement de :",
+      "choix": ["La common law anglaise", "Le droit civil français et le Code Napoléon", "Le droit romano-germanique pur", "Le droit coutumier malgache exclusivement"],
+      "reponse": 1,
+      "explication": "Le Code des obligations de Madagascar, promulgué par la loi n° 66-003 du 2 juillet 1966, s'inspire largement du droit civil français issu du Code Napoléon, notamment en matière de responsabilité extracontractuelle. Il reprend les solutions françaises sur la faute, le dommage et le lien de causalité, en les adaptant au contexte malgache.",
+      "indices": ["Madagascar était une colonie française.", "Le droit des obligations malgache est un droit civil, pas une common law.", "Les solutions sur la responsabilité délictuelle sont quasi identiques au droit français."]
+    },
+    {
+      "question": "Peut-on cumuler une action en responsabilité pénale et une action en responsabilité civile délictuelle pour le même fait ?",
+      "choix": ["Non, le pénal exclut le civil", "Oui, les deux actions sont indépendantes et peuvent être exercées simultanément", "Oui, mais seulement si la faute pénale est intentionnelle", "Non, la victime doit choisir entre les deux"],
+      "reponse": 1,
+      "explication": "La responsabilité pénale et la responsabilité civile délictuelle sont deux régimes indépendants. La faute pénale prouvée constitue automatiquement une faute civile, mais la réciproque n'est pas vraie. La victime peut exercer son action civile devant le tribunal civil, ou se constituer partie civile devant le tribunal pénal pour obtenir réparation en même temps que la condamnation pénale de l'auteur.",
+      "indices": ["Pénal et civil poursuivent des buts différents : punir d'un côté, réparer de l'autre.", "La victime peut se constituer partie civile dans un procès pénal.", "La faute pénale prouvée vaut faute civile, mais la faute civile n'implique pas toujours une infraction pénale."]
+    },
+    {
+      "question": "Qu'est-ce que la responsabilité sans faute (ou responsabilité objective) ?",
+      "choix": ["Une responsabilité qui ne nécessite pas de lien de causalité", "Une responsabilité qui est engagée sans qu'il soit nécessaire de prouver une faute de l'auteur", "Une responsabilité limitée aux accidents de la route", "Une responsabilité uniquement applicable aux personnes morales"],
+      "reponse": 1,
+      "explication": "La responsabilité sans faute engage une personne à réparer un dommage sans qu'une faute de sa part soit nécessaire. Elle repose sur d'autres fondements : la garde d'une chose, l'autorité sur autrui, le risque créé par une activité dangereuse. La responsabilité du fait des choses et la responsabilité du commettant en sont des exemples classiques.",
+      "indices": ["Elle facilite l'indemnisation des victimes.", "Le fondement n'est pas la faute mais un autre critère (garde, autorité, risque).", "La victime n'a pas à prouver que l'auteur a mal agi."]
+    },
+    {
+      "question": "En droit malgache, quel texte gouverne principalement la responsabilité civile extracontractuelle ?",
+      "choix": ["Le Code pénal malgache", "Le Code des obligations de 1966 (loi n° 66-003)", "La Constitution de 2010", "Le Code de commerce malgache"],
+      "reponse": 1,
+      "explication": "C'est le Code des obligations de Madagascar, issu de la loi n° 66-003 du 2 juillet 1966, qui régit la responsabilité civile extracontractuelle à Madagascar. Ce texte, inspiré du droit civil français, pose les conditions de la responsabilité pour faute et reprend les principes fondamentaux de la réparation du dommage.",
+      "indices": ["Ce n'est pas le Code pénal qui régit la réparation civile.", "Ce code date de 1966, peu après l'indépendance.", "Il s'inspire du droit français tout en l'adaptant au contexte malgache."]
+    },
+    {
+      "question": "Un dommage est dit 'direct' lorsque :",
+      "choix": ["Il est visible à l'œil nu", "Il touche personnellement la victime qui agit en justice", "Il se produit immédiatement après la faute", "Il est causé sans intermédiaire par l'auteur de la faute"],
+      "reponse": 1,
+      "explication": "Le caractère direct du dommage signifie que la personne qui agit en justice est celle qui a personnellement subi le préjudice. Il n'est pas nécessaire que le dommage soit immédiat dans le temps, mais il faut que la victime soit personnellement atteinte dans ses droits ou ses intérêts. C'est différent du caractère 'certain' qui porte sur la réalité du dommage.",
+      "indices": ["Il concerne la personne de la victime, pas le moment du dommage.", "La victime doit avoir été personnellement atteinte.", "Ce caractère permet d'exclure les actions en réparation d'un préjudice subi par autrui."]
+    },
+    {
+      "question": "Quel est l'effet de la faute de la victime sur la responsabilité de l'auteur du dommage ?",
+      "choix": ["Elle ne change rien à la responsabilité de l'auteur", "Elle peut réduire ou supprimer l'obligation de réparation de l'auteur", "Elle double l'indemnisation due", "Elle transfère entièrement la responsabilité à la victime dans tous les cas"],
+      "reponse": 1,
+      "explication": "Lorsque la victime a elle-même contribué à la réalisation de son dommage par une faute de sa part, l'auteur peut invoquer cette faute pour réduire sa part de responsabilité (et donc le montant de l'indemnisation). Si la faute de la victime est la cause exclusive du dommage, l'auteur peut être totalement exonéré.",
+      "indices": ["Elle est une cause d'exonération partielle ou totale.", "La réduction est proportionnelle à la part de responsabilité de la victime.", "Si la faute de la victime est exclusive, l'auteur est totalement exonéré."]
+    },
+    {
+      "question": "Comment s'appelle l'action par laquelle l'employeur condamné pour le fait de son préposé se retourne ensuite contre ce dernier ?",
+      "choix": ["L'action oblique", "L'action récursoire ou recours contributoire", "L'action paulienne", "L'action en garantie"],
+      "reponse": 1,
+      "explication": "Après avoir indemnisé la victime, l'employeur (commettant) peut exercer un recours contre son préposé s'il a commis une faute intentionnelle ou une faute lourde. Ce recours est appelé action récursoire. Il permet à l'employeur de récupérer tout ou partie des sommes versées, en particulier lorsque le préposé a commis une faute personnelle grave.",
+      "indices": ["C'est un mécanisme de recours après condamnation.", "L'employeur d'abord paie, puis se retourne contre le fautif.", "Elle n'est possible qu'en cas de faute du préposé suffisamment grave."]
+    },
+    {
+      "question": "Qu'est-ce que la responsabilité pour risque créé ?",
+      "choix": ["Une responsabilité pour activité dangereuse fondée sur le risque, sans exigence de faute", "Une responsabilité de l'employeur pour les risques professionnels", "Une responsabilité fondée sur le risque de récidive de l'auteur", "Une responsabilité limitée aux industries polluantes"],
+      "reponse": 0,
+      "explication": "La théorie du risque créé engage la responsabilité de celui qui, en exerçant une activité dangereuse, crée un risque de dommage pour autrui. Si ce risque se réalise, la personne doit réparer sans qu'une faute soit nécessaire. C'est un fondement de certains régimes spéciaux de responsabilité, comme la responsabilité des exploitants d'installations nucléaires ou des transporteurs.",
+      "indices": ["Elle est fondée sur la création du risque, pas sur la faute.", "Celui qui profite d'une activité doit en assumer les risques.", "C'est un fondement alternatif à la faute dans certains régimes spéciaux."]
+    },
+    {
+      "question": "En cas de dommage causé par plusieurs auteurs (responsabilité collective), comment la victime est-elle indemnisée ?",
+      "choix": ["Elle doit diviser son action entre chaque auteur proportionnellement", "Les coauteurs sont tenus solidairement : la victime peut réclamer l'intégralité à l'un d'eux", "La victime ne peut réclamer qu'au dernier auteur identifié", "L'indemnisation est répartie équitablement par le juge sans solidarité"],
+      "reponse": 1,
+      "explication": "Lorsque plusieurs auteurs ont concouru à la réalisation d'un même dommage, ils peuvent être tenus solidairement : la victime peut demander réparation intégrale à l'un quelconque d'entre eux, à charge pour celui qui a payé de se retourner contre les autres coauteurs. Ce mécanisme protège la victime de l'insolvabilité de l'un des auteurs.",
+      "indices": ["La solidarité protège la victime.", "Elle peut réclamer tout à un seul auteur.", "Les coauteurs règlent ensuite entre eux la contribution à la dette."]
+    },
+    {
+      "question": "Un propriétaire qui loue son appartement reste-t-il gardien des choses présentes dans cet appartement ?",
+      "choix": ["Oui, toujours", "Non, le locataire devient gardien des choses dont il a l'usage, la direction et le contrôle", "Cela dépend de la valeur des choses", "Oui, sauf pour les meubles apportés par le locataire"],
+      "reponse": 1,
+      "explication": "La qualité de gardien suit l'usage, la direction et le contrôle effectifs, pas la propriété juridique. Un locataire qui utilise et contrôle les installations de l'appartement (chauffe-eau, plomberie, appareils électriques) peut en devenir le gardien. Cependant, si un défaut structurel préexistant à la location cause un dommage, la responsabilité du propriétaire peut être engagée.",
+      "indices": ["La garde est une question de contrôle effectif, pas de propriété.", "Le locataire qui utilise une chose en a généralement la garde.", "Si le vice est inhérent à la structure du bien, le propriétaire reste responsable."]
+    },
+    {
+      "question": "Qu'est-ce que le préjudice esthétique en droit de la réparation des dommages corporels ?",
+      "choix": ["La perte de revenus liée à une incapacité physique", "L'atteinte à l'apparence physique de la victime résultant du dommage", "Le dommage causé à un objet de valeur artistique", "La souffrance psychologique consécutive au dommage"],
+      "reponse": 1,
+      "explication": "Le préjudice esthétique est l'atteinte à l'apparence physique de la victime résultant du dommage : cicatrices, difformités, amputations visibles. Il est distinct du préjudice moral (souffrance psychologique) et du préjudice d'agrément (perte de la capacité à exercer des activités de loisir). Il est réparable dès lors qu'il est constaté, généralement par expertise médicale.",
+      "indices": ["Il concerne l'apparence physique.", "Il est distinct du préjudice moral.", "Une cicatrice visible sur le visage en est un exemple classique."]
+    },
+    {
+      "question": "Quelle est la principale difficulté pratique pour les victimes de la responsabilité civile délictuelle à Madagascar ?",
+      "choix": ["L'absence totale de textes juridiques", "La lenteur judiciaire et la faiblesse des mécanismes d'indemnisation effectifs", "Le fait que la responsabilité délictuelle n'existe pas en droit malgache", "L'impossibilité de prouver la faute sans avocat"],
+      "reponse": 1,
+      "explication": "Si les textes malgaches reconnaissent pleinement la responsabilité civile délictuelle, la réalité pratique est difficile : délais de jugement très longs, difficultés à faire exécuter les décisions, absence de barèmes d'indemnisation clairs, rareté des assurances responsabilité civile, coût des procédures. La victime peut obtenir une condamnation mais peiner à être effectivement indemnisée.",
+      "indices": ["Le droit existe mais son application effective est problématique.", "La lenteur judiciaire est un obstacle majeur.", "L'absence d'assurances et de garanties d'exécution aggrave la situation."]
+    },
+    {
+      "question": "Un médecin qui opère un patient sans son consentement engage-t-il sa responsabilité délictuelle ?",
+      "choix": ["Non, car il agit dans un but thérapeutique", "Oui, l'absence de consentement constitue une faute même en l'absence de dommage physique", "Non, seulement si l'opération aggrave l'état du patient", "Oui, mais uniquement en cas de faute technique prouvée"],
+      "reponse": 1,
+      "explication": "Le consentement éclairé du patient est une condition fondamentale en droit médical. Une opération réalisée sans consentement valide constitue une violation du droit à l'intégrité physique de la personne, même si elle est techniquement réussie. Le préjudice peut être le préjudice moral résultant de la prise de décision sans consentement (préjudice d'autonomie), indépendamment de tout dommage physique.",
+      "indices": ["Le consentement est un droit fondamental.", "L'absence de dommage physique n'exclut pas la faute.", "Le préjudice moral résultant du non-respect du consentement est réparable."]
+    },
+    {
+      "question": "Qu'est-ce que le principe 'res ipsa loquitur' (la chose parle d'elle-même) en matière de responsabilité ?",
+      "choix": ["La chose endommagée peut témoigner dans un procès civil", "La survenance de certains dommages crée une présomption de faute sans que la victime ait à la prouver", "Seule la chose peut être mise en cause, pas son gardien", "Le dommage causé par une chose vivante engage une responsabilité spéciale"],
+      "reponse": 1,
+      "explication": "Ce principe, issu de la common law mais reconnu dans des approches similaires en droit civil, signifie que certains dommages, par leur nature même, permettent de présumer la faute. Un patient qui entre en salle d'opération sain et en ressort avec une serviette oubliée dans l'abdomen : il n'a pas besoin de prouver la faute — la situation parle d'elle-même. En droit civil, cela rejoint les présomptions de responsabilité.",
+      "indices": ["Ce principe allège la charge de la preuve pour la victime.", "Certaines situations se passent d'explication : elles démontrent la faute par elles-mêmes.", "Un objet chirurgical oublié dans le corps d'un patient en est l'exemple classique."]
+    },
+    {
+      "question": "La réparation en nature est-elle possible en matière délictuelle ?",
+      "choix": ["Non, seule la réparation en argent (dommages-intérêts) est possible", "Oui, le juge peut ordonner une réparation en nature lorsqu'elle est possible et suffisante", "Oui, mais uniquement pour les dommages matériels", "Non, la loi interdit toute réparation en nature"],
+      "reponse": 1,
+      "explication": "La réparation intégrale peut s'effectuer en nature (remise en état, remplacement de l'objet détruit, publication d'un rectificatif pour une atteinte à la réputation) ou par équivalent (dommages-intérêts en argent). Le juge peut ordonner la réparation en nature lorsqu'elle est possible et adaptée, mais elle ne peut être imposée si elle est matériellement impossible ou disproportionnée.",
+      "indices": ["L'objectif est de replacer la victime dans son état antérieur.", "La réparation en nature peut être plus adaptée que l'argent dans certains cas.", "Remettre en état un mur détruit est plus approprié que verser de l'argent dans certaines situations."]
+    },
+    {
+      "question": "Qu'est-ce que le préjudice d'agrément en droit de la réparation ?",
+      "choix": ["Le plaisir perdu lors d'un voyage annulé à cause du dommage", "La perte de la capacité à pratiquer des activités de loisir ou sportives à cause du dommage corporel", "Le manque à gagner dû à l'incapacité de travailler", "L'atteinte à l'apparence physique de la victime"],
+      "reponse": 1,
+      "explication": "Le préjudice d'agrément est la perte de la capacité à pratiquer des activités de loisir, sportives ou culturelles qu'exerçait la victime avant le dommage. Un sportif amateur qui ne peut plus courir, un musicien qui ne peut plus jouer d'un instrument : c'est un préjudice distinct du préjudice professionnel et du préjudice esthétique, pleinement réparable.",
+      "indices": ["Il concerne les activités de loisir, pas le travail.", "Il est distinct du préjudice professionnel (perte de revenus).", "Un footballeur amateur qui ne peut plus jouer suite à un accident en est un exemple."]
+    },
+    {
+      "question": "La prescription de l'action en responsabilité civile délictuelle en droit français est de :",
+      "choix": ["30 ans", "10 ans", "5 ans à compter de la connaissance du dommage", "1 an"],
+      "reponse": 2,
+      "explication": "Depuis la loi du 17 juin 2008, l'action en responsabilité civile délictuelle en droit français se prescrit par 5 ans à compter du jour où la victime a connu ou aurait dû connaître les faits lui permettant d'exercer son action (dommage + auteur). Des délais spéciaux existent pour certains dommages : 10 ans pour les dommages corporels, 20 ans pour les dommages résultant de crimes de torture.",
+      "indices": ["Ce délai a été réduit par la réforme de 2008.", "Il court à compter de la connaissance du dommage.", "Des délais spéciaux s'appliquent aux dommages corporels."]
+    },
+    {
+      "question": "En matière d'accidents de la route à Madagascar, quelle obligation légale existe pour les véhicules à moteur ?",
+      "choix": ["Aucune obligation légale n'existe", "L'assurance responsabilité civile automobile est obligatoire", "L'assurance est facultative mais recommandée", "Seuls les transports en commun doivent être assurés"],
+      "reponse": 1,
+      "explication": "La loi malgache n° 99-013 portant Code des assurances impose l'assurance responsabilité civile obligatoire pour tout véhicule terrestre à moteur circulant à Madagascar. Cette assurance garantit l'indemnisation des victimes d'accidents de la route, y compris lorsque le conducteur responsable est insolvable.",
+      "indices": ["Cette obligation découle du Code des assurances malgache de 1999.", "Elle protège les victimes d'accidents même si le conducteur est sans ressources.", "Cette assurance est obligatoire, pas facultative."]
+    },
+    {
+      "question": "Un artisan qui confie un apprenti à un autre artisan : qui est responsable du dommage causé par l'apprenti ?",
+      "choix": ["L'artisan d'origine, toujours", "L'artisan qui dirige effectivement le travail de l'apprenti au moment du dommage", "Les deux artisans solidairement dans tous les cas", "L'apprenti lui-même, car il est majeur"],
+      "reponse": 1,
+      "explication": "La responsabilité suit la direction effective du travail. Lorsque l'apprenti est placé sous l'autorité d'un autre artisan pour l'exécution d'une tâche, c'est cet artisan qui devient commettant provisoire et responsable des actes de l'apprenti. La garde de l'apprenti et la direction de son travail déterminent la responsabilité.",
+      "indices": ["La responsabilité suit le contrôle effectif.", "Ce n'est pas l'employeur d'origine mais celui qui dirige au moment du fait.", "Le transfert de la direction du travail entraîne le transfert de la responsabilité."]
+    },
+    {
+      "question": "Qu'est-ce que le préjudice de contamination (exemple : contamination par le VIH via une transfusion) ?",
+      "choix": ["Un préjudice uniquement moral", "Un préjudice corporel grave incluant la contamination elle-même, les souffrances, le préjudice moral et le risque de transmission", "Un préjudice qui ne peut être réparé qu'en cas de faute prouvée du médecin", "Un préjudice uniquement évalué selon des barèmes officiels"],
+      "reponse": 1,
+      "explication": "Le préjudice de contamination est un préjudice corporel complexe reconnu par la jurisprudence française, qui comprend : la contamination elle-même et ses conséquences médicales, les souffrances physiques et morales endurées, le préjudice d'agrément, le préjudice esthétique éventuel, et le risque de transmission à des proches. Il est globalement évalué par les tribunaux et peut donner lieu à des indemnisations importantes.",
+      "indices": ["C'est un préjudice corporel complexe, pas seulement moral.", "Il inclut la contamination, les souffrances et leurs conséquences sur la vie quotidienne.", "La jurisprudence française a développé ce concept à partir des affaires du sang contaminé."]
+    },
+    {
+      "question": "Pourquoi la responsabilité délictuelle est-elle dite 'extracontractuelle' ?",
+      "choix": ["Parce qu'elle s'applique en dehors du territoire national", "Parce qu'elle s'applique en dehors de tout lien contractuel entre l'auteur et la victime", "Parce qu'elle exclut toute indemnisation pécuniaire", "Parce qu'elle est réglée par des règles extérieures au Code civil"],
+      "reponse": 1,
+      "explication": "'Extracontractuelle' signifie littéralement 'en dehors du contrat'. Ce qualificatif désigne le fait que la responsabilité délictuelle naît d'un fait juridique (un acte ou une omission causant un dommage) et non de l'inexécution d'un contrat. Il n'existe aucun lien contractuel préalable entre l'auteur du dommage et la victime.",
+      "indices": ["'Extra' signifie 'en dehors de'.", "Elle naît d'un fait, pas d'un acte juridique voulu.", "L'auteur et la victime ne se connaissaient pas nécessairement avant le dommage."]
+    },
+    {
+      "question": "Dans le cadre de la responsabilité du fait des animaux, qui est responsable des dommages causés par un animal ?",
+      "choix": ["Le propriétaire de l'animal, toujours", "Celui qui se servait de l'animal ou qui en avait la garde au moment du dommage", "L'État, en raison de l'imprudence de la victime", "Personne, car les animaux ne peuvent pas être tenus responsables"],
+      "reponse": 1,
+      "explication": "La responsabilité du fait des animaux suit la même logique que la responsabilité du fait des choses : c'est le gardien de l'animal (celui qui en a l'usage et le contrôle) qui est responsable, pas nécessairement le propriétaire. Si un voisin garde temporairement le chien d'un ami et qu'il mord un tiers, c'est le gardien temporaire (le voisin) qui est responsable.",
+      "indices": ["La garde, pas la propriété, détermine la responsabilité.", "Si l'animal est confié à quelqu'un, c'est ce quelqu'un qui est responsable.", "Le propriétaire redevient responsable quand il reprend la garde."]
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE N°1 — L'accident du chantier\n\nUne société de construction réalise un immeuble à Antananarivo. Elle fait appel à une entreprise de sous-traitance pour les travaux d'électricité. Un électricien sous-traitant, Niry, laisse par négligence un câble à haute tension non isolé dans un couloir de chantier, sans mettre en place de signalétique de danger. Le lendemain matin, Ranto, un maçon employé par la société principale, marche dans ce couloir et reçoit une décharge électrique. Il est hospitalisé 45 jours, subit deux opérations, conserve des brûlures permanentes sur le bras droit (incapacité partielle de 15%) et ne peut plus pratiquer son activité de sport favori (handball). Ses frais médicaux s'élèvent à 12 millions d'ariary. Il perd 3 millions d'ariary de salaire pendant son hospitalisation. Son épouse a dû prendre un congé sans solde de 3 semaines pour le soigner (perte de 800 000 Ar).\n\nQUESTIONS :\n1. Identifiez les trois conditions de la responsabilité délictuelle dans ce cas.\n2. Qui peut être tenu responsable et sur quel fondement ?\n3. Calculez et qualifiez les différents chefs de préjudice réparables.\n4. L'épouse de Ranto peut-elle également agir en justice ?",
+      "choix": [
+        "Faute : négligence de Niry (câble non isolé, absence de signalétique). Dommage : brûlures, hospitalisation, incapacité. Causalité : lien direct entre la faute et l'accident. Responsables : Niry pour faute personnelle ; l'entreprise sous-traitante comme commettant. Préjudices : matériels (12M frais médicaux + 3M perte salaire = 15M Ar), corporels (15% IPP à évaluer), moral (souffrance, préjudice d'agrément handball), et l'épouse peut agir pour dommage par ricochet (800 000 Ar de perte de salaire + préjudice moral).",
+        "Seul Niry est responsable personnellement. L'entreprise ne peut pas être engagée car Niry est sous-traitant. L'épouse n'a pas droit à réparation.",
+        "La société principale est seule responsable car le chantier lui appartient. L'épouse ne peut pas agir car elle n'a pas été blessée.",
+        "Il n'y a pas de responsabilité car Ranto aurait dû faire attention en passant dans ce couloir."
+      ],
+      "reponse": 0,
+      "explication": "ANALYSE DÉTAILLÉE :\n\n1. Les trois conditions : Faute = Niry a laissé un câble haute tension non isolé sans signalétique (négligence caractérisée). Dommage = brûlures, hospitalisation de 45 jours, 15% IPP, perte de revenus. Causalité = sans ce câble non isolé et sans signalétique, l'accident ne se serait pas produit.\n\n2. Responsables : Niry engage sa responsabilité personnelle pour faute (art. 1240). L'entreprise sous-traitante est responsable en tant que commettant du fait de son préposé Niry (art. 1242 al.5). La société principale peut aussi être mise en cause si elle n'a pas assuré des conditions de sécurité générales sur le chantier qu'elle maîtrise.\n\n3. Préjudices : Matériels = 12M (frais médicaux) + 3M (perte de salaire) = 15M Ar. Corporels = 15% IPP (à évaluer par expertise selon barème). Moral = souffrance physique pendant 45 jours et post-opératoire. Préjudice d'agrément = impossibilité de pratiquer le handball. Préjudice esthétique = brûlures permanentes visibles.\n\n4. L'épouse : oui, elle subit un dommage par ricochet réparable : perte de 800 000 Ar de salaire (dommage matériel) + préjudice moral lié à l'état de son mari."
+    },
+    {
+      "question": "CAS PRATIQUE N°2 — La rumeur sur les réseaux sociaux\n\nVola est pharmacienne à Fianarantsoa. En janvier 2024, un concurrent anonyme crée un compte Facebook sous un faux nom et publie des messages affirmant que la pharmacie de Vola 'vend des médicaments périmés' et que 'plusieurs clients ont été hospitalisés à cause d'elle'. Ces informations sont totalement fausses. Les messages sont partagés 340 fois. En deux semaines, la clientèle de Vola chute de 60%. Elle perd 8 millions d'ariary de chiffre d'affaires. Elle souffre d'un état dépressif nécessitant un suivi psychiatrique (coût : 1,5 million Ar). Grâce à une expertise informatique, le concurrent Dina est identifié comme auteur des messages. Dina argue que ses messages n'étaient que des 'opinions personnelles' et que la baisse de clientèle est due à d'autres facteurs.\n\nQUESTIONS :\n1. Quelle faute Dina a-t-il commise et de quelle nature est-elle ?\n2. Les dommages subis par Vola sont-ils réparables ?\n3. La défense de Dina ('opinions personnelles', 'autres facteurs') est-elle fondée ?\n4. Quels préjudices Vola peut-elle faire valoir et pour quel montant minimum ?",
+      "choix": [
+        "Faute intentionnelle (délit civil) : diffusion de fausses informations avec intention de nuire, atteinte à la réputation professionnelle. Dommages réparables : perte de chiffre d'affaires (lucrum cessans, 8M Ar), frais psychiatriques (damnum emergens, 1,5M Ar), préjudice moral (atteinte à la réputation). Défense non fondée : des faits faux ne sont pas des opinions et le lien causal est prouvé (chronologie + 60% de baisse en 2 semaines). Total minimum : 9,5M Ar + préjudice moral à évaluer.",
+        "Il n'y a pas de responsabilité car les réseaux sociaux ne sont pas soumis au droit civil.",
+        "La faute est non intentionnelle car Dina ne savait pas que ses messages étaient faux.",
+        "Vola ne peut pas agir car elle n'a pas prouvé que chaque client a quitté sa pharmacie à cause des messages."
+      ],
+      "reponse": 0,
+      "explication": "ANALYSE DÉTAILLÉE :\n\n1. La faute : Dina a commis une faute intentionnelle (délit civil), non un simple quasi-délit. Il a délibérément créé un faux compte et publié des informations qu'il savait fausses. Il s'agit d'une atteinte à la réputation professionnelle et d'un acte de concurrence déloyale. La préméditation (création d'un faux compte) et le caractère manifestement faux des accusations excluent toute interprétation de simple négligence.\n\n2. Réparabilité des dommages : Perte de CA (8M Ar) = dommage matériel certain, direct, légitime et causalement lié aux publications (chronologie). Frais psychiatriques (1,5M Ar) = damnum emergens, réparable car certain et direct. Préjudice moral = atteinte à la réputation professionnelle, réparable même sans preuve d'un dommage financier précis.\n\n3. Défense de Dina : non fondée sur les deux points. D'abord, des affirmations factuelles fausses ('plusieurs clients hospitalisés') ne sont pas des opinions. Ensuite, le lien causal est démontré par la chronologie : les publications précèdent la baisse de 60% en deux semaines, ce qui exclut un 'autre facteur' préexistant.\n\n4. Préjudices : lucrum cessans = 8M Ar (perte de CA), damnum emergens = 1,5M Ar (psychiatrie), préjudice moral et atteinte à la réputation = à évaluer souverainement par le juge (souvent 2 à 5M Ar dans des affaires similaires). Total minimum : 9,5M Ar hors préjudice moral."
+    }
+  ]
+}
