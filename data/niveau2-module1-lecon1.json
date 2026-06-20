@@ -1,0 +1,910 @@
+{
+  "titre": "Droit des sociétés : généralités",
+  "module": "Module 1 (Niveau Intermédiaire) — Droit des sociétés : généralités",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que le droit des sociétés ?",
+      "texte": "Le droit des sociétés est l'ensemble des règles juridiques qui encadrent la naissance, le fonctionnement et la disparition des sociétés. C'est une branche du droit des affaires, cet ensemble plus large qui régit l'activité économique : le droit des affaires regroupe aussi le droit commercial général, le droit bancaire, le droit de la concurrence, le droit des procédures collectives ou encore le droit de la propriété intellectuelle. Le droit des sociétés occupe une place centrale dans cet ensemble, car la société est l'instrument juridique le plus utilisé pour structurer une activité économique durable. On distingue traditionnellement deux dimensions dans cette matière. D'une part, le droit commun des sociétés (ou droit général) : ce sont les règles qui s'appliquent, par principe, à toutes les sociétés quelle que soit leur forme — les conditions de constitution, les attributs de la personnalité morale, les grands principes de fonctionnement. D'autre part, le droit spécial des sociétés : ce sont les règles propres à chaque forme sociale particulière — société anonyme, société à responsabilité limitée, société en nom collectif. Ce module se concentre exclusivement sur le droit commun : les principes qui structurent toute société, avant d'entrer dans le détail de chaque forme sociale dans les modules suivants.",
+      "definition": "Droit des sociétés : ensemble des règles juridiques régissant la création, le fonctionnement et la dissolution des sociétés. Il se divise en droit commun des sociétés (règles générales applicables à toute société) et droit spécial des sociétés (règles propres à chaque forme sociale). C'est une branche du droit des affaires."
+    },
+    {
+      "titre": "Société et entreprise : deux notions à ne pas confondre",
+      "texte": "Dans le langage courant, on emploie souvent indifféremment les mots « société » et « entreprise ». En droit, ces deux notions sont voisines mais bien distinctes. L'entreprise est une notion avant tout économique : elle désigne toute organisation de moyens humains et matériels réunis pour exercer une activité économique, quel que soit son statut juridique. La société, elle, est une notion juridique précise : c'est une personne morale qui naît, en principe, d'un contrat conclu entre plusieurs personnes qui décident de mettre en commun des ressources — capitaux, biens, savoir-faire — pour développer ensemble une activité et en partager les bénéfices. Une même activité économique — une entreprise au sens économique — peut donc être exploitée juridiquement de deux façons différentes. Premièrement, sous la forme d'une entreprise individuelle : une personne physique exerce l'activité en son nom propre, sans créer de personne juridique distincte d'elle-même. Deuxièmement, sous la forme d'une société : les personnes qui s'associent créent une entité juridique nouvelle, distincte d'elles-mêmes, dotée de son propre patrimoine et de sa propre capacité d'agir. La société n'est donc qu'une des façons possibles d'organiser juridiquement une entreprise — mais ce n'est pas la seule.",
+      "definition": "Entreprise : notion économique désignant toute organisation de moyens humains et matériels exerçant une activité économique, indépendamment de son statut juridique. Société : notion juridique précise désignant une personne morale créée par un contrat entre personnes qui mettent en commun des ressources pour partager les bénéfices d'une activité. La société est une forme d'organisation juridique de l'entreprise, mais pas la seule.",
+      "exemple": "Rakoto exploite seul son atelier de couture à Antsiranana sous le statut d'entrepreneur individuel : il n'a pas créé de personne morale distincte de lui-même, et répond personnellement de ses dettes professionnelles. S'il décide plus tard de s'associer avec Faly pour développer l'activité, ils pourront créer une société, personne morale distincte d'eux deux, qui aura son propre patrimoine."
+    },
+    {
+      "titre": "La société, un contrat sous conditions",
+      "texte": "La société naît, dans la grande majorité des cas, d'un contrat appelé contrat de société, ou pacte social. Comme tout contrat, il doit respecter les conditions générales de validité communes à tous les actes juridiques : un consentement libre et éclairé des associés, leur capacité juridique de contracter, et un contenu licite et certain. Mais le contrat de société doit en plus réunir des conditions spécifiques qui le distinguent de tout autre contrat. La première est la pluralité d'associés : une société suppose, en principe, au moins deux personnes qui s'associent — sauf exception pour les sociétés dites unipersonnelles, créées par une seule personne, que certains systèmes juridiques autorisent pour certaines formes sociales. La deuxième condition est l'existence d'apports : chaque associé doit apporter quelque chose à la société — de l'argent, un bien, ou son travail et ses compétences — en échange de droits sociaux (parts sociales ou actions). La troisième condition est la volonté de partager non seulement les bénéfices, mais aussi de contribuer aux pertes éventuelles de l'entreprise commune : on ne peut pas être associé et ne participer qu'aux gains sans jamais risquer de supporter une part des pertes. Enfin, une cinquième condition, dégagée par la jurisprudence et la doctrine, est l'affectio societatis.",
+      "definition": "Conditions spécifiques de validité du contrat de société : (1) la pluralité d'associés, sauf exception pour les sociétés unipersonnelles, (2) l'existence d'apports de chaque associé, (3) l'exercice en commun d'une activité (l'entreprise commune), (4) le partage des bénéfices et la contribution aux pertes, (5) l'affectio societatis. Ces conditions s'ajoutent aux conditions générales de validité de tout contrat.",
+      "exemple": "Zo et Tojo décident de créer ensemble une société pour exploiter un restaurant. Zo apporte 5 millions d'ariary en numéraire, Tojo apporte le local commercial dont il est propriétaire. Ils conviennent de se répartir les bénéfices à parts égales, mais aussi d'assumer ensemble les pertes éventuelles si l'activité ne décolle pas."
+    },
+    {
+      "titre": "L'affectio societatis : la volonté de s'associer",
+      "texte": "L'affectio societatis est une expression latine qui désigne la volonté réelle, partagée par les associés, de collaborer ensemble, sur un pied d'égalité, dans l'intérêt commun de la société. Ce n'est pas une condition formelle inscrite explicitement dans tous les textes de loi sur les sociétés, mais une exigence dégagée par la pratique et la jurisprudence pour distinguer une véritable société d'autres montages qui n'en ont que l'apparence. L'affectio societatis suppose un véritable esprit de collaboration : les associés doivent avoir la volonté de participer activement, ou du moins de s'intéresser à la vie sociale, et pas seulement de percevoir un revenu passif comme le ferait un simple créancier ou un simple bailleur. L'absence d'affectio societatis peut être révélatrice d'une situation qui n'est pas, en réalité, une société : par exemple, un prêt d'argent assorti d'un intérêt déguisé en part de bénéfices ne constitue pas un contrat de société, faute de cette volonté réelle de collaborer. Inversement, la présence d'un comportement révélant cette volonté commune — participer aux décisions, prendre des risques ensemble — peut permettre à un juge de reconnaître l'existence d'une société de fait entre des personnes qui n'avaient pourtant pas formalisé leur relation par un contrat écrit.",
+      "definition": "Affectio societatis : volonté réelle et partagée des associés de collaborer ensemble, sur un pied d'égalité, dans l'intérêt commun de la société. Cette condition, non formellement exigée mais dégagée par la pratique juridique, permet de distinguer une véritable société d'autres relations contractuelles (prêt, travail salarié) qui n'en ont que l'apparence.",
+      "exemple": "Andriamanana prête de l'argent à un commerçant en échange d'un pourcentage fixe sur le chiffre d'affaires, sans jamais participer aux décisions ni assumer le risque de perte. Cette relation, malgré l'apparence d'un partage de revenus, ne constitue pas une société : Andriamanana n'a pas l'affectio societatis, il agit comme un simple prêteur."
+    },
+    {
+      "titre": "Les apports : numéraire, nature, industrie",
+      "texte": "Les apports constituent la matière première du capital social de la société. On distingue traditionnellement trois types d'apports. L'apport en numéraire est un apport d'argent : l'associé verse une somme à la société, en échange de quoi il reçoit des parts sociales ou des actions. L'apport en nature est l'apport d'un bien autre qu'une somme d'argent : un immeuble, un fonds de commerce, du matériel, des marchandises, ou même des droits de propriété intellectuelle. Ce type d'apport nécessite en général une évaluation précise de sa valeur, parfois confiée à un expert indépendant (un commissaire aux apports), afin d'éviter qu'un associé ne surévalue son apport au détriment des autres. L'apport en industrie est l'apport, par un associé, de son travail, de ses compétences techniques ou de son savoir-faire. Cet apport est plus délicat à évaluer puisqu'il ne se traduit pas par un transfert de propriété d'un bien vers la société : l'associé continue de travailler et de mettre ses compétences à disposition pendant la durée de son engagement. L'ensemble des apports, additionnés, forme le capital social de la société — une notion essentielle qui sert de garantie minimale pour les créanciers et qui détermine la répartition des droits sociaux entre les associés.",
+      "definition": "Apport en numéraire : apport d'une somme d'argent. Apport en nature : apport d'un bien autre que de l'argent (immeuble, fonds de commerce, matériel), nécessitant souvent une évaluation par un expert. Apport en industrie : apport du travail, des compétences ou du savoir-faire d'un associé. L'ensemble des apports forme le capital social de la société.",
+      "exemple": "Trois associés créent une société de services informatiques. Le premier apporte 10 millions d'ariary en numéraire. Le deuxième apporte des ordinateurs et du matériel informatique évalués à 6 millions d'ariary (apport en nature). Le troisième, expert en programmation, apporte ses compétences techniques pendant cinq ans (apport en industrie)."
+    },
+    {
+      "titre": "La personnalité morale : la société, sujet de droit",
+      "texte": "Une fois le contrat de société conclu et les formalités légales accomplies — en particulier son immatriculation auprès du registre du commerce et des sociétés ou de l'organisme équivalent — la société acquiert la personnalité morale. C'est un moment décisif : la société devient un sujet de droit à part entière, distinct des personnes physiques qui l'ont créée. Cette personnalité morale confère à la société plusieurs attributs essentiels, à l'image de ceux que possède une personne physique. Des éléments d'individualisation : la société doit avoir une dénomination sociale (son nom), un siège social (son adresse juridique) et une nationalité, qui déterminent notamment la loi qui lui est applicable. Un patrimoine propre, totalement distinct de celui des associés : les biens apportés à la société, ainsi que tout ce qu'elle acquiert ensuite dans le cadre de son activité, lui appartiennent en propre — et non aux associés individuellement. Une capacité juridique : la société peut, en son nom propre, conclure des contrats, être titulaire de droits et d'obligations, et agir en justice — en tant que demanderesse ou défenderesse. Enfin, des responsabilités propres : la société peut engager sa responsabilité civile (réparer un dommage qu'elle a causé) et, dans certains systèmes juridiques, sa responsabilité pénale, pour des infractions commises pour son compte par ses organes ou représentants.",
+      "definition": "Personnalité morale : qualité de sujet de droit reconnue à la société, distincte de celle de ses associés, acquise en principe à compter de son immatriculation. Elle confère à la société : des éléments d'individualisation (dénomination, siège, nationalité), un patrimoine propre, la capacité juridique d'agir (contracter, agir en justice) et des responsabilités propres (civile, parfois pénale).",
+      "exemple": "Une société immatriculée sous le nom « Calerie Multiservices SARL » possède son propre compte bancaire, ses propres contrats avec ses fournisseurs, et peut poursuivre en justice un client qui ne la paie pas — indépendamment des patrimoines personnels de ses associés, qui restent distincts du patrimoine de la société."
+    },
+    {
+      "titre": "Sociétés civiles et sociétés commerciales",
+      "texte": "Une première grande classification distingue les sociétés selon leur caractère civil ou commercial. Le critère de cette qualification est double. D'une part, une société peut être commerciale par sa forme : certaines formes sociales sont considérées comme commerciales par la loi, quel que soit l'objet réel de leur activité — c'est le cas, dans la plupart des systèmes juridiques inspirés de la tradition civiliste, de la société en nom collectif, de la société en commandite simple, de la société à responsabilité limitée et des sociétés par actions. D'autre part, une société peut être commerciale par son objet : même sans avoir adopté une de ces formes, une société dont l'activité consiste à accomplir des actes de commerce (achat pour revendre, activités industrielles) sera qualifiée de commerciale. Toute société qui n'entre dans aucune de ces deux hypothèses est, par exclusion, une société civile : son activité ne peut alors être que civile — gestion de patrimoine, exercice d'une profession libérale, activité agricole. Cette distinction n'est pas un simple exercice de classification théorique : elle emporte des conséquences pratiques importantes. Les sociétés commerciales relèvent en général d'une juridiction spécialisée dans les affaires économiques ; elles sont soumises à des obligations comptables renforcées ; et le régime de responsabilité des associés peut différer sensiblement.",
+      "definition": "Société commerciale : société qualifiée comme telle soit par sa forme (certaines formes sociales sont toujours commerciales, quelle que soit leur activité), soit par son objet (l'activité exercée consiste en des actes de commerce). Société civile : par exclusion, toute société qui n'est ni commerciale par sa forme ni par son objet — son activité ne peut être que civile (gestion patrimoniale, professions libérales, agriculture).",
+      "exemple": "Un groupe de médecins malgaches qui s'associent pour exercer en commun leur profession libérale créent une société civile professionnelle : leur activité, l'exercice de la médecine, est par nature civile et non commerciale, même si leur cabinet génère des revenus importants."
+    },
+    {
+      "titre": "Sociétés de personnes et sociétés de capitaux",
+      "texte": "Une seconde grande classification, indépendante de la précédente, distingue les sociétés de personnes des sociétés de capitaux, selon l'importance accordée à la personne même des associés. Les sociétés de personnes sont marquées par un fort intuitu personae — c'est-à-dire que les associés se choisissent en considération de leur personne, de leur confiance mutuelle, de leurs compétences respectives. Cette confiance personnelle a deux conséquences directes. D'abord, les parts sociales de ces sociétés ne sont en principe cessibles à un tiers étranger qu'avec l'accord des autres associés : on ne peut pas imposer un nouvel associé inconnu aux autres sans leur consentement. Ensuite, ces sociétés sont souvent des sociétés à risque illimité : les associés répondent personnellement et indéfiniment des dettes sociales sur leur patrimoine propre, au-delà même de leurs apports. À l'inverse, les sociétés de capitaux se forment en considération avant tout des capitaux apportés, et non de la personne de chaque associé : les actionnaires ne se connaissent pas nécessairement entre eux. Leurs titres — appelés actions — sont en principe librement cessibles, ce qui facilite l'entrée et la sortie d'investisseurs. Et la responsabilité des associés y est limitée au montant de leurs apports : c'est l'un des attraits majeurs de ces formes sociales pour les investisseurs, qui savent qu'ils ne risquent jamais plus que ce qu'ils ont investi.",
+      "definition": "Société de personnes : société marquée par un fort intuitu personae, où la cession des titres nécessite l'accord des autres associés et où la responsabilité des associés est en général illimitée sur leur patrimoine personnel. Société de capitaux : société formée en considération des capitaux apportés plus que de la personne des associés, où les actions sont en principe librement cessibles et où la responsabilité des associés est limitée à leurs apports.",
+      "exemple": "Dans une société en nom collectif (société de personnes), tous les associés sont solidairement responsables des dettes sociales sur leurs biens personnels, et aucun ne peut céder ses parts sans l'accord unanime des autres. Dans une société anonyme (société de capitaux), un actionnaire peut vendre librement ses actions en bourse à un inconnu, et ne risque jamais de perdre plus que la somme qu'il a investie."
+    },
+    {
+      "titre": "La société à responsabilité limitée : une forme hybride",
+      "texte": "Entre ces deux grandes catégories existe une forme sociale hybride, particulièrement répandue dans la pratique en raison de sa souplesse : la société à responsabilité limitée. Cette forme combine des caractéristiques empruntées aux deux catégories. D'un côté, elle présente des traits propres aux sociétés de personnes : un fort intuitu personae demeure, puisque les parts sociales ne peuvent en principe être cédées à des personnes extérieures à la société qu'avec l'accord des autres associés, selon une procédure d'agrément. De l'autre côté, elle présente un trait caractéristique des sociétés de capitaux : la responsabilité des associés y est limitée au montant de leurs apports, contrairement à la responsabilité illimitée qui caractérise les sociétés de personnes pures. C'est précisément ce compromis qui explique le succès de cette forme sociale auprès des petites et moyennes entreprises familiales ou entre proches : elle offre la protection patrimoniale propre aux sociétés de capitaux, tout en conservant un contrôle sur l'identité des associés propre aux sociétés de personnes. Cette forme sociale existe, sous des appellations parfois différentes mais des logiques très proches, dans la quasi-totalité des systèmes juridiques inspirés de la tradition civiliste, y compris à Madagascar.",
+      "definition": "Société à responsabilité limitée : forme sociale hybride combinant un intuitu personae propre aux sociétés de personnes (cession de parts soumise à agrément des associés) et une responsabilité limitée aux apports propre aux sociétés de capitaux. Cette combinaison explique sa popularité particulière auprès des petites et moyennes entreprises et des sociétés familiales.",
+      "exemple": "Une famille malgache crée une société à responsabilité limitée pour exploiter une boutique. Les parents et leurs deux enfants sont associés. Si un enfant souhaite vendre ses parts à un ami extérieur à la famille, il devra obtenir l'accord des autres associés. Mais en cas de difficultés financières de la société, aucun des quatre associés ne risque plus que le montant de son apport initial."
+    },
+    {
+      "titre": "Les acteurs de la vie sociale : associés et dirigeants",
+      "texte": "Une fois créée, la société vit, animée principalement par deux catégories d'acteurs aux rôles distincts. Les associés (ou actionnaires dans les sociétés par actions) sont les personnes qui ont apporté des capitaux ou des biens à la société et qui en détiennent les parts ou actions. Ils disposent de droits politiques — le droit de participer aux décisions collectives, le droit de vote en assemblée, le droit d'être informés sur la marche de la société — et de droits financiers — le droit de percevoir une part des bénéfices distribués (les dividendes), et le droit, en principe, de céder leurs titres. En contrepartie, ils ont des obligations, notamment celle de contribuer aux pertes de la société selon les règles propres à chaque forme sociale. Les décisions des associés se prennent en assemblées, qui peuvent être ordinaires — pour les décisions courantes de gestion, comme l'approbation des comptes annuels — ou extraordinaires — pour les décisions qui modifient les statuts mêmes de la société, comme un changement d'objet social ou une augmentation de capital. Les dirigeants, quant à eux, sont les personnes chargées d'assurer la gestion quotidienne de la société et de la représenter dans ses rapports avec les tiers. Ils sont désignés soit directement dans les statuts, soit par une décision ultérieure des associés. Leurs pouvoirs de gestion sont en principe étendus, mais ils peuvent voir leur responsabilité civile, voire pénale, engagée en cas de faute commise dans l'exercice de leurs fonctions.",
+      "definition": "Associés (ou actionnaires) : titulaires de parts ou d'actions, disposant de droits politiques (vote, information, participation aux décisions) et financiers (dividendes, cession des titres), et tenus de certaines obligations (contribution aux pertes). Dirigeants : personnes chargées de la gestion quotidienne et de la représentation de la société, désignées par les statuts ou par décision des associés, et susceptibles d'engager leur responsabilité civile ou pénale en cas de faute.",
+      "exemple": "Dans une société, l'assemblée générale ordinaire des associés se réunit chaque année pour approuver les comptes de l'exercice écoulé et décider de l'affectation du résultat. Si les associés souhaitent modifier l'objet social de la société pour développer une nouvelle activité, ils devront se réunir en assemblée générale extraordinaire, soumise à des règles de quorum et de majorité renforcées."
+    },
+    {
+      "titre": "La fin de la société : transformation et dissolution",
+      "texte": "Comme une personne physique, la société a une existence limitée dans le temps : elle naît, vit, et finit par disparaître. Pendant sa vie sociale, la société peut connaître des événements qui nécessitent une modification de ses statuts — changement de dénomination, transfert de siège social, modification de l'objet, augmentation ou réduction du capital — selon des règles de majorité propres à chaque forme sociale. Un événement particulier mérite une attention spécifique : la transformation, qui consiste à changer la forme juridique de la société sans créer une nouvelle personne morale — une société à responsabilité limitée qui devient une société anonyme, par exemple. La transformation obéit à des conditions précises, généralement assorties d'un rapport d'un expert indépendant attestant que les capitaux propres de la société sont au moins égaux au capital social, afin de protéger les associés comme les tiers lors de ce changement de forme. La fin véritable de la société, en revanche, s'appelle la dissolution. Elle peut résulter de plusieurs causes : l'arrivée du terme statutaire (la durée fixée pour la société dans ses statuts a expiré), la réalisation ou l'extinction de son objet, une décision des associés, l'annulation du contrat de société, ou encore une dissolution judiciaire prononcée par un tribunal pour de justes motifs — notamment en cas de mésentente grave entre associés bloquant le fonctionnement de la société.",
+      "definition": "Transformation : changement de la forme juridique d'une société sans création d'une nouvelle personne morale, soumis à des conditions précises de protection des associés et des tiers. Dissolution : fin de la société, pouvant résulter de l'arrivée du terme statutaire, de la réalisation ou de l'extinction de l'objet social, d'une décision des associés, de l'annulation du contrat, ou d'une décision judiciaire pour justes motifs.",
+      "exemple": "Une société à responsabilité limitée familiale, après plusieurs années de croissance, décide de se transformer en société anonyme afin de pouvoir ouvrir son capital à de nouveaux investisseurs extérieurs. Cette transformation ne crée pas de nouvelle personne morale : c'est la même société, qui change simplement de forme juridique."
+    },
+    {
+      "titre": "Liquidation et boni de liquidation",
+      "texte": "La dissolution de la société ne met pas immédiatement fin à son existence juridique : elle ouvre une phase intermédiaire appelée liquidation. Pendant cette phase, la société continue d'exister, mais uniquement dans le but de régler ses affaires en cours : recouvrer ses créances, payer ses dettes, et répartir entre les associés ce qui subsiste après ce règlement. Cette mission est confiée à une ou plusieurs personnes désignées comme liquidateurs, dont les pouvoirs sont déterminés par les associés ou, en cas de dissolution judiciaire, par le tribunal. Le liquidateur représente la société pendant toute la durée de la liquidation, vend si nécessaire les actifs sociaux, règle les créanciers, puis établit les comptes définitifs de la liquidation. Une fois toutes les dettes sociales réglées et tous les actifs réalisés, s'il reste un solde positif, on parle de boni de liquidation : cet excédent est réparti entre les associés en proportion de leurs droits dans le capital social, selon les modalités prévues par les statuts ou par la loi. À l'inverse, si l'actif ne suffit pas à couvrir le passif, on parle de mali de liquidation, et les associés peuvent être tenus de contribuer aux pertes selon les règles de responsabilité propres à la forme sociale en cause. Ce n'est qu'au terme de cette procédure de liquidation que la personnalité morale de la société s'éteint définitivement, par sa radiation du registre du commerce et des sociétés.",
+      "definition": "Liquidation : phase qui suit la dissolution, pendant laquelle la société subsiste pour régler ses affaires (recouvrement des créances, paiement des dettes), sous la conduite d'un ou plusieurs liquidateurs. Boni de liquidation : excédent d'actif net subsistant après paiement de toutes les dettes sociales, réparti entre les associés selon leurs droits dans le capital. La personnalité morale ne s'éteint qu'à l'issue de la liquidation, par la radiation de la société.",
+      "exemple": "Une société dissoute possède, après avoir vendu tous ses actifs et payé l'intégralité de ses créanciers, un solde de 20 millions d'ariary. Ce boni de liquidation sera réparti entre les associés proportionnellement à leur participation dans le capital social. Ce n'est qu'après cette répartition que la société sera radiée et que sa personnalité morale disparaîtra définitivement."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Comment peut-on définir le droit des sociétés ?",
+      "choix": [
+        "L'ensemble des règles applicables uniquement aux grandes entreprises cotées en bourse",
+        "L'ensemble des règles juridiques qui régissent la création, le fonctionnement et la dissolution des sociétés",
+        "L'ensemble des règles relatives aux contrats de travail dans les entreprises",
+        "L'ensemble des règles fiscales applicables aux commerçants individuels"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit des sociétés couvre tout le cycle de vie d'une société.",
+        "De sa naissance à sa disparition, en passant par son fonctionnement.",
+        "Il ne se limite pas à une seule catégorie de sociétés."
+      ],
+      "explication": "Le droit des sociétés est l'ensemble des règles juridiques qui régissent la création, le fonctionnement et la dissolution des sociétés. Cette définition couvre tout le cycle de vie d'une société, de sa naissance jusqu'à sa disparition, et s'applique à toutes les formes sociales, pas seulement aux grandes entreprises."
+    },
+    {
+      "question": "De quelle branche plus vaste du droit le droit des sociétés fait-il partie ?",
+      "choix": [
+        "Le droit pénal",
+        "Le droit des affaires",
+        "Le droit administratif",
+        "Le droit international public"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette branche plus vaste régit l'ensemble de la vie économique.",
+        "Elle inclut aussi le droit commercial, le droit bancaire, le droit de la concurrence.",
+        "Le droit des sociétés est l'une de ses composantes principales."
+      ],
+      "explication": "Le droit des sociétés fait partie du droit des affaires, ensemble plus vaste qui régit l'ensemble de la vie économique : droit commercial général, droit bancaire, droit des assurances, droit de la propriété intellectuelle, droit des procédures collectives et droit de la concurrence en font également partie."
+    },
+    {
+      "question": "Quelle est la différence entre le droit commun des sociétés et le droit spécial des sociétés ?",
+      "choix": [
+        "Le droit commun s'applique aux sociétés civiles, le droit spécial aux sociétés commerciales",
+        "Le droit commun regroupe les règles générales applicables à toute société ; le droit spécial regroupe les règles propres à chaque forme sociale particulière",
+        "Le droit commun concerne les petites sociétés, le droit spécial les grandes entreprises",
+        "Il n'y a aucune différence entre les deux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit commun s'applique quelle que soit la forme de la société.",
+        "Le droit spécial s'attache à une forme sociale précise (SA, SARL, etc.).",
+        "Ce module porte uniquement sur le droit commun."
+      ],
+      "explication": "Le droit commun des sociétés regroupe les règles générales applicables à toute société, indépendamment de sa forme. Le droit spécial des sociétés regroupe les règles propres à chaque forme sociale particulière (société anonyme, société à responsabilité limitée, etc.). Ce module se concentre sur le droit commun ; les modules suivants aborderont le droit spécial."
+    },
+    {
+      "question": "Quelle est la nature de la notion d'« entreprise », par opposition à celle de « société » ?",
+      "choix": [
+        "L'entreprise est une notion juridique précise, tandis que la société est une notion purement économique",
+        "L'entreprise est une notion avant tout économique, tandis que la société est une notion juridique précise",
+        "Les deux notions sont des synonymes parfaits sans aucune différence",
+        "L'entreprise désigne uniquement les sociétés cotées en bourse"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'entreprise désigne une organisation de moyens, indépendamment de son statut.",
+        "La société, elle, est une création du droit, dotée de la personnalité morale.",
+        "Ce sont deux notions voisines mais distinctes."
+      ],
+      "explication": "L'entreprise est une notion avant tout économique : elle désigne toute organisation de moyens humains et matériels exerçant une activité économique, indépendamment de son statut juridique. La société, en revanche, est une notion juridique précise : c'est une personne morale créée par un contrat, distincte des personnes qui l'ont créée."
+    },
+    {
+      "question": "Quelles sont les deux principales façons d'exploiter juridiquement une activité économique (une entreprise au sens économique) ?",
+      "choix": [
+        "Sous forme d'association ou de fondation uniquement",
+        "Sous forme d'entreprise individuelle ou sous forme de société",
+        "Sous forme de coopérative ou de syndicat",
+        "Sous forme d'établissement public uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une de ces formes n'entraîne pas la création d'une personne morale distincte.",
+        "L'autre crée une entité juridique séparée des personnes qui l'ont fondée.",
+        "Ce sont les deux grandes options juridiques pour exercer une activité."
+      ],
+      "explication": "Une entreprise (au sens économique) peut être exploitée juridiquement de deux façons principales : sous forme d'entreprise individuelle, où une personne physique exerce l'activité en son nom propre sans créer de personne morale distincte, ou sous forme de société, qui crée une personne morale séparée des personnes physiques qui l'ont créée."
+    },
+    {
+      "question": "Qu'est-ce qu'une société unipersonnelle ?",
+      "choix": [
+        "Une société qui n'a qu'un seul dirigeant, quel que soit le nombre d'associés",
+        "Une société créée par une seule personne, par exception au principe de pluralité d'associés",
+        "Une société dont l'objet social est limité à une seule activité",
+        "Une société qui ne peut employer qu'un seul salarié"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le préfixe « uni » renvoie à l'unicité de l'associé fondateur.",
+        "C'est une exception au principe général de pluralité d'associés.",
+        "Certaines formes sociales permettent ce mode de création."
+      ],
+      "explication": "Une société unipersonnelle est une société créée par une seule personne, par exception au principe général selon lequel une société suppose la réunion de plusieurs associés. Certaines formes sociales permettent spécifiquement ce mode de constitution, ce qui permet à un entrepreneur individuel de bénéficier des avantages d'une structure sociétaire tout en restant seul."
+    },
+    {
+      "question": "La société naît, dans la grande majorité des cas, de quel acte juridique ?",
+      "choix": [
+        "D'une décision administrative",
+        "D'un contrat, appelé contrat de société ou pacte social",
+        "D'un jugement rendu par un tribunal",
+        "D'une simple déclaration verbale sans aucun écrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La société est, par nature, fondée sur un accord de volontés.",
+        "Cet accord porte un nom spécifique en droit des sociétés.",
+        "C'est un acte juridique conventionnel entre plusieurs personnes."
+      ],
+      "explication": "La société naît, dans la grande majorité des cas, d'un contrat appelé contrat de société ou pacte social. Comme tout contrat, il doit respecter les conditions générales de validité (consentement, capacité, contenu licite) ainsi que des conditions spécifiques propres au contrat de société."
+    },
+    {
+      "question": "Quelles sont les conditions générales de validité que le contrat de société doit respecter, comme tout contrat ?",
+      "choix": [
+        "Uniquement l'existence d'un capital minimum",
+        "Un consentement libre et éclairé, la capacité de contracter, et un contenu licite et certain",
+        "Uniquement la présence d'un acte notarié",
+        "Uniquement l'accord du gouvernement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce sont les conditions communes à tous les contrats, étudiées dans un module antérieur.",
+        "Consentement, capacité, contenu : ce triptyque s'applique aussi au contrat de société.",
+        "Ces conditions s'ajoutent aux conditions spécifiques propres à la société."
+      ],
+      "explication": "Le contrat de société doit respecter les conditions générales de validité communes à tous les contrats : un consentement libre et éclairé des associés, leur capacité juridique de contracter, et un contenu licite et certain. Ces conditions générales s'ajoutent aux conditions spécifiques propres au contrat de société (pluralité d'associés, apports, etc.)."
+    },
+    {
+      "question": "Parmi les conditions spécifiques de validité du contrat de société, laquelle concerne le nombre minimum de personnes impliquées ?",
+      "choix": [
+        "L'affectio societatis",
+        "La pluralité d'associés, sauf exception pour les sociétés unipersonnelles",
+        "L'apport en numéraire exclusivement",
+        "La nationalité des associés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette condition concerne le nombre de personnes qui s'associent.",
+        "Le principe général exige plusieurs personnes, sauf exception.",
+        "Les sociétés unipersonnelles dérogent à cette exigence."
+      ],
+      "explication": "La pluralité d'associés est la condition spécifique qui exige, en principe, au moins deux personnes pour créer une société, sauf exception pour les sociétés unipersonnelles. Cette condition se distingue de l'affectio societatis (la volonté de collaborer), des apports (les ressources mises en commun) et des autres conditions spécifiques du contrat de société."
+    },
+    {
+      "question": "Que désigne l'expression latine affectio societatis ?",
+      "choix": [
+        "L'obligation légale de déposer les statuts de la société",
+        "La volonté réelle et partagée des associés de collaborer ensemble, sur un pied d'égalité, dans l'intérêt commun de la société",
+        "Le montant minimum du capital social exigé par la loi",
+        "La durée légale maximale d'une société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une condition dégagée par la pratique et la jurisprudence, pas un texte formel.",
+        "Elle distingue une véritable société d'autres relations contractuelles qui n'en ont que l'apparence.",
+        "Elle suppose un véritable esprit de collaboration entre associés."
+      ],
+      "explication": "L'affectio societatis désigne la volonté réelle et partagée des associés de collaborer ensemble, sur un pied d'égalité, dans l'intérêt commun de la société. Cette condition permet de distinguer une véritable société d'autres montages contractuels (comme un prêt déguisé) qui n'ont que l'apparence d'une société sans cette véritable volonté de collaboration."
+    },
+    {
+      "question": "Andriamanana prête de l'argent à un commerçant en échange d'un pourcentage fixe sur le chiffre d'affaires, sans jamais participer aux décisions ni assumer aucun risque de perte. Cette relation constitue-t-elle une société ?",
+      "choix": [
+        "Oui, car il existe un partage des revenus entre les deux parties",
+        "Non, car Andriamanana n'a pas l'affectio societatis : il agit comme un simple prêteur, sans volonté réelle de collaborer ni de participer au risque",
+        "Oui, automatiquement, dès qu'il existe un pourcentage calculé sur le chiffre d'affaires",
+        "Non, mais uniquement parce qu'aucun écrit n'a été rédigé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le partage de revenus seul ne suffit pas à caractériser une société.",
+        "Il manque ici l'élément de collaboration réelle et de prise de risque partagée.",
+        "C'est l'exemple classique de l'absence d'affectio societatis."
+      ],
+      "explication": "Non, cette relation ne constitue pas une société, malgré l'apparence d'un partage de revenus. Andriamanana n'a pas l'affectio societatis : il ne participe pas aux décisions et n'assume aucun risque de perte, contrairement à un véritable associé. Il agit en réalité comme un simple prêteur percevant un intérêt variable, et non comme un associé."
+    },
+    {
+      "question": "Quels sont les trois types d'apports traditionnellement distingués en droit des sociétés ?",
+      "choix": [
+        "L'apport en numéraire, l'apport en nature et l'apport en industrie",
+        "L'apport initial, l'apport complémentaire et l'apport final",
+        "L'apport civil, l'apport commercial et l'apport mixte",
+        "L'apport individuel, l'apport collectif et l'apport solidaire"
+      ],
+      "reponse": 0,
+      "indices": [
+        "L'un est un apport d'argent, l'autre un apport de bien, le troisième un apport de travail.",
+        "Ces trois apports forment ensemble le capital social.",
+        "Chacun nécessite un traitement et une évaluation différents."
+      ],
+      "explication": "Les trois types d'apports traditionnellement distingués sont l'apport en numéraire (une somme d'argent), l'apport en nature (un bien autre que de l'argent : immeuble, matériel, fonds de commerce) et l'apport en industrie (le travail, les compétences ou le savoir-faire d'un associé). L'ensemble de ces apports forme le capital social de la société."
+    },
+    {
+      "question": "Pourquoi un apport en nature nécessite-t-il souvent une évaluation par un expert indépendant ?",
+      "choix": [
+        "Parce que la loi l'exige systématiquement pour des raisons fiscales uniquement",
+        "Pour éviter qu'un associé ne surévalue son apport au détriment des autres associés",
+        "Parce que l'apport en nature est toujours interdit sans cette évaluation préalable",
+        "Parce que seuls les biens immobiliers peuvent faire l'objet d'un apport en nature"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'apport en nature, contrairement à l'apport en numéraire, n'a pas une valeur évidente et incontestable.",
+        "Une surévaluation léserait les autres associés dans la répartition des droits sociaux.",
+        "Un expert indépendant — le commissaire aux apports — apporte une garantie d'objectivité."
+      ],
+      "explication": "L'évaluation par un expert indépendant (souvent appelé commissaire aux apports) vise à éviter qu'un associé ne surévalue la valeur de son apport en nature, ce qui lui donnerait des droits sociaux disproportionnés par rapport à sa contribution réelle, au détriment des autres associés. C'est une garantie d'objectivité et d'équité entre associés."
+    },
+    {
+      "question": "Qu'est-ce qu'un apport en industrie ?",
+      "choix": [
+        "L'apport d'une usine ou d'un site industriel à la société",
+        "L'apport, par un associé, de son travail, de ses compétences techniques ou de son savoir-faire",
+        "L'apport d'actions d'une autre société industrielle",
+        "L'apport de matières premières destinées à la production"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Industrie, ici, renvoie au travail et au savoir-faire, pas à l'industrie au sens d'usine.",
+        "Cet apport ne se traduit pas par un transfert de propriété d'un bien.",
+        "Il est plus délicat à évaluer que les deux autres types d'apports."
+      ],
+      "explication": "L'apport en industrie est l'apport, par un associé, de son travail, de ses compétences techniques ou de son savoir-faire à la société. Contrairement aux apports en numéraire et en nature, il ne se traduit pas par un transfert de propriété d'un bien : l'associé continue de mettre ses compétences à disposition pendant la durée de son engagement, ce qui rend son évaluation plus délicate."
+    },
+    {
+      "question": "Qu'est-ce que la personnalité morale d'une société ?",
+      "choix": [
+        "Un simple nom commercial sans aucune valeur juridique",
+        "La qualité de sujet de droit reconnue à la société, distincte de celle de ses associés",
+        "Le caractère de la société perçu par ses clients",
+        "Une formalité purement administrative sans conséquence juridique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La personnalité morale fait de la société un sujet de droit à part entière.",
+        "Elle distingue radicalement la société de ses associés personnes physiques.",
+        "Elle confère des attributs précis comparables à ceux d'une personne physique."
+      ],
+      "explication": "La personnalité morale est la qualité de sujet de droit reconnue à la société, distincte de celle de ses associés. Une fois acquise, elle confère à la société des attributs essentiels : des éléments d'individualisation, un patrimoine propre, une capacité juridique d'agir, et des responsabilités propres, à l'image d'une personne physique."
+    },
+    {
+      "question": "À partir de quel moment une société acquiert-elle, en principe, la personnalité morale ?",
+      "choix": [
+        "Dès la signature du contrat de société entre les associés",
+        "À compter de son immatriculation auprès du registre du commerce et des sociétés ou de l'organisme équivalent",
+        "Au moment où elle réalise son premier bénéfice",
+        "Lorsqu'elle emploie son premier salarié"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le simple contrat entre associés ne suffit pas à créer la personne morale.",
+        "Une formalité administrative officielle est nécessaire.",
+        "C'est cette inscription officielle qui marque la naissance juridique de la société."
+      ],
+      "explication": "La société acquiert, en principe, la personnalité morale à compter de son immatriculation auprès du registre du commerce et des sociétés ou de l'organisme équivalent. Avant cette immatriculation, la société est dite « en formation » et n'a pas encore d'existence juridique propre, distincte de ses fondateurs."
+    },
+    {
+      "question": "Parmi les éléments suivants, lequel n'est PAS un attribut conféré par la personnalité morale ?",
+      "choix": [
+        "Une dénomination sociale, un siège social et une nationalité",
+        "Un patrimoine propre, distinct de celui des associés",
+        "La capacité de conclure des contrats et d'agir en justice",
+        "Le droit de vote individuel de chaque salarié de la société aux élections nationales"
+      ],
+      "reponse": 3,
+      "indices": [
+        "Trois des quatre propositions sont des attributs classiques de la personnalité morale.",
+        "Le droit de vote politique appartient aux personnes physiques, pas aux salariés en tant que tels du fait de leur emploi.",
+        "Cherchez l'option qui n'a rien à voir avec la personnalité morale de la société."
+      ],
+      "explication": "Le droit de vote individuel des salariés aux élections nationales n'a rien à voir avec la personnalité morale de la société : c'est un droit politique attaché à la personne physique du salarié en tant que citoyen, indépendamment de son emploi. Les véritables attributs de la personnalité morale sont les éléments d'individualisation, le patrimoine propre, la capacité juridique et les responsabilités propres de la société elle-même."
+    },
+    {
+      "question": "Pourquoi le patrimoine d'une société est-il qualifié de « propre » et « distinct » de celui des associés ?",
+      "choix": [
+        "Parce que les biens apportés à la société et ses acquisitions ultérieures lui appartiennent en propre, et non aux associés individuellement",
+        "Parce que les associés ne peuvent jamais récupérer la valeur de leurs apports",
+        "Parce que la société n'a en réalité aucun patrimoine propre, c'est une fiction sans conséquence",
+        "Parce que seuls les dirigeants ont accès au patrimoine de la société"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cette distinction est au cœur de la notion de personnalité morale.",
+        "Les biens apportés ne restent pas dans le patrimoine personnel des associés.",
+        "C'est ce patrimoine propre qui répond des dettes de la société."
+      ],
+      "explication": "Le patrimoine de la société est qualifié de propre et distinct car les biens apportés par les associés, ainsi que tout ce que la société acquiert ensuite dans le cadre de son activité, lui appartiennent en propre — et non aux associés individuellement. C'est ce patrimoine social distinct qui, en principe, répond des dettes de la société, ce qui a des conséquences majeures sur la responsabilité des associés selon la forme sociale choisie."
+    },
+    {
+      "question": "Selon quel double critère une société peut-elle être qualifiée de commerciale ?",
+      "choix": [
+        "Le montant de son capital social et le nombre de ses salariés",
+        "Sa forme (certaines formes sociales sont toujours commerciales) et son objet (l'activité exercée est de nature commerciale)",
+        "La nationalité de ses dirigeants et la langue utilisée dans ses statuts",
+        "Sa date de création et la durée prévue dans ses statuts"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Deux critères alternatifs permettent cette qualification.",
+        "L'un est lié à la structure juridique adoptée, l'autre à l'activité réellement exercée.",
+        "Si l'un des deux critères est rempli, la société est commerciale."
+      ],
+      "explication": "Une société peut être qualifiée de commerciale selon un double critère alternatif : sa forme — certaines formes sociales sont toujours considérées comme commerciales, quel que soit leur objet réel — ou son objet — l'activité exercée par la société consiste en des actes de commerce, même si la forme adoptée n'est pas en elle-même commerciale."
+    },
+    {
+      "question": "Quelles sont, par exclusion, les sociétés civiles ?",
+      "choix": [
+        "Les sociétés dont le siège social se trouve dans la capitale",
+        "Toute société qui n'est ni commerciale par sa forme ni commerciale par son objet",
+        "Les sociétés créées par des fonctionnaires uniquement",
+        "Les sociétés dont le capital social est inférieur à un certain seuil"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La qualification de société civile se fait par exclusion.",
+        "Si la société n'est commerciale ni par sa forme ni par son objet, elle est civile.",
+        "Son activité ne peut alors être que civile."
+      ],
+      "explication": "Les sociétés civiles sont, par exclusion, toutes les sociétés qui ne sont ni commerciales par leur forme ni commerciales par leur objet. Leur activité ne peut alors être que civile : gestion de patrimoine immobilier, exercice de professions libérales, activité agricole sont des domaines typiques où l'on retrouve des sociétés civiles."
+    },
+    {
+      "question": "Dans quels domaines retrouve-t-on fréquemment des sociétés civiles ?",
+      "choix": [
+        "La banque, l'assurance et la grande distribution",
+        "La gestion de patrimoine immobilier, l'exercice de professions libérales et l'agriculture",
+        "L'industrie lourde et les exportations minières",
+        "Les activités de commerce international exclusivement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces domaines correspondent à des activités civiles par nature.",
+        "Les professions libérales (médecins, avocats, notaires) y figurent typiquement.",
+        "La gestion immobilière et l'agriculture sont d'autres exemples classiques."
+      ],
+      "explication": "Les sociétés civiles sont plébiscitées dans des domaines comme la gestion de patrimoine immobilier, l'exercice de professions libérales (médecins, avocats, notaires, architectes) et l'agriculture. Ces activités sont, par nature, civiles et non commerciales, justifiant le choix d'une forme sociale civile."
+    },
+    {
+      "question": "Quelle conséquence pratique découle de la distinction entre société civile et société commerciale en matière de juridiction compétente en cas de litige ?",
+      "choix": [
+        "Aucune différence : toutes les sociétés relèvent du même tribunal quel que soit leur caractère",
+        "Les sociétés commerciales relèvent en général d'une juridiction spécialisée dans les affaires économiques, tandis que les sociétés civiles relèvent des juridictions civiles ordinaires",
+        "Seules les sociétés civiles peuvent être attaquées en justice",
+        "Les sociétés commerciales ne peuvent jamais être poursuivies en justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette distinction a des conséquences procédurales concrètes.",
+        "Une juridiction spécialisée existe souvent pour les affaires commerciales.",
+        "Les sociétés civiles, elles, relèvent des juridictions de droit commun."
+      ],
+      "explication": "Les sociétés commerciales relèvent en général d'une juridiction spécialisée dans les affaires économiques (souvent appelée tribunal de commerce), tandis que les sociétés civiles relèvent des juridictions civiles ordinaires (tribunal judiciaire ou équivalent). Cette distinction emporte également des conséquences sur les obligations comptables et le régime de responsabilité des associés."
+    },
+    {
+      "question": "Qu'est-ce qui caractérise l'intuitu personae dans une société de personnes ?",
+      "choix": [
+        "Le fait que les associés se choisissent en considération de leur personne, de leur confiance mutuelle et de leurs compétences respectives",
+        "Le fait que la société n'a qu'un seul associé",
+        "Le fait que les associés ne se connaissent jamais entre eux",
+        "Le fait que la société ne peut pas avoir de dirigeant externe"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Intuitu personae signifie « en considération de la personne ».",
+        "Les associés se font mutuellement confiance et se choisissent personnellement.",
+        "Cela a des conséquences sur la cession des parts sociales."
+      ],
+      "explication": "L'intuitu personae caractérise le fait que les associés d'une société de personnes se choisissent en considération de leur personne, de leur confiance mutuelle et de leurs compétences respectives, et non en fonction des seuls capitaux apportés. Cette confiance personnelle a des conséquences directes sur la cessibilité des titres, qui nécessite en principe l'accord des autres associés."
+    },
+    {
+      "question": "Pourquoi les parts sociales des sociétés de personnes ne sont-elles cessibles à un tiers qu'avec l'accord des autres associés ?",
+      "choix": [
+        "Parce que la loi l'interdit dans tous les cas, sans aucune exception",
+        "Parce que l'intuitu personae implique qu'on ne peut pas imposer un nouvel associé inconnu aux autres sans leur consentement",
+        "Parce que ces sociétés n'ont jamais de capital social",
+        "Parce que les parts sociales n'ont aucune valeur économique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'intuitu personae implique une confiance personnelle entre associés.",
+        "Imposer un inconnu romprait cette confiance et cet équilibre.",
+        "C'est une conséquence directe de la nature même de ces sociétés."
+      ],
+      "explication": "L'accord des autres associés est requis car l'intuitu personae implique qu'on ne peut pas imposer un nouvel associé inconnu aux autres associés sans leur consentement. La confiance mutuelle qui fonde ces sociétés serait rompue si n'importe qui pouvait devenir associé sans l'accord de ceux déjà présents."
+    },
+    {
+      "question": "Quelle est la principale différence concernant la responsabilité des associés entre une société de personnes et une société de capitaux ?",
+      "choix": [
+        "Il n'existe aucune différence sur ce point entre les deux catégories",
+        "Dans les sociétés de personnes, les associés répondent en général personnellement et indéfiniment des dettes sociales ; dans les sociétés de capitaux, la responsabilité est limitée au montant des apports",
+        "Dans les sociétés de capitaux, les associés répondent indéfiniment des dettes ; dans les sociétés de personnes, la responsabilité est toujours limitée",
+        "La responsabilité dépend uniquement du montant du capital social, peu importe la catégorie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le critère de risque (limité ou illimité) distingue ces deux catégories.",
+        "Les sociétés de personnes sont des sociétés à risque illimité.",
+        "Les sociétés de capitaux protègent davantage le patrimoine personnel des associés."
+      ],
+      "explication": "Dans les sociétés de personnes, les associés répondent en général personnellement et indéfiniment des dettes sociales sur leur patrimoine propre — au-delà même de leurs apports. Dans les sociétés de capitaux, en revanche, la responsabilité des associés est limitée au montant de leurs apports : ils ne risquent jamais de perdre plus que ce qu'ils ont investi."
+    },
+    {
+      "question": "Pourquoi dit-on que les actions des sociétés de capitaux sont en principe librement cessibles ?",
+      "choix": [
+        "Parce que la loi interdit toute restriction dans ces sociétés",
+        "Parce que ces sociétés se forment en considération des capitaux apportés et non de la personne des associés, qui peuvent ne pas se connaître entre eux",
+        "Parce que les actions n'ont aucune valeur juridique réelle",
+        "Parce que ces sociétés n'ont jamais d'assemblée générale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le critère de formation de ces sociétés repose sur les capitaux, pas sur la personne.",
+        "Les actionnaires n'ont pas besoin de se connaître entre eux pour coexister dans la société.",
+        "Cette libre cessibilité facilite l'entrée et la sortie d'investisseurs."
+      ],
+      "explication": "Les actions des sociétés de capitaux sont en principe librement cessibles parce que ces sociétés se forment en considération des capitaux apportés, et non de la personne de chaque associé. Les actionnaires ne se connaissent pas nécessairement entre eux, ce qui facilite l'entrée et la sortie d'investisseurs sans nécessiter l'accord systématique des autres actionnaires."
+    },
+    {
+      "question": "Quelle forme sociale est qualifiée d'hybride entre société de personnes et société de capitaux ?",
+      "choix": [
+        "La société en nom collectif",
+        "La société à responsabilité limitée",
+        "La société en commandite simple",
+        "La société civile professionnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette forme combine des traits des deux grandes catégories.",
+        "Elle conserve un contrôle sur l'identité des associés tout en limitant leur responsabilité.",
+        "C'est une forme très répandue pour les petites et moyennes entreprises."
+      ],
+      "explication": "La société à responsabilité limitée est qualifiée d'hybride : elle conserve un fort intuitu personae propre aux sociétés de personnes (la cession des parts à des tiers nécessite l'accord des autres associés), tout en bénéficiant d'une responsabilité des associés limitée à leurs apports, trait caractéristique des sociétés de capitaux."
+    },
+    {
+      "question": "Pourquoi la société à responsabilité limitée est-elle particulièrement appréciée des petites entreprises familiales ?",
+      "choix": [
+        "Parce qu'elle n'a aucune obligation comptable, contrairement à toutes les autres formes",
+        "Parce qu'elle offre la protection patrimoniale des sociétés de capitaux tout en conservant le contrôle sur l'identité des associés propre aux sociétés de personnes",
+        "Parce que sa création est totalement gratuite et sans formalité",
+        "Parce qu'elle est obligatoirement composée d'un seul associé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le compromis offert par cette forme explique son succès.",
+        "Elle protège le patrimoine personnel tout en gardant un caractère familial.",
+        "C'est précisément cette combinaison qui en fait l'attrait principal."
+      ],
+      "explication": "Le succès de la société à responsabilité limitée auprès des petites entreprises familiales s'explique par le compromis qu'elle offre : la protection patrimoniale propre aux sociétés de capitaux (responsabilité limitée aux apports), tout en conservant un contrôle sur l'identité des associés propre aux sociétés de personnes (agrément requis pour céder des parts à des tiers)."
+    },
+    {
+      "question": "Quels sont les deux types de droits dont disposent les associés au sein d'une société ?",
+      "choix": [
+        "Des droits fiscaux et des droits douaniers",
+        "Des droits politiques (participation aux décisions, vote, information) et des droits financiers (dividendes, cession des titres)",
+        "Des droits pénaux et des droits administratifs uniquement",
+        "Des droits exclusivement liés à l'embauche du personnel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les droits politiques concernent la participation à la vie sociale.",
+        "Les droits financiers concernent la rémunération de l'investissement.",
+        "Ces deux catégories de droits sont attachées aux parts ou actions."
+      ],
+      "explication": "Les associés disposent de droits politiques — le droit de participer aux décisions collectives, le droit de vote en assemblée, le droit d'être informés sur la marche de la société — et de droits financiers — le droit de percevoir une part des bénéfices distribués (dividendes) et le droit, en principe, de céder leurs titres."
+    },
+    {
+      "question": "Quelle est la principale obligation pesant sur tout associé, en contrepartie de ses droits ?",
+      "choix": [
+        "L'obligation de travailler personnellement pour la société à temps plein",
+        "L'obligation de contribuer aux pertes de la société selon les règles propres à chaque forme sociale",
+        "L'obligation de résider dans le même pays que le siège social",
+        "L'obligation de céder ses parts au bout de cinq ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette obligation est le miroir du droit de participer aux bénéfices.",
+        "On ne peut pas être associé sans risquer de supporter une part des pertes.",
+        "Les modalités précises varient selon la forme sociale."
+      ],
+      "explication": "L'obligation principale pesant sur tout associé est de contribuer aux pertes de la société, selon les règles propres à chaque forme sociale. Cette obligation est le miroir du droit de participer aux bénéfices : on ne peut pas être associé et ne participer qu'aux gains, sans jamais risquer de supporter une part des pertes éventuelles."
+    },
+    {
+      "question": "Quelle est la différence entre une décision ordinaire et une décision extraordinaire prise par les associés ?",
+      "choix": [
+        "Les décisions ordinaires concernent la gestion courante (approbation des comptes) ; les décisions extraordinaires modifient les statuts mêmes de la société",
+        "Les décisions ordinaires sont prises tous les jours ; les décisions extraordinaires une seule fois dans la vie de la société",
+        "Les décisions ordinaires sont prises par les dirigeants ; les décisions extraordinaires uniquement par un juge",
+        "Il n'y a aucune différence pratique entre les deux catégories"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les décisions ordinaires relèvent de la gestion habituelle.",
+        "Les décisions extraordinaires touchent à la structure même de la société.",
+        "Elles sont en général soumises à des règles de majorité différentes."
+      ],
+      "explication": "Les décisions ordinaires concernent la gestion courante de la société, comme l'approbation des comptes annuels ou la nomination des dirigeants. Les décisions extraordinaires modifient les statuts mêmes de la société — changement d'objet social, augmentation de capital, transformation — et sont en général soumises à des règles de quorum et de majorité renforcées."
+    },
+    {
+      "question": "Comment les dirigeants d'une société sont-ils en principe désignés ?",
+      "choix": [
+        "Uniquement par un décret gouvernemental",
+        "Soit directement dans les statuts, soit par une décision ultérieure des associés",
+        "Uniquement par élection au suffrage universel des citoyens",
+        "Automatiquement, par ordre alphabétique des associés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Deux modalités principales de désignation existent.",
+        "L'une se fait au moment de la création de la société, l'autre après.",
+        "Dans les deux cas, ce sont les associés qui décident, directement ou indirectement."
+      ],
+      "explication": "Les dirigeants d'une société sont en principe désignés soit directement dans les statuts au moment de la création de la société, soit par une décision ultérieure des associés en assemblée. Dans les deux cas, c'est la volonté des associés, exprimée à un moment ou à un autre, qui détermine qui assurera la gestion de la société."
+    },
+    {
+      "question": "Quel type de responsabilité un dirigeant peut-il engager en cas de faute commise dans l'exercice de ses fonctions ?",
+      "choix": [
+        "Uniquement une responsabilité disciplinaire interne sans aucune conséquence externe",
+        "Sa responsabilité civile, voire pénale, selon la nature de la faute commise",
+        "Aucune responsabilité, les dirigeants étant toujours protégés par la société",
+        "Uniquement une responsabilité fiscale personnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les pouvoirs étendus des dirigeants s'accompagnent de responsabilités correspondantes.",
+        "Une faute de gestion peut engager leur responsabilité civile.",
+        "Certaines fautes graves peuvent même relever du droit pénal."
+      ],
+      "explication": "Un dirigeant peut engager sa responsabilité civile (réparer un préjudice causé à la société, aux associés ou aux tiers par sa faute de gestion) voire sa responsabilité pénale, s'il commet une infraction pénale dans le cadre de l'exercice de ses fonctions. Les pouvoirs étendus accordés aux dirigeants s'accompagnent donc de responsabilités correspondantes."
+    },
+    {
+      "question": "Qu'est-ce que la transformation d'une société ?",
+      "choix": [
+        "La fusion de deux sociétés en une seule nouvelle entité",
+        "Le changement de la forme juridique d'une société, sans création d'une nouvelle personne morale",
+        "Le changement de nom commercial sans aucune autre conséquence",
+        "La fermeture définitive de la société suivie de sa liquidation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La transformation ne crée pas une nouvelle société, c'est la même qui change de forme.",
+        "Elle se distingue de la fusion, qui réunit deux sociétés distinctes.",
+        "C'est un changement de la structure juridique uniquement."
+      ],
+      "explication": "La transformation est le changement de la forme juridique d'une société sans création d'une nouvelle personne morale : c'est la même société, qui adopte simplement une autre forme sociale (par exemple, une société à responsabilité limitée qui devient une société anonyme). Elle se distingue de la fusion, qui réunit deux sociétés distinctes en une seule entité."
+    },
+    {
+      "question": "Pourquoi la transformation d'une société est-elle généralement soumise à des conditions précises, comme un rapport d'expert indépendant ?",
+      "choix": [
+        "Pour augmenter artificiellement les impôts payés par la société",
+        "Pour protéger les associés comme les tiers, en attestant que les capitaux propres de la société sont suffisants pour le changement de forme",
+        "Parce que la loi interdit en réalité toute transformation",
+        "Pour permettre aux dirigeants de changer sans l'accord des associés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le changement de forme peut affecter les garanties offertes aux tiers, notamment les créanciers.",
+        "L'expert vérifie la solidité financière de la société avant le changement.",
+        "C'est une garantie de protection, pas une contrainte arbitraire."
+      ],
+      "explication": "La transformation est soumise à des conditions précises, généralement assorties d'un rapport d'expert indépendant, pour protéger les associés comme les tiers : ce rapport atteste que les capitaux propres de la société sont au moins égaux au capital social, garantissant ainsi que le changement de forme ne se fait pas au détriment des créanciers ou des associés minoritaires."
+    },
+    {
+      "question": "Qu'est-ce que la dissolution d'une société ?",
+      "choix": [
+        "Le simple changement de dirigeant à la tête de la société",
+        "La fin de la société, qui peut résulter de plusieurs causes (arrivée du terme, extinction de l'objet, décision des associés, décision judiciaire)",
+        "L'augmentation du capital social de la société",
+        "Le transfert du siège social vers une autre ville"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La dissolution marque la fin véritable de la société, contrairement à la transformation.",
+        "Elle peut résulter de plusieurs causes différentes.",
+        "C'est l'événement qui ouvre la phase de liquidation."
+      ],
+      "explication": "La dissolution est la fin véritable de la société, qui peut résulter de plusieurs causes : l'arrivée du terme statutaire, la réalisation ou l'extinction de l'objet social, une décision des associés, l'annulation du contrat de société, ou une dissolution judiciaire pour de justes motifs. Elle ouvre la phase de liquidation, qui précède la disparition définitive de la personnalité morale."
+    },
+    {
+      "question": "Quelle est l'une des causes de dissolution judiciaire d'une société, prononcée par un tribunal pour de justes motifs ?",
+      "choix": [
+        "Le simple désaccord ponctuel entre deux associés sur un sujet mineur",
+        "Une mésentente grave entre associés bloquant le fonctionnement de la société",
+        "Le départ en vacances de l'un des dirigeants",
+        "Un changement de couleur du logo de la société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le tribunal n'intervient que pour des motifs sérieux et graves.",
+        "Le blocage du fonctionnement même de la société est un motif typique.",
+        "Un simple désaccord mineur ne suffirait pas à justifier une dissolution judiciaire."
+      ],
+      "explication": "Une mésentente grave entre associés, qui bloque le fonctionnement normal de la société (par exemple, une impossibilité durable de prendre des décisions essentielles), est l'une des causes typiques de dissolution judiciaire pour de justes motifs. Le tribunal n'intervient que face à des situations sérieuses, et non pour de simples désaccords ponctuels et mineurs."
+    },
+    {
+      "question": "Qu'est-ce que la liquidation d'une société ?",
+      "choix": [
+        "La phase pendant laquelle la société continue d'exister uniquement pour régler ses affaires en cours (recouvrement des créances, paiement des dettes) après sa dissolution",
+        "La création initiale de la société avant son immatriculation",
+        "L'augmentation du capital social par de nouveaux apports",
+        "Le changement de dénomination sociale de la société"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La liquidation suit la dissolution, elle n'est pas la dissolution elle-même.",
+        "Pendant cette phase, la société existe encore, mais dans un but limité.",
+        "Son but est de régler les affaires en cours avant la disparition définitive."
+      ],
+      "explication": "La liquidation est la phase qui suit la dissolution, pendant laquelle la société continue d'exister, mais uniquement dans le but de régler ses affaires en cours : recouvrer ses créances, payer ses dettes, et répartir entre les associés ce qui subsiste après ce règlement. Cette phase est confiée à un ou plusieurs liquidateurs."
+    },
+    {
+      "question": "Qui est chargé de représenter la société pendant la phase de liquidation ?",
+      "choix": [
+        "Le premier associé venu, sans désignation particulière",
+        "Le ou les liquidateurs désignés par les associés ou, en cas de dissolution judiciaire, par le tribunal",
+        "Uniquement le ministère de la Justice",
+        "Aucune personne : la société n'a plus de représentant après sa dissolution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une ou plusieurs personnes précises sont désignées pour cette mission.",
+        "Leur désignation peut venir des associés eux-mêmes ou, dans certains cas, d'un tribunal.",
+        "Ils représentent la société jusqu'à la fin de la liquidation."
+      ],
+      "explication": "Le ou les liquidateurs, désignés par les associés ou, en cas de dissolution judiciaire, par le tribunal, sont chargés de représenter la société pendant toute la durée de la liquidation. Ils vendent si nécessaire les actifs sociaux, règlent les créanciers, puis établissent les comptes définitifs de la liquidation."
+    },
+    {
+      "question": "Qu'est-ce que le boni de liquidation ?",
+      "choix": [
+        "Une prime versée aux dirigeants à la fin de leur mandat",
+        "L'excédent d'actif net subsistant après le paiement de toutes les dettes sociales, réparti entre les associés selon leurs droits dans le capital",
+        "Le montant total des dettes impayées de la société dissoute",
+        "Le salaire du liquidateur pour ses services"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Boni signifie un surplus, un excédent positif.",
+        "Il s'agit de ce qui reste après avoir payé toutes les dettes.",
+        "Cet excédent est partagé entre les associés."
+      ],
+      "explication": "Le boni de liquidation est l'excédent d'actif net subsistant une fois toutes les dettes sociales réglées et tous les actifs réalisés. Cet excédent positif est réparti entre les associés en proportion de leurs droits dans le capital social, selon les modalités prévues par les statuts ou par la loi."
+    },
+    {
+      "question": "Que se passe-t-il si, au contraire du boni, l'actif de la société ne suffit pas à couvrir le passif lors de la liquidation ?",
+      "choix": [
+        "On parle de mali de liquidation, et les associés peuvent être tenus de contribuer aux pertes selon les règles de responsabilité propres à leur forme sociale",
+        "La société est automatiquement transformée en une autre forme sociale",
+        "Les créanciers perdent automatiquement tous leurs droits sans aucune procédure",
+        "L'État rembourse systématiquement la différence aux créanciers"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le terme employé est l'inverse de « boni ».",
+        "La conséquence dépend du régime de responsabilité applicable à la forme sociale.",
+        "Dans certaines sociétés, les associés peuvent devoir contribuer personnellement."
+      ],
+      "explication": "Quand l'actif ne suffit pas à couvrir le passif, on parle de mali de liquidation. Les associés peuvent alors être tenus de contribuer aux pertes selon les règles de responsabilité propres à leur forme sociale : dans une société de personnes à risque illimité, ils devront combler le déficit sur leur patrimoine personnel ; dans une société à responsabilité limitée, leur contribution sera en principe limitée à leurs apports déjà versés."
+    },
+    {
+      "question": "À quel moment précis la personnalité morale d'une société s'éteint-elle définitivement ?",
+      "choix": [
+        "Dès le prononcé de la décision de dissolution, immédiatement",
+        "Seulement à l'issue de la procédure de liquidation, par la radiation de la société du registre du commerce et des sociétés",
+        "Au moment où le dernier salarié quitte ses fonctions",
+        "Au moment où l'objet social est modifié"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La dissolution n'éteint pas immédiatement la personnalité morale.",
+        "La société survit pendant la liquidation, uniquement pour régler ses affaires.",
+        "C'est une formalité administrative finale qui marque la disparition définitive."
+      ],
+      "explication": "La personnalité morale de la société ne s'éteint qu'à l'issue de la procédure de liquidation, par sa radiation du registre du commerce et des sociétés. La dissolution marque le début de la fin, mais la société continue d'exister juridiquement pendant la liquidation, pour pouvoir régler ses affaires (créances, dettes) avant de disparaître définitivement."
+    },
+    {
+      "question": "Vrai ou faux : une société peut engager sa responsabilité civile, et dans certains systèmes, sa responsabilité pénale, pour des infractions commises pour son compte.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La personnalité morale confère à la société des responsabilités propres.",
+        "Cela inclut potentiellement deux types de responsabilité.",
+        "Cette responsabilité s'exerce indépendamment de celle des dirigeants ou des associés."
+      ],
+      "explication": "Vrai. La personnalité morale confère à la société des responsabilités propres : elle peut engager sa responsabilité civile (réparer un dommage qu'elle a causé) et, dans certains systèmes juridiques, sa responsabilité pénale, pour des infractions commises pour son compte par ses organes ou représentants, indépendamment de la responsabilité personnelle des dirigeants ou des associés."
+    },
+    {
+      "question": "Pourquoi dit-on que la société est « une forme d'organisation juridique de l'entreprise, mais pas la seule » ?",
+      "choix": [
+        "Parce qu'une activité économique peut aussi être exercée sous forme d'entreprise individuelle, sans création d'une personne morale distincte",
+        "Parce qu'il n'existe en réalité qu'une seule forme juridique possible pour exercer une activité",
+        "Parce que toutes les entreprises sont obligatoirement des sociétés",
+        "Parce que les entreprises individuelles n'ont aucune existence légale"
+      ],
+      "reponse": 0,
+      "indices": [
+        "L'entreprise individuelle est une alternative à la société.",
+        "Elle permet d'exercer une activité économique sans créer de personne morale.",
+        "La société n'est donc qu'une des options juridiques possibles."
+      ],
+      "explication": "On dit que la société n'est qu'une forme d'organisation juridique parmi d'autres car une activité économique (une entreprise au sens économique) peut aussi être exercée sous forme d'entreprise individuelle, où une personne physique exerce l'activité en son nom propre, sans créer de personne morale distincte d'elle-même."
+    },
+    {
+      "question": "Zo et Tojo créent ensemble une société pour exploiter un restaurant : Zo apporte de l'argent, Tojo apporte un local commercial. Ils conviennent de se répartir bénéfices et pertes à parts égales. Quelles conditions spécifiques du contrat de société sont ici réunies ?",
+      "choix": [
+        "Uniquement la pluralité d'associés",
+        "La pluralité d'associés, l'existence d'apports (numéraire et nature), le partage des bénéfices et la contribution aux pertes",
+        "Uniquement l'apport en industrie",
+        "Aucune condition spécifique n'est ici remplie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comptez le nombre de personnes impliquées.",
+        "Identifiez les types d'apports réalisés par chacun.",
+        "Notez l'accord sur le partage des bénéfices et des pertes."
+      ],
+      "explication": "Dans cet exemple, plusieurs conditions spécifiques sont réunies : la pluralité d'associés (Zo et Tojo, soit deux personnes), l'existence d'apports (Zo apporte en numéraire, Tojo apporte en nature le local commercial), et le partage des bénéfices avec la contribution aux pertes (ils conviennent de tout partager à parts égales, gains comme pertes). Sous réserve de vérifier l'affectio societatis, ces éléments caractérisent un véritable contrat de société."
+    },
+    {
+      "question": "Pourquoi peut-on dire que la SARL combine des avantages des deux grandes catégories de sociétés sans en cumuler tous les inconvénients ?",
+      "choix": [
+        "Parce qu'elle n'a en réalité aucune caractéristique distincte des autres formes sociales",
+        "Parce qu'elle conserve le contrôle d'admission des nouveaux associés (avantage des sociétés de personnes) tout en limitant la responsabilité financière de chacun (avantage des sociétés de capitaux), sans risque illimité ni perte totale de contrôle sur l'identité des associés",
+        "Parce qu'elle interdit purement et simplement toute cession de parts, quelle que soit la situation",
+        "Parce qu'elle est réservée exclusivement aux sociétés cotées en bourse"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Identifiez l'avantage typique des sociétés de personnes et celui des sociétés de capitaux.",
+        "La SARL retient le meilleur des deux mondes sur ces deux points précis.",
+        "C'est précisément ce compromis qui explique sa popularité pratique."
+      ],
+      "explication": "La SARL combine le contrôle d'admission des nouveaux associés — avantage des sociétés de personnes, par le mécanisme d'agrément pour la cession de parts — avec la limitation de la responsabilité financière de chaque associé à ses apports — avantage des sociétés de capitaux. Elle évite ainsi le risque illimité propre aux sociétés de personnes pures tout en conservant un certain contrôle sur l'identité des associés, contrairement aux sociétés de capitaux pures où les titres sont librement cessibles."
+    },
+    {
+      "question": "Un groupe de médecins malgaches s'associe pour exercer en commun leur profession libérale, sans aucune activité de nature commerciale. Quelle qualification leur société recevra-t-elle, en principe ?",
+      "choix": [
+        "Une société commerciale, car ils génèrent des revenus importants",
+        "Une société civile, car leur activité (l'exercice de la médecine) est par nature civile, et non commerciale, même en présence de revenus importants",
+        "Une société de capitaux obligatoirement",
+        "Une société sans aucune personnalité morale possible"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le critère de qualification est la nature de l'activité exercée, pas le montant des revenus générés.",
+        "L'exercice d'une profession libérale est typiquement civil.",
+        "Le montant des revenus n'a aucune incidence sur cette qualification."
+      ],
+      "explication": "Cette société sera, en principe, qualifiée de société civile, car l'activité exercée — la médecine, profession libérale — est par nature civile et non commerciale, indépendamment du montant des revenus générés par l'activité. Le critère de qualification commerciale ou civile repose sur la nature de l'activité (ou la forme adoptée), et non sur l'importance économique de cette activité."
+    },
+    {
+      "question": "Résumé : quels sont les trois grands thèmes qui structurent classiquement l'étude du droit commun des sociétés ?",
+      "choix": [
+        "Le droit fiscal, le droit douanier et le droit social uniquement",
+        "La naissance de la société, la vie de la société et la fin de la société",
+        "Uniquement les statuts, les apports et le capital social",
+        "Uniquement les dirigeants, les salariés et les clients"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comme une personne physique, la société suit un cycle de vie.",
+        "Ce cycle se décompose en trois grandes étapes.",
+        "Chaque module de ce cours s'inscrit dans l'une de ces trois étapes."
+      ],
+      "explication": "Le droit commun des sociétés est classiquement structuré autour de trois grands thèmes, à l'image du cycle de vie d'une personne physique : la naissance de la société (conditions de validité du contrat, formalités, acquisition de la personnalité morale), la vie de la société (rôle des associés et des dirigeants, modifications statutaires, transformation) et la fin de la société (causes de dissolution, liquidation, boni de liquidation)."
+    },
+    {
+      "question": "Pourquoi le module sur les généralités du droit des sociétés ne traite-t-il pas en détail de chaque forme sociale particulière (SA, SARL, etc.) ?",
+      "choix": [
+        "Parce que ces formes sociales n'existent pas en réalité",
+        "Parce que ce module relève du droit commun des sociétés, qui pose les principes généraux applicables à toute société, le détail de chaque forme relevant du droit spécial étudié séparément",
+        "Parce que les formes sociales particulières sont sans importance pratique",
+        "Parce qu'il n'existe qu'une seule forme sociale possible à Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce module se concentre délibérément sur le droit commun.",
+        "Le détail de chaque forme sociale fait l'objet d'une étude séparée.",
+        "C'est une organisation pédagogique classique du droit des sociétés."
+      ],
+      "explication": "Ce module relève du droit commun des sociétés, qui pose les principes généraux applicables à toute société, quelle que soit sa forme. Le détail de chaque forme sociale particulière (société anonyme, société à responsabilité limitée, société en nom collectif, etc.) relève du droit spécial des sociétés, qui sera étudié dans des modules ultérieurs consacrés spécifiquement à chacune de ces formes."
+    },
+    {
+      "question": "Vrai ou faux : une société peut exister juridiquement sans jamais acquérir la personnalité morale, dès que le contrat de société est signé.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La signature du contrat ne suffit pas à elle seule.",
+        "Une formalité supplémentaire est nécessaire pour acquérir la personnalité morale.",
+        "Avant cette formalité, la société est dite « en formation »."
+      ],
+      "explication": "Faux. La société acquiert, en principe, la personnalité morale à compter de son immatriculation auprès du registre du commerce et des sociétés ou de l'organisme équivalent, et non dès la simple signature du contrat de société. Avant cette immatriculation, la société est dite « en formation » et n'a pas encore d'existence juridique propre, distincte de ses fondateurs."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Trois amis, Hery, Faly et Mamisoa, décident de monter ensemble un projet d'élevage de poulets à Diego-Suarez. Hery apporte un terrain qu'il possède (apport en nature). Faly apporte 4 millions d'ariary en numéraire. Mamisoa, vétérinaire de formation, s'engage à apporter ses compétences techniques pendant trois ans pour le suivi sanitaire des animaux (apport en industrie). Ils se réunissent régulièrement pour discuter de l'avancement du projet, prennent ensemble les décisions importantes, et conviennent que les bénéfices comme les pertes éventuelles seront partagés à parts égales entre eux trois. Cependant, ils n'ont signé aucun document écrit et n'ont effectué aucune formalité d'immatriculation.\n\nAnalysez : (1) les conditions du contrat de société qui semblent réunies dans cette situation ; (2) si cette absence de formalisme empêche l'existence d'une société entre eux ; (3) la conséquence de l'absence d'immatriculation sur la personnalité morale ; (4) les risques juridiques auxquels ils s'exposent dans cette configuration.",
+      "choix": [
+        "Aucune société n'existe entre eux car ils n'ont rien signé par écrit",
+        "(1) Toutes les conditions spécifiques semblent réunies : pluralité d'associés, apports (numéraire, nature, industrie), affectio societatis (réunions régulières, décisions communes), partage des bénéfices et des pertes. (2) L'absence d'écrit n'empêche pas, en principe, l'existence d'un contrat de société, qui peut être prouvé par les faits — on parlerait alors de société créée de fait. (3) Sans immatriculation, la société n'a pas acquis la personnalité morale : elle n'a pas de patrimoine propre ni de capacité juridique distincte. (4) Les trois associés s'exposent à une responsabilité personnelle et indéfinie pour les dettes de l'activité, faute de structure juridique protectrice formalisée",
+        "Seul Hery, qui a apporté le terrain, est juridiquement responsable de l'activité",
+        "L'absence d'immatriculation rend tout le projet totalement illégal et passible de sanctions pénales automatiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repassez en revue chaque condition spécifique du contrat de société : pluralité, apports, affectio societatis, partage des bénéfices et des pertes. Sont-elles réunies ici, même sans écrit ?",
+        "Un contrat peut-il exister sans être nécessairement formalisé par un écrit ? Quelle est la différence entre l'existence du contrat de société et l'acquisition de la personnalité morale ?",
+        "Sans personnalité morale, qui répond des dettes contractées pour l'activité d'élevage ?"
+      ],
+      "explication": "Voici l'analyse complète. (1) Les conditions réunies. Toutes les conditions spécifiques du contrat de société semblent réunies entre Hery, Faly et Mamisoa : la pluralité d'associés (trois personnes), l'existence d'apports variés (apport en nature du terrain par Hery, apport en numéraire par Faly, apport en industrie par Mamisoa), l'affectio societatis (ils se réunissent régulièrement, prennent ensemble les décisions importantes, ce qui révèle une véritable volonté de collaborer sur un pied d'égalité), et le partage des bénéfices et des pertes à parts égales. (2) L'absence de formalisme n'empêche pas l'existence du contrat. L'absence d'écrit n'empêche pas, en principe, l'existence d'un contrat de société entre eux : le consentement peut être prouvé par les faits et le comportement des parties. On parle alors de société créée de fait — une société qui existe réellement dans les rapports entre les associés, bien qu'aucun acte écrit n'ait formalisé sa création. Les juges peuvent reconnaître cette existence en se fondant sur les éléments factuels révélant la réunion des conditions du contrat de société. (3) La conséquence sur la personnalité morale. Toutefois, il faut distinguer l'existence du contrat de société (qui peut résulter des faits) de l'acquisition de la personnalité morale (qui suppose en principe l'accomplissement de formalités précises, dont l'immatriculation). Sans cette immatriculation, la société, même si elle existe comme contrat entre les trois amis, n'a pas acquis la personnalité morale : elle n'a pas de patrimoine propre distinct de celui de ses membres, pas de capacité juridique autonome pour contracter en son nom ou agir en justice. (4) Les risques encourus. Faute de structure juridique formalisée et de personnalité morale, les trois associés s'exposent à une responsabilité personnelle pour les dettes contractées dans le cadre de l'activité d'élevage : les créanciers pourraient se retourner directement contre leur patrimoine personnel, sans la protection qu'aurait pu offrir une société dotée de la personnalité morale, dont le patrimoine propre aurait en principe répondu seul des dettes sociales (selon la forme choisie). Il est donc vivement conseillé à Hery, Faly et Mamisoa de formaliser leur projet par un contrat de société écrit et de procéder à l'immatriculation, afin de sécuriser juridiquement leur collaboration."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Une famille malgache — les parents Andriamanana et Rasoa, ainsi que leurs deux enfants majeurs — créent ensemble une société à responsabilité limitée pour exploiter une boutique de vêtements à Antananarivo. Chacun détient 25 % des parts sociales. Après deux années d'activité, l'un des enfants, souhaitant financer ses études à l'étranger, décide de vendre ses parts à un ami extérieur à la famille, sans en informer au préalable ses parents ni son frère ou sa sœur. Par ailleurs, la société accumule des difficultés financières croissantes, et un fournisseur impayé menace de poursuivre personnellement chacun des quatre associés sur leur patrimoine privé pour récupérer sa créance.\n\nAnalysez : (1) si la vente des parts sociales à l'ami extérieur, réalisée sans l'accord des autres associés, est juridiquement valable, en tenant compte de la nature hybride de la SARL ; (2) si le fournisseur est juridiquement fondé à poursuivre les quatre associés sur leur patrimoine personnel ; (3) quelles solutions s'offrent à la famille pour régulariser ou éviter ces difficultés.",
+      "choix": [
+        "La vente est parfaitement valable sans aucune condition, et le fournisseur peut effectivement poursuivre les associés sur leur patrimoine personnel sans limite",
+        "(1) La vente n'est en principe pas valable sans l'agrément des autres associés, car la SARL conserve un intuitu personae propre aux sociétés de personnes pour la cession de parts à des tiers extérieurs. (2) Le fournisseur n'est en principe pas fondé à poursuivre les associés sur leur patrimoine personnel, car la SARL est une forme à responsabilité limitée : chaque associé ne répond des dettes sociales qu'à hauteur de son apport. (3) L'enfant doit obtenir l'agrément des autres associés selon la procédure prévue par les statuts ; pour les difficultés financières, c'est le patrimoine propre de la société (et non celui des associés) qui doit en principe répondre des dettes sociales",
+        "La vente est nulle automatiquement et le fournisseur ne peut jamais agir contre la société",
+        "Le fournisseur doit obligatoirement attendre la dissolution de la société avant toute action"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rappelez-vous le caractère hybride de la SARL : quel trait des sociétés de personnes s'applique ici à la cession de parts ?",
+        "Quel est le principe de responsabilité des associés dans une société de capitaux (ou une société hybride comme la SARL) face aux dettes sociales ?",
+        "Distinguez bien le patrimoine de la société (personne morale) de celui des associés (personnes physiques)."
+      ],
+      "explication": "Voici l'analyse complète des trois points. (1) La validité de la vente des parts. La vente des parts sociales par l'enfant à un ami extérieur à la famille, sans l'accord des autres associés, n'est en principe pas valable en l'état. La société à responsabilité limitée, bien qu'étant une forme à responsabilité limitée (trait des sociétés de capitaux), conserve un fort intuitu personae propre aux sociétés de personnes : la cession de parts à un tiers extérieur à la société nécessite en principe l'accord des autres associés selon une procédure d'agrément prévue par les statuts ou par la loi. Faute d'avoir suivi cette procédure et d'avoir obtenu cet accord, la cession réalisée par l'enfant est susceptible d'être contestée par les autres associés, qui n'ont pas eu l'occasion de se prononcer sur l'entrée de cet ami dans la société. (2) La responsabilité face au fournisseur. Le fournisseur n'est en principe pas fondé à poursuivre les quatre associés personnellement sur leur patrimoine privé. La société à responsabilité limitée est précisément une forme sociale où la responsabilité de chaque associé est limitée au montant de son apport — c'est l'un des traits qu'elle emprunte aux sociétés de capitaux. C'est le patrimoine propre de la société, distinct de celui des associés du fait de la personnalité morale, qui doit en principe répondre des dettes sociales envers les créanciers, y compris ce fournisseur. Sauf circonstances exceptionnelles (faute de gestion personnelle d'un dirigeant engageant sa propre responsabilité, par exemple), le patrimoine personnel des associés n'est pas concerné par cette dette. (3) Les solutions pour la famille. Pour régulariser la situation de la cession de parts, l'enfant devrait engager la procédure d'agrément prévue par les statuts de la société : informer les autres associés du projet de cession, et obtenir leur accord selon les modalités convenues (majorité requise, délai de réponse). Pour les difficultés financières, la famille doit rappeler au fournisseur le principe de responsabilité limitée propre à la SARL : c'est la société, et non les associés personnellement, qui doit répondre de ses dettes dans la limite de son patrimoine social. Si ce patrimoine social est insuffisant, le fournisseur pourra, le cas échéant, engager une procédure collective à l'encontre de la société elle-même, mais ne pourra en principe pas se retourner directement contre le patrimoine personnel des quatre associés."
+    }
+  ]
+}
