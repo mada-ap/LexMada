@@ -1,1 +1,906 @@
-
+{
+  "titre": "Le contrat — formation et validité",
+  "module": "Module 3 — Le contrat : formation et validité",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'un contrat ? La définition de base",
+      "texte": "Le contrat est l'un des actes juridiques les plus fondamentaux de la vie quotidienne. On conclut des contrats sans même s'en rendre compte : monter dans un taxi, passer commande au restaurant, acheter un billet de train, louer un appartement. Juridiquement, un contrat est un accord de volontés entre deux ou plusieurs personnes — appelées les parties — qui crée des obligations. Ces obligations peuvent consister à donner quelque chose (transférer la propriété d'un bien), à faire quelque chose (exécuter un travail, livrer une marchandise) ou à ne pas faire quelque chose (clause de non-concurrence). Ce qui distingue fondamentalement le contrat des autres actes juridiques, c'est qu'il naît d'une rencontre de volontés : les deux parties ont voulu les effets de droit qui en résultent. C'est le negotium — l'accord de volontés — qui crée le lien obligatoire. Un contrat n'est donc pas un simple morceau de papier : l'écrit (l'instrumentum) n'est que la preuve du contrat, pas le contrat lui-même. Deux personnes peuvent conclure un contrat valable par une simple poignée de main, sans aucun écrit.",
+      "definition": "Contrat : accord de volontés entre deux ou plusieurs personnes (les parties) destiné à créer, modifier, transmettre ou éteindre des obligations. Il naît de la rencontre entre une offre et une acceptation. Les obligations créées peuvent être de donner, de faire ou de ne pas faire."
+    },
+    {
+      "titre": "La classification des contrats : les grandes catégories",
+      "texte": "Les contrats sont très divers et la loi les classe selon plusieurs critères. La distinction la plus importante est celle entre contrat synallagmatique et contrat unilatéral. Un contrat synallagmatique est un contrat dans lequel les deux parties s'obligent réciproquement l'une envers l'autre. La vente est l'exemple classique : le vendeur s'oblige à livrer le bien, l'acheteur à payer le prix. Chaque obligation est la contrepartie de l'autre. Un contrat unilatéral ne crée d'obligations qu'à la charge d'une seule des parties. La donation : seul le donateur s'oblige, le donataire ne doit rien en retour. Une deuxième distinction importante oppose le contrat à titre onéreux — dans lequel chaque partie reçoit une contrepartie économique — au contrat à titre gratuit — dans lequel une partie s'engage sans contrepartie. Enfin, on distingue le contrat consensuel (aucune formalité requise), le contrat solennel (formalités requises à peine de nullité) et le contrat réel (qui exige la remise de la chose pour se former).",
+      "definition": "Principales classifications : synallagmatique (obligations réciproques) vs unilatéral (obligations d'un seul côté) ; onéreux (contrepartie réciproque) vs gratuit (sans contrepartie) ; consensuel (accord suffit) vs solennel (formalités requises) vs réel (remise de la chose requise).",
+      "exemple": "Un contrat de travail est synallagmatique et onéreux. Une donation est unilatérale et gratuite. La vente d'un immeuble est solennelle : sans acte notarié, elle est nulle même si les parties sont d'accord."
+    },
+    {
+      "titre": "La formation du contrat : l'offre",
+      "texte": "Le contrat se forme par la rencontre d'une offre et d'une acceptation. L'offre est la proposition faite par une personne (l'offrant) de conclure un contrat à des conditions déterminées. Pour être juridiquement qualifiée d'offre, la proposition doit être ferme (l'offrant a la volonté réelle de s'engager si l'autre accepte) et précise (elle contient les éléments essentiels du contrat — pour une vente, la chose et le prix). Une simple publicité vague ou une invitation à négocier n'est pas une offre. L'offre peut être expresse ou tacite. Elle lie son auteur pendant un délai raisonnable. Si elle est assortie d'un délai précis, l'offrant ne peut pas la retirer avant son expiration. Si l'offre n'est pas assortie d'un délai, le décès de l'offrant la rend caduque. Si elle est assortie d'un délai précis, le décès de l'offrant ne la rend pas nécessairement caduque.",
+      "definition": "Offre (pollicitation) : proposition ferme (volonté réelle de s'engager) et précise (éléments essentiels déterminés) de conclure un contrat. L'offre lie l'offrant pendant un délai raisonnable. Si assortie d'un délai précis, elle est irrévocable avant son expiration. Sans délai, le décès de l'offrant la rend caduque.",
+      "exemple": "Un vendeur affiche 'Voiture à vendre : 8 000 000 ariary' : offre ferme et précise. Une publicité 'Voitures à prix intéressants' : simple invitation à contracter, pas une offre juridique."
+    },
+    {
+      "titre": "La formation du contrat : l'acceptation",
+      "texte": "L'acceptation est la manifestation de volonté par laquelle le destinataire signifie qu'il accepte de contracter aux conditions proposées. Pour former le contrat, l'acceptation doit être pure et simple : elle doit correspondre exactement à l'offre. Si la réponse modifie l'offre, c'est une contre-offre — le contrat n'est pas formé. L'acceptation peut être expresse ou tacite. En principe, le silence ne vaut pas acceptation. Le contrat est formé au moment et au lieu où l'acceptation parvient à l'offrant. Cette règle est importante pour les contrats à distance. Dans les contrats standardisés où une partie adhère à un contrat prérédigé, les clauses ne lui sont opposables que si elles lui ont été communiquées au moment de la conclusion de ce contrat précis.",
+      "definition": "Acceptation : manifestation de volonté pure et simple (sans modification) du destinataire d'être lié aux conditions de l'offre. Toute modification constitue une contre-offre. Le silence ne vaut pas acceptation en principe. Le contrat est formé à la réception de l'acceptation par l'offrant.",
+      "exemple": "Vonjy propose son terrain à Rabe pour 15 millions. Rabe répond 'J'accepte pour 12 millions' : c'est une contre-offre, pas une acceptation. Le contrat n'est pas formé. Rabe devient l'offrant à 12 millions."
+    },
+    {
+      "titre": "Le principe du consensualisme et ses exceptions",
+      "texte": "Le droit des contrats repose sur le consensualisme : le contrat est valable dès que les parties se sont mises d'accord, sans formalité particulière. Un accord verbal suffit à créer des obligations. Ce principe permet une grande liberté et fluidité des échanges. Des exceptions importantes existent cependant. Les contrats solennels doivent être rédigés dans un certain formalisme pour être valables — pas seulement pour être prouvés. La vente d'un immeuble et la donation doivent être passées devant notaire sous peine de nullité absolue. Les contrats réels ne se forment pas par le seul accord mais nécessitent la remise effective de la chose. Le contrat de prêt entre particuliers est réel : il n'est parfait qu'au moment de la remise des fonds.",
+      "definition": "Consensualisme : le contrat se forme par le seul échange des consentements, sans formalité. Exceptions : contrats solennels (formalités imposées à peine de nullité absolue) et contrats réels (remise de la chose requise pour la formation). Ne pas confondre avec les formalités de preuve (écrit requis pour prouver un contrat de plus de 1 500 euros).",
+      "exemple": "Acheter une moto oralement : contrat consensuel valable. Donner un immeuble sans notaire : nullité absolue même avec accord des deux parties. Promettre de prêter de l'argent : le contrat de prêt réel n'existe pas encore — il se forme seulement à la remise."
+    },
+    {
+      "titre": "Les contrats préparatoires : promesse et pacte de préférence",
+      "texte": "Avant la conclusion définitive d'un contrat, les parties peuvent passer des contrats préparatoires. La promesse unilatérale de contrat est le contrat par lequel le promettant s'engage à conclure le contrat si le bénéficiaire lève l'option dans le délai imparti. Pendant ce délai, le promettant est irrévocablement lié. Si l'objet est une vente et les deux parties s'engagent (promesse synallagmatique ou compromis), cela vaut vente définitive. Le pacte de préférence accorde au bénéficiaire une priorité : si le promettant décide de vendre, il doit proposer d'abord au bénéficiaire. Mais le promettant reste libre de ne pas vendre du tout. Si le bien faisant l'objet du pacte est intégré dans un ensemble plus vaste et que le promettant vend l'ensemble, la question de l'obligation de diviser l'ensemble se pose — la jurisprudence admet difficilement d'imposer au promettant de diviser son bien.",
+      "definition": "Promesse unilatérale : le promettant s'engage irrévocablement à vendre si le bénéficiaire lève l'option dans le délai. Compromis de vente (promesse synallagmatique) : vaut vente définitive. Pacte de préférence : priorité accordée au bénéficiaire si le promettant décide de vendre — sans l'obliger à vendre.",
+      "exemple": "Lanto accorde à Nivo une promesse de vente pendant 6 mois : Nivo peut lever l'option et forcer la vente. Si Lanto avait accordé un pacte de préférence, il reste libre de ne pas vendre — mais s'il vend, il doit proposer à Nivo en priorité."
+    },
+    {
+      "titre": "Première condition de validité : un consentement libre et éclairé",
+      "texte": "Pour qu'un contrat soit valable, le consentement de chaque partie doit être libre et éclairé — exempt de vices. La loi identifie trois vices du consentement : l'erreur, le dol et la violence. Ces trois vices altèrent la qualité du consentement : l'erreur et le dol faussent son éclairage (la partie croit quelque chose de faux), la violence détruit sa liberté (la partie est forcée). Ces trois vices rendent le contrat annulable à la demande de la partie victime (nullité relative). La partie peut choisir d'agir ou de ne pas agir — elle peut aussi confirmer le contrat. Le délai d'action est de 5 ans à compter de la découverte du vice.",
+      "definition": "Condition n°1 — Consentement libre et éclairé : pas d'erreur (représentation fausse de la réalité), pas de dol (tromperie intentionnelle) et pas de violence (contrainte illégitime). Tout vice entraîne la nullité relative, invocable par la victime dans les 5 ans."
+    },
+    {
+      "titre": "Le premier vice : l'erreur",
+      "texte": "L'erreur est une représentation fausse de la réalité qui a déterminé le consentement. Elle doit être déterminante (sans elle, la partie n'aurait pas contracté) et porter sur les qualités essentielles de la chose (erreur sur la substance) ou sur la personne dans les contrats conclus en considération de la personne (contrats intuitu personae). L'erreur sur la valeur économique ne constitue pas un vice du consentement : faire une mauvaise affaire ne permet pas d'annuler le contrat. L'erreur inexcusable — grossièrement évitable — ne permet pas non plus la nullité. L'erreur doit s'apprécier au moment de la conclusion du contrat, mais elle peut être prouvée par des éléments postérieurs révélant une réalité qui existait dès la formation du contrat.",
+      "definition": "Erreur : représentation inexacte de la réalité déterminant le consentement. Cause de nullité relative si elle porte sur les qualités essentielles (substance) ou la personne (contrats intuitu personae). L'erreur sur la valeur économique et l'erreur inexcusable ne permettent pas la nullité.",
+      "exemple": "Acheter un tableau croyant qu'il est d'un maître alors que c'est un faux (erreur sur l'authenticité = qualité essentielle) : nullité possible. Acheter un bien à un prix trop élevé (erreur sur la valeur) : pas de nullité."
+    },
+    {
+      "titre": "Le deuxième vice : le dol",
+      "texte": "Le dol est la tromperie intentionnelle d'une partie pour provoquer une erreur chez son cocontractant et l'inciter à contracter. Il se manifeste par des manœuvres actives (falsification de documents, truquage d'un compteur), des mensonges ou une réticence dolosive (silence gardé intentionnellement sur une information déterminante que l'on était obligé de révéler). Le dol présente un avantage majeur sur l'erreur : il permet d'annuler le contrat même pour une erreur sur la valeur économique, qui n'ouvre normalement pas droit à nullité. Le dol d'un tiers — contrairement à celui du cocontractant — n'est en principe pas une cause de nullité mais peut engager la responsabilité du tiers. En plus de la nullité, le dol ouvre droit à des dommages-intérêts car il constitue une faute intentionnelle.",
+      "definition": "Dol : tromperie intentionnelle par manœuvres, mensonges ou réticence dolosive (silence gardé sur une information déterminante qu'on avait obligation de révéler). Cause de nullité relative + dommages-intérêts. Avantage sur l'erreur : permet la nullité même pour une erreur sur la valeur.",
+      "exemple": "Un vendeur peint les murs pour cacher des infiltrations et affirme que la toiture a été refaite récemment : dol par manœuvre ET par mensonge. L'acheteur peut obtenir la nullité ET des dommages-intérêts."
+    },
+    {
+      "titre": "Le troisième vice : la violence",
+      "texte": "La violence est une contrainte physique ou morale illégitime exercée sur une partie pour la forcer à contracter. Elle doit être illégitime (une menace d'exercer légitimement ses droits en justice n'est pas une violence) et déterminante (de nature à impressionner une personne raisonnable). La violence peut émaner du cocontractant ou d'un tiers — contrairement au dol d'un tiers, la violence émanant d'un tiers permet quand même d'annuler le contrat. La violence économique est également reconnue : exploiter abusivement l'état de dépendance économique d'une partie pour en tirer un avantage manifestement excessif constitue un vice du consentement.",
+      "definition": "Violence : contrainte physique ou morale illégitime et déterminante. Cause de nullité relative. Peut émaner du cocontractant ou d'un tiers (contrairement au dol). La violence économique (exploitation d'un état de dépendance pour obtenir un avantage manifestement excessif) est également reconnue.",
+      "exemple": "Un représentant menace une personne âgée pour lui faire signer un contrat : violence morale illégitime. La personne âgée peut demander la nullité. Le représentant peut aussi être poursuivi pénalement."
+    },
+    {
+      "titre": "Deuxième condition : la capacité juridique",
+      "texte": "Pour contracter valablement, les parties doivent avoir la capacité d'exercice — l'aptitude à exercer soi-même leurs droits. La capacité de jouissance (être titulaire de droits) est universelle. Sont incapables d'exercice : les mineurs non émancipés et les majeurs protégés (tutelle, curatelle). Le mineur peut accomplir seul les actes de la vie courante adaptés à ses ressources et à son âge. Le mineur émancipé a la pleine capacité d'exercice. Le tuteur représente le majeur sous tutelle. Le curateur assiste le majeur sous curatelle qui doit obtenir son accord pour les actes importants. Le contrat conclu par un incapable sans assistance ni représentation est annulable (nullité relative) à la demande de l'incapable ou de son représentant.",
+      "definition": "Capacité d'exercice : aptitude à exercer soi-même ses droits sans assistance. Incapables : mineurs non émancipés et majeurs protégés. Contrat conclu par un incapable = nullité relative. Le mineur émancipé a la pleine capacité. Actes de la vie courante permis aux mineurs selon leurs ressources et âge.",
+      "exemple": "Un mineur de 15 ans signe seul l'achat d'un téléphone à 1 200 000 ariary : annulable. Un mineur achète un stylo avec son argent de poche : acte de la vie courante, valable."
+    },
+    {
+      "titre": "Troisième condition : un objet certain et licite",
+      "texte": "L'objet du contrat est la prestation que chaque partie s'engage à fournir. Il doit réunir plusieurs qualités. Il doit exister ou être susceptible d'existence future (vente de chose future possible). Il doit être déterminé ou déterminable (identifiable avec précision au moment de l'exécution). Il doit être licite : conforme à la loi et à l'ordre public. Les organes humains, le droit de vote, certains biens du domaine public sont hors du commerce et ne peuvent pas être objets d'un contrat. Il doit être possible : on ne peut s'engager à faire quelque chose d'impossible. Un contrat portant sur un objet illicite ou impossible est nul de nullité absolue.",
+      "definition": "Objet du contrat : prestation de chaque partie. Conditions : exister (ou pouvoir exister), être déterminé ou déterminable, être licite (conforme à la loi) et être possible. Objet illicite ou impossible = nullité absolue.",
+      "exemple": "Vendre une récolte avant qu'elle pousse : objet futur valable. Vendre des drogues ou des organes humains : nullité absolue pour objet illicite. Promettre un voyage sur Pluton : nullité pour objet impossible."
+    },
+    {
+      "titre": "Quatrième condition : une cause licite",
+      "texte": "La cause est la raison pour laquelle une partie s'engage. Elle opère sur deux niveaux. La cause objective est la contrepartie reçue dans l'échange — identique pour tous les contrats du même type. Dans une vente, la cause de l'obligation du vendeur est le prix ; la cause de l'obligation de l'acheteur est la chose. Si la contrepartie est inexistante ou dérisoire, l'obligation est sans cause et le contrat est nul. La cause subjective est le motif personnel qui a poussé à contracter. Elle est en principe indifférente, mais si elle est illicite ou immorale ET connue du cocontractant, elle vicie la cause du contrat (nullité absolue). La rentabilité économique d'un contrat n'est pas sa cause objective : un contrat qui devient non rentable ne perd pas sa cause pour autant, sauf si les parties l'avaient expressément stipulé.",
+      "definition": "Cause objective : contrepartie reçue (prix pour le vendeur, chose pour l'acheteur). Doit exister et ne pas être dérisoire. Cause subjective : motif personnel, indifférent sauf si illicite et connu du cocontractant. Cause inexistante ou illicite = nullité absolue.",
+      "exemple": "Louer un local pour y exercer une activité illicite, les deux parties le sachant : cause subjective illicite connue des deux — nullité absolue. Si seul le locataire avait ce projet inavoué : le bail reste valable."
+    },
+    {
+      "titre": "La nullité du contrat : notion, types et effets",
+      "texte": "Quand une condition de validité fait défaut, le contrat est nul. La nullité doit être prononcée par le juge — elle n'est jamais automatique. La nullité absolue protège l'intérêt général : elle sanctionne les vices les plus graves (objet ou cause illicite, défaut de forme solennelle). Elle peut être invoquée par toute personne intéressée dans un délai de 5 ans. Elle ne peut pas être couverte par les parties. La nullité relative protège un intérêt particulier (victime d'un vice du consentement, incapable) : seule la personne protégée peut l'invoquer dans un délai de 5 ans. Elle peut être confirmée. Quels que soient le type de nullité, ses effets sont identiques : anéantissement rétroactif du contrat (comme s'il n'avait jamais existé) et restitutions réciproques (chaque partie rend ce qu'elle a reçu). Si la nullité est due à la faute d'une partie, la victime peut en plus réclamer des dommages-intérêts.",
+      "definition": "Nullité absolue : vices graves, invocable par tous, non confirmable, délai 5 ans. Nullité relative : vices protégeant un intérêt particulier, invocable seulement par la victime, confirmable, délai 5 ans. Effets dans les deux cas : anéantissement rétroactif + restitutions réciproques + éventuels dommages-intérêts si faute d'une partie."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quelle est la définition juridique du contrat ?",
+      "choix": [
+        "Un document écrit et signé par deux personnes",
+        "Un accord de volontés entre deux ou plusieurs personnes destiné à créer des obligations",
+        "Une promesse unilatérale faite par une personne à une autre",
+        "Tout acte officiel enregistré par un notaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le contrat n'est pas nécessairement écrit.",
+        "Il naît de la rencontre de volontés — pas d'une seule volonté.",
+        "Il crée des liens obligatoires entre les parties."
+      ],
+      "explication": "Le contrat est un accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des obligations. Il n'exige pas de forme particulière en principe (consensualisme) et n'est pas forcément écrit. Ce qui le définit, c'est la rencontre de volontés libres visant à produire des effets de droit."
+    },
+    {
+      "question": "Qu'est-ce qu'un contrat synallagmatique ?",
+      "choix": [
+        "Un contrat dans lequel seule une partie s'oblige",
+        "Un contrat dans lequel les deux parties s'obligent réciproquement",
+        "Un contrat conclu sans contrepartie financière",
+        "Un contrat rédigé obligatoirement par un notaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Synallagmatique vient du grec : lien réciproque.",
+        "Chaque partie est à la fois créancière et débitrice.",
+        "La vente et le contrat de travail en sont des exemples."
+      ],
+      "explication": "Un contrat synallagmatique est un contrat dans lequel les deux parties s'obligent réciproquement. Chaque obligation est la contrepartie de l'autre. La vente : le vendeur s'oblige à livrer la chose, l'acheteur à payer le prix. Le contrat de travail : le salarié s'oblige à travailler, l'employeur à payer le salaire. C'est l'opposé du contrat unilatéral où seule une partie s'oblige."
+    },
+    {
+      "question": "Vrai ou faux : un contrat peut être valablement conclu par accord oral, sans aucun écrit.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le principe du droit des contrats est le consensualisme.",
+        "L'écrit est souvent nécessaire pour la preuve, pas pour la validité.",
+        "Il y a des exceptions pour les contrats solennels."
+      ],
+      "explication": "Vrai, en principe. Le droit des contrats repose sur le consensualisme : le contrat est valable dès le seul échange des consentements, sans formalité. Un accord verbal crée des obligations juridiques. L'écrit peut être nécessaire pour la preuve. Par exception, certains contrats solennels exigent un acte notarié pour leur validité même."
+    },
+    {
+      "question": "Pour être juridiquement valable, une offre de contracter doit être :",
+      "choix": [
+        "Écrite et signée par l'offrant",
+        "Ferme (volonté réelle de s'engager) et précise (éléments essentiels déterminés)",
+        "Adressée à une personne déterminée uniquement",
+        "Acceptée dans les 24 heures"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une simple publicité vague n'est pas une offre.",
+        "L'offre doit contenir les éléments essentiels du contrat envisagé.",
+        "L'offrant doit avoir la volonté réelle de s'engager si l'autre accepte."
+      ],
+      "explication": "Pour être qualifiée d'offre juridique, la proposition doit être ferme (l'offrant a la volonté réelle de s'engager) et précise (elle contient les éléments essentiels — pour une vente, la chose et le prix). Une simple invitation à entrer en négociation n'est pas une offre au sens juridique."
+    },
+    {
+      "question": "Vonjy propose à Rabe de lui vendre son terrain pour 15 millions d'ariary. Rabe répond 'Je prends pour 12 millions.' Qu'est-ce que cette réponse constitue juridiquement ?",
+      "choix": [
+        "Une acceptation valable qui forme le contrat",
+        "Une contre-offre : Rabe devient à son tour l'offrant et Vonjy peut accepter ou refuser",
+        "Un refus définitif de l'offre initiale",
+        "Un aveu judiciaire de l'intention d'acheter"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acceptation doit être pure et simple — conforme à l'offre.",
+        "Toute modification de l'offre dans la réponse empêche la formation du contrat.",
+        "En modifiant le prix, Rabe formule une nouvelle proposition."
+      ],
+      "explication": "La réponse de Rabe n'est pas une acceptation : elle modifie l'offre en proposant un prix différent. C'est une contre-offre. Rabe devient l'offrant, Vonjy le destinataire. Si Vonjy répond 'Accord pour 12 millions', le contrat se forme à 12 millions. L'acceptation qui forme le contrat doit être pure et simple — parfaitement conforme à l'offre."
+    },
+    {
+      "question": "En principe, le silence gardé par le destinataire d'une offre vaut-il acceptation ?",
+      "choix": [
+        "Oui, toujours : qui ne dit mot consent",
+        "Non, le silence ne vaut pas acceptation en principe",
+        "Oui, mais seulement après 30 jours",
+        "Cela dépend de la valeur du contrat proposé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "On ne peut pas forcer quelqu'un à être lié par un contrat par son seul silence.",
+        "Le principe est que l'acceptation doit être positive.",
+        "Il existe des exceptions dans les relations d'affaires continues."
+      ],
+      "explication": "Non. Le silence ne vaut pas acceptation en principe : on ne peut pas imposer à quelqu'un d'être lié par un contrat au seul motif qu'il n'a pas répondu. Des exceptions existent : les relations d'affaires continues entre professionnels, les usages professionnels, ou les situations dans lesquelles le silence ne peut signifier qu'acceptation."
+    },
+    {
+      "question": "Qu'est-ce qu'un contrat solennel ?",
+      "choix": [
+        "Un contrat très important signé devant de nombreux témoins",
+        "Un contrat qui n'est valable qu'à condition de respecter certaines formalités imposées par la loi",
+        "Un contrat conclu lors d'une cérémonie officielle",
+        "Un contrat entre personnes de la même famille"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Par opposition au contrat consensuel qui n'exige aucune formalité.",
+        "La vente d'immeuble et la donation en sont des exemples.",
+        "Le défaut de forme solennelle entraîne la nullité absolue."
+      ],
+      "explication": "Un contrat solennel est un contrat dont la validité est subordonnée au respect de certaines formalités imposées par la loi — typiquement l'acte notarié pour la vente d'un immeuble, la donation ou le contrat de mariage. Sans ces formalités, le contrat est nul de nullité absolue même si les parties étaient parfaitement d'accord. C'est une exception au principe du consensualisme."
+    },
+    {
+      "question": "Qu'est-ce qu'une promesse unilatérale de vente ?",
+      "choix": [
+        "Un avant-contrat dans lequel les deux parties s'engagent à vendre et à acheter",
+        "Un contrat dans lequel le promettant s'engage à vendre si le bénéficiaire lève l'option dans le délai imparti",
+        "Une simple négociation précontractuelle sans force obligatoire",
+        "Un contrat dans lequel le bénéficiaire s'engage à acheter si le vendeur accepte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Unilatérale : une seule partie s'engage fermement.",
+        "Le bénéficiaire a le choix — il peut décider d'acheter ou non.",
+        "Le promettant est irrévocablement lié pendant le délai."
+      ],
+      "explication": "La promesse unilatérale de vente est un contrat dans lequel le promettant s'engage à vendre à des conditions déterminées si le bénéficiaire lève l'option dans le délai convenu. Le bénéficiaire a le choix : acheter ou non. Le promettant ne peut pas se rétracter ni vendre à un autre pendant le délai. C'est une protection pour l'acheteur potentiel."
+    },
+    {
+      "question": "Quelle est la différence entre une promesse unilatérale de vente et un pacte de préférence ?",
+      "choix": [
+        "Il n'y a aucune différence pratique",
+        "Dans la promesse, le promettant est obligé de vendre si l'autre lève l'option ; dans le pacte, le promettant reste libre de ne pas vendre mais doit proposer en priorité au bénéficiaire s'il décide de vendre",
+        "Le pacte de préférence est plus contraignant que la promesse",
+        "La promesse est gratuite ; le pacte est toujours onéreux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans la promesse, le promettant est irrévocablement lié.",
+        "Dans le pacte, le promettant conserve la liberté de ne pas contracter.",
+        "Le pacte donne une priorité, pas une obligation de vendre."
+      ],
+      "explication": "Dans la promesse unilatérale, le promettant est irrévocablement engagé à vendre si le bénéficiaire lève l'option. Dans le pacte de préférence, le promettant reste libre de ne pas vendre. Mais s'il décide de vendre, il doit d'abord le proposer au bénéficiaire. Le pacte donne une priorité contractuelle, pas une obligation de vendre."
+    },
+    {
+      "question": "Combien de vices du consentement existent en droit des contrats ?",
+      "choix": [
+        "Deux : l'erreur et le dol",
+        "Trois : l'erreur, le dol et la violence",
+        "Quatre : l'erreur, le dol, la violence et la lésion",
+        "Un seul : l'erreur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon en identifie trois.",
+        "L'erreur altère l'éclairage, le dol le provoque, la violence détruit la liberté.",
+        "La lésion n'est pas un vice du consentement en droit commun."
+      ],
+      "explication": "Il existe trois vices du consentement : l'erreur (représentation fausse de la réalité), le dol (tromperie intentionnelle) et la violence (contrainte physique ou morale). L'erreur et le dol faussent l'éclairage du consentement, la violence supprime sa liberté. Les trois entraînent la nullité relative."
+    },
+    {
+      "question": "Hery achète un tableau croyant qu'il est d'un grand peintre. Le vendeur ignorait aussi que c'était un faux. Hery peut-il obtenir la nullité du contrat ?",
+      "choix": [
+        "Non, car le vendeur était de bonne foi",
+        "Oui, pour erreur sur les qualités essentielles : l'authenticité du tableau était déterminante",
+        "Non, car Hery aurait dû faire vérifier le tableau avant d'acheter",
+        "Oui, mais seulement s'il prouve que le vendeur connaissait la vérité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'erreur n'exige pas la mauvaise foi du cocontractant.",
+        "L'authenticité d'une œuvre d'art est une qualité essentielle.",
+        "Sans cette erreur, Hery n'aurait pas acheté."
+      ],
+      "explication": "Oui. L'erreur ne nécessite pas la mauvaise foi du cocontractant (contrairement au dol). Il suffit que l'erreur porte sur une qualité essentielle et qu'elle ait été déterminante. L'authenticité d'un tableau est une qualité essentielle : si Hery avait su que c'était un faux, il n'aurait pas acheté. Il peut demander la nullité pour erreur sur la substance."
+    },
+    {
+      "question": "En quoi le dol présente-t-il un avantage par rapport à l'erreur spontanée pour la victime ?",
+      "choix": [
+        "Le dol permet d'obtenir la nullité plus rapidement",
+        "Le dol permet d'annuler le contrat même pour une erreur sur la valeur, et ouvre droit à des dommages-intérêts en plus de la nullité",
+        "Le dol permet d'invoquer la nullité absolue",
+        "Il n'y a aucune différence pratique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'erreur sur la valeur économique ne permet pas la nullité si spontanée.",
+        "Le dol implique la faute intentionnelle du cocontractant.",
+        "La victime peut cumuler nullité et réparation."
+      ],
+      "explication": "Le dol présente deux avantages majeurs. D'abord, il permet d'annuler le contrat même pour une erreur sur la valeur économique. Ensuite, le dol étant une faute intentionnelle, la victime peut en plus réclamer des dommages-intérêts pour le préjudice subi, en plus de la restitution des prestations."
+    },
+    {
+      "question": "Qu'est-ce que la réticence dolosive ?",
+      "choix": [
+        "Un mensonge actif sur les qualités du bien vendu",
+        "Le silence gardé intentionnellement sur une information déterminante que l'on avait l'obligation de révéler",
+        "Une réticence à contracter engageant la responsabilité précontractuelle",
+        "Une erreur commise par les deux parties simultanément"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La réticence est un silence — une abstention.",
+        "Ce silence doit être intentionnel et porter sur une information importante.",
+        "Elle implique une obligation d'information précontractuelle."
+      ],
+      "explication": "La réticence dolosive est le silence intentionnellement gardé par une partie sur une information qu'elle savait déterminante pour son cocontractant et qu'elle avait l'obligation de lui révéler. Un vendeur qui cache sciemment un défaut grave commet une réticence dolosive. C'est une omission volontaire : on laisse l'autre se tromper sans la corriger."
+    },
+    {
+      "question": "Un représentant commercial menace une personne âgée de lui 'créer des ennuis' si elle ne signe pas. Quel vice du consentement est caractérisé ?",
+      "choix": [
+        "L'erreur : la personne âgée se trompe sur la nature du contrat",
+        "Le dol : le représentant ment sur les qualités du produit",
+        "La violence morale : la contrainte psychologique détruit la liberté du consentement",
+        "L'incapacité : la personne âgée est présumée incapable"
+      ],
+      "reponse": 2,
+      "indices": [
+        "La menace est une contrainte — elle détruit la liberté du consentement.",
+        "La contrainte est psychologique, pas physique ici.",
+        "La menace est illégitime : menacer de 'créer des ennuis' n'est pas un droit."
+      ],
+      "explication": "Il s'agit de violence morale. La menace est une contrainte psychologique illégitime qui détruit la liberté du consentement. Elle est illégitime (la menace n'est pas un droit du représentant) et déterminante (elle a conduit à la signature). La personne âgée peut demander la nullité du contrat."
+    },
+    {
+      "question": "La violence économique peut-elle constituer un vice du consentement ?",
+      "choix": [
+        "Non, seules les violences physiques et morales directes sont reconnues",
+        "Oui, quand une partie tire un avantage manifestement excessif de l'état de dépendance de l'autre",
+        "Non, la lésion est un vice distinct de la violence",
+        "Oui, mais seulement dans les contrats de consommation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La notion de violence s'est élargie dans le droit moderne.",
+        "L'état de dépendance économique peut ôter la liberté de consentir.",
+        "L'avantage retiré doit être manifestement excessif."
+      ],
+      "explication": "Oui. La violence économique est reconnue comme vice du consentement quand une partie exploite abusivement l'état de dépendance économique de l'autre pour en tirer un avantage manifestement excessif. Deux conditions cumulatives : un état de dépendance réel et un avantage manifestement excessif tiré de cette situation."
+    },
+    {
+      "question": "Un mineur de 15 ans signe seul l'achat d'un téléphone à 1 200 000 ariary. Ce contrat est-il valable ?",
+      "choix": [
+        "Oui, car 15 ans est suffisamment proche de la majorité",
+        "Non : annulable (nullité relative) car le mineur non émancipé n'a pas la capacité d'exercice pour cet acte",
+        "Oui, car la vente est un acte de la vie courante",
+        "Non, nullité absolue car le mineur est totalement incapable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mineur non émancipé manque de capacité d'exercice pour les actes importants.",
+        "Un téléphone à 1 200 000 ariary n'est pas un acte de la vie courante.",
+        "La nullité pour incapacité est relative — elle protège le mineur."
+      ],
+      "explication": "Ce contrat est annulable pour nullité relative. Le mineur non émancipé n'a pas la capacité d'exercice pour les actes dépassant les actes de la vie courante. Un téléphone à 1 200 000 ariary ne correspond pas aux ressources habituelles d'un mineur de 15 ans. Les parents peuvent demander l'annulation dans les 5 ans."
+    },
+    {
+      "question": "Quelle est la différence entre capacité de jouissance et capacité d'exercice ?",
+      "choix": [
+        "Ce sont deux synonymes",
+        "La capacité de jouissance est l'aptitude à être titulaire de droits (universelle) ; la capacité d'exercice est l'aptitude à les exercer soi-même (peut être limitée)",
+        "La jouissance concerne les droits patrimoniaux ; l'exercice les droits extrapatrimoniaux",
+        "La jouissance s'acquiert à la naissance ; l'exercice uniquement à la majorité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un nouveau-né a des droits (héritages) mais ne peut pas les exercer seul.",
+        "La jouissance = avoir le droit. L'exercice = pouvoir l'utiliser soi-même.",
+        "Les incapacités d'exercice visent à protéger les personnes vulnérables."
+      ],
+      "explication": "La capacité de jouissance est l'aptitude à être titulaire de droits — toute personne en dispose dès sa naissance. La capacité d'exercice est l'aptitude à exercer soi-même ses droits sans assistance. C'est la capacité d'exercice qui peut être limitée pour protéger certaines personnes : les mineurs et les majeurs sous protection."
+    },
+    {
+      "question": "L'objet d'un contrat peut-il être une chose future qui n'existe pas encore ?",
+      "choix": [
+        "Non, la chose doit toujours exister au moment de la conclusion du contrat",
+        "Oui, à condition que son existence soit possible et que la chose soit déterminable",
+        "Non, sauf en matière immobilière uniquement",
+        "Oui, mais seulement si les deux parties en sont informées"
+      ],
+      "reponse": 1,
+      "indices": [
+        "On peut vendre une récolte avant qu'elle soit faite.",
+        "On peut acheter un appartement sur plan.",
+        "L'objet peut être futur si son existence est possible."
+      ],
+      "explication": "Oui. L'objet peut être une chose future à condition qu'elle soit possible et déterminable. On peut vendre une récolte avant les vendanges, acheter un appartement en construction. En revanche, on ne peut pas vendre quelque chose dont l'existence est impossible. L'objet doit être déterminable même s'il n'existe pas encore."
+    },
+    {
+      "question": "Vrai ou faux : vendre des organes humains est un contrat dont l'objet est illicite.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "L'objet doit être dans le commerce juridique.",
+        "Certaines choses sont hors du commerce par leur nature.",
+        "Le corps humain est protégé par des principes d'ordre public."
+      ],
+      "explication": "Vrai. Les organes humains sont hors du commerce juridique. Vendre un organe constitue un contrat à objet illicite, nul de nullité absolue. Le corps humain est inviolable et ne peut pas être traité comme une marchandise. Ce principe est d'ordre public."
+    },
+    {
+      "question": "Qu'est-ce que la cause objective d'un contrat de vente ?",
+      "choix": [
+        "La raison personnelle pour laquelle l'acheteur veut ce bien",
+        "La contrepartie reçue : pour le vendeur le prix, pour l'acheteur la chose",
+        "Le motif moral qui pousse les parties à contracter",
+        "L'objectif économique des parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La cause objective est la même pour tous les contrats du même type.",
+        "Dans une vente, chaque partie reçoit quelque chose en échange.",
+        "Si la contrepartie est inexistante ou dérisoire, la cause objective fait défaut."
+      ],
+      "explication": "La cause objective est la contrepartie reçue dans l'échange. Dans une vente, la cause de l'obligation du vendeur est le prix qu'il reçoit ; la cause de l'obligation de l'acheteur est la chose qu'il obtient. Si la contrepartie est inexistante ou dérisoire, l'obligation est sans cause et le contrat est nul."
+    },
+    {
+      "question": "Deux personnes concluent un bail, sachant toutes les deux que le local sera utilisé pour une activité illicite. Quelle est la sanction ?",
+      "choix": [
+        "Le contrat est valable car le bail lui-même est licite",
+        "Nullité absolue pour cause illicite connue des deux parties",
+        "Nullité relative à la demande du bailleur",
+        "Seul le locataire peut être poursuivi — le contrat reste valable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La cause subjective illicite vicie le contrat quand elle est connue du cocontractant.",
+        "Les deux parties savent l'usage illicite prévu.",
+        "La protection de l'ordre public justifie la nullité absolue."
+      ],
+      "explication": "Nullité absolue pour cause illicite. La cause subjective (motif déterminant) est illicite et connue des deux parties. Quand la cause illicite est commune, le contrat est nul de nullité absolue. La règle nemo auditur pourrait même empêcher les restitutions."
+    },
+    {
+      "question": "Quelle est la différence entre nullité absolue et nullité relative ?",
+      "choix": [
+        "La nullité absolue est plus grave et ses effets sont plus étendus",
+        "La nullité absolue protège l'intérêt général (invocable par tous) ; la nullité relative protège un intérêt particulier (invocable seulement par la victime)",
+        "La nullité absolue est immédiate ; la nullité relative exige un jugement",
+        "La nullité absolue efface le contrat dès sa conclusion ; la nullité relative seulement pour l'avenir"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'intérêt protégé détermine le type de nullité.",
+        "Qui peut invoquer chaque type de nullité ?",
+        "Les délais de prescription sont identiques dans les deux cas : 5 ans."
+      ],
+      "explication": "La nullité absolue protège l'intérêt général : invocable par toute personne intéressée (parties, tiers, parquet). Elle sanctionne les vices graves : objet illicite, cause illicite, défaut de forme solennelle. La nullité relative protège un intérêt particulier : seule la victime peut l'invoquer. Délai : 5 ans dans les deux cas."
+    },
+    {
+      "question": "Les effets de la nullité sont-ils différents selon qu'elle est absolue ou relative ?",
+      "choix": [
+        "Oui, la nullité absolue efface tout et la nullité relative ne vaut que pour l'avenir",
+        "Non, dans les deux cas : anéantissement rétroactif et restitutions réciproques",
+        "Oui, la nullité relative permet de maintenir certaines clauses",
+        "Non, mais les dommages-intérêts sont plus importants en nullité absolue"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon précise que les effets sont identiques.",
+        "La nullité anéantit le contrat rétroactivement dans les deux cas.",
+        "Chaque partie doit rendre ce qu'elle a reçu."
+      ],
+      "explication": "Non, les effets sont identiques. Que la nullité soit absolue ou relative, le contrat est anéanti rétroactivement et chaque partie doit restituer ce qu'elle a reçu. Si la nullité est due à la faute d'une partie (dol, violence), la victime peut en plus réclamer des dommages-intérêts."
+    },
+    {
+      "question": "Un contrat de vente est annulé pour dol de la part du vendeur. Quelles sont les conséquences ?",
+      "choix": [
+        "L'acheteur rend la chose et le vendeur garde le prix",
+        "Le vendeur restitue le prix, l'acheteur restitue la chose, et l'acheteur peut en plus réclamer des dommages-intérêts",
+        "Le contrat est maintenu mais le prix est réduit",
+        "Seul le vendeur est sanctionné pénalement — le contrat reste valable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité entraîne les restitutions réciproques.",
+        "Le dol est une faute intentionnelle ouvrant droit à réparation.",
+        "Nullité + restitutions + dommages-intérêts se cumulent."
+      ],
+      "explication": "La nullité entraîne les restitutions réciproques : le vendeur restitue le prix, l'acheteur restitue la chose. De plus, le dol étant une faute intentionnelle, l'acheteur peut réclamer des dommages-intérêts pour le préjudice subi. Les deux remèdes se cumulent."
+    },
+    {
+      "question": "Qu'est-ce que la règle nemo auditur et dans quel cas s'applique-t-elle ?",
+      "choix": [
+        "La règle selon laquelle le juge ne peut pas entendre un mineur sans ses parents",
+        "Nul ne peut se prévaloir de sa propre turpitude : les restitutions peuvent être refusées quand les deux parties avaient une cause illicite",
+        "L'erreur inexcusable ne permet pas la nullité",
+        "On ne peut pas prouver un contrat illicite par témoins"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Nemo auditur = nul n'est entendu.",
+        "Suam turpitudinem = sa propre turpitude.",
+        "Elle s'applique quand les deux parties ont commis une faute morale."
+      ],
+      "explication": "Nemo auditur propriam turpitudinem allegans : nul ne peut se prévaloir de sa propre turpitude. Quand les deux parties ont conclu un contrat à cause illicite, aucune d'elles ne peut demander au juge de les aider à obtenir des restitutions. Le juge peut refuser d'ordonner les restitutions pour ne pas contribuer à une activité illicite."
+    },
+    {
+      "question": "Vrai ou faux : la nullité d'un contrat doit toujours être prononcée par un juge.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La nullité est une sanction judiciaire.",
+        "Tant que la nullité n'est pas prononcée, le contrat produit ses effets.",
+        "Les parties peuvent aussi convenir amiablement de l'annulation."
+      ],
+      "explication": "Vrai. La nullité n'est jamais automatique : elle doit être prononcée par le juge. Tant qu'il ne l'a pas prononcée, le contrat produit ses effets normaux. Les parties peuvent convenir amiablement de l'annulation sans passer par le tribunal, mais la nullité judiciaire est la voie normale."
+    },
+    {
+      "question": "Quel est le délai de prescription pour agir en nullité d'un contrat ?",
+      "choix": [
+        "1 an pour la nullité relative, 30 ans pour la nullité absolue",
+        "5 ans dans les deux cas",
+        "2 ans pour la nullité relative, 10 ans pour la nullité absolue",
+        "Le délai est illimité pour la nullité absolue"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les deux types de nullité ont le même délai de droit commun.",
+        "La leçon précise ce délai explicitement.",
+        "5 ans est le délai de droit commun de la prescription civile."
+      ],
+      "explication": "Le délai de prescription pour agir en nullité est de 5 ans dans les deux cas — nullité absolue et nullité relative. Ce délai court à compter du jour où la partie connaissait ou aurait dû connaître les faits permettant d'agir."
+    },
+    {
+      "question": "Un contrat prévoit la vente d'un voyage sur une planète inaccessible. Quelle condition de validité fait défaut ?",
+      "choix": [
+        "La cause : il n'y a pas de raison licite de contracter",
+        "Le consentement : l'acheteur se trompe sur la destination",
+        "L'objet : la prestation est impossible",
+        "La capacité : seul un astronaute peut contracter pour un tel voyage"
+      ],
+      "reponse": 2,
+      "indices": [
+        "L'objet doit être possible.",
+        "On ne peut pas s'engager à faire quelque chose d'impossible.",
+        "L'impossibilité absolue de la prestation vicie l'objet du contrat."
+      ],
+      "explication": "L'objet fait défaut : la prestation est impossible. L'objet du contrat doit être possible. Un engagement portant sur l'impossible est sans objet et le contrat est nul pour absence d'objet possible."
+    },
+    {
+      "question": "La lésion — avoir conclu un contrat désavantageux — est-elle en principe un vice du consentement en droit commun ?",
+      "choix": [
+        "Oui toujours : vendre à perte ouvre droit à nullité",
+        "Non, faire une mauvaise affaire ne permet pas d'annuler le contrat en droit commun",
+        "Oui, si le déséquilibre dépasse 50% de la valeur",
+        "Oui, la lésion est toujours assimilée à une violence économique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'erreur sur la valeur économique n'est pas un vice du consentement.",
+        "La liberté contractuelle implique d'assumer ses mauvaises affaires.",
+        "Des exceptions existent pour certains contrats spéciaux."
+      ],
+      "explication": "Non. En droit commun, la lésion n'est pas une cause de nullité. Chacun est libre de contracter aux conditions qu'il juge acceptables. Des exceptions limitatives existent pour certains contrats spéciaux (vente d'immeubles pour le vendeur, contrats conclu par des mineurs) mais elles ne valent pas en droit commun."
+    },
+    {
+      "question": "Un contrat de prestation de services ne précise ni la nature du travail ni son prix. L'objet est-il valide ?",
+      "choix": [
+        "Oui, les détails peuvent être fixés ultérieurement",
+        "Non, l'objet doit être déterminé ou déterminable : l'indétermination totale rend le contrat nul",
+        "Oui, seul le prix doit être déterminé",
+        "Cela dépend du montant en jeu"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'objet doit être déterminé ou au moins déterminable.",
+        "Une prestation totalement indéterminée ne peut pas être exécutée.",
+        "La liberté contractuelle ne permet pas de s'engager dans le vide."
+      ],
+      "explication": "Non. L'objet doit être déterminé ou déterminable. Un contrat qui ne précise ni la nature du travail ni le prix ne permet pas de savoir ce que chaque partie doit. L'indétermination totale rend l'objet impossible à identifier et le contrat nul ou inexistant."
+    },
+    {
+      "question": "Vrai ou faux : dans un contrat unilatéral, une seule partie s'engage.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Unilatéral s'oppose à synallagmatique.",
+        "La donation : seul le donateur s'oblige.",
+        "Le prêt gratuit : seul l'emprunteur doit rembourser."
+      ],
+      "explication": "Vrai. Dans un contrat unilatéral, une seule des parties s'oblige — l'autre ne prend aucun engagement en retour. La donation et le prêt gratuit en sont des exemples. Attention : un contrat unilatéral implique toujours deux parties — simplement, une seule s'oblige."
+    },
+    {
+      "question": "Qu'est-ce qu'un contrat réel et comment se distingue-t-il du contrat consensuel ?",
+      "choix": [
+        "Un contrat portant sur des biens réels (immeubles)",
+        "Un contrat qui n'est formé qu'à la remise effective de la chose — le seul accord de volontés ne suffit pas",
+        "Un contrat qui existe dans la réalité, par opposition aux contrats fictifs",
+        "Un contrat enregistré au registre foncier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Réel vient de res — la chose.",
+        "La remise de la chose est une condition de formation, pas de validité.",
+        "Le prêt entre particuliers en est l'exemple classique."
+      ],
+      "explication": "Un contrat réel est un contrat dont la formation exige, en plus de l'accord de volontés, la remise effective de la chose. Le seul accord ne suffit pas : tant que la chose n'a pas été remise, le contrat n'est pas formé. Le prêt entre particuliers est réel : tant que les fonds ne sont pas remis, il n'y a pas de contrat."
+    },
+    {
+      "question": "Le décès de l'offrant avant l'acceptation rend-il toujours l'offre caduque ?",
+      "choix": [
+        "Oui, toujours : l'offre est liée à la personne de l'offrant",
+        "Non : si l'offre est assortie d'un délai précis, le décès ne la rend pas automatiquement caduque",
+        "Oui, sauf si les héritiers décident de maintenir l'offre",
+        "Non : l'offre survit toujours au décès de l'offrant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La présence ou l'absence d'un délai fait une différence.",
+        "Une offre sans délai est davantage liée à la volonté de l'offrant.",
+        "Une offre avec délai : l'offrant s'est engagé à maintenir jusqu'à une date."
+      ],
+      "explication": "Non, pas toujours. Si l'offre n'est pas assortie d'un délai, le décès de l'offrant la rend caduque. En revanche, si l'offre est assortie d'un délai précis, le décès de l'offrant ne provoque pas nécessairement sa caducité pendant ce délai : par interprétation a contrario, l'offrant s'était engagé à maintenir l'offre jusqu'à une date précise."
+    },
+    {
+      "question": "Dans les contrats d'adhésion, une clause peut-elle être opposée à la partie qui adhère si elle figurait dans un autre contrat conclu entre elles ?",
+      "choix": [
+        "Oui, si les deux contrats ont été conclus au même moment",
+        "Non : les clauses ne sont opposables que si portées à la connaissance du contractant pour le contrat concerné",
+        "Oui, dès lors que la partie connaissait l'existence de l'autre contrat",
+        "Cela dépend de la valeur du contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pour qu'une clause soit opposable, la partie doit l'avoir connue pour ce contrat.",
+        "La connaissance d'une clause dans un autre contrat ne suffit pas.",
+        "La charge de la preuve de la communication pèse sur celui qui invoque la clause."
+      ],
+      "explication": "Non. Pour qu'une clause soit opposable, elle doit avoir été portée à la connaissance du cocontractant au moment de la conclusion du contrat concerné. La présence d'une clause dans un autre contrat conclu simultanément ne suffit pas à la rendre opposable pour le contrat litigieux."
+    },
+    {
+      "question": "Vrai ou faux : le compromis de vente (promesse synallagmatique) vaut vente définitive.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Synallagmatique : les deux parties s'engagent mutuellement.",
+        "Si les deux s'engagent à vendre et acheter, la vente est formée.",
+        "Il diffère de la promesse unilatérale où seul le vendeur s'engage."
+      ],
+      "explication": "Vrai. Le compromis de vente est une promesse synallagmatique dans laquelle le vendeur s'engage à vendre et l'acheteur à acheter. Les deux ont irrévocablement consenti. Le compromis vaut vente définitive : les obligations de livrer et de payer sont nées. Il manque encore les formalités pour les immeubles mais la vente est formée au fond."
+    },
+    {
+      "question": "Pourquoi l'erreur sur la valeur économique ne constitue-t-elle pas un vice du consentement ?",
+      "choix": [
+        "Parce que la valeur économique n'est jamais déterminante du consentement",
+        "Parce que chacun est libre d'apprécier la valeur d'une chose et doit assumer ses erreurs d'évaluation",
+        "Parce que la valeur économique ne peut jamais être déterminée avec précision",
+        "Parce que les tribunaux manquent de compétence pour évaluer les prix"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La liberté contractuelle implique d'assumer ses mauvaises affaires.",
+        "Si toute mauvaise affaire pouvait être annulée, la sécurité juridique serait détruite.",
+        "Exception : si l'erreur sur la valeur a été provoquée par le dol."
+      ],
+      "explication": "L'erreur sur la valeur ne constitue pas un vice du consentement parce que chaque partie est responsable de son appréciation de la valeur économique. Si toute mauvaise affaire pouvait être annulée, la sécurité juridique des transactions serait détruite. Exception : si l'erreur sur la valeur a été provoquée par le dol de l'autre partie."
+    },
+    {
+      "question": "Dans un contrat conclu sous violence, la violence doit-elle nécessairement émaner du cocontractant ?",
+      "choix": [
+        "Oui, seule la violence du cocontractant peut vicier le consentement",
+        "Non, la violence peut émaner d'un tiers et permet quand même la nullité du contrat",
+        "Non, mais si la violence vient d'un tiers, seuls des dommages-intérêts sont possibles",
+        "Oui, contrairement au dol qui peut venir d'un tiers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon compare la violence et le dol sur ce point.",
+        "La violence émanant d'un tiers permet la nullité.",
+        "C'est l'opposé du dol : le dol d'un tiers ne permet pas la nullité en principe."
+      ],
+      "explication": "Non. La violence peut émaner d'un tiers et permet quand même la nullité du contrat. C'est une différence importante avec le dol : le dol d'un tiers ne permet pas en principe la nullité. Si quelqu'un est contraint par un tiers à signer un contrat, il peut en demander la nullité même si son cocontractant était de bonne foi."
+    },
+    {
+      "question": "Vrai ou faux : la nullité relative peut être couverte (confirmée) par la partie qui aurait pu l'invoquer.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La nullité relative protège un intérêt particulier.",
+        "La personne protégée peut y renoncer si elle le souhaite.",
+        "La confirmation n'est pas possible pour la nullité absolue."
+      ],
+      "explication": "Vrai. La nullité relative peut être confirmée par la partie qui aurait pu l'invoquer. Une fois la cause de nullité disparue (la violence a cessé, l'erreur a été découverte, l'incapable a atteint la majorité), la victime peut décider de maintenir le contrat. La confirmation peut être expresse ou tacite (exécution volontaire en connaissance de la cause de nullité)."
+    },
+    {
+      "question": "Qu'est-ce qu'un contrat intuitu personae et pourquoi la notion est-elle importante pour l'erreur ?",
+      "choix": [
+        "Un contrat conclu au nom d'une autre personne",
+        "Un contrat conclu en considération des qualités personnelles du cocontractant, pour lequel l'identité ou les qualités de la personne sont déterminantes",
+        "Un contrat qui ne peut pas être cédé à un tiers",
+        "Un contrat conclu entre membres d'une même famille"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Intuitu personae = en considération de la personne.",
+        "Le contrat d'artiste ou de mariage en sont des exemples.",
+        "L'erreur sur la personne n'est prise en compte que dans ce type de contrat."
+      ],
+      "explication": "Un contrat intuitu personae est conclu en considération des qualités personnelles du cocontractant. Le contrat d'artiste, le mariage en sont des exemples. L'erreur sur la personne n'est un vice du consentement que dans ces contrats : dans un contrat impersonnel, l'identité de l'autre partie est indifférente."
+    },
+    {
+      "question": "Un mineur émancipé a-t-il la pleine capacité de contracter ?",
+      "choix": [
+        "Non, l'émancipation n'a aucun effet sur la capacité contractuelle",
+        "Oui, le mineur émancipé acquiert la pleine capacité d'exercice et peut contracter comme un majeur",
+        "Partiellement : il peut contracter pour les actes courants mais pas pour les actes graves",
+        "Cela dépend de l'âge : seulement à partir de 17 ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'émancipation est précisément conçue pour lever l'incapacité du mineur.",
+        "Le mineur émancipé gère lui-même ses affaires.",
+        "Il est traité comme un majeur pour la plupart des actes civils."
+      ],
+      "explication": "Oui. L'émancipation confère au mineur la pleine capacité d'exercice. Un mineur émancipé peut contracter comme un majeur, gérer ses biens, exercer ses droits. Elle peut être accordée par le juge à partir de 16 ans ou résulter du mariage."
+    },
+    {
+      "question": "Vrai ou faux : si une clause d'un contrat est nulle, le contrat entier est nécessairement nul.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit distingue nullité partielle et nullité totale.",
+        "Tout dépend de si la clause était essentielle ou accessoire.",
+        "En droit de la consommation, les clauses abusives sont réputées non écrites."
+      ],
+      "explication": "Faux en principe. Le juge peut prononcer une nullité partielle — seule la clause est supprimée — et maintenir le reste du contrat si la clause nulle n'était pas déterminante du consentement. Si la clause nulle était essentielle, la nullité est totale. En droit de la consommation, les clauses abusives sont réputées non écrites sans que le contrat soit annulé."
+    },
+    {
+      "question": "Qu'est-ce que la confirmation d'un acte nul de nullité relative ?",
+      "choix": [
+        "La décision du tribunal de confirmer la nullité",
+        "L'acte par lequel la partie qui aurait pu invoquer la nullité y renonce et déclare vouloir maintenir le contrat",
+        "La signature d'un nouveau contrat identique",
+        "La ratification du contrat par un notaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité relative protège un intérêt particulier.",
+        "La personne protégée peut décider de ne pas l'invoquer.",
+        "La confirmation doit intervenir après la disparition de la cause de nullité."
+      ],
+      "explication": "La confirmation est l'acte par lequel la partie qui aurait pu invoquer la nullité relative y renonce et déclare vouloir être liée. Elle doit intervenir après la disparition de la cause de nullité. Elle peut être expresse ou tacite (exécution volontaire en connaissance de la cause de nullité)."
+    },
+    {
+      "question": "Dans quel cas la nullité peut-elle donner lieu à des dommages-intérêts en plus des restitutions ?",
+      "choix": [
+        "Dans tous les cas",
+        "Seulement quand le vice résulte d'une faute intentionnelle de l'autre partie : dol ou violence",
+        "Jamais : nullité et dommages-intérêts ne se cumulent pas",
+        "Seulement si le préjudice dépasse la valeur du contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'erreur spontanée sans faute ne donne pas lieu à dommages-intérêts.",
+        "Le dol et la violence impliquent une faute intentionnelle.",
+        "Nullité + restitutions + dommages-intérêts se cumulent en cas de dol ou violence."
+      ],
+      "explication": "Les dommages-intérêts s'ajoutent aux restitutions quand le vice du consentement résulte d'une faute de l'autre partie : dol ou violence. Dans ces cas, le cocontractant a commis une faute engageant sa responsabilité civile. L'erreur spontanée sans faute ne donne droit qu'aux restitutions."
+    },
+    {
+      "question": "Qu'est-ce qu'un contrat à titre gratuit ?",
+      "choix": [
+        "Un contrat pour lequel les formalités ne coûtent rien",
+        "Un contrat dans lequel l'une des parties s'engage sans recevoir de contrepartie économique",
+        "Un contrat dont la valeur est inférieure à un certain seuil",
+        "Un contrat conclu entre membres d'une même famille"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Gratuit s'oppose à onéreux.",
+        "La donation en est l'exemple classique.",
+        "Une seule partie s'enrichit sans contrepartie."
+      ],
+      "explication": "Un contrat à titre gratuit est un contrat dans lequel l'une des parties s'engage sans recevoir de contrepartie économique. La donation est l'exemple classique : le donateur cède un bien sans rien recevoir. À distinguer du contrat onéreux dans lequel chaque partie reçoit une contrepartie."
+    },
+    {
+      "question": "Vrai ou faux : l'offre de contracter peut être retirée à tout moment avant l'acceptation.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'offre lie son auteur pendant un certain temps.",
+        "Si l'offre est assortie d'un délai, l'offrant ne peut pas la rétracter avant son expiration.",
+        "Une rétractation fautive peut engager la responsabilité de l'offrant."
+      ],
+      "explication": "Faux. L'offre n'est pas librement révocable à tout moment. Si elle est assortie d'un délai, l'offrant ne peut pas la rétracter avant l'expiration du délai. Même sans délai précis, elle doit être maintenue pendant un délai raisonnable. Une rétractation prématurée et fautive peut engager la responsabilité de l'offrant."
+    },
+    {
+      "question": "Quelles sont les quatre conditions de validité d'un contrat ?",
+      "choix": [
+        "La forme écrite, le prix déterminé, la durée fixée, les signatures",
+        "Le consentement exempt de vice, la capacité des parties, un objet certain et licite, une cause licite",
+        "L'accord, la contrepartie, la légalité, la publicité",
+        "La volonté, la livraison, le paiement, le formalisme"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon présente quatre conditions essentielles.",
+        "Elles portent sur le consentement, les personnes, la prestation et la raison.",
+        "L'absence de l'une entraîne la nullité."
+      ],
+      "explication": "Les quatre conditions de validité sont : un consentement exempt de vice (pas d'erreur, dol ni violence), la capacité des parties (aptitude à contracter), un objet certain et licite (prestation déterminable, possible et dans le commerce) et une cause licite (raison conforme à la loi). L'absence de l'une entraîne la nullité — absolue ou relative selon la condition violée."
+    },
+    {
+      "question": "Que signifie l'anéantissement rétroactif du contrat ?",
+      "choix": [
+        "Le contrat cesse de produire ses effets pour l'avenir uniquement",
+        "Le contrat est censé n'avoir jamais existé : toutes les obligations sont effacées et les parties restituent ce qu'elles ont reçu",
+        "Seules les clauses illicites sont supprimées",
+        "Le contrat est maintenu mais les parties reçoivent une indemnité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rétroactif : qui remonte dans le passé.",
+        "Le contrat nul est traité comme s'il n'avait jamais été conclu.",
+        "Les prestations déjà exécutées doivent être restituées."
+      ],
+      "explication": "L'anéantissement rétroactif signifie que le contrat est traité comme n'ayant jamais existé depuis le début. Les obligations non encore exécutées n'ont plus à l'être. Celles déjà exécutées font l'objet de restitutions : le vendeur rend le prix, l'acheteur rend la chose. Les parties sont remises dans l'état antérieur à la conclusion."
+    },
+    {
+      "question": "Vrai ou faux : une offre adressée au public (affichage, vitrine) lie son auteur si elle est ferme et précise.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Un commerçant qui expose des marchandises avec leur prix fait une offre.",
+        "L'offre au public est ferme et précise si elle contient les éléments essentiels.",
+        "Le premier acceptant forme le contrat."
+      ],
+      "explication": "Vrai, si elle est ferme et précise. Une offre au public est une offre juridique valable si elle contient les éléments essentiels du contrat (chose et prix pour une vente). Un marchand qui expose un article avec son prix en fait une offre que tout client peut accepter. Le contrat se forme avec le premier acceptant."
+    },
+    {
+      "question": "Récapitulatif : Solofo signe un contrat d'achat d'un véhicule après avoir été menacé par le vendeur. Il découvre ensuite que le compteur était trafiqué et que le prix payé était deux fois la valeur réelle. Identifiez tous les vices invocables.",
+      "choix": [
+        "Seulement l'erreur : Solofo s'est trompé sur la valeur",
+        "Violence (menaces) ET dol (compteur trafiqué), potentiellement cumulables",
+        "Seulement le dol : la violence ne peut pas se cumuler avec un autre vice",
+        "Seulement la violence : le dol sur la valeur n'est pas un vice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Chaque vice peut être caractérisé indépendamment.",
+        "Les menaces détruisent la liberté du consentement : quel vice ?",
+        "Le compteur trafiqué est une manœuvre frauduleuse : quel vice ?"
+      ],
+      "explication": "Solofo peut invoquer deux vices. La violence : les menaces constituent une contrainte illégitime qui a détruit sa liberté de contracter. Le dol : le compteur trafiqué est une manœuvre frauduleuse qui a provoqué une erreur sur les qualités essentielles du véhicule — et permet en plus l'annulation pour l'erreur sur la valeur. Solofo peut obtenir la nullité, les restitutions ET des dommages-intérêts pour les fautes intentionnelles du vendeur."
+    },
+    {
+      "question": "Un contrat de bail est conclu pour un local commercial. Le locataire prévoit secrètement d'y exercer une activité illicite, sans en informer le bailleur. Le bail est-il nul ?",
+      "choix": [
+        "Oui toujours : l'usage illicite prévu vicie automatiquement la cause du bail",
+        "Non : si le motif illicite est inconnu du bailleur, le bail reste valable",
+        "Oui, mais seulement si l'activité illicite est effectivement exercée",
+        "Cela dépend de la nature de l'activité illicite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La cause subjective illicite ne vicie le contrat que si connue du cocontractant.",
+        "Si le bailleur ignorait tout, il est de bonne foi.",
+        "Comparez avec le cas où les deux parties savent."
+      ],
+      "explication": "Non. Si le motif illicite est purement interne au locataire et ignoré du bailleur, le bail reste valable. La cause subjective illicite ne vicie le contrat que si elle est connue du cocontractant ou commune aux deux parties. Le bailleur de bonne foi est protégé. C'est le locataire seul qui pourrait être poursuivi pour son activité illicite."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Nivo est propriétaire d'une maison à Antsiranana qu'il souhaite vendre. Au cours des négociations avec Hery, il lui assure que la toiture a été entièrement refaite l'année précédente et que la maison ne présente aucun problème d'infiltration. Hery signe un compromis de vente pour 45 millions d'ariary et verse un acompte de 5 millions. Trois semaines avant la signature chez le notaire, un expert mandaté par la banque de Hery découvre que la toiture date de 20 ans, est en mauvais état, et que des traces d'infiltration avaient été dissimulées par une couche de peinture fraîche. Nivo reconnaît avoir peint lui-même les murs juste avant les visites. Analysez la situation juridique de Hery et conseillez-le.",
+      "choix": [
+        "Hery doit exécuter la vente car il a signé le compromis",
+        "Hery peut demander la nullité pour dol, obtenir la restitution de son acompte et des dommages-intérêts",
+        "Hery peut seulement demander une réduction du prix",
+        "Hery n'a aucun recours car il aurait dû faire inspecter la maison avant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Nivo a fait une fausse déclaration sur l'état de la toiture.",
+        "Il a dissimulé les infiltrations sous une couche de peinture fraîche.",
+        "Quel vice du consentement caractérise la tromperie intentionnelle ?"
+      ],
+      "explication": "Analyse complète. Les faits constitutifs du dol. Nivo a commis un dol par deux procédés distincts. D'abord par mensonge : il a affirmé que la toiture avait été refaite l'année précédente alors qu'elle datait de 20 ans. Ensuite par manœuvre frauduleuse : il a peint les murs pour dissimuler les infiltrations. Ce n'est pas une simple omission mais un acte positif de dissimulation. Ces deux procédés caractérisent le dol au sens juridique. Le caractère déterminant du dol. L'état de la toiture et l'absence d'infiltration étaient des éléments essentiels pour Hery : une maison d'habitation dont l'étanchéité est compromise perd une qualité fondamentale. Sans ces fausses informations, Hery n'aurait pas signé au prix de 45 millions. Le dol est déterminant. Les droits de Hery. Hery peut demander la nullité du compromis pour dol (nullité relative) : le contrat annulé, Nivo devra restituer l'acompte de 5 millions. De plus, le dol étant une faute intentionnelle, Hery peut réclamer des dommages-intérêts pour l'ensemble du préjudice subi (frais d'expertise, perte de chance, frais engagés, préjudice moral). Nullité et dommages-intérêts se cumulent. Délai d'action. Hery dispose de 5 ans à compter de la découverte du dol (le jour de l'expertise bancaire). Conseil pratique. Hery doit immédiatement notifier par lettre recommandée sa découverte et sa décision de ne pas poursuivre la vente. Il doit conserver tous les éléments de preuve : rapport d'expertise, photos, aveux de Nivo. Il doit saisir le tribunal compétent pour obtenir la nullité, la restitution de l'acompte et des dommages-intérêts."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Vonjy, commerçant à Diego-Suarez, propose par écrit à Lanto de lui vendre son fonds de commerce pour 8 000 000 ariary, offre valable 30 jours. 15 jours après, Vonjy trouve un autre acheteur (Rabe) qui offre 10 000 000 ariary. Vonjy envoie à Lanto un courrier retirant l'offre, puis vend à Rabe. Deux jours plus tard, Lanto envoie une lettre acceptant l'offre à 8 000 000 ariary. Analysez les droits et obligations de chaque partie.",
+      "choix": [
+        "La vente à Rabe est valable car Vonjy avait retiré son offre avant que Lanto accepte",
+        "L'acceptation de Lanto est tardive car l'offre avait été retirée",
+        "Vonjy ne pouvait pas retirer son offre pendant le délai de 30 jours : la rétractation est fautive et Lanto peut obtenir l'exécution forcée ou des dommages-intérêts",
+        "Rabe est protégé car il a payé un meilleur prix"
+      ],
+      "reponse": 2,
+      "indices": [
+        "L'offre assortie d'un délai lie l'offrant pendant ce délai.",
+        "Vonjy avait fixé un délai de 30 jours — il ne peut pas se rétracter avant.",
+        "Que se passe-t-il quand l'offrant se rétracte fautivement ?"
+      ],
+      "explication": "Analyse complète. L'offre et son caractère irrévocable pendant le délai. Vonjy a émis une offre ferme et précise (fonds de commerce déterminé, prix de 8 millions) assortie d'un délai précis de 30 jours. En fixant ce délai, Vonjy s'est engagé à maintenir son offre pendant toute la durée. La rétractation fautive de Vonjy. En retirant son offre après 15 jours (alors qu'il restait 15 jours), Vonjy a violé son engagement de maintien. Cette rétractation est fautive. L'acceptation de Lanto. Lanto a accepté le 17ème jour (dans le délai de 30 jours), de manière pure et simple (mêmes conditions). La question est : l'acceptation peut-elle former le contrat malgré la rétractation fautive ? Les droits de Lanto. Deux analyses sont possibles. Si la rétractation fautive n'empêche pas la formation du contrat (position la plus favorable à Lanto) : l'acceptation dans le délai forme le contrat malgré la rétractation. Lanto peut demander l'exécution forcée de la vente à 8 millions. La vente à Rabe pourrait être inopposable à Lanto si Rabe n'était pas de bonne foi. Si la rétractation empêche la formation du contrat mais engage la responsabilité de Vonjy : Lanto peut obtenir des dommages-intérêts pour la perte d'une chance d'acquérir le fonds à 8 millions, la différence avec le prix du marché et les frais engagés. La situation de Rabe. Rabe est en position délicate si le contrat avec Lanto est considéré comme formé. S'il savait que Vonjy avait une offre en cours envers Lanto (mauvaise foi), la vente pourrait lui être inopposable. Conclusion pratique. Lanto doit agir rapidement en justice en établissant : l'offre assortie d'un délai de 30 jours (preuve écrite), la rétractation avant l'expiration du délai, son acceptation dans le délai. L'issue dépend de la conception retenue par le tribunal sur les effets de la rétractation fautive."
+    }
+  ]
+    }
