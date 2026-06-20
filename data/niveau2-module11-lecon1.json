@@ -1,0 +1,931 @@
+{
+  "titre": "Le fonds de commerce",
+  "module": "Module 11 — Le fonds de commerce",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "C'est quoi exactement un fonds de commerce ?",
+      "texte": "Imaginez une boulangerie à Analakely. Elle a un nom — « Mofo Mamy » — que tout le monde connaît dans le quartier. Elle a des clients fidèles qui viennent chaque matin. Elle a un four industriel, des étagères, des moules, du stock de farine. Elle a un bail sur le local qu'elle occupe depuis dix ans. Elle a peut-être une marque déposée sur son logo. Tout ça ensemble, c'est le fonds de commerce. Ce n'est pas l'immeuble dans lequel elle est installée — ça, c'est au bailleur. Ce n'est pas non plus le compte bancaire de la boulangère ou ses dettes. Le fonds de commerce, c'est précisément l'ensemble des moyens qui permettent à un commerçant d'attirer et de conserver sa clientèle. C'est la définition même que donne la loi malgache n°2003-038 du 3 septembre 2004 sur le fonds de commerce — le texte central en la matière à Madagascar, qui a abrogé et remplacé l'ancienne loi du 17 mars 1909. Cette loi considère la clientèle comme l'essence du fonds de commerce : sans clientèle, pas de fonds de commerce. Tout le reste — le matériel, le bail, la marque — n'existe que pour attirer et fidéliser cette clientèle.",
+      "definition": "Le fonds de commerce est l'ensemble des éléments mobiliers, corporels et incorporels, affectés à l'exploitation d'une activité commerciale, dont la finalité est d'attirer et de conserver une clientèle. Il est régi à Madagascar par la loi n°2003-038 du 3 septembre 2004, qui en constitue le texte central.",
+      "exemple": "Un restaurateur à Toamasina exploite son restaurant sous le nom « Laza Gasy ». Ses tables et ses cuisinières (éléments corporels), son nom commercial, son bail, sa clientèle régulière et son logo déposé (éléments incorporels) forment ensemble son fonds de commerce. Si quelqu'un lui achète le restaurant, il achète tout ça, pas juste les meubles."
+    },
+    {
+      "titre": "La clientèle : le cœur du fonds de commerce",
+      "texte": "La clientèle, c'est l'élément obligatoire du fonds de commerce. Sans clientèle, il n'y a pas de fonds de commerce — il n'y a qu'un local vide avec du matériel dedans. La loi malgache n°2003-038 le dit très clairement : le fonds de commerce comprend obligatoirement la clientèle. Mais de quoi parle-t-on exactement ? La clientèle désigne l'ensemble des personnes qui ont l'habitude de fréquenter un commerce pour y acheter des biens ou des services. Elle peut être personnelle — attachée au commerçant lui-même, à sa réputation, à son savoir-faire — ou réelle — attachée à l'emplacement du local, à l'enseigne visible depuis la rue, à la qualité du lieu. La distinction entre clientèle personnelle et clientèle réelle est importante en pratique : quand un fonds est vendu ou loué, la clientèle personnelle peut suivre le commerçant plutôt que l'acquéreur, surtout si le commerçant continue à exercer à proximité. C'est pourquoi les actes de cession de fonds de commerce prévoient souvent une clause de non-concurrence obligeant le vendeur à ne pas aller s'installer juste en face pour récupérer ses anciens clients. L'achalandage, lui, est distinct de la clientèle au sens strict : il désigne la clientèle de passage, celle qui entre par hasard, attirée par l'emplacement géographique du commerce ou par son enseigne visible depuis la rue. Mais en pratique, loi et jurisprudence traitent souvent ensemble clientèle et achalandage.",
+      "definition": "La clientèle est l'élément essentiel et obligatoire du fonds de commerce selon la loi malgache n°2003-038. Elle désigne l'ensemble des personnes qui fréquentent habituellement le commerce. Elle peut être personnelle (attachée au commerçant) ou réelle (attachée au lieu). L'achalandage désigne la clientèle de passage, attirée par l'emplacement.",
+      "exemple": "Un coiffeur très réputé à Antananarivo a une clientèle personnelle forte : ses clients viennent pour lui, pas pour son local. Si quelqu'un lui rachète son salon et qu'il va s'installer à deux rues de là, ses clients risquent de le suivre. C'est le risque de dispersion de la clientèle personnelle lors d'une cession — et c'est pour ça qu'une clause de non-concurrence s'impose dans ce type de vente."
+    },
+    {
+      "titre": "Le fonds commercial : les éléments incorporels obligatoires",
+      "texte": "La loi n°2003-038 distingue deux niveaux dans la composition du fonds de commerce. Le premier niveau, c'est le fonds commercial — l'âme du fonds — composé d'éléments incorporels qui sont présents par défaut dans toute cession, sauf clause contraire. Ces éléments obligatoires sont : la clientèle bien sûr, mais aussi l'enseigne ou le nom commercial, le droit au bail, et les licences d'exploitation. L'enseigne, c'est le signe distinctif visible apposé sur la façade de l'établissement — le logo peint sur le mur, l'écriteau lumineux au-dessus de la porte. Elle individualise géographiquement le local commercial. Le nom commercial, c'est le nom sous lequel le commerçant se fait connaître du public, qu'il soit différent de son nom civil ou identique à lui. Le droit au bail, c'est le droit qu'a le commerçant-locataire de continuer à occuper le local commercial selon les termes du bail conclu avec le propriétaire de l'immeuble — et notamment le droit de renouveler ce bail à son expiration, selon la réglementation des baux commerciaux à Madagascar. Les licences d'exploitation sont les autorisations administratives nécessaires à certaines activités : licence de débit de boissons, agrément sanitaire, autorisation d'exploiter une pharmacie, etc. Ces éléments constituent le noyau dur du fonds de commerce — ils sont transmis automatiquement avec lui en cas de cession.",
+      "definition": "Le fonds commercial désigne les éléments incorporels obligatoires qui composent le noyau dur du fonds de commerce selon la loi malgache n°2003-038 : la clientèle, l'enseigne ou le nom commercial, le droit au bail, et les licences d'exploitation. En cas de cession du fonds, ces éléments sont transmis automatiquement sauf disposition contraire expresse.",
+      "exemple": "Le propriétaire d'une épicerie bien connue à Mahajanga vend son fonds de commerce. L'acheteur récupère automatiquement : la clientèle fidèle, le nom commercial de l'épicerie, l'enseigne visible depuis la rue, le droit au bail sur le local commercial, et la licence de commerce alimentaire. Il n'a pas besoin de les lister expressément dans le contrat — ils passent avec le fonds."
+    },
+    {
+      "titre": "Les éléments corporels et incorporels optionnels",
+      "texte": "Au-delà du fonds commercial obligatoire, le fonds de commerce peut comprendre d'autres éléments, mais ceux-ci ne passent dans la cession que s'ils sont nommément désignés dans l'acte. La loi malgache liste ces éléments optionnels en deux grandes familles. Les éléments corporels (matériels, visibles, touchables) comprennent : les installations, les aménagements et agencements du local, le matériel professionnel, le mobilier commercial, et les marchandises en stock. Les éléments incorporels optionnels comprennent : les brevets d'invention, les marques de fabrique et de commerce, les dessins et modèles industriels, et plus généralement tout droit de propriété intellectuelle nécessaire à l'exploitation. Attention : les marchandises en stock ont une nature particulière. Elles ne font pas automatiquement partie du fonds commercial, mais elles s'y ajoutent souvent dans les cessions. En pratique, quand on vend un fonds de commerce avec les stocks, on établit toujours un prix distinct pour les éléments incorporels d'un côté, et pour les marchandises et le matériel de l'autre — c'est une exigence issue de la loi pour permettre au créancier inscrit d'exercer ses sûretés sur chaque catégorie.",
+      "definition": "Le fonds de commerce peut comprendre, à condition de les désigner expressément dans l'acte de cession : des éléments corporels (installations, matériel, mobilier, marchandises en stock) et des éléments incorporels optionnels (brevets, marques, dessins et modèles). Ces éléments ne se transmettent pas automatiquement — ils doivent être nommément listés.",
+      "exemple": "Un photographe professionnel vend son fonds de commerce à un successeur. Le contrat mentionne expressément : l'appareil photo numérique haut de gamme, les flashes et trépieds (matériel), le logiciel de retouche d'image avec sa licence (droit de propriété intellectuelle), et le stock de papier photo (marchandises). Sans cette liste, l'acheteur n'aurait récupéré que le nom commercial, la clientèle et le bail."
+    },
+    {
+      "titre": "Ce qui n'est PAS dans le fonds de commerce",
+      "texte": "Il est tout aussi important de savoir ce que le fonds de commerce n'inclut pas, car c'est une source fréquente de confusion. Le fonds de commerce n'inclut pas l'immeuble dans lequel il est exploité. Un commerçant locataire possède un droit au bail (élément incorporel du fonds), mais pas l'immeuble lui-même — qui appartient au bailleur. Si le commerçant est propriétaire des murs, l'immeuble reste une chose distincte du fonds. Le fonds de commerce n'inclut pas les créances que le commerçant détient sur ses clients (les sommes dues par les débiteurs) ni les dettes du commerçant envers ses fournisseurs ou créanciers. Quand on achète un fonds de commerce, on n'achète pas les dettes du vendeur — c'est une protection fondamentale pour l'acheteur. Le fonds n'inclut pas non plus les contrats de travail des salariés — bien que dans les faits, le droit du travail malgache impose souvent leur transfert automatique à l'acquéreur en cas de cession d'entreprise, protégeant ainsi les salariés. Enfin, le fonds n'inclut pas le droit de propriété sur l'immeuble ni les droits réels accessoires attachés à cet immeuble.",
+      "definition": "Le fonds de commerce n'inclut pas : l'immeuble dans lequel il est exploité (qui appartient au bailleur ou, s'il appartient au commerçant, reste distinct du fonds), les créances et les dettes du commerçant, ni les droits réels immobiliers. Ces éléments suivent leurs propres règles et ne sont pas transmis avec le fonds.",
+      "exemple": "Hery achète le fonds de commerce d'une pharmacie à Fianarantsoa. Il prend le nom commercial, la clientèle, le bail, les médicaments en stock, le matériel médical — mais il ne prend pas les 3 millions d'ariary que le pharmacien vendeur avait avancé à ses clients en crédit, ni les 800 000 ariary que le vendeur devait encore à son fournisseur. Ces créances et dettes restent dans le patrimoine du vendeur."
+    },
+    {
+      "titre": "L'exploitation directe ou par location-gérance",
+      "texte": "Un fonds de commerce peut être exploité de deux façons. La première, et la plus classique, est l'exploitation directe : le propriétaire du fonds l'exploite lui-même, soit en tant que commerçant individuel, soit à travers une société commerciale dont il est gérant ou associé. La seconde voie est la location-gérance, que la loi malgache n°2003-038 réglemente spécifiquement. La location-gérance est le contrat par lequel le propriétaire du fonds (le loueur) en concède l'exploitation à un gérant (le locataire-gérant), qui l'exploite à ses propres risques et en tire les bénéfices. Le locataire-gérant acquiert la qualité de commerçant : il est inscrit au registre du commerce, il est responsable des dettes nées de son exploitation, et il est soumis à toutes les obligations du commerçant. Ce contrat est utile dans plusieurs situations : un commerçant qui part en retraite mais ne veut pas vendre son fonds, un propriétaire malade ou absent, un héritier qui ne souhaite pas exploiter lui-même mais veut conserver le bien dans son patrimoine. La location-gérance n'est pas une sous-location du local — c'est la mise à disposition de l'ensemble du fonds de commerce, outil d'exploitation complet, contre paiement d'une redevance appelée loyer de gérance.",
+      "definition": "Le fonds de commerce peut être exploité directement (par le propriétaire lui-même ou par une société commerciale) ou par location-gérance : contrat par lequel le propriétaire du fonds en concède l'exploitation à un locataire-gérant qui l'exploite à ses risques, a la qualité de commerçant, et verse une redevance en contrepartie.",
+      "exemple": "Mialy hérite du salon de coiffure de sa mère mais ne souhaite pas couper les cheveux — ce n'est pas son métier. Elle conclut un contrat de location-gérance avec une coiffeuse professionnelle, Vonjy. Vonjy exploite le salon à ses risques, prend les bénéfices, paie les charges, et verse 500 000 ariary par mois à Mialy à titre de loyer de gérance. Mialy reste propriétaire du fonds."
+    },
+    {
+      "titre": "Les conditions strictes pour donner un fonds en location-gérance",
+      "texte": "On ne peut pas donner n'importe quel fonds en location-gérance à n'importe qui. La loi malgache impose des conditions précises au propriétaire qui veut louer son fonds. D'abord, ce propriétaire doit lui-même avoir été commerçant pendant au moins deux ans, ou avoir exercé des fonctions de gérant ou directeur commercial pendant une durée équivalente. Ensuite, il doit avoir exploité personnellement le fonds mis en gérance pendant au moins un an. Cette règle existe pour une raison simple : si le propriétaire n'a jamais vraiment exploité le fonds, il n'existe pas encore de clientèle réelle — on ne peut pas louer quelque chose qui n'existe pas. Le locataire-gérant doit aussi remplir des obligations de publicité : il doit publier le contrat de location-gérance dans un journal habilité à recevoir des annonces légales dans les quinze jours de sa signature. Il doit mentionner sa qualité de locataire-gérant sur tous ses documents commerciaux — bons de commande, factures, etc. — ainsi que son numéro d'immatriculation au RCS. Si ces conditions ne sont pas respectées, la loi prévoit des sanctions financières. Des dérogations à la durée d'exploitation préalable existent cependant : le Président du Tribunal de Commerce peut en dispenser un propriétaire qui justifie n'avoir pas pu exploiter son fonds personnellement pour des raisons légitimes.",
+      "definition": "Pour donner un fonds en location-gérance à Madagascar, le propriétaire doit : avoir exercé une activité commerciale pendant au moins deux ans et avoir personnellement exploité le fonds mis en gérance pendant au moins un an. Des obligations de publicité incombent au locataire-gérant (publication dans un journal légal, mentions sur les documents commerciaux). Des dérogations sont possibles par autorisation du Président du Tribunal de Commerce.",
+      "exemple": "Rakoto a acheté une épicerie en janvier 2022. En mars 2022, un ami lui propose de lui confier l'exploitation en location-gérance. Rakoto ne peut pas accepter : il n'a exploité le fonds que deux mois, et non un an comme l'exige la loi. Il devra attendre janvier 2023 pour pouvoir légalement consentir une location-gérance — à moins d'obtenir une dérogation judiciaire."
+    },
+    {
+      "titre": "Les risques de la location-gérance pour les créanciers",
+      "texte": "La location-gérance crée une situation particulière qui peut induire les créanciers en erreur : pendant toute la période de gérance, c'est le locataire-gérant qui exploite, engage des dettes, passe des commandes — mais c'est le nom du propriétaire du fonds qui peut être associé à l'établissement. La loi malgache protège les tiers à travers deux mécanismes essentiels. Le premier est la solidarité transitoire : jusqu'à ce que le contrat de location-gérance soit publié, le propriétaire du fonds reste solidairement responsable des dettes contractées par le locataire-gérant dans l'exploitation du fonds. Autrement dit, tant que les tiers n'ont pas été informés officiellement qu'il y a un locataire-gérant, c'est le propriétaire qui paie s'il y a un problème. C'est pourquoi la publication rapide est dans l'intérêt du propriétaire. Le second mécanisme est l'exigibilité anticipée des dettes à la fin du contrat : quand la location-gérance prend fin — au terme convenu ou de manière anticipée — toutes les dettes du locataire-gérant liées à l'exploitation du fonds deviennent immédiatement exigibles. Les créanciers peuvent exiger d'être payés tout de suite, sans attendre l'échéance normale de leurs créances.",
+      "definition": "La location-gérance comporte deux mécanismes de protection des créanciers prévus par la loi malgache n°2003-038 : la solidarité transitoire du propriétaire jusqu'à publication du contrat (article 9), et l'exigibilité immédiate de toutes les dettes du locataire-gérant à l'expiration du contrat (article 10).",
+      "exemple": "Vonjy, locataire-gérante d'une papeterie, commande pour 2 millions d'ariary de fournitures le 5 janvier — mais le contrat de location-gérance, signé le 2 janvier, n'a pas encore été publié. Si Vonjy ne paye pas ce fournisseur, le propriétaire du fonds sera solidairement tenu du paiement, car les tiers n'avaient pas encore été officiellement informés du changement de gestionnaire."
+    },
+    {
+      "titre": "La cession du fonds de commerce : vendre son fonds",
+      "texte": "La cession d'un fonds de commerce, c'est sa vente ou son transfert à un tiers. C'est l'un des actes les plus importants de la vie d'un commerçant, et c'est pour cela que la loi l'entoure de formalités rigoureuses. La cession peut prendre deux formes : la vente directe à un acquéreur, ou l'apport en société — c'est-à-dire le transfert du fonds à une société en échange de parts sociales ou d'actions. La cession peut être constatée par acte sous seing privé (un contrat entre les parties) ou par acte authentique (devant notaire). Dans les deux cas, elle doit comporter une série de mentions obligatoires listées à l'article 18 de la loi malgache. Ces mentions obligatoires sont nombreuses et précises : les identités complètes du vendeur et de l'acheteur, leur numéro d'immatriculation au RCS, l'origine de la propriété du fonds (d'où vient-il ?), l'état des privilèges et nantissements qui grèvent le fonds (y a-t-il des créanciers inscrits ?), les chiffres d'affaires des trois dernières années, les résultats d'exploitation de ces mêmes années, les informations sur le bail, le prix convenu, et la désignation précise des éléments cédés. Si des mentions obligatoires sont manquantes ou inexactes, l'acquéreur peut demander la nullité de la vente — mais à condition de prouver que cette omission l'a réellement lésé et qu'il en résulte un préjudice. L'action en nullité doit être intentée dans l'année qui suit la signature de l'acte.",
+      "definition": "La cession du fonds de commerce est sa vente à un tiers ou son apport en société. Elle est encadrée par des formalités strictes prévues par la loi malgache n°2003-038 : acte écrit, mentions obligatoires (identités, chiffre d'affaires, résultats, bail, prix), publicité au RCS et dans un journal légal. L'omission d'une mention obligatoire peut entraîner la nullité si l'acheteur démontre un préjudice réel. L'action en nullité se prescrit par un an.",
+      "exemple": "Tiana vend son fonds de commerce — une agence de voyage — à Lova. L'acte de cession oublie de mentionner qu'il existe un nantissement en cours au profit d'une banque qui avait prêté de l'argent à Tiana. Lova découvre ce nantissement six mois plus tard et prouve qu'il n'aurait pas acheté à ce prix s'il l'avait su. Il peut demander la nullité de la vente devant le tribunal."
+    },
+    {
+      "titre": "La publicité de la cession : informer les créanciers",
+      "texte": "La vente d'un fonds de commerce sans publicité, c'est comme vider son compte en banque en secret avant de partir à l'étranger : les créanciers du vendeur se retrouveraient sans garantie et sans information. C'est pourquoi la loi impose une publicité obligatoire, dont le but est précisément de permettre aux créanciers du vendeur de réagir avant que le prix ne soit encaissé par le vendeur. La publicité se fait en deux étapes. Première étape : dans les quinze jours de la date de l'acte de cession, l'acquéreur publie un avis dans un journal habilité à recevoir des annonces légales dans le lieu d'inscription du vendeur au RCS. Cet avis doit mentionner les informations essentielles : identités des parties, nature et siège du fonds, prix. Deuxième étape : un dépôt est effectué en deux copies certifiées conformes au registre du commerce et des sociétés. Ces formalités déclenchent un délai pendant lequel les créanciers du vendeur peuvent faire opposition au paiement du prix. Toute opposition valable bloque le prix entre les mains du séquestre désigné dans l'acte (généralement une banque). Le vendeur ne peut pas toucher son argent tant que les créanciers n'ont pas été désintéressés ou qu'une décision judiciaire n'a pas levé l'opposition.",
+      "definition": "La cession du fonds de commerce est soumise à une publicité obligatoire : publication d'un avis dans un journal légal dans les 15 jours, et dépôt de copies de l'acte au RCS. Cette publicité déclenche un délai pendant lequel les créanciers du vendeur peuvent former opposition au paiement du prix, bloquant ainsi les fonds entre les mains d'un séquestre jusqu'à leur désintéressement.",
+      "exemple": "La vente d'une boutique de vêtements à Antananarivo est publiée dans un journal légal. Un fournisseur créancier du vendeur voit la publication et forme opposition dans les délais. Le prix de vente de 15 millions d'ariary est bloqué sur un compte séquestre à la banque. Le vendeur ne peut pas l'utiliser tant que ce fournisseur n'a pas été remboursé — ou tant qu'un juge n'a pas décidé autrement."
+    },
+    {
+      "titre": "Le nantissement du fonds de commerce : mettre son fonds en garantie",
+      "texte": "Un commerçant qui a besoin d'un crédit peut utiliser son fonds de commerce comme garantie sans avoir à le vendre ni même à en abandonner l'exploitation. C'est l'objet du nantissement du fonds de commerce. Le nantissement est une sûreté mobilière sans dépossession : le débiteur reste en possession du fonds et continue à l'exploiter, mais le créancier (généralement une banque) obtient une inscription prioritaire sur ce fonds — si le débiteur ne rembourse pas, le créancier pourra faire vendre le fonds et se payer en priorité sur le prix. À Madagascar, le nantissement du fonds de commerce est régi par le chapitre IV de la loi n°2003-038. L'assiette du nantissement — c'est-à-dire les éléments sur lesquels il porte — est déterminée par la loi et le contrat. À défaut de désignation expresse, le nantissement ne porte que sur le noyau dur : l'enseigne et le nom commercial, le droit au bail, la clientèle et l'achalandage. Pour qu'il porte aussi sur le matériel, les brevets ou les marchandises, il faut les désigner expressément dans l'acte de nantissement. Attention : le nantissement ne peut jamais porter sur les marchandises en stock seules — elles sont exclues du nantissement régi par la loi sur le fonds de commerce. Le nantissement doit être constitué par écrit et inscrit au registre du commerce et des sociétés pour être opposable aux tiers.",
+      "definition": "Le nantissement du fonds de commerce est une sûreté mobilière sans dépossession par laquelle le commerçant donne son fonds en garantie d'un crédit sans cesser de l'exploiter. Il doit être constitué par écrit et inscrit au RCS. À défaut de désignation expresse, il porte uniquement sur le noyau dur : enseigne, nom commercial, droit au bail, clientèle et achalandage.",
+      "exemple": "Rivo veut emprunter 10 millions d'ariary à la BNI Madagascar pour développer son magasin de matériaux de construction. La banque accepte en échange d'un nantissement sur son fonds de commerce. L'acte de nantissement est signé, et la banque le fait inscrire au RCS dans les délais légaux. Rivo continue d'exploiter son magasin normalement — mais si un jour il ne rembourse plus, la banque peut faire vendre le fonds et récupérer sa créance en priorité sur le prix."
+    },
+    {
+      "titre": "Inscription et opposabilité du nantissement",
+      "texte": "L'inscription du nantissement au registre du commerce et des sociétés est une étape cruciale : c'est elle qui rend le nantissement opposable aux tiers. Tant que le nantissement n'est pas inscrit, il n'existe qu'entre le débiteur et le créancier nantisseur — les autres créanciers ne peuvent pas en tenir compte et peuvent prendre rang devant lui. L'inscription doit être faite dans un délai précis à compter de la date de l'acte constitutif de nantissement — le défaut d'inscription dans ce délai peut affecter l'efficacité du nantissement. L'inscription produit un effet de purge des créances : à partir de la date d'inscription, le rang du créancier nantisseur est établi et opposable à tous. Mais une inscription de nantissement peut également rendre exigibles les créances antérieures du débiteur : d'autres créanciers, voyant apparaître une nouvelle inscription sur le fonds, peuvent considérer que leur propre créance est en danger et demander son remboursement immédiat. Par ailleurs, tout acheteur éventuel du fonds peut consulter le RCS pour savoir si le fonds est grevé de nantissements avant d'acquérir — c'est une protection fondamentale pour l'acquéreur. La loi prévoit la possibilité de radiation de l'inscription une fois la dette remboursée, permettant au commerçant de récupérer un fonds « propre ».",
+      "definition": "L'inscription du nantissement au RCS est constitutive de son opposabilité aux tiers : avant inscription, le nantissement n'existe qu'entre les parties. L'inscription établit le rang du créancier nantisseur. Elle peut rendre exigibles les créances antérieures. Elle peut être radiée une fois la dette remboursée. Le RCS est consultable par tout acheteur potentiel du fonds.",
+      "exemple": "La BNI inscrit son nantissement sur le fonds de Rivo le 1er mars. Le 15 mars, un autre créancier veut aussi prendre un nantissement sur le même fonds. Ce second créancier ne pourra se payer sur le fonds qu'après la BNI — le rang est fixé par l'ordre des inscriptions au RCS. Si Rivo rembourse son prêt, la BNI fait radier son inscription, et le fonds est à nouveau libre de tout nantissement."
+    },
+    {
+      "titre": "Le privilège du vendeur : être payé en priorité",
+      "texte": "Quand un commerçant vend son fonds de commerce à crédit — c'est-à-dire que l'acheteur ne paie pas tout de suite mais s'engage à payer en plusieurs fois — le vendeur court un risque : et si l'acheteur revend le fonds ou fait faillite avant d'avoir payé ? Pour protéger le vendeur dans cette situation, la loi malgache consacre le privilège du vendeur du fonds de commerce. Ce privilège est une priorité de paiement sur le prix du fonds en cas de revente : si l'acheteur ne paye pas et que le fonds est revendu, le vendeur initial sera remboursé en priorité sur le prix de cette revente, avant les autres créanciers ordinaires. Pour bénéficier de ce privilège, le vendeur doit respecter des conditions de forme précises : la vente doit être constatée par acte écrit (authentique ou sous seing privé enregistré) et ce privilège doit être inscrit au RCS dans un délai strict — la quinzaine de la date de l'acte de vente. L'inscription dans les délais prime sur toute autre inscription prise ultérieurement. Le privilège du vendeur porte sur trois catégories distinctes, avec des règles de paiement propres à chacune : les éléments incorporels du fonds, le matériel, et les marchandises.",
+      "definition": "Le privilège du vendeur est une sûreté légale qui permet au vendeur d'un fonds de commerce à crédit d'être remboursé en priorité sur le prix du fonds en cas de revente par l'acheteur défaillant. Il naît de l'inscription au RCS dans les 15 jours de l'acte de vente. Il porte distinctement sur les éléments incorporels, le matériel, et les marchandises.",
+      "exemple": "Soa vend son fonds de commerce de librairie à Jean-Louis pour 20 millions d'ariary, payables en 24 mensualités. Soa inscrit son privilège de vendeur au RCS dans les quinze jours. Jean-Louis ne paye que six mensualités puis cesse ses remboursements et remet le fonds en vente. Soa pourra exiger d'être remboursée en priorité sur le prix de cette nouvelle vente, avant les autres créanciers de Jean-Louis."
+    },
+    {
+      "titre": "La procédure de surenchère : la concurrence entre acheteurs",
+      "texte": "Quand un fonds de commerce est vendu, la loi prévoit une procédure de surenchère destinée à s'assurer que le prix obtenu est le meilleur possible — protégeant ainsi les créanciers inscrits sur le fonds. Après la publication légale de la vente, toute personne intéressée peut proposer une surenchère, c'est-à-dire offrir un prix supérieur à celui convenu entre vendeur et acheteur, sous réserve d'une augmentation minimale fixée par la loi ou la pratique. Cette surenchère déclenche une mise aux enchères publique du fonds, à l'issue de laquelle le meilleur enchérisseur l'emporte. Ce mécanisme présente une certaine brutalité pour l'acquéreur initial, qui avait négocié le prix et peut se voir dépossédé par un tiers — mais il est justifié par l'intérêt des créanciers à obtenir le meilleur prix possible pour leur garantie. En pratique, la surenchère est assez rare, mais elle constitue une épée de Damoclès sur les transactions à prix bas, notamment dans les situations de difficultés financières du vendeur où il pourrait être tenté de vendre à un proche en dessous de la valeur réelle du fonds.",
+      "definition": "La procédure de surenchère permet à tout tiers intéressé, après publication de la cession d'un fonds de commerce, d'offrir un prix supérieur à celui convenu, déclenchant une mise aux enchères publique. Elle protège les créanciers inscrits en garantissant que le fonds ne soit pas vendu à un prix délibérément bas."
+    },
+    {
+      "titre": "Le Registre du Commerce et des Sociétés (RCS) : la clé de voûte du système",
+      "texte": "Le Registre du Commerce et des Sociétés, couramment appelé RCS, est le registre public tenu au greffe du tribunal de commerce compétent. Pour le fonds de commerce, il joue un rôle central à chaque étape de la vie de celui-ci. À la création : tout commerçant doit s'immatriculer au RCS, qui lui attribue un numéro d'immatriculation. Cette immatriculation est une condition de régularité de l'activité commerciale et une condition d'accès à certains mécanismes juridiques (comme la location-gérance ou la cession). Lors d'une cession : l'acte de cession est déposé au RCS et les modifications sont portées — le vendeur y est radié, l'acquéreur y est inscrit. En cas de nantissement : l'inscription au RCS est ce qui rend le nantissement opposable aux tiers et établit le rang du créancier. Lors d'une location-gérance : le propriétaire doit faire modifier son inscription pour indiquer la mise en gérance. Pour tout tiers qui veut contracter avec un commerçant, la consultation du RCS est l'outil fondamental pour vérifier l'existence et la situation juridique du fonds : qui en est propriétaire, est-il grevé de nantissements, a-t-il été cédé ? À Madagascar, le RNCS (Registre National du Commerce et des Sociétés) est géré par le Ministère de la Justice et accessible via le greffe des tribunaux de commerce.",
+      "definition": "Le RCS (Registre du Commerce et des Sociétés) est le registre public tenu au greffe du tribunal de commerce. Pour le fonds de commerce, il centralise les immatriculations des commerçants, les actes de cession, les inscriptions de nantissements et de privilèges, les mentions de mise en location-gérance. Sa consultation est essentielle pour tout acquéreur ou créancier potentiel.",
+      "exemple": "Avant d'acheter un fonds de commerce de quincaillerie à Toliara, un acheteur avisé consulte le RCS : il vérifie que le vendeur en est bien le propriétaire enregistré, qu'aucun nantissement n'est inscrit dessus, et qu'aucune procédure judiciaire ne le grève. S'il néglige cette consultation, il pourrait racheter un fonds dont la banque est prioritaire sur le prix — ce qui serait une très mauvaise surprise."
+    },
+    {
+      "titre": "Récapitulatif : ce qu'il faut absolument retenir",
+      "texte": "Le fonds de commerce est l'ensemble des moyens permettant d'attirer et de conserver une clientèle. Il est régi à Madagascar par la loi n°2003-038. La clientèle est son élément essentiel — sans elle, pas de fonds. Le fonds comprend obligatoirement (le fonds commercial) : clientèle, enseigne ou nom commercial, droit au bail, licences. Il peut comprendre optionnellement (avec désignation expresse) : installations, matériel, mobilier, marchandises, brevets, marques. Il n'inclut jamais : l'immeuble, les dettes, les créances. On peut exploiter un fonds directement ou par location-gérance — avec des conditions strictes (2 ans commerçant, 1 an d'exploitation du fonds) et des obligations de publicité. La cession du fonds impose des mentions obligatoires dans l'acte, une publicité légale, et une période d'opposition pour les créanciers. Le nantissement permet de donner le fonds en garantie sans le vendre, mais doit être inscrit au RCS pour être opposable. Le privilège du vendeur protège le vendeur à crédit. Le RCS est l'outil central de transparence et de sécurité juridique.",
+      "definition": "À retenir : fonds de commerce = ensemble des moyens d'attirer la clientèle. Loi applicable à Madagascar : n°2003-038. Éléments obligatoires : clientèle, enseigne, nom commercial, droit au bail, licences. Éléments optionnels (à désigner) : matériel, marchandises, brevets, marques. Exclusions : immeuble, dettes, créances. Deux modes d'exploitation : directe ou location-gérance. Cession = acte écrit + mentions obligatoires + publicité RCS + journal légal. Nantissement = sûreté sans dépossession, inscrite au RCS. Privilège vendeur = protection du vendeur à crédit, inscrit au RCS sous 15 jours."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quelle est la définition du fonds de commerce selon la loi malgache n°2003-038 ?",
+      "choix": [
+        "L'immeuble dans lequel s'exerce une activité commerciale",
+        "L'ensemble des éléments mobiliers, corporels et incorporels permettant au commerçant d'attirer et de conserver une clientèle",
+        "Le compte bancaire et les dettes d'un commerçant",
+        "Le contrat de bail commercial signé avec le propriétaire de l'immeuble"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce n'est pas l'immeuble — un commerçant locataire ne possède pas l'immeuble.",
+        "La finalité du fonds, selon la loi, tourne autour d'un seul objectif central.",
+        "Il regroupe des biens de deux natures : certains que l'on peut toucher, d'autres non."
+      ],
+      "explication": "Selon l'article premier de la loi malgache n°2003-038 sur le fonds de commerce, le fonds est constitué par un ensemble de moyens qui permettent au commerçant d'attirer et de conserver une clientèle. Il regroupe différents éléments mobiliers, corporels et incorporels. L'immeuble, les dettes et les créances n'en font pas partie."
+    },
+    {
+      "question": "Quel est l'élément absolument obligatoire du fonds de commerce selon la loi malgache ?",
+      "choix": [
+        "Le matériel professionnel",
+        "Le bail commercial",
+        "La clientèle",
+        "Les marchandises en stock"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Sans cet élément, il n'y a pas de fonds de commerce — juste des biens dispersés.",
+        "La loi dit qu'il comprend obligatoirement cet élément.",
+        "C'est l'essence même du fonds : ce pour quoi tout le reste existe."
+      ],
+      "explication": "La loi malgache n°2003-038 est formelle : le fonds de commerce comprend obligatoirement la clientèle. Sans clientèle, il n'existe pas de fonds de commerce au sens juridique. Tout le reste — matériel, bail, enseigne — n'existe que pour attirer et fidéliser cette clientèle."
+    },
+    {
+      "question": "Quels sont les éléments qui font partie du 'fonds commercial' transmis automatiquement lors d'une cession, selon la loi malgache n°2003-038 ?",
+      "choix": [
+        "Le matériel, les marchandises et les dettes du commerçant",
+        "La clientèle, l'enseigne ou le nom commercial, le droit au bail, et les licences d'exploitation",
+        "L'immeuble, le bail et le stock de marchandises",
+        "Les brevets d'invention, les marques et les installations"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces éléments passent automatiquement dans la cession, sauf clause contraire.",
+        "Ils sont tous de nature incorporelle — on ne peut pas les toucher physiquement.",
+        "L'un d'eux est le droit d'occupation du local commercial, un autre le nom de l'entreprise."
+      ],
+      "explication": "L'article premier de la loi malgache n°2003-038 prévoit que le fonds commercial comprend obligatoirement la clientèle et, en l'absence de disposition contraire, l'enseigne ou le nom commercial, le droit au bail et les licences d'exploitation. Ces éléments sont transmis automatiquement lors d'une cession sans avoir besoin d'être désignés expressément."
+    },
+    {
+      "question": "Pourquoi dit-on que les éléments corporels optionnels (matériel, marchandises) doivent être 'nommément désignés' dans l'acte de cession ?",
+      "choix": [
+        "Parce qu'ils sont inclus par défaut et qu'il faut les exclure si on ne veut pas les vendre",
+        "Parce qu'ils ne passent pas automatiquement avec le fonds : sans désignation expresse, ils restent chez le vendeur",
+        "Parce que la loi interdit de les vendre en même temps que le fonds commercial",
+        "Parce qu'ils appartiennent toujours au propriétaire de l'immeuble"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Contrairement aux éléments obligatoires, ceux-ci ne se transfèrent pas automatiquement.",
+        "Si l'acte ne les mentionne pas, l'acheteur ne les obtient pas.",
+        "La règle protège le vendeur qui pourrait vouloir garder son matériel pour une autre activité."
+      ],
+      "explication": "Selon la loi malgache n°2003-038, les éléments comme les installations, le matériel, le mobilier et les marchandises ne font partie du fonds cédé que s'ils sont nommément désignés dans l'acte de cession. Sans cette désignation expresse, ils restent dans le patrimoine du vendeur et ne sont pas transférés à l'acquéreur."
+    },
+    {
+      "question": "Le fonds de commerce inclut-il les dettes du commerçant vendeur ?",
+      "choix": [
+        "Oui, les dettes font toujours partie du fonds et passent automatiquement à l'acquéreur",
+        "Non, les dettes ne font pas partie du fonds de commerce et restent dans le patrimoine du vendeur",
+        "Oui, mais seulement les dettes de moins d'un an",
+        "Non, sauf si le contrat de vente le prévoit expressément et que le tribunal y consent"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acquéreur n'achète pas les problèmes du vendeur.",
+        "Les dettes relèvent du patrimoine personnel du commerçant, pas de son fonds.",
+        "C'est l'une des protections fondamentales de l'acheteur d'un fonds de commerce."
+      ],
+      "explication": "Le fonds de commerce n'inclut pas les dettes du commerçant vendeur. Celles-ci restent dans son patrimoine personnel. L'acquéreur du fonds n'est pas tenu des dettes du vendeur sauf s'il les reprend expressément par contrat — ce qui est rare et nécessite un accord exprès."
+    },
+    {
+      "question": "L'immeuble dans lequel s'exploite le fonds de commerce fait-il partie du fonds ?",
+      "choix": [
+        "Oui, l'immeuble est l'élément principal du fonds de commerce",
+        "Non, l'immeuble n'est jamais inclus dans le fonds ; ce qui entre dans le fonds, c'est le droit au bail",
+        "Oui, si le commerçant est propriétaire de l'immeuble",
+        "Cela dépend de la décision du tribunal au moment de la cession"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un commerçant locataire ne peut pas vendre ce qu'il ne possède pas.",
+        "Ce que le commerçant possède sur le local, c'est un droit d'occupation.",
+        "L'immeuble relève des règles de l'immobilier, pas du droit commercial."
+      ],
+      "explication": "L'immeuble n'est jamais inclus dans le fonds de commerce. Ce qui entre dans le fonds, c'est le droit au bail — le droit d'occuper le local commercial et d'en demander le renouvellement. L'immeuble lui-même appartient au bailleur (propriétaire des murs) et reste soumis aux règles du droit immobilier."
+    },
+    {
+      "question": "Quelle est la différence entre la clientèle personnelle et la clientèle réelle d'un fonds de commerce ?",
+      "choix": [
+        "La clientèle personnelle est celle qui paie en espèces, la réelle est celle qui paie par virement",
+        "La clientèle personnelle est attachée au commerçant lui-même, la clientèle réelle est attachée à l'emplacement ou à l'enseigne du local",
+        "La clientèle personnelle ne peut jamais être cédée, la réelle peut l'être",
+        "Il n'existe aucune distinction juridique entre les deux types de clientèle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pensez à un médecin ou à un coiffeur très réputé : ses patients ou clients viennent pour lui.",
+        "Pensez à un supermarché en bord de route : les clients entrent en grande partie grâce à l'emplacement.",
+        "Cette distinction explique pourquoi une clause de non-concurrence est souvent nécessaire lors d'une cession."
+      ],
+      "explication": "La clientèle personnelle est celle attachée à la réputation ou au savoir-faire du commerçant lui-même : si celui-ci part, les clients risquent de le suivre. La clientèle réelle est celle attachée à l'emplacement géographique du local ou à l'enseigne visible depuis la rue : elle reste avec le fonds même si le commerçant change. Cette distinction justifie les clauses de non-concurrence dans les actes de cession."
+    },
+    {
+      "question": "Qu'est-ce que la location-gérance d'un fonds de commerce ?",
+      "choix": [
+        "La location du local commercial à un autre commerçant",
+        "Le contrat par lequel le propriétaire du fonds concède son exploitation à un gérant qui l'exploite à ses risques et en tire les bénéfices",
+        "La vente progressive du fonds en plusieurs tranches",
+        "La mise sous séquestre du fonds par décision de justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le propriétaire reste propriétaire — il ne vend pas.",
+        "C'est le locataire-gérant qui exploite, prend les risques et les bénéfices.",
+        "Le locataire-gérant acquiert lui-même la qualité de commerçant."
+      ],
+      "explication": "La location-gérance est le contrat par lequel le propriétaire d'un fonds de commerce en concède l'exploitation à un gérant qui l'exploite à ses propres risques et périls, en verse une redevance et acquiert la qualité de commerçant. Le propriétaire reste titulaire du fonds mais cesse d'en assurer l'exploitation personnelle."
+    },
+    {
+      "question": "Pendant combien de temps un propriétaire de fonds doit-il avoir été commerçant pour pouvoir donner son fonds en location-gérance à Madagascar ?",
+      "choix": [
+        "Au moins six mois",
+        "Au moins deux ans",
+        "Au moins cinq ans",
+        "Aucune durée minimale n'est requise"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi impose une durée minimale pour s'assurer que la clientèle est réelle.",
+        "Un propriétaire qui n'a jamais vraiment exercé ne peut pas louer un fonds qui n'existe pas encore.",
+        "La loi n°2003-038 fixe cette durée à l'article 5."
+      ],
+      "explication": "L'article 5 de la loi malgache n°2003-038 impose que le propriétaire qui concède une location-gérance ait été commerçant pendant au moins deux ans ou ait exercé des fonctions de gérant ou directeur commercial pendant une durée équivalente. Cette condition garantit que le fonds a une clientèle réelle avant d'être mis en gérance."
+    },
+    {
+      "question": "En plus des deux ans d'activité commerciale, quelle autre condition de durée la loi malgache impose-t-elle pour la location-gérance ?",
+      "choix": [
+        "Avoir détenu le fonds pendant au moins cinq ans avant de le louer",
+        "Avoir exploité personnellement le fonds mis en gérance pendant au moins un an",
+        "Avoir obtenu l'accord écrit de tous ses créanciers",
+        "Avoir publié une annonce dans deux journaux légaux différents"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette condition porte spécifiquement sur le fonds qui sera mis en gérance.",
+        "Elle garantit que ce fonds précis a déjà une clientèle constituée.",
+        "L'article 5 de la loi n°2003-038 précise les deux conditions cumulativement."
+      ],
+      "explication": "L'article 5 de la loi n°2003-038 exige deux conditions cumulatives : avoir été commerçant au moins deux ans ET avoir exploité personnellement le fonds mis en gérance pendant au moins un an. Cette seconde condition s'assure que la clientèle attachée à ce fonds précis existe réellement avant d'être confiée à un locataire-gérant."
+    },
+    {
+      "question": "Que doit publier le locataire-gérant dans les 15 jours de la signature du contrat de location-gérance ?",
+      "choix": [
+        "Une annonce dans deux quotidiens nationaux et une déclaration fiscale",
+        "Un extrait du contrat dans un journal habilité à recevoir les annonces légales",
+        "Une déclaration d'immatriculation dans tous les tribunaux de commerce de Madagascar",
+        "La liste complète de ses actifs personnels à la disposition des créanciers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette publicité informe les tiers du changement de gestionnaire du fonds.",
+        "Elle se fait dans un journal légal, dans la quinzaine de la signature.",
+        "Son absence a des conséquences sur la responsabilité du propriétaire du fonds."
+      ],
+      "explication": "L'article 3 de la loi n°2003-038 prévoit que tout contrat de location-gérance doit être publié sous forme d'extrait dans un journal habilité à recevoir les annonces légales dans les quinze jours de sa date. Cette publicité est essentielle car elle fait courir le délai au-delà duquel le propriétaire n'est plus solidairement responsable des dettes du locataire-gérant."
+    },
+    {
+      "question": "Qu'arrive-t-il si le contrat de location-gérance n'est pas publié avant que le locataire-gérant ne contracte des dettes ?",
+      "choix": [
+        "Le contrat de location-gérance est automatiquement annulé",
+        "Le propriétaire du fonds est solidairement responsable de ces dettes avec le locataire-gérant",
+        "Les dettes sont automatiquement effacées faute de publication",
+        "Le locataire-gérant perd sa qualité de commerçant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'absence de publication empêche les tiers de savoir qu'il y a un locataire-gérant.",
+        "Si les tiers l'ignorent, ils peuvent légitimement penser contracter avec le propriétaire.",
+        "La loi protège ces tiers de bonne foi en maintenant une responsabilité solidaire."
+      ],
+      "explication": "L'article 9 de la loi n°2003-038 prévoit que jusqu'à la publication du contrat de location-gérance, le propriétaire du fonds est solidairement responsable avec le locataire-gérant des dettes contractées par celui-ci à l'occasion de l'exploitation du fonds. Cette solidarité cesse dès que la publication est effectuée."
+    },
+    {
+      "question": "Que se passe-t-il pour les dettes du locataire-gérant à l'expiration du contrat de location-gérance ?",
+      "choix": [
+        "Elles sont effacées automatiquement si le contrat s'est bien déroulé",
+        "Elles deviennent immédiatement exigibles, même si leur terme normal n'est pas encore arrivé",
+        "Elles passent au propriétaire du fonds qui les rembourse progressivement",
+        "Elles restent exigibles aux échéances normales prévues dans les contrats"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'expiration du contrat crée une situation d'urgence pour les créanciers.",
+        "Sans cette règle, les créanciers risqueraient que le locataire-gérant disparaisse sans payer.",
+        "L'article 10 de la loi n°2003-038 prévoit ce mécanisme protecteur."
+      ],
+      "explication": "L'article 10 de la loi n°2003-038 dispose que l'expiration du contrat de location-gérance — à son terme normal ou anticipé — rend immédiatement exigibles toutes les dettes afférentes à l'exploitation du fonds contractées par le locataire-gérant pendant la gérance. Les créanciers peuvent ainsi récupérer leur dû avant que le locataire-gérant ne disparaisse ou ne soit insolvable."
+    },
+    {
+      "question": "Sous quelle forme peut être réalisée la vente d'un fonds de commerce à Madagascar ?",
+      "choix": [
+        "Uniquement par acte authentique devant notaire",
+        "Par acte sous seing privé ou par acte authentique ou authentifié",
+        "Uniquement par acte sous seing privé enregistré au greffe",
+        "Par simple accord oral, à condition qu'il y ait deux témoins"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi n°2003-038 offre deux options principales pour la forme de l'acte.",
+        "L'une est plus formelle (devant un officier public), l'autre plus simple.",
+        "Dans les deux cas, l'acte écrit est obligatoire — l'oral ne suffit pas."
+      ],
+      "explication": "L'article 13 de la loi malgache n°2003-038 dispose que la vente d'un fonds de commerce peut être réalisée soit par acte sous seing privé (entre les parties), soit par acte authentique ou authentifié (devant un officier public). Dans tous les cas, un acte écrit est indispensable — il ne peut y avoir de cession de fonds par simple accord oral."
+    },
+    {
+      "question": "Dans quel délai l'acquéreur d'un fonds de commerce doit-il publier l'avis de cession dans un journal légal ?",
+      "choix": [
+        "Dans les 8 jours de la date de l'acte",
+        "Dans les 15 jours de la date de l'acte",
+        "Dans les 30 jours de la date de l'acte",
+        "Dans les 3 mois de la date de l'acte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai est fixé par l'article 15 de la loi n°2003-038.",
+        "Il est court pour permettre aux créanciers du vendeur de réagir rapidement.",
+        "Le délai est de quinzaine — un terme qui signifie deux semaines."
+      ],
+      "explication": "L'article 15 de la loi malgache n°2003-038 prévoit que l'avis de cession du fonds de commerce doit être publié dans un journal légal dans un délai de quinze jours francs à compter de la date de l'acte de cession. Cette publication déclenche le délai pendant lequel les créanciers du vendeur peuvent former opposition au paiement du prix."
+    },
+    {
+      "question": "Qui doit effectuer la publication de l'avis de cession dans le journal légal ?",
+      "choix": [
+        "Le vendeur, à titre d'obligation personnelle",
+        "L'acquéreur (l'acheteur du fonds)",
+        "Le notaire rédacteur de l'acte, de manière obligatoire",
+        "Le greffe du tribunal de commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 15 de la loi n°2003-038 désigne précisément qui doit accomplir cette formalité.",
+        "C'est celui qui bénéficie de la cession qui en a la charge.",
+        "S'il tarde, c'est lui qui risque les conséquences du défaut de publicité."
+      ],
+      "explication": "L'article 15 de la loi n°2003-038 met la charge de la publication à la diligence de l'acquéreur. C'est à l'acheteur du fonds de faire publier l'avis dans le journal légal dans les 15 jours. Cette règle est logique : c'est l'acquéreur qui a intérêt à régulariser rapidement sa situation vis-à-vis des tiers."
+    },
+    {
+      "question": "Quelles sont les mentions obligatoires d'un acte de cession de fonds de commerce selon l'article 18 de la loi malgache ?",
+      "choix": [
+        "Uniquement les identités des parties et le prix",
+        "Les identités des parties, leurs numéros RCS, l'origine de propriété, les nantissements existants, les chiffres d'affaires des 3 dernières années, les résultats d'exploitation, les informations sur le bail, le prix, la désignation des éléments cédés, et le séquestre",
+        "Uniquement le prix et la désignation des éléments cédés",
+        "Les identités des parties, le prix et la liste des salariés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi impose une liste très détaillée pour protéger l'acheteur contre les mauvaises surprises.",
+        "L'une des mentions porte sur les garanties qui pèsent déjà sur le fonds.",
+        "Une autre mention porte sur les performances commerciales passées du fonds."
+      ],
+      "explication": "L'article 18 de la loi n°2003-038 impose de nombreuses mentions obligatoires dans l'acte de cession : identités complètes du vendeur et de l'acheteur, numéros d'immatriculation RCS, origine de la propriété du fonds, état des nantissements et privilèges existants, chiffres d'affaires des trois dernières années, résultats d'exploitation correspondants, informations sur le bail (durée, bailleur), prix convenu, désignation des éléments cédés, et identité du séquestre bancaire si la vente est sous seing privé."
+    },
+    {
+      "question": "Quelle est la sanction de l'omission d'une mention obligatoire dans l'acte de cession d'un fonds de commerce ?",
+      "choix": [
+        "La nullité automatique et immédiate de la vente, sans condition",
+        "La nullité relative à la demande de l'acquéreur, s'il prouve que l'omission a substantiellement affecté la consistance du fonds et lui a causé un préjudice, dans le délai d'un an",
+        "Une simple amende administrative sans effet sur la validité de la vente",
+        "La résiliation automatique du bail commercial attaché au fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nullité n'est pas automatique — elle suppose une demande et une preuve.",
+        "L'acquéreur doit démontrer qu'il a vraiment été lésé par cette omission.",
+        "Un délai strict d'un an s'applique à cette action en nullité."
+      ],
+      "explication": "L'article 19 de la loi n°2003-038 prévoit que l'omission ou l'inexactitude d'une mention obligatoire peut entraîner la nullité de la vente, mais seulement si l'acquéreur le demande et prouve que cette omission a substantiellement affecté la consistance du fonds cédé et lui a causé un préjudice. Cette action en nullité doit être formée dans le délai d'un an à compter de la date de l'acte."
+    },
+    {
+      "question": "Quel est le rôle du séquestre bancaire prévu dans l'acte de cession d'un fonds de commerce ?",
+      "choix": [
+        "Il garantit le paiement du loyer du bail commercial",
+        "Il conserve le prix de vente et le protège des oppositions des créanciers du vendeur, jusqu'à ce que ceux-ci soient désintéressés ou qu'un juge lève les oppositions",
+        "Il certifie l'authenticité de l'acte de cession",
+        "Il assure le paiement des salaires des employés pendant la transition"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le séquestre bloque le prix pendant la période d'opposition.",
+        "Les créanciers du vendeur ne peuvent pas saisir le prix tant qu'il est sous séquestre.",
+        "Sans séquestre, le vendeur pourrait toucher le prix et disparaître avant que ses créanciers le retrouvent."
+      ],
+      "explication": "Le séquestre bancaire est l'établissement bancaire désigné dans l'acte de cession pour conserver le prix de vente pendant le délai d'opposition. Les créanciers du vendeur qui forment opposition bloquent ce prix, que le vendeur ne peut pas toucher tant que ses dettes ne sont pas réglées ou qu'une décision judiciaire ne lève l'opposition. C'est une garantie fondamentale pour les créanciers du vendeur."
+    },
+    {
+      "question": "Qu'est-ce que le nantissement d'un fonds de commerce ?",
+      "choix": [
+        "La vente du fonds de commerce avec paiement échelonné",
+        "Une sûreté mobilière sans dépossession qui permet au commerçant d'affecter son fonds en garantie d'un crédit tout en continuant à l'exploiter",
+        "La location du fonds de commerce à un tiers gérant",
+        "L'hypothèque portant sur l'immeuble dans lequel s'exploite le fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le commerçant reste en possession du fonds et continue à l'exploiter — il ne le vend pas.",
+        "C'est une garantie donnée à un créancier, généralement une banque.",
+        "Sans dépossession signifie sans avoir à remettre le fonds au créancier."
+      ],
+      "explication": "Le nantissement du fonds de commerce est une sûreté mobilière sans dépossession : le débiteur reste en possession du fonds et continue à l'exploiter normalement, mais le créancier (généralement une banque) obtient une inscription prioritaire sur ce fonds. Si le débiteur ne rembourse pas, le créancier peut faire vendre le fonds et se payer sur le prix en priorité."
+    },
+    {
+      "question": "Sur quels éléments porte le nantissement d'un fonds de commerce en l'absence de désignation expresse dans l'acte ?",
+      "choix": [
+        "Sur tous les éléments du fonds, y compris le matériel et les marchandises",
+        "Uniquement sur l'enseigne et le nom commercial, le droit au bail, la clientèle et l'achalandage",
+        "Uniquement sur les marchandises en stock et le matériel",
+        "Sur les brevets et les marques seulement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En l'absence de désignation précise, la loi fixe une assiette par défaut.",
+        "Cette assiette par défaut correspond au noyau dur incorporel du fonds.",
+        "Le matériel et les marchandises nécessitent une désignation expresse pour entrer dans l'assiette."
+      ],
+      "explication": "En l'absence de désignation expresse et précise dans l'acte de nantissement, ce dernier ne porte que sur l'enseigne et le nom commercial, le droit au bail, la clientèle et l'achalandage. Pour que le nantissement porte aussi sur le matériel, les brevets ou d'autres éléments, ils doivent être nommément désignés dans l'acte constitutif."
+    },
+    {
+      "question": "Pourquoi l'inscription du nantissement au RCS est-elle indispensable ?",
+      "choix": [
+        "Elle crée le nantissement entre les parties — sans elle, le contrat n'existe pas",
+        "Elle rend le nantissement opposable aux tiers et établit le rang du créancier nantisseur par rapport aux autres créanciers",
+        "Elle permet au commerçant de continuer à exploiter son fonds pendant la durée du nantissement",
+        "Elle déclenche automatiquement la vente aux enchères du fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Entre les parties, le contrat de nantissement suffit. C'est vis-à-vis des tiers que l'inscription change tout.",
+        "L'ordre d'inscription au RCS détermine qui est payé en premier en cas de vente.",
+        "Sans inscription, un autre créancier inscrit plus tard sera quand même payé avant."
+      ],
+      "explication": "L'inscription du nantissement au RCS est ce qui rend le nantissement opposable aux tiers. Sans inscription, le nantissement n'existe qu'entre le débiteur et le créancier nantisseur. L'inscription établit également le rang du créancier : en cas de vente forcée du fonds, les créanciers inscrits sont payés selon l'ordre chronologique de leurs inscriptions."
+    },
+    {
+      "question": "Qu'est-ce que le privilège du vendeur d'un fonds de commerce ?",
+      "choix": [
+        "Le droit du vendeur de racheter son fonds à tout moment, même après la cession",
+        "Une priorité de paiement sur le prix du fonds en cas de revente ou de réalisation, protégeant le vendeur qui a consenti un paiement à crédit",
+        "L'exonération du vendeur de toute garantie après la cession",
+        "Un avantage fiscal accordé au vendeur lors de la déclaration de plus-value"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mécanisme protège le vendeur qui n'a pas encore été payé intégralement.",
+        "Si l'acheteur ne paie pas et que le fonds est revendu, le vendeur est remboursé en premier.",
+        "Il doit être inscrit au RCS pour être efficace."
+      ],
+      "explication": "Le privilège du vendeur est une sûreté légale qui permet au vendeur d'un fonds de commerce à crédit d'être remboursé en priorité sur le prix du fonds en cas de revente par l'acheteur défaillant. Il naît de l'inscription au RCS dans les 15 jours de la date de l'acte de vente et prime toute inscription postérieure."
+    },
+    {
+      "question": "Dans quel délai le vendeur d'un fonds de commerce doit-il inscrire son privilège au RCS pour en bénéficier ?",
+      "choix": [
+        "Dans les 8 jours de la date de l'acte de vente",
+        "Dans les 15 jours de la date de l'acte de vente",
+        "Dans les 30 jours de la date de l'acte de vente",
+        "Dans les 3 mois de la date de l'acte de vente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai est fixé par la loi et est très court — la loi exige réactivité et vigilance.",
+        "L'inscription dans ce délai lui assure la priorité sur toute inscription postérieure.",
+        "La quinzaine est le délai classique en matière de fonds de commerce."
+      ],
+      "explication": "Le privilège du vendeur doit être inscrit au RCS dans la quinzaine (15 jours) de la date de l'acte de vente pour être pleinement efficace. Une inscription dans ce délai prime sur toute autre inscription prise dans le même délai du chef de l'acquéreur et est opposable à la faillite ou à la liquidation de celui-ci."
+    },
+    {
+      "question": "Qu'est-ce que le RCS (Registre du Commerce et des Sociétés) et quel est son rôle pour le fonds de commerce ?",
+      "choix": [
+        "Un registre fiscal géré par le Ministère des Finances pour recenser les contribuables",
+        "Un registre public tenu au greffe du tribunal de commerce qui centralise les immatriculations, cessions, nantissements et autres actes liés au fonds de commerce, garantissant la transparence pour les tiers",
+        "Un registre des salariés géré par l'INSTAT malgache",
+        "Un registre des propriétaires fonciers tenu par le Ministère des Domaines"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce registre est tenu au greffe du tribunal de commerce.",
+        "Il est consultable par toute personne souhaitant contracter avec un commerçant.",
+        "Il centralise toutes les informations sur la vie juridique du fonds : création, cession, nantissement."
+      ],
+      "explication": "Le RCS est le registre public tenu au greffe du tribunal de commerce. Il centralise les immatriculations des commerçants, les dépôts d'actes de cession, les inscriptions de nantissements et de privilèges du vendeur, et les mentions modificatives (mise en location-gérance, radiation). Il garantit la transparence juridique pour tout tiers souhaitant s'informer sur un fonds de commerce."
+    },
+    {
+      "question": "Pourquoi un acquéreur potentiel doit-il consulter le RCS avant d'acheter un fonds de commerce ?",
+      "choix": [
+        "Pour vérifier que le vendeur est bien inscrit à la chambre de commerce",
+        "Pour s'assurer que le vendeur est bien le propriétaire légal du fonds, qu'aucun nantissement ou privilège n'est inscrit, et qu'aucune procédure judiciaire ne le grève",
+        "Pour obtenir l'autorisation obligatoire du tribunal avant de procéder à l'achat",
+        "Pour enregistrer à l'avance son droit de préemption sur le fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Sans cette vérification, l'acheteur peut se retrouver avec des surprises très coûteuses.",
+        "Un nantissement inscrit au RCS peut réduire considérablement la valeur nette du fonds.",
+        "Le RCS est consultable par n'importe qui — c'est précisément pour ça qu'il existe."
+      ],
+      "explication": "Avant d'acheter un fonds de commerce, un acquéreur prudent consulte le RCS pour vérifier que le vendeur est bien le propriétaire légal enregistré, qu'aucun nantissement ou privilège du vendeur antérieur n'est inscrit (ce qui réduirait la valeur nette du fonds), et qu'aucune procédure collective (faillite, liquidation) ne l'affecte. Négliger cette consultation peut mener à de très mauvaises surprises."
+    },
+    {
+      "question": "La loi malgache n°2003-038 permet-elle de donner en nantissement les marchandises en stock seules ?",
+      "choix": [
+        "Oui, les marchandises peuvent faire l'objet d'un nantissement seules selon cette loi",
+        "Non, les marchandises sont exclues du nantissement régi par la loi sur le fonds de commerce",
+        "Oui, mais seulement si leur valeur dépasse 5 millions d'ariary",
+        "Non, sauf autorisation préalable du Ministre du Commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les marchandises ont une valeur fluctuante qui les rend inadaptées comme assiette de nantissement.",
+        "La loi sur le fonds de commerce les exclut expressément du nantissement.",
+        "D'autres régimes juridiques (comme le gage commercial) peuvent s'appliquer aux stocks."
+      ],
+      "explication": "Les marchandises en stock sont exclues du nantissement régi par la loi malgache n°2003-038 sur le fonds de commerce. Elles ne peuvent pas constituer l'assiette d'un nantissement de fonds de commerce. Leur valeur est fluctuante et leur nature consomptible les rend inadaptées à ce type de sûreté."
+    },
+    {
+      "question": "Un commerçant vend son fonds de commerce à crédit. Qu'est-ce qui protège le vendeur si l'acheteur revend le fonds avant de l'avoir payé ?",
+      "choix": [
+        "Une clause pénale automatique prévue par la loi qui double le prix dû",
+        "Le privilège du vendeur inscrit au RCS dans les 15 jours, qui lui donne une priorité de paiement sur le prix de toute revente ultérieure",
+        "Le droit de récupérer le fonds à la première défaillance sans aucune procédure",
+        "L'action paulienne permettant d'annuler la revente si elle est faite en fraude de ses droits"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette protection est inscrite dans la loi et s'active dès lors qu'elle est formalisée correctement.",
+        "Elle donne au vendeur une priorité sur le prix — il est remboursé avant les autres créanciers.",
+        "Elle doit être inscrite dans un délai très court après la vente."
+      ],
+      "explication": "Le vendeur d'un fonds à crédit est protégé par son privilège de vendeur, à condition de l'inscrire au RCS dans les 15 jours de l'acte de vente. Si l'acheteur revend le fonds avant d'avoir payé, le vendeur initial sera remboursé en priorité sur le prix de cette revente, avant les autres créanciers ordinaires de l'acheteur."
+    },
+    {
+      "question": "Vrai ou faux : lors d'une cession de fonds de commerce, les contrats de travail des salariés sont automatiquement cédés à l'acquéreur selon la loi sur le fonds de commerce.",
+      "choix": [
+        "Vrai, la loi n°2003-038 prévoit expressément ce transfert automatique",
+        "Faux : la loi n°2003-038 ne traite pas directement de ce transfert, qui est régi par le droit du travail malgache — mais en pratique, le droit du travail impose souvent le maintien des contrats en cours"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi sur le fonds de commerce se concentre sur les éléments du fonds — elle ne règle pas tout.",
+        "C'est une autre branche du droit qui protège les salariés lors des cessions.",
+        "Ne pas confondre la loi sur le fonds de commerce avec le Code du travail malgache."
+      ],
+      "explication": "La loi malgache n°2003-038 sur le fonds de commerce ne prévoit pas expressément le transfert automatique des contrats de travail — ce n'est pas son objet. C'est le Code du travail malgache qui régit la question du maintien des contrats de travail en cas de cession d'entreprise. La loi sur le fonds de commerce se concentre sur les éléments constitutifs du fonds, sa cession et son nantissement."
+    },
+    {
+      "question": "Qu'est-ce que l'achalandage et en quoi diffère-t-il de la clientèle ?",
+      "choix": [
+        "L'achalandage désigne le stock de marchandises disponibles à la vente",
+        "L'achalandage désigne la clientèle de passage attirée par l'emplacement géographique ou l'enseigne visible, par opposition à la clientèle habituelle et fidèle",
+        "L'achalandage est le nom donné à la clientèle d'une boutique en ligne",
+        "L'achalandage désigne les fournisseurs réguliers du commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mot vient de 'chaland', qui désigne un client de passage en vieux français.",
+        "Il s'attache à l'emplacement du local, pas au commerçant lui-même.",
+        "Un commerce bien placé en bord de route attire naturellement l'achalandage."
+      ],
+      "explication": "L'achalandage désigne la clientèle de passage attirée par l'emplacement géographique du commerce ou par la visibilité de son enseigne, par opposition à la clientèle habituelle et fidèle (qui revient régulièrement). Il est rattaché au lieu plus qu'au commerçant. En pratique, la loi malgache traite souvent ensemble clientèle et achalandage comme un tout cohérent."
+    },
+    {
+      "question": "Qu'est-ce que l'enseigne commerciale et comment la distingue-t-on du nom commercial ?",
+      "choix": [
+        "L'enseigne et le nom commercial sont deux termes identiques désignant la même chose",
+        "L'enseigne est le signe distinctif visible apposé sur la façade du local commercial, le nom commercial est la dénomination sous laquelle le commerçant se fait connaître du public",
+        "L'enseigne est le nom officiel de la société, le nom commercial est l'adresse électronique",
+        "L'enseigne est déposée à l'OMAPI, le nom commercial à la chambre de commerce"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un s'attache au local (on peut le voir depuis la rue), l'autre au commerçant.",
+        "En pratique, beaucoup de commerces utilisent le même terme pour les deux.",
+        "L'un individualise géographiquement le local, l'autre identifie le commerçant."
+      ],
+      "explication": "L'enseigne est le signe distinctif visible — inscription, forme, logo, image — apposé sur la façade de l'établissement pour l'identifier géographiquement. Elle dit aux passants : c'est ici. Le nom commercial est la dénomination sous laquelle le commerçant se fait connaître du public — c'est le nom de l'entreprise commerciale. En pratique, les deux coïncident souvent, mais ils restent juridiquement distincts."
+    },
+    {
+      "question": "Un commerçant peut-il vendre séparément des éléments du fonds de commerce sans céder tout le fonds ?",
+      "choix": [
+        "Non, la loi impose de céder le fonds dans sa totalité ou pas du tout",
+        "Oui, les dispositions de la loi n°2003-038 n'interdisent pas la cession d'éléments séparés du fonds de commerce",
+        "Oui, mais uniquement avec l'autorisation du tribunal de commerce",
+        "Non, sauf en cas de liquidation judiciaire du commerçant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un commerçant peut avoir besoin de vendre son matériel seul sans vendre tout son commerce.",
+        "L'article 17 de la loi n°2003-038 répond expressément à cette question.",
+        "La loi protège la liberté du commerçant de disposer de ses biens."
+      ],
+      "explication": "L'article 17 de la loi n°2003-038 précise que les dispositions relatives à la cession du fonds commercial n'interdisent pas la cession d'éléments séparés du fonds de commerce. Un commerçant peut donc vendre son matériel, sa marque ou ses marchandises séparément sans céder l'ensemble du fonds, sous réserve des règles de droit commun applicables à chaque élément."
+    },
+    {
+      "question": "Un commerçant peut-il procéder lui-même à la purge du nantissement en remboursant sa dette ?",
+      "choix": [
+        "Non, seul un tribunal peut ordonner la mainlevée d'un nantissement",
+        "Oui, une fois la dette remboursée, le créancier doit procéder à la radiation de l'inscription au RCS, libérant ainsi le fonds de toute charge",
+        "Oui, mais uniquement si le remboursement est total et s'effectue avant l'échéance prévue",
+        "Non, le nantissement subsiste automatiquement pendant dix ans après remboursement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une fois la dette payée, la raison d'être du nantissement disparaît.",
+        "La radiation de l'inscription est la procédure qui permet de 'nettoyer' le fonds.",
+        "C'est dans l'intérêt de toutes les parties qu'une radiation rapide soit effectuée."
+      ],
+      "explication": "Une fois que le débiteur a intégralement remboursé sa dette, la raison d'être du nantissement disparaît. Le créancier procède alors à la radiation de l'inscription au RCS — ou y est contraint. Cette radiation libère le fonds de toute charge et permet au commerçant de l'utiliser à nouveau librement, notamment pour obtenir un autre crédit ou le vendre sans contrainte."
+    },
+    {
+      "question": "Quelles personnes sont exemptées des conditions de durée d'exploitation pour donner un fonds en location-gérance selon la loi malgache ?",
+      "choix": [
+        "Uniquement les personnes âgées de plus de 60 ans",
+        "L'État, les collectivités locales, les établissements publics, les incapables (pour leur fonds antérieur), les héritiers d'un commerçant décédé, et les mandataires de justice autorisés",
+        "Tous les commerçants inscrits au RCS depuis moins de six mois",
+        "Les sociétés étrangères qui s'implantent pour la première fois à Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 7 de la loi n°2003-038 liste ces exceptions.",
+        "Certaines de ces exemptions concernent des situations particulières (décès, incapacité).",
+        "L'État et les collectivités locales sont également concernés."
+      ],
+      "explication": "L'article 7 de la loi n°2003-038 exempte des conditions de durée d'exploitation : l'État, les collectivités locales, les établissements publics, les incapables (pour le fonds dont ils étaient propriétaires avant leur incapacité), les héritiers ou légataires d'un commerçant décédé (pour le fonds exploité par ce dernier), et les mandataires de justice autorisés par la juridiction compétente."
+    },
+    {
+      "question": "Qu'est-ce que la procédure d'opposition au paiement du prix lors d'une cession de fonds de commerce ?",
+      "choix": [
+        "Une procédure permettant à l'acheteur de refuser de payer s'il découvre un défaut dans le fonds",
+        "La possibilité pour les créanciers du vendeur de bloquer le prix de vente entre les mains du séquestre pour s'assurer d'être payés avant le vendeur",
+        "Une procédure judiciaire permettant au vendeur de récupérer son fonds en cas de non-paiement",
+        "L'action du bailleur pour s'opposer à la cession du droit au bail"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle protège les créanciers du vendeur qui risquent de perdre leur garantie.",
+        "Elle se forme par acte extrajudiciaire dans un délai suivant la publication légale.",
+        "Elle bloque le prix de vente au profit des créanciers opposants."
+      ],
+      "explication": "La procédure d'opposition permet aux créanciers du vendeur de fonds de commerce de former opposition au paiement du prix dans un délai suivant la publication légale de la cession. Cette opposition bloque le prix de vente entre les mains du séquestre : le vendeur ne peut pas l'encaisser tant que ses créanciers n'ont pas été désintéressés ou qu'une décision judiciaire ne lève l'opposition."
+    },
+    {
+      "question": "Un locataire-gérant doit-il mentionner sa qualité sur ses documents commerciaux ?",
+      "choix": [
+        "Non, seul le propriétaire du fonds est mentionné sur les documents",
+        "Oui, il doit indiquer sa qualité de locataire-gérant et son numéro d'immatriculation RCS sur tous ses bons de commande, factures et documents commerciaux, sous peine d'amende",
+        "Oui, mais uniquement sur les factures de plus de 500 000 ariary",
+        "Non, la loi ne prévoit aucune obligation de mention spécifique pour le locataire-gérant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette obligation vise à protéger les tiers qui contractent avec lui.",
+        "Sans cette mention, les tiers pourraient croire contracter avec le propriétaire du fonds.",
+        "La violation de cette obligation est sanctionnée par une amende précisée par la loi."
+      ],
+      "explication": "L'article 4 de la loi n°2003-038 impose au locataire-gérant d'indiquer en tête de tous ses bons de commande, factures et documents à caractère financier ou commercial sa qualité de locataire-gérant, avec son numéro d'immatriculation au RCS. La violation de cette disposition est sanctionnée par une amende de 2 000 000 à 10 000 000 Fmg (ancienne monnaie), l'équivalent étant adapté en ariary."
+    },
+    {
+      "question": "Vrai ou faux : le fonds commercial (noyau dur incorporel) est le seul élément qui peut être cédé lors d'une cession de fonds de commerce à Madagascar.",
+      "choix": [
+        "Vrai, seul le fonds commercial peut être cédé",
+        "Faux : le fonds commercial doit obligatoirement être cédé, mais la cession peut également porter sur d'autres éléments (matériel, marchandises, brevets, etc.) à condition de les désigner expressément dans l'acte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 17 de la loi précise ce qui doit obligatoirement être cédé et ce qui peut l'être.",
+        "Un acheteur de fonds peut vouloir récupérer le matériel aussi — la loi le permet.",
+        "L'obligation porte sur le fonds commercial en tant que minimum, pas en tant que maximum."
+      ],
+      "explication": "L'article 17 de la loi n°2003-038 dispose que la cession a obligatoirement pour objet le fonds commercial (clientèle, enseigne, nom commercial, droit au bail, licences) mais qu'elle peut également porter sur d'autres éléments du fonds — installations, matériel, mobilier, marchandises, brevets, marques — à condition de les préciser expressément dans l'acte de cession."
+    },
+    {
+      "question": "Que se passe-t-il si un acquéreur de fonds de commerce veut en contester la nullité pour omission d'une mention obligatoire, après l'écoulement d'un an depuis la vente ?",
+      "choix": [
+        "Il peut toujours agir, la prescription de l'action en nullité est de cinq ans",
+        "Il ne peut plus agir : l'action en nullité est prescrite — elle doit être formée dans l'année de l'acte",
+        "Il peut agir, mais uniquement par voie d'appel",
+        "Il peut agir uniquement si le vendeur est de mauvaise foi avérée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi fixe un délai strict pour cette action.",
+        "Ce délai est court pour assurer la sécurité juridique des transactions.",
+        "L'article 19 de la loi n°2003-038 précise ce délai."
+      ],
+      "explication": "L'article 19 de la loi n°2003-038 prévoit que la demande en nullité pour omission ou inexactitude d'une mention obligatoire doit être formée dans le délai d'un an à compter de la date de l'acte de cession. Passé ce délai, l'action est prescrite et l'acquéreur ne peut plus l'invoquer, même s'il prouve un préjudice réel."
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre le bail commercial et la location-gérance d'un fonds de commerce ?",
+      "choix": [
+        "Le bail commercial porte sur le fonds de commerce, la location-gérance porte sur l'immeuble",
+        "Le bail commercial porte sur le local (l'immeuble), la location-gérance porte sur le fonds de commerce dans son ensemble",
+        "Les deux termes désignent la même chose, utilisés indifféremment",
+        "Le bail commercial est conclu entre commerçants, la location-gérance entre un commerçant et un non-commerçant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un concerne un bien immobilier, l'autre un bien meuble.",
+        "La jurisprudence malgache a clairement distingué les deux situations.",
+        "Dans un bail commercial, le locataire crée sa propre clientèle ; dans une location-gérance, la clientèle existait déjà."
+      ],
+      "explication": "Le bail commercial est la convention par laquelle le propriétaire d'un immeuble (ou d'un local) le loue à un commerçant pour y exercer son activité. La location-gérance est la convention par laquelle le propriétaire d'un fonds de commerce en concède l'exploitation à un gérant. L'un porte sur un bien immobilier (le local), l'autre sur un bien meuble incorporel (le fonds de commerce). La jurisprudence malgache confirme cette distinction : la location d'un local aménagé sans clientèle existante est un bail commercial, non une location-gérance."
+    },
+    {
+      "question": "Un commerçant qui exploite un fonds de commerce dans un local dont il est locataire peut-il inclure cet immeuble dans la cession de son fonds ?",
+      "choix": [
+        "Oui, l'immeuble fait partie du fonds et peut donc être cédé avec lui",
+        "Non, l'immeuble appartient au bailleur et ne peut pas être cédé par le commerçant locataire — ce qu'il peut céder, c'est son droit au bail",
+        "Oui, à condition d'obtenir l'accord préalable du tribunal de commerce",
+        "Non, mais il peut contraindre le bailleur à vendre l'immeuble en même temps que le fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le commerçant locataire ne possède pas l'immeuble — il possède seulement un droit d'occupation.",
+        "Ce droit d'occupation s'appelle le droit au bail et est un élément du fonds.",
+        "On ne peut pas céder ce qu'on ne possède pas."
+      ],
+      "explication": "Un commerçant locataire ne peut pas céder l'immeuble dans lequel il exploite son fonds — il n'en est pas propriétaire. Ce qu'il peut céder avec le fonds de commerce, c'est son droit au bail : le droit d'occuper le local commercial selon les termes du bail, notamment le droit de renouvellement. La cession du droit au bail est soumise aux conditions prévues dans le bail et à la réglementation malgache des baux commerciaux."
+    },
+    {
+      "question": "Quelles informations sur le chiffre d'affaires le vendeur doit-il obligatoirement fournir dans l'acte de cession ?",
+      "choix": [
+        "Le chiffre d'affaires du seul exercice en cours",
+        "Les chiffres d'affaires réalisés au cours de chacune des trois dernières années d'exploitation, ou depuis l'acquisition si le fonds a moins de trois ans",
+        "Une estimation prévisionnelle du chiffre d'affaires pour les cinq années à venir",
+        "Aucun — le chiffre d'affaires est confidentiel et n'a pas à figurer dans l'acte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 18 de la loi n°2003-038 liste les mentions obligatoires.",
+        "Ces informations permettent à l'acheteur d'évaluer la valeur réelle du fonds.",
+        "Trois années est la règle générale, avec une exception pour les fonds récents."
+      ],
+      "explication": "L'article 18 de la loi n°2003-038 impose de mentionner dans l'acte de cession le chiffre d'affaires réalisé au cours de chacune des trois dernières années d'exploitation, ou depuis l'acquisition du fonds si celui-ci n'a pas été exploité depuis plus de trois ans. Cette information est essentielle pour permettre à l'acheteur d'apprécier la valeur commerciale réelle du fonds."
+    },
+    {
+      "question": "Qu'est-ce que la surenchère dans le contexte d'une cession de fonds de commerce ?",
+      "choix": [
+        "Une action du vendeur pour augmenter le prix après avoir trouvé un meilleur acheteur",
+        "La possibilité pour un tiers d'offrir un prix plus élevé que celui convenu après publication de la cession, déclenchant une mise aux enchères publique",
+        "Une clause contractuelle permettant au vendeur de récupérer le fonds si son prix n'est pas payé",
+        "L'augmentation automatique du prix du fonds si des marchandises supplémentaires sont ajoutées"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle protège les créanciers inscrits en garantissant le meilleur prix possible.",
+        "Elle peut être exercée par un tiers après la publication légale de la cession.",
+        "Elle peut être perçue comme une contrainte pour l'acquéreur initial."
+      ],
+      "explication": "La surenchère permet à tout tiers intéressé, après la publication légale de la cession d'un fonds de commerce, d'offrir un prix supérieur à celui convenu. Cela déclenche une mise aux enchères publique du fonds. Cette procédure protège les créanciers inscrits en évitant que le fonds ne soit vendu délibérément à un prix bas, ce qui réduirait leur garantie."
+    },
+    {
+      "question": "Quel est l'objectif principal des mentions obligatoires dans l'acte de cession de fonds de commerce ?",
+      "choix": [
+        "Enrichir le vocabulaire juridique de l'acte",
+        "Protéger l'acquéreur en lui donnant toutes les informations nécessaires pour évaluer la valeur réelle du fonds et les charges qui le grèvent",
+        "Simplifier la rédaction de l'acte par rapport au droit commun",
+        "Permettre au vendeur de mieux négocier le prix en exposant toutes les qualités du fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'omission de ces mentions peut entraîner la nullité de la vente si l'acheteur est lésé.",
+        "Elles portent sur les performances passées du fonds, les charges, les garanties existantes.",
+        "C'est l'acheteur qui peut demander la nullité — pas le vendeur."
+      ],
+      "explication": "Les mentions obligatoires de l'acte de cession ont pour objectif principal de protéger l'acquéreur. Elles lui permettent d'avoir une vision complète et fidèle du fonds qu'il achète : ses performances commerciales passées (chiffre d'affaires, résultats), les charges qui le grèvent (nantissements, privilèges), la situation du bail, et la composition exacte de ce qu'il acquiert. Sans ces informations, l'acheteur ne peut pas évaluer correctement ce qu'il achète."
+    },
+    {
+      "question": "Qu'est-ce que l'apport en société d'un fonds de commerce ?",
+      "choix": [
+        "Le dépôt du fonds au greffe du tribunal comme garantie d'une obligation",
+        "Le transfert du fonds à une société en échange de parts sociales ou d'actions, traité comme une cession soumise aux mêmes règles de publicité et de formalisme",
+        "La mise du fonds à la disposition d'une société par voie de location",
+        "La liquidation du fonds de commerce lors de la dissolution d'une société"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une forme de 'paiement' du capital social d'une société — on apporte un bien plutôt que de l'argent.",
+        "La loi n°2003-038 l'assimile à une cession et lui applique les mêmes règles.",
+        "Le commerçant reçoit des parts ou des actions en contrepartie."
+      ],
+      "explication": "L'apport en société d'un fonds de commerce est le transfert de ce fonds à une société en contrepartie de parts sociales ou d'actions. La loi malgache n°2003-038 l'assimile à une cession et lui applique les mêmes règles de forme, de publicité et de formalisme, notamment les obligations de publicité au RCS et dans un journal légal, et les droits des créanciers du cédant."
+    },
+    {
+      "question": "En résumé, quelle est la distinction entre les éléments 'obligatoires' et les éléments 'optionnels' du fonds de commerce selon la loi malgache ?",
+      "choix": [
+        "Les éléments obligatoires sont corporels, les éléments optionnels sont incorporels",
+        "Les éléments obligatoires (clientèle, enseigne, nom commercial, droit au bail, licences) se transmettent automatiquement lors de toute cession ; les éléments optionnels (matériel, marchandises, brevets, marques) ne se transmettent que s'ils sont expressément désignés dans l'acte",
+        "Les éléments obligatoires doivent être listés dans l'acte, les éléments optionnels passent automatiquement",
+        "Cette distinction n'existe que pour le nantissement, pas pour la cession"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce qui est obligatoire passe sans avoir besoin d'être mentionné — sauf clause contraire.",
+        "Ce qui est optionnel ne passe que si on le mentionne.",
+        "C'est l'un des points les plus importants à retenir sur la composition du fonds."
+      ],
+      "explication": "La distinction fondamentale est la suivante : les éléments obligatoires (clientèle, enseigne ou nom commercial, droit au bail, licences d'exploitation) constituent le fonds commercial et se transmettent automatiquement lors de toute cession, sauf disposition contraire expresse. Les éléments optionnels (installations, matériel, mobilier, marchandises, brevets, marques) ne se transmettent que s'ils sont nommément désignés dans l'acte de cession ou de nantissement."
+    },
+    {
+      "question": "Vrai ou faux : en l'absence de désignation expresse, un nantissement de fonds de commerce inclut automatiquement le matériel professionnel.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'assiette par défaut du nantissement est limitée par la loi.",
+        "Le matériel est un élément optionnel du fonds de commerce.",
+        "Pour que le nantissement porte sur le matériel, il faut le désigner expressément."
+      ],
+      "explication": "Faux. En l'absence de désignation expresse et précise dans l'acte de nantissement, celui-ci ne porte que sur l'enseigne et le nom commercial, le droit au bail, la clientèle et l'achalandage. Pour que le nantissement porte également sur le matériel professionnel, il faut que ce matériel soit nommément désigné dans l'acte constitutif de nantissement."
+    },
+    {
+      "question": "Pourquoi les chiffres d'affaires des trois dernières années sont-ils une mention obligatoire dans l'acte de cession d'un fonds de commerce ?",
+      "choix": [
+        "Pour calculer les droits d'enregistrement dus à l'administration fiscale",
+        "Pour permettre à l'acheteur d'apprécier la performance commerciale réelle du fonds et d'évaluer ce qu'il achète, évitant ainsi d'être induit en erreur sur la valeur du fonds",
+        "Pour permettre au vendeur de justifier le prix demandé auprès du RCS",
+        "Pour satisfaire une exigence statistique de l'INSTAT malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un fonds sans clients, c'est un fonds sans valeur — les chiffres d'affaires montrent l'activité réelle.",
+        "Un acheteur trompé sur la performance du fonds peut demander la nullité.",
+        "C'est une protection légale de l'acquéreur contre la mauvaise foi du vendeur."
+      ],
+      "explication": "Les chiffres d'affaires des trois dernières années sont une mention obligatoire parce qu'ils permettent à l'acheteur d'évaluer la performance commerciale réelle du fonds qu'il envisage d'acquérir. Ils lui donnent une indication fiable de la valeur de la clientèle existante et du potentiel commercial du fonds. Un fonds dont les chiffres d'affaires sont en forte baisse vaut bien moins qu'un fonds en croissance — l'acheteur a le droit de le savoir."
+    },
+    {
+      "question": "Peut-on donner en location-gérance un fonds de commerce à une personne frappée d'une interdiction d'exercer une profession commerciale ?",
+      "choix": [
+        "Oui, l'interdiction ne concerne que le propriétaire, pas le locataire-gérant",
+        "Non, la loi malgache interdit expressément de consentir une location-gérance à une personne interdite ou déchue de l'exercice d'une profession commerciale",
+        "Oui, sous réserve d'une autorisation judiciaire préalable",
+        "Cela dépend de la nature de l'interdiction et de sa durée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi n°2003-038 prévoit cette interdiction pour protéger les tiers.",
+        "Un locataire-gérant interdit de commerce ne peut pas légalement exploiter un fonds.",
+        "L'article 5 de la loi précise cet aspect."
+      ],
+      "explication": "L'article 5 de la loi n°2003-038 prévoit expressément que ne peuvent consentir une location-gérance les personnes interdites ou déchues de l'exercice d'une profession commerciale. Cela signifie qu'une personne frappée d'une telle interdiction ne peut pas non plus devenir locataire-gérant d'un fonds de commerce. Cette règle protège les tiers qui contractent avec le locataire-gérant."
+    },
+    {
+      "question": "Quelle est la nature juridique du fonds de commerce : bien immobilier ou bien mobilier ?",
+      "choix": [
+        "C'est un bien immobilier car il est lié à un local commercial",
+        "C'est un bien mobilier incorporel, car il est composé principalement d'éléments immatériels comme la clientèle, le nom commercial et le droit au bail",
+        "C'est à la fois un bien mobilier et immobilier selon sa composition",
+        "Sa nature varie selon qu'il est exploité dans un local en propriété ou en location"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La loi décrit le fonds comme un ensemble d'éléments mobiliers.",
+        "Sa valeur principale réside dans des éléments immatériels comme la clientèle.",
+        "Il peut être nanti (sûreté mobilière) et non hypothéqué (sûreté immobilière)."
+      ],
+      "explication": "Le fonds de commerce est un bien mobilier incorporel. La loi malgache n°2003-038 le décrit comme regroupant des éléments mobiliers, corporels et incorporels. Sa valeur principale réside dans des éléments immatériels — clientèle, nom commercial, droit au bail, licences. C'est pourquoi il peut faire l'objet d'un nantissement (sûreté mobilière) et non d'une hypothèque (réservée aux immeubles)."
+    },
+    {
+      "question": "Un créancier qui a inscrit un nantissement sur un fonds de commerce peut-il se faire attribuer le fonds lui-même en paiement de sa créance ?",
+      "choix": [
+        "Oui, c'est le droit du créancier nantisseur de récupérer le fonds en cas de non-paiement",
+        "Non, le nantissement du fonds de commerce ne donne pas au créancier le droit de se faire attribuer le fonds en paiement — il peut seulement provoquer sa vente et se payer sur le prix",
+        "Oui, mais uniquement si la valeur du fonds est inférieure à la créance",
+        "Non, sauf si le contrat de nantissement prévoit expressément cette possibilité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le nantissement ne transfère pas la propriété du fonds.",
+        "Le créancier nantisseur peut faire vendre le fonds, pas se l'approprier.",
+        "Cette règle protège le débiteur contre la spoliation directe de son outil de travail."
+      ],
+      "explication": "La loi malgache — reprenant une disposition classique — prévoit que le nantissement d'un fonds de commerce ne donne pas au créancier nantisseur le droit de se faire attribuer le fonds en paiement. En cas de défaillance du débiteur, le créancier peut provoquer la vente forcée du fonds et se payer en priorité sur le prix obtenu, mais il ne peut pas simplement s'approprier le fonds. Cette règle protège le commerçant débiteur."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Hanta exploite depuis sept ans une bijouterie artisanale très réputée à Antananarivo, sous le nom commercial « Or Malgache ». Elle a un bail commercial sur son local depuis 2017. Elle veut vendre son fonds de commerce à Niry, une jeune bijoutière qui l'a approchée. Le fonds comprend : son nom commercial « Or Malgache », sa clientèle fidèle, son bail, ses moules et outils de fabrication (valeur : 8 millions d'ariary), son stock de bijoux finis (valeur : 12 millions d'ariary), sa marque déposée à l'OMAPI, et la licence d'importation de métaux précieux. Hanta et Niry se mettent d'accord sur un prix total de 50 millions d'ariary, mais Hanta insiste pour garder ses outils de fabrication qu'elle compte utiliser dans une nouvelle activité. (1) Quels éléments passent automatiquement dans la cession sans avoir besoin d'être listés ? (2) Quels éléments ne passeront que s'ils sont expressément désignés ? (3) Compte tenu du souhait de Hanta de garder ses outils, que doit-on prévoir dans l'acte ? (4) Quelles formalités Niry devra-t-elle accomplir après la signature de l'acte ?",
+      "choix": [
+        "Niry récupère tout automatiquement, y compris les outils, dès la signature",
+        "(1) Passent automatiquement : le nom commercial 'Or Malgache', la clientèle, le droit au bail et la licence d'importation — ce sont les éléments du fonds commercial. (2) Ne passent que sur désignation expresse : les outils de fabrication, le stock de bijoux et la marque déposée à l'OMAPI. (3) L'acte doit expressément exclure les outils de fabrication (que Hanta garde) et mentionner nommément le stock de bijoux et la marque si Niry veut les acquérir. (4) Niry doit : publier un avis dans un journal légal dans les 15 jours, déposer deux copies de l'acte au RCS, et veiller à ce qu'un séquestre bancaire conserve le prix pendant le délai d'opposition des créanciers.",
+        "Aucun élément ne passe automatiquement, tout doit être listé",
+        "Les outils passent automatiquement car ils sont indispensables à l'activité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Distinguez les éléments du fonds commercial obligatoire et les éléments optionnels selon la loi n°2003-038.",
+        "Le souhait de Hanta de garder ses outils est légal — il suffit de l'exclure expressément.",
+        "Pensez aux formalités de publicité que l'acquéreur doit accomplir dans les 15 jours."
+      ],
+      "explication": "(1) Les éléments qui passent automatiquement dans la cession, sans avoir besoin d'être désignés expressément dans l'acte, sont ceux qui composent le fonds commercial au sens de l'article premier de la loi n°2003-038 : le nom commercial 'Or Malgache', la clientèle de la bijouterie, le droit au bail sur le local commercial, et la licence d'importation de métaux précieux. Ces éléments forment le noyau dur du fonds et se transmettent automatiquement sauf clause contraire expresse. (2) Les éléments qui ne passent que s'ils sont nommément désignés dans l'acte sont : les moules et outils de fabrication (élément corporel — matériel), le stock de bijoux finis (marchandises), et la marque déposée à l'OMAPI (droit de propriété intellectuelle). Ces trois catégories relèvent des éléments optionnels de la loi. (3) Compte tenu du souhait de Hanta de garder ses outils, l'acte de cession doit expressément exclure les moules et outils de fabrication du périmètre de la cession. Il doit en revanche mentionner expressément le stock de bijoux (si Niry le reprend) et la marque OMAPI (si Niry la reprend). Les prix devront être distincts : un prix pour les éléments incorporels, un pour le matériel éventuel, un pour les marchandises. (4) Après la signature, Niry doit accomplir : la publication d'un avis de cession dans un journal habilité à recevoir les annonces légales dans les 15 jours de l'acte (article 15) ; le dépôt de deux copies certifiées conformes au RCS (article 14) pour que les mentions modificatives soient portées ; et s'assurer qu'un séquestre bancaire est désigné dans l'acte pour conserver le prix de vente pendant la période d'opposition des créanciers de Hanta, qui disposent d'un délai pour former opposition après la seconde publication."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Zo est propriétaire depuis quatre ans d'un salon de beauté très bien situé à Toamasina, sous l'enseigne 'Beauté Malgache'. Il y a deux ans et demi, il a obtenu un prêt de 15 millions d'ariary de la BTM en donnant son fonds de commerce en nantissement. La BTM a inscrit ce nantissement au RCS. Zo a régulièrement remboursé la moitié de sa dette mais traverse maintenant des difficultés financières. Une cliente régulière, Vola, lui propose de racheter le fonds pour 25 millions d'ariary. Zo accepte et signe un acte de cession sous seing privé avec Vola le 1er mars, sans mentionner l'existence du nantissement BTM, et sans désigner expressément le matériel de coiffure. (1) Vola peut-elle demander la nullité de la cession pour absence de mention du nantissement ? (2) Vola récupère-t-elle le matériel de coiffure avec le fonds ? (3) Que peut faire la BTM face à cette cession ? (4) Si Vola paye les 25 millions d'ariary directement à Zo, est-elle à l'abri de toute réclamation de la BTM ?",
+      "choix": [
+        "Zo peut tout faire librement car le nantissement ne bloque pas la vente",
+        "(1) Oui, Vola peut demander la nullité dans l'année de l'acte car l'omission du nantissement affecte substantiellement la valeur réelle du fonds — un fonds grevé de 7,5 millions d'ariary de dette vaut moins que présenté. (2) Non, le matériel de coiffure n'est pas inclus automatiquement — les éléments corporels doivent être désignés expressément. (3) La BTM, créancier nantisseur inscrit au RCS, reste prioritaire sur le prix du fonds lors de sa réalisation : Vola rachète un fonds grevé d'un nantissement et la BTM peut exiger d'être payée sur le prix de cession. (4) Non : Vola n'est pas à l'abri car le nantissement BTM inscrit au RCS est opposable aux tiers — elle aurait dû consulter le RCS avant d'acheter.",
+        "Vola est totalement protégée car elle a acheté de bonne foi",
+        "Le nantissement est automatiquement effacé par la cession du fonds"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 19 de la loi permet à l'acheteur de demander la nullité si l'omission lui a causé un préjudice réel — et le nantissement non divulgué en est clairement un.",
+        "Le matériel de coiffure est un élément corporel optionnel — vérifiez l'article premier de la loi.",
+        "Le nantissement inscrit au RCS est opposable à tous, y compris aux tiers acquéreurs. Consulter le RCS est la protection de base de tout acheteur."
+      ],
+      "explication": "(1) Oui, Vola peut demander la nullité de la cession en application de l'article 19 de la loi n°2003-038. L'absence de mention de l'état du nantissement BTM est une omission d'une mention obligatoire prévue à l'article 18 (l'état des privilèges, nantissements et inscriptions grevant le fonds). Vola peut demander cette nullité si elle prouve que l'omission a substantiellement affecté la consistance du fonds — ce qui est évident : un fonds grevé de 7,5 millions d'ariary (la moitié restante de 15 millions) de dette vaut significativement moins qu'un fonds libre de toute charge. L'action doit être intentée dans l'année de la date de l'acte (ici, avant le 1er mars de l'année suivante). (2) Non, Vola ne récupère pas le matériel de coiffure. Le matériel est un élément corporel optionnel qui ne fait partie de la cession que s'il est nommément désigné dans l'acte — c'est ce que prévoit l'article premier de la loi n°2003-038. L'acte ne le mentionnant pas, le matériel reste dans le patrimoine de Zo. Si Vola voulait le matériel, elle devrait le négocier séparément ou exiger une rectification de l'acte. (3) La BTM, en tant que créancier nantisseur dont l'inscription est portée au RCS, n'est pas désintéressée par la simple cession du fonds. Le nantissement inscrit est opposable à tous les tiers, y compris à Vola acquéreuse. La BTM peut exiger d'exercer ses droits sur le prix de cession (25 millions d'ariary) et d'être remboursée des 7,5 millions restants dûs par Zo avant que celui-ci ne touche le solde. Le nantissement suit le fonds, même vendu. (4) Non, Vola n'est absolument pas à l'abri. En payant directement à Zo sans passer par un séquestre et sans prendre en compte le nantissement BTM inscrit au RCS, elle risque que la BTM lui oppose son droit de préférence. Un acheteur prudent consulte toujours le RCS avant d'acheter un fonds, vérifie les inscriptions existantes, et désigne un séquestre pour bloquer le prix pendant la période de protection des créanciers. Vola aurait dû vérifier le RCS — une consultation qui lui aurait révélé le nantissement BTM — et intégrer le remboursement de ce nantissement dans la négociation du prix."
+    }
+  ]
+    }
