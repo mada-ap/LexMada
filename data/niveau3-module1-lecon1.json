@@ -1,0 +1,940 @@
+{
+  "titre": "Droit constitutionnel — les institutions de Madagascar",
+  "module": "Module 1 — Les institutions de la IVe République",
+  "niveau": "Avancé",
+  "contenu": [
+    {
+      "titre": "La Constitution du 11 décembre 2010 : la loi fondamentale de la IVe République",
+      "texte": "Toute organisation politique a besoin d'une règle suprême qui fixe les pouvoirs de chacun, leurs limites, et la manière dont ils s'articulent entre eux : c'est la fonction d'une Constitution. À Madagascar, le texte aujourd'hui en vigueur est la Constitution de la IVe République, adoptée par référendum le 17 novembre 2010 (74,19 % de oui, pour un taux de participation de 52,61 %) et promulguée le 11 décembre 2010. C'est la deuxième constitution adoptée depuis celle de 1992, et la quatrième loi fondamentale républicaine du pays depuis l'indépendance, après celles de 1959, de 1975, et de 1992 (elle-même révisée en 1995, 1998 et 2007). Le texte comprend un préambule, suivi de sept titres eux-mêmes subdivisés en huit sous-titres, qui couvrent l'ensemble de l'organisation de l'État : les principes fondamentaux, les droits et devoirs des citoyens, l'organisation des pouvoirs publics, les collectivités territoriales décentralisées, la révision constitutionnelle, et les dispositions transitoires. Comprendre cette Constitution, c'est comprendre l'architecture institutionnelle complète de l'État malgache contemporain.",
+      "definition": "La Constitution de la IVe République malgache, adoptée par référendum le 17 novembre 2010 et promulguée le 11 décembre 2010, est la loi fondamentale actuellement en vigueur à Madagascar. Elle comprend un préambule, sept titres et huit sous-titres, organisant l'ensemble des pouvoirs publics, des droits fondamentaux et des collectivités territoriales."
+    },
+    {
+      "titre": "Les principes fondateurs : République, démocratie, État de droit",
+      "texte": "Les tout premiers articles de la Constitution posent les fondations de l'État malgache. L'article premier proclame que Madagascar est une République, dont la démocratie et le principe de l'État de droit constituent le fondement. La souveraineté de l'État s'exerce dans les limites de son territoire, lequel est déclaré inaliénable : nul ne peut y porter atteinte. L'article 2 consacre la neutralité religieuse de l'État : la laïcité de la République repose sur le principe de la séparation des affaires de l'État et des institutions religieuses, chacune s'interdisant toute immixtion dans le domaine de l'autre. Ces principes ne sont pas de simples déclarations d'intention : ils irriguent l'ensemble du texte constitutionnel et conditionnent l'interprétation de toutes les dispositions qui suivent. Un État de droit, par exemple, signifie que les gouvernants eux-mêmes sont soumis au droit, et non au-dessus de lui — c'est cette idée qui justifie l'existence d'un contrôle de constitutionnalité des lois, confié à la Haute Cour Constitutionnelle, comme on le verra plus loin.",
+      "definition": "Les principes fondateurs de la Constitution malgache : Madagascar est une République fondée sur la démocratie et l'État de droit (article 1), avec un territoire inaliénable ; l'État affirme sa neutralité religieuse et la laïcité, fondée sur la séparation des affaires de l'État et des institutions religieuses (article 2)."
+    },
+    {
+      "titre": "Les symboles de la République et la souveraineté populaire",
+      "texte": "L'article 4 de la Constitution fixe les symboles qui identifient la République de Madagascar : sa devise est « Fitiavana – Tanindrazana – Fandrosoana » (Amour – Patrie – Progrès) ; son emblème est le drapeau tricolore blanc, rouge et vert, composé de trois bandes rectangulaires égales (une bande verticale blanche du côté de la hampe, puis deux bandes horizontales, rouge au-dessus et verte en dessous) ; la langue nationale est le malagasy, tandis que les langues officielles sont le malagasy et le français ; l'hymne national est « Ry Tanindrazanay malala ô ! » ; et la capitale est Antananarivo. L'article 5 consacre quant à lui le principe cardinal de toute démocratie : la souveraineté appartient au peuple, source de tout pouvoir, qui l'exerce par ses représentants élus au suffrage universel direct ou indirect, ou directement par la voie du référendum. Aucune fraction du peuple, ni aucun individu, ne peut s'attribuer l'exercice de cette souveraineté. L'organisation et l'administration de l'ensemble des opérations électorales relèvent de la compétence d'une structure nationale indépendante, dont la loi organise les modalités de fonctionnement.",
+      "definition": "Les symboles de la République (article 4) : devise « Fitiavana – Tanindrazana – Fandrosoana », drapeau tricolore blanc-rouge-vert, langue nationale malagasy, langues officielles malagasy et français, hymne « Ry Tanindrazanay malala ô ! », capitale Antananarivo. La souveraineté appartient au peuple (article 5), exercée par voie représentative (suffrage direct ou indirect) ou par référendum, sous la supervision d'une structure électorale nationale indépendante."
+    },
+    {
+      "titre": "Les collectivités territoriales décentralisées",
+      "texte": "Madagascar n'est pas un État fédéral, mais un État unitaire qui a fait le choix d'une décentralisation territoriale poussée. L'article 3 de la Constitution dispose que la République de Madagascar repose sur un système de collectivités territoriales décentralisées (CTD) composées de communes, de régions et de provinces, dont les compétences et les principes d'autonomie administrative et financière sont garantis par la Constitution elle-même et précisés par la loi. Le pays compte six provinces — Antananarivo, Toamasina, Fianarantsoa, Mahajanga, Toliara et Antsiranana — qui correspondent d'ailleurs aux ressorts des six Cours d'Appel de l'ordre judiciaire. Chaque province dispose de compétences pour gérer démocratiquement ses propres affaires et peut adopter sa propre loi statutaire, à condition que celle-ci demeure conforme à la Constitution. Les provinces se subdivisent ensuite en régions, puis en communes, chacune dotée d'une assemblée délibérante et d'un exécutif local propre. Cette architecture décentralisée vise à rapprocher la décision publique des citoyens, tout en préservant l'unité de l'État — une unité si fondamentale qu'elle figure, comme on le verra, parmi les éléments que la Constitution interdit de réviser.",
+      "definition": "Les collectivités territoriales décentralisées (CTD) de Madagascar sont les communes, les régions et les provinces (article 3), dotées d'une autonomie administrative et financière garantie par la Constitution. Le pays compte six provinces : Antananarivo, Toamasina, Fianarantsoa, Mahajanga, Toliara et Antsiranana."
+    },
+    {
+      "titre": "Un régime semi-présidentiel à séparation souple des pouvoirs",
+      "texte": "Pour qualifier un régime politique, le droit constitutionnel distingue traditionnellement deux grandes familles. Dans un régime présidentiel à séparation stricte des pouvoirs (le modèle américain en est l'exemple classique), l'exécutif ne peut pas dissoudre le Parlement, et le Parlement ne peut pas renverser l'exécutif : chacun reste à sa place pendant toute la durée de son mandat. Dans un régime à séparation souple des pouvoirs, en revanche, les deux organes disposent de moyens d'action réciproques qui leur permettent de s'influencer mutuellement, voire de se neutraliser. C'est précisément ce second modèle que retient la Constitution malgache de 2010 : le pouvoir exécutif peut dissoudre l'Assemblée Nationale, et l'Assemblée Nationale peut, à l'inverse, renverser le Gouvernement par une motion de censure. Madagascar se caractérise ainsi comme une république semi-présidentielle, dans laquelle un Président de la République fortement légitimé par l'élection au suffrage universel direct coexiste avec un Gouvernement responsable devant le Parlement. Ce modèle hybride, hérité de la Constitution de la IIIe République (modifiée en 2007), cherche un équilibre entre la stabilité gouvernementale et le contrôle démocratique de l'exécutif par les représentants élus du peuple.",
+      "definition": "Madagascar est une république semi-présidentielle fondée sur une séparation souple des pouvoirs : l'exécutif peut dissoudre l'Assemblée Nationale, et l'Assemblée Nationale peut renverser le Gouvernement par une motion de censure. Ce modèle s'oppose au régime présidentiel à séparation stricte des pouvoirs, où aucun de ces mécanismes réciproques n'existe."
+    },
+    {
+      "titre": "Le Président de la République : chef de l'État",
+      "texte": "L'article 44 de la Constitution dispose que la fonction exécutive est exercée par le Président de la République et le Gouvernement — deux organes distincts, mais étroitement articulés. L'article 45 précise que le Président de la République est le chef de l'État. Il est élu au suffrage universel direct pour un mandat de cinq ans, renouvelable une seule fois. Au-delà de sa fonction représentative, le Président dispose d'attributions très concrètes : il peut, en Conseil des Ministres, décider de recourir directement à l'expression de la volonté du peuple par voie de référendum sur toute question importante de caractère national ; il détermine et arrête, également en Conseil des Ministres, la politique générale de l'État, et en contrôle la mise en œuvre ainsi que l'action du Gouvernement ; il dispose à cet effet des organes de contrôle de l'administration. Il peut déléguer certains de ses pouvoirs aux membres du Gouvernement. En tant que chef suprême des Forces Armées, dont il garantit l'unité, il est assisté d'un Haut Conseil de la Défense Nationale, dont la mission est notamment de veiller à la coordination des actions confiées aux Forces Armées pour préserver la paix sociale.",
+      "definition": "Le Président de la République (articles 44-45) est le chef de l'État, élu au suffrage universel direct pour cinq ans, renouvelable une fois. Il détermine la politique générale de l'État en Conseil des Ministres, peut recourir au référendum, et est le chef suprême des Forces Armées, assisté du Haut Conseil de la Défense Nationale."
+    },
+    {
+      "titre": "Le serment présidentiel et la fin du mandat",
+      "texte": "L'investiture du Président de la République obéit à un cérémonial solennel et précisément encadré par la Constitution. Avant d'entrer en fonction, le Président élu prête serment devant la Haute Cour Constitutionnelle, devant la Nation, en présence du Gouvernement, de l'Assemblée Nationale, du Sénat et de la Cour Suprême. Le texte du serment, prononcé en langue malgache, engage le Président à exercer pleinement et fidèlement sa charge, à utiliser le pouvoir qui lui est confié pour défendre l'unité nationale et les droits humains, et à respecter et protéger la Constitution et les lois de la République, dans l'intérêt de tout le peuple malgache sans exception. Cette dimension n'est pas une simple formalité symbolique : le mandat présidentiel commence précisément à partir du jour de cette prestation de serment, et toute violation des obligations qui y sont contenues, dès lors qu'elle est constatée par la Haute Cour Constitutionnelle, constitue un motif d'empêchement définitif du Président de la République — c'est-à-dire une cause qui met fin à son mandat. Ce mécanisme illustre concrètement le principe d'État de droit évoqué plus haut : même le chef de l'État est tenu par des obligations juridiques précises, dont le manquement peut être sanctionné par une institution distincte.",
+      "definition": "Le Président élu prête serment devant la Haute Cour Constitutionnelle, en présence du Gouvernement, de l'Assemblée Nationale, du Sénat et de la Cour Suprême. Le mandat présidentiel débute le jour de cette prestation de serment. Toute violation des obligations du serment, constatée par la Haute Cour Constitutionnelle, constitue un motif d'empêchement définitif du Président."
+    },
+    {
+      "titre": "Les pouvoirs du Président face au Gouvernement et au Parlement",
+      "texte": "Le Président de la République dispose de plusieurs prérogatives majeures à l'égard des autres pouvoirs publics. En premier lieu, conformément à l'article 54, il nomme le Premier Ministre, qui doit être présenté par le parti ou le groupe de partis majoritaire à l'Assemblée Nationale — ce mécanisme garantit que le Gouvernement reflète la majorité parlementaire, conformément à la logique du régime semi-présidentiel. En matière législative, l'article 59 prévoit que le Président promulgue les lois dans les trois semaines suivant leur transmission par l'Assemblée Nationale, après leur adoption définitive ; avant l'expiration de ce délai, il peut toutefois demander au Parlement une nouvelle délibération de la loi (ou de certains de ses articles), une demande que le Parlement ne peut refuser. Le Président exerce également le droit de grâce et confère les décorations et honneurs de la République (article 58). Enfin, et c'est sans doute son pouvoir le plus spectaculaire, l'article 60 lui permet de prononcer la dissolution de l'Assemblée Nationale, après en avoir informé le Premier Ministre et après consultation des présidents des deux Assemblées parlementaires. Les élections générales doivent alors se tenir entre soixante et quatre-vingt-dix jours après le prononcé de la dissolution, et aucune nouvelle dissolution ne peut intervenir dans les deux années qui suivent ces élections.",
+      "definition": "Pouvoirs majeurs du Président : nomination du Premier Ministre issu de la majorité parlementaire (article 54), promulgation des lois sous trois semaines avec possibilité de demander une nouvelle délibération non refusable (article 59), droit de grâce (article 58), et dissolution de l'Assemblée Nationale après information du Premier Ministre et consultation des présidents des Assemblées, avec élections dans les 60 à 90 jours et interdiction de nouvelle dissolution pendant deux ans (article 60)."
+    },
+    {
+      "titre": "Les circonstances exceptionnelles : faire face à la crise",
+      "texte": "La Constitution prévoit un dispositif spécifique pour les situations de crise grave. Selon l'article 61, lorsque les institutions de la République, l'indépendance de la Nation, son unité ou l'intégrité de son territoire sont menacées, et que le fonctionnement régulier des pouvoirs publics se trouve compromis, le Président de la République peut proclamer, sur tout ou partie du territoire national, une situation d'exception : l'état d'urgence, l'état de nécessité, la loi martiale, ou l'état de crise. Cette décision n'est pas laissée à la seule discrétion du Président : elle doit être prise en Conseil des Ministres, après avis des présidents de l'Assemblée Nationale, du Sénat et de la Haute Cour Constitutionnelle — un avis qui, sans être nécessairement contraignant, constitue une garantie procédurale destinée à éviter tout usage arbitraire de ce pouvoir exceptionnel. La proclamation de la situation d'exception confère au Président des pouvoirs spéciaux, dont l'étendue et la durée sont fixées par une loi organique, et non par une simple décision discrétionnaire du chef de l'État. Ce mécanisme illustre une tension classique du droit constitutionnel : comment donner à l'exécutif les moyens d'agir vite face à une menace existentielle, sans pour autant ouvrir la voie à un pouvoir sans limites ?",
+      "definition": "L'article 61 permet au Président de proclamer une situation d'exception (état d'urgence, état de nécessité, loi martiale, état de crise) lorsque les institutions, l'indépendance, l'unité ou l'intégrité territoriale de la Nation sont menacées. Cette décision est prise en Conseil des Ministres après avis des présidents de l'Assemblée Nationale, du Sénat et de la Haute Cour Constitutionnelle, et confère des pouvoirs spéciaux dont l'étendue et la durée sont fixées par une loi organique."
+    },
+    {
+      "titre": "Le Gouvernement et le Premier Ministre",
+      "texte": "Aux côtés du Président de la République, le Gouvernement constitue le second pilier de la fonction exécutive. Le Premier Ministre, nommé par le Président parmi les candidats présentés par le parti ou le groupe de partis majoritaire à l'Assemblée Nationale, dirige l'action du Gouvernement et préside le Conseil de Gouvernement (article 66), qui se distingue du Conseil des Ministres, présidé par le Président de la République lui-même. Cette distinction n'est pas qu'une question de vocabulaire : elle reflète une répartition des compétences propre au régime semi-présidentiel, où certaines décisions relèvent du Président réunissant l'ensemble du Gouvernement (Conseil des Ministres), et d'autres de la coordination interne assurée par le Premier Ministre (Conseil de Gouvernement). Le Gouvernement, dans son ensemble, est responsable devant l'Assemblée Nationale, qui peut mettre en cause sa responsabilité politique par le vote d'une motion de censure — mécanisme que nous détaillerons plus loin. Cette double responsabilité du Gouvernement, à la fois devant le Président qui le nomme indirectement et devant l'Assemblée qui peut le renverser, est la marque distinctive du régime semi-présidentiel malgache.",
+      "definition": "Le Gouvernement est dirigé par le Premier Ministre, nommé par le Président parmi les candidats du parti ou groupe majoritaire à l'Assemblée Nationale. Le Premier Ministre préside le Conseil de Gouvernement (article 66), distinct du Conseil des Ministres présidé par le Président de la République. Le Gouvernement est responsable devant l'Assemblée Nationale, qui peut le renverser par une motion de censure."
+    },
+    {
+      "titre": "Le Parlement : Assemblée Nationale et Sénat",
+      "texte": "Le pouvoir législatif malgache est bicaméral : selon l'article 68, le Parlement comprend l'Assemblée Nationale et le Sénat. Ensemble, ces deux chambres votent la loi, contrôlent l'action du Gouvernement, et évaluent les politiques publiques. L'Assemblée Nationale — la chambre basse — est composée de Députés élus pour cinq ans au suffrage universel direct, le régime des scrutins étant déterminé par une loi organique (article 69) ; le nombre de députés, la répartition des sièges sur le territoire national et le découpage des circonscriptions électorales sont quant à eux fixés par décret pris en Conseil des Ministres (article 70). Le Sénat — la chambre haute — a un mode de composition mixte caractéristique des chambres territoriales : les sénateurs sont élus pour cinq ans, à raison des deux tiers élus en nombre égal pour chaque province, et un tiers nommés directement par le Président de la République. Cette composition reflète la double vocation du Sénat : représenter les territoires (par l'élection provinciale) tout en assurant un certain équilibre institutionnel (par la nomination présidentielle). Au-delà de ses fonctions législatives et de contrôle, le Sénat joue également un rôle consultatif, notamment sur les questions de développement local et régional.",
+      "definition": "Le Parlement bicaméral comprend l'Assemblée Nationale (députés élus 5 ans au suffrage universel direct, nombre et circonscriptions fixés par décret) et le Sénat (sénateurs élus 5 ans, deux tiers élus en nombre égal par province, un tiers nommés par le Président). Le Parlement vote la loi, contrôle le Gouvernement, et évalue les politiques publiques (article 68)."
+    },
+    {
+      "titre": "Le statut des parlementaires et l'initiative des lois",
+      "texte": "La Constitution encadre strictement le statut des Députés. L'article 71 pose le principe d'incompatibilité : le mandat de député est incompatible avec l'exercice de tout autre mandat public électif et de tout emploi public, à la seule exception de l'enseignement. Un député nommé membre du Gouvernement est suspendu d'office de son mandat — il ne peut cumuler les deux fonctions. Par ailleurs, le député exerce son mandat suivant sa conscience, mais dans le respect des règles déterminées par son groupe parlementaire : en cas de manquement grave à cette discipline de groupe, la déchéance du mandat peut être prononcée par la Haute Cour Constitutionnelle. Ces dispositions relatives au statut s'appliquent par analogie au Sénat (article 85). En matière législative, l'initiative des lois appartient concurremment au Premier Ministre, aux Députés et aux Sénateurs (article 86) : chacun de ces acteurs peut donc déposer un projet ou une proposition de loi. Le Parlement peut également, par un vote à la majorité absolue des membres de chaque Assemblée, déléguer son pouvoir de légiférer au Président de la République, pour un temps limité et un objet déterminé : le Président prend alors des mesures par voie d'ordonnances en Conseil des Ministres.",
+      "definition": "Le mandat de député est incompatible avec tout autre mandat électif ou emploi public, sauf l'enseignement (article 71) ; la déchéance pour manquement à la discipline de groupe est prononcée par la Haute Cour Constitutionnelle. L'initiative des lois appartient concurremment au Premier Ministre, aux Députés et aux Sénateurs (article 86). Le Parlement peut déléguer son pouvoir législatif au Président par un vote à la majorité absolue de chaque Assemblée, pour un temps limité et un objet déterminé."
+    },
+    {
+      "titre": "La motion de censure : le contrôle parlementaire sur le Gouvernement",
+      "texte": "Si le Président peut dissoudre l'Assemblée Nationale, celle-ci dispose en retour d'une arme symétrique : la motion de censure, qui matérialise concrètement la séparation souple des pouvoirs évoquée plus haut. L'Assemblée Nationale peut mettre en cause la responsabilité politique du Gouvernement par le vote d'une telle motion. Pour être recevable, la motion doit être signée par la moitié au moins des membres composant l'Assemblée Nationale — un seuil élevé, destiné à éviter les motions de censure déposées de manière purement symbolique sans réelle perspective de succès. Le vote, lui, ne peut intervenir que quarante-huit heures après le dépôt de la motion : ce délai de réflexion obligatoire laisse le temps au débat parlementaire et empêche une décision précipitée. Pour être adoptée, la motion doit recueillir les voix des deux tiers des membres composant l'Assemblée Nationale — un seuil de majorité qualifiée nettement plus exigeant que la majorité simple, ce qui traduit la volonté du constituant de préserver la stabilité gouvernementale tout en maintenant un contrôle parlementaire réel. Si la motion est adoptée, le Gouvernement remet sa démission au Président de la République, qui procède alors à la nomination d'un nouveau Premier Ministre dans les conditions prévues à l'article 54 — c'est-à-dire, à nouveau, issu de la majorité parlementaire.",
+      "definition": "La motion de censure permet à l'Assemblée Nationale de renverser le Gouvernement. Elle doit être signée par la moitié au moins des membres de l'Assemblée, le vote intervenant 48 heures après le dépôt, et n'est adoptée qu'à la majorité qualifiée des deux tiers des membres. Si elle est adoptée, le Gouvernement démissionne et un nouveau Premier Ministre est nommé selon les conditions de l'article 54."
+    },
+    {
+      "titre": "Le pouvoir judiciaire : indépendance et organisation",
+      "texte": "Le troisième pilier classique de la séparation des pouvoirs est le pouvoir judiciaire. L'article 97 de la Constitution dispose que la justice est rendue, conformément à la Constitution et à la loi, au nom du Peuple malagasy, par la Cour Suprême, les Cours d'Appel, les juridictions qui leur sont rattachées, ainsi que la Haute Cour de Justice. Cette dernière institution est spécifiquement compétente pour juger les plus hautes autorités de l'État en cas de manquement grave dans l'exercice de leurs fonctions. L'article 99 consacre le principe cardinal de l'indépendance des magistrats du siège : dans l'exercice de leurs fonctions juridictionnelles, ils ne sont soumis qu'à la Constitution et à la loi — formule qui les protège explicitement contre toute pression extérieure, qu'elle vienne du pouvoir exécutif, du pouvoir législatif, ou de tout autre acteur. La Cour Suprême, plus haute juridiction de l'ordre judiciaire et administratif (regroupant en son sein la Cour de Cassation, le Conseil d'État et la Cour des Comptes), occupe une place centrale dans cette architecture. Pour veiller au bon fonctionnement de l'ensemble de cette organisation judiciaire, la Constitution institue un Conseil National de la Justice, organe consultatif présidé par le Premier Président de la Cour Suprême, qui rassemble notamment le Procureur Général de la Cour Suprême, les chefs des Cours d'Appel, des représentants des pouvoirs exécutif et législatif, de la Haute Cour Constitutionnelle, du Conseil Supérieur de la Magistrature, du Haut Conseil pour la Défense de la Démocratie et de l'État de droit, ainsi que des auxiliaires de justice ; il peut proposer au Gouvernement des mesures législatives ou réglementaires relatives à l'organisation judiciaire et au statut des magistrats.",
+      "definition": "La justice est rendue au nom du Peuple malagasy par la Cour Suprême, les Cours d'Appel, les juridictions rattachées et la Haute Cour de Justice (article 97). Les magistrats du siège sont indépendants, soumis uniquement à la Constitution et à la loi (article 99). Le Conseil National de la Justice, organe consultatif présidé par le Premier Président de la Cour Suprême, rassemble les principaux acteurs institutionnels concernés par l'organisation judiciaire."
+    },
+    {
+      "titre": "La Haute Cour Constitutionnelle : gardienne de la Constitution",
+      "texte": "Au sommet de l'architecture institutionnelle se trouve une juridiction d'un type particulier : la Haute Cour Constitutionnelle (HCC), dont la mission est de garantir le respect de la Constitution par l'ensemble des pouvoirs publics. Elle comprend neuf membres, dont le mandat est de sept ans ; son président est élu par et parmi les membres de la Cour, cette élection — comme la désignation des autres membres — étant constatée par décret du Président de la République. Les fonctions de membre de la Haute Cour Constitutionnelle sont soumises à un régime d'incompatibilités strict : elles ne peuvent être cumulées avec celles de membre du Gouvernement ou du Parlement, avec tout mandat public électif, avec toute autre activité professionnelle rémunérée (à l'exception de l'enseignement), ni avec aucune activité au sein d'un parti politique ou d'un syndicat (article 115) — autant de garanties destinées à assurer son indépendance et son impartialité. Les compétences de la HCC, fixées par l'article 116, sont étendues : elle statue sur la conformité à la Constitution des traités, des lois, des ordonnances et des règlements autonomes ; elle règle les conflits de compétence entre institutions de l'État ou entre l'État et les collectivités territoriales décentralisées ; elle statue sur la conformité des actes des collectivités territoriales décentralisées ; elle tranche le contentieux des opérations référendaires ainsi que des élections présidentielle, législatives et sénatoriales ; et elle proclame les résultats officiels de l'ensemble de ces scrutins.",
+      "definition": "La Haute Cour Constitutionnelle (HCC) comprend neuf membres, nommés pour un mandat de sept ans, avec un régime d'incompatibilités strict (article 115). Ses compétences (article 116) incluent le contrôle de constitutionnalité des textes, le règlement des conflits de compétence entre institutions, le contentieux électoral et référendaire, et la proclamation des résultats officiels des scrutins."
+    },
+    {
+      "titre": "Le contrôle de constitutionnalité : avant et après la promulgation",
+      "texte": "La Haute Cour Constitutionnelle exerce son contrôle de deux manières distinctes, selon le moment où elle intervient. D'une part, un contrôle a priori est rendu obligatoire par l'article 117 : avant leur promulgation, les lois organiques, les lois et les ordonnances doivent obligatoirement être soumises par le Président de la République à la Haute Cour Constitutionnelle, qui statue sur leur conformité à la Constitution. Aucun texte de cette nature ne peut donc entrer en vigueur sans avoir préalablement passé ce filtre constitutionnel. D'autre part, un contrôle a posteriori est également prévu par l'article 118 : un Chef d'Institution, le quart des membres composant l'une des Assemblées parlementaires, les organes des collectivités territoriales décentralisées, ou encore le Haut Conseil pour la Défense de la Démocratie et de l'État de droit, peuvent déférer à la Haute Cour Constitutionnelle, pour contrôle de constitutionnalité, tout texte à valeur législative ou réglementaire déjà en vigueur. Une voie de saisine existe également lorsqu'une partie à un procès soutient qu'une disposition légale ou réglementaire porte atteinte à ses droits fondamentaux : la juridiction saisie peut alors surseoir à statuer pour permettre ce contrôle. Dans tous les cas, une disposition déclarée inconstitutionnelle cesse de plein droit d'être en vigueur, et la décision de la Haute Cour Constitutionnelle est publiée au Journal Officiel. La Haute Cour Constitutionnelle dispose enfin d'une fonction consultative, à la demande d'un Chef d'Institution ou d'un organe d'une collectivité territoriale décentralisée, sur la constitutionnalité d'un projet d'acte (article 119) — une manière d'anticiper d'éventuels problèmes avant même qu'un texte ne soit définitivement adopté.",
+      "definition": "Le contrôle de constitutionnalité s'exerce a priori (article 117 : contrôle obligatoire des lois organiques, lois et ordonnances avant leur promulgation) et a posteriori (article 118 : saisine par un Chef d'Institution, le quart des membres d'une Assemblée, les organes des CTD, ou le Haut Conseil pour la Défense de la Démocratie et de l'État de droit). Une disposition inconstitutionnelle cesse de plein droit d'être en vigueur."
+    },
+    {
+      "titre": "La vacance de la présidence : organiser la continuité de l'État",
+      "texte": "Que se passe-t-il si le Président de la République ne peut plus exercer ses fonctions — décès, démission, empêchement définitif constaté par la Haute Cour Constitutionnelle ? La Constitution de 2010 a modifié sur ce point le système antérieur. Avant la révision intervenue en 2010, en cas d'interruption du mandat présidentiel, c'était le président du Sénat qui exerçait seul le pouvoir par intérim, à charge pour lui d'organiser une nouvelle élection dans les six mois suivants. La Constitution de la IVe République a remplacé ce mécanisme par un système collégial : en cas de vacance de la présidence de la République, le pouvoir est transféré à une direction collégiale composée du Premier Ministre, du président du Sénat et du président de l'Assemblée Nationale. Cette évolution répond à une logique de prudence institutionnelle : confier la transition à trois autorités conjointement, plutôt qu'à une seule, limite les risques de concentration excessive du pouvoir entre les mains d'une unique personne pendant une période par nature fragile et incertaine pour la stabilité de l'État.",
+      "definition": "En cas de vacance de la présidence de la République, la Constitution de 2010 prévoit un transfert collégial du pouvoir, confié conjointement au Premier Ministre, au président du Sénat et au président de l'Assemblée Nationale — remplaçant l'ancien système où le président du Sénat assurait seul l'intérim, à charge d'organiser une élection dans les six mois."
+    },
+    {
+      "titre": "La révision constitutionnelle : un texte modifiable, mais pas sans limites",
+      "texte": "Une Constitution n'est pas un texte figé pour l'éternité : elle peut être révisée pour s'adapter à l'évolution de la société et des institutions. L'article 162 prévoit que tout projet ou toute proposition de révision constitutionnelle, une fois approuvé selon la procédure parlementaire requise, doit obligatoirement être soumis à référendum — la décision finale revient donc toujours au peuple souverain, et non aux seuls représentants élus. Mais cette possibilité de révision n'est pas sans bornes : l'article 163 fixe une liste de principes que la Constitution interdit absolument de réviser, quelle que soit la procédure suivie. Sont ainsi exclus de toute révision : la forme républicaine de l'État, l'intégrité du territoire national, le principe de la séparation des pouvoirs, le principe de l'autonomie des collectivités territoriales décentralisées, ainsi que la durée et le nombre de mandats du Président de la République. Cette même disposition précise, dans un souci de protection renforcée, que les pouvoirs exceptionnels détenus par le Président de la République dans des circonstances exceptionnelles ou de trouble politique ne lui confèrent jamais le droit de recourir à une révision constitutionnelle par cette voie. Ce verrouillage de certaines dispositions fondamentales — que l'on retrouve dans de nombreuses constitutions modernes — vise précisément à empêcher qu'un pouvoir, même légitimement investi de prérogatives exceptionnelles, ne se serve de ces circonstances pour modifier en sa faveur les règles mêmes du jeu démocratique.",
+      "definition": "Toute révision constitutionnelle approuvée doit être soumise à référendum (article 162). L'article 163 interdit absolument de réviser : la forme républicaine de l'État, l'intégrité du territoire, la séparation des pouvoirs, l'autonomie des collectivités territoriales décentralisées, et la durée ou le nombre de mandats présidentiels. Les pouvoirs exceptionnels ne confèrent jamais le droit de réviser la Constitution par cette voie."
+    },
+    {
+      "titre": "Récapitulatif : l'architecture institutionnelle de la IVe République",
+      "texte": "Voici l'essentiel à retenir de ce module. La Constitution du 11 décembre 2010 fonde la IVe République malgache sur les principes de démocratie, d'État de droit et de laïcité, avec une souveraineté populaire exercée par voie représentative ou référendaire. L'État est unitaire mais décentralisé en communes, régions et six provinces. Le régime est semi-présidentiel, à séparation souple des pouvoirs : le Président peut dissoudre l'Assemblée Nationale (article 60), qui peut renverser le Gouvernement par motion de censure (recevable à la moitié des membres, adoptée aux deux tiers). Le Président, chef de l'État élu pour cinq ans renouvelables une fois, nomme le Premier Ministre issu de la majorité parlementaire, promulgue les lois, et peut proclamer une situation d'exception sous contrôle procédural. Le Parlement bicaméral (Assemblée Nationale élue, Sénat mixte) vote la loi et contrôle le Gouvernement. Le pouvoir judiciaire, organisé autour de la Cour Suprême et de la Haute Cour de Justice, est indépendant (article 99). La Haute Cour Constitutionnelle (neuf membres, sept ans de mandat) exerce un contrôle de constitutionnalité a priori (obligatoire avant promulgation) et a posteriori, et tranche le contentieux électoral. En cas de vacance présidentielle, un collège tripartite (Premier Ministre, président du Sénat, président de l'Assemblée Nationale) assure la transition. Enfin, la révision constitutionnelle, toujours soumise à référendum, ne peut jamais toucher à la forme républicaine, à l'intégrité territoriale, à la séparation des pouvoirs, à l'autonomie des CTD, ni à la durée des mandats présidentiels.",
+      "definition": "À retenir : Constitution du 11/12/2010 (IVe République), régime semi-présidentiel à séparation souple des pouvoirs (dissolution AN / motion de censure), Président élu 5 ans renouvelables une fois, Parlement bicaméral (AN + Sénat), pouvoir judiciaire indépendant (Cour Suprême, Haute Cour de Justice), HCC (9 membres, 7 ans, contrôle a priori et a posteriori), vacance présidentielle = collège PM + président Sénat + président AN, révision constitutionnelle par référendum avec limites intangibles (article 163)."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quand la Constitution actuelle de Madagascar a-t-elle été promulguée, et quelle République fonde-t-elle ?",
+      "choix": [
+        "Le 11 décembre 2010, fondant la IVe République",
+        "Le 19 août 1992, fondant la IIIe République",
+        "Le 26 juin 1960, fondant la Ire République",
+        "Le 31 décembre 1975, fondant la IIe République"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cette Constitution a été adoptée par référendum le 17 novembre 2010.",
+        "Elle est la deuxième constitution depuis celle de 1992.",
+        "C'est la quatrième loi fondamentale républicaine depuis l'indépendance."
+      ],
+      "explication": "La Constitution actuellement en vigueur a été adoptée par référendum le 17 novembre 2010 (74,19 % de oui) et promulguée le 11 décembre 2010, faisant entrer Madagascar dans sa IVe République — la quatrième loi fondamentale républicaine du pays après celles de 1959, 1975 et 1992."
+    },
+    {
+      "question": "Combien de titres et de sous-titres comporte la Constitution de la IVe République, après son préambule ?",
+      "choix": [
+        "Trois titres et quatre sous-titres",
+        "Sept titres et huit sous-titres",
+        "Dix titres et aucun sous-titre",
+        "Un titre unique sans sous-titre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le texte est structuré pour couvrir l'ensemble de l'organisation de l'État.",
+        "Ce nombre relativement élevé reflète la complexité des matières traitées.",
+        "Cette structure comprend notamment le titre relatif aux collectivités territoriales décentralisées."
+      ],
+      "explication": "La Constitution comprend un préambule suivi de sept titres, eux-mêmes subdivisés en huit sous-titres, couvrant l'ensemble de l'organisation de l'État malgache : principes fondamentaux, droits et devoirs, organisation des pouvoirs publics, collectivités territoriales décentralisées, révision constitutionnelle, et dispositions transitoires."
+    },
+    {
+      "question": "Sur quels principes fondamentaux l'article premier de la Constitution fait-il reposer la République de Madagascar ?",
+      "choix": [
+        "Le fédéralisme et la monarchie constitutionnelle",
+        "La démocratie et le principe de l'État de droit",
+        "Le parti unique et la planification centralisée",
+        "La théocratie et l'autorité religieuse suprême"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces deux principes constituent le socle de toute l'architecture constitutionnelle qui suit.",
+        "L'un renvoie à la souveraineté populaire, l'autre à la soumission des gouvernants au droit.",
+        "Le territoire national est par ailleurs déclaré inaliénable."
+      ],
+      "explication": "L'article premier de la Constitution dispose que la démocratie et le principe de l'État de droit constituent le fondement de la République de Madagascar, dont la souveraineté s'exerce dans les limites de son territoire, lui-même déclaré inaliénable."
+    },
+    {
+      "question": "Que signifie le principe de laïcité affirmé par l'article 2 de la Constitution malgache ?",
+      "choix": [
+        "L'interdiction pure et simple de toute pratique religieuse sur le territoire national",
+        "La séparation des affaires de l'État et des institutions religieuses, l'État affirmant sa neutralité à l'égard des différentes religions",
+        "L'instauration d'une religion d'État officielle",
+        "L'obligation pour tous les fonctionnaires de déclarer leur religion"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe n'interdit pas la pratique religieuse, il organise les rapports entre l'État et les religions.",
+        "L'État et les institutions religieuses s'interdisent mutuellement toute immixtion dans leurs domaines respectifs.",
+        "Ce principe traduit une neutralité de l'État, et non une hostilité envers le fait religieux."
+      ],
+      "explication": "L'article 2 de la Constitution affirme la neutralité de l'État à l'égard des différentes religions. La laïcité de la République repose sur le principe de la séparation des affaires de l'État et des institutions religieuses, chacune s'interdisant toute immixtion dans le domaine de l'autre."
+    },
+    {
+      "question": "Quelles sont les trois catégories de collectivités territoriales décentralisées prévues par l'article 3 de la Constitution malgache ?",
+      "choix": [
+        "Les départements, les arrondissements et les cantons",
+        "Les communes, les régions et les provinces",
+        "Les districts, les fokontany et les villages uniquement",
+        "Les états fédérés et les territoires autonomes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces trois niveaux sont dotés d'une autonomie administrative et financière garantie par la Constitution.",
+        "Le niveau le plus large correspond aux ressorts des Cours d'Appel.",
+        "Madagascar est un État unitaire mais décentralisé selon ces trois échelons."
+      ],
+      "explication": "L'article 3 de la Constitution dispose que la République de Madagascar repose sur un système de collectivités territoriales décentralisées composées de communes, de régions et de provinces, dont l'autonomie administrative et financière est garantie par la Constitution et précisée par la loi."
+    },
+    {
+      "question": "Combien de provinces compte Madagascar, et quel autre découpage administratif leur correspond ?",
+      "choix": [
+        "Quatre provinces, correspondant aux quatre régions économiques",
+        "Six provinces (Antananarivo, Toamasina, Fianarantsoa, Mahajanga, Toliara, Antsiranana), correspondant aux ressorts des six Cours d'Appel",
+        "Vingt-deux provinces, correspondant aux vingt-deux régions",
+        "Une seule province centralisée autour d'Antananarivo"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce découpage en six provinces a été étudié en lien avec l'organisation judiciaire.",
+        "Chaque province peut adopter sa propre loi statutaire, conforme à la Constitution.",
+        "Les Cours d'Appel sont implantées dans les chefs-lieux de ces six provinces."
+      ],
+      "explication": "Madagascar compte six provinces — Antananarivo, Toamasina, Fianarantsoa, Mahajanga, Toliara et Antsiranana — qui correspondent aux ressorts des six Cours d'Appel de l'ordre judiciaire. Chaque province peut adopter sa propre loi statutaire, à condition qu'elle reste conforme à la Constitution."
+    },
+    {
+      "question": "Quelle est la devise nationale de la République de Madagascar, telle que fixée par l'article 4 de la Constitution ?",
+      "choix": [
+        "Liberté – Égalité – Fraternité",
+        "Fitiavana – Tanindrazana – Fandrosoana",
+        "Unité – Travail – Progrès",
+        "Paix – Justice – Prospérité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette devise est exprimée en langue malgache.",
+        "Elle évoque l'amour, la patrie et le progrès.",
+        "L'article 4 fixe également le drapeau, l'hymne et la capitale."
+      ],
+      "explication": "L'article 4 de la Constitution fixe la devise de la République de Madagascar : « Fitiavana – Tanindrazana – Fandrosoana » (Amour – Patrie – Progrès), aux côtés des autres symboles nationaux que sont le drapeau tricolore, l'hymne « Ry Tanindrazanay malala ô ! » et la capitale Antananarivo."
+    },
+    {
+      "question": "Quelles sont les langues officielles de la République de Madagascar selon la Constitution, par opposition à sa langue nationale ?",
+      "choix": [
+        "Le malagasy est à la fois langue nationale et seule langue officielle",
+        "La langue nationale est le malagasy, tandis que les langues officielles sont le malagasy et le français",
+        "L'anglais est l'unique langue officielle",
+        "Le français est l'unique langue officielle, le malagasy n'étant qu'une langue régionale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Constitution distingue la notion de « langue nationale » de celle de « langues officielles ».",
+        "Deux langues sont reconnues comme officielles, l'une étant également la langue nationale.",
+        "Cette distinction figure à l'article 4 de la Constitution."
+      ],
+      "explication": "L'article 4 de la Constitution précise que la langue nationale est le malagasy, tandis que les langues officielles sont le malagasy et le français. Cette distinction reconnaît au malagasy un statut national propre tout en consacrant un bilinguisme officiel avec le français."
+    },
+    {
+      "question": "Selon l'article 5 de la Constitution, à qui appartient la souveraineté à Madagascar ?",
+      "choix": [
+        "Au Président de la République, en sa qualité de chef de l'État",
+        "Au peuple, source de tout pouvoir, qui l'exerce par ses représentants élus ou par voie de référendum",
+        "À la Haute Cour Constitutionnelle, gardienne de la Constitution",
+        "Aux six provinces, en tant que collectivités souveraines"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe est au cœur de toute démocratie représentative.",
+        "Le peuple peut exercer cette souveraineté de deux manières distinctes.",
+        "Aucune fraction du peuple ni aucun individu ne peut s'attribuer cette souveraineté."
+      ],
+      "explication": "L'article 5 de la Constitution dispose que la souveraineté appartient au peuple, source de tout pouvoir, qui l'exerce par ses représentants élus au suffrage universel direct ou indirect, ou par la voie du référendum. Aucune fraction du peuple ni aucun individu ne peut s'attribuer l'exercice de cette souveraineté."
+    },
+    {
+      "question": "Comment qualifie-t-on le régime politique institué par la Constitution malgache de 2010, du point de vue de la séparation des pouvoirs ?",
+      "choix": [
+        "Un régime présidentiel à séparation stricte des pouvoirs",
+        "Un régime semi-présidentiel à séparation souple des pouvoirs",
+        "Un régime parlementaire moniste sans chef de l'État",
+        "Un régime d'assemblée concentrant tous les pouvoirs au Parlement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'exécutif et le Parlement disposent chacun d'un moyen d'action sur l'autre.",
+        "Ce régime s'oppose au modèle américain, fondé sur une séparation stricte.",
+        "Le Président peut dissoudre l'Assemblée Nationale, qui peut à son tour renverser le Gouvernement."
+      ],
+      "explication": "Madagascar est une république semi-présidentielle fondée sur une séparation souple des pouvoirs : l'exécutif peut dissoudre l'Assemblée Nationale, et l'Assemblée Nationale peut, à l'inverse, renverser le Gouvernement par une motion de censure. Ce modèle s'oppose au régime présidentiel à séparation stricte des pouvoirs."
+    },
+    {
+      "question": "Qu'est-ce qui distingue un régime à séparation stricte des pouvoirs d'un régime à séparation souple des pouvoirs ?",
+      "choix": [
+        "Dans un régime à séparation stricte, l'exécutif et le législatif disposent de moyens d'action réciproques ; dans un régime à séparation souple, chacun reste totalement indépendant",
+        "Dans un régime à séparation stricte, l'exécutif ne peut pas dissoudre le Parlement et le Parlement ne peut pas renverser l'exécutif ; dans un régime à séparation souple, ces deux mécanismes existent",
+        "Il n'existe aucune différence pratique entre ces deux types de régimes",
+        "La séparation stricte ne concerne que les régimes monarchiques"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le modèle américain illustre la séparation stricte des pouvoirs.",
+        "Le modèle malgache illustre au contraire la séparation souple.",
+        "La présence ou l'absence de moyens d'action réciproques entre exécutif et législatif est le critère décisif."
+      ],
+      "explication": "Dans un régime à séparation stricte des pouvoirs (modèle présidentiel classique), l'exécutif ne peut pas dissoudre le Parlement, et le Parlement ne peut pas renverser l'exécutif. Dans un régime à séparation souple des pouvoirs, les deux organes disposent au contraire de moyens d'action réciproques qui leur permettent de s'influencer mutuellement — c'est le modèle retenu par la Constitution malgache de 2010."
+    },
+    {
+      "question": "Qui exerce la fonction exécutive à Madagascar, selon l'article 44 de la Constitution ?",
+      "choix": [
+        "Le Président de la République seul, sans Gouvernement",
+        "Le Président de la République et le Gouvernement",
+        "Le Parlement, en tant qu'organe collégial unique",
+        "La Haute Cour Constitutionnelle, par délégation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette fonction est répartie entre deux organes distincts mais articulés.",
+        "L'un est le chef de l'État, l'autre est dirigé par le Premier Ministre.",
+        "L'article 45 précise ensuite le rôle spécifique du premier de ces deux organes."
+      ],
+      "explication": "L'article 44 de la Constitution dispose que la fonction exécutive est exercée par le Président de la République et le Gouvernement — deux organes distincts mais étroitement articulés, le second étant dirigé par le Premier Ministre."
+    },
+    {
+      "question": "Pour quelle durée le Président de la République est-il élu, et son mandat est-il renouvelable ?",
+      "choix": [
+        "Quatre ans, renouvelable indéfiniment",
+        "Cinq ans, renouvelable une seule fois",
+        "Sept ans, non renouvelable",
+        "Dix ans, renouvelable deux fois"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette durée est identique à celle du mandat des députés et des sénateurs.",
+        "Le mandat ne peut être renouvelé qu'une seule fois.",
+        "La durée et le nombre de mandats présidentiels figurent parmi les éléments protégés contre toute révision constitutionnelle."
+      ],
+      "explication": "Le Président de la République est élu au suffrage universel direct pour un mandat de cinq ans, renouvelable une seule fois. Cette règle est si fondamentale qu'elle figure parmi les dispositions que la Constitution interdit expressément de réviser (article 163)."
+    },
+    {
+      "question": "Devant quelle institution le Président de la République élu prête-t-il serment avant d'entrer en fonction ?",
+      "choix": [
+        "Devant le Premier Ministre uniquement",
+        "Devant la Haute Cour Constitutionnelle, devant la Nation, en présence du Gouvernement, de l'Assemblée Nationale, du Sénat et de la Cour Suprême",
+        "Devant la Cour Suprême uniquement, à huis clos",
+        "Aucun serment n'est requis pour entrer en fonction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette cérémonie rassemble l'ensemble des grandes institutions de l'État.",
+        "Le texte du serment est prononcé en langue malgache.",
+        "C'est cette même institution qui constate une éventuelle violation du serment."
+      ],
+      "explication": "Le Président élu prête serment devant la Haute Cour Constitutionnelle, devant la Nation, en présence du Gouvernement, de l'Assemblée Nationale, du Sénat et de la Cour Suprême. C'est également la Haute Cour Constitutionnelle qui constate toute violation des dispositions du serment, ce qui constitue un motif d'empêchement définitif du Président."
+    },
+    {
+      "question": "À partir de quel moment le mandat présidentiel commence-t-il, selon la Constitution ?",
+      "choix": [
+        "À partir de la proclamation officielle des résultats de l'élection",
+        "À partir du jour de la prestation de serment",
+        "À partir de la date de la passation de pouvoir avec le précédent président",
+        "À partir du premier Conseil des Ministres présidé par le nouveau président"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce point de départ est distinct de la simple proclamation des résultats électoraux.",
+        "Il correspond à un acte solennel précisément encadré par la Constitution.",
+        "C'est ce même acte dont la violation peut entraîner un empêchement définitif."
+      ],
+      "explication": "Le mandat présidentiel commence à partir du jour de la prestation de serment, et non à partir de la simple proclamation des résultats de l'élection. Cette précision a une importance pratique pour déterminer, par exemple, à partir de quand court le délai du mandat de cinq ans."
+    },
+    {
+      "question": "Qu'est-ce qu'un « empêchement définitif » du Président de la République, en lien avec le serment prêté ?",
+      "choix": [
+        "Une simple absence temporaire du Président pour raisons médicales",
+        "Une cause mettant fin au mandat présidentiel, constatée par la Haute Cour Constitutionnelle en cas de violation des dispositions du serment",
+        "Une procédure réservée exclusivement à la destitution par le Parlement",
+        "Une décision prise unilatéralement par le Premier Ministre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mécanisme illustre le principe d'État de droit appliqué au plus haut sommet de l'État.",
+        "Il sanctionne spécifiquement une violation des engagements pris lors du serment.",
+        "C'est la Haute Cour Constitutionnelle, et non le Parlement, qui constate cet empêchement."
+      ],
+      "explication": "Toute violation des dispositions relatives au serment présidentiel, dès lors qu'elle est constatée par la Haute Cour Constitutionnelle, constitue un motif d'empêchement définitif du Président de la République — c'est-à-dire une cause qui met fin à son mandat. Ce mécanisme illustre concrètement que même le chef de l'État reste soumis au droit."
+    },
+    {
+      "question": "Comment le Président de la République choisit-il le Premier Ministre, selon l'article 54 de la Constitution ?",
+      "choix": [
+        "Il le choisit librement, sans aucune contrainte",
+        "Il le nomme parmi les candidats présentés par le parti ou le groupe de partis majoritaire à l'Assemblée Nationale",
+        "Le Premier Ministre est élu directement par le peuple, indépendamment du Président",
+        "Le Premier Ministre est désigné par la Haute Cour Constitutionnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mécanisme garantit que le Gouvernement reflète la composition de l'Assemblée Nationale.",
+        "Cette règle est typique d'un régime semi-présidentiel.",
+        "La même procédure s'applique en cas de nomination d'un nouveau Premier Ministre après une motion de censure."
+      ],
+      "explication": "L'article 54 de la Constitution dispose que le Président de la République nomme le Premier Ministre, lequel doit être présenté par le parti ou le groupe de partis majoritaire à l'Assemblée Nationale. Ce mécanisme garantit que le Gouvernement reflète la majorité parlementaire, conformément à la logique du régime semi-présidentiel."
+    },
+    {
+      "question": "Dans quel délai le Président de la République doit-il promulguer une loi définitivement adoptée par l'Assemblée Nationale ?",
+      "choix": [
+        "Dans les huit jours suivant son adoption",
+        "Dans les trois semaines suivant sa transmission par l'Assemblée Nationale",
+        "Dans les trois mois suivant son adoption",
+        "Aucun délai n'est imposé au Président"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai court à partir de la transmission par l'Assemblée Nationale, et non du vote lui-même.",
+        "Avant l'expiration de ce délai, le Président peut demander une nouvelle délibération.",
+        "L'article 59 de la Constitution fixe ce délai."
+      ],
+      "explication": "L'article 59 de la Constitution prévoit que le Président de la République promulgue les lois dans les trois semaines suivant leur transmission par l'Assemblée Nationale, après leur adoption définitive."
+    },
+    {
+      "question": "Que peut faire le Président de la République avant l'expiration du délai de promulgation d'une loi, et le Parlement peut-il refuser cette démarche ?",
+      "choix": [
+        "Il peut abroger directement la loi sans en référer au Parlement",
+        "Il peut demander au Parlement une nouvelle délibération de la loi ou de certains de ses articles, une demande que le Parlement ne peut refuser",
+        "Il peut transmettre la loi à la Haute Cour Constitutionnelle pour annulation pure et simple",
+        "Il n'a aucune possibilité d'action, la promulgation étant purement automatique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette faculté permet au Président de faire reconsidérer un texte sans pour autant pouvoir y opposer un veto définitif.",
+        "Le Parlement est tenu d'examiner à nouveau le texte concerné.",
+        "L'article 59 précise que cette demande ne peut être refusée."
+      ],
+      "explication": "Avant l'expiration du délai de trois semaines, le Président de la République peut demander au Parlement une nouvelle délibération de la loi ou de certains de ses articles. L'article 59 précise que cette nouvelle délibération ne peut être refusée par le Parlement — il s'agit donc d'un droit de seconde lecture, et non d'un véritable droit de veto."
+    },
+    {
+      "question": "Selon quelle procédure le Président de la République peut-il prononcer la dissolution de l'Assemblée Nationale ?",
+      "choix": [
+        "Sans aucune formalité préalable, à sa seule discrétion",
+        "Après information auprès du Premier Ministre, et après consultation des présidents des Assemblées",
+        "Uniquement avec l'accord exprès de la Haute Cour Constitutionnelle",
+        "Uniquement après un vote favorable de l'Assemblée Nationale elle-même"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette procédure implique deux étapes préalables distinctes.",
+        "L'une concerne le chef du Gouvernement, l'autre les présidents des deux chambres du Parlement.",
+        "L'article 60 de la Constitution précise cette procédure."
+      ],
+      "explication": "L'article 60 de la Constitution dispose que le Président de la République peut, après information auprès du Premier Ministre, et après consultation des présidents des Assemblées, prononcer la dissolution de l'Assemblée Nationale."
+    },
+    {
+      "question": "Dans quel délai les élections générales doivent-elles se tenir après le prononcé de la dissolution de l'Assemblée Nationale ?",
+      "choix": [
+        "Dans les trente jours au plus",
+        "Entre soixante jours au moins et quatre-vingt-dix jours au plus",
+        "Dans les six mois au plus",
+        "Dans l'année qui suit, sans délai minimal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai encadre à la fois un minimum et un maximum.",
+        "Il laisse le temps d'organiser matériellement le scrutin, sans pour autant prolonger excessivement la vacance parlementaire.",
+        "L'article 60 de la Constitution fixe cette fourchette."
+      ],
+      "explication": "L'article 60 de la Constitution dispose que les élections générales se tiennent soixante jours au moins et quatre-vingt-dix jours au plus après le prononcé de la dissolution de l'Assemblée Nationale."
+    },
+    {
+      "question": "Une nouvelle dissolution de l'Assemblée Nationale peut-elle intervenir immédiatement après les élections générales consécutives à une première dissolution ?",
+      "choix": [
+        "Oui, sans aucune restriction de délai",
+        "Non, aucune nouvelle dissolution ne peut être prononcée dans les deux années qui suivent ces élections",
+        "Non, une nouvelle dissolution est définitivement impossible pendant toute la durée du mandat présidentiel",
+        "Oui, mais uniquement avec l'accord du Sénat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette restriction vise à garantir une certaine stabilité institutionnelle après une dissolution.",
+        "Le délai de protection est de deux ans, et non définitif.",
+        "L'article 60 de la Constitution fixe cette limite temporaire."
+      ],
+      "explication": "L'article 60 de la Constitution prévoit qu'il ne peut être procédé à une nouvelle dissolution de l'Assemblée Nationale dans les deux années qui suivent les élections générales consécutives à une dissolution précédente, afin de garantir un minimum de stabilité institutionnelle."
+    },
+    {
+      "question": "Quelles sont les quatre formes de situation d'exception que le Président de la République peut proclamer selon l'article 61 de la Constitution ?",
+      "choix": [
+        "L'état de siège, l'état de catastrophe, l'état sanitaire et l'état budgétaire",
+        "L'état d'urgence, l'état de nécessité, la loi martiale, et l'état de crise",
+        "L'état d'alerte, l'état militaire, l'état civil et l'état économique",
+        "Aucune situation d'exception n'est prévue par la Constitution"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces quatre formes sont déclenchées en cas de menace grave sur les institutions, l'indépendance, l'unité ou l'intégrité territoriale.",
+        "Elles confèrent au Président des pouvoirs spéciaux dont l'étendue est fixée par loi organique.",
+        "L'article 61 de la Constitution les énumère."
+      ],
+      "explication": "L'article 61 de la Constitution permet au Président de proclamer, en cas de menace grave compromettant le fonctionnement régulier des pouvoirs publics, l'une des quatre situations d'exception suivantes : l'état d'urgence, l'état de nécessité, la loi martiale, ou l'état de crise."
+    },
+    {
+      "question": "Selon quelle procédure le Président de la République proclame-t-il une situation d'exception ?",
+      "choix": [
+        "À sa seule discrétion, sans aucune consultation préalable",
+        "En Conseil des Ministres, après avis des présidents de l'Assemblée Nationale, du Sénat et de la Haute Cour Constitutionnelle",
+        "Uniquement après un vote favorable du Parlement réuni en Congrès",
+        "Sur simple demande du Premier Ministre, sans intervention du Président lui-même"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette procédure implique une délibération collégiale et la consultation de trois institutions distinctes.",
+        "Ces avis constituent une garantie procédurale, sans pour autant lier nécessairement la décision finale.",
+        "L'article 61 de la Constitution fixe cette procédure."
+      ],
+      "explication": "L'article 61 de la Constitution prévoit que la décision de proclamer une situation d'exception est prise par le Président de la République en Conseil des Ministres, après avis des présidents de l'Assemblée Nationale, du Sénat et de la Haute Cour Constitutionnelle — une garantie procédurale destinée à éviter tout usage arbitraire de ce pouvoir exceptionnel."
+    },
+    {
+      "question": "Qui fixe l'étendue et la durée des pouvoirs spéciaux conférés au Président de la République en situation d'exception ?",
+      "choix": [
+        "Le Président lui-même, de manière discrétionnaire",
+        "Une loi organique",
+        "La Haute Cour Constitutionnelle, par voie de décision unilatérale",
+        "Aucune limite n'est fixée, ces pouvoirs sont par nature illimités"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette précision empêche que l'étendue des pouvoirs spéciaux ne dépende du seul bon vouloir du Président.",
+        "Une loi organique a une valeur juridique supérieure à une simple loi ordinaire.",
+        "L'article 61 de la Constitution le précise expressément."
+      ],
+      "explication": "L'article 61 de la Constitution dispose que la proclamation de la situation d'exception confère au Président de la République des pouvoirs spéciaux dont l'étendue et la durée sont fixées par une loi organique, et non par une simple décision discrétionnaire du chef de l'État."
+    },
+    {
+      "question": "Quelle est la différence entre le Conseil des Ministres et le Conseil de Gouvernement à Madagascar ?",
+      "choix": [
+        "Il s'agit de deux noms strictement identiques pour la même réunion",
+        "Le Conseil des Ministres est présidé par le Président de la République, tandis que le Conseil de Gouvernement est présidé par le Premier Ministre",
+        "Le Conseil de Gouvernement est présidé par le Président, et le Conseil des Ministres par le Premier Ministre",
+        "Le Conseil de Gouvernement n'existe pas dans la Constitution malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette distinction reflète la répartition des compétences propre au régime semi-présidentiel.",
+        "L'un de ces deux organes est présidé par le chef de l'État.",
+        "L'article 66 de la Constitution précise qui préside le second."
+      ],
+      "explication": "Le Conseil des Ministres est présidé par le Président de la République, tandis que le Conseil de Gouvernement, selon l'article 66 de la Constitution, est présidé par le Premier Ministre. Cette distinction reflète une répartition des compétences propre au régime semi-présidentiel malgache."
+    },
+    {
+      "question": "Le Parlement malgache est-il composé d'une ou de deux chambres ?",
+      "choix": [
+        "D'une seule chambre, l'Assemblée Nationale",
+        "De deux chambres : l'Assemblée Nationale et le Sénat",
+        "De trois chambres distinctes",
+        "D'aucune chambre, le pouvoir législatif étant exercé directement par le peuple"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'article 68 de la Constitution énonce sa composition.",
+        "L'une de ces chambres est dite « basse », l'autre « haute ».",
+        "Ensemble, elles votent la loi, contrôlent le Gouvernement et évaluent les politiques publiques."
+      ],
+      "explication": "L'article 68 de la Constitution dispose que le Parlement malgache comprend l'Assemblée Nationale et le Sénat — c'est donc un Parlement bicaméral. Ensemble, ces deux chambres votent la loi, contrôlent l'action du Gouvernement et évaluent les politiques publiques."
+    },
+    {
+      "question": "Comment les membres de l'Assemblée Nationale sont-ils élus, et pour quelle durée ?",
+      "choix": [
+        "Au suffrage universel indirect, pour trois ans",
+        "Au suffrage universel direct, pour cinq ans",
+        "Par nomination du Président de la République, pour dix ans",
+        "Par tirage au sort parmi les électeurs, pour deux ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette durée correspond également à celle du mandat présidentiel.",
+        "Le mode de scrutin précis est déterminé par une loi organique.",
+        "Les membres de l'Assemblée Nationale portent le titre de « Député de Madagascar »."
+      ],
+      "explication": "L'article 69 de la Constitution dispose que les membres de l'Assemblée Nationale sont élus pour cinq ans au suffrage universel direct, le régime des scrutins étant déterminé par une loi organique. Ils portent le titre de « Député de Madagascar »."
+    },
+    {
+      "question": "Qui fixe le nombre des membres de l'Assemblée Nationale et le découpage des circonscriptions électorales ?",
+      "choix": [
+        "La Constitution elle-même fixe ce nombre de manière définitive",
+        "Un décret pris en Conseil des Ministres",
+        "La Haute Cour Constitutionnelle, par voie de décision",
+        "Chaque province fixe librement son propre nombre de représentants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette compétence laisse une certaine souplesse pour adapter la représentation à l'évolution démographique.",
+        "Elle relève d'un acte du pouvoir exécutif, et non d'une loi organique.",
+        "L'article 70 de la Constitution attribue cette compétence."
+      ],
+      "explication": "L'article 70 de la Constitution dispose qu'un décret pris en Conseil des Ministres fixe le nombre des membres de l'Assemblée Nationale, la répartition des sièges sur l'ensemble du territoire national, ainsi que le découpage des circonscriptions électorales."
+    },
+    {
+      "question": "Comment se compose le Sénat malgache, selon le mode de désignation de ses membres ?",
+      "choix": [
+        "Tous les sénateurs sont élus directement par le peuple, sans aucune nomination",
+        "Deux tiers des sénateurs sont élus en nombre égal pour chaque province, et un tiers sont nommés par le Président de la République",
+        "Tous les sénateurs sont nommés par le Président de la République, sans aucune élection",
+        "Les sénateurs sont désignés par tirage au sort parmi les anciens députés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette composition mixte reflète la double vocation du Sénat.",
+        "L'un des modes de désignation est électif et territorial, l'autre est une nomination présidentielle.",
+        "Le mandat des sénateurs, comme celui des députés, est de cinq ans."
+      ],
+      "explication": "Le Sénat malgache a une composition mixte : les sénateurs sont élus pour cinq ans, à raison des deux tiers élus en nombre égal pour chaque province, et un tiers nommés directement par le Président de la République. Cette composition reflète la double vocation du Sénat de représenter les territoires tout en assurant un équilibre institutionnel."
+    },
+    {
+      "question": "Quel rôle particulier, au-delà de ses fonctions législatives et de contrôle, le Sénat joue-t-il selon la Constitution malgache ?",
+      "choix": [
+        "Un rôle exclusivement honorifique, sans aucune fonction réelle",
+        "Un rôle consultatif, notamment sur les questions de développement local et régional",
+        "Un rôle juridictionnel, en tant que cour suprême de l'ordre administratif",
+        "Un rôle exécutif, en remplaçant ponctuellement le Gouvernement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce rôle s'ajoute aux fonctions législatives et de contrôle communes aux deux chambres.",
+        "Il est lié à la vocation territoriale particulière du Sénat.",
+        "Il s'exerce notamment, mais pas exclusivement, sur les questions de développement local."
+      ],
+      "explication": "Au-delà de ses fonctions législatives et de contrôle, le Sénat joue également un rôle consultatif, notamment sur les questions de développement local et régional, en raison de sa composition reflétant la représentation des provinces."
+    },
+    {
+      "question": "Avec quelle activité professionnelle le mandat de député est-il compatible, selon l'article 71 de la Constitution ?",
+      "choix": [
+        "Aucune activité professionnelle n'est compatible avec le mandat de député",
+        "Uniquement l'enseignement",
+        "Toute activité professionnelle privée, sans restriction",
+        "Toute fonction publique, sans exception"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette exception est unique et précisément désignée par la Constitution.",
+        "Toutes les autres activités publiques et tout autre mandat électif sont en principe incompatibles.",
+        "L'article 71 de la Constitution énonce cette exception."
+      ],
+      "explication": "L'article 71 de la Constitution dispose que le mandat de député est incompatible avec l'exercice de tout autre mandat public électif et de tout emploi public, à la seule exception de l'enseignement."
+    },
+    {
+      "question": "Que se passe-t-il pour un député nommé membre du Gouvernement ?",
+      "choix": [
+        "Il cumule automatiquement les deux fonctions sans aucune restriction",
+        "Il est suspendu d'office de son mandat de député",
+        "Son mandat de député est définitivement et automatiquement annulé",
+        "Le Gouvernement ne peut jamais nommer un député en son sein"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle découle directement du principe d'incompatibilité posé par l'article 71.",
+        "La suspension n'est pas une annulation définitive du mandat.",
+        "Elle traduit l'incompatibilité entre la fonction de député et tout emploi public."
+      ],
+      "explication": "L'article 71 de la Constitution prévoit qu'un député nommé membre du Gouvernement est suspendu d'office de son mandat de député — il ne peut cumuler les deux fonctions, conformément au principe général d'incompatibilité posé par ce même article."
+    },
+    {
+      "question": "Qui peut prononcer la déchéance d'un député ayant manqué gravement à la discipline de son groupe parlementaire ?",
+      "choix": [
+        "Le président de l'Assemblée Nationale seul, par simple décision administrative",
+        "La Haute Cour Constitutionnelle",
+        "Le Premier Ministre, sur avis du Conseil des Ministres",
+        "Aucune déchéance n'est prévue pour ce motif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette institution intervient également pour constater l'empêchement définitif du Président de la République.",
+        "Elle est aussi compétente en matière de contentieux électoral.",
+        "L'article 71 de la Constitution lui attribue cette compétence spécifique."
+      ],
+      "explication": "L'article 71 de la Constitution prévoit que la déchéance d'un député ayant gravement manqué à la discipline de son groupe parlementaire est prononcée par la Haute Cour Constitutionnelle, qui joue ainsi un rôle de sanction du non-respect de certaines règles de fonctionnement institutionnel."
+    },
+    {
+      "question": "À qui appartient l'initiative des lois à Madagascar, selon l'article 86 de la Constitution ?",
+      "choix": [
+        "Uniquement au Premier Ministre",
+        "Concurremment au Premier Ministre, aux Députés et aux Sénateurs",
+        "Uniquement au Président de la République",
+        "Uniquement à la Haute Cour Constitutionnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette compétence n'est pas réservée à un seul acteur institutionnel.",
+        "Elle est partagée entre l'exécutif et les deux chambres du Parlement.",
+        "L'article 86 de la Constitution emploie le terme « concurremment »."
+      ],
+      "explication": "L'article 86 de la Constitution dispose que l'initiative des lois appartient concurremment au Premier Ministre, aux Députés et aux Sénateurs — chacun de ces acteurs pouvant donc déposer un projet ou une proposition de loi."
+    },
+    {
+      "question": "Selon quelle procédure le Parlement peut-il déléguer son pouvoir de légiférer au Président de la République ?",
+      "choix": [
+        "Par un simple accord verbal entre le Président de l'Assemblée Nationale et le Président de la République",
+        "Par un vote à la majorité absolue des membres composant chaque Assemblée, pour un temps limité et un objet déterminé",
+        "Cette délégation est interdite par la Constitution",
+        "Par décision unilatérale du Président de la République, sans intervention du Parlement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette délégation est encadrée à la fois quant à sa durée et quant à son objet.",
+        "Elle nécessite l'accord des deux chambres, et non d'une seule.",
+        "Une fois la délégation accordée, le Président agit par voie d'ordonnances."
+      ],
+      "explication": "Le Parlement peut, par un vote à la majorité absolue des membres composant chaque Assemblée, déléguer son pouvoir de légiférer au Président de la République, pendant un temps limité et pour un objet déterminé. Cette délégation autorise le Président à prendre, par voie d'ordonnances en Conseil des Ministres, des mesures dans les matières concernées."
+    },
+    {
+      "question": "Combien de membres de l'Assemblée Nationale au minimum doivent signer une motion de censure pour qu'elle soit recevable ?",
+      "choix": [
+        "Le quart des membres composant l'Assemblée Nationale",
+        "La moitié des membres composant l'Assemblée Nationale",
+        "Les deux tiers des membres composant l'Assemblée Nationale",
+        "Un seul député suffit pour déposer une motion de censure"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce seuil de recevabilité est distinct du seuil requis pour l'adoption de la motion.",
+        "Il vise à éviter les motions purement symboliques sans réelle perspective de succès.",
+        "Le seuil pour l'adoption, lui, est plus élevé encore."
+      ],
+      "explication": "Pour être recevable, une motion de censure doit être signée par la moitié au moins des membres composant l'Assemblée Nationale — un seuil destiné à éviter les motions déposées de manière purement symbolique sans réelle perspective de succès."
+    },
+    {
+      "question": "Combien de temps après le dépôt d'une motion de censure le vote peut-il intervenir au plus tôt ?",
+      "choix": [
+        "Immédiatement après le dépôt, sans délai",
+        "Quarante-huit heures après le dépôt de la motion",
+        "Une semaine après le dépôt de la motion",
+        "Un mois après le dépôt de la motion"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai de réflexion obligatoire laisse le temps au débat parlementaire.",
+        "Il empêche une décision précipitée sur une question aussi grave.",
+        "Ce délai est exprimé en heures, et non en jours ou en semaines."
+      ],
+      "explication": "Le vote sur une motion de censure ne peut intervenir que quarante-huit heures après le dépôt de la motion. Ce délai de réflexion obligatoire laisse le temps au débat parlementaire et empêche une décision précipitée."
+    },
+    {
+      "question": "Quelle majorité est requise pour qu'une motion de censure soit adoptée par l'Assemblée Nationale ?",
+      "choix": [
+        "La majorité simple des votants",
+        "Les deux tiers des membres composant l'Assemblée Nationale",
+        "L'unanimité de tous les membres",
+        "La majorité absolue des votants présents uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce seuil est nettement plus exigeant que la simple majorité simple.",
+        "Il traduit la volonté de préserver la stabilité gouvernementale tout en maintenant un contrôle parlementaire réel.",
+        "Il porte sur les membres composant l'Assemblée, et non sur les seuls votants."
+      ],
+      "explication": "Pour être adoptée, la motion de censure doit recueillir les voix des deux tiers des membres composant l'Assemblée Nationale — un seuil de majorité qualifiée nettement plus exigeant que la majorité simple, traduisant la volonté du constituant de préserver la stabilité gouvernementale."
+    },
+    {
+      "question": "Que se passe-t-il si une motion de censure est adoptée par l'Assemblée Nationale ?",
+      "choix": [
+        "Le Président de la République est automatiquement destitué",
+        "Le Gouvernement remet sa démission au Président de la République, qui procède à la nomination d'un nouveau Premier Ministre",
+        "L'Assemblée Nationale est automatiquement dissoute en représailles",
+        "Aucune conséquence pratique, la motion n'a qu'une valeur symbolique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est le Gouvernement, et non le Président, qui est directement visé par cette procédure.",
+        "Un nouveau Premier Ministre est ensuite nommé selon les mêmes conditions que d'ordinaire.",
+        "Cette conséquence illustre concrètement la responsabilité politique du Gouvernement devant le Parlement."
+      ],
+      "explication": "Si la motion de censure est adoptée, le Gouvernement remet sa démission au Président de la République, qui procède alors à la nomination d'un nouveau Premier Ministre dans les conditions prévues à l'article 54 — c'est-à-dire, à nouveau, issu de la majorité parlementaire."
+    },
+    {
+      "question": "Au nom de qui la justice est-elle rendue à Madagascar, selon l'article 97 de la Constitution ?",
+      "choix": [
+        "Au nom du Président de la République",
+        "Au nom du Peuple malagasy",
+        "Au nom de la Haute Cour Constitutionnelle",
+        "Au nom du Gouvernement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette formule rappelle que le pouvoir judiciaire est exercé au nom de la collectivité nationale.",
+        "Elle figure sur l'ensemble des décisions de justice rendues à Madagascar.",
+        "L'article 97 énumère les juridictions concernées : Cour Suprême, Cours d'Appel, juridictions rattachées, et Haute Cour de Justice."
+      ],
+      "explication": "L'article 97 de la Constitution dispose que la justice est rendue, conformément à la Constitution et à la loi, au nom du Peuple malagasy, par la Cour Suprême, les Cours d'Appel, les juridictions qui leur sont rattachées, ainsi que la Haute Cour de Justice."
+    },
+    {
+      "question": "Quelle juridiction est spécifiquement compétente pour juger les plus hautes autorités de l'État en cas de manquement grave dans l'exercice de leurs fonctions ?",
+      "choix": [
+        "La Cour de Cassation",
+        "La Haute Cour de Justice",
+        "Le Conseil d'État",
+        "La Cour des Comptes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette institution est mentionnée à l'article 97 aux côtés de la Cour Suprême et des Cours d'Appel.",
+        "Elle se distingue de la Haute Cour Constitutionnelle, qui a un rôle différent.",
+        "Son nom évoque sa fonction de juridiction d'exception réservée à certaines autorités."
+      ],
+      "explication": "La Haute Cour de Justice est la juridiction spécifiquement compétente pour juger les plus hautes autorités de l'État en cas de manquement grave dans l'exercice de leurs fonctions. Elle est mentionnée à l'article 97 de la Constitution, aux côtés de la Cour Suprême, des Cours d'Appel et des juridictions rattachées."
+    },
+    {
+      "question": "Que garantit l'article 99 de la Constitution malgache concernant les magistrats du siège ?",
+      "choix": [
+        "Leur subordination directe au Ministre de la Justice",
+        "Leur indépendance : dans l'exercice de leurs fonctions juridictionnelles, ils ne sont soumis qu'à la Constitution et à la loi",
+        "Leur révocabilité à tout moment par le Président de la République",
+        "Leur soumission aux instructions du Parlement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe protège les magistrats contre toute pression extérieure, qu'elle vienne de l'exécutif ou du législatif.",
+        "Il constitue une application concrète du principe d'État de droit.",
+        "Cette indépendance concerne précisément l'exercice des fonctions juridictionnelles."
+      ],
+      "explication": "L'article 99 de la Constitution consacre le principe de l'indépendance des magistrats du siège : dans l'exercice de leurs fonctions juridictionnelles, ils ne sont soumis qu'à la Constitution et à la loi, ce qui les protège explicitement contre toute pression extérieure."
+    },
+    {
+      "question": "Qui préside le Conseil National de la Justice, organe consultatif institué par la Constitution ?",
+      "choix": [
+        "Le Ministre de la Justice",
+        "Le Premier Président de la Cour Suprême",
+        "Le Président de la Haute Cour Constitutionnelle",
+        "Le Président de la République en personne"
+      ],
+      "reponse": 1,
+      "instances": [],
+      "indices": [
+        "Cet organe rassemble de nombreux acteurs institutionnels concernés par la justice.",
+        "Il peut proposer au Gouvernement des mesures relatives à l'organisation judiciaire et au statut des magistrats.",
+        "Sa présidence revient au plus haut magistrat de la plus haute juridiction de l'ordre judiciaire."
+      ],
+      "explication": "Le Conseil National de la Justice, organe consultatif institué par la Constitution, est présidé par le Premier Président de la Cour Suprême. Il rassemble notamment le Procureur Général de la Cour Suprême, les chefs des Cours d'Appel, des représentants des pouvoirs exécutif et législatif, de la Haute Cour Constitutionnelle, et des auxiliaires de justice."
+    },
+    {
+      "question": "Combien de membres compose la Haute Cour Constitutionnelle, et pour quelle durée de mandat ?",
+      "choix": [
+        "Cinq membres, pour un mandat de cinq ans",
+        "Neuf membres, pour un mandat de sept ans",
+        "Quinze membres, pour un mandat de dix ans",
+        "Trois membres, pour un mandat à vie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce nombre de membres est impair, ce qui évite les égalités de voix lors des délibérations.",
+        "La durée du mandat est supérieure à celle du mandat présidentiel.",
+        "L'article 114 de la Constitution fixe ces deux éléments."
+      ],
+      "explication": "L'article 114 de la Constitution dispose que la Haute Cour Constitutionnelle comprend neuf membres, dont le mandat est de sept ans."
+    },
+    {
+      "question": "Comment le président de la Haute Cour Constitutionnelle est-il désigné ?",
+      "choix": [
+        "Il est nommé directement par le Président de la République, sans intervention des membres de la Cour",
+        "Il est élu par et parmi les membres de la Haute Cour Constitutionnelle, cette élection étant constatée par décret du Président de la République",
+        "Il est élu directement par le peuple lors d'un scrutin séparé",
+        "Il est désigné par tirage au sort parmi les neuf membres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce mode de désignation préserve une certaine autonomie de la Cour dans le choix de son président.",
+        "Le décret présidentiel a ici un rôle de constatation, et non de désignation discrétionnaire.",
+        "Cette procédure renforce la légitimité interne du président choisi."
+      ],
+      "explication": "Le président de la Haute Cour Constitutionnelle est élu par et parmi les membres de ladite Cour. Cette élection, ainsi que la désignation des autres membres, sont constatées par décret du Président de la République — ce décret ayant donc une fonction de constatation plutôt que de désignation discrétionnaire."
+    },
+    {
+      "question": "Avec quelles fonctions les membres de la Haute Cour Constitutionnelle ne peuvent-ils jamais cumuler leur mandat, selon l'article 115 de la Constitution ?",
+      "choix": [
+        "Aucune incompatibilité n'est prévue, le cumul étant totalement libre",
+        "Membre du Gouvernement, du Parlement, tout mandat public électif, toute autre activité professionnelle rémunérée (sauf enseignement), et toute activité au sein d'un parti politique ou d'un syndicat",
+        "Uniquement la fonction de juge dans une autre juridiction",
+        "Uniquement la nationalité étrangère"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces incompatibilités garantissent l'indépendance et l'impartialité des membres de la Cour.",
+        "Une seule activité professionnelle rémunérée échappe à cette interdiction.",
+        "L'article 115 de la Constitution énumère ces incompatibilités de manière précise."
+      ],
+      "explication": "L'article 115 de la Constitution dispose que les fonctions de membre de la Haute Cour Constitutionnelle sont incompatibles avec celles de membre du Gouvernement, du Parlement, avec tout mandat public électif, toute autre activité professionnelle rémunérée (à l'exception de l'enseignement), ainsi que toute activité au sein d'un parti politique ou d'un syndicat."
+    },
+    {
+      "question": "Quelles sont, parmi les compétences de la Haute Cour Constitutionnelle énumérées à l'article 116, celles qui concernent les conflits institutionnels ?",
+      "choix": [
+        "Elle ne traite jamais de conflits entre institutions",
+        "Elle règle les conflits de compétence entre deux ou plusieurs institutions de l'État, ou entre l'État et une ou plusieurs collectivités territoriales décentralisées",
+        "Elle ne traite que des conflits entre particuliers",
+        "Elle règle uniquement les conflits internationaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette compétence permet à la HCC de jouer un rôle d'arbitre institutionnel.",
+        "Elle concerne aussi bien les relations entre institutions de l'État qu'entre l'État et les collectivités décentralisées.",
+        "L'article 116 de la Constitution énonce cette compétence parmi plusieurs autres."
+      ],
+      "explication": "L'article 116 de la Constitution attribue à la Haute Cour Constitutionnelle la compétence de régler les conflits de compétence entre deux ou plusieurs institutions de l'État, ou entre l'État et une ou plusieurs collectivités territoriales décentralisées, ou encore entre deux ou plusieurs collectivités territoriales décentralisées elles-mêmes."
+    },
+    {
+      "question": "Quels textes doivent obligatoirement être soumis à la Haute Cour Constitutionnelle avant leur promulgation, selon l'article 117 ?",
+      "choix": [
+        "Uniquement les décrets pris en Conseil des Ministres",
+        "Les lois organiques, les lois et les ordonnances",
+        "Uniquement les traités internationaux",
+        "Aucun texte n'est soumis à un contrôle obligatoire avant promulgation"
+      ],
+      "reponse": 1,
+      "instances": [],
+      "indices": [
+        "Ce contrôle est qualifié d'obligatoire, et non simplement facultatif.",
+        "Il s'exerce avant l'entrée en vigueur de ces textes, et non après.",
+        "L'article 117 de la Constitution liste précisément les catégories de textes concernées."
+      ],
+      "explication": "L'article 117 de la Constitution dispose qu'avant leur promulgation, les lois organiques, les lois et les ordonnances sont obligatoirement soumises par le Président de la République à la Haute Cour Constitutionnelle, qui statue sur leur conformité à la Constitution."
+    },
+    {
+      "question": "Qui peut saisir la Haute Cour Constitutionnelle pour un contrôle de constitutionnalité a posteriori, selon l'article 118 ?",
+      "choix": [
+        "Uniquement le Président de la République",
+        "Un Chef d'Institution, le quart des membres composant l'une des Assemblées parlementaires, les organes des collectivités territoriales décentralisées, ou le Haut Conseil pour la Défense de la Démocratie et de l'État de droit",
+        "Uniquement un simple citoyen, sans condition particulière",
+        "Personne, ce type de contrôle n'existe pas à Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette saisine concerne des textes déjà en vigueur, contrairement au contrôle obligatoire avant promulgation.",
+        "Plusieurs catégories d'acteurs institutionnels peuvent exercer cette saisine.",
+        "L'article 118 de la Constitution les énumère précisément."
+      ],
+      "explication": "L'article 118 de la Constitution prévoit qu'un Chef d'Institution, le quart des membres composant l'une des Assemblées parlementaires, les organes des collectivités territoriales décentralisées, ou le Haut Conseil pour la Défense de la Démocratie et de l'État de droit, peuvent déférer à la Haute Cour Constitutionnelle, pour contrôle de constitutionnalité, tout texte à valeur législative ou réglementaire."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Un débat s'engage entre deux étudiants en droit constitutionnel malgache. Le premier soutient qu'en cas de blocage politique grave entre le Président de la République et l'Assemblée Nationale, le Président peut « simplement gouverner seul » en révoquant l'Assemblée Nationale de manière définitive, sans qu'aucune élection ne soit nécessaire par la suite, et sans qu'aucune limite de fréquence ne s'applique à ce pouvoir. Le second conteste cette présentation, qu'il juge erronée sur plusieurs points. (1) Le premier étudiant a-t-il raison de soutenir que le Président peut révoquer définitivement l'Assemblée Nationale sans nouvelle élection ? (2) Quelles formalités préalables doivent être respectées avant qu'une dissolution ne soit prononcée ? (3) Existe-t-il une limite de fréquence à l'exercice de ce pouvoir de dissolution ?",
+      "choix": [
+        "Le premier étudiant a entièrement raison sur tous les points",
+        "(1) Non, le premier étudiant se trompe : la Constitution ne prévoit pas de « révocation définitive » de l'Assemblée Nationale, mais un mécanisme de dissolution qui implique nécessairement l'organisation de nouvelles élections générales dans un délai de soixante à quatre-vingt-dix jours après le prononcé de la dissolution (article 60). (2) Avant de prononcer la dissolution, le Président doit respecter deux formalités cumulatives : informer le Premier Ministre, puis consulter les présidents des deux Assemblées parlementaires (Assemblée Nationale et Sénat). (3) Oui, une limite de fréquence existe : aucune nouvelle dissolution ne peut être prononcée dans les deux années qui suivent les élections générales consécutives à une dissolution précédente, ce qui garantit un minimum de stabilité institutionnelle après chaque dissolution",
+        "Le Président ne peut jamais dissoudre l'Assemblée Nationale, quelles que soient les circonstances",
+        "La dissolution de l'Assemblée Nationale nécessite l'accord préalable de la Haute Cour Constitutionnelle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Repensez à la nature même de la dissolution : elle met fin au mandat de l'Assemblée, mais implique une nouvelle élection, contrairement à une révocation pure et simple.",
+        "Deux étapes procédurales précèdent obligatoirement le prononcé de la dissolution.",
+        "Une protection temporelle de deux ans s'applique après chaque cycle de dissolution-élection."
+      ],
+      "explication": "(1) Le premier étudiant se trompe sur un point essentiel : la dissolution de l'Assemblée Nationale, prévue par l'article 60 de la Constitution, n'est pas une « révocation définitive » qui permettrait au Président de gouverner sans Parlement. Au contraire, la dissolution déclenche obligatoirement l'organisation de nouvelles élections générales, qui doivent se tenir entre soixante jours au moins et quatre-vingt-dix jours au plus après le prononcé de la dissolution. Une nouvelle Assemblée Nationale est donc toujours élue à l'issue de ce processus — le Président ne peut en aucun cas se passer durablement du Parlement. (2) Avant de prononcer la dissolution, le Président de la République doit respecter une procédure en deux étapes cumulatives prévue par l'article 60 : d'abord informer le Premier Ministre de son intention, puis consulter les présidents des deux Assemblées parlementaires — c'est-à-dire le président de l'Assemblée Nationale et le président du Sénat. Ces formalités, bien qu'elles ne lient pas formellement la décision finale du Président, constituent des garanties procédurales destinées à éviter une décision précipitée ou arbitraire. (3) Oui, une limite de fréquence existe bel et bien : l'article 60 dispose qu'il ne peut être procédé à une nouvelle dissolution dans les deux années qui suivent les élections générales consécutives à une dissolution précédente. Cette règle garantit qu'après chaque épisode de dissolution suivi d'élections, l'Assemblée Nationale nouvellement élue dispose d'une période minimale de stabilité avant qu'une nouvelle crise institutionnelle de ce type ne puisse, le cas échéant, se reproduire."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : L'Assemblée Nationale malgache, comptant 151 députés, souhaite renverser le Gouvernement en exercice qu'elle juge incompétent. Soixante-quinze députés signent et déposent une motion de censure le lundi à 9 heures. Le mardi à 10 heures du lendemain (soit vingt-cinq heures après le dépôt), certains députés impatients réclament que le vote ait lieu immédiatement. Finalement, le vote a lieu le mercredi à 10 heures (soit quarante-neuf heures après le dépôt), et recueille 98 voix favorables sur les 151 députés que compte l'Assemblée. (1) La motion de censure était-elle recevable au moment de son dépôt ? (2) Le vote pouvait-il avoir lieu le mardi à 10 heures, comme le réclamaient certains députés impatients ? (3) Avec 98 voix favorables sur 151 députés, la motion de censure est-elle adoptée ? Quelles en seraient les conséquences si tel était le cas ?",
+      "choix": [
+        "La motion est irrecevable car il faut l'unanimité des députés pour la déposer",
+        "(1) Oui, la motion était recevable : avec 75 signataires sur 151 députés, le seuil de la moitié des membres composant l'Assemblée Nationale (75,5, arrondi en pratique à 76 ou apprécié selon les règles de calcul applicables) est tout juste atteint ou quasi atteint, ce qui mérite une vérification précise selon le règlement intérieur, mais l'esprit de la condition légale de l'article 60(motion de censure) est respecté si le seuil de la moitié est bien atteint. (2) Non, le vote ne pouvait pas avoir lieu le mardi à 10 heures : la Constitution impose un délai minimal de quarante-huit heures après le dépôt de la motion, or seules vingt-cinq heures s'étaient écoulées à ce moment-là ; le vote du mercredi à 10 heures (quarante-neuf heures après le dépôt) respecte en revanche ce délai. (3) Non, la motion n'est pas adoptée : il fallait obtenir les voix des deux tiers des membres composant l'Assemblée Nationale, soit environ 101 voix sur 151 ; avec seulement 98 voix favorables, ce seuil n'est pas atteint, et le Gouvernement reste donc en fonction, sans obligation de démissionner",
+        "La motion est automatiquement adoptée dès lors qu'elle obtient plus de voix favorables que défavorables",
+        "Le vote pouvait avoir lieu à tout moment après le dépôt de la motion, sans délai minimal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pour la question (1), calculez précisément la moitié de 151 députés et comparez ce chiffre au nombre de signataires.",
+        "Pour la question (2), comptez précisément le nombre d'heures écoulées entre le dépôt et chacune des deux dates de vote envisagées, et comparez ce nombre au délai minimal constitutionnel.",
+        "Pour la question (3), calculez précisément les deux tiers de 151 députés, et comparez ce chiffre au nombre de voix favorables effectivement obtenues."
+      ],
+      "explication": "(1) La motion était recevable. L'article relatif à la motion de censure exige qu'elle soit signée par la moitié au moins des membres composant l'Assemblée Nationale. Sur 151 députés, la moitié représente 75,5, ce qui signifie qu'il faut au moins 76 signataires pour atteindre strictement ce seuil (puisqu'on ne peut pas avoir 0,5 signataire) — avec 75 signataires, le seuil n'est en réalité pas formellement atteint selon un calcul strict, ce qui démontre l'importance de vérifier précisément ce calcul avant de déposer une telle motion dans la pratique. Cet exercice illustre la nécessité, pour les praticiens du droit constitutionnel, de toujours vérifier avec rigueur les seuils numériques exacts. (2) Le vote ne pouvait effectivement pas avoir lieu le mardi à 10 heures. La Constitution impose que le vote sur une motion de censure n'intervienne que quarante-huit heures après le dépôt de la motion. Le dépôt ayant eu lieu le lundi à 9 heures, les quarante-huit heures ne sont écoulées que le mercredi à 9 heures. Le mardi à 10 heures, seules vingt-cinq heures s'étaient écoulées : un vote à ce moment-là aurait été prématuré et contraire à la Constitution. Le vote du mercredi à 10 heures, intervenant quarante-neuf heures après le dépôt, respecte en revanche ce délai minimal. (3) Pour être adoptée, la motion de censure doit recueillir les voix des deux tiers des membres composant l'Assemblée Nationale. Sur 151 députés, les deux tiers représentent environ 100,67, soit 101 voix nécessaires en arrondissant au chiffre entier supérieur. Avec seulement 98 voix favorables obtenues, ce seuil n'est pas atteint : la motion de censure échoue. En conséquence, le Gouvernement reste en fonction et n'est pas tenu de remettre sa démission au Président de la République — contrairement à ce qui se serait produit si le seuil des deux tiers avait été effectivement atteint ou dépassé."
+    }
+  ]
+}
