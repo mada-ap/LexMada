@@ -1,0 +1,900 @@
+{
+  "titre": "Le droit administratif — l'acte administratif",
+  "module": "Module 3 — L'acte administratif",
+  "niveau": "Avancé",
+  "contenu": [
+    {
+      "titre": "Le droit administratif et l'action de l'administration",
+      "texte": "Le droit administratif est la branche du droit qui régit l'organisation et l'action des personnes publiques — l'État, les collectivités territoriales, les établissements publics. Il est fondé sur un principe essentiel : l'administration ne peut agir que dans le cadre de la loi. C'est le principe de légalité. Mais l'administration n'agit pas seulement en subissant le droit — elle le crée. L'une de ses manifestations les plus importantes est l'acte administratif unilatéral, par lequel l'administration impose sa volonté aux administrés sans avoir besoin de leur consentement. C'est en cela que l'acte administratif diffère fondamentalement du contrat : le contrat requiert l'accord des deux parties, l'acte administratif unilatéral s'impose par la seule volonté de l'autorité publique. Cette puissance d'imposer unilatéralement des droits et des obligations est ce qu'on appelle le privilège du préalable. En contrepartie de ce pouvoir exorbitant, l'administration est soumise à un contrôle juridictionnel : le juge administratif peut annuler les actes illégaux. Le droit administratif est ainsi un droit de l'équilibre entre la puissance publique et les droits des administrés.",
+      "definition": "Droit administratif : branche du droit régissant l'organisation et l'action des personnes publiques. Principe de légalité : l'administration ne peut agir que dans le cadre de la loi. Acte administratif unilatéral : manifestation de volonté de l'administration s'imposant aux administrés sans leur consentement (privilège du préalable)."
+    },
+    {
+      "titre": "La notion d'acte administratif : définition et caractères",
+      "texte": "Un acte administratif est une décision émanant d'une autorité administrative, prise dans l'exercice de prérogatives de puissance publique, produisant des effets juridiques à l'égard des administrés. Cette définition appelle plusieurs précisions. L'acte doit émaner d'une autorité administrative : un ministre, un préfet, un maire, un directeur d'établissement public. Les actes des personnes privées gérant un service public peuvent parfois être qualifiés d'actes administratifs, mais c'est l'exception. L'acte doit être pris dans l'exercice de prérogatives de puissance publique : l'administration dispose de pouvoirs que n'a aucun particulier — ordonner, interdire, percevoir des impôts. L'acte doit produire des effets juridiques : il doit modifier l'ordonnancement juridique, créer, modifier ou éteindre des droits et des obligations. Un simple renseignement, une circulaire purement indicative, une déclaration politique ne sont pas des actes administratifs car ils ne produisent pas d'effets juridiques par eux-mêmes. Le caractère exécutoire de l'acte administratif est une prérogative fondamentale : l'administration peut exécuter son acte sans avoir besoin d'un jugement préalable.",
+      "definition": "Acte administratif : décision émanant d'une autorité administrative, prise dans l'exercice de prérogatives de puissance publique, produisant des effets juridiques à l'égard des administrés. Caractère exécutoire : l'acte s'applique immédiatement sans jugement préalable. Présomption de légalité : l'acte est présumé légal jusqu'à son annulation.",
+      "exemple": "Un arrêté municipal interdisant la circulation dans une rue est un acte administratif : il émane du maire (autorité administrative), dans l'exercice de ses pouvoirs de police (prérogative de puissance publique), et modifie la situation juridique des conducteurs (effets juridiques). Un courriel du maire expliquant sa politique ne l'est pas — pas d'effets juridiques directs."
+    },
+    {
+      "titre": "La classification des actes administratifs : actes réglementaires et actes individuels",
+      "texte": "La première grande classification des actes administratifs distingue les actes réglementaires et les actes non réglementaires. Un acte réglementaire est un acte de portée générale et impersonnelle — il s'adresse à une catégorie abstraite de personnes définies par des critères généraux et non à des individus nommément désignés. Un décret fixant les conditions d'obtention d'un permis de conduire s'applique à tous ceux qui remplissent les conditions, peu importe qui ils sont. L'acte réglementaire est l'équivalent administratif de la loi pour les matières relevant du pouvoir réglementaire. Un acte individuel est un acte qui vise une ou plusieurs personnes nommément désignées ou identifiables. La nomination d'un fonctionnaire, l'octroi d'un permis de construire à M. Rabe, l'expulsion d'un étranger précisément nommé : voilà des actes individuels. Entre les deux, on trouve les actes collectifs qui visent plusieurs personnes identifiées mais traitées ensemble (une liste de candidats admis à un concours) et les actes particuliers qui concernent un groupe de personnes mais défini par une situation particulière (un arrêté fermant tous les établissements d'une catégorie en raison d'une épidémie). Cette distinction a des conséquences importantes sur le régime des recours.",
+      "definition": "Acte réglementaire : portée générale et impersonnelle, s'applique à une catégorie abstraite (décret, arrêté réglementaire). Acte individuel : vise une ou plusieurs personnes nommément désignées (nomination, autorisation, sanction). Acte collectif : vise plusieurs personnes identifiées traitées ensemble.",
+      "exemple": "Le décret fixant le statut général de la fonction publique malgache est un acte réglementaire : il s'applique à tous les fonctionnaires. L'arrêté nommant Lanto Rakoto directeur d'un service est un acte individuel. La liste des admis au concours de magistrature est un acte collectif."
+    },
+    {
+      "titre": "Les actes créateurs de droits et les actes de simple police",
+      "texte": "Une autre distinction fondamentale oppose les actes créateurs de droits et les actes qui ne le sont pas. Un acte est créateur de droits lorsqu'il fait naître au profit de son destinataire un droit subjectif qu'il pourra opposer à l'administration. L'octroi d'une autorisation, la nomination à un emploi, l'attribution d'une subvention créent des droits au profit du bénéficiaire. Cette qualification a une conséquence majeure : l'administration ne peut pas retirer un acte créateur de droits légal une fois qu'il est devenu définitif. Si elle a accordé un permis de construire valide, elle ne peut pas le reprendre librement. En revanche, un acte non créateur de droits — une décision de police générale, un acte réglementaire — peut être modifié ou abrogé à tout moment pour l'avenir. La distinction est aussi importante pour le retrait des actes illégaux : un acte individuel créateur de droits illégal peut être retiré, mais seulement dans un délai limité (en principe 4 mois). Passé ce délai, même illégal, l'acte ne peut plus être retiré pour ne pas trop porter atteinte à la sécurité juridique du bénéficiaire.",
+      "definition": "Acte créateur de droits : fait naître un droit subjectif au profit de son bénéficiaire (autorisation, nomination, subvention). Ne peut pas être retiré librement une fois définitif s'il est légal. Retrait possible d'un acte créateur de droits illégal : seulement dans un délai limité (4 mois en principe).",
+      "exemple": "La commune accorde à Vonjy un permis de construire valide. Six mois plus tard, le nouveau maire, de mauvais vouloir, souhaite retirer ce permis. Il ne peut pas : le permis est un acte créateur de droits légal devenu définitif. Si le permis avait été illégalement accordé, le maire aurait pu le retirer dans les 4 mois suivant son édiction."
+    },
+    {
+      "titre": "Les conditions de légalité externe : compétence, procédure et forme",
+      "texte": "Pour être légal, un acte administratif doit satisfaire à des conditions de légalité externe — relatives à son édiction — et à des conditions de légalité interne — relatives à son contenu. Les conditions de légalité externe comprennent la compétence, la procédure et la forme. La compétence : l'acte doit émaner de l'autorité compétente. La compétence est définie par la matière (ratione materiae : le préfet est compétent pour certaines matières, pas le maire), le lieu (ratione loci : le préfet de Diego-Suarez n'est pas compétent pour agir à Toliara), et le temps (ratione temporis : un ministre démissionnaire ne peut plus prendre d'actes en dehors des affaires courantes). L'incompétence est le vice de légalité le plus grave — on parle d'incompétence négative quand une autorité renonce à exercer un pouvoir qui lui appartient, d'incompétence positive quand elle empiète sur le domaine d'une autre autorité. La procédure : certains actes doivent être précédés de formalités obligatoires — consultation d'un organe, avis préalable, enquête publique. Le vice de procédure n'entraîne la nullité que s'il a privé les intéressés d'une garantie ou influencé le contenu de la décision. La forme : certains actes doivent revêtir une forme particulière — écrit, motivation obligatoire.",
+      "definition": "Légalité externe : conditions relatives à l'édiction de l'acte. Compétence (ratione materiae, loci, temporis) : l'autorité compétente doit agir dans son domaine. Procédure : formalités préalables obligatoires (consultation, avis, enquête). Forme : exigences de forme (écrit, motivation). Toute violation entraîne l'illégalité de l'acte.",
+      "exemple": "Un arrêté préfectoral signé par le secrétaire général de la préfecture sans délégation de signature est illégal pour incompétence. Une décision de licenciement d'un fonctionnaire prise sans avoir recueilli l'avis de la commission paritaire préalablement requise est illégale pour vice de procédure."
+    },
+    {
+      "titre": "Les conditions de légalité interne : but, motifs et objet",
+      "texte": "La légalité interne concerne le contenu même de l'acte. Elle comprend trois éléments : le but, les motifs et l'objet. Le but : l'acte doit poursuivre l'intérêt général, et plus précisément le but pour lequel le pouvoir a été accordé à l'autorité. Si une autorité utilise un pouvoir à des fins autres que celles prévues, c'est le détournement de pouvoir — un vice de légalité difficile à prouver mais grave. Un maire qui utilise son pouvoir de police pour favoriser une entreprise concurrente d'un commerçant qu'il déteste commet un détournement de pouvoir. Les motifs : l'acte doit être fondé sur des motifs exacts, légaux et suffisants. Les motifs de fait doivent être réels (les faits invoqués doivent exister) et exacts (ils doivent être correctement qualifiés juridiquement). L'erreur de fait (les faits invoqués n'existent pas) et l'erreur de droit (mauvaise qualification juridique des faits) sont des vices de légalité interne. L'objet : l'acte doit avoir un objet licite. Il ne peut pas ordonner quelque chose d'illégal, contraire à la Constitution, aux lois ou aux principes généraux du droit.",
+      "definition": "Légalité interne : conditions relatives au contenu de l'acte. But : poursuivre l'intérêt général prévu par le texte attributif de compétence (détournement de pouvoir si but étranger). Motifs : fondés sur des faits exacts et une qualification juridique correcte. Objet : l'acte doit avoir un contenu licite.",
+      "exemple": "Un préfet révoque un fonctionnaire en invoquant des fautes disciplinaires qui n'ont jamais eu lieu : erreur de fait (les faits sont inexistants), illégalité interne. Un maire interdit une manifestation pacifique pour des raisons politiques personnelles : détournement de pouvoir, illégalité interne."
+    },
+    {
+      "titre": "La motivation des actes administratifs",
+      "texte": "La motivation d'un acte administratif consiste à énoncer, dans l'acte lui-même, les considérations de droit et de fait qui en constituent le fondement. En principe, en droit français et dans les systèmes qui s'en inspirent, les actes administratifs n'ont pas à être motivés. Mais ce principe connaît d'importantes exceptions. Certains actes doivent obligatoirement être motivés par la loi. Ce sont notamment les actes individuels défavorables — les décisions qui refusent un avantage, qui retirent ou abrogent une décision créatrice de droits, qui infligent une sanction, qui restreignent l'exercice des libertés publiques. La motivation permet aux administrés de comprendre les raisons d'une décision et de la contester en connaissance de cause. Elle facilite aussi le contrôle du juge administratif. Une motivation insuffisante ou purement formelle peut constituer un vice de forme entraînant l'illégalité de l'acte. La motivation doit être complète (énoncer tous les motifs de droit et de fait) et adéquate (en rapport avec le dispositif de la décision). Le juge vérifie non seulement que la motivation est formellement présente, mais aussi que les motifs énoncés justifient effectivement la décision.",
+      "definition": "Motivation des actes administratifs : énoncé dans l'acte des considérations de droit et de fait fondant la décision. En principe non obligatoire, mais exigée pour les actes individuels défavorables (refus d'avantage, retrait de droits, sanctions, restrictions de libertés). Motivation insuffisante = vice de forme.",
+      "exemple": "Un refus de permis de construire doit être motivé : l'administration doit expliquer pourquoi elle refuse (zone non constructible, non-conformité aux règles d'urbanisme). Si elle se contente d'écrire 'refus' sans explication, l'acte est illégal pour défaut de motivation."
+    },
+    {
+      "titre": "L'entrée en vigueur des actes administratifs : publication et notification",
+      "texte": "Un acte administratif n'est opposable aux administrés que s'il leur a été rendu public. Les modalités de publicité varient selon la nature de l'acte. Les actes réglementaires doivent être publiés pour entrer en vigueur. La publication se fait au Journal Officiel pour les actes nationaux, dans les bulletins officiels des ministères pour les actes ministériels, dans les recueils des actes administratifs des préfectures pour les actes préfectoraux, dans les bulletins municipaux ou par voie d'affichage pour les actes municipaux. Les actes réglementaires entrent en vigueur à la date fixée ou, à défaut, le lendemain de leur publication. Les actes individuels doivent être notifiés à leur destinataire. La notification est une communication directe de l'acte à la personne concernée. L'acte individuel n'est opposable qu'à compter de sa notification. C'est à partir de la notification que court le délai de recours contentieux. En l'absence de notification régulière, le délai de recours ne court pas — l'administré peut contester l'acte à tout moment. L'administration a donc tout intérêt à procéder à une notification régulière, précisant les voies et délais de recours.",
+      "definition": "Publicité des actes administratifs : actes réglementaires → publication (JO, bulletins officiels, affichage) ; actes individuels → notification à leur destinataire. L'acte n'est opposable qu'à compter de sa publicité. Le délai de recours court à partir de la notification régulière.",
+      "exemple": "Un arrêté municipal interdisant la vente d'alcool le soir est publié par affichage en mairie : il entre en vigueur le lendemain. La décision de refus de pension retraitée est notifiée à Hery par courrier recommandé : à partir de ce jour, Hery dispose de 2 mois pour la contester."
+    },
+    {
+      "titre": "Le retrait et l'abrogation des actes administratifs",
+      "texte": "L'administration peut vouloir mettre fin à un acte qu'elle a précédemment édité. Deux mécanismes distincts existent : le retrait et l'abrogation. L'abrogation est la suppression d'un acte pour l'avenir uniquement. L'acte abrogé cesse de produire ses effets à compter de l'abrogation, mais les effets passés sont maintenus. Un décret réglementaire peut être abrogé à tout moment — l'administration est libre de modifier sa réglementation. Un acte réglementaire illégal doit même être abrogé si un administré le demande. Le retrait est la suppression rétroactive d'un acte, qui est censé n'avoir jamais existé. C'est une mesure beaucoup plus grave car elle remet en cause des situations acquises. Le régime du retrait dépend de la nature de l'acte. Un acte non créateur de droits peut être retiré à tout moment. Un acte créateur de droits légal ne peut jamais être retiré une fois définitif. Un acte créateur de droits illégal peut être retiré, mais seulement dans un délai de 4 mois à compter de son édiction. Ce délai vise à concilier le principe de légalité (éliminer les actes illégaux) et la sécurité juridique (protéger les droits acquis de bonne foi).",
+      "definition": "Abrogation : suppression d'un acte pour l'avenir uniquement (effets passés maintenus). Possible à tout moment pour les actes réglementaires, obligatoire pour un acte illégal si demandée. Retrait : suppression rétroactive d'un acte. Possible à tout moment pour les actes non créateurs de droits. Interdit après 4 mois pour les actes créateurs de droits illégaux. Impossible pour les actes créateurs de droits légaux définitifs.",
+      "exemple": "Le gouvernement abroge un décret sur le statut des agents contractuels : les fonctionnaires contractuels déjà nommés gardent leurs droits (abrogation pour l'avenir). Un permis de construire accordé illégalement peut être retiré dans les 4 mois. Passé ce délai, même illégal, il ne peut plus être retiré."
+    },
+    {
+      "titre": "L'inexistence et la nullité des actes administratifs",
+      "texte": "En droit administratif, les irrégularités d'un acte ne conduisent pas toutes au même résultat. La théorie de l'acte inexistant concerne les actes affectés d'irrégularités si graves qu'ils ne peuvent même pas être qualifiés d'actes administratifs. Leur irrégularité est si manifeste qu'il n'est pas nécessaire d'attendre une décision juridictionnelle pour les écarter. Les hypothèses sont rares : l'acte émanant d'une autorité totalement incompétente (usurpation de fonction), l'acte portant une atteinte grave aux libertés fondamentales. Un acte inexistant peut être écarté par tout juge, même judiciaire, sans avoir à attendre sa décision par le juge administratif. Pour les actes simplement illégaux (vices de compétence, de procédure, de forme, de légalité interne), ils sont présumés légaux et exécutoires jusqu'à ce que le juge administratif les annule sur recours pour excès de pouvoir. L'annulation par le juge a un effet rétroactif : l'acte est censé n'avoir jamais existé. Cette rétroactivité peut poser des difficultés pratiques lorsque l'acte a produit des effets pendant sa période d'application.",
+      "definition": "Acte inexistant : affecté d'une irrégularité si grave qu'il peut être écarté sans décision juridictionnelle préalable. Acte illégal : irrégulier mais présumé légal jusqu'à annulation par le juge. Annulation rétroactive : l'acte annulé est censé n'avoir jamais existé.",
+      "exemple": "Un individu se faisant passer pour un fonctionnaire signe des arrêtés : actes inexistants, directement écartables sans recours. Un arrêté préfectoral vicié par un défaut de procédure est illégal mais exécutoire jusqu'à son annulation par le tribunal administratif."
+    },
+    {
+      "titre": "Le recours pour excès de pouvoir : le grand recours administratif",
+      "texte": "Le recours pour excès de pouvoir (REP) est le recours contentieux permettant à tout administré de demander au juge administratif l'annulation d'un acte administratif illégal. C'est l'une des grandes conquêtes du droit administratif : il permet à tout administré, même sans intérêt directement patrimonial, de contester la légalité d'une décision administrative. Les conditions de recevabilité sont les suivantes. Le requérant doit avoir un intérêt à agir : un intérêt suffisamment direct et certain à l'annulation de l'acte. Un voisin peut contester un permis de construire qui menace son environnement. Le recours doit être dirigé contre un acte administratif faisant grief — un acte qui affecte la situation juridique du requérant. Le recours doit être formé dans le délai de 2 mois à compter de la publication ou de la notification de l'acte. Ce délai est enfermé et de rigueur. Le juge peut annuler l'acte s'il constate un vice de légalité externe (incompétence, vice de procédure, vice de forme) ou interne (détournement de pouvoir, erreur de fait, erreur de droit, violation de la loi). L'annulation a un effet rétroactif et erga omnes — elle vaut pour tous.",
+      "definition": "Recours pour excès de pouvoir (REP) : recours contentieux permettant à tout administré (ayant un intérêt à agir) de demander au juge administratif l'annulation d'un acte administratif illégal. Délai : 2 mois à compter de la publicité. Effet de l'annulation : rétroactif et erga omnes.",
+      "exemple": "Rabe conteste l'arrêté du préfet classant sa propriété en zone naturelle protégée. Il dispose de 2 mois à compter de la notification pour former un REP. Si le juge constate que l'arrêté a été pris sans consultation obligatoire d'une commission, il l'annule avec effet rétroactif."
+    },
+    {
+      "titre": "Les principes généraux du droit et le contrôle de légalité",
+      "texte": "Le contrôle de légalité des actes administratifs ne se réduit pas au respect des seules règles écrites. Le juge administratif a dégagé des principes généraux du droit (PGD) — des règles non écrites mais d'une valeur supérieure aux actes réglementaires — que l'administration doit respecter. Ces PGD s'imposent même en l'absence de texte. Parmi les PGD les plus importants : le principe d'égalité (l'administration doit traiter de façon identique les personnes placées dans des situations identiques), le principe de continuité du service public, les droits de la défense (toute personne menacée d'une sanction doit pouvoir s'expliquer préalablement), le principe de non-rétroactivité des actes administratifs (un acte ne peut produire d'effets avant sa publication), la liberté du commerce et de l'industrie. À Madagascar, la Constitution fixe également des principes fondamentaux que les actes administratifs doivent respecter. Le contrôle de légalité s'exerce ainsi sur plusieurs niveaux : conformité à la Constitution, aux traités internationaux, aux lois, aux règlements supérieurs, et aux principes généraux du droit.",
+      "definition": "Principes généraux du droit (PGD) : règles non écrites mais obligatoires pour l'administration, dégagées par le juge administratif. Exemples : égalité, droits de la défense, non-rétroactivité, continuité du service public. S'imposent même sans texte et s'intercalent entre la loi et les actes réglementaires.",
+      "exemple": "L'administration sanctionne un fonctionnaire sans l'entendre préalablement. Même si aucun texte ne l'exige expressément pour cette catégorie de sanction, le juge annule la sanction pour violation du principe général du droit des droits de la défense."
+    },
+    {
+      "titre": "Les actes administratifs à Madagascar : cadre constitutionnel et institutionnel",
+      "texte": "À Madagascar, le cadre de l'acte administratif est défini par la Constitution et par les textes organisant les pouvoirs publics. Le Président de la République prend des décrets, certains en Conseil des ministres, d'autres après avis consultatif. Le Premier ministre prend des décrets d'application des lois. Les ministres prennent des arrêtés ministériels dans leurs domaines de compétence. Les collectivités territoriales décentralisées — régions, communes — prennent des délibérations et des arrêtés dans leurs domaines respectifs. Le chef de région et le maire prennent des arrêtés. La légalité de ces actes est contrôlée par le Conseil d'État (pour les actes nationaux) et par les tribunaux administratifs. À Madagascar, le Conseil d'État est la juridiction administrative suprême. Il connaît des recours pour excès de pouvoir contre les actes administratifs des autorités les plus élevées. La Haute Cour constitutionnelle contrôle quant à elle la conformité des lois et de certains actes à la Constitution. Le contentieux administratif à Madagascar s'est progressivement structuré autour de ces institutions, dans un mouvement de renforcement de l'État de droit.",
+      "definition": "Hiérarchie des actes administratifs à Madagascar : décrets présidentiels et du Premier ministre, arrêtés ministériels, délibérations et arrêtés des collectivités territoriales. Contrôle de légalité : Conseil d'État (actes nationaux), tribunaux administratifs (actes locaux), Haute Cour constitutionnelle (conformité à la Constitution).",
+      "exemple": "Le Président malgache signe un décret nommant les membres du gouvernement : acte administratif individuel soumis au contrôle de légalité. La commune d'Antsiranana prend une délibération fixant le tarif de l'eau : acte réglementaire local contrôlable par le tribunal administratif."
+    },
+    {
+      "titre": "Actes administratifs et droits fondamentaux",
+      "texte": "Les actes administratifs doivent respecter les droits fondamentaux garantis par la Constitution et les conventions internationales ratifiées. Cette exigence s'est considérablement renforcée avec la montée en puissance du droit international des droits de l'Homme. L'acte administratif ne peut pas porter atteinte à la liberté d'expression, à la liberté de réunion, au droit de propriété, au droit à un procès équitable sans une justification légale précise et proportionnée. Le principe de proportionnalité est fondamental : une mesure administrative restrictive de libertés doit être appropriée au but poursuivi, nécessaire (on ne peut pas choisir une mesure plus contraignante qu'une autre moins contraignante permettant d'atteindre le même but) et proportionnée au sens strict (les avantages doivent l'emporter sur les inconvénients). Une interdiction totale de manifestation pour des raisons de sécurité sera illégale si une simple canalisation des manifestants aurait suffi. Le contrôle de proportionnalité est devenu l'un des axes majeurs du contrôle de légalité des actes de police administrative.",
+      "definition": "Actes administratifs et droits fondamentaux : les actes doivent respecter les droits constitutionnels et conventionnels. Principe de proportionnalité : toute mesure restrictive de libertés doit être appropriée, nécessaire et proportionnée au but poursuivi. Le contrôle de proportionnalité est central dans le contrôle des actes de police.",
+      "exemple": "Le préfet interdit toute manifestation dans la ville pendant un mois entier pour maintenir l'ordre. Le juge annule l'arrêté : l'interdiction totale est disproportionnée — des mesures moins contraignantes (encadrement, délimitation de zones) auraient suffi à maintenir l'ordre."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que le droit administratif ?",
+      "choix": [
+        "Le droit qui régit les relations entre particuliers",
+        "La branche du droit qui régit l'organisation et l'action des personnes publiques",
+        "Le droit des actes notariés et des contrats publics",
+        "Le droit applicable uniquement aux fonctionnaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il concerne l'État, les collectivités territoriales, les établissements publics.",
+        "Il est fondé sur le principe de légalité.",
+        "Il se distingue du droit privé par les prérogatives de puissance publique."
+      ],
+      "explication": "Le droit administratif est la branche du droit qui régit l'organisation et l'action des personnes publiques — l'État, les collectivités territoriales, les établissements publics. Il repose sur le principe de légalité : l'administration ne peut agir que dans le cadre de la loi. Il confère à l'administration des prérogatives exorbitantes (actes unilatéraux, exécution forcée) mais la soumet à un contrôle juridictionnel spécifique."
+    },
+    {
+      "question": "Qu'est-ce que le privilège du préalable en droit administratif ?",
+      "choix": [
+        "Le droit pour l'administration d'être jugée en premier",
+        "Le pouvoir de l'administration d'imposer unilatéralement des décisions exécutoires sans avoir besoin d'un jugement préalable",
+        "Le droit de l'administration d'être exemptée de tout contrôle judiciaire",
+        "La priorité accordée aux agents publics dans les procédures judiciaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une prérogative exorbitante du droit commun.",
+        "L'acte s'exécute immédiatement sans jugement.",
+        "C'est ce qui distingue l'acte administratif du contrat privé."
+      ],
+      "explication": "Le privilège du préalable est le pouvoir de l'administration d'imposer unilatéralement ses décisions et de les exécuter sans avoir besoin d'obtenir préalablement une décision de justice. L'acte administratif est exécutoire dès sa publication ou sa notification. Ce privilège exorbitant est la contrepartie de l'intérêt général que poursuit l'administration, mais il est encadré par le contrôle juridictionnel."
+    },
+    {
+      "question": "Qu'est-ce qu'un acte administratif ?",
+      "choix": [
+        "Tout document émis par un agent public dans l'exercice de ses fonctions",
+        "Une décision émanant d'une autorité administrative, prise dans l'exercice de prérogatives de puissance publique, produisant des effets juridiques à l'égard des administrés",
+        "Tout contrat conclu entre l'État et un particulier",
+        "Une circulaire explicative adressée aux fonctionnaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Trois éléments : auteur administratif, prérogatives de puissance publique, effets juridiques.",
+        "Une simple circulaire indicative ne l'est pas.",
+        "Il se distingue du contrat par son caractère unilatéral."
+      ],
+      "explication": "Un acte administratif est une décision émanant d'une autorité administrative, prise dans l'exercice de prérogatives de puissance publique, produisant des effets juridiques à l'égard des administrés. Il faut réunir ces trois éléments cumulativement. Un simple renseignement ou une circulaire purement indicative ne constituent pas des actes administratifs car ils ne produisent pas d'effets juridiques."
+    },
+    {
+      "question": "Quelle est la différence entre un acte réglementaire et un acte individuel ?",
+      "choix": [
+        "L'acte réglementaire est pris par le gouvernement ; l'acte individuel par les communes",
+        "L'acte réglementaire a une portée générale et impersonnelle ; l'acte individuel vise une ou plusieurs personnes nommément désignées",
+        "L'acte réglementaire est toujours écrit ; l'acte individuel peut être oral",
+        "L'acte réglementaire ne peut jamais être annulé ; l'acte individuel le peut"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Réglementaire = général et impersonnel, comme une loi.",
+        "Individuel = vise des personnes identifiées.",
+        "Le décret fixant les conditions d'un concours vs la nomination d'un candidat."
+      ],
+      "explication": "Un acte réglementaire a une portée générale et impersonnelle : il s'applique à une catégorie abstraite de personnes définies par des critères généraux. Un acte individuel vise une ou plusieurs personnes nommément désignées ou identifiables. Cette distinction a des conséquences importantes sur le régime du retrait et des recours."
+    },
+    {
+      "question": "Vrai ou faux : un acte réglementaire peut être abrogé à tout moment par l'autorité qui l'a édicté.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "L'administration est libre de modifier sa réglementation.",
+        "L'abrogation ne vaut que pour l'avenir.",
+        "Elle ne remet pas en cause les effets passés de l'acte."
+      ],
+      "explication": "Vrai. Un acte réglementaire peut être abrogé à tout moment par l'autorité compétente, pour l'avenir uniquement. L'administration est libre de modifier sa réglementation pour s'adapter aux besoins. L'abrogation d'un acte réglementaire illégal peut même être imposée par le juge si un administré en fait la demande."
+    },
+    {
+      "question": "Qu'est-ce qu'un acte créateur de droits ?",
+      "choix": [
+        "Tout acte administratif favorable à l'administré",
+        "Un acte qui fait naître au profit de son destinataire un droit subjectif qu'il peut opposer à l'administration",
+        "Un acte qui crée de nouveaux droits dans l'ordre juridique général",
+        "Un acte par lequel l'administration reconnaît un droit préexistant"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Un permis de construire, une nomination, une subvention en sont des exemples.",
+        "Son régime de retrait est protecteur pour le bénéficiaire.",
+        "L'administration ne peut pas le reprendre librement s'il est légal."
+      ],
+      "explication": "Un acte créateur de droits fait naître au profit de son destinataire un droit subjectif qu'il peut opposer à l'administration. L'octroi d'une autorisation, la nomination à un emploi, l'attribution d'une subvention créent des droits. Cette qualification est protectrice : l'administration ne peut pas retirer librement un acte créateur de droits légal devenu définitif."
+    },
+    {
+      "question": "Dans quel délai un acte individuel créateur de droits illégal peut-il être retiré ?",
+      "choix": [
+        "À tout moment, car l'illégalité prime toujours",
+        "Dans un délai de 4 mois à compter de son édiction",
+        "Dans un délai de 2 mois, identique au délai de recours",
+        "Jamais : même illégal, un acte créateur de droits est intouchable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le délai vise à concilier légalité et sécurité juridique.",
+        "Passé ce délai, même illégal, l'acte ne peut plus être retiré.",
+        "4 mois = délai généralement retenu en jurisprudence."
+      ],
+      "explication": "Un acte individuel créateur de droits illégal peut être retiré dans un délai de 4 mois à compter de son édiction. Passé ce délai, même s'il est illégal, il ne peut plus être retiré pour ne pas trop atteindre la sécurité juridique du bénéficiaire de bonne foi. Ce délai concilie le principe de légalité (éliminer les actes illégaux) et la sécurité juridique (protéger les droits acquis)."
+    },
+    {
+      "question": "Qu'est-ce que l'incompétence en droit administratif ?",
+      "choix": [
+        "L'incapacité professionnelle d'un agent public à accomplir ses tâches",
+        "Le vice de légalité externe résultant du fait que l'acte a été pris par une autorité qui n'avait pas le pouvoir de le prendre",
+        "Le fait pour l'administration de prendre une décision sans connaître les règles applicables",
+        "L'absence de qualification juridique requise pour occuper un poste"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un vice de légalité externe.",
+        "Elle peut être positive (empiétement) ou négative (renoncement).",
+        "C'est le vice le plus grave — il peut être soulevé d'office par le juge."
+      ],
+      "explication": "L'incompétence est le vice de légalité externe résultant du fait que l'acte a été pris par une autorité qui n'avait pas le pouvoir de le prendre. Elle peut être ratione materiae (mauvaise matière), ratione loci (mauvais territoire) ou ratione temporis (mauvaise période). C'est le vice le plus grave : il peut être soulevé d'office par le juge à tout moment."
+    },
+    {
+      "question": "Qu'est-ce qu'un vice de procédure en droit administratif ?",
+      "choix": [
+        "Une erreur dans la rédaction formelle de l'acte",
+        "L'inobservation d'une formalité préalable obligatoire requise avant l'édiction de l'acte",
+        "Une irrégularité dans la compétence de l'auteur de l'acte",
+        "Une erreur sur les motifs de fait de la décision"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'agit d'une formalité préalable : consultation, avis, enquête.",
+        "Il n'entraîne la nullité que s'il a privé les intéressés d'une garantie.",
+        "Ex : absence de consultation d'une commission paritaire requise."
+      ],
+      "explication": "Un vice de procédure est l'inobservation d'une formalité préalable obligatoire avant l'édiction de l'acte — consultation d'un organe, recueil d'un avis, organisation d'une enquête publique. Ce vice n'entraîne la nullité que s'il a privé les intéressés d'une garantie ou a pu influencer le contenu de la décision. Un vice de pure forme sans conséquence sur le fond n'entraîne pas nécessairement l'annulation."
+    },
+    {
+      "question": "Qu'est-ce que le détournement de pouvoir ?",
+      "choix": [
+        "L'utilisation frauduleuse de fonds publics par un agent",
+        "L'utilisation par une autorité de son pouvoir à des fins autres que celles pour lesquelles ce pouvoir lui a été accordé",
+        "La délégation irrégulière d'un pouvoir à un subordonné",
+        "L'excès de zèle d'un fonctionnaire dans l'exercice de ses fonctions"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un vice de légalité interne portant sur le but de l'acte.",
+        "Il est difficile à prouver car il faut démontrer l'intention de l'auteur.",
+        "Un maire qui utilise son pouvoir de police pour ruiner un concurrent en est un exemple."
+      ],
+      "explication": "Le détournement de pouvoir est l'utilisation par une autorité de son pouvoir dans un but autre que celui pour lequel ce pouvoir lui a été conféré. C'est un vice de légalité interne portant sur le but de l'acte. Il est difficile à prouver car il faut démontrer l'intention réelle de l'auteur. Un maire qui prend un arrêté de fermeture d'un établissement non pour raisons de salubrité mais pour favoriser un concurrent commet un détournement de pouvoir."
+    },
+    {
+      "question": "Qu'est-ce que l'erreur de fait comme vice de légalité interne ?",
+      "choix": [
+        "Une erreur de calcul dans le texte de l'acte",
+        "L'inexactitude matérielle des faits invoqués comme base de la décision",
+        "Une erreur dans la qualification juridique des faits exactement constatés",
+        "Une erreur sur l'identité du destinataire de l'acte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les faits invoqués à l'appui de la décision doivent exister réellement.",
+        "S'ils n'existent pas, la décision est sans base factuelle.",
+        "Exemple : sanctionner un fonctionnaire pour des fautes qui n'ont jamais eu lieu."
+      ],
+      "explication": "L'erreur de fait est l'inexactitude matérielle des faits invoqués comme base de la décision. Les faits mis en avant pour justifier l'acte doivent exister réellement et être exacts. Si l'administration sanction un fonctionnaire pour des fautes qui n'ont pas eu lieu, ou prend une décision fondée sur des données factuelles incorrectes, l'acte est entaché d'erreur de fait et doit être annulé."
+    },
+    {
+      "question": "Pour quels actes la motivation est-elle obligatoire ?",
+      "choix": [
+        "Tous les actes administratifs sans exception",
+        "Uniquement les actes réglementaires",
+        "En particulier les actes individuels défavorables : refus d'avantage, retrait de droits, sanctions, restrictions de libertés",
+        "Uniquement les actes pris par le gouvernement central"
+      ],
+      "reponse": 2,
+      "indices": [
+        "En principe, les actes n'ont pas à être motivés.",
+        "Mais certains actes défavorables doivent l'être.",
+        "La motivation permet à l'administré de comprendre et de contester."
+      ],
+      "explication": "En principe, les actes administratifs n'ont pas à être motivés. Mais la loi impose une motivation obligatoire pour les actes individuels défavorables : refus d'un avantage demandé, retrait ou abrogation d'une décision créatrice de droits, sanction disciplinaire, mesure restrictive de libertés publiques. La motivation doit énoncer les considérations de droit et de fait justifiant la décision."
+    },
+    {
+      "question": "Comment les actes réglementaires entrent-ils en vigueur ?",
+      "choix": [
+        "Dès leur signature par l'autorité compétente",
+        "À la date fixée ou le lendemain de leur publication au Journal Officiel ou dans les bulletins officiels correspondants",
+        "À la date de leur transmission aux destinataires",
+        "Uniquement après contrôle de légalité par le juge administratif"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les actes réglementaires doivent être publiés.",
+        "La publication les rend opposables à tous.",
+        "Sans publication, l'acte n'est pas opposable."
+      ],
+      "explication": "Les actes réglementaires entrent en vigueur par la publication. Ils sont publiés au Journal Officiel pour les actes nationaux, dans les bulletins officiels des ministères, dans les recueils des actes administratifs des préfectures, ou par voie d'affichage pour les actes municipaux. Ils entrent en vigueur à la date fixée par l'acte ou, à défaut, le lendemain de leur publication."
+    },
+    {
+      "question": "Pourquoi la notification régulière d'un acte individuel est-elle cruciale pour l'administration ?",
+      "choix": [
+        "Parce qu'elle seule rend l'acte légal",
+        "Parce qu'en l'absence de notification régulière (mention des voies et délais de recours), le délai de recours contentieux ne court pas",
+        "Parce qu'elle permet à l'administration de modifier l'acte après coup",
+        "Parce qu'elle déclenche le délai de prescription du droit invoqué dans l'acte"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le délai de recours court à partir de la notification.",
+        "Sans notification régulière, ce délai ne commence jamais.",
+        "L'administré pourrait contester l'acte des années plus tard."
+      ],
+      "explication": "La notification régulière est cruciale car c'est elle qui fait courir le délai de recours contentieux de 2 mois. Si la notification est irrégulière — par exemple si elle ne mentionne pas les voies et délais de recours — le délai ne court pas. L'administré peut alors contester l'acte à tout moment, même des années plus tard. L'administration a donc intérêt à procéder à une notification parfaitement régulière."
+    },
+    {
+      "question": "Quelle est la différence entre le retrait et l'abrogation d'un acte administratif ?",
+      "choix": [
+        "Le retrait est possible seulement pour les actes réglementaires ; l'abrogation pour les actes individuels",
+        "Le retrait est rétroactif (l'acte est censé n'avoir jamais existé) ; l'abrogation ne vaut que pour l'avenir",
+        "Le retrait nécessite une décision de justice ; l'abrogation est unilatérale",
+        "Ce sont deux termes synonymes désignant la même opération"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rétroactif vs pour l'avenir : c'est la clé.",
+        "Le retrait est plus grave car il remet en cause des situations passées.",
+        "L'abrogation préserve les effets déjà produits."
+      ],
+      "explication": "Le retrait est la suppression rétroactive d'un acte — il est censé n'avoir jamais existé, les effets passés sont anéantis. L'abrogation est la suppression d'un acte pour l'avenir seulement — les effets produits avant l'abrogation sont maintenus. Le retrait est plus grave et son régime est donc plus restrictif que celui de l'abrogation."
+    },
+    {
+      "question": "Qu'est-ce que le recours pour excès de pouvoir (REP) ?",
+      "choix": [
+        "Un recours permettant à l'administration de défendre ses actes devant le juge",
+        "Un recours permettant à tout administré ayant intérêt à agir de demander au juge administratif l'annulation d'un acte administratif illégal",
+        "Un recours permettant d'obtenir des dommages-intérêts de l'administration",
+        "Un recours réservé aux fonctionnaires contestant leur notation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est le grand recours contentieux administratif.",
+        "Il tend à l'annulation de l'acte illégal.",
+        "L'effet de l'annulation est rétroactif et vaut pour tous."
+      ],
+      "explication": "Le recours pour excès de pouvoir est le recours contentieux permettant à tout administré ayant un intérêt à agir de demander au juge administratif l'annulation d'un acte administratif illégal. Il doit être formé dans les 2 mois suivant la publication ou notification de l'acte. Si le juge annule l'acte, cette annulation a un effet rétroactif et erga omnes — elle vaut pour tous."
+    },
+    {
+      "question": "Quel est le délai pour former un recours pour excès de pouvoir ?",
+      "choix": [
+        "1 an à compter de la connaissance de l'acte",
+        "2 mois à compter de la publication ou de la notification régulière de l'acte",
+        "6 mois à compter de l'édiction de l'acte",
+        "30 ans comme la prescription de droit commun"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai est de rigueur — passé ce délai, le recours est irrecevable.",
+        "Il court à compter de la publicité de l'acte.",
+        "Sans notification régulière, ce délai ne court pas."
+      ],
+      "explication": "Le recours pour excès de pouvoir doit être formé dans un délai de 2 mois à compter de la publication pour les actes réglementaires ou de la notification régulière pour les actes individuels. Ce délai est de rigueur : passé ce délai, le recours est irrecevable sauf exceptions. Si l'acte n'a pas été régulièrement notifié (sans mention des voies et délais de recours), le délai ne court pas."
+    },
+    {
+      "question": "Qu'est-ce qu'un principe général du droit (PGD) en droit administratif ?",
+      "choix": [
+        "Un principe expressément inscrit dans la Constitution",
+        "Une règle non écrite mais obligatoire pour l'administration, dégagée par le juge administratif, s'imposant même en l'absence de texte",
+        "Un principe de droit international s'imposant à tous les États",
+        "Une règle générale inscrite dans le Code civil applicable à l'administration"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il est dégagé par la jurisprudence du juge administratif.",
+        "Il s'impose à l'administration même sans texte législatif.",
+        "Exemples : égalité, droits de la défense, non-rétroactivité."
+      ],
+      "explication": "Un principe général du droit est une règle non écrite mais obligatoire pour l'administration, dégagée par le juge administratif (notamment le Conseil d'État en France). Ces principes s'imposent même en l'absence de texte : l'administration doit les respecter sous peine d'illégalité. Parmi les plus importants : le principe d'égalité, les droits de la défense, la non-rétroactivité des actes administratifs, la continuité du service public."
+    },
+    {
+      "question": "Le principe des droits de la défense comme PGD signifie que :",
+      "choix": [
+        "Tout administré a droit à un avocat dans toute procédure administrative",
+        "Toute personne menacée d'une sanction administrative doit pouvoir présenter ses observations préalablement, même en l'absence de texte l'imposant",
+        "L'administration doit toujours communiquer son dossier à l'administré avant de décider",
+        "Le juge administratif doit statuer après avoir entendu les deux parties"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un PGD applicable aux sanctions.",
+        "Il s'impose même sans texte.",
+        "L'administré doit pouvoir s'expliquer avant la décision défavorable."
+      ],
+      "explication": "Le principe des droits de la défense, comme principe général du droit, impose que toute personne susceptible de faire l'objet d'une mesure défavorable — et notamment d'une sanction — puisse présenter ses observations préalablement à la décision, même en l'absence de texte l'imposant explicitement. C'est une garantie fondamentale de l'État de droit."
+    },
+    {
+      "question": "Qu'est-ce que le principe de proportionnalité dans le contrôle des actes de police ?",
+      "choix": [
+        "Le principe selon lequel les sanctions doivent être proportionnelles à la gravité de la faute",
+        "Le principe selon lequel toute mesure restrictive de libertés doit être appropriée, nécessaire et proportionnée au but poursuivi",
+        "Le principe selon lequel l'administration doit traiter proportionnellement tous les administrés",
+        "Le principe selon lequel les frais de l'administration sont proportionnels à ses ressources"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'applique aux mesures de police qui restreignent les libertés.",
+        "Trois étapes : appropriée, nécessaire, proportionnée au sens strict.",
+        "Une interdiction totale là où une mesure partielle suffirait est disproportionnée."
+      ],
+      "explication": "Le principe de proportionnalité signifie que toute mesure administrative restrictive de libertés doit être : appropriée au but poursuivi (doit permettre de l'atteindre), nécessaire (on ne peut pas choisir une mesure plus contraignante qu'une mesure moins contraignante permettant d'atteindre le même résultat), et proportionnée au sens strict (les avantages doivent l'emporter sur les inconvénients). C'est un axe majeur du contrôle des actes de police."
+    },
+    {
+      "question": "Qui prend les décrets à Madagascar et à quel niveau hiérarchique se situent-ils ?",
+      "choix": [
+        "Les ministres uniquement, au niveau le plus bas de la hiérarchie",
+        "Le Président de la République et le Premier ministre, au sommet de la hiérarchie des actes réglementaires",
+        "Le Parlement, lorsqu'il délègue son pouvoir législatif",
+        "Les préfets de région, pour leur ressort territorial"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La Constitution détermine qui peut prendre des décrets.",
+        "Le Président en prend certains en Conseil des ministres.",
+        "Le Premier ministre prend des décrets d'application des lois."
+      ],
+      "explication": "À Madagascar, les décrets sont pris par le Président de la République (certains en Conseil des ministres) et par le Premier ministre (décrets d'application des lois). Ils se situent au sommet de la hiérarchie des actes réglementaires nationaux. Les ministres prennent des arrêtés ministériels dans leurs domaines de compétence. Les collectivités territoriales prennent des délibérations et des arrêtés locaux."
+    },
+    {
+      "question": "Vrai ou faux : l'annulation d'un acte administratif par le juge n'a d'effet qu'entre les parties au litige.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'annulation en REP a un effet erga omnes.",
+        "Elle vaut pour tous, pas seulement pour le requérant.",
+        "L'acte annulé disparaît de l'ordonnancement juridique pour tout le monde."
+      ],
+      "explication": "Faux. L'annulation d'un acte administratif par le juge administratif dans le cadre d'un REP a un effet erga omnes — elle vaut à l'égard de tous, pas seulement des parties au litige. L'acte annulé disparaît rétroactivement de l'ordonnancement juridique pour tout le monde. C'est une différence fondamentale avec les décisions civiles qui n'ont d'effet qu'entre les parties."
+    },
+    {
+      "question": "Qu'est-ce que l'incompétence négative ?",
+      "choix": [
+        "L'incompétence d'une autorité pour prendre un acte défavorable",
+        "Le fait pour une autorité de ne pas exercer un pouvoir qui lui appartient, en laissant à d'autres le soin de décider",
+        "L'incompétence territoriale d'une autorité locale",
+        "Le refus illégal d'une autorité de répondre à une demande d'administré"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'incompétence peut être par excès (positive) ou par défaut (négative).",
+        "Une autorité qui délègue ce qu'elle ne peut pas déléguer est en incompétence négative.",
+        "Elle peut aussi se manifester par l'absence de décision sur un sujet qui lui appartient."
+      ],
+      "explication": "L'incompétence négative est le fait pour une autorité administrative de renoncer à exercer un pouvoir qui lui appartient, en laissant d'autres autorités ou les administrés eux-mêmes décider à sa place. Elle peut aussi se manifester quand une autorité délègue un pouvoir qu'elle ne peut légalement pas déléguer. C'est le pendant de l'incompétence positive (empiétement sur le domaine d'une autre autorité)."
+    },
+    {
+      "question": "Un acte administratif réglementaire produit-il des effets avant sa publication ?",
+      "choix": [
+        "Oui, dès sa signature par l'autorité compétente",
+        "Non, le principe de non-rétroactivité et l'absence de publicité le rendent inopposable avant sa publication",
+        "Oui, mais seulement à l'égard des fonctionnaires qui en ont été informés",
+        "Cela dépend du degré d'urgence de la situation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le PGD de non-rétroactivité s'applique.",
+        "Sans publication, l'acte n'est pas opposable.",
+        "L'administré ne peut pas être lié par un acte qu'il ne connaît pas."
+      ],
+      "explication": "Non. Le principe de non-rétroactivité des actes administratifs, reconnu comme principe général du droit, interdit à un acte de produire des effets avant sa publication. Un administré ne peut être lié par un acte qu'il ne connaît pas. L'acte réglementaire entre en vigueur à la date fixée par lui ou, à défaut, le lendemain de sa publication."
+    },
+    {
+      "question": "Vrai ou faux : une circulaire explicative du ministre adressée à ses services produit des effets juridiques à l'égard des administrés.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Une circulaire est en principe une instruction interne à l'administration.",
+        "Elle ne crée pas de droits pour les administrés.",
+        "Mais si elle contient des règles nouvelles, elle peut être qualifiée d'acte réglementaire."
+      ],
+      "explication": "Faux en principe. Une circulaire purement explicative ou interprétative, qui se borne à commenter des textes existants, est une instruction interne à l'administration. Elle ne produit pas d'effets juridiques à l'égard des administrés et ne peut pas leur être opposée. En revanche, si la circulaire contient des règles nouvelles — des prescriptions allant au-delà de la simple explication — elle peut être qualifiée d'acte réglementaire déguisé et attaquée par voie de REP."
+    },
+    {
+      "question": "Qu'est-ce que l'erreur de droit comme vice de légalité interne ?",
+      "choix": [
+        "L'inexactitude des faits fondant la décision",
+        "La mauvaise qualification juridique de faits exactement constatés, ou la méconnaissance d'une règle de droit applicable",
+        "Une erreur dans la rédaction du texte de l'acte",
+        "L'application d'une règle abrogée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les faits sont exacts mais leur qualification est erronée.",
+        "Ou l'autorité applique une mauvaise règle de droit.",
+        "Exemple : qualifier à tort un agent contractuel de fonctionnaire titulaire."
+      ],
+      "explication": "L'erreur de droit est la mauvaise qualification juridique de faits exactement constatés, ou la méconnaissance d'une règle de droit applicable. Les faits sont réels mais l'autorité les qualifie incorrectement ou applique une règle de droit erronée. Par exemple, révoquer un agent contractuel en lui appliquant la procédure disciplinaire des fonctionnaires titulaires constitue une erreur de droit."
+    },
+    {
+      "question": "Quel organisme est compétent à Madagascar pour contrôler la légalité des actes des collectivités territoriales ?",
+      "choix": [
+        "La Haute Cour constitutionnelle",
+        "Le Conseil d'État et les tribunaux administratifs",
+        "La Cour suprême judiciaire",
+        "Le Parlement par voie de contrôle politique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le contrôle de légalité des actes locaux appartient à la juridiction administrative.",
+        "Le Conseil d'État est au sommet de la juridiction administrative.",
+        "Les tribunaux administratifs connaissent des litiges locaux en premier ressort."
+      ],
+      "explication": "À Madagascar, le contrôle de légalité des actes des collectivités territoriales est assuré par les tribunaux administratifs en premier ressort et par le Conseil d'État en appel ou cassation. La Haute Cour constitutionnelle est compétente pour contrôler la conformité des lois et de certains actes à la Constitution, mais c'est la juridiction administrative qui contrôle la légalité des actes des autorités locales."
+    },
+    {
+      "question": "Vrai ou faux : l'administration peut toujours retirer un acte réglementaire illégal pour l'avenir.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Un acte réglementaire peut être abrogé à tout moment.",
+        "Un acte réglementaire illégal doit même être abrogé si demandé.",
+        "Le retrait rétroactif d'un acte réglementaire est plus délicat."
+      ],
+      "explication": "Vrai. L'administration peut à tout moment abroger (pour l'avenir) un acte réglementaire, qu'il soit légal ou illégal. Elle est même tenue d'abroger un règlement illégal si un administré en fait la demande. La difficulté se pose pour le retrait rétroactif d'un acte réglementaire créateur de droits individuels : dans ce cas, les droits individuellement acquis sur la base de l'acte peuvent être protégés."
+    },
+    {
+      "question": "Qu'est-ce que la présomption de légalité des actes administratifs et quelles en sont les conséquences ?",
+      "choix": [
+        "Les actes administratifs sont toujours légaux et ne peuvent jamais être contestés",
+        "Les actes administratifs sont présumés légaux et exécutoires jusqu'à leur annulation par le juge : l'administré doit les respecter même s'il les croit illégaux",
+        "L'administration est présumée de bonne foi dans toutes ses décisions",
+        "Les actes administratifs bénéficient d'une immunité de 5 ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La présomption de légalité est liée au privilège du préalable.",
+        "L'acte s'applique immédiatement, même contesté.",
+        "L'administré doit d'abord obéir, puis contester."
+      ],
+      "explication": "La présomption de légalité signifie que les actes administratifs sont présumés légaux et exécutoires dès leur publication. L'administré qui conteste un acte ne peut pas simplement refuser de l'appliquer en invoquant son illégalité : il doit continuer à le respecter tout en saisissant le juge d'un recours. Le principe est 'obéir d'abord, contester ensuite'. La seule exception est l'acte inexistant, écartable sans recours préalable."
+    },
+    {
+      "question": "Pour être recevable, le recours pour excès de pouvoir doit-il être précédé d'un recours administratif préalable ?",
+      "choix": [
+        "Oui, toujours : un recours gracieux est obligatoire avant tout recours contentieux",
+        "Non en principe, sauf quand la loi l'exige ; mais un recours administratif préalable interrompt le délai de recours contentieux",
+        "Oui, mais seulement pour les actes réglementaires",
+        "Non, jamais : le recours administratif préalable est toujours facultatif et sans effet"
+      ],
+      "reponse": 1,
+      "indices": [
+        "En principe, on peut saisir directement le juge.",
+        "Certains textes imposent un recours préalable obligatoire.",
+        "Le recours gracieux ou hiérarchique interrompt le délai de 2 mois."
+      ],
+      "explication": "En principe, le REP peut être directement formé sans recours administratif préalable. Certains textes imposent toutefois un recours administratif préalable obligatoire (RAPO) avant la saisine du juge. En tout état de cause, l'exercice d'un recours gracieux (auprès de l'auteur de l'acte) ou hiérarchique (auprès de son supérieur) est facultatif mais interrompt le délai de recours contentieux de 2 mois."
+    },
+    {
+      "question": "Qu'est-ce qu'un acte inexistant en droit administratif et en quoi se distingue-t-il d'un acte simplement illégal ?",
+      "choix": [
+        "Un acte inexistant est un acte qui n'a pas encore été signé",
+        "Un acte inexistant est affecté d'une irrégularité si grave qu'il peut être écarté sans décision juridictionnelle préalable ; un acte simplement illégal est présumé légal jusqu'à annulation",
+        "Un acte inexistant est un acte qui n'a pas été publié",
+        "Un acte inexistant est un acte pris par une autorité compétente mais ayant un objet illicite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'acte inexistant est une théorie d'exception pour les cas les plus graves.",
+        "On peut l'écarter directement sans saisir le juge administratif.",
+        "Exemples : usurpation de fonctions, atteinte grave aux libertés fondamentales."
+      ],
+      "explication": "L'acte inexistant est affecté d'une irrégularité tellement grave qu'il ne peut même pas être qualifié d'acte administratif : usurpation totale de fonctions, acte portant une atteinte manifeste et grave aux libertés fondamentales. Il peut être écarté par tout juge sans attendre l'annulation par le juge administratif. L'acte simplement illégal, lui, est présumé légal et exécutoire jusqu'à son annulation : l'administré doit le respecter et saisir le juge administratif."
+    },
+    {
+      "question": "Vrai ou faux : le principe d'égalité devant le service public interdit à l'administration de traiter différemment des personnes dans des situations différentes.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le principe d'égalité interdit les discriminations injustifiées.",
+        "Mais il permet les différences de traitement justifiées par des différences de situation.",
+        "Il interdit de traiter différemment des personnes dans des situations identiques."
+      ],
+      "explication": "Faux. Le principe d'égalité interdit de traiter différemment des personnes placées dans des situations identiques sans justification objective. Mais il n'interdit pas les différences de traitement fondées sur des différences objectives de situation. L'administration peut moduler ses prestations selon les ressources (tarification sociale), les besoins, ou la situation géographique. Ce qui est interdit, c'est la discrimination arbitraire entre personnes dans des situations comparables."
+    },
+    {
+      "question": "Qu'est-ce que la délégation de signature et comment se distingue-t-elle de la délégation de pouvoir ?",
+      "choix": [
+        "Ce sont deux termes synonymes désignant la même opération",
+        "La délégation de signature autorise un agent à signer au nom de l'autorité déléguante ; la délégation de pouvoir transfère le pouvoir lui-même à une autre autorité",
+        "La délégation de signature est permanente ; la délégation de pouvoir est temporaire",
+        "La délégation de signature concerne les actes individuels ; la délégation de pouvoir les actes réglementaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Dans la délégation de signature, le déléguant reste responsable.",
+        "Dans la délégation de pouvoir, le déléguant se dessaisit de sa compétence.",
+        "La délégation de pouvoir doit être expressément prévue par un texte."
+      ],
+      "explication": "La délégation de signature autorise un agent à signer des actes au nom et sous la responsabilité de l'autorité déléguante, qui reste compétente et peut toujours exercer son pouvoir. La délégation de pouvoir transfère la compétence elle-même à une autre autorité, qui exercera désormais ce pouvoir en son nom propre. Le déléguant ne peut plus exercer le pouvoir délégué tant que la délégation dure."
+    },
+    {
+      "question": "Un arrêté du maire d'Antsiranana interdisant la mendicité dans toute la ville est contesté. Sur quelle base le juge peut-il l'annuler ?",
+      "choix": [
+        "Pour incompétence : la mendicité relève de la compétence de l'État, pas du maire",
+        "Pour violation du principe de proportionnalité : une interdiction totale sur tout le territoire communal est excessive si des mesures moins restrictives auraient suffi, et porte atteinte à des libertés fondamentales",
+        "Pour défaut de motivation : le maire n'a pas expliqué ses raisons",
+        "Pour vice de procédure : le conseil municipal n'a pas été consulté"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le maire dispose d'un pouvoir de police pour maintenir l'ordre.",
+        "Mais ce pouvoir doit être exercé de façon proportionnée.",
+        "Une interdiction totale et générale de la mendicité est disproportionnée."
+      ],
+      "explication": "Le juge peut annuler cet arrêté pour violation du principe de proportionnalité et atteinte à des libertés fondamentales. Si des mesures moins restrictives (interdiction dans certains lieux, certaines heures) auraient suffi à maintenir l'ordre, l'interdiction totale et générale est disproportionnée. La mendicité est une expression de la liberté d'aller et venir et, dans une certaine mesure, de la liberté individuelle. Une interdiction absolue porte une atteinte disproportionnée à ces libertés."
+    },
+    {
+      "question": "Vrai ou faux : un fonctionnaire peut refuser d'exécuter un acte administratif qu'il estime illégal.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le principe est l'obéissance hiérarchique.",
+        "Le fonctionnaire doit exécuter les ordres de ses supérieurs.",
+        "Exception limitée : l'ordre manifestement illégal et de nature à compromettre gravement un intérêt public."
+      ],
+      "explication": "Faux en principe. Le fonctionnaire est soumis à l'obéissance hiérarchique et doit exécuter les actes et instructions de ses supérieurs. Il ne peut refuser d'exécuter un acte au motif qu'il l'estime illégal. Exception : l'ordre manifestement illégal et de nature à compromettre gravement un intérêt public — dans ce cas le fonctionnaire peut et doit refuser. Mais cette exception est strictement encadrée pour éviter que chaque fonctionnaire ne s'érige en juge de la légalité des actes."
+    },
+    {
+      "question": "Qu'est-ce que le référé-suspension et pourquoi est-il important dans le contentieux administratif ?",
+      "choix": [
+        "Une procédure permettant au juge de refuser de statuer dans l'urgence",
+        "Une procédure d'urgence permettant au juge administratif de suspendre l'exécution d'un acte administratif en attendant le jugement au fond sur sa légalité",
+        "Un recours permettant d'obtenir la suspension définitive d'un acte illégal",
+        "Une procédure administrative interne permettant au ministre de suspendre un acte de ses subordonnés"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le REP prend du temps — l'acte continue à s'exécuter pendant l'instance.",
+        "Le référé-suspension permet d'agir vite pour paralyser l'acte.",
+        "Il suppose l'urgence et un doute sérieux sur la légalité de l'acte."
+      ],
+      "explication": "Le référé-suspension est une procédure d'urgence permettant au requérant d'obtenir rapidement la suspension de l'exécution d'un acte administratif en attendant le jugement au fond sur sa légalité. Deux conditions : l'urgence (l'exécution de l'acte causerait un préjudice grave et immédiat) et un doute sérieux quant à la légalité de l'acte. Sans ce mécanisme, le REP serait souvent inutile : l'acte serait entièrement exécuté avant que le juge ait statué."
+    },
+    {
+      "question": "Récapitulatif : le préfet de Diego-Suarez édicte un arrêté interdisant toute réunion publique pendant 3 mois dans toute la région, en invoquant 'des risques de troubles à l'ordre public'. Aucune réunion perturbatrice n'a eu lieu récemment. Identifiez tous les vices de légalité potentiels de cet acte.",
+      "choix": [
+        "Aucun vice : le préfet est compétent en matière d'ordre public",
+        "Vice de légalité interne (erreur de fait : absence de troubles réels), violation du principe de proportionnalité (durée et portée excessives), atteinte à la liberté de réunion, et potentiellement détournement de pouvoir",
+        "Seulement un vice de procédure : le conseil municipal n'a pas été consulté",
+        "Seulement un vice de forme : l'arrêté n'est pas motivé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les faits invoqués (risques de troubles) sont-ils réels si aucun trouble n'a eu lieu ?",
+        "3 mois et toute la région : est-ce proportionné ?",
+        "La liberté de réunion est une liberté fondamentale protégée."
+      ],
+      "explication": "Analyse complète des vices potentiels. Erreur de fait (légalité interne) : le préfet invoque des risques de troubles à l'ordre public, mais aucune réunion perturbatrice n'a eu lieu récemment. Les motifs de fait sont inexacts ou exagérés — vice de légalité interne. Violation du principe de proportionnalité : une interdiction totale pendant 3 mois sur toute la région est manifestement disproportionnée. Des mesures moins restrictives (encadrement des manifestations, interdiction dans certains lieux sensibles) auraient suffi. Atteinte à la liberté de réunion : cette liberté fondamentale ne peut être restreinte que de façon proportionnée et justifiée. Une interdiction totale et générale y porte atteinte de façon excessive. Potentiel détournement de pouvoir : si le préfet a utilisé son pouvoir de police non pour maintenir l'ordre mais pour des raisons politiques (empêcher des meetings d'opposition), c'est un détournement de pouvoir — difficile à prouver mais possible. Défaut de motivation suffisante : l'invocation vague de 'risques de troubles' sans précision constitue une motivation insuffisante pour une mesure aussi restrictive. Conclusion : l'arrêté est très probablement illégal pour plusieurs de ces vices cumulés. Un recours pour excès de pouvoir associé à un référé-suspension permettrait d'en obtenir la suspension immédiate puis l'annulation."
+    },
+    {
+      "question": "Vrai ou faux : le Conseil d'État malgache est à la fois conseiller du gouvernement et juridiction administrative suprême.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Beaucoup de Conseils d'État cumulent ces deux fonctions.",
+        "En France comme à Madagascar, le Conseil d'État a un rôle consultatif et juridictionnel.",
+        "Il rend des avis sur les projets de textes et juge les litiges administratifs."
+      ],
+      "explication": "Vrai. Le Conseil d'État, dans les systèmes de tradition française dont Madagascar s'inspire, cumule deux fonctions. Il est conseiller juridique du gouvernement : il examine et donne des avis sur les projets de lois et de décrets avant leur adoption. Il est aussi la juridiction administrative suprême : il statue en premier et dernier ressort sur certains actes, et connaît des appels et pourvois en cassation contre les décisions des tribunaux administratifs inférieurs."
+    },
+    {
+      "question": "Vrai ou faux : un acte administratif peut produire des effets rétroactifs dans certains cas exceptionnels.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le principe est la non-rétroactivité.",
+        "Mais il existe des exceptions légalement admises.",
+        "Exemple : les actes confirmatifs, les actes de régularisation, certaines décisions juridictionnelles."
+      ],
+      "explication": "Vrai. Si le principe général du droit de non-rétroactivité interdit à un acte administratif de produire des effets avant sa publication, des exceptions existent. Un acte peut avoir des effets rétroactifs dans des hypothèses limitativement reconnues : régularisation d'une situation antérieure, exécution d'une décision juridictionnelle d'annulation (qui impose de reconstituer rétroactivement la situation), mesures de reclassement statutaire accordées pour le passé. Ces exceptions sont d'interprétation stricte."
+    },
+    {
+      "question": "Qu'est-ce que le recours hiérarchique en droit administratif ?",
+      "choix": [
+        "Un recours devant le tribunal administratif contre un acte d'une autorité inférieure",
+        "Un recours formé auprès du supérieur hiérarchique de l'auteur de l'acte, pour lui demander de modifier ou retirer cet acte",
+        "Un recours formé par l'administration contre ses propres agents",
+        "Un recours permettant au requérant de s'adresser directement au ministre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il est exercé auprès du supérieur de l'auteur de l'acte.",
+        "C'est un recours administratif, pas contentieux.",
+        "Il interrompt le délai de recours contentieux de 2 mois."
+      ],
+      "explication": "Le recours hiérarchique est un recours administratif formé auprès du supérieur hiérarchique de l'auteur de l'acte contesté, pour lui demander de modifier, abroger ou retirer l'acte. C'est un recours facultatif qui n'est pas juridictionnel. Il interrompt le délai de recours contentieux de 2 mois, donnant à l'administré un délai supplémentaire pour saisir le juge si le supérieur ne donne pas satisfaction."
+    },
+    {
+      "question": "Pourquoi l'existence d'un contrôle juridictionnel des actes administratifs est-elle fondamentale dans un État de droit ?",
+      "choix": [
+        "Pour permettre aux administrés de gagner de l'argent contre l'administration",
+        "Pour garantir que l'administration respecte le droit en soumettant ses actes au contrôle d'un juge indépendant capable de les annuler s'ils sont illégaux",
+        "Pour permettre au gouvernement de contrôler les collectivités locales",
+        "Pour assurer la cohérence des décisions administratives à travers le pays"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Sans contrôle, le privilège du préalable serait absolu.",
+        "Le contrôle juridictionnel est la contrepartie des pouvoirs exorbitants de l'administration.",
+        "C'est le fondement de l'État de droit : nul n'est au-dessus de la loi."
+      ],
+      "explication": "Le contrôle juridictionnel des actes administratifs est fondamental dans un État de droit car il garantit que l'administration respecte le droit. Sans ce contrôle, le privilège du préalable serait un pouvoir absolu sans contrepoids. Le fait qu'un juge indépendant puisse annuler les actes illégaux de l'administration, même les plus hautes autorités, est la manifestation concrète du principe selon lequel nul n'est au-dessus de la loi — y compris l'État et ses représentants."
+    },
+    {
+      "question": "Vrai ou faux : la délégation de pouvoir du Premier ministre à un ministre dessaisit le Premier ministre de la compétence déléguée.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La délégation de pouvoir transfère la compétence elle-même.",
+        "Le déléguant ne peut plus exercer le pouvoir délégué.",
+        "C'est différent de la délégation de signature où le déléguant reste compétent."
+      ],
+      "explication": "Vrai. La délégation de pouvoir transfère la compétence elle-même : le délégant se dessaisit du pouvoir et ne peut plus l'exercer directement tant que la délégation est en vigueur. C'est une différence fondamentale avec la délégation de signature : dans ce dernier cas, le déléguant reste compétent et peut toujours signer lui-même, le signataire délégué agissant simplement en son nom."
+    },
+    {
+      "question": "Vrai ou faux : toute irrégularité procédurale dans l'édiction d'un acte administratif entraîne automatiquement son annulation.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le juge distingue les vices substantiels et les vices purement formels.",
+        "Un vice de procédure n'entraîne l'annulation que s'il a eu une influence.",
+        "La jurisprudence a développé la théorie des vices non substantiels."
+      ],
+      "explication": "Faux. Le juge administratif ne prononce pas l'annulation pour toute irrégularité procédurale. Le vice de procédure n'entraîne l'annulation que s'il a eu une influence sur le sens de la décision ou s'il a privé les intéressés d'une garantie. Les vices purement formels sans conséquence sur le fond ne justifient pas l'annulation. Le juge apprécie in concreto si l'irrégularité a été suffisamment grave pour vicier l'acte."
+    },
+    {
+      "question": "Récapitulatif final : classez ces actes en actes réglementaires ou actes individuels — (1) le décret fixant les conditions de nationalité malgache, (2) le décret nommant le Premier ministre, (3) l'arrêté municipal réglementant la circulation, (4) le permis de construire accordé à Hery.",
+      "choix": [
+        "Tous quatre sont des actes réglementaires",
+        "(1) et (3) sont réglementaires (portée générale) ; (2) et (4) sont individuels (personnes nommément désignées)",
+        "Tous quatre sont des actes individuels",
+        "(1) est réglementaire ; (2), (3) et (4) sont individuels"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Réglementaire = portée générale et impersonnelle.",
+        "Individuel = vise une personne nommément désignée.",
+        "Le critère est la portée de l'acte, pas l'autorité qui l'édicte."
+      ],
+      "explication": "Actes réglementaires : (1) le décret sur les conditions de nationalité (s'applique à tous ceux qui remplissent les conditions, personne n'est nommément désignée) et (3) l'arrêté municipal réglementant la circulation (portée générale, s'applique à tous les conducteurs). Actes individuels : (2) le décret nommant le Premier ministre (une personne précisément nommée) et (4) le permis de construire accordé à Hery (une personne nommément désignée). Cette classification détermine le régime applicable (retrait, recours, motivation)."
+    },
+    {
+      "question": "Vrai ou faux : un acte administratif peut être attaqué pour violation d'un traité international ratifié.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les traités ratifiés sont supérieurs aux lois dans la hiérarchie.",
+        "Un acte contraire à un traité est illégal.",
+        "Le juge administratif contrôle la conformité aux traités."
+      ],
+      "explication": "Vrai. Les traités internationaux régulièrement ratifiés ont une valeur supérieure aux lois et aux actes réglementaires. Un acte administratif contraire à un traité ratifié est illégal et peut être annulé par le juge administratif sur recours pour excès de pouvoir. Le contrôle de conventionnalité fait partie intégrante du contrôle de légalité."
+    },
+    {
+      "question": "Qu'est-ce que l'acte de gouvernement en droit administratif ?",
+      "choix": [
+        "Tout acte pris par le gouvernement",
+        "Une catégorie d'actes soustraite à tout contrôle juridictionnel en raison de leur nature éminemment politique",
+        "Un acte du Premier ministre contresigné par tous les ministres",
+        "Un acte pris en Conseil des ministres"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce sont des actes que le juge refuse de contrôler.",
+        "Exemples : actes de politique étrangère, décision de dissoudre le Parlement.",
+        "Cette théorie est critiquée car elle crée des zones grises hors de l'État de droit."
+      ],
+      "explication": "L'acte de gouvernement est une catégorie d'actes administratifs soustraite à tout contrôle juridictionnel en raison de leur nature éminemment politique. Le juge administratif refuse d'en connaître. Exemples : la décision de recourir à la force armée, les actes de politique étrangère, la décision de dissoudre le Parlement. Cette théorie, héritée d'une conception ancienne de la séparation des pouvoirs, est limitée et critiquée."
+    },
+    {
+      "question": "Vrai ou faux : le principe de légalité impose à l'administration d'agir uniquement quand la loi l'y autorise expressément.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il existe deux conceptions du principe de légalité.",
+        "La conception stricte exige une habilitation expresse.",
+        "La conception souple admet que l'absence d'interdiction suffit dans certains domaines."
+      ],
+      "explication": "Faux dans sa formulation absolue. Il existe deux conceptions. La conception stricte (limitation négative) impose que l'administration ne fasse que ce que la loi lui permet expressément. La conception souple (habilitation générale) admet que l'administration peut agir dans les matières non réservées à la loi, sauf interdiction. En pratique, le droit administratif contemporain combine les deux : la Constitution et la loi délimitent les domaines réservés où une habilitation expresse est requise."
+    },
+    {
+      "question": "Qu'est-ce que la police administrative et en quoi se distingue-t-elle de la police judiciaire ?",
+      "choix": [
+        "Ce sont deux termes synonymes désignant les forces de l'ordre",
+        "La police administrative prévient les troubles à l'ordre public par des actes réglementaires ou individuels ; la police judiciaire réprime les infractions déjà commises sous l'autorité du procureur",
+        "La police administrative relève du droit privé ; la police judiciaire du droit public",
+        "La police administrative est exercée par les communes ; la police judiciaire par l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Prévention vs répression : c'est la distinction centrale.",
+        "L'arrêté d'interdiction de réunion est de la police administrative.",
+        "L'arrestation d'un suspect est de la police judiciaire."
+      ],
+      "explication": "La police administrative a une finalité préventive : elle vise à prévenir les troubles à l'ordre public avant qu'ils ne se produisent, par des actes réglementaires ou individuels (arrêtés d'interdiction, réglementations). La police judiciaire a une finalité répressive : elle constate les infractions déjà commises, en recherche les auteurs et les défère à la justice, sous l'autorité du procureur. Cette distinction détermine le juge compétent en cas de litige : administratif pour la police administrative, judiciaire pour la police judiciaire."
+    },
+    {
+      "question": "Un administré dont le recours gracieux reste sans réponse pendant 2 mois peut-il considérer que l'administration a refusé implicitement ?",
+      "choix": [
+        "Non, le silence de l'administration vaut toujours acceptation",
+        "Oui, en droit administratif le silence gardé pendant 2 mois par l'administration sur une demande vaut en principe décision implicite de rejet",
+        "Non, il doit attendre une réponse explicite indéfiniment",
+        "Oui, mais seulement si la demande portait sur plus d'un million d'ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le silence de l'administration n'est pas un non-acte.",
+        "Il vaut décision implicite de rejet en principe.",
+        "Cette fiction permet à l'administré d'agir en contentieux."
+      ],
+      "explication": "Oui. En droit administratif, le silence gardé pendant 2 mois par l'administration sur une demande vaut en principe décision implicite de rejet. Cette règle — différente du droit privé où le silence ne vaut pas acceptation — permet à l'administré de saisir le juge administratif même en l'absence de décision formelle. Des exceptions légales existent où le silence vaut acceptation dans certaines matières. La décision implicite de rejet est attaquable dans les mêmes conditions qu'une décision expresse."
+    },
+    {
+      "question": "Vrai ou faux : en droit administratif, l'intérêt à agir pour former un REP suppose nécessairement un préjudice financier direct.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'intérêt à agir en REP est apprécié largement.",
+        "Un simple intérêt moral ou de voisinage peut suffire.",
+        "Les associations peuvent agir pour défendre leur objet social."
+      ],
+      "explication": "Faux. L'intérêt à agir pour former un REP est apprécié de façon large par le juge. Il n'est pas nécessaire d'avoir subi un préjudice financier direct. Un intérêt moral, un intérêt de voisinage (le voisin d'un projet de construction), un intérêt collectif défendu par une association dans son objet social suffisent. Le REP est un recours objectif de légalité : l'intérêt requis est celui d'obtenir que la légalité soit respectée, pas nécessairement de réparer un dommage personnel."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : M. Rabe est fonctionnaire territorial à la Commune urbaine d'Antsiranana. Son supérieur hiérarchique lui notifie une décision de mise à pied de 15 jours pour 'manquement à ses obligations professionnelles'. La décision ne contient aucune précision sur les faits reprochés, ni sur la date ou la nature des manquements invoqués. M. Rabe n'a jamais été convoqué pour s'expliquer avant la décision. Il consulte un avocat. Analysez la légalité de cette décision et conseillez M. Rabe.",
+      "choix": [
+        "La décision est légale : le supérieur hiérarchique est toujours compétent pour sanctionner",
+        "La décision est illégale pour au moins deux vices : défaut de motivation (les faits ne sont pas précisés) et violation des droits de la défense (M. Rabe n'a pas été entendu préalablement)",
+        "La décision est légale car la mise à pied est une sanction mineure qui n'exige pas de formalités",
+        "M. Rabe ne peut pas contester : il doit d'abord effectuer sa mise à pied puis agir"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La mise à pied est une sanction disciplinaire — quel type d'acte est-ce ?",
+        "Les sanctions disciplinaires doivent-elles être motivées ?",
+        "M. Rabe a-t-il pu s'expliquer avant la décision ? Quel PGD est en cause ?"
+      ],
+      "explication": "Analyse complète. Nature de l'acte. La décision de mise à pied est un acte administratif individuel défavorable — une sanction disciplinaire. Elle est créatrice de droits négatifs à l'égard de M. Rabe. Vice n°1 : Défaut de motivation. Une sanction disciplinaire est un acte individuel défavorable. La loi impose que les actes individuels défavorables soient motivés. La décision doit énoncer les considérations de droit et de fait justifiant la sanction : quels manquements ? Quand ? Comment constatés ? La formule vague 'manquement à ses obligations professionnelles' est une motivation insuffisante, purement formelle, qui ne permet pas à M. Rabe de comprendre ce qu'on lui reproche ni de se défendre utilement. Ce vice de forme entraîne l'illégalité de l'acte. Vice n°2 : Violation du principe général du droit des droits de la défense. Avant de prononcer une sanction disciplinaire, l'administration doit permettre à l'agent de prendre connaissance de son dossier et de présenter ses observations — même en l'absence de texte l'imposant expressément, car c'est un principe général du droit. M. Rabe n'a jamais été convoqué ni entendu. Cette violation des droits de la défense est un vice de procédure substantiel qui entache l'acte d'illégalité. Vice n°3 possible : Erreur de fait. Si les 'manquements' invoqués n'ont jamais eu lieu ou sont inexacts, l'acte serait de surcroît entaché d'erreur de fait. M. Rabe devrait vérifier les faits réels. Les recours de M. Rabe. Dans les 2 mois suivant la notification, M. Rabe peut former un recours gracieux auprès de son supérieur (qui interrompt le délai de 2 mois) et/ou un recours hiérarchique auprès de l'autorité de tutelle. Si ces recours échouent, il peut former un REP devant le tribunal administratif compétent pour obtenir l'annulation de la décision. Si la mise à pied lui cause un préjudice immédiat, il peut aussi demander un référé-suspension. Conseil pratique. M. Rabe doit immédiatement contester cette décision par lettre recommandée. Il doit documenter l'absence de convocation préalable, l'imprécision de la motivation et, si possible, apporter des éléments prouvant l'inexactitude des faits invoqués. L'annulation de la décision lui permettra d'obtenir le paiement de son traitement pendant la période de mise à pied et, éventuellement, des dommages-intérêts."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Le gouvernement malgache prend un décret créant une zone économique spéciale (ZES) dans la région DIANA. Ce décret exige que tous les propriétaires fonciers situés dans le périmètre de la ZES cèdent leurs terres à l'État dans un délai de 6 mois, sous peine d'expropriation d'office. Vonjy est propriétaire d'un terrain de 5 hectares inclus dans ce périmètre. Il n'a reçu aucune notification individuelle. Il conteste ce décret. Analysez la légalité du décret et les droits de Vonjy.",
+      "choix": [
+        "Le décret est légal : le gouvernement peut créer des ZES et exproprier",
+        "Le décret peut être contesté : l'expropriation doit respecter des garanties constitutionnelles (utilité publique, juste indemnité préalable), et l'absence de procédure d'expropriation régulière, de notification individuelle et de fixation d'une indemnité viole ces garanties",
+        "Vonjy n'a aucun recours car le décret est un acte réglementaire général",
+        "Le délai de 6 mois est suffisant, le décret est donc légal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'expropriation touche au droit de propriété garanti par la Constitution.",
+        "Quelles sont les conditions constitutionnelles de l'expropriation ?",
+        "Un décret réglementaire peut-il organiser directement l'expropriation sans loi préalable ?"
+      ],
+      "explication": "Analyse complète. Nature de l'acte et compétence. Le décret créant la ZES est un acte réglementaire émanant du gouvernement. En principe, l'exécutif est compétent pour créer des zones économiques spéciales. Cependant, l'expropriation est une matière qui touche au droit fondamental de propriété — garanti par la Constitution. En droit malgache comme dans les systèmes qui s'en inspirent, l'expropriation ne peut être organisée que dans les conditions prévues par la loi, pas par simple décret. Si la loi n'autorise pas ce mécanisme d'expropriation directe par décret, le décret est illégal pour incompétence. Vice constitutionnel : violation du droit de propriété. Le droit de propriété est protégé par la Constitution malgache. L'expropriation n'est possible qu'à deux conditions constitutionnelles : elle doit être fondée sur une cause d'utilité publique légalement constatée, et elle doit donner lieu à une juste et préalable indemnité. Un décret qui impose la cession sous peine d'expropriation d'office sans procédure régulière d'évaluation et d'indemnisation préalable viole ces garanties constitutionnelles. Vice procédural : absence de notification individuelle et de procédure contradictoire. Vonjy n'a reçu aucune notification individuelle. Or, une mesure affectant directement ses droits de propriété devrait lui être notifiée pour lui permettre de faire valoir ses droits, présenter ses observations, et contester le périmètre ou l'évaluation de son terrain. L'absence de toute procédure contradictoire individuelle viole les droits de la défense. Vice de proportionnalité. Le délai de 6 mois peut être insuffisant pour permettre aux propriétaires de prendre des décisions éclairées. La mesure générale (tous les propriétaires du périmètre) sans appréciation individuelle de chaque situation peut être disproportionnée. Les droits de Vonjy. Vonjy dispose d'un intérêt à agir : sa propriété est directement visée. Il peut former un REP contre le décret devant le Conseil d'État, dans les 2 mois suivant la publication du décret au Journal Officiel. Il peut demander un référé-suspension pour paralyser l'exécution du décret en attendant le jugement au fond. Sur le fond, les arguments sont solides : inconstitutionnalité (violation du droit de propriété), illégalité externe (incompétence réglementaire en matière de garanties constitutionnelles) et illégalité interne (violation des droits de la défense, défaut de procédure). Conseil pratique. Vonjy doit agir rapidement — le délai de 2 mois court à compter de la publication du décret. Il doit constituer un avocat spécialisé en droit administratif et documenter sa propriété (titre foncier, superficie, valeur). Un collectif avec d'autres propriétaires affectés renforcerait le poids du recours."
+    }
+  ]
+}
