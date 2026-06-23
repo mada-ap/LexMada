@@ -1,0 +1,446 @@
+{
+  "titre": "Les sûretés — cautionnement, hypothèque, gage",
+  "module": "Module 16 — Les sûretés : cautionnement, hypothèque, gage",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'une sûreté ?",
+      "texte": "Prêter de l'argent ou accorder un crédit comporte un risque : celui de ne jamais être remboursé si le débiteur devient insolvable. Les sûretés sont les outils juridiques qui protègent le créancier contre ce risque. À Madagascar, elles sont régies par la loi n° 2003-041 du 3 septembre 2004, qui a entièrement réformé cette matière en s'inspirant du droit civil français, du droit québécois et des travaux de l'OHADA, tout en conservant des institutions propres au pays comme le Fehivava. Le principe de base du droit des obligations est posé dès l'article 58 : quiconque s'engage doit répondre de sa dette sur l'ensemble de ses biens, présents et futurs. Tous les créanciers d'un même débiteur se partagent en principe ce patrimoine à parts égales — c'est le 'gage commun des créanciers'. Mais cette égalité a une exception fondamentale : les créanciers munis d'une cause légitime de préférence (article 60) sont payés avant les autres. Ces causes légitimes de préférence sont précisément le privilège et l'hypothèque. La loi distingue deux grandes familles de sûretés. La sûreté personnelle ajoute un second débiteur : un tiers s'engage à payer si le débiteur principal ne le fait pas (c'est le cautionnement). La sûreté réelle affecte un bien spécifique à la garantie de la dette : en cas de défaillance, le créancier peut se faire payer en priorité sur la valeur de ce bien (c'est le gage et l'hypothèque).",
+      "definition": "Une sûreté est un mécanisme juridique, légal ou conventionnel, qui garantit au créancier l'exécution d'une obligation et le protège contre l'insolvabilité du débiteur. On distingue les sûretés personnelles (engagement d'un tiers, comme le cautionnement) et les sûretés réelles (affectation d'un bien, comme le gage ou l'hypothèque).",
+      "exemple": "Une banque d'Antananarivo accorde un crédit de 50 millions d'ariary à un commerçant pour ouvrir une boutique. Sans garantie, si le commerçant fait faillite, la banque devient un simple créancier parmi d'autres, avec un risque élevé de ne récupérer qu'une fraction de sa créance. Si elle exige une hypothèque sur la maison du commerçant ou la caution personnelle d'un proche solvable, elle s'assure d'être payée en priorité ou de disposer d'un second débiteur."
+    },
+    {
+      "titre": "Le cautionnement : la reine des sûretés personnelles",
+      "texte": "Le cautionnement est défini par l'article 4 comme le contrat par lequel un tiers, appelé caution, s'engage envers le créancier à exécuter l'obligation du débiteur principal si celui-ci n'y satisfait pas lui-même. Particularité importante : cet engagement peut être pris sans l'accord du débiteur, et même à son insu — la caution se porte garante directement auprès du créancier. Le cautionnement présente un caractère accessoire fondamental : il ne peut exister que pour garantir une obligation valable (article 5), et il ne peut jamais excéder le montant de la dette principale ni être plus contraignant qu'elle (article 6). Si un cautionnement dépasse la dette garantie, il n'est pas nul pour autant : il est simplement réduit à la mesure de l'obligation principale. L'article 9 pose une règle protectrice essentielle : le cautionnement ne se présume jamais. Il doit être convenu de façon expresse entre la caution et le créancier, sous peine de nullité. La loi malgache impose un formalisme strict (article 10) destiné à éviter les engagements irréfléchis : l'acte doit comporter la signature des deux parties et une mention manuscrite, écrite de la main de la caution elle-même, indiquant la somme maximale garantie en chiffres ET en toutes lettres. En cas de différence entre les deux, c'est le montant en lettres qui prévaut. Si la caution ne sait pas écrire, l'acte doit être passé devant notaire (forme authentique).",
+      "definition": "Le cautionnement est un contrat par lequel une personne (la caution) s'engage à payer la dette d'autrui (le débiteur principal) si celui-ci ne paie pas. Il ne se présume jamais : il doit résulter d'un écrit exprès, signé par la caution, avec mention manuscrite de la somme garantie en chiffres et en lettres.",
+      "exemple": "Le père de Tojo, jeune entrepreneur à Toamasina, se porte caution pour un prêt bancaire de 20 millions d'ariary destiné à acheter un camion. Il doit signer un acte mentionnant de sa main : 'Bon pour caution de la somme de vingt millions d'ariary (20 000 000 Ar)'. S'il ne sait pas écrire, l'acte devra être passé devant notaire. Si Tojo cesse de rembourser, la banque pourra réclamer le paiement directement à son père."
+    },
+    {
+      "titre": "Cautionnement simple et cautionnement solidaire",
+      "texte": "La loi malgache innove par rapport au droit français classique sur un point majeur : l'article 17 pose que le cautionnement est réputé solidaire par défaut. Cela signifie que, sauf clause contraire expresse dans le contrat, la caution peut être poursuivie directement par le créancier, sans que celui-ci ait d'abord à épuiser tous ses recours contre le débiteur principal. Cette solidarité présumée renforce considérablement la position du créancier et simplifie la gestion des cautionnements dans la pratique bancaire. Dans le cautionnement simple — qui doit être expressément stipulé comme tel — la caution dispose du bénéfice de discussion (article 23) : sur les premières poursuites dirigées contre elle, elle peut exiger que le créancier poursuive d'abord les biens du débiteur principal, à condition d'indiquer ces biens et de fournir les fonds nécessaires aux frais de cette discussion. La caution solidaire, à l'inverse, ne dispose jamais du bénéfice de discussion (article 22) : elle peut être poursuivie immédiatement, comme si elle était elle-même la débitrice. Lorsque plusieurs personnes cautionnent ensemble la même dette pour le même débiteur, chacune est tenue pour le tout (article 21), sauf si elles invoquent le bénéfice de division (article 25), qui leur permet d'exiger que le créancier répartisse son action entre elles à parts égales.",
+      "definition": "Le cautionnement est présumé solidaire à Madagascar (article 17) : la caution peut être poursuivie directement sans discussion préalable du débiteur. Le cautionnement simple, qui doit être expressément stipulé, donne à la caution le bénéfice de discussion (exiger la poursuite du débiteur principal d'abord) ; il n'existe pas pour la caution solidaire.",
+      "exemple": "Trois associés (Rivo, Hasina et Fy) se portent cautions solidaires d'un prêt de leur société. Si la société ne paie pas, la banque peut réclamer l'intégralité de la dette à Rivo seul, sans avoir à poursuivre d'abord Hasina, Fy ou la société elle-même. Rivo, une fois qu'il a payé, dispose ensuite d'un recours personnel contre ses deux coassociés et contre la société pour récupérer leur part."
+    },
+    {
+      "titre": "Les effets et l'extinction du cautionnement",
+      "texte": "Une fois le cautionnement formé, plusieurs obligations naissent entre les parties. Le créancier doit informer la caution de toute défaillance du débiteur (article 19) : pour les cautionnements généraux, il doit même lui communiquer chaque trimestre l'état détaillé des dettes restant dues, sous peine d'être déchu des intérêts courus entre deux informations. Lorsque la caution paie à la place du débiteur défaillant, elle dispose de deux recours puissants. D'abord, le recours personnel (article 29) contre le débiteur principal, pour récupérer le principal, les intérêts et les frais engagés. Ensuite, le recours subrogatoire (article 30) : la caution est automatiquement subrogée dans tous les droits que le créancier avait contre le débiteur — y compris les autres garanties éventuelles (hypothèques, privilèges) qui accompagnaient la créance d'origine. L'extinction du cautionnement obéit à des règles précises. Comme l'engagement est accessoire, l'extinction totale ou partielle de la dette principale entraîne automatiquement celle du cautionnement, dans la même mesure (article 36). Mais le cautionnement peut aussi s'éteindre de façon autonome : remise de dette consentie spécifiquement à la caution, compensation, confusion entre créancier et caution (article 39). Une protection forte existe à l'article 39 : si le créancier, par sa propre faute, fait perdre à la caution la possibilité d'être subrogée dans les garanties qui accompagnaient la dette (hypothèques, privilèges), la caution est purement et simplement déchargée de son engagement.",
+      "definition": "Le créancier doit informer régulièrement la caution de l'évolution de la dette. La caution qui paie dispose d'un recours personnel et d'un recours subrogatoire contre le débiteur. Le cautionnement s'éteint avec la dette principale, mais aussi si le créancier, par sa faute, prive la caution des garanties auxquelles elle aurait pu prétendre.",
+      "exemple": "Une banque omet pendant deux ans d'informer la caution d'un crédit professionnel de l'évolution des impayés, comme l'exige la loi. Lorsqu'elle réclame finalement le paiement à la caution, celle-ci peut invoquer la déchéance des intérêts courus pendant la période où elle n'a pas été informée — elle ne devra que le capital restant, pas les intérêts accumulés sans notification."
+    },
+    {
+      "titre": "Le gage : la sûreté mobilière avec dépossession",
+      "texte": "Le gage est le nantissement portant sur un bien meuble (article 67). Le mot 'nantissement' est le terme générique qui désigne l'affectation d'un bien en garantie d'une dette (article 62) ; quand ce bien est meuble, on parle spécifiquement de 'gage'. Le gage classique repose sur la dépossession : le bien doit être remis et rester en la possession du créancier ou d'un tiers convenu entre les parties (article 70). Tant que cette possession n'est pas effective, le privilège du gage ne peut pas s'établir. Le gage confère au créancier un droit de se faire payer sur le bien, par préférence aux autres créanciers (article 67). Mais attention : à défaut de paiement, le créancier ne peut jamais s'approprier directement le bien gagé ni le vendre lui-même sans formalité. L'article 72 interdit formellement deux pratiques : le pacte commissoire (clause qui autoriserait le créancier à s'approprier automatiquement le gage en cas de défaut) et la clause de voie parée (clause qui autoriserait le créancier à vendre lui-même le bien sans procédure judiciaire). Toute clause de ce type est réputée non écrite. Pour réaliser sa garantie, le créancier doit soit faire ordonner par la justice que le gage lui demeure en paiement après une estimation d'experts, soit procéder à une vente aux enchères publiques (article 72 et 89). Le gage est par nature indivisible (article 76) : même si la dette se divise entre plusieurs héritiers, le bien gagé garantit la totalité de la dette tant qu'elle n'est pas intégralement payée.",
+      "definition": "Le gage est le nantissement d'un bien meuble, qui doit être remis et rester en la possession du créancier ou d'un tiers convenu. Il confère un droit de préférence sur la valeur du bien. Le créancier ne peut jamais s'approprier ou vendre lui-même le gage : toute clause en ce sens (pacte commissoire, clause de voie parée) est nulle. La réalisation se fait par décision de justice ou vente publique.",
+      "exemple": "Un commerçant d'Antsirabe emprunte 5 millions d'ariary et remet en gage des bijoux en or à son créancier, qui les conserve dans son coffre. Si le commerçant ne rembourse pas, le créancier ne peut pas simplement garder les bijoux ou les revendre lui-même : il doit demander au juge soit de lui attribuer les bijoux après expertise, soit d'ordonner leur vente aux enchères. S'il les revend sans formalité, cette vente peut être contestée."
+    },
+    {
+      "titre": "Les gages sans dépossession et le nantissement",
+      "texte": "La loi de 2003 a introduit une innovation majeure : les gages sans dépossession (article 115), qui permettent au débiteur de garder l'usage du bien tout en l'affectant en garantie. C'est essentiel pour les biens professionnels indispensables à l'activité du débiteur. Cinq catégories de biens peuvent ainsi être nantis sans dépossession : le matériel professionnel et les véhicules automobiles, les stocks de matières premières et marchandises, le fonds de commerce, les parts sociales, et les droits de propriété industrielle (brevets, marques). Pour produire effet, ces nantissements doivent impérativement être constitués par écrit (acte authentique, authentifié ou sous seing privé enregistré) et inscrits au registre du commerce et des sociétés (articles 120-121). Cette inscription est ce qui rend la sûreté opposable aux tiers : sans elle, même un acte parfaitement rédigé est inefficace face aux autres créanciers. L'inscription du nantissement de matériel et véhicules conserve les droits du créancier pendant 5 ans (article 121), celle des stocks pendant 1 an seulement (article 129) — reflétant le caractère plus volatil de la valeur des stocks. Le débiteur, qui garde la possession du bien nanti, conserve certaines libertés : il peut par exemple vendre des stocks nantis, mais doit alors consigner le prix de vente auprès d'un banquier domiciliataire désigné dans l'acte (article 132), faute de quoi il s'expose à des poursuites, y compris pénales pour détournement de bien nanti.",
+      "definition": "Le gage sans dépossession (ou nantissement) permet de garantir une dette sur un bien meuble tout en laissant le débiteur en possession et en usage de ce bien. Il concerne notamment le matériel professionnel, les stocks, le fonds de commerce, les parts sociales et les droits de propriété industrielle. Il doit être inscrit au registre du commerce et des sociétés pour être opposable aux tiers.",
+      "exemple": "Une menuiserie à Fianarantsoa emprunte pour acheter une nouvelle scie à ruban. La banque accepte un nantissement sans dépossession sur cette machine : l'entreprise continue à l'utiliser quotidiennement pour produire et vendre ses meubles, mais elle ne peut pas la revendre sans l'accord de la banque, et celle-ci dispose d'un droit de préférence sur sa valeur en cas de défaut de paiement. L'acte doit être inscrit au registre du commerce pour protéger la banque face à d'autres créanciers éventuels."
+    },
+    {
+      "titre": "L'hypothèque : la sûreté immobilière par excellence",
+      "texte": "L'hypothèque est définie par l'article 182 comme une sûreté réelle immobilière, conventionnelle ou forcée, qui confère à son titulaire deux prérogatives puissantes : un droit de suite (poursuivre le bien même s'il change de propriétaire) et un droit de préférence (être payé en priorité sur le prix de vente). Particularité fondamentale du droit malgache : seuls les immeubles immatriculés peuvent faire l'objet d'une hypothèque (article 184). Les terrains non titrés, très nombreux à Madagascar, ne peuvent donc pas être hypothéqués selon ce régime — ce qui explique en partie pourquoi l'accès au crédit reste difficile pour de nombreux Malgaches dont les terres ne sont pas immatriculées. Pour être valable, l'hypothèque conventionnelle doit obligatoirement être consentie par acte authentique (notarié) ou authentifié par l'autorité administrative habilitée (article 195) — un simple acte sous seing privé ne suffit jamais, contrairement au gage. L'acte doit désigner individuellement chaque immeuble concerné, avec indication précise de la commune où il se situe (article 193). L'hypothèque ne devient opposable aux tiers qu'après son inscription au livre foncier (article 188) : tant que cette inscription n'est pas faite, l'acte d'hypothèque, même parfaitement valide entre les parties, est inopposable aux tiers (article 197). L'hypothèque est indivisible par nature (article 186) : elle subsiste totalement sur l'immeuble jusqu'au paiement complet de la dette, même en cas de succession ou de paiement partiel.",
+      "definition": "L'hypothèque est une sûreté réelle immobilière conférant un droit de suite et un droit de préférence sur un immeuble immatriculé. Elle doit être constituée par acte authentique ou authentifié et inscrite au livre foncier pour être opposable aux tiers. Seuls les immeubles immatriculés peuvent en faire l'objet — une limite importante dans le contexte foncier malgache.",
+      "exemple": "Une société immobilière à Antananarivo accorde un prêt garanti par une hypothèque sur un immeuble de bureaux titré au nom de l'emprunteur. L'acte est signé devant notaire et inscrit au livre foncier de la circonscription concernée. Trois ans plus tard, l'emprunteur vend l'immeuble à un tiers sans rembourser sa dette. Grâce au droit de suite, le créancier hypothécaire peut poursuivre le nouveau propriétaire et faire saisir l'immeuble, même si ce dernier n'a jamais contracté personnellement la dette."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel texte régit actuellement le droit des sûretés à Madagascar ?",
+      "choix": ["L'ordonnance n° 60-146 de 1960", "La loi n° 2003-041 du 3 septembre 2004", "Le Code de commerce de 1955", "La loi n° 99-025 du 19 août 1999"],
+      "reponse": 1,
+      "explication": "C'est la loi n° 2003-041 du 3 septembre 2004 qui régit le droit des sûretés à Madagascar. Elle a abrogé les anciennes dispositions du Code civil français applicables localement et a refondu l'ensemble de la matière en s'inspirant du droit civil français, du Code civil du Québec et des travaux de l'OHADA.",
+      "indices": ["Le texte date de 2004, malgré son numéro de 2003.", "Il a abrogé les dispositions du Code civil français sur les sûretés, le cautionnement et les privilèges.", "Il a aussi consacré le Fehivava, institution traditionnelle malgache."]
+    },
+    {
+      "question": "Selon l'article 60, quelles sont les causes légitimes de préférence entre créanciers ?",
+      "choix": ["L'ancienneté de la créance et son montant", "Le privilège et l'hypothèque", "La nationalité du créancier", "La bonne foi du débiteur"],
+      "reponse": 1,
+      "explication": "L'article 60 énonce que les causes légitimes de préférence sont le privilège et l'hypothèque. Ce sont ces deux mécanismes qui permettent à un créancier d'échapper à la règle de l'égalité entre créanciers (le 'gage commun') et d'être payé prioritairement sur d'autres.",
+      "indices": ["Deux causes seulement sont citées par la loi.", "Elles permettent de déroger à l'égalité entre créanciers chirographaires.", "L'une concerne les meubles principalement, l'autre les immeubles."]
+    },
+    {
+      "question": "Quelle est la différence fondamentale entre une sûreté personnelle et une sûreté réelle ?",
+      "choix": ["La sûreté personnelle est gratuite, la sûreté réelle est payante", "La sûreté personnelle engage une personne supplémentaire, la sûreté réelle affecte un bien spécifique", "La sûreté personnelle concerne les meubles, la sûreté réelle les immeubles", "Il n'y a aucune différence juridique entre les deux"],
+      "reponse": 1,
+      "explication": "L'article 2 distingue clairement les deux : la sûreté personnelle consiste en l'engagement d'une personne (la caution) de répondre de la dette du débiteur principal. La sûreté réelle consiste en l'affectation d'un bien, meuble ou immeuble, à la garantie de l'obligation, conférant au créancier un droit de préférence sur le prix de réalisation de ce bien.",
+      "indices": ["L'une ajoute un débiteur supplémentaire, l'autre désigne un bien de garantie.", "Le cautionnement est l'exemple type de sûreté personnelle.", "Le gage et l'hypothèque sont des sûretés réelles."]
+    },
+    {
+      "question": "Qu'est-ce que le cautionnement selon l'article 4 ?",
+      "choix": ["Un dépôt d'argent fait par le débiteur en garantie", "Un contrat par lequel un tiers s'engage à exécuter l'obligation du débiteur si celui-ci n'y satisfait pas", "Une assurance souscrite obligatoirement pour tout prêt", "Un acte par lequel le débiteur renonce à ses biens"],
+      "reponse": 1,
+      "explication": "Le cautionnement est défini par l'article 4 comme le contrat par lequel un tiers (la caution) s'engage envers le créancier à exécuter l'obligation du débiteur principal si celui-ci n'y satisfait pas lui-même. Cet engagement peut être pris sans l'accord du débiteur principal, et même à son insu.",
+      "indices": ["C'est un contrat entre la caution et le créancier.", "Le débiteur principal n'est pas nécessairement partie à cet accord.", "C'est l'exemple type de la sûreté personnelle."]
+    },
+    {
+      "question": "Le débiteur principal doit-il donner son accord pour qu'un cautionnement soit valable ?",
+      "choix": ["Oui, son accord écrit est toujours obligatoire", "Non, le cautionnement peut être contracté sans son accord et même à son insu", "Oui, sauf en matière commerciale", "Non, mais il doit en être informé dans le mois suivant"],
+      "reponse": 1,
+      "explication": "L'article 4 alinéa 2 est explicite : l'engagement de la caution peut être contracté sans ordre du débiteur et même à son insu. C'est un accord entre la caution et le créancier ; le débiteur principal n'a pas à y consentir, bien qu'il en bénéficie indirectement.",
+      "indices": ["Le contrat se forme entre deux parties précises.", "Le débiteur principal peut même ne pas être au courant.", "Cela facilite par exemple les cautionnements donnés discrètement par un proche."]
+    },
+    {
+      "question": "Le cautionnement peut-il être présumé, c'est-à-dire déduit implicitement d'un comportement ?",
+      "choix": ["Oui, si le comportement de la caution laisse penser qu'elle s'engage", "Non, le cautionnement ne se présume jamais, il doit être convenu de façon expresse", "Oui, en matière commerciale uniquement", "Oui, si le créancier l'affirme de bonne foi"],
+      "reponse": 1,
+      "explication": "L'article 9 pose une règle protectrice fondamentale : le cautionnement ne se présume pas. Il doit être convenu de façon expresse entre la caution et le créancier, à peine de nullité. Cette exigence protège les personnes contre des engagements qu'elles n'auraient pas réellement voulu prendre.",
+      "indices": ["C'est une règle d'ordre public protectrice.", "L'absence d'expression claire entraîne la nullité.", "Cette règle évite les engagements 'par déduction' ou 'par comportement'."]
+    },
+    {
+      "question": "Quelle mention manuscrite l'article 10 impose-t-il à la caution lors de la signature de l'acte ?",
+      "choix": ["Sa profession et son adresse complète", "La somme maximale garantie, en chiffres et en toutes lettres", "La date de naissance du débiteur principal", "Le motif de son engagement"],
+      "reponse": 1,
+      "explication": "L'article 10 impose que l'acte de cautionnement comporte une mention écrite de la main de la caution indiquant la somme maximale garantie, à la fois en chiffres et en toutes lettres. En cas de différence entre les deux, c'est le montant écrit en lettres qui prévaut. Ce formalisme protège la caution contre un engagement irréfléchi.",
+      "indices": ["Deux formats sont exigés pour le même montant.", "En cas de désaccord entre les deux, l'un des deux prévaut.", "Ce formalisme est destiné à protéger la caution, pas le créancier."]
+    },
+    {
+      "question": "Si le montant en chiffres et le montant en lettres diffèrent dans l'acte de cautionnement, lequel prévaut ?",
+      "choix": ["Le montant en chiffres, car il est plus précis", "Le montant en lettres", "Le montant le plus faible des deux", "L'acte est automatiquement nul"],
+      "reponse": 1,
+      "explication": "L'article 10 précise qu'en cas de différence entre la somme exprimée en chiffres et celle exprimée en lettres, le cautionnement vaut pour la somme exprimée en lettres. Cette règle limite les risques de fraude par modification ultérieure des chiffres, plus facilement falsifiables que des lettres écrites de la main de la caution.",
+      "indices": ["Les lettres manuscrites sont plus difficiles à falsifier que des chiffres.", "Ce n'est pas une moyenne, ni le montant le plus bas.", "La règle favorise la sécurité de l'engagement écrit en toutes lettres."]
+    },
+    {
+      "question": "Que doit-on faire si la caution ne sait pas écrire ?",
+      "choix": ["Le cautionnement est automatiquement nul", "L'acte de cautionnement doit être passé sous forme authentique ou authentifiée", "Un témoin peut signer à sa place sans autre formalité", "Le créancier doit renoncer au cautionnement"],
+      "reponse": 1,
+      "explication": "L'article 10 prévoit que si la caution ne sait pas ou ne peut pas écrire, l'acte de cautionnement doit être passé sous forme authentique (devant notaire) ou authentifiée (par une autorité administrative habilitée). Cette exigence garantit que la caution comprend réellement la portée de son engagement, malgré son impossibilité d'écrire elle-même la mention manuscrite.",
+      "indices": ["L'illettrisme n'empêche pas de se porter caution.", "Une autorité officielle doit intervenir pour garantir la validité de l'acte.", "C'est une protection alternative à la mention manuscrite habituelle."]
+    },
+    {
+      "question": "À Madagascar, le cautionnement est-il présumé simple ou solidaire par défaut ?",
+      "choix": ["Simple, sauf clause contraire", "Solidaire, sauf clause contraire expresse", "Ni l'un ni l'autre, cela dépend du juge", "Solidaire uniquement en matière commerciale"],
+      "reponse": 1,
+      "explication": "L'article 17 innove par rapport au droit civil classique français : le cautionnement est réputé solidaire à Madagascar. Il n'est simple que si les parties l'ont expressément décidé ainsi dans la convention, ou si la loi ou les usages le prévoient. Cette présomption renforce la position du créancier.",
+      "indices": ["C'est une innovation propre au droit malgache.", "La solidarité est la règle, la simplicité l'exception.", "Cela simplifie considérablement les poursuites pour le créancier."]
+    },
+    {
+      "question": "Qu'est-ce que le bénéfice de discussion dont peut disposer la caution simple ?",
+      "choix": ["Le droit de discuter le montant de la dette avec le créancier", "Le droit d'exiger que le créancier poursuive d'abord les biens du débiteur principal", "Le droit de demander un délai supplémentaire de paiement", "Le droit de contester le cautionnement devant le tribunal"],
+      "reponse": 1,
+      "explication": "L'article 23 prévoit que la caution simple peut, sur les premières poursuites dirigées contre elle, exiger la discussion du débiteur principal — c'est-à-dire que le créancier poursuive d'abord les biens de ce dernier. La caution doit alors indiquer précisément les biens du débiteur et consigner les fonds nécessaires aux frais de cette procédure.",
+      "indices": ["C'est un mécanisme de protection réservé à la caution simple.", "Il consiste à reporter les poursuites sur le débiteur principal d'abord.", "La caution solidaire n'en bénéficie jamais."]
+    },
+    {
+      "question": "La caution solidaire dispose-t-elle du bénéfice de discussion ?",
+      "choix": ["Oui, dans tous les cas", "Non, l'article 22 l'exclut expressément", "Oui, mais seulement après mise en demeure", "Oui, si elle en fait la demande par écrit"],
+      "reponse": 1,
+      "explication": "L'article 22 est catégorique : la caution solidaire ne dispose pas du bénéfice de discussion. Elle peut être poursuivie immédiatement par le créancier, sans que celui-ci ait besoin de tenter d'abord de récupérer la dette auprès du débiteur principal. C'est l'effet principal et le plus contraignant de la solidarité.",
+      "indices": ["C'est précisément ce qui distingue la caution solidaire de la caution simple.", "La solidarité rend la poursuite immédiate possible.", "C'est la conséquence directe de l'article 17 qui présume la solidarité."]
+    },
+    {
+      "question": "Lorsque plusieurs personnes se portent cautions d'une même dette, sont-elles tenues chacune pour le tout ?",
+      "choix": ["Non, chacune n'est tenue que pour sa part proportionnelle automatiquement", "Oui, sauf si elles invoquent le bénéfice de division", "Non, seule la première caution désignée est tenue", "Oui, mais uniquement pour les dettes commerciales"],
+      "reponse": 1,
+      "explication": "L'article 21 dispose que lorsque plusieurs personnes se sont rendues cautions d'un même débiteur pour une même dette, elles sont obligées chacune à toute la dette. L'article 25 leur permet cependant d'invoquer le bénéfice de division pour exiger que le créancier répartisse son action entre elles, sauf stipulation de solidarité entre elles ou renonciation à ce bénéfice.",
+      "indices": ["La règle par défaut est lourde : chacune répond du tout.", "Un mécanisme correcteur existe, mais il doit être invoqué.", "Ce bénéfice peut être exclu par une clause de solidarité entre les cautions elles-mêmes."]
+    },
+    {
+      "question": "Quel recours dispose la caution qui a payé la dette du débiteur principal ?",
+      "choix": ["Aucun recours, elle a définitivement perdu la somme versée", "Un recours personnel et un recours subrogatoire contre le débiteur principal", "Uniquement un recours contre le créancier", "Un recours uniquement en cas de faute du débiteur"],
+      "reponse": 1,
+      "explication": "La caution qui a payé dispose de deux recours cumulatifs et puissants. D'abord, le recours personnel (article 29) lui permet de réclamer au débiteur le principal, les intérêts et les frais engagés. Ensuite, le recours subrogatoire (article 30) la place automatiquement dans tous les droits que le créancier avait contre le débiteur, y compris les garanties annexes.",
+      "indices": ["Deux recours distincts et cumulables existent.", "L'un est un droit propre de la caution, l'autre découle de la subrogation aux droits du créancier.", "La subrogation transmet aussi les sûretés accessoires (hypothèques, privilèges)."]
+    },
+    {
+      "question": "Qu'est-ce que le recours subrogatoire de la caution selon l'article 30 ?",
+      "choix": ["Le droit de demander au créancier le remboursement de ce qu'elle a payé", "Le fait d'être substituée dans tous les droits que le créancier avait contre le débiteur", "Le droit de réclamer des dommages-intérêts au créancier", "Le droit de revendre les biens du débiteur"],
+      "reponse": 1,
+      "explication": "L'article 30 prévoit que la caution qui a payé la dette est subrogée dans tous les droits que le créancier avait contre le débiteur. Cela signifie qu'elle hérite automatiquement de la position juridique du créancier originel, y compris ses éventuelles garanties (hypothèques, privilèges) qui accompagnaient la créance.",
+      "indices": ["La subrogation est un mécanisme de transfert automatique de droits.", "Elle place la caution exactement à la place du créancier d'origine.", "Cela inclut les garanties qui accompagnaient la dette payée."]
+    },
+    {
+      "question": "Que se passe-t-il pour le cautionnement si la dette principale est entièrement éteinte ?",
+      "choix": ["Le cautionnement subsiste indépendamment", "Le cautionnement s'éteint dans la même mesure que la dette principale", "Le cautionnement devient définitif et perpétuel", "Cela dépend uniquement de la volonté du créancier"],
+      "reponse": 1,
+      "explication": "L'article 36 pose le principe accessoire du cautionnement : l'extinction partielle ou totale de l'obligation principale entraîne, dans la même mesure, celle de l'engagement de la caution. Si la dette est éteinte à 100%, le cautionnement disparaît entièrement ; si elle est éteinte à 50%, le cautionnement ne couvre plus que les 50% restants.",
+      "indices": ["Le cautionnement est un engagement accessoire, pas autonome.", "Il suit le sort de la dette principale.", "Une extinction partielle entraîne une réduction proportionnelle du cautionnement."]
+    },
+    {
+      "question": "Si le créancier, par sa propre faute, prive la caution de la subrogation aux garanties de la dette, quelle est la conséquence ?",
+      "choix": ["Aucune conséquence, la caution reste tenue intégralement", "La caution est déchargée de son engagement", "Le créancier doit payer une amende au débiteur", "La caution doit payer le double de son engagement initial"],
+      "reponse": 1,
+      "explication": "L'article 39 protège fortement la caution : si la subrogation aux droits, hypothèques et privilèges du créancier ne peut plus s'opérer en sa faveur par le fait de ce créancier, la caution est déchargée. Si le fait reproché au créancier ne limite que partiellement cette subrogation, la caution est déchargée à proportion de l'insuffisance de la garantie ainsi perdue.",
+      "indices": ["C'est une sanction de la négligence du créancier envers la caution.", "La perte des garanties qui auraient dû profiter à la caution est sanctionnée.", "La décharge peut être totale ou seulement partielle selon l'ampleur du préjudice."]
+    },
+    {
+      "question": "Qu'est-ce que le gage selon l'article 67 ?",
+      "choix": ["Le nantissement d'un bien immobilier", "Le nantissement d'une chose mobilière", "Une promesse de paiement signée par le débiteur", "Un dépôt de garantie en espèces uniquement"],
+      "reponse": 1,
+      "explication": "L'article 67 définit le gage comme le nantissement d'une chose mobilière. Le mot 'nantissement' est le terme générique pour l'affectation d'un bien en garantie d'une dette (article 62) ; lorsqu'il porte sur un bien meuble, on utilise spécifiquement le terme 'gage'. Tout bien meuble, corporel ou incorporel, peut être donné en gage.",
+      "indices": ["Le terme générique est 'nantissement', appliqué ici aux meubles.", "Le gage peut porter sur des biens corporels (un objet) ou incorporels (une créance).", "L'équivalent pour les immeubles porte un autre nom."]
+    },
+    {
+      "question": "Le gage classique (avec dépossession) suppose-t-il que le débiteur reste en possession du bien gagé ?",
+      "choix": ["Oui, toujours", "Non, le bien doit être remis et rester en la possession du créancier ou d'un tiers convenu", "Cela dépend de la valeur du bien", "Oui, sauf accord contraire des parties"],
+      "reponse": 1,
+      "explication": "L'article 70 pose une règle essentielle du gage classique : le privilège ne subsiste sur le gage qu'autant que celui-ci a été mis et reste en la possession du créancier ou d'un tiers convenu entre les parties. C'est la dépossession qui caractérise le gage de droit commun, par opposition aux gages sans dépossession introduits plus récemment.",
+      "indices": ["La possession physique du bien est la condition de validité du privilège.", "Le créancier ou un tiers désigné par les parties peut détenir le bien.", "C'est exactement l'inverse des gages 'sans dépossession' apparus plus tard dans la loi."]
+    },
+    {
+      "question": "À défaut de paiement, le créancier gagiste peut-il s'approprier directement le bien gagé ?",
+      "choix": ["Oui, c'est le principe même du gage", "Non, toute clause en ce sens (pacte commissoire) est réputée non écrite", "Oui, après un délai de 30 jours", "Oui, si le bien a une valeur inférieure à la dette"],
+      "reponse": 1,
+      "explication": "L'article 72 interdit formellement le pacte commissoire — la clause qui autoriserait le créancier à s'approprier automatiquement le gage en cas de défaut de paiement. Toute clause de ce type est réputée non écrite. Le créancier doit obligatoirement passer par une décision de justice (attribution après expertise) ou une vente aux enchères.",
+      "indices": ["C'est une interdiction protectrice du débiteur, destinée à éviter les abus.", "Le terme technique de cette clause interdite est 'pacte commissoire'.", "Le créancier doit toujours passer par une procédure encadrée pour se faire payer."]
+    },
+    {
+      "question": "Qu'est-ce que la clause de voie parée, et est-elle valable en droit malgache ?",
+      "choix": ["C'est une clause autorisant le créancier à vendre lui-même le bien gagé sans formalité ; elle est nulle", "C'est une clause fixant un taux d'intérêt réduit ; elle est valable", "C'est une clause de remboursement anticipé ; elle est valable", "C'est une clause de renonciation au gage ; elle est nulle"],
+      "reponse": 0,
+      "explication": "L'article 72 interdit, au même titre que le pacte commissoire, la clause de voie parée : celle qui autoriserait le créancier à vendre le bien gagé lui-même, sans passer par les formalités légales (décision de justice ou vente aux enchères encadrée). Cette clause est, elle aussi, réputée non écrite si elle est insérée dans l'acte de gage.",
+      "indices": ["Elle concerne spécifiquement le pouvoir de vente du créancier, pas son pouvoir d'appropriation.", "Elle est sanctionnée de la même manière que le pacte commissoire.", "Les deux clauses visent à éviter au créancier de passer par la justice ou les enchères publiques."]
+    },
+    {
+      "question": "Comment le créancier gagiste peut-il légalement se faire payer sur le bien gagé à défaut de paiement ?",
+      "choix": ["En le revendant directement à un proche", "En le faisant ordonner en justice comme paiement après expertise, ou en le faisant vendre aux enchères", "En le détruisant et en réclamant une assurance", "En le gardant indéfiniment sans formalité"],
+      "reponse": 1,
+      "explication": "L'article 72 prévoit deux voies légales pour le créancier gagiste : soit faire ordonner en justice que le gage lui demeure en paiement, jusqu'à due concurrence, d'après une estimation faite par experts ; soit le faire vendre aux enchères publiques selon les formalités prévues. Ces deux voies garantissent un contrôle objectif de la valeur réelle du bien.",
+      "indices": ["Deux voies légales alternatives sont prévues.", "L'une implique une expertise et une décision de justice, l'autre une vente publique.", "L'objectif est d'éviter que le créancier ne s'enrichisse abusivement au détriment du débiteur."]
+    },
+    {
+      "question": "Le gage est-il divisible si la dette se divise entre plusieurs héritiers du débiteur ?",
+      "choix": ["Oui, le gage se divise automatiquement avec la dette", "Non, le gage est indivisible et subsiste totalement jusqu'au paiement complet", "Cela dépend de la nature du bien gagé", "Oui, mais seulement pour les biens immobiliers"],
+      "reponse": 1,
+      "explication": "L'article 76 affirme l'indivisibilité du gage : il subsiste totalement, nonobstant la divisibilité de la dette entre les héritiers ou légataires du débiteur ou du créancier. Un héritier qui a payé sa part de la dette ne peut pas réclamer la restitution de sa part dans le gage tant que la dette entière n'est pas réglée.",
+      "indices": ["L'indivisibilité est une caractéristique fondamentale du gage.", "Elle ne suit pas le sort de la division éventuelle de la créance.", "Un paiement partiel par un héritier ne donne pas droit à restitution partielle du bien gagé."]
+    },
+    {
+      "question": "Qu'est-ce qui distingue principalement le gage sans dépossession du gage classique ?",
+      "choix": ["Le gage sans dépossession ne nécessite aucun acte écrit", "Le débiteur garde la possession et l'usage du bien tout en l'affectant en garantie", "Le gage sans dépossession ne porte que sur des immeubles", "Le gage sans dépossession n'a aucune valeur juridique"],
+      "reponse": 1,
+      "explication": "L'innovation majeure de la loi de 2003 est de permettre des gages sans dépossession (article 115), où le débiteur conserve la possession et l'usage du bien affecté en garantie. Cela est essentiel pour les biens professionnels nécessaires à l'activité du débiteur (matériel, véhicules, stocks), qui ne pourraient pas être remis au créancier sans paralyser l'entreprise.",
+      "indices": ["Le bien reste utilisable par le débiteur, contrairement au gage classique.", "Cette innovation répond à un besoin pratique pour les biens professionnels.", "Elle nécessite en contrepartie des formalités d'écrit et de publicité renforcées."]
+    },
+    {
+      "question": "Quelles catégories de biens peuvent faire l'objet d'un gage sans dépossession selon l'article 115 ?",
+      "choix": ["Uniquement les véhicules automobiles", "Le matériel professionnel, les véhicules, les stocks, le fonds de commerce, les parts sociales et les droits de propriété industrielle", "Uniquement les biens immobiliers", "Tous les biens meubles sans exception"],
+      "reponse": 1,
+      "explication": "L'article 115 énumère limitativement cinq catégories de biens nantissables sans dépossession : le matériel professionnel et les véhicules automobiles, les stocks de matières premières et marchandises, le fonds de commerce, les parts sociales, et les droits de propriété industrielle (brevets, marques, etc.).",
+      "indices": ["Cinq catégories précises sont listées par la loi.", "Elles concernent toutes des biens utiles à l'activité professionnelle du débiteur.", "Le fonds de commerce et les parts sociales en font partie."]
+    },
+    {
+      "question": "Pour qu'un gage sans dépossession soit opposable aux tiers, quelle formalité est indispensable ?",
+      "choix": ["Aucune, l'acte écrit suffit", "L'inscription au registre du commerce et des sociétés", "Une publication au Journal officiel", "Le paiement d'une taxe au fisc"],
+      "reponse": 1,
+      "explication": "Les articles 121, 129 et 138 imposent que les nantissements sans dépossession (matériel, stocks, parts sociales) ne produisent effet — c'est-à-dire ne soient opposables aux tiers — que s'ils sont inscrits au registre du commerce et des sociétés. Un acte écrit parfaitement valide entre les parties reste inefficace face aux tiers sans cette inscription.",
+      "indices": ["L'écrit seul ne suffit pas à protéger le créancier face aux autres créanciers.", "C'est l'inscription qui rend la sûreté visible et opposable au monde extérieur.", "Cette formalité est commune à plusieurs types de nantissement sans dépossession."]
+    },
+    {
+      "question": "Pendant combien de temps l'inscription du nantissement de matériel professionnel et de véhicules conserve-t-elle les droits du créancier ?",
+      "choix": ["1 an", "3 ans", "5 ans", "10 ans"],
+      "reponse": 2,
+      "explication": "L'article 121 fixe la durée de l'inscription du nantissement de matériel professionnel et de véhicules automobiles à 5 ans à compter de sa date. Passé ce délai, son effet cesse si elle n'a pas été renouvelée. C'est une durée plus longue que celle du nantissement des stocks, en raison de la nature plus durable de ce type de bien.",
+      "indices": ["La durée est plus longue que pour le nantissement des stocks.", "C'est la même durée que pour le nantissement des parts sociales et des droits de propriété industrielle.", "Sans renouvellement avant l'échéance, l'inscription perd son effet."]
+    },
+    {
+      "question": "Pourquoi le nantissement des stocks a-t-il une durée d'inscription plus courte (1 an) que celui du matériel ?",
+      "choix": ["Pour des raisons purement administratives sans lien avec la nature du bien", "Parce que les stocks sont des biens plus volatils dont la valeur et la composition changent rapidement", "Parce que la loi l'impose sans justification", "Parce que les stocks ont une valeur toujours plus faible que le matériel"],
+      "reponse": 1,
+      "explication": "Bien que la loi ne le précise pas explicitement, la durée plus courte (1 an, article 129) reflète la nature économique des stocks : contrairement au matériel professionnel qui reste relativement stable, les stocks de marchandises sont par nature destinés à être vendus, renouvelés et transformés en permanence. Une inscription de longue durée perdrait rapidement sa pertinence face à un bien en constante évolution.",
+      "indices": ["Pensez à la différence physique entre un stock de marchandises et une machine.", "Les stocks sont destinés à circuler, contrairement au matériel fixe.", "La durée d'inscription est généralement corrélée à la stabilité du bien gagé."]
+    },
+    {
+      "question": "Un débiteur qui a nanti ses stocks sans dépossession peut-il les vendre librement ?",
+      "choix": ["Non, il lui est interdit de vendre les stocks nantis", "Oui, mais il doit consigner le prix de vente chez le banquier domiciliataire désigné dans l'acte", "Oui, sans aucune restriction", "Oui, à condition d'en informer le créancier après la vente"],
+      "reponse": 1,
+      "explication": "L'article 132 autorise le débiteur à vendre les stocks nantis, conformément à leur destination commerciale naturelle, mais il ne peut livrer les biens vendus qu'après avoir consigné le prix chez le banquier domiciliataire mentionné dans l'acte de nantissement. À défaut de consignation, l'article 133 s'applique et le débiteur s'expose même à des poursuites pénales pour détournement de bien nanti.",
+      "indices": ["La vente est autorisée, mais encadrée par une obligation précise.", "Le prix de vente doit transiter par un tiers de confiance désigné dans l'acte.", "Le non-respect de cette règle peut avoir des conséquences pénales."]
+    },
+    {
+      "question": "Qu'est-ce que l'hypothèque selon l'article 182 ?",
+      "choix": ["Une sûreté mobilière conférant un droit de gage", "Une sûreté réelle immobilière, conventionnelle ou forcée, conférant droit de suite et droit de préférence", "Un contrat de vente avec faculté de rachat", "Une simple promesse écrite de remboursement"],
+      "reponse": 1,
+      "explication": "L'article 182 définit l'hypothèque comme une sûreté réelle immobilière, conventionnelle ou forcée. Elle confère à son titulaire deux droits puissants : le droit de suite (poursuivre le bien même s'il change de propriétaire) et le droit de préférence (être payé prioritairement sur le prix de réalisation de l'immeuble).",
+      "indices": ["C'est l'équivalent immobilier du gage pour les meubles.", "Elle confère deux droits distincts et cumulatifs.", "Elle peut résulter d'un accord (conventionnelle) ou être imposée par la loi/justice (forcée)."]
+    },
+    {
+      "question": "Qu'est-ce que le droit de suite conféré par l'hypothèque ?",
+      "choix": ["Le droit de suivre l'évolution du marché immobilier", "Le droit de poursuivre l'immeuble même s'il a changé de propriétaire", "Le droit d'être informé de toute modification du bien", "Le droit de suivre le débiteur en cas de déménagement"],
+      "reponse": 1,
+      "explication": "Le droit de suite, mentionné à l'article 182 et précisé à l'article 205, permet au créancier hypothécaire de poursuivre le paiement de sa créance sur l'immeuble, même si celui-ci a été vendu à un tiers après la constitution de l'hypothèque. Le droit de suite s'exerce alors contre le débiteur originel ET contre le nouveau propriétaire (tiers détenteur), dont le titre a été publié postérieurement à l'hypothèque.",
+      "indices": ["L'hypothèque 'suit' le bien, pas seulement la personne du débiteur.", "Cela protège le créancier contre les ventes destinées à échapper à la garantie.", "Le nouveau propriétaire peut désintéresser le créancier pour conserver le bien."]
+    },
+    {
+      "question": "Quels immeubles peuvent faire l'objet d'une hypothèque à Madagascar selon l'article 184 ?",
+      "choix": ["Tous les immeubles, titrés ou non", "Uniquement les immeubles immatriculés", "Uniquement les immeubles situés en zone urbaine", "Uniquement les immeubles appartenant à l'État"],
+      "reponse": 1,
+      "explication": "L'article 184 est sans ambiguïté : seuls les immeubles immatriculés peuvent faire l'objet d'une hypothèque. Cette exigence a un impact pratique considérable à Madagascar, où une grande partie des terres ne sont pas immatriculées, ce qui limite l'accès au crédit hypothécaire pour de nombreux propriétaires de terrains non titrés.",
+      "indices": ["L'immatriculation foncière est une condition préalable indispensable.", "Cette règle a un effet pratique important compte tenu de la situation foncière malgache.", "Les terres coutumières non titrées sont exclues de ce mécanisme."]
+    },
+    {
+      "question": "Sous quelle forme l'hypothèque conventionnelle doit-elle obligatoirement être consentie ?",
+      "choix": ["Par simple accord verbal entre les parties", "Par acte authentique notarié ou acte authentifié par l'autorité administrative habilitée", "Par échange de courriers électroniques", "Par acte sous seing privé simple, sans enregistrement"],
+      "reponse": 1,
+      "explication": "L'article 195 impose que l'hypothèque conventionnelle soit consentie soit par acte authentique établi par le notaire, soit par acte authentifié établi par l'autorité administrative habilitée à faire de tels actes. Contrairement au gage qui peut résulter d'un simple acte sous seing privé enregistré, l'hypothèque exige systématiquement l'intervention d'une autorité qualifiée.",
+      "indices": ["Le formalisme est plus strict que pour le gage mobilier.", "Deux voies alternatives existent : notaire ou autorité administrative habilitée.", "Un simple acte privé, même enregistré, ne suffit jamais."]
+    },
+    {
+      "question": "Quand l'hypothèque devient-elle opposable aux tiers ?",
+      "choix": ["Dès la signature de l'acte authentique", "Après son inscription au livre foncier", "Après paiement d'une taxe au fisc", "Dès que le débiteur en informe ses autres créanciers"],
+      "reponse": 1,
+      "explication": "L'article 188 précise que l'acte constitutif d'hypothèque doit être inscrit au livre foncier conformément aux règles de la publicité foncière. L'article 197 ajoute que tant que l'inscription n'est pas faite, l'acte d'hypothèque est inopposable aux tiers, même s'il est parfaitement valide entre les parties signataires.",
+      "indices": ["Il existe un décalage possible entre validité entre les parties et opposabilité aux tiers.", "C'est la publicité foncière qui rend l'hypothèque visible et opposable.", "Sans cette inscription, un tiers acquéreur de bonne foi pourrait ignorer légitimement l'hypothèque."]
+    },
+    {
+      "question": "L'hypothèque est-elle divisible si la dette se répartit entre plusieurs héritiers ?",
+      "choix": ["Oui, elle se divise automatiquement par parts égales", "Non, elle est indivisible et subsiste totalement jusqu'au complet paiement", "Cela dépend de la valeur de l'immeuble", "Oui, mais uniquement pour les hypothèques forcées"],
+      "reponse": 1,
+      "explication": "L'article 186 affirme que l'hypothèque est indivisible par nature et subsiste totalement sur les immeubles affectés jusqu'au complet paiement de la dette, et ce malgré la survenance d'une succession. Ce principe est identique à celui qui régit le gage mobilier (article 76).",
+      "indices": ["C'est le même principe d'indivisibilité que pour le gage mobilier.", "La survenance d'une succession ne change rien à ce principe.", "L'immeuble entier reste affecté tant que la dette n'est pas intégralement payée."]
+    },
+    {
+      "question": "Quelle est la différence entre une hypothèque conventionnelle et une hypothèque forcée ?",
+      "choix": ["L'hypothèque conventionnelle résulte d'un accord entre les parties, la forcée est imposée par la loi ou la justice sans le consentement du débiteur", "L'hypothèque conventionnelle concerne les immeubles ruraux, la forcée les immeubles urbains", "Il n'existe aucune différence pratique entre les deux", "L'hypothèque forcée n'existe pas en droit malgache"],
+      "reponse": 0,
+      "explication": "L'article 199 définit l'hypothèque forcée comme celle qui est conférée sans le consentement du débiteur, soit par la loi (hypothèque légale), soit par une décision de justice (hypothèque judiciaire). L'hypothèque conventionnelle, à l'inverse, résulte d'un accord libre entre le créancier et le propriétaire de l'immeuble, formalisé par acte authentique ou authentifié.",
+      "indices": ["La distinction repose sur l'origine du consentement.", "L'une nécessite un accord, l'autre s'impose au débiteur.", "La loi prévoit deux sous-catégories d'hypothèques forcées : légale et judiciaire."]
+    },
+    {
+      "question": "Qu'est-ce que le Fehivava, sûreté immobilière propre au droit malgache ?",
+      "choix": ["Une variante moderne de l'hypothèque bancaire", "Un contrat de prêt d'argent garanti par la remise de l'immeuble au créancier, qui en jouit jusqu'au remboursement", "Une assurance obligatoire sur les biens immobiliers", "Un impôt foncier traditionnel"],
+      "reponse": 1,
+      "explication": "L'article 206 définit le Fehivava comme un contrat de prêt d'argent garanti par la remise de l'immeuble engagé au créancier 'fehivaviste', qui en jouit jusqu'à l'époque du remboursement. C'est une institution de droit traditionnel malgache, toujours vivace en milieu rural, que la loi de 2003 a pour la première fois réglementée par voie législative.",
+      "indices": ["C'est une institution issue de la coutume malgache, pas du droit civil français.", "Le créancier entre en possession et jouissance de l'immeuble pendant la durée du contrat.", "Elle est particulièrement répandue dans les zones rurales."]
+    },
+    {
+      "question": "Dans le contrat de Fehivava, qui jouit de l'immeuble pendant la durée du prêt ?",
+      "choix": ["Le débiteur emprunteur, comme dans une hypothèque classique", "Le créancier fehivaviste, qui en perçoit les fruits", "L'État, à titre de garantie publique", "Un tiers séquestre désigné par le tribunal"],
+      "reponse": 1,
+      "explication": "L'article 208 dispose que le créancier a la jouissance pleine et entière de l'immeuble au même titre qu'un usufruitier, et en perçoit les fruits pour son compte. C'est la caractéristique principale qui distingue le Fehivava de l'hypothèque classique, où le débiteur conserve toujours la possession du bien hypothéqué.",
+      "indices": ["C'est précisément ce qui distingue le Fehivava de l'hypothèque ordinaire.", "Le créancier occupe et utilise réellement le bien, comme un usufruitier.", "En contrepartie, il doit en assurer l'entretien et payer les impôts y afférents."]
+    },
+    {
+      "question": "Qu'est-ce que la clause 'tsatoka', et est-elle valable dans un contrat de Fehivava ?",
+      "choix": ["C'est une clause d'intérêt légale ; elle est valable", "C'est la clause par laquelle le créancier s'approprierait d'autorité le bien en cas de non-remboursement ; elle est prohibée", "C'est une clause de prorogation du délai ; elle est valable", "C'est une clause de cession du contrat ; elle est valable"],
+      "reponse": 1,
+      "explication": "L'article 207 prohibe formellement la clause 'tsatoka', par laquelle le créancier s'approprierait d'autorité le bien (ou un bien équivalent) du débiteur si celui-ci ne paie pas à l'échéance. Toute clause de ce type, ainsi que toute stipulation d'intérêt et toute indexation du capital dans un contrat de Fehivava, sont réputées non écrites.",
+      "indices": ["C'est l'équivalent du pacte commissoire interdit pour le gage, mais appliqué au Fehivava.", "Elle est nommée en malgache car le Fehivava est une institution traditionnelle.", "La loi interdit aussi les intérêts et l'indexation dans ce type de contrat."]
+    },
+    {
+      "question": "Le contrat de Fehivava peut-il prévoir le paiement d'intérêts par le débiteur ?",
+      "choix": ["Oui, dans la limite du taux légal", "Non, toute stipulation d'intérêt dans un contrat de Fehivava est réputée non écrite", "Oui, mais uniquement pour les contrats commerciaux", "Oui, si les deux parties l'acceptent expressément"],
+      "reponse": 1,
+      "explication": "L'article 207 prévoit explicitement que toute stipulation d'intérêt pour la somme prêtée, ainsi que toute indexation de capital, sont réputées non écrites dans un contrat de Fehivava. La contrepartie du prêt sans intérêt réside dans le fait que le créancier jouit de l'immeuble et en perçoit les fruits pendant toute la durée du contrat.",
+      "indices": ["La rémunération du créancier ne passe pas par des intérêts mais par la jouissance du bien.", "C'est l'une des trois interdictions posées par le même article que la clause tsatoka.", "Cette règle distingue fondamentalement le Fehivava d'un prêt bancaire classique."]
+    },
+    {
+      "question": "À l'issue du remboursement complet de la dette dans un contrat de Fehivava, dans quel délai le créancier doit-il restituer l'immeuble ?",
+      "choix": ["Dans le mois suivant le paiement", "Au plus tard dans les 24 heures suivant la date d'acquittement de la dette", "Dans un délai raisonnable laissé à son appréciation", "Aucun délai n'est imposé par la loi"],
+      "reponse": 1,
+      "explication": "L'article 212 impose un délai très strict : en fin de contrat, si le débiteur a acquitté sa dette, le créancier fehivaviste doit restituer l'immeuble au plus tard dans les 24 heures de la date d'acquittement de la dette. Ce délai bref vise à éviter que le créancier ne retarde indûment la restitution du bien.",
+      "indices": ["Le délai est exceptionnellement court, en heures et non en jours ou semaines.", "Cette rapidité protège le débiteur qui a rempli ses obligations.", "Un retard expose le créancier à une astreinte journalière prévue par la loi."]
+    },
+    {
+      "question": "Que se passe-t-il si le créancier fehivaviste retarde la restitution de l'immeuble après remboursement, selon l'article 216 ?",
+      "choix": ["Aucune sanction n'est prévue", "Il doit payer une astreinte de 15% du montant emprunté par jour de retard", "Le contrat est automatiquement reconduit", "Le débiteur perd définitivement son droit de réclamer l'immeuble"],
+      "reponse": 1,
+      "explication": "L'article 216 prévoit une sanction sévère : à défaut de restitution dans les 24 heures suivant le remboursement, le créancier est tenu au paiement d'astreintes de 15% du montant de la somme empruntée par jour de retard jusqu'à son départ. Le débiteur peut même requérir l'aide de la force publique pour expulser un créancier récalcitrant.",
+      "indices": ["Le taux est très élevé pour dissuader fermement tout retard.", "Il se calcule sur le montant total emprunté, par jour.", "Le débiteur dispose même d'un droit de recourir à la force publique."]
+    },
+    {
+      "question": "Si la valeur de l'immeuble est inférieure au montant du prêt en cas de non-remboursement dans un Fehivava, le débiteur doit-il combler la différence ?",
+      "choix": ["Oui, il reste redevable de la différence", "Non, si la valeur est inférieure au montant du prêt, il ne doit plus rien", "Oui, mais seulement à hauteur de 50% de la différence", "Cela dépend de la décision du tribunal"],
+      "reponse": 1,
+      "explication": "L'article 213 prévoit que si l'évaluation du bien (faite par dire d'experts ou suite à une vente judiciaire) s'avère inférieure au montant du prêt, le débiteur ne devra plus rien au créancier. C'est une protection forte du débiteur : le risque de dévaluation du bien est supporté par le créancier, pas par l'emprunteur.",
+      "indices": ["La règle protège fortement le débiteur en cas de dévaluation du bien.", "Le créancier ne peut pas réclamer de complément si le bien vaut moins que prévu.", "Le mécanisme est symétrique : si la valeur est supérieure, le débiteur reçoit le surplus."]
+    },
+    {
+      "question": "Lors de la vente ou de la réalisation d'un immeuble hypothéqué, dans quel ordre les créanciers sont-ils payés selon l'article 218 ?",
+      "choix": ["Tous les créanciers sont payés simultanément et proportionnellement", "D'abord les frais de justice, puis les salaires privilégiés, puis les créanciers hypothécaires inscrits selon leur rang", "Le premier créancier qui se présente est payé en premier", "Seul l'État est payé en priorité, le reste suit l'ordre chronologique des dettes"],
+      "reponse": 1,
+      "explication": "L'article 218 établit un ordre précis de distribution des deniers issus de la réalisation d'un immeuble : d'abord les frais de justice engagés pour la réalisation et la distribution, ensuite les créanciers de salaires privilégiés, puis les créanciers titulaires d'une hypothèque selon le rang de leur inscription au livre foncier, et enfin les autres catégories de créanciers selon un ordre décroissant de priorité.",
+      "indices": ["Six catégories de créanciers sont classées par ordre de priorité.", "Les frais nécessaires à la réalisation elle-même passent toujours en premier.", "Le rang d'inscription au livre foncier détermine l'ordre entre créanciers hypothécaires."]
+    },
+    {
+      "question": "Entre plusieurs créanciers gagistes sur le même bien, comment se règle le conflit selon l'article 91 ?",
+      "choix": ["Selon le montant de chaque créance, du plus élevé au plus faible", "Dans l'ordre de l'enregistrement des gages successifs, ou à défaut d'enregistrement, dans l'ordre de constitution", "Au prorata des créances de chacun, sans distinction d'ordre", "Selon la décision discrétionnaire du tribunal"],
+      "reponse": 1,
+      "explication": "L'article 91 prévoit que s'il y a plusieurs créanciers gagistes sur un même bien, ils sont colloqués (classés) dans l'ordre de l'enregistrement des gages successifs ou, à défaut d'enregistrement, dans l'ordre de leur constitution. C'est donc une règle de priorité chronologique, comparable à celle qui s'applique pour les hypothèques selon leur rang d'inscription.",
+      "indices": ["C'est une logique de priorité temporelle, comme pour les hypothèques.", "L'enregistrement, quand il existe, sert de référence pour établir cet ordre.", "À défaut d'enregistrement, c'est la date de constitution du gage qui prévaut."]
+    },
+    {
+      "question": "Le créancier gagiste peut-il, sauf stipulation contraire, utiliser le bien gagé ou en percevoir les fruits ?",
+      "choix": ["Oui, sans restriction", "Non, sauf stipulation contraire expresse dans le contrat", "Oui, mais uniquement après 6 mois de détention", "Oui, à condition d'en reverser la moitié au débiteur"],
+      "reponse": 1,
+      "explication": "L'article 92 précise que, sauf stipulation contraire, le créancier gagiste ne peut user de la chose engagée ni en percevoir les fruits. Cette règle protège le débiteur contre un enrichissement injustifié du créancier au-delà de sa simple garantie de paiement. S'il est exceptionnellement autorisé à percevoir les fruits, il doit les imputer sur ce qui lui est dû.",
+      "indices": ["C'est la règle par défaut, modifiable seulement par accord exprès.", "L'objectif est d'éviter que le créancier ne tire un profit indu du bien gagé.", "Si une exception est prévue, les fruits perçus s'imputent sur la dette."]
+    },
+    {
+      "question": "Que doit faire le créancier ou le tiers détenteur d'un gage en cas de menace de destruction du bien gagé ?",
+      "choix": ["Le restituer immédiatement au débiteur", "Sur autorisation du juge des référés, le vendre et reporter les effets du gage sur le prix obtenu", "Détruire volontairement le bien pour toucher une assurance", "Ne rien faire, le risque est à la charge du débiteur"],
+      "reponse": 1,
+      "explication": "L'article 93 prévoit que si la chose engagée menace de périr, le créancier ou le tiers convenu peut, sur autorisation du juge des référés, la vendre. Les effets du gage sont alors reportés sur le prix obtenu de cette vente, préservant ainsi la garantie du créancier tout en évitant la perte totale de valeur que représenterait la destruction du bien.",
+      "indices": ["Une procédure judiciaire d'urgence (référé) est nécessaire.", "La vente préventive préserve la valeur économique du bien menacé.", "La garantie 'se reporte' alors sur le prix de vente, comme une subrogation réelle."]
+    },
+    {
+      "question": "Une clause de réserve de propriété dans un contrat de vente, qu'est-ce que cela signifie ?",
+      "choix": ["Le vendeur conserve un droit de préemption sur le bien vendu", "Le vendeur conserve la propriété du bien jusqu'au complet paiement du prix par l'acheteur", "L'acheteur peut revendre le bien sans en payer le prix", "Le bien reste la copropriété du vendeur et de l'acheteur définitivement"],
+      "reponse": 1,
+      "explication": "L'article 154 définit la clause de réserve de propriété comme la clause d'un contrat de vente par laquelle le vendeur se réserve de conserver la propriété des biens livrés à l'acheteur jusqu'à leur complet paiement. En cas de défaillance de l'acheteur, le vendeur peut revendiquer le bien, ce qui est particulièrement utile en cas de procédure collective (faillite) de l'acheteur.",
+      "indices": ["C'est un mécanisme particulier où la propriété ne se transfère pas immédiatement avec la livraison.", "Le vendeur garde un pouvoir fort tant que le prix n'est pas intégralement réglé.", "Cette clause est très utile pour protéger le vendeur en cas de faillite de l'acheteur."]
+    },
+    {
+      "question": "Pour être opposable à l'acheteur et aux autres créanciers, quand la clause de réserve de propriété doit-elle être stipulée par écrit ?",
+      "choix": ["Au plus tard au moment de la livraison du bien", "Dans les 30 jours suivant la livraison", "Elle n'a pas besoin d'être écrite", "Uniquement au moment du paiement complet"],
+      "reponse": 0,
+      "explication": "L'article 155 précise que pour être opposable à l'acheteur et aux autres créanciers, la clause de réserve de propriété doit avoir été stipulée dans un écrit au plus tard au moment de la livraison du bien ou de la marchandise. Une clause ajoutée après la livraison ne produirait pas cet effet d'opposabilité.",
+      "indices": ["Le moment-clé est la livraison, pas la signature du contrat ni le paiement.", "Un écrit tardif, après livraison, ne suffirait pas à protéger le vendeur.", "Cette clause se révèle particulièrement utile lors de procédures collectives."]
+    },
+    {
+      "question": "Le droit de rétention selon l'article 64 permet-il à un créancier de retenir un bien même sans autre sûreté ?",
+      "choix": ["Non, il faut nécessairement un gage en plus du droit de rétention", "Oui, le créancier qui détient légitimement un bien peut le retenir jusqu'à parfait paiement, indépendamment de toute autre sûreté", "Non, le droit de rétention n'existe pas en droit malgache", "Oui, mais uniquement pour les commerçants"],
+      "reponse": 1,
+      "explication": "L'article 64 dispose que le créancier qui détient légitimement un bien peut le retenir jusqu'à parfait paiement de ce qui lui est dû, indépendamment de l'existence de toute autre sûreté sur ce bien. C'est un mécanisme de pression autonome : il suffit que le créancier détienne légitimement le bien et qu'existe un lien de connexité entre sa créance et ce bien.",
+      "indices": ["C'est une sûreté de fait, fondée sur la détention légitime, pas un accord formel comme le gage.", "Elle est autonome : elle peut exister sans aucune autre garantie conventionnelle.", "La connexité entre la créance et la chose retenue est une condition essentielle."]
+    },
+    {
+      "question": "Selon l'article 65, à quelles conditions le droit de rétention peut-il s'exercer ?",
+      "choix": ["Sans aucune condition particulière", "Avant toute saisie, si la créance est certaine, liquide et exigible, et s'il existe un lien de connexité avec la chose retenue", "Uniquement après une décision de justice préalable", "Uniquement pour des dettes supérieures à un certain montant"],
+      "reponse": 1,
+      "explication": "L'article 65 pose trois conditions cumulatives pour l'exercice du droit de rétention : il doit s'exercer avant toute saisie, la créance doit être certaine, liquide et exigible, et il doit exister un lien de connexité entre la naissance de la créance et la chose retenue. Ces trois conditions garantissent que le droit de rétention n'est pas un outil de pression arbitraire.",
+      "indices": ["Trois conditions cumulatives encadrent ce droit.", "La créance doit avoir des caractéristiques précises : certaine, liquide, exigible.", "Le lien entre la dette et le bien retenu est essentiel — c'est la 'connexité'."]
+    },
+    {
+      "question": "Qu'est-ce qui distingue un privilège général d'un privilège spécial selon l'article 158 ?",
+      "choix": ["Le privilège général porte sur l'ensemble des biens du débiteur, le privilège spécial sur des biens déterminés", "Le privilège général ne concerne que l'État, le spécial les particuliers", "Le privilège général est temporaire, le spécial est permanent", "Il n'existe aucune différence pratique"],
+      "reponse": 0,
+      "explication": "L'article 158 distingue clairement les deux : le privilège général porte sur l'ensemble des biens du débiteur, tandis que le privilège spécial ne porte que sur des biens déterminés. Par exemple, les frais de la dernière maladie du débiteur constituent un privilège général (sur tout son patrimoine), tandis que le privilège du vendeur de meuble ne porte que sur ce meuble précis.",
+      "indices": ["L'étendue de l'assiette de la garantie est le critère de distinction.", "L'un couvre tout le patrimoine, l'autre se limite à un bien précis.", "Les frais de dernière maladie sont un exemple de privilège général ; le privilège du vendeur de meuble, un exemple de privilège spécial."]
+    },
+    {
+      "question": "Les privilèges peuvent-ils être créés par simple accord entre un créancier et son débiteur ?",
+      "choix": ["Oui, librement par contrat", "Non, les privilèges ne s'établissent que par la loi", "Oui, mais uniquement devant notaire", "Oui, à condition d'être inscrits au registre du commerce"],
+      "reponse": 1,
+      "explication": "L'article 160 est catégorique : les privilèges ne s'établissent que par la loi. Contrairement au gage ou à l'hypothèque, qui peuvent résulter d'un accord conventionnel entre les parties, le privilège est toujours d'origine légale : c'est la loi elle-même qui accorde une préférence à certaines catégories de créances en raison de leur nature particulière (salaires, frais de justice, etc.).",
+      "indices": ["C'est une différence fondamentale avec le gage et l'hypothèque conventionnels.", "Aucun accord entre particuliers ne peut créer un privilège.", "La loi désigne elle-même les créances qui en bénéficient, en raison de leur nature (salaires, frais funéraires, etc.)."]
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE N°1 — Le cautionnement contesté\n\nM. Randria, gérant d'une quincaillerie à Antsirabe, sollicite un prêt de 30 millions d'ariary auprès d'une banque pour agrandir son local. La banque exige une caution. Sa belle-sœur, Mme Voahangy, accepte de se porter caution. Le jour de la signature, pressée par le temps, elle signe l'acte préparé par la banque, qui contient la mention dactylographiée suivante : 'La caution garantit la somme de trente millions d'ariary (30 000 000 Ar)', mais Mme Voahangy n'écrit elle-même aucune mention manuscrite sur l'acte. Six mois plus tard, M. Randria cesse de rembourser. La banque poursuit immédiatement Mme Voahangy, sans avoir d'abord tenté de saisir les biens de M. Randria. Mme Voahangy conteste : elle affirme n'avoir jamais voulu cautionner une telle somme et qu'on ne peut pas la poursuivre avant d'avoir épuisé les recours contre M. Randria.\n\nQUESTIONS :\n1. L'acte de cautionnement signé par Mme Voahangy est-il valable en la forme ?\n2. La banque peut-elle légalement poursuivre directement Mme Voahangy sans discussion préalable du débiteur principal ?\n3. Quels arguments juridiques Mme Voahangy peut-elle faire valoir ?",
+      "choix": [
+        "1. Non, l'acte est probablement nul en la forme : l'article 10 exige une mention manuscrite de la main de la caution, en chiffres ET en lettres, indiquant la somme garantie. Une mention dactylographiée par la banque ne remplit pas cette exigence légale. 2. Oui, en principe la banque peut poursuivre directement Mme Voahangy : l'article 17 présume le cautionnement solidaire à Madagascar, sauf clause contraire expresse, ce qui exclut le bénéfice de discussion. 3. Mme Voahangy peut invoquer la nullité du cautionnement pour vice de forme (absence de mention manuscrite réglementaire), ce qui pourrait faire échouer entièrement la demande de la banque, indépendamment de la question de la solidarité.",
+        "1. Oui, l'acte est parfaitement valable car il mentionne la somme garantie. 2. Non, la banque doit obligatoirement poursuivre M. Randria en premier. 3. Mme Voahangy ne peut rien faire valoir car elle a signé l'acte.",
+        "1. Non, mais cela n'a aucune conséquence juridique. 2. Oui, sans aucune justification légale particulière. 3. Mme Voahangy doit payer intégralement sans recours possible.",
+        "1. Oui, l'acte est valable si la somme est indiquée, peu importe qui l'a écrite. 2. Non, le cautionnement est toujours simple par défaut à Madagascar. 3. Aucun argument valable n'existe."
+      ],
+      "reponse": 0,
+      "explication": "ANALYSE DÉTAILLÉE :\n\n1. VALIDITÉ FORMELLE — L'article 10 du Code des sûretés impose une exigence très précise et protectrice : l'acte doit comporter 'la mention écrite de la main de la caution' indiquant la somme maximale garantie, en chiffres ET en toutes lettres. Une mention dactylographiée préparée à l'avance par la banque, même si Mme Voahangy l'a signée, ne satisfait probablement pas à cette exigence stricte. Le formalisme de l'article 10 vise précisément à protéger la caution contre un engagement irréfléchi en la forçant à écrire elle-même, de sa propre main, le montant exact de son engagement — ce qui crée une prise de conscience réelle du risque encouru. L'absence de cette mention manuscrite expose l'acte à la nullité.\n\n2. SOLIDARITÉ PRÉSUMÉE — Sur ce point précis, la position de la banque est juridiquement fondée : l'article 17 pose que le cautionnement est réputé solidaire à Madagascar, sauf si les parties ont expressément stipulé un cautionnement simple. Rien dans l'énoncé n'indique une telle clause contraire. Si le cautionnement était par ailleurs valable en la forme, la banque aurait effectivement le droit de poursuivre directement Mme Voahangy sans discussion préalable du débiteur principal — c'est l'effet automatique de la solidarité présumée.\n\n3. STRATÉGIE DE DÉFENSE — L'argument le plus solide pour Mme Voahangy n'est donc pas la solidarité (qui est conforme à la loi), mais bien le vice de forme : l'absence de mention manuscrite réglementaire selon l'article 10. Si elle parvient à démontrer que la mention de la somme garantie n'a pas été écrite de sa propre main, le cautionnement pourrait être déclaré nul dans son ensemble, ce qui ferait échouer entièrement les poursuites de la banque contre elle — indépendamment de toute question de solidarité ou de discussion."
+    },
+    {
+      "question": "CAS PRATIQUE N°2 — Le conflit entre garanties sur un même immeuble\n\nM. Rakotoarisoa possède un terrain immatriculé à Antananarivo, sur lequel il fait construire une maison. Pour financer la construction, il emprunte 80 millions d'ariary à une banque (Banque A), qui inscrit une hypothèque sur le terrain le 15 janvier 2023. Six mois plus tard, en pleine difficulté financière, il emprunte encore 20 millions d'ariary à un particulier (M. Rabe), qui exige et obtient également une hypothèque sur le même terrain, inscrite le 10 juillet 2023. En parallèle, l'entrepreneur en bâtiment qui a réalisé les travaux de construction, n'ayant pas été intégralement payé pour un montant de 15 millions d'ariary, fait inscrire une hypothèque forcée légale sur l'immeuble avant le commencement des travaux, conformément à l'article 202, pour garantir sa créance. En 2024, M. Rakotoarisoa devient totalement insolvable et l'immeuble est vendu en justice pour 90 millions d'ariary, somme insuffisante pour payer l'intégralité des trois créanciers (80 + 20 + 15 = 115 millions d'ariary de créances totales).\n\nQUESTIONS :\n1. Dans quel ordre les trois créanciers doivent-ils être payés sur les 90 millions d'ariary obtenus ?\n2. Quel est le fondement juridique de cet ordre de paiement ?\n3. Combien chaque créancier recevra-t-il approximativement si l'on applique strictement les règles de rang ?",
+      "choix": [
+        "1. L'entrepreneur en bâtiment (hypothèque inscrite avant travaux, à condition d'avoir été régularisée dans le mois suivant l'achèvement) est payé en priorité car son hypothèque est antérieure ou prend rang à une date antérieure aux deux autres ; ensuite la Banque A (hypothèque du 15 janvier 2023) ; enfin M. Rabe (hypothèque du 10 juillet 2023). 2. Le fondement est l'article 218 : entre créanciers hypothécaires, le classement se fait selon le rang d'inscription au livre foncier ; et l'article 202 sur l'hypothèque de l'entrepreneur qui prend rang dès avant le commencement des travaux si régularisée à temps. 3. L'entrepreneur reçoit l'intégralité de ses 15M Ar, la Banque A reçoit l'intégralité de ses 80M Ar restants... mais il ne reste que 90 - 15 - 80 = -5M Ar : en réalité, il reste 90M, donc l'entrepreneur (15M) et la Banque A (80M) absorbent déjà 95M sur 90M disponibles : la Banque A ne recevra donc que 75M Ar (90 - 15), et M. Rabe ne recevra rien du tout, sa créance de 20M Ar restant impayée.",
+        "1. Tous les créanciers sont payés à parts égales proportionnellement à leur créance, sans considération de rang. 2. Le fondement est l'égalité absolue entre tous les créanciers. 3. Chacun reçoit environ 78% de sa créance (90/115).",
+        "1. M. Rabe est payé en premier car son prêt est le plus récent. 2. Le dernier prêteur a toujours la priorité. 3. M. Rabe reçoit l'intégralité de ses 20M Ar, le reste se partage entre les deux autres.",
+        "1. La Banque A est toujours payée en premier car c'est une banque. 2. Les institutions financières ont automatiquement priorité sur les particuliers. 3. La Banque A reçoit l'intégralité, les deux autres ne reçoivent rien."
+      ],
+      "reponse": 0,
+      "explication": "ANALYSE DÉTAILLÉE :\n\n1. ORDRE DE PAIEMENT — L'article 202 prévoit un mécanisme spécial pour les architectes et entrepreneurs : ils peuvent obtenir une hypothèque AVANT le commencement des travaux, inscrite provisoirement, qui devient définitive et conserve sa date d'inscription initiale si elle est régularisée dans le mois suivant l'achèvement des travaux (constaté par huissier). Si l'entrepreneur a respecté cette procédure, son hypothèque prend rang à une date antérieure à celle de la Banque A et de M. Rabe, malgré l'apparence chronologique. C'est un mécanisme protecteur destiné à encourager les artisans et entrepreneurs à accepter des chantiers sans exiger un paiement intégral d'avance.\n\n2. FONDEMENT — L'article 218 organise précisément l'ordre de distribution des deniers issus de la vente d'un immeuble : après les frais de justice et les créances de salaires privilégiés, viennent les créanciers titulaires d'une hypothèque conventionnelle ou forcée, 'chacune selon le rang de son inscription au livre foncier'. Entre plusieurs hypothèques, c'est donc strictement la date de prise de rang qui détermine la priorité — pas la nature du créancier (banque ou particulier), ni le montant de la créance.\n\n3. CALCUL — Avec un produit de vente de 90M Ar et des créances de 15M (entrepreneur, rang antérieur), 80M (Banque A, 15 janvier 2023) et 20M (M. Rabe, 10 juillet 2023) : l'entrepreneur est payé intégralement en premier = 15M Ar restant 75M Ar disponibles. La Banque A, second rang, devrait recevoir 80M Ar mais il ne reste que 75M Ar disponibles : elle reçoit donc l'intégralité du solde restant, soit 75M Ar (et reste créancière chirographaire pour le solde impayé de 5M Ar). M. Rabe, dernier rang, ne reçoit absolument rien : sa créance de 20M Ar reste impayée car l'argent disponible est épuisé avant d'atteindre son rang. Ce cas illustre concrètement l'importance cruciale du rang d'inscription en matière hypothécaire : être payé 'en dernier' peut signifier ne rien recevoir du tout."
+    }
+  ]
+}
