@@ -1,0 +1,886 @@
+{
+  "titre": "Le droit des investissements étrangers à Madagascar",
+  "module": 15,
+  "niveau": "Avancé",
+  "contenu": [
+    {
+      "titre": "1. Introduction au droit des investissements étrangers à Madagascar",
+      "texte": "Le droit des investissements étrangers à Madagascar constitue un corpus juridique spécifique visant à encadrer, attirer et protéger les capitaux étrangers tout en préservant la souveraineté nationale. Depuis l'indépendance en 1960, Madagascar a connu plusieurs réformes successives de son cadre juridique en la matière. La loi n°2007-036 du 14 janvier 2008 a longtemps constitué le texte de référence, avant d'être remplacée par la loi n°2023-002 du 27 juillet 2023, promulguée après avis de conformité de la Haute Cour Constitutionnelle (Décision n°06-HCC/D3 du 25 juillet 2023). Cette nouvelle loi s'inscrit dans la vision 'Initiative pour l'Émergence de Madagascar' (IEM) et ambitionne d'ériger les investissements comme un pilier du développement national. Elle résulte d'un processus inclusif ayant associé secteurs public et privé, et cherche un équilibre entre attractivité pour les investisseurs et protection des intérêts souverains de l'État malagasy.",
+      "definition": "Le droit des investissements étrangers est l'ensemble des règles juridiques nationales et internationales qui régissent l'entrée, le séjour, la protection et la sortie des capitaux étrangers sur le territoire d'un État."
+    },
+    {
+      "titre": "2. La notion d'investissement au sens de la loi n°2023-002",
+      "texte": "L'article 1er de la loi n°2023-002 définit l'investissement comme un apport en capital sous forme d'avoirs — biens, droits et intérêts de toute nature — affectés de manière durable dans une société, comportant un risque économique pour l'investisseur et permettant de concourir au développement économique de Madagascar. Sont notamment constitutifs d'un investissement : les actions, parts et obligations ; les titres de créance ; les prêts à une société incluant les avances en compte courant d'associés ; les biens mobiliers et immobiliers ; les droits d'auteur ; les droits de propriété industrielle déposés à l'Office Malgache de la Propriété Industrielle (OMAPI) ; les fonds de commerce et savoir-faire. En revanche, sont exclus de la définition : les investissements de portefeuille (moins de 10% du capital), les titres de créance émis par un gouvernement, les créances commerciales pures, les lettres de crédit bancaire, les opérations commerciales spontanées et les créances à échéances inférieures à trois ans.",
+      "definition": "L'investissement direct est un placement de capital dans une société locale dans le but d'y acquérir une participation durable, conférant à l'investisseur un contrôle effectif ou un degré significatif d'influence sur la direction de ladite société.",
+      "exemple": "Une société française qui acquiert 60% des parts d'une société malgache de textile réalise un investissement direct étranger au sens de la loi n°2023-002, car elle détient plus de 50% des droits de vote et exerce un contrôle effectif."
+    },
+    {
+      "titre": "3. La notion d'investisseur : national et étranger",
+      "texte": "La loi n°2023-002 distingue clairement l'investisseur national de l'investisseur étranger. L'investisseur national est toute personne physique ou morale de nationalité malagasy, ou toute personne morale de droit malagasy contrôlée par des intérêts nationaux. L'investisseur étranger est quant à lui toute personne physique ou morale de nationalité autre que malagasy, ou toute personne morale de droit malagasy contrôlée par des intérêts étrangers. Le critère du contrôle est défini de manière précise : une personne est présumée contrôler une société lorsqu'elle détient directement ou indirectement plus de la moitié des droits de vote, ou qu'elle dispose de plus de la moitié de ces droits en vertu d'accords avec d'autres associés, ou encore lorsqu'elle détient une fraction supérieure à 40% des droits de vote sans qu'aucun autre associé ne détienne une fraction supérieure à la sienne. Cette clarification répond aux ambiguïtés que générait la loi de 2007 concernant les sociétés de droit malgache sous contrôle étranger.",
+      "definition": "Le critère du contrôle étranger désigne la capacité d'une personne physique ou morale étrangère à déterminer les décisions stratégiques d'une société, notamment par la détention de plus de 50% des droits de vote ou d'une fraction dominante supérieure à 40%."
+    },
+    {
+      "titre": "4. Le champ d'application de la loi et les activités réservées",
+      "texte": "L'article 2 de la loi n°2023-002 dispose que le texte fixe le régime général de droit commun applicable aux investissements directs réalisés à Madagascar par toutes personnes physiques ou morales, nationales ou étrangères. Cependant, la liberté d'investissement connaît des restrictions importantes. L'article 3 réserve aux investisseurs nationaux certaines activités définies par des dispositions légales spécifiques, notamment l'orpaillage, les mines artisanales et la petite pêche. Ces secteurs stratégiques liés aux ressources naturelles constituent des domaines de préférence nationale, expression de la souveraineté économique de Madagascar. Par ailleurs, d'autres lois sectorielles — notamment en matière de télécommunications, de banque, d'assurance et d'exploitation minière à grande échelle — imposent des régimes d'autorisation spécifiques et des conditions particulières aux investisseurs étrangers souhaitant s'y implanter.",
+      "definition": "La préférence nationale en matière d'investissement est une politique juridique par laquelle un État réserve certaines activités économiques stratégiques aux seuls ressortissants nationaux, dans le but de protéger des secteurs sensibles liés à la souveraineté ou aux ressources naturelles.",
+      "exemple": "Un investisseur chinois ne peut pas légalement créer une entreprise d'orpaillage artisanal à Madagascar. Cette activité est expressément réservée aux investisseurs nationaux en vertu de l'article 3 de la loi n°2023-002."
+    },
+    {
+      "titre": "5. Le principe d'égalité de traitement",
+      "texte": "L'article 4 de la loi n°2023-002 consacre le principe d'égalité de traitement entre investisseurs. Sous réserve de réciprocité et sans préjudice des exceptions prévues par les lois sectorielles ou les traités internationaux, les investisseurs se trouvant dans des situations comparables reçoivent un traitement identique en matière de gestion, d'exploitation, de vente ou de cession de leurs investissements. La notion de 'situations comparables' exige une analyse contextuelle de l'ensemble des circonstances entourant l'investissement. Il est à noter que ce principe d'égalité ne confère pas à l'investisseur étranger le droit à une indemnisation pour tout désavantage concurrentiel qu'il pourrait subir du fait des réserves légales au profit des nationaux. Ce principe s'applique tant aux investisseurs eux-mêmes qu'à leurs investissements, et s'aligne sur les standards du droit international des investissements, notamment le traitement national (TN) et la clause de la nation la plus favorisée (NPF).",
+      "definition": "Le traitement national est un standard de droit international des investissements par lequel un État s'engage à traiter les investisseurs étrangers de manière non moins favorable que ses propres investisseurs nationaux placés dans des situations comparables."
+    },
+    {
+      "titre": "6. Le traitement juste et équitable",
+      "texte": "L'article 5 de la loi n°2023-002 introduit explicitement le standard du traitement juste et équitable (TJE), emprunté au droit international des investissements. Les investissements réalisés à Madagascar bénéficient d'un traitement juste et équitable les protégeant contre les mesures étatiques arbitraires, manifestement inéquitables, injustes ou discriminatoires. Ce standard est fondamental dans la pratique arbitrale internationale, où il est fréquemment invoqué par les investisseurs. La loi malgache précise cependant que l'obligation d'assurer un TJE n'empêche pas l'État de modifier et d'adapter sa législation, dans la mesure où ces modifications respectent les critères d'équité et de non-discrimination. Cette nuance préserve la liberté normative de l'État — son droit de réguler dans l'intérêt général — tout en lui imposant d'agir de bonne foi et de manière prévisible.",
+      "definition": "Le traitement juste et équitable (TJE) est un standard conventionnel de droit international des investissements imposant à l'État hôte de ne pas adopter de mesures arbitraires, discriminatoires ou contraires aux attentes légitimes de l'investisseur étranger.",
+      "exemple": "Si l'État malagasy modifie rétroactivement la fiscalité applicable à un investisseur étranger de manière à anéantir la rentabilité de son projet sans motif d'intérêt général légitime, cela pourrait constituer une violation du standard de traitement juste et équitable."
+    },
+    {
+      "titre": "7. La protection contre l'expropriation directe et indirecte",
+      "texte": "L'article 6 de la loi n°2023-002 constitue l'une des dispositions les plus importantes du texte en matière de sécurisation des investissements. L'État malagasy ne peut nationaliser ou exproprier un investissement que si trois conditions cumulatives sont réunies : la mesure est prise pour cause d'utilité publique selon une procédure légale régulière ; elle n'est pas discriminatoire ; elle est accompagnée d'une indemnisation juste, préalable et effective. La loi définit également l'expropriation indirecte, qui se produit lorsqu'une série de mesures a un effet équivalent à une expropriation directe en privant substantiellement l'investisseur de ses attributs fondamentaux de propriété, sans qu'il y ait transfert formel de titre. Pour déterminer l'existence d'une expropriation indirecte, il convient d'analyser les effets économiques de la mesure, l'atteinte aux attentes légitimes de l'investisseur, et la nature de la mesure. Toutefois, les mesures réglementaires non discriminatoires visant la protection de la santé publique, la sécurité ou l'environnement ne constituent pas une expropriation.",
+      "definition": "L'expropriation indirecte est une mesure ou un ensemble de mesures étatiques qui, sans opérer de transfert formel de propriété, prive substantiellement l'investisseur de ses droits d'user, jouir et disposer de son investissement, produisant un effet économique équivalent à une expropriation directe.",
+      "exemple": "Un gouvernement qui impose des restrictions telles qu'une usine étrangère ne peut plus fonctionner ni être cédée, sans toutefois en exproprier formellement le propriétaire, peut être considéré comme ayant procédé à une expropriation indirecte."
+    },
+    {
+      "titre": "8. L'indemnisation en cas d'expropriation",
+      "texte": "En cas d'expropriation licite, l'article 6 alinéa 5 de la loi n°2023-002 prévoit que l'indemnisation doit correspondre à la juste valeur marchande de l'investissement immédiatement avant la prise de la mesure d'expropriation. Cette valeur est déterminée sur la base : de la valeur d'exploitation ; de la valeur de l'actif, notamment la valeur fiscale déclarée des biens corporels ; et de tout autre critère pertinent. Le calcul exclut expressément les préjudices indirects, les profits spéculatifs ou exceptionnels, les dommages moraux et la perte de clientèle. Il ne tient pas compte de la perte de valeur résultant de la connaissance préalable de la mesure d'expropriation. L'indemnité est acquittée en monnaie nationale (ariary), et les modalités de conversion et de transfert à l'étranger suivent la réglementation des changes en vigueur. Si l'indemnité n'est pas versée dans les six mois, des intérêts au taux civil courent de plein droit.",
+      "definition": "La juste valeur marchande est le prix auquel un actif serait échangé entre un vendeur et un acheteur consentants, en toute connaissance de cause et sans contrainte, à la date de référence de l'expropriation.",
+      "exemple": "Une société étrangère dont l'usine est expropriée pour la construction d'une route nationale recevra une indemnité basée sur la valeur marchande de l'usine avant l'annonce du projet, sans tenir compte de la dépréciation liée à la rumeur d'expropriation."
+    },
+    {
+      "titre": "9. La liberté de transfert des capitaux et revenus",
+      "texte": "L'article 7 de la loi n°2023-002 garantit la liberté de transfert, pilier fondamental de l'attractivité d'un pays pour les investisseurs étrangers. Les apports en capital social dans le cadre des investissements directs étrangers sont libres et peuvent être effectués sans condition d'agrément ou d'autorisation préalable. Tout investisseur étranger peut transférer librement à l'étranger, sans autorisation préalable : les bénéfices, dividendes, redevances, frais de gestion, et les paiements de dommages-intérêts résultant de décisions arbitrales ou judiciaires. Les revenus salariaux, indemnités et épargnes des salariés expatriés sont également librement transférables. En revanche, les cessions d'actions, de parts sociales, de fonds de commerce et les indemnités d'expropriation, bien que libres, doivent faire l'objet d'une déclaration auprès du Ministère chargé des Finances. Les autres transactions en capital restent soumises à autorisation préalable du Ministre des Finances. Les transferts ne peuvent être effectués que par l'entremise d'intermédiaires agréés et en devises librement convertibles.",
+      "definition": "La liberté de transfert est le droit reconnu à un investisseur étranger de rapatrier librement dans son pays d'origine les revenus, bénéfices, dividendes et produits de cession générés par son investissement dans le pays hôte.",
+      "exemple": "Une société mauricienne ayant investi dans une plantation à Madagascar peut rapatrier ses dividendes annuels vers l'Île Maurice sans autorisation préalable, à condition de passer par un intermédiaire agréé et en devises convertibles."
+    },
+    {
+      "titre": "10. Le régime des visas et autorisations d'emploi pour investisseurs étrangers",
+      "texte": "Les articles 11 à 15 de la loi n°2023-002 organisent un système de visas spécialisés pour les ressortissants étrangers impliqués dans des investissements à Madagascar. Quatre catégories sont prévues : le Visa Investisseur, octroyé à tout investisseur étranger ayant la qualité d'associé ou d'actionnaire d'une société locale ; le Visa Professionnel, accordé aux étrangers exerçant un mandat social (gérant, Directeur Général, Président du Conseil d'Administration, etc.) pour une durée ne pouvant excéder celle du mandat ; le Visa Travailleur avec compétence spécifique, conditionné à l'obtention préalable d'une autorisation d'emploi délivrée par le Ministère du Travail, les travailleurs étrangers à ce titre ne devant pas excéder 20% de l'ensemble des employés ; le Visa Regroupement familial, accordé au conjoint et aux enfants à charge du titulaire principal, pour une durée ne pouvant excéder celle du visa principal. L'octroi des visas relève du Ministère en charge de l'Intérieur et est délivré au niveau de l'EDBM (Economic Development Board of Madagascar).",
+      "definition": "Le visa investisseur est un titre de séjour et d'autorisation d'activité accordé à un ressortissant étranger détenant une participation au capital d'une société légalement constituée à Madagascar, lui permettant d'y résider et de gérer son investissement.",
+      "exemple": "Un investisseur indien ayant acquis 30% des parts d'une société malgache de traitement de vanille se verra accorder un Visa Investisseur délivré par l'EDBM, valant titre de séjour pendant la durée de sa participation."
+    },
+    {
+      "titre": "11. L'accès des investisseurs étrangers à l'immobilier et au foncier",
+      "texte": "La question foncière est l'une des plus sensibles du droit malgache des investissements, et la loi n°2023-002 y apporte des clarifications importantes. En principe, les étrangers — personnes physiques ou morales — ne peuvent pas acquérir directement des biens fonciers à Madagascar. Seul le bail emphytéotique leur est accessible. La loi antérieure (n°2007-036) autorisait les sociétés malgaches sous contrôle étranger à acquérir des biens immobiliers sous conditions spécifiques. La loi n°2023-002 a abrogé cette disposition : désormais, seuls les contrats de bail emphytéotique sont autorisés pour les sociétés sous contrôle étranger. Le bail emphytéotique peut être conclu pour une durée allant jusqu'à 99 ans, renouvelable, négociable et cessible, ce qui lui confère en pratique une dimension quasi-perpétuelle pouvant s'avérer avantageuse pour les investisseurs à long terme. Le contrôle étranger est défini comme la détention directe ou indirecte de plus de la moitié des droits de vote d'une société.",
+      "definition": "Le bail emphytéotique est un contrat par lequel le propriétaire d'un terrain concède la jouissance de celui-ci à un preneur (emphytéote) pour une durée longue (jusqu'à 99 ans à Madagascar), en échange d'une redevance modique, le preneur ayant le droit d'améliorer le fonds et de le céder à titre onéreux.",
+      "exemple": "Une société de droit malgache dont 70% des parts sont détenues par un groupe hôtelier français ne peut pas acheter le terrain où elle souhaite construire son hôtel à Madagascar ; elle doit conclure un bail emphytéotique d'une durée maximum de 99 ans avec le propriétaire foncier."
+    },
+    {
+      "titre": "12. Les incitations aux investissements et la clause de stabilité",
+      "texte": "La loi n°2023-002 prévoit un régime d'incitations destinées à encourager les investissements répondant à certains critères d'éligibilité. Ces incitations peuvent être fiscales (exonérations, réductions de droits de douane) ou administratives (simplification des formalités, accès privilégié à l'EDBM). L'article 20 de la loi introduit une clause de stabilité : l'État s'engage à ne pas modifier de manière défavorable et rétroactive le régime juridique applicable à un investissement, notamment les dispositions fiscales et douanières ayant déterminé la décision d'investir. Cette clause de stabilité est un mécanisme de sécurisation juridique essentiel, fréquemment réclamé par les investisseurs étrangers dans les négociations contractuelles. Elle ne s'applique pas aux modifications législatives d'ordre public, de sécurité nationale ou d'environnement. Les modalités précises des incitations sont définies par des textes sectoriels et la loi des finances annuelle, qui peuvent prévoir des avantages spécifiques selon le secteur d'activité, la zone géographique d'implantation ou le montant de l'investissement.",
+      "definition": "La clause de stabilité est une disposition contractuelle ou législative par laquelle l'État hôte s'engage à ne pas modifier, de manière défavorable et rétroactive, le cadre juridique et fiscal applicable à un investissement donné pendant une période déterminée."
+    },
+    {
+      "titre": "13. Les obligations et responsabilités de l'investisseur étranger",
+      "texte": "La loi n°2023-002 innove significativement en introduisant aux articles 22 à 24 des dispositions sur les obligations et la responsabilité sociétale et environnementale de l'investisseur — une nouveauté par rapport à la loi de 2007. L'investisseur étranger est tenu de respecter l'ensemble des lois et règlements en vigueur à Madagascar, notamment en matière de droit du travail, de protection de l'environnement, de fiscalité et de procédures administratives. Il doit se conformer aux us et coutumes locaux. La responsabilité sociétale des entreprises (RSE) est désormais intégrée au cadre légal : l'investisseur est encouragé à contribuer au développement local, notamment par l'emploi de travailleurs malgaches, le transfert de compétences et la préservation du tissu économique local. Ces obligations visent à contrebalancer les avantages accordés aux investisseurs et à s'assurer que les investissements étrangers contribuent effectivement au développement de Madagascar.",
+      "definition": "La responsabilité sociétale des entreprises (RSE) est l'obligation pour les entreprises de prendre en compte, dans leurs activités et stratégies, les impacts sociaux, environnementaux et économiques sur les communautés locales, au-delà de la simple conformité légale.",
+      "exemple": "Une entreprise minière étrangère opérant à Madagascar est tenue, en vertu de la loi n°2023-002, de soumettre un plan de gestion environnementale, de respecter le droit du travail malgache et de favoriser l'emploi local dans ses recrutements."
+    },
+    {
+      "titre": "14. Le règlement des litiges : voies internes et arbitrage international",
+      "texte": "Les articles 25 à 28 de la loi n°2023-002 organisent le règlement des différends entre l'État malagasy et les investisseurs. En cas de litige, la priorité est donnée à la négociation amiable et à la conciliation. Si ces tentatives échouent, l'investisseur peut saisir les juridictions compétentes de Madagascar. La loi introduit une innovation majeure concernant l'arbitrage international : le consentement de l'État à l'arbitrage est désormais accordé au cas par cas, et non de manière générale et automatique comme sous l'ancienne loi. Cette modification reflète la volonté de l'État de contrôler davantage les recours à l'arbitrage international coûteux. Madagascar est partie à la Convention pour le Règlement des Différends relatifs aux Investissements entre États et Ressortissants d'autres États (Convention CIRDI de Washington, 1965). Les sentences arbitrales définitives rendues conformément aux dispositions de la loi sont exécutoires sur le territoire malgache dans les conditions prévues par les textes en vigueur.",
+      "definition": "Le Centre International pour le Règlement des Différends relatifs aux Investissements (CIRDI) est une institution d'arbitrage internationale créée par la Convention de Washington de 1965, spécialisée dans le règlement des litiges entre États et investisseurs étrangers.",
+      "exemple": "Un investisseur européen estimant que l'État malgache a violé ses droits en annulant un contrat de concession devra d'abord tenter une résolution amiable, puis pourra, si l'État y consent expressément dans le contrat d'investissement, soumettre le différend au CIRDI."
+    },
+    {
+      "titre": "15. L'EDBM : agence de promotion et guichet unique des investissements",
+      "texte": "L'Economic Development Board of Madagascar (EDBM) est l'institution centrale du dispositif de promotion et de facilitation des investissements à Madagascar. Rattaché directement à la Présidence de la République, l'EDBM dispose de prérogatives étendues : il délivre les visas investisseurs et professionnels, facilite les formalités administratives de création d'entreprise en constituant un guichet unique, accompagne les investisseurs dans leurs démarches administratives, et assure la promotion de Madagascar comme destination d'investissement à l'international. Dans sa dimension de guichet unique, l'EDBM permet aux investisseurs étrangers d'accomplir en un seul lieu les formalités normalement dispersées entre plusieurs administrations : immatriculation au Registre du Commerce et des Sociétés (RCS), obtention des autorisations sectorielles, démarches fiscales et sociales. La loi n°2023-002 réaffirme et renforce le rôle de l'EDBM, en faisant de lui l'interlocuteur privilégié des investisseurs étrangers souhaitant s'établir à Madagascar.",
+      "definition": "Le guichet unique des investissements est un dispositif administratif permettant à un investisseur d'accomplir en un seul lieu et auprès d'un seul interlocuteur l'ensemble des formalités administratives nécessaires à la création et à l'installation d'une entreprise sur le territoire national.",
+      "exemple": "Un investisseur sud-africain souhaitant créer une société à Antananarivo peut s'adresser directement à l'EDBM pour obtenir son immatriculation au RCS, ses autorisations sectorielles et son visa investisseur, sans devoir solliciter séparément chaque administration."
+    },
+    {
+      "titre": "16. Les traités bilatéraux et multilatéraux de protection des investissements",
+      "texte": "Le cadre juridique malgache des investissements étrangers ne se limite pas à la loi nationale ; il est complété et, en cas de conflit, supplanté par les instruments internationaux de protection des investissements. Madagascar a conclu de nombreux Accords Bilatéraux de Promotion et de Protection des Investissements (APPIs ou TBI), notamment avec la France, l'Allemagne, la Suisse, la Chine, Maurice et d'autres partenaires. Ces accords garantissent généralement aux ressortissants des États contractants : le traitement national, le traitement de la nation la plus favorisée, la protection contre l'expropriation non indemnisée, la liberté de transfert des capitaux, et l'accès à l'arbitrage international. Sur le plan multilatégional, Madagascar est membre de l'Accord de Cotonou, de la Charte africaine des droits de l'homme et des peuples (dispositions économiques), et bénéficie de préférences commerciales dans le cadre de l'AGOA (African Growth and Opportunity Act) et de l'Accord de Partenariat Économique (APE) avec l'Union Européenne. La Convention CIRDI de 1965 constitue le cadre de référence pour l'arbitrage des différends investisseur-État.",
+      "definition": "Un accord bilatéral de protection des investissements (APPI) est un traité international conclu entre deux États s'engageant réciproquement à accorder certaines protections aux investisseurs de l'autre partie sur leur territoire respectif, notamment en matière de traitement, d'expropriation et de règlement des litiges."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quelle loi constitue actuellement le texte de référence en matière d'investissements à Madagascar ?",
+      "choix": [
+        "A. Loi n°2007-036 du 14 janvier 2008",
+        "B. Loi n°2023-002 du 27 juillet 2023",
+        "C. Loi n°2003-038 sur les fonds de commerce",
+        "D. Loi n°2015-014 sur les zones franches"
+      ],
+      "reponse": "B",
+      "indices": [
+        "Cette loi a été promulguée en 2023",
+        "Elle a abrogé la loi de 2007"
+      ],
+      "explication": "La loi n°2023-002 du 27 juillet 2023, publiée au Journal Officiel le 18 septembre 2023, est le texte de référence actuel. Elle a abrogé et remplacé la loi n°2007-036 du 14 janvier 2008."
+    },
+    {
+      "question": "Quelle institution a déclaré la loi n°2023-002 conforme à la Constitution avant sa promulgation ?",
+      "choix": [
+        "A. La Cour Suprême",
+        "B. Le Conseil d'État",
+        "C. La Haute Cour Constitutionnelle",
+        "D. La Cour de Cassation"
+      ],
+      "reponse": "C",
+      "indices": [
+        "Il s'agit d'une juridiction constitutionnelle",
+        "Sa décision porte le n°06-HCC/D3 du 25 juillet 2023"
+      ],
+      "explication": "La Haute Cour Constitutionnelle a rendu la Décision n°06-HCC/D3 du 25 juillet 2023 déclarant la loi n°2023-002 conforme à la Constitution, conformément à l'article 117 de la Constitution malgache."
+    },
+    {
+      "question": "Au sens de la loi n°2023-002, qu'est-ce qu'un investissement de portefeuille ?",
+      "choix": [
+        "A. Un investissement supérieur à 10% du capital social",
+        "B. Un investissement permettant d'exercer un contrôle effectif",
+        "C. Un investissement représentant moins de 10% du capital social",
+        "D. Un investissement dans le secteur financier uniquement"
+      ],
+      "reponse": "C",
+      "indices": [
+        "C'est une catégorie exclue de la définition d'investissement direct",
+        "Le seuil est de 10%"
+      ],
+      "explication": "L'article 1er de la loi n°2023-002 définit l'investissement de portefeuille comme un investissement représentant moins de 10% du capital social de la société, ou un investissement ne permettant d'exercer ni contrôle effectif ni influence significative."
+    },
+    {
+      "question": "Parmi les éléments suivants, lequel est expressément exclu de la définition d'investissement selon la loi n°2023-002 ?",
+      "choix": [
+        "A. Les fonds de commerce",
+        "B. Les droits d'auteur",
+        "C. Les lettres de crédit bancaire",
+        "D. Les prêts à une société"
+      ],
+      "reponse": "C",
+      "indices": [
+        "La loi liste explicitement ce qui n'est pas un investissement",
+        "Il s'agit d'un instrument de commerce international"
+      ],
+      "explication": "L'article 1er de la loi n°2023-002 exclut expressément de la définition d'investissement les lettres de crédit bancaire, ainsi que les investissements de portefeuille, les créances commerciales pures et les opérations commerciales spontanées."
+    },
+    {
+      "question": "Selon la loi n°2023-002, à partir de quel seuil de droits de vote une personne est-elle présumée exercer le contrôle d'une société (hors majorité absolue) ?",
+      "choix": [
+        "A. 25%",
+        "B. 33%",
+        "C. 40%",
+        "D. 49%"
+      ],
+      "reponse": "C",
+      "indices": [
+        "Ce seuil s'applique lorsqu'aucun autre associé ne détient une fraction supérieure",
+        "Il est inférieur à la majorité absolue"
+      ],
+      "explication": "L'article 1er de la loi n°2023-002 précise qu'une personne est présumée exercer le contrôle d'une société lorsqu'elle dispose directement ou indirectement d'une fraction des droits de vote supérieure à 40% et qu'aucun autre associé ne détient une fraction supérieure à la sienne."
+    },
+    {
+      "question": "Quelles activités la loi n°2023-002 réserve-t-elle aux investisseurs nationaux à Madagascar ?",
+      "choix": [
+        "A. Le tourisme, la restauration et l'hôtellerie",
+        "B. L'orpaillage, les mines artisanales et la petite pêche",
+        "C. Les télécommunications et les banques",
+        "D. L'agriculture et l'élevage"
+      ],
+      "reponse": "B",
+      "indices": [
+        "Ces activités concernent les ressources naturelles",
+        "Elles sont mentionnées à l'article 3 de la loi"
+      ],
+      "explication": "L'article 3 de la loi n°2023-002 réserve aux investisseurs nationaux les activités d'orpaillage, des mines artisanales et de la petite pêche. Ces secteurs liés aux ressources naturelles constituent des domaines de préférence nationale."
+    },
+    {
+      "question": "Le principe de traitement juste et équitable prévu par la loi n°2023-002 empêche-t-il l'État malgache de modifier sa législation ?",
+      "choix": [
+        "A. Oui, totalement — toute modification est interdite",
+        "B. Non — l'État peut modifier sa législation dans le respect du principe de TJE",
+        "C. Oui, sauf en matière fiscale",
+        "D. Non — l'État peut modifier librement sans aucune restriction"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 5 traite de cette question",
+        "La liberté normative de l'État est préservée"
+      ],
+      "explication": "L'article 5 de la loi n°2023-002 dispose expressément que l'obligation d'assurer un traitement juste et équitable n'empêche pas l'État de modifier et adapter sa législation, à condition de respecter les critères d'équité et de non-discrimination."
+    },
+    {
+      "question": "Quelles conditions cumulatives doivent être réunies pour qu'une expropriation soit licite selon la loi n°2023-002 ?",
+      "choix": [
+        "A. Utilité publique uniquement",
+        "B. Indemnisation préalable uniquement",
+        "C. Utilité publique, procédure légale régulière, non-discrimination et indemnisation juste préalable",
+        "D. Décision présidentielle et vote parlementaire"
+      ],
+      "reponse": "C",
+      "indices": [
+        "L'article 6 liste trois conditions cumulatives",
+        "L'indemnisation est l'une des conditions"
+      ],
+      "explication": "L'article 6 de la loi n°2023-002 prévoit trois conditions cumulatives pour une expropriation licite : la cause d'utilité publique suivant une procédure légale régulière, le caractère non discriminatoire de la mesure, et le paiement d'une indemnisation juste, préalable et effective."
+    },
+    {
+      "question": "Qu'est-ce que l'expropriation indirecte selon la loi n°2023-002 ?",
+      "choix": [
+        "A. Une expropriation réalisée par un tiers désigné par l'État",
+        "B. Une mesure qui transfère formellement la propriété à l'État",
+        "C. Une série de mesures privant substantiellement l'investisseur de ses droits de propriété sans transfert formel de titre",
+        "D. Une expropriation visant exclusivement les biens immobiliers"
+      ],
+      "reponse": "C",
+      "indices": [
+        "Il n'y a pas de transfert formel de titre",
+        "La privation est substantielle"
+      ],
+      "explication": "L'article 6 alinéa 2 de la loi n°2023-002 définit l'expropriation indirecte comme une mesure ou série de mesures ayant un effet équivalent à une expropriation directe, en privant substantiellement l'investisseur des attributs fondamentaux de sa propriété, sans transfert formel de titre."
+    },
+    {
+      "question": "Sur quelle base la juste valeur marchande d'un investissement est-elle calculée en cas d'expropriation ?",
+      "choix": [
+        "A. La valeur comptable des actifs au moment de la nationalisation",
+        "B. La valeur marchande immédiatement après l'annonce de l'expropriation",
+        "C. La valeur marchande immédiatement avant la prise de la mesure d'expropriation",
+        "D. La valeur déclarée par l'investisseur dans ses statuts"
+      ],
+      "reponse": "C",
+      "indices": [
+        "La date de référence est antérieure à la mesure",
+        "Elle exclut les effets de la connaissance de l'expropriation"
+      ],
+      "explication": "L'article 6 alinéa 5 dispose que l'indemnisation correspond à la juste valeur marchande de l'investissement immédiatement avant la date à laquelle l'expropriation ou la mesure équivalente a été prise, excluant tout changement de valeur dû à la connaissance préalable de la mesure."
+    },
+    {
+      "question": "L'indemnité d'expropriation prévue par la loi n°2023-002 peut-elle inclure des dommages moraux ?",
+      "choix": [
+        "A. Oui, les dommages moraux sont inclus dans la juste valeur marchande",
+        "B. Non, les dommages moraux sont expressément exclus du calcul",
+        "C. Oui, à condition que l'investisseur en apporte la preuve",
+        "D. Cela dépend de la décision du tribunal arbitral"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 6 alinéa 5 dresse une liste d'éléments exclus",
+        "Les dommages moraux en font partie"
+      ],
+      "explication": "L'article 6 alinéa 5 de la loi n°2023-002 précise expressément que le calcul de la juste valeur marchande exclut tout préjudice indirect ou immatériel, les profits spéculatifs ou exceptionnels, les dommages moraux et la perte de clientèle."
+    },
+    {
+      "question": "Dans quelle monnaie l'indemnité d'expropriation est-elle acquittée à Madagascar ?",
+      "choix": [
+        "A. En devises étrangères librement choisies par l'investisseur",
+        "B. En dollars américains",
+        "C. En monnaie nationale (ariary)",
+        "D. En euros, monnaie de l'Union Européenne partenaire"
+      ],
+      "reponse": "C",
+      "indices": [
+        "La loi précise la monnaie de paiement",
+        "Le transfert à l'étranger suit la réglementation des changes"
+      ],
+      "explication": "L'article 6 alinéa 6 dispose que l'indemnité est acquittée en monnaie nationale, c'est-à-dire en ariary malgache. La conversion et le transfert à l'étranger suivent ensuite les dispositions de la réglementation des changes en vigueur."
+    },
+    {
+      "question": "Quel délai s'écoule avant que les intérêts au taux civil ne courent automatiquement sur l'indemnité d'expropriation non versée ?",
+      "choix": [
+        "A. 3 mois",
+        "B. 6 mois",
+        "C. 12 mois",
+        "D. 24 mois"
+      ],
+      "reponse": "B",
+      "indices": [
+        "Ce délai court à compter de l'acte d'expropriation ou de la décision judiciaire définitive",
+        "Il est de six mois"
+      ],
+      "explication": "L'article 6 alinéa 6 de la loi n°2023-002 prévoit que si l'indemnité n'est ni acquittée ni consignée dans les six mois de l'acte d'expropriation ou de la décision de justice définitive, les intérêts au taux civil courent de plein droit à l'expiration de ce délai."
+    },
+    {
+      "question": "Un investisseur étranger peut-il transférer librement ses dividendes à l'étranger sans autorisation préalable ?",
+      "choix": [
+        "A. Non, une autorisation du Ministère des Finances est toujours requise",
+        "B. Oui, les dividendes font partie des transferts libres sans autorisation préalable",
+        "C. Oui, mais uniquement si l'investissement est supérieur à un certain montant",
+        "D. Non, les dividendes doivent être réinvestis à Madagascar pendant 5 ans"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 7 traite de la liberté de transfert",
+        "Les dividendes sont expressément mentionnés"
+      ],
+      "explication": "L'article 7 alinéa 1 de la loi n°2023-002 autorise tout investisseur étranger à transférer librement à l'étranger, sans autorisation préalable, tous paiements afférents aux opérations courantes, notamment les bénéfices et dividendes."
+    },
+    {
+      "question": "Les cessions d'actions ou de parts sociales par un investisseur étranger sont-elles soumises à une formalité particulière ?",
+      "choix": [
+        "A. Elles sont totalement libres sans aucune formalité",
+        "B. Elles nécessitent une autorisation préalable du Ministère des Finances",
+        "C. Elles sont libres mais doivent faire l'objet d'une déclaration auprès du Ministère des Finances",
+        "D. Elles sont interdites aux investisseurs étrangers"
+      ],
+      "reponse": "C",
+      "indices": [
+        "L'article 7 alinéa 3 précise le régime applicable",
+        "Une déclaration (et non une autorisation) est requise"
+      ],
+      "explication": "L'article 7 alinéa 3 de la loi n°2023-002 précise que les cessions d'actions, de parts sociales, de fonds de commerce ou d'actifs, bien que libres, doivent être soumises à déclaration auprès du Ministère chargé des Finances."
+    },
+    {
+      "question": "Quel type de visa est accordé à un ressortissant étranger exerçant le mandat de Directeur Général d'une société malgache sans en être actionnaire ?",
+      "choix": [
+        "A. Visa Investisseur",
+        "B. Visa Professionnel",
+        "C. Visa Travailleur avec compétence spécifique",
+        "D. Visa Regroupement familial"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 12 traite de cette situation",
+        "Le titulaire n'a pas la qualité d'actionnaire"
+      ],
+      "explication": "L'article 12 de la loi n°2023-002 crée le Visa Professionnel, octroyé à tout étranger exerçant au sein d'une société locale un mandat social (gérant, DG, DGA, Administrateur Général, PDG, membre du Conseil d'Administration) sans avoir la qualité d'associé ou d'actionnaire."
+    },
+    {
+      "question": "Quel pourcentage maximum de travailleurs étrangers 'avec compétences spécifiques' est autorisé dans une entreprise à Madagascar ?",
+      "choix": [
+        "A. 10%",
+        "B. 15%",
+        "C. 20%",
+        "D. 30%"
+      ],
+      "reponse": "C",
+      "indices": [
+        "L'article 13 fixe ce plafond",
+        "Il s'agit d'un maximum par rapport à l'ensemble des employés"
+      ],
+      "explication": "L'article 13 de la loi n°2023-002 dispose que les travailleurs étrangers titulaires d'un Visa Travailleur avec compétence spécifique ne doivent pas excéder 20% de l'ensemble des employés de la société."
+    },
+    {
+      "question": "Quelle institution délivre concrètement les visas investisseurs et professionnels à Madagascar ?",
+      "choix": [
+        "A. Le Ministère des Affaires Étrangères",
+        "B. La Direction Générale de l'Immigration",
+        "C. L'EDBM (Economic Development Board of Madagascar)",
+        "D. La Chambre de Commerce d'Industrie et d'Agriculture"
+      ],
+      "reponse": "C",
+      "indices": [
+        "L'article 15 précise cette modalité",
+        "Il s'agit de l'agence de promotion des investissements"
+      ],
+      "explication": "L'article 15 de la loi n°2023-002 dispose que l'octroi des visas relève de la compétence du Ministère en charge de l'Intérieur, mais qu'ils sont délivrés concrètement au niveau de l'EDBM, qui constitue le guichet unique des investisseurs."
+    },
+    {
+      "question": "La loi n°2023-002 permet-elle aux investisseurs étrangers d'acquérir directement des terrains à Madagascar ?",
+      "choix": [
+        "A. Oui, sans restriction",
+        "B. Oui, dans les zones économiques spéciales uniquement",
+        "C. Non, seul le bail emphytéotique leur est accessible",
+        "D. Oui, avec l'autorisation préalable de l'EDBM"
+      ],
+      "reponse": "C",
+      "indices": [
+        "La loi n°2023-002 a modifié le régime de la loi de 2007 sur ce point",
+        "Le bail emphytéotique peut durer jusqu'à 99 ans"
+      ],
+      "explication": "La loi n°2023-002 interdit aux investisseurs étrangers l'acquisition directe de biens fonciers et leur réserve exclusivement le recours au bail emphytéotique, pouvant atteindre 99 ans renouvelables. La loi de 2007 autorisait certaines sociétés malgaches sous contrôle étranger à acquérir des immeubles — cette exception a été supprimée."
+    },
+    {
+      "question": "Qu'est-ce qu'un bail emphytéotique dans le contexte des investissements étrangers à Madagascar ?",
+      "choix": [
+        "A. Un contrat de vente conditionnelle d'un terrain",
+        "B. Un contrat de location ordinaire pour une durée maximale de 10 ans",
+        "C. Un contrat de jouissance longue durée pouvant atteindre 99 ans, négociable et cessible",
+        "D. Un contrat de partenariat public-privé sur les ressources minières"
+      ],
+      "reponse": "C",
+      "indices": [
+        "Sa durée maximale à Madagascar est de 99 ans",
+        "Il est renouvelable, négociable et cessible"
+      ],
+      "explication": "Le bail emphytéotique est le seul mode d'accès foncier autorisé aux investisseurs étrangers à Madagascar. D'une durée pouvant aller jusqu'à 99 ans, renouvelable, négociable et cessible, il offre en pratique une sécurité comparable à la propriété pour les investissements à long terme."
+    },
+    {
+      "question": "Quelle nouveauté la loi n°2023-002 apporte-t-elle concernant le consentement de l'État à l'arbitrage international ?",
+      "choix": [
+        "A. L'État consent automatiquement à l'arbitrage CIRDI pour tous les investissements",
+        "B. L'État refuse désormais tout arbitrage international",
+        "C. Le consentement de l'État à l'arbitrage est accordé au cas par cas et non de manière générale",
+        "D. L'arbitrage est remplacé par la médiation obligatoire"
+      ],
+      "reponse": "C",
+      "indices": [
+        "L'article 27 porte sur cette question",
+        "C'est une modification par rapport à la loi de 2007"
+      ],
+      "explication": "L'article 27 de la loi n°2023-002 innove en disposant que le consentement de l'État malgache à l'arbitrage international est accordé au cas par cas, contrairement à l'ancienne loi qui prévoyait un consentement général. Cela permet à l'État de mieux contrôler les recours coûteux à l'arbitrage international."
+    },
+    {
+      "question": "Madagascar est-il partie à la Convention CIRDI de Washington de 1965 ?",
+      "choix": [
+        "A. Non, Madagascar n'a pas signé cette convention",
+        "B. Oui, Madagascar est partie à la Convention CIRDI",
+        "C. Madagascar est signataire mais n'a pas ratifié la convention",
+        "D. Madagascar applique la convention uniquement dans ses relations avec l'Union Européenne"
+      ],
+      "reponse": "B",
+      "indices": [
+        "La Convention CIRDI permet le recours à un arbitrage international spécialisé",
+        "Madagascar y adhère"
+      ],
+      "explication": "Madagascar est bien partie à la Convention pour le Règlement des Différends relatifs aux Investissements entre États et Ressortissants d'autres États (Convention CIRDI de Washington de 1965), ce qui permet aux investisseurs étrangers de recourir à cet arbitrage sous réserve du consentement de l'État au cas par cas."
+    },
+    {
+      "question": "Quel est le rôle principal de l'EDBM (Economic Development Board of Madagascar) ?",
+      "choix": [
+        "A. Percevoir les impôts et taxes auprès des entreprises étrangères",
+        "B. Contrôler les flux de capitaux étrangers entrant à Madagascar",
+        "C. Promouvoir, faciliter et accompagner les investissements nationaux et étrangers à Madagascar",
+        "D. Arbitrer les litiges entre investisseurs étrangers et l'État malgache"
+      ],
+      "reponse": "C",
+      "indices": [
+        "C'est l'agence nationale de promotion des investissements",
+        "Il constitue un guichet unique"
+      ],
+      "explication": "L'EDBM est l'institution centrale de promotion et de facilitation des investissements à Madagascar, rattachée à la Présidence de la République. Il constitue un guichet unique permettant aux investisseurs d'accomplir en un seul lieu les formalités de création d'entreprise, d'obtention de visas et d'autorisations sectorielles."
+    },
+    {
+      "question": "Qu'est-ce qu'un Accord Bilatéral de Promotion et de Protection des Investissements (APPI) ?",
+      "choix": [
+        "A. Un accord commercial portant sur les échanges de marchandises entre deux États",
+        "B. Un traité international garantissant des protections mutuelles aux investisseurs des deux États signataires",
+        "C. Un accord de financement entre une banque centrale étrangère et l'État malgache",
+        "D. Un protocole d'entente entre deux entreprises de nationalités différentes"
+      ],
+      "reponse": "B",
+      "indices": [
+        "C'est un instrument du droit international des investissements",
+        "Il est bilatéral et crée des obligations réciproques"
+      ],
+      "explication": "Un APPI est un traité international conclu entre deux États s'engageant réciproquement à garantir aux investisseurs de l'autre partie des protections telles que le traitement national, la protection contre l'expropriation non indemnisée, la liberté de transfert et l'accès à l'arbitrage international."
+    },
+    {
+      "question": "La loi n°2023-002 impose-t-elle des obligations en matière de responsabilité sociétale et environnementale aux investisseurs ?",
+      "choix": [
+        "A. Non, ces obligations sont uniquement volontaires",
+        "B. Oui, les articles 22 à 24 introduisent des obligations RSE pour les investisseurs",
+        "C. Seulement pour les investissements dans le secteur minier",
+        "D. Oui, mais uniquement pour les entreprises étrangères cotées en bourse"
+      ],
+      "reponse": "B",
+      "indices": [
+        "C'est une nouveauté par rapport à la loi de 2007",
+        "Les articles 22 à 24 traitent des obligations de l'investisseur"
+      ],
+      "explication": "La loi n°2023-002 innove en introduisant aux articles 22 à 24 des dispositions sur les obligations des investisseurs incluant expressément la responsabilité sociétale et environnementale (RSE), ce que ne prévoyait pas la loi de 2007."
+    },
+    {
+      "question": "Dans le cadre du principe d'égalité de traitement, l'investisseur étranger peut-il réclamer une indemnisation pour un désavantage concurrentiel dû aux réserves légales au profit des nationaux ?",
+      "choix": [
+        "A. Oui, il peut réclamer une compensation devant le CIRDI",
+        "B. Non, la loi exclut expressément ce droit à indemnisation",
+        "C. Oui, si l'APPI applicable le prévoit",
+        "D. Cela dépend de l'appréciation souveraine de l'EDBM"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 4 traite de ce point",
+        "Le désavantage concurrentiel n'est pas indemnisable"
+      ],
+      "explication": "L'article 4 de la loi n°2023-002 précise expressément que l'application du principe d'égalité de traitement et des réserves légales en faveur des nationaux ne confère pas à l'investisseur étranger le droit à une indemnisation pour tout désavantage concurrentiel qu'il pourrait subir."
+    },
+    {
+      "question": "Les mesures réglementaires visant la protection de la santé publique constituent-elles une expropriation indirecte ?",
+      "choix": [
+        "A. Oui, si elles affectent négativement la valeur de l'investissement",
+        "B. Non, les mesures non discriminatoires de protection du bien-être public ne constituent pas une expropriation",
+        "C. Oui, si l'État ne verse pas d'indemnisation compensatoire",
+        "D. Cela dépend de l'appréciation du tribunal arbitral saisi"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 6 alinéa 4 traite de cette exception",
+        "Ces mesures visent l'intérêt général"
+      ],
+      "explication": "L'article 6 alinéa 4 de la loi n°2023-002 dispose expressément que les mesures réglementaires non discriminatoires conçues et appliquées dans un but de protection légitime du bien-être public (santé publique, sécurité, environnement) ne constituent pas une expropriation, même si elles affectent la valeur économique de l'investissement."
+    },
+    {
+      "question": "Combien de chapitres comporte la loi n°2023-002 sur les investissements à Madagascar ?",
+      "choix": [
+        "A. 6 chapitres",
+        "B. 8 chapitres",
+        "C. 10 chapitres",
+        "D. 12 chapitres"
+      ],
+      "reponse": "C",
+      "indices": [
+        "La loi comprend également 35 articles",
+        "Le nombre de chapitres est précisé dans l'exposé des motifs"
+      ],
+      "explication": "La loi n°2023-002 se décline en 35 articles et dix chapitres : Dispositions générales, Principes régissant les investissements, Immatriculation et actes des sociétés, Visas et autorisations d'emploi, Accès des investisseurs étrangers à l'immobilier, Incitations et stabilité, Responsabilités de l'investisseur, Règlement des litiges, Agence de promotion des investissements, Dispositions finales et transitoires."
+    },
+    {
+      "question": "La loi n°2023-002 impose-t-elle la légalisation des signatures pour les contrats d'investissement soumis à enregistrement ?",
+      "choix": [
+        "A. Oui, la légalisation est toujours requise",
+        "B. Non, les actes ne sont soumis à aucune procédure de légalisation ou reconnaissance de signature",
+        "C. Oui, uniquement pour les actes impliquant des parties étrangères",
+        "D. Non, sauf pour les actes soumis au CIRDI"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 10 traite de cette question",
+        "C'est une mesure de simplification administrative"
+      ],
+      "explication": "L'article 10 de la loi n°2023-002 dispose que les contrats, actes, procès-verbaux ou documents en rapport aux investissements nécessitant une formalité administrative ne sont soumis à aucune procédure de légalisation ou reconnaissance de signature des parties. Exception faite pour les conventions de vente de biens immobiliers ou de constitution de baux emphytéotiques."
+    },
+    {
+      "question": "La publication dans la presse écrite est-elle obligatoire lors de l'immatriculation d'une société à Madagascar selon la loi n°2023-002 ?",
+      "choix": [
+        "A. Oui, la publication est obligatoire dans un journal d'annonces légales",
+        "B. Non, aucune publication dans la presse écrite n'est requise",
+        "C. Oui, mais uniquement pour les sociétés à capitaux étrangers",
+        "D. Non, sauf pour les sociétés dont le capital dépasse un certain seuil"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 8 traite de l'immatriculation",
+        "C'est une mesure de simplification administrative"
+      ],
+      "explication": "L'article 8 de la loi n°2023-002 précise expressément qu'aucune publication dans la presse écrite n'est requise dans le cadre de l'immatriculation d'une société à Madagascar. C'est une simplification administrative significative pour réduire les coûts et délais de création d'entreprise."
+    },
+    {
+      "question": "Qu'exige la loi n°2023-002 concernant le mandataire social d'une société créée à Madagascar par un investisseur étranger ?",
+      "choix": [
+        "A. Tous les mandataires sociaux doivent être de nationalité malgache",
+        "B. Au moins un mandataire social doit être résident à Madagascar",
+        "C. Aucune condition de résidence n'est requise pour les mandataires sociaux",
+        "D. Le mandataire social principal doit détenir au moins 51% du capital"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 8 précise cette condition",
+        "Le mandataire résident peut être de nationalité étrangère sous condition"
+      ],
+      "explication": "L'article 8 de la loi n°2023-002 dispose que la création d'une société implique qu'au moins un mandataire social soit résident à Madagascar, qu'il soit de nationalité malgache ou de nationalité étrangère titulaire d'un visa immigrant ou d'un récépissé de dépôt de visa immigrant en cours de validité."
+    },
+    {
+      "question": "La vision 'Initiative pour l'Émergence de Madagascar' (IEM) est-elle mentionnée dans la loi n°2023-002 ?",
+      "choix": [
+        "A. Non, ce concept est étranger à la loi sur les investissements",
+        "B. Oui, la loi s'inscrit expressément dans cette vision nationale de développement",
+        "C. Seulement dans le décret d'application de la loi",
+        "D. Oui, mais uniquement dans les dispositions transitoires"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'exposé des motifs de la loi y fait référence",
+        "C'est la vision de développement national du gouvernement"
+      ],
+      "explication": "L'exposé des motifs de la loi n°2023-002 précise expressément que cette loi s'inscrit dans la vision 'Initiative pour l'Émergence de Madagascar' (IEM) et vise à ériger les investissements nationaux et étrangers comme un pilier de l'émergence du pays."
+    },
+    {
+      "question": "Qu'entend-on par 'liberté normative de l'État' dans le contexte du droit malgache des investissements ?",
+      "choix": [
+        "A. Le droit de l'État de fixer librement les normes comptables applicables",
+        "B. Le droit de l'État de modifier sa législation dans l'intérêt général, même si cela affecte les investisseurs",
+        "C. Le pouvoir de l'EDBM d'édicter des normes administratives contraignantes",
+        "D. La liberté des investisseurs de choisir le droit applicable à leur contrat"
+      ],
+      "reponse": "B",
+      "indices": [
+        "C'est un principe de souveraineté étatique",
+        "La loi cherche à le préserver tout en protégeant les investisseurs"
+      ],
+      "explication": "La liberté normative de l'État désigne le droit souverain de l'État de modifier, adapter et réformer sa législation dans l'intérêt général, y compris lorsque ces modifications affectent des investisseurs étrangers. La loi n°2023-002 vise à préserver cette liberté normative tout en encadrant son exercice par les standards du TJE et de la non-discrimination."
+    },
+    {
+      "question": "Quel organisme est chargé de la délivrance des autorisations d'emploi pour les travailleurs étrangers à compétences spécifiques ?",
+      "choix": [
+        "A. L'EDBM",
+        "B. Le Ministère en charge de l'Intérieur",
+        "C. Le Ministère en charge du Travail",
+        "D. La Direction des Ressources Humaines de l'entreprise concernée"
+      ],
+      "reponse": "C",
+      "indices": [
+        "L'article 13 traite du visa travailleur à compétences spécifiques",
+        "L'autorisation d'emploi est une condition préalable au visa"
+      ],
+      "explication": "L'article 13 de la loi n°2023-002 dispose que le Visa Travailleur avec compétence spécifique est conditionné par l'obtention préalable d'une autorisation d'emploi ou permis de travail délivré par le Ministère en charge du Travail."
+    },
+    {
+      "question": "Les revenus salariaux des expatriés peuvent-ils être transférés librement à l'étranger selon la loi n°2023-002 ?",
+      "choix": [
+        "A. Non, ils sont soumis à une autorisation du Ministère des Finances",
+        "B. Oui, sans autorisation préalable",
+        "C. Oui, mais uniquement à hauteur de 50% du salaire net",
+        "D. Non, seulement les revenus de dividendes sont transférables"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 7 alinéa 2 traite de cette question",
+        "Les revenus salariaux des expatriés sont expressément mentionnés"
+      ],
+      "explication": "L'article 7 alinéa 2 de la loi n°2023-002 dispose que les revenus salariaux, indemnités, honoraires et épargne des salariés expatriés peuvent être transférés librement à l'étranger sans autorisation préalable."
+    },
+    {
+      "question": "Madagascar a-t-il conclu des accords bilatéraux de protection des investissements (APPI) avec des partenaires étrangers ?",
+      "choix": [
+        "A. Non, Madagascar n'a conclu aucun accord bilatéral d'investissement",
+        "B. Oui, notamment avec la France, l'Allemagne, la Suisse, la Chine et Maurice",
+        "C. Uniquement avec les pays membres de la SADC",
+        "D. Uniquement avec les pays membres de l'Union Européenne"
+      ],
+      "reponse": "B",
+      "indices": [
+        "Ces accords garantissent des protections mutuelles aux investisseurs",
+        "Plusieurs partenaires d'origines géographiques variées sont concernés"
+      ],
+      "explication": "Madagascar a conclu de nombreux Accords Bilatéraux de Promotion et de Protection des Investissements (APPI/TBI) avec des partenaires variés, notamment la France, l'Allemagne, la Suisse, la Chine, Maurice et d'autres États. Ces accords complètent la protection offerte par la loi nationale."
+    },
+    {
+      "question": "Le droit malgache interdit-il les investissements de portefeuille à Madagascar ?",
+      "choix": [
+        "A. Oui, les investissements de portefeuille sont totalement interdits",
+        "B. Non, ils sont autorisés mais exclus du champ d'application de la loi n°2023-002",
+        "C. Oui, sauf pour les investisseurs disposant d'un APPI avec Madagascar",
+        "D. Non, ils bénéficient des mêmes protections que les investissements directs"
+      ],
+      "reponse": "B",
+      "indices": [
+        "La loi n°2023-002 porte uniquement sur les investissements directs",
+        "Les investissements de portefeuille ne sont pas interdits mais exclus de son champ"
+      ],
+      "explication": "Les investissements de portefeuille (moins de 10% du capital) ne sont pas interdits à Madagascar, mais ils sont expressément exclus de la définition d'investissement et du champ d'application de la loi n°2023-002. Ils relèvent d'autres cadres réglementaires, notamment la réglementation des changes."
+    },
+    {
+      "question": "Comment la loi n°2023-002 qualifie-t-elle le 'fanorenana ifotony' ?",
+      "choix": [
+        "A. C'est le nom malgache de l'EDBM",
+        "B. C'est l'objectif de reconstruction à la base et de développement inclusif de Madagascar",
+        "C. C'est la désignation du bail emphytéotique en malgache",
+        "D. C'est le nom donné à la clause de stabilité dans la loi"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'exposé des motifs emploie cette expression",
+        "Il s'agit d'une expression décrivant un objectif de développement national"
+      ],
+      "explication": "L'exposé des motifs de la loi n°2023-002 fait référence au 'fanorenana ifotony' comme objectif de développement national inclusif — une reconstruction à la base — que les investissements nationaux et étrangers doivent contribuer à réaliser."
+    },
+    {
+      "question": "La loi n°2023-002 s'applique-t-elle aux investisseurs nationaux malgaches ?",
+      "choix": [
+        "A. Non, elle ne régit que les investisseurs étrangers",
+        "B. Oui, elle s'applique à tous les investisseurs, nationaux comme étrangers",
+        "C. Seulement pour les dispositions relatives aux incitations fiscales",
+        "D. Oui, mais uniquement pour les investisseurs nationaux opérant à l'étranger"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 2 définit le champ d'application",
+        "Un des objectifs est d'aligner nationaux et étrangers"
+      ],
+      "explication": "L'article 2 de la loi n°2023-002 dispose qu'elle fixe le régime général applicable aux investissements directs réalisés à Madagascar par toutes personnes physiques ou morales, nationales ou étrangères. L'un des objectifs affichés est précisément d'aligner les droits des investisseurs nationaux sur ceux des investisseurs étrangers."
+    },
+    {
+      "question": "Quel organisme est rattaché directement à la Présidence de la République pour la promotion des investissements ?",
+      "choix": [
+        "A. La Chambre de Commerce, d'Industrie et d'Agriculture (CCIA)",
+        "B. Le Bureau de Liaison des Investissements (BLI)",
+        "C. L'EDBM (Economic Development Board of Madagascar)",
+        "D. L'Office National de l'Environnement (ONE)"
+      ],
+      "reponse": "C",
+      "indices": [
+        "C'est l'agence de promotion des investissements",
+        "Son rattachement à la Présidence lui confère des pouvoirs étendus"
+      ],
+      "explication": "L'EDBM (Economic Development Board of Madagascar) est rattaché directement à la Présidence de la République. Ce rattachement lui confère une autorité et une capacité d'action étendues, notamment pour délivrer des visas, faciliter les autorisations et promouvoir Madagascar comme destination d'investissement."
+    },
+    {
+      "question": "Qu'est-ce que la clause de 'la nation la plus favorisée' (NPF) dans le contexte des APPI ?",
+      "choix": [
+        "A. Une clause accordant à l'investisseur étranger un traitement supérieur aux nationaux",
+        "B. Une clause garantissant à l'investisseur étranger un traitement au moins aussi favorable que celui accordé aux investisseurs de tout autre État tiers",
+        "C. Une clause réservant l'investissement aux États membres de l'Union Africaine",
+        "D. Une disposition fiscale accordant un taux d'imposition préférentiel"
+      ],
+      "reponse": "B",
+      "indices": [
+        "C'est un standard classique du droit international des investissements",
+        "Elle vise à éviter la discrimination entre investisseurs de différentes nationalités"
+      ],
+      "explication": "La clause de la nation la plus favorisée (NPF) garantit à l'investisseur étranger un traitement au moins aussi favorable que celui accordé par le pays hôte à tout autre investisseur étranger de quelque État tiers que ce soit. Elle vise à prévenir toute discrimination entre investisseurs étrangers selon leur nationalité."
+    },
+    {
+      "question": "Les mesures de protection de l'environnement peuvent-elles constituer une expropriation indirecte selon la loi n°2023-002 ?",
+      "choix": [
+        "A. Oui, si elles réduisent de plus de 50% la valeur de l'investissement",
+        "B. Non, les mesures non discriminatoires de protection environnementale ne constituent pas une expropriation",
+        "C. Oui, elles donnent toujours droit à une indemnisation",
+        "D. Cela dépend uniquement de la décision du CIRDI"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 6 alinéa 4 crée une exception explicite",
+        "La protection de l'environnement est citée parmi les exceptions"
+      ],
+      "explication": "L'article 6 alinéa 4 de la loi n°2023-002 prévoit expressément que les mesures réglementaires non discriminatoires conçues et appliquées pour la protection légitime du bien-être public, notamment la protection de l'environnement, ne constituent pas une expropriation, même si elles affectent négativement la valeur économique d'un investissement."
+    },
+    {
+      "question": "Comment s'appelait l'organisme prédécesseur de l'EDBM à Madagascar ?",
+      "choix": [
+        "A. Le Guichet Unique des Investissements et de Développement des Entreprises (GUIDE)",
+        "B. L'Agence de Promotion des Investissements Étrangers (APIE)",
+        "C. La Direction des Investissements Directs (DID)",
+        "D. Le Centre de Facilitation des Procédures (CFP)"
+      ],
+      "reponse": "A",
+      "indices": [
+        "L'EDBM a succédé à cet organisme lors de la loi de 2007",
+        "Son acronyme évoquait la notion de 'guide'"
+      ],
+      "explication": "L'EDBM (Economic Development Board of Madagascar) a succédé au Guichet Unique des Investissements et de Développement des Entreprises (GUIDE), lors de l'adoption de la loi n°2007-036. L'EDBM a acquis une dimension plus large, notamment avec la capacité d'octroyer des visas et de délivrer des autorisations spécifiques."
+    },
+    {
+      "question": "Quelle est la durée maximale d'un bail emphytéotique accessible aux investisseurs étrangers à Madagascar ?",
+      "choix": [
+        "A. 30 ans",
+        "B. 50 ans",
+        "C. 75 ans",
+        "D. 99 ans"
+      ],
+      "reponse": "D",
+      "indices": [
+        "C'est la durée maximum prévue par la législation malgache",
+        "Ce bail est renouvelable"
+      ],
+      "explication": "Le bail emphytéotique peut être conclu pour une durée allant jusqu'à 99 ans à Madagascar, renouvelable, négociable et cessible. Cette durée quasi-perpétuelle le rend particulièrement adapté aux projets d'investissement à long terme nécessitant un accès stable au foncier."
+    },
+    {
+      "question": "La loi n°2023-002 prévoit-elle une procédure d'approbation préalable pour les investissements directs étrangers ?",
+      "choix": [
+        "A. Oui, une autorisation préalable du Conseil des Ministres est requise",
+        "B. Non, les investissements directs sont libres sans condition d'agrément ou d'autorisation préalable",
+        "C. Oui, pour les investissements dépassant un certain montant",
+        "D. Seulement pour les investissements dans des secteurs réglementés"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 7 alinéa 1 traite de ce point",
+        "La liberté est le principe, les restrictions l'exception"
+      ],
+      "explication": "L'article 7 alinéa 1 de la loi n°2023-002 dispose expressément que les apports en capital social dans le cadre des investissements directs étrangers sont libres et peuvent être effectués sans conditions d'agrément ou d'autorisation d'investissement préalables, dans le respect de la législation en vigueur."
+    },
+    {
+      "question": "Quel est le standard international appliqué par la loi n°2023-002 pour protéger les investisseurs contre les mesures étatiques arbitraires ?",
+      "choix": [
+        "A. Le standard de diligence raisonnable",
+        "B. Le traitement juste et équitable (TJE)",
+        "C. Le standard minimum coutumier international",
+        "D. La règle de l'État de droit formel"
+      ],
+      "reponse": "B",
+      "indices": [
+        "Ce standard est explicitement nommé à l'article 5",
+        "Il protège contre les mesures arbitraires, inéquitables ou discriminatoires"
+      ],
+      "explication": "L'article 5 de la loi n°2023-002 introduit expressément le standard du traitement juste et équitable (TJE), standard phare du droit international des investissements, protégeant les investissements réalisés à Madagascar contre les mesures étatiques arbitraires, manifestement inéquitables, injustes ou discriminatoires."
+    },
+    {
+      "question": "La loi n°2023-002 autorise-t-elle des exceptions à l'égalité de traitement entre investisseurs nationaux et étrangers ?",
+      "choix": [
+        "A. Non, l'égalité de traitement est absolue et sans exception",
+        "B. Oui, notamment les exceptions prévues par les lois sectorielles et les traités internationaux",
+        "C. Oui, mais uniquement pour favoriser les investisseurs étrangers",
+        "D. Seulement en période de crise économique nationale"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 4 prévoit expressément des réserves",
+        "Les lois sectorielles et les traités peuvent créer des distinctions"
+      ],
+      "explication": "L'article 4 de la loi n°2023-002 prévoit des réserves à l'égalité de traitement : les exceptions contenues dans les lois sectorielles, dans les accords ou traités bilatéraux, régionaux ou internationaux auxquels Madagascar est partie, ainsi que les réserves de l'article 3 (activités réservées aux nationaux) et de l'article 18 (accès foncier)."
+    },
+    {
+      "question": "Un investisseur étranger peut-il demander un examen judiciaire du montant de l'indemnité d'expropriation ?",
+      "choix": [
+        "A. Non, le montant fixé par l'administration est définitif et non contestable",
+        "B. Oui, il a le droit de faire procéder à l'examen de son cas par une autorité judiciaire ou indépendante",
+        "C. Seulement si l'investisseur dispose d'un APPI avec Madagascar",
+        "D. Oui, mais uniquement devant le CIRDI"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 6 alinéa 7 consacre ce droit",
+        "Une expertise préalable peut être ordonnée"
+      ],
+      "explication": "L'article 6 alinéa 7 de la loi n°2023-002 garantit à l'investisseur concerné par une expropriation le droit de faire procéder à l'examen de son cas et du montant de l'indemnité par une autorité judiciaire ou toute autre autorité indépendante et impartiale, qui peut ordonner une expertise préalable pour l'évaluation de l'indemnité."
+    },
+    {
+      "question": "Qu'est-ce que le CIRDI et en quelle année a été adoptée la Convention le créant ?",
+      "choix": [
+        "A. Centre International de Règlement des Investissements Directs, créé en 1975",
+        "B. Centre International pour le Règlement des Différends relatifs aux Investissements, créé en 1965",
+        "C. Commission Internationale de Régulation des Investissements Directs, créée en 1980",
+        "D. Centre International de Règlement des Investissements Directs, créé en 1994"
+      ],
+      "reponse": "B",
+      "indices": [
+        "La Convention a été adoptée à Washington",
+        "C'est une institution d'arbitrage international spécialisée dans les litiges État-investisseur"
+      ],
+      "explication": "Le CIRDI est le Centre International pour le Règlement des Différends relatifs aux Investissements, créé par la Convention de Washington adoptée en 1965. C'est l'institution d'arbitrage de référence pour les litiges entre États et investisseurs étrangers, dont Madagascar est État membre."
+    },
+    {
+      "question": "Quelles sont les deux lois successives ayant régi les investissements à Madagascar avant et après 2023 ?",
+      "choix": [
+        "A. Loi n°2000-021 et loi n°2015-006",
+        "B. Loi n°2007-036 du 14 janvier 2008 et loi n°2023-002 du 27 juillet 2023",
+        "C. Loi n°2003-038 et loi n°2023-002",
+        "D. Loi n°1999-021 et loi n°2007-036"
+      ],
+      "reponse": "B",
+      "indices": [
+        "La première loi a été en vigueur pendant environ 15 ans",
+        "La seconde est entrée en vigueur en 2023"
+      ],
+      "explication": "Le droit malgache des investissements a été successivement régi par la loi n°2007-036 du 14 janvier 2008, qui a constitué l'instrument de référence pendant environ 15 ans, puis par la loi n°2023-002 du 27 juillet 2023 qui l'a abrogée et remplacée pour moderniser le cadre juridique des investissements."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE N°1 — L'investissement minier bloqué\n\nLa société 'AsiaMineral Ltd', de droit singapourien, détient 65% des parts d'une société malgache dénommée 'Mines du Sud SARL', dont le siège est à Toliara. AsiaMineral Ltd a conclu un contrat de bail emphytéotique de 60 ans avec un propriétaire foncier local pour exploiter une zone aurifère dans le sud de Madagascar.\n\nSix mois après le début des opérations, le gouvernement malgache adopte un décret interdisant temporairement toute exploitation minière dans la région en raison d'une catastrophe écologique dans une zone voisine. Ce décret s'applique indistinctement à toutes les sociétés minières, quelle que soit leur nationalité.\n\nAsiaMineral Ltd saisit l'EDBM en réclamant une indemnisation pour 'expropriation indirecte' et, parallèlement, demande l'activation de la clause d'arbitrage CIRDI prévu dans l'APPI entre Singapour et Madagascar.\n\nQuestions :\n1. AsiaMineral Ltd est-elle un investisseur étranger au sens de la loi n°2023-002 ? Sur quel critère ?\n2. Le bail emphytéotique de 60 ans est-il valide ?\n3. Le décret gouvernemental constitue-t-il une expropriation indirecte au sens de la loi n°2023-002 ?\n4. La demande d'arbitrage CIRDI est-elle automatiquement recevable en vertu de la loi n°2023-002 ?",
+      "choix": [
+        "A. AsiaMineral est un investisseur national car la société Mines du Sud est de droit malgache ; le bail est valide ; le décret constitue une expropriation ; l'arbitrage est automatiquement ouvert",
+        "B. AsiaMineral est un investisseur étranger car elle contrôle Mines du Sud à 65% ; le bail de 60 ans est valide (dans la limite de 99 ans) ; le décret ne constitue probablement pas une expropriation indirecte car il est non discriminatoire et vise la protection de l'environnement ; l'arbitrage CIRDI nécessite le consentement au cas par cas de l'État",
+        "C. AsiaMineral est un investisseur étranger ; le bail de 60 ans est invalide car supérieur au maximum légal ; le décret constitue une expropriation indirecte ; l'arbitrage est automatique",
+        "D. AsiaMineral n'est pas concernée par la loi n°2023-002 car elle est de droit singapourien"
+      ],
+      "reponse": "B",
+      "indices": [
+        "Le critère de contrôle est la détention de plus de 50% des droits de vote",
+        "La durée maximale du bail emphytéotique est de 99 ans",
+        "L'article 6 alinéa 4 prévoit une exception pour les mesures environnementales non discriminatoires",
+        "L'article 27 conditionne l'arbitrage au consentement au cas par cas de l'État"
+      ],
+      "explication": "1. AsiaMineral Ltd est un investisseur étranger au sens de l'article 1er de la loi n°2023-002, car elle détient 65% des parts de Mines du Sud SARL, soit plus de la moitié des droits de vote, ce qui caractérise un contrôle étranger d'une personne morale de droit malgache. 2. Le bail emphytéotique de 60 ans est parfaitement valide, la durée maximale légale étant de 99 ans à Madagascar. 3. Le décret gouvernemental ne constitue probablement pas une expropriation indirecte, car l'article 6 alinéa 4 de la loi n°2023-002 prévoit expressément que les mesures réglementaires non discriminatoires prises pour la protection légitime de l'environnement ne constituent pas une expropriation — d'autant que le décret s'applique à toutes les sociétés minières sans discrimination. 4. L'arbitrage CIRDI n'est pas automatiquement ouvert : l'article 27 de la loi n°2023-002 a introduit une novation fondamentale en conditionnant le consentement de l'État à l'arbitrage à un accord au cas par cas, et non à un consentement général. AsiaMineral devra donc démontrer que l'État a donné son consentement dans l'APPI applicable ou dans le contrat d'investissement."
+    },
+    {
+      "question": "CAS PRATIQUE N°2 — L'installation d'un investisseur et le recrutement de personnel étranger\n\nMadame Zhang Wei, ressortissante chinoise, souhaite créer à Antananarivo une société de transformation de produits agricoles malgaches pour l'exportation vers la Chine. Elle envisage les montages suivants :\n- Créer une SARL de droit malgache dont elle détiendra 80% des parts ;\n- Nommer un ami français, M. Dupont, comme Directeur Général de la société sans qu'il soit actionnaire ;\n- Recruter 8 techniciens spécialisés chinois pour une équipe totale de 30 employés ;\n- Acheter un terrain de 2 hectares à Antananarivo pour construire son usine.\n\nQuestions :\n1. Quel visa Mme Zhang devra-t-elle obtenir ?\n2. Quel visa M. Dupont devra-t-il obtenir ?\n3. Le recrutement de 8 techniciens chinois sur 30 employés est-il conforme à la loi ?\n4. L'achat du terrain est-il possible pour la société ?",
+      "choix": [
+        "A. Visa investisseur pour Mme Zhang ; visa touristique pour M. Dupont ; le recrutement est illégal ; l'achat du terrain est possible",
+        "B. Visa investisseur pour Mme Zhang ; visa professionnel pour M. Dupont ; le recrutement de 8 techniciens sur 30 (26,6%) dépasse le plafond légal de 20% et est donc non conforme ; l'achat du terrain est impossible, seul le bail emphytéotique est accessible",
+        "C. Visa professionnel pour Mme Zhang ; visa investisseur pour M. Dupont ; le recrutement est conforme ; l'achat du terrain est possible avec autorisation de l'EDBM",
+        "D. Visa travailleur pour Mme Zhang ; visa professionnel pour M. Dupont ; le recrutement est conforme ; le bail emphytéotique est obligatoire"
+      ],
+      "reponse": "B",
+      "indices": [
+        "L'article 11 prévoit le visa pour les associés ou actionnaires",
+        "L'article 12 prévoit le visa pour les mandataires sociaux sans qualité d'actionnaire",
+        "L'article 13 fixe le plafond à 20% de l'ensemble des employés",
+        "La loi n°2023-002 interdit aux sociétés sous contrôle étranger l'acquisition directe de terrains"
+      ],
+      "explication": "1. Mme Zhang Wei doit obtenir un Visa Investisseur au sens de l'article 11 de la loi n°2023-002, car elle a la qualité d'associée détenant 80% des parts de la SARL malgache, ce qui la qualifie d'investisseur étranger (elle contrôle la société via plus de 50% des droits de vote). 2. M. Dupont doit obtenir un Visa Professionnel au sens de l'article 12, car il exerce un mandat social de Directeur Général dans une société locale sans avoir la qualité d'associé ou d'actionnaire. La durée de ce visa ne peut excéder celle de son mandat. 3. Le recrutement de 8 techniciens chinois sur un effectif total de 30 employés représente 26,6% de l'effectif, soit plus que le plafond légal de 20% fixé par l'article 13 de la loi n°2023-002. Ce recrutement n'est donc pas conforme à la loi en l'état. Mme Zhang devra réduire le nombre de techniciens étrangers à 6 maximum (20% de 30 = 6). 4. L'achat direct du terrain est impossible. La société de Mme Zhang est une société de droit malgache, mais elle est sous contrôle étranger (Mme Zhang détient 80% des parts). En vertu de la loi n°2023-002 qui a abrogé la disposition permissive de la loi de 2007, seul le bail emphytéotique d'une durée maximale de 99 ans est accessible aux sociétés sous contrôle étranger. La société devra donc conclure un bail emphytéotique avec le propriétaire du terrain."
+    }
+  ]
+    }
