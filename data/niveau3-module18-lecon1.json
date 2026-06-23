@@ -1,0 +1,960 @@
+{
+  "titre": "La déontologie des professions juridiques à Madagascar",
+  "module": "Module 18 (Niveau Avancé) — La déontologie des professions juridiques",
+  "niveau": "Avancé",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que la déontologie ? Notion et fonction",
+      "texte": "La déontologie d'une profession est l'ensemble des règles de conduite que ses membres doivent respecter dans l'exercice de leur activité, sous peine de sanctions disciplinaires prononcées par leurs pairs. Elle se distingue de la morale générale, qui s'adresse à tout individu sans considération de profession, et du droit pénal ou civil, qui sanctionne des comportements par l'intervention des tribunaux ordinaires. La déontologie est une discipline propre à chaque profession, élaborée le plus souvent par l'organisation professionnelle elle-même (un ordre, une chambre), et sanctionnée par une instance interne à cette profession. Pour les professions juridiques — avocats, notaires, huissiers de justice, magistrats — la déontologie revêt une importance toute particulière : ces professionnels sont au contact direct du fonctionnement de la justice, manient parfois des fonds appartenant à des tiers, et détiennent des informations confidentielles sur la vie privée ou les affaires de leurs clients. Une faute déontologique, même si elle ne constitue ni une infraction pénale ni une faute civile, peut suffire à elle seule à engager la responsabilité disciplinaire du professionnel concerné, et peut conduire jusqu'à son exclusion de la profession.",
+      "definition": "Déontologie : ensemble des règles de conduite professionnelle dont la méconnaissance engage la responsabilité disciplinaire d'un professionnel devant une instance propre à sa profession. Elle se distingue de la morale générale (qui s'adresse à tous) et du droit pénal ou civil (sanctionné par les tribunaux ordinaires). Une faute purement déontologique peut suffire à elle seule à justifier une sanction disciplinaire."
+    },
+    {
+      "titre": "Les principes essentiels de la déontologie de l'avocat malgache",
+      "texte": "Le Règlement Intérieur du Barreau de Madagascar, adopté le 23 novembre 1986 en application de la loi n° 67-024 du 23 novembre 1967, ouvre son texte par une affirmation forte : l'avocat est un partenaire de justice dans la mission d'assurer la plénitude et l'inviolabilité des droits de la défense, à quelque degré que ce soit. À partir de cette mission, le Règlement énonce les principes essentiels qui guident la conduite de tout avocat malgache : la dignité, l'honneur, la probité, la loyauté et la délicatesse sont pour l'avocat d'impérieux devoirs, de même que la modération, la courtoisie et le tact. Le texte précise une conséquence capitale : la méconnaissance de ces principes constitue, à elle seule, une faute professionnelle — il n'est donc pas nécessaire qu'un texte spécifique soit violé pour qu'une sanction disciplinaire soit encourue ; un simple manquement à la dignité ou à la délicatesse peut suffire. Ces principes ne sont pas de vagues recommandations morales : ils ont une portée juridique contraignante, reconnue et sanctionnée par le Conseil de l'Ordre lui-même.",
+      "definition": "Principes essentiels de la déontologie de l'avocat (article 1 du Règlement Intérieur du Barreau de Madagascar, 1986) : dignité, honneur, probité, loyauté, délicatesse, modération, courtoisie et tact. La méconnaissance de ces principes constitue, à elle seule, une faute professionnelle disciplinairement sanctionnable, sans qu'il soit nécessaire de violer une règle plus spécifique."
+    },
+    {
+      "titre": "L'accès à la profession d'avocat : conditions et serment",
+      "texte": "L'accès au Barreau de Madagascar est strictement encadré. Pour être admis, il faut être âgé de vingt et un ans au moins et de trente-six ans au plus, être titulaire au moins de la licence en droit, et détenir le certificat d'aptitude à la profession judiciaire (filière avocat) ou le certificat d'aptitude à la profession d'avocat. Deux exceptions notables à la limite d'âge existent : les anciens magistrats et les professeurs agrégés de droit peuvent être admis au Barreau sans limite d'âge. Une règle protectrice complète ce dispositif : les fonctionnaires retraités ne peuvent, pendant les deux années qui suivent la rupture de leur lien avec la fonction publique, exercer la profession d'avocat dans le ressort de la juridiction où ils ont exercé en dernier leurs fonctions — cette règle vise à éviter qu'un ancien fonctionnaire ne tire un avantage indu de ses relations passées dans sa nouvelle activité d'avocat. Le candidat retenu pour le stage doit également justifier de sa nationalité malgache depuis plus de cinq ans, ou de la nationalité d'un État accordant la réciprocité aux ressortissants malgaches. Au terme de la procédure, le postulant prête serment devant la Cour d'Appel, sur présentation du bâtonnier — c'est cette prestation de serment qui fait définitivement de lui un avocat.",
+      "definition": "Conditions d'admission au Barreau de Madagascar : 21 à 36 ans (sans limite pour les anciens magistrats et professeurs agrégés de droit), licence en droit, certificat d'aptitude à la profession judiciaire (filière avocat) ou certificat d'aptitude à la profession d'avocat, nationalité malgache depuis plus de 5 ans. Les fonctionnaires retraités ne peuvent exercer pendant 2 ans dans le ressort où ils ont exercé en dernier. Le serment est prêté devant la Cour d'Appel.",
+      "exemple": "Un ancien juge du Tribunal de Première Instance d'Antsiranana prend sa retraite et souhaite devenir avocat dans la même ville. Il devra attendre deux années avant de pouvoir exercer dans le ressort de cette juridiction, précisément pour éviter qu'il ne profite des relations qu'il y avait nouées en tant que magistrat."
+    },
+    {
+      "titre": "Le secret professionnel de l'avocat",
+      "texte": "Parmi tous les devoirs de l'avocat, le secret professionnel occupe une place à part. Le Règlement Intérieur dispose que l'avocat est tenu au secret professionnel absolu, en vertu tant de la tradition constante du Barreau que des dispositions législatives. Ce caractère absolu signifie que le secret ne connaît, en principe, aucune exception : l'avocat ne peut ni livrer à une tierce personne les pièces qui lui ont été confiées par son client, ni fournir, pour ou contre ses clients ou contre des adversaires, un témoignage quelconque sur ce qu'il a appris dans l'exercice de sa profession. Une précision importante du texte malgache étend ce secret au-delà du simple contenu des dossiers : le secret professionnel s'applique également aux maniements de fonds — l'avocat ne peut donc pas davantage révéler les informations financières dont il a connaissance dans le cadre de son ministère. Ce secret est la condition même de la confiance que le client doit pouvoir accorder à son avocat : sans cette garantie d'absolue confidentialité, un client ne pourrait jamais révéler à son conseil l'ensemble des faits, même les plus compromettants, nécessaires à l'organisation de sa défense.",
+      "definition": "Secret professionnel de l'avocat : obligation absolue, fondée sur la tradition du Barreau et sur la loi, interdisant à l'avocat de livrer à un tiers les pièces confiées par son client ou de témoigner pour ou contre son client ou un adversaire. Ce secret s'applique également aux maniements de fonds dont l'avocat a connaissance dans l'exercice de son ministère.",
+      "exemple": "Un avocat est appelé à témoigner dans une procédure concernant un ancien client, sur des faits dont il n'a eu connaissance qu'à l'occasion de la défense qu'il avait assurée pour ce client. Le secret professionnel absolu lui interdit de révéler ces informations, quelle que soit l'insistance de la juridiction ou des parties qui solliciteraient son témoignage."
+    },
+    {
+      "titre": "Les conflits d'intérêts et les incompatibilités",
+      "texte": "Le Règlement Intérieur prévoit plusieurs règles destinées à prévenir les conflits d'intérêts. La règle la plus générale interdit à l'avocat qui a accepté d'occuper pour une partie de se charger, dans la même affaire, des intérêts de la partie adverse — l'avocat ne peut jamais servir deux maîtres dans un même litige. Une règle plus spécifique, liée à la sphère familiale, interdit à l'avocat de se constituer ou de plaider dans des dossiers qui ont été traités, à quelque titre que ce soit, par un parent ou un allié jusqu'au troisième degré — cette interdiction vise à éviter toute apparence de partialité liée aux liens familiaux. Si l'avocat se trouve dans une situation familiale susceptible d'entraîner une confusion entre l'exercice de sa profession et la situation d'un membre de sa famille, il doit en aviser le bâtonnier, qui peut intervenir même d'office pour y mettre fin. Par ailleurs, l'exercice de la profession d'avocat est incompatible avec toute occupation de nature à porter atteinte à l'indépendance, à la dignité de l'avocat ou au caractère libéral de la profession. Des règles particulières encadrent enfin la situation de l'avocat investi d'une fonction publique : celui qui devient membre du Gouvernement doit s'abstenir d'exercer la profession sous quelque forme que ce soit pendant la durée de ses fonctions ; celui qui est titulaire d'un mandat public électif ne peut accomplir aucun acte de sa profession contre la collectivité décentralisée qui l'a élu.",
+      "definition": "Conflits d'intérêts et incompatibilités de l'avocat : interdiction de représenter les intérêts opposés dans une même affaire ; interdiction de se constituer dans un dossier déjà traité par un parent ou allié jusqu'au troisième degré ; incompatibilité générale avec toute occupation menaçant l'indépendance ou la dignité de la profession ; abstention totale d'exercice pour l'avocat devenu membre du Gouvernement ; interdiction d'agir contre la collectivité décentralisée qui l'a élu pour l'avocat titulaire d'un mandat électif.",
+      "exemple": "Hery, avocat, a déjà conseillé Faly dans un litige commercial. Quelques mois plus tard, l'adversaire de Faly dans cette même affaire souhaite engager Hery comme avocat. Hery doit refuser : il ne peut, dans la même affaire, se charger des intérêts de la partie qu'il a déjà eu l'occasion de conseiller, même indirectement, contre celle qu'il représentait initialement."
+    },
+    {
+      "titre": "Le maniement des fonds : le compte « ETUDE »",
+      "texte": "L'une des règles les plus précises et les plus rigoureusement sanctionnées du Règlement Intérieur concerne le maniement des fonds appartenant à des tiers. Il est formellement interdit aux avocats de conserver chez eux des fonds appartenant à des tiers. Ils doivent se faire ouvrir, dans une banque, un compte spécialement affecté aux sommes revenant à des tiers, et ils doivent y déposer, dans les dix jours suivant leur encaissement, toutes les sommes perçues pour le compte d'un tiers dépassant un montant déterminé et qui n'auraient pas encore été réglées à l'intéressé. Ce compte, qui doit porter le nom de l'avocat suivi de la mention « ETUDE », ne doit jamais mélanger les fonds des tiers avec les fonds personnels de l'avocat, et son solde créditeur doit toujours être au moins égal à la totalité des sommes dues aux tiers. Le bâtonnier dispose à tout moment du pouvoir d'exiger la production de ce compte par tout avocat du Barreau. Si un avocat, mis en demeure par le bâtonnier de verser en banque des fonds qu'il a conservés à tort, ne s'exécute pas dans un délai de quarante-huit heures, il est déféré devant le conseil de discipline. En cas de réclamation pécuniaire contre un avocat, le bâtonnier peut exiger une attestation bancaire certifiée du solde du compte ETUDE ; le refus de la présenter dans un délai de huit jours donne lieu à des poursuites disciplinaires.",
+      "definition": "Compte « ETUDE » : compte bancaire spécial, distinct du patrimoine personnel de l'avocat, obligatoire pour tout fonds reçu pour le compte d'un tiers, à alimenter dans les dix jours de l'encaissement et dont le solde créditeur doit toujours couvrir la totalité des sommes dues aux tiers. Le bâtonnier peut en exiger la production à tout moment. Le non-versement des fonds malgré une mise en demeure de 48 heures, ou le refus de présenter une attestation bancaire dans un délai de 8 jours, expose l'avocat à des poursuites disciplinaires.",
+      "exemple": "Un avocat encaisse, pour le compte d'un client, une somme issue d'un règlement amiable, mais tarde à la lui reverser et la conserve sur son compte personnel. Le bâtonnier, alerté, le met en demeure de verser cette somme sur le compte ETUDE dans les quarante-huit heures. Si l'avocat ne s'exécute pas dans ce délai, il sera déféré devant le conseil de discipline."
+    },
+    {
+      "titre": "Les honoraires de l'avocat",
+      "texte": "Le Règlement Intérieur encadre également la question délicate des honoraires. Les avocats doivent, autant que possible, exiger le paiement d'avance d'une provision correspondant au montant prévisible de leurs honoraires et des frais qu'ils seront appelés à exposer. Mais une règle fondamentale limite la liberté contractuelle en la matière : la quotité ou le règlement des honoraires ne peuvent être subordonnés au résultat de l'affaire. Cette interdiction du pacte purement aléatoire — fixer une rémunération uniquement en cas de succès — protège à la fois le client (qui ne doit pas être incité à accepter des honoraires démesurés en cas de victoire) et l'indépendance de l'avocat (qui ne doit pas avoir un intérêt financier personnel disproportionné dans l'issue du litige). Il est par ailleurs interdit à l'avocat de se faire souscrire un billet par son client pour garantir le paiement de ses honoraires. En cas de désaccord sur le montant des honoraires, c'est le bâtonnier qui intervient : il tente d'abord une conciliation entre l'avocat et son client ; à défaut d'accord, il fixe lui-même ce qu'il estime être dû, et autorise l'avocat à recourir à la justice pour en obtenir le recouvrement. Ce rôle d'arbitrage du bâtonnier illustre une nouvelle fois le principe d'autorégulation propre aux professions juridiques : c'est l'Ordre lui-même, et non un tribunal extérieur en première intention, qui règle les différends internes à la profession.",
+      "definition": "Honoraires de l'avocat : la provision préalable est encouragée, mais la quotité ou le règlement des honoraires ne peuvent jamais être subordonnés au résultat de l'affaire (interdiction du pacte purement aléatoire). Interdiction de se faire souscrire un billet par le client pour garantir le paiement. En cas de désaccord, le bâtonnier tente la conciliation puis fixe lui-même, à défaut d'accord, le montant dû et autorise le recours à la justice pour son recouvrement.",
+      "exemple": "Un avocat propose à son client de ne facturer ses honoraires que si le procès est gagné, et à un taux proportionnel au montant obtenu. Cet accord est contraire au Règlement Intérieur : la quotité des honoraires ne peut jamais être subordonnée au résultat de l'affaire. Si un désaccord survient ensuite sur le montant dû, le client ou l'avocat devra saisir le bâtonnier, qui tentera une conciliation avant, le cas échéant, de fixer lui-même le montant des honoraires."
+    },
+    {
+      "titre": "La discipline professionnelle : le conseil de l'Ordre",
+      "texte": "Le conseil de l'Ordre, présidé par le bâtonnier, a juridiction disciplinaire sur tous les membres du Barreau. Les avocats lui sont déférés, selon les cas, d'office par le bâtonnier, sur plainte ou dénonciation, ou à la demande du procureur général. La procédure suit plusieurs étapes précises. Le conseil charge d'abord un de ses membres de procéder à une enquête et d'en faire rapport ; sur cette base, le conseil décide soit le classement sans suite, soit l'engagement de poursuites disciplinaires. Si la poursuite est décidée, le conseil articule précisément les faits reprochés et fixe la date de comparution de l'avocat mis en cause, qui est cité par lettre recommandée avec accusé de réception ; il doit être entendu ou appelé dans le délai d'un mois suivant cette citation, et peut consulter le dossier ainsi que présenter tout mémoire en défense. L'audience disciplinaire se déroule à huis clos : le bâtonnier interroge l'avocat, qui est entendu en ses explications, ainsi que son conseil le cas échéant. La délibération est prise à la majorité, chaque membre du conseil donnant son avis en commençant par le plus récemment inscrit au tableau et en terminant par le bâtonnier lui-même — un ordre qui évite que l'avis du bâtonnier, par son autorité, n'influence prématurément celui des membres les plus jeunes. Les décisions disciplinaires sont exécutoires nonobstant toutes voies de recours : leur exécution n'est pas suspendue par un éventuel appel.",
+      "definition": "Discipline professionnelle des avocats : juridiction disciplinaire exercée par le conseil de l'Ordre, saisi d'office par le bâtonnier, sur plainte, ou à la demande du procureur général. Procédure : enquête préalable, citation par lettre recommandée, comparution dans le délai d'un mois, audience à huis clos, délibération à la majorité (vote du plus récemment inscrit au bâtonnier en dernier). Les décisions sont exécutoires nonobstant tout recours.",
+      "exemple": "Un client dépose une plainte auprès du bâtonnier contre son avocat, qu'il accuse d'avoir gardé indûment des fonds lui appartenant. Le bâtonnier saisit le conseil de l'Ordre, qui charge un de ses membres d'enquêter. Si l'enquête confirme les faits, le conseil engage des poursuites : l'avocat est cité par lettre recommandée et devra être entendu dans le délai d'un mois, lors d'une audience disciplinaire à huis clos."
+    },
+    {
+      "titre": "L'avocat commis d'office et les devoirs envers les confrères",
+      "texte": "La désignation de l'avocat commis d'office est effectuée par le bâtonnier, sauf disposition légale contraire. L'avocat régulièrement commis d'office ne peut refuser son ministère sans faire approuver ses motifs d'empêchement par le bâtonnier — la défense des justiciables les plus démunis ne saurait dépendre du seul bon vouloir de chaque avocat. Une règle protège particulièrement le justiciable bénéficiant de cette commission d'office : l'avocat commis d'office ne peut en aucun cas réclamer, directement ou indirectement, des honoraires à son client ; si des honoraires lui sont spontanément offerts, il peut les accepter, mais à charge d'en aviser immédiatement le bâtonnier. Au-delà de cette mission envers les justiciables, le Règlement Intérieur impose des devoirs de courtoisie entre confrères : les relations entre avocats doivent toujours être empreintes de courtoisie, les plus anciens devant être bienveillants envers les plus jeunes, et les plus jeunes devant en toute circonstance être déférents envers les plus anciens. Une règle procédurale importante en découle : avant tout dépôt de plainte ou toute introduction d'instance contre un confrère ou un magistrat, l'avocat doit, dans tous les cas, en référer préalablement au bâtonnier et obtenir son autorisation — cette règle protège à la fois la sérénité des rapports professionnels et l'autorité de l'institution qu'est le Barreau.",
+      "definition": "Commission d'office : désignation par le bâtonnier, refus possible seulement après accord du bâtonnier sur les motifs d'empêchement ; interdiction de réclamer des honoraires au client, sous réserve d'accepter une offre spontanée à charge d'en informer le bâtonnier. Devoirs confraternels : courtoisie systématique entre confrères, autorisation préalable du bâtonnier obligatoire avant toute plainte ou instance contre un confrère ou un magistrat.",
+      "exemple": "Un avocat commis d'office pour défendre un prévenu sans ressources souhaite, à l'issue de l'affaire, lui réclamer des honoraires pour le travail effectué. Cette demande est interdite par le Règlement Intérieur : l'avocat commis d'office ne peut en aucun cas réclamer des honoraires, sauf si le client les lui offre spontanément, ce dont il devra alors immédiatement informer le bâtonnier."
+    },
+    {
+      "titre": "La déontologie du notaire",
+      "texte": "Le notaire est défini par la loi n° 2007-026 du 12 décembre 2007 portant statut du notariat à Madagascar comme un officier public institué pour recevoir les actes auxquels les parties doivent ou veulent conférer le caractère d'authenticité attaché aux actes de l'autorité publique, pour en assurer la date, en conserver le dépôt, et pour en délivrer grosses et expéditions. Il agit aussi comme conseiller des personnes qui font appel à son ministère, tout en exerçant à titre libéral. Cette double qualité — officier public investi d'une délégation de l'autorité publique, et professionnel libéral conseillant ses clients — structure l'ensemble de la déontologie notariale. En tant qu'officier public, le notaire doit faire preuve d'une impartialité rigoureuse : il ne représente aucune des parties à l'acte qu'il authentifie, mais garantit à chacune d'elles l'égale information et l'égale protection de leurs intérêts respectifs — c'est ce qui distingue fondamentalement sa fonction de celle de l'avocat, qui défend les intérêts particuliers d'une seule partie. En tant que dépositaire des minutes des actes qu'il reçoit, le notaire engage sa responsabilité professionnelle pour leur conservation, leur authenticité et la délivrance régulière des copies. Le manquement à ces obligations expose le notaire à des sanctions disciplinaires propres à sa profession, distinctes des éventuelles sanctions civiles ou pénales.",
+      "definition": "Notaire (article 3 de la loi n° 2007-026 du 12 décembre 2007) : officier public chargé de recevoir les actes auxquels les parties confèrent l'authenticité, d'en assurer la date, d'en conserver le dépôt et d'en délivrer copies, et agissant également comme conseiller des parties, en exerçant à titre libéral. Sa déontologie repose sur l'impartialité envers toutes les parties à l'acte et sur la responsabilité de la conservation et de l'authenticité des actes reçus.",
+      "exemple": "Un couple souhaite faire authentifier un contrat de mariage devant notaire. Contrairement à un avocat qui ne défendrait les intérêts que d'un seul des deux futurs époux, le notaire doit veiller à l'égale information et à l'égale protection des intérêts des deux parties, conformément à son impartialité d'officier public."
+    },
+    {
+      "titre": "La déontologie de l'huissier de justice",
+      "texte": "L'huissier de justice est défini par l'article premier de la loi n° 2005-034 du 20 février 2006 portant statut de la profession d'huissiers de justice et commissaires-priseurs de Madagascar comme un officier ministériel chargé de la signification des actes judiciaires et extrajudiciaires, de l'exécution forcée des décisions judiciaires et des actes notariés, ainsi que du service intérieur des cours et tribunaux en tant qu'huissier audiencier. Les huissiers de justice malgaches sont réunis au sein de la Chambre Nationale des Huissiers de Justice de Madagascar, organisation professionnelle qui veille au respect de leur déontologie. La fonction de l'huissier exige une exactitude scrupuleuse : une signification mal exécutée, une date erronée sur un acte, ou un défaut de respect des formes légales peuvent rendre nulles des procédures entières, au préjudice direct des parties au litige. La déontologie de l'huissier impose également une probité rigoureuse dans l'exécution forcée des décisions de justice : il manie souvent des sommes saisies au profit de créanciers, et doit, comme l'avocat, en assurer une gestion irréprochable et transparente. L'huissier doit en outre faire preuve de mesure et de dignité dans l'exercice de ses fonctions, notamment lors des opérations de saisie, qui touchent souvent des personnes en situation de grande vulnérabilité économique.",
+      "definition": "Huissier de justice (article 1 de la loi n° 2005-034 du 20 février 2006) : officier ministériel chargé de la signification des actes judiciaires et extrajudiciaires, de l'exécution forcée des décisions judiciaires et des actes notariés, et du service intérieur des cours et tribunaux comme huissier audiencier. Réunis au sein de la Chambre Nationale des Huissiers de Justice de Madagascar, leur déontologie exige exactitude rigoureuse dans les formes procédurales et probité dans la gestion des fonds issus des exécutions forcées.",
+      "exemple": "Un huissier chargé de signifier un jugement à une partie doit respecter scrupuleusement les formes légales de cette signification : toute erreur sur l'identité du destinataire, la date ou le lieu de remise de l'acte peut entraîner la nullité de la signification, retardant ainsi l'exécution du jugement au détriment du créancier qui l'avait mandaté."
+    },
+    {
+      "titre": "La déontologie du magistrat",
+      "texte": "Le magistrat occupe une position singulière parmi les professionnels du droit : il n'est pas un professionnel libéral mais un fonctionnaire de l'État, agissant en son nom et pour son compte. Sa déontologie repose avant tout sur le principe d'indépendance, consacré par la Constitution elle-même : dans l'exercice de ses fonctions juridictionnelles, le magistrat du siège n'est soumis qu'à la Constitution et à la loi. Cette indépendance a pour corollaire un devoir d'impartialité absolue : le magistrat doit trancher les litiges sans préjugé ni intérêt personnel, et peut être récusé par une partie s'il existe des raisons objectives de douter de sa neutralité. Le magistrat est également soumis à un devoir de réserve, qui limite ses prises de position publiques susceptibles de compromettre l'image d'impartialité de la justice. Une obligation particulière pèse sur lui : il ne peut jamais refuser de juger un différend qui lui est soumis, sous quelque prétexte que ce soit — un tel refus constituerait un déni de justice. Le Conseil Supérieur de la Magistrature est l'organe chargé de garantir le respect de ces obligations déontologiques : il gère la carrière des magistrats, veille à l'application de leur statut, et constitue l'organe disciplinaire du corps de la magistrature, habilité à sanctionner tout manquement de ses membres à leurs devoirs professionnels.",
+      "definition": "Déontologie du magistrat : fondée sur l'indépendance (soumission uniquement à la Constitution et à la loi dans l'exercice des fonctions juridictionnelles), l'impartialité (récusation possible en cas de doute objectif), le devoir de réserve, et l'interdiction du déni de justice. Le Conseil Supérieur de la Magistrature est l'organe disciplinaire chargé de sanctionner les manquements des magistrats à ces obligations."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Comment peut-on définir la déontologie d'une profession ?",
+      "choix": [
+        "Un simple code de bonnes manières sans aucune portée juridique",
+        "L'ensemble des règles de conduite professionnelle dont la méconnaissance engage la responsabilité disciplinaire d'un professionnel devant une instance propre à sa profession",
+        "L'ensemble des lois pénales applicables à une profession",
+        "Un règlement intérieur d'entreprise sans valeur contraignante"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La déontologie a une portée juridique réelle, sanctionnée par une instance propre.",
+        "Elle se distingue de la morale générale et du droit pénal ou civil.",
+        "La sanction encourue est disciplinaire, et non pénale ou civile au sens strict."
+      ],
+      "explication": "La déontologie d'une profession est l'ensemble des règles de conduite que ses membres doivent respecter dans l'exercice de leur activité, sous peine de sanctions disciplinaires prononcées par leurs pairs, devant une instance propre à la profession concernée."
+    },
+    {
+      "question": "En quoi la déontologie se distingue-t-elle de la morale générale ?",
+      "choix": [
+        "Il n'existe aucune différence entre ces deux notions",
+        "La déontologie est propre à une profession déterminée et sanctionnée par une instance professionnelle, alors que la morale générale s'adresse à tout individu sans considération de profession",
+        "La morale générale est toujours plus contraignante que la déontologie",
+        "La déontologie ne concerne que les professions commerciales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La déontologie est élaborée et sanctionnée par l'organisation professionnelle elle-même.",
+        "La morale générale, elle, ne dépend pas de l'exercice d'une profession particulière.",
+        "Ce sont deux registres normatifs distincts, même s'ils peuvent parfois converger."
+      ],
+      "explication": "La déontologie est propre à une profession déterminée, élaborée le plus souvent par l'organisation professionnelle elle-même et sanctionnée par une instance interne à cette profession. La morale générale, en revanche, s'adresse à tout individu, indépendamment de l'exercice d'une profession particulière."
+    },
+    {
+      "question": "Une faute purement déontologique, sans constituer une infraction pénale ni une faute civile, peut-elle suffire à justifier une sanction ?",
+      "choix": [
+        "Non, il faut toujours qu'une infraction pénale soit également constituée",
+        "Oui, une faute purement déontologique peut suffire à elle seule à justifier une sanction disciplinaire",
+        "Non, la déontologie n'a aucune force contraignante propre",
+        "Oui, mais uniquement si le client porte plainte au pénal en parallèle"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La déontologie a une force contraignante autonome, indépendante du droit pénal ou civil.",
+        "Une sanction disciplinaire peut être prononcée même en l'absence de toute infraction pénale.",
+        "C'est précisément ce qui caractérise l'autonomie de la discipline professionnelle."
+      ],
+      "explication": "Oui, une faute purement déontologique peut suffire à elle seule à engager la responsabilité disciplinaire d'un professionnel, même si elle ne constitue ni une infraction pénale ni une faute civile au sens strict. Cette faute peut conduire jusqu'à l'exclusion de la profession."
+    },
+    {
+      "question": "Quel texte fonde le Règlement Intérieur du Barreau de Madagascar, adopté le 23 novembre 1986 ?",
+      "choix": [
+        "La loi n° 67-024 du 23 novembre 1967",
+        "La Constitution de la IVe République de 2010",
+        "La loi n° 2003-036 sur les sociétés commerciales",
+        "Le Code civil malgache"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Cette loi date de la même journée (23 novembre), mais dix-neuf ans plus tôt.",
+        "Elle constitue le fondement légal de l'organisation de la profession d'avocat à Madagascar.",
+        "Le Règlement Intérieur en est l'application réglementaire."
+      ],
+      "explication": "Le Règlement Intérieur du Barreau de Madagascar, adopté le 23 novembre 1986, est pris en application de la loi n° 67-024 du 23 novembre 1967, qui constitue le texte légal fondateur de l'organisation de la profession d'avocat à Madagascar."
+    },
+    {
+      "question": "Quelle mission le Règlement Intérieur attribue-t-il à l'avocat, dès son article premier ?",
+      "choix": [
+        "Représenter exclusivement les intérêts financiers de ses clients",
+        "Être un partenaire de justice dans la mission d'assurer la plénitude et l'inviolabilité des droits de la défense, à quelque degré que ce soit",
+        "Concurrencer les magistrats dans l'exercice de la justice",
+        "Remplacer les huissiers de justice dans l'exécution des décisions"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette mission inscrit l'avocat dans le fonctionnement même de la justice.",
+        "Elle concerne spécifiquement les droits de la défense.",
+        "Cette plénitude s'applique à tous les degrés de juridiction."
+      ],
+      "explication": "Le Règlement Intérieur affirme, dès son article premier, que l'avocat est un partenaire de justice dans la mission d'assurer la plénitude et l'inviolabilité des droits de la défense, à quelque degré que ce soit — une mission qui place l'avocat au cœur même du bon fonctionnement de la justice."
+    },
+    {
+      "question": "Quels sont les principes essentiels de la déontologie de l'avocat énoncés à l'article 1 du Règlement Intérieur du Barreau de Madagascar ?",
+      "choix": [
+        "La rentabilité, l'efficacité et la rapidité",
+        "La dignité, l'honneur, la probité, la loyauté, la délicatesse, la modération, la courtoisie et le tact",
+        "La richesse, le prestige et la notoriété",
+        "L'obéissance, la discipline militaire et la hiérarchie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces principes sont qualifiés d'impérieux devoirs pour l'avocat.",
+        "Ils couvrent à la fois des qualités morales et des qualités de comportement.",
+        "Leur méconnaissance constitue à elle seule une faute professionnelle."
+      ],
+      "explication": "L'article 1 du Règlement Intérieur du Barreau de Madagascar énonce comme principes essentiels de la déontologie : la dignité, l'honneur, la probité, la loyauté et la délicatesse, ainsi que la modération, la courtoisie et le tact. La méconnaissance de ces principes constitue à elle seule une faute professionnelle."
+    },
+    {
+      "question": "Pourquoi le Règlement Intérieur précise-t-il que la méconnaissance des principes essentiels constitue « à elle seule » une faute professionnelle ?",
+      "choix": [
+        "Parce qu'il faut toujours cumuler plusieurs violations pour qu'une faute soit reconnue",
+        "Parce qu'il n'est pas nécessaire de violer un texte plus spécifique : un simple manquement à la dignité ou à la délicatesse peut suffire à constituer une faute disciplinaire",
+        "Parce que cette précision n'a aucune conséquence pratique",
+        "Parce que ces principes ne sont que des recommandations facultatives"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette précision donne une portée juridique contraignante directe aux principes essentiels.",
+        "Un avocat peut être sanctionné même sans violation d'une règle plus précise.",
+        "C'est ce qui distingue ces principes d'une simple déclaration d'intention."
+      ],
+      "explication": "Cette précision signifie qu'il n'est pas nécessaire qu'un texte spécifique soit violé pour qu'une sanction disciplinaire soit encourue : un simple manquement à la dignité, à l'honneur ou à la délicatesse peut suffire à lui seul à constituer une faute professionnelle, sans qu'il soit besoin de caractériser la violation d'une règle plus précise."
+    },
+    {
+      "question": "Quelles sont les conditions d'âge pour être admis au Barreau de Madagascar, selon le Règlement Intérieur ?",
+      "choix": [
+        "Aucune condition d'âge n'est exigée",
+        "Être âgé de 21 ans au moins et de 36 ans au plus, sauf exceptions",
+        "Être âgé de 25 ans au moins et de 50 ans au plus, sans exception",
+        "Être âgé de 18 ans au moins, sans limite supérieure"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette fourchette d'âge est précisément encadrée par l'article 6 du Règlement Intérieur.",
+        "Deux catégories de personnes échappent à la limite supérieure.",
+        "La limite inférieure correspond généralement à la fin des études supérieures de droit."
+      ],
+      "explication": "Selon l'article 6 du Règlement Intérieur, ne peuvent être admis au Barreau de Madagascar que les personnes âgées de 21 ans au moins et de 36 ans au plus, sous réserve des exceptions prévues pour les anciens magistrats et les professeurs agrégés de droit."
+    },
+    {
+      "question": "Quelles catégories de personnes peuvent être admises au Barreau sans limite d'âge ?",
+      "choix": [
+        "Les anciens magistrats et les professeurs agrégés de droit",
+        "Les anciens fonctionnaires de tout ministère, sans distinction",
+        "Toute personne ayant exercé une profession libérale quelconque",
+        "Les anciens députés et sénateurs"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Ces deux catégories ont une expertise juridique déjà reconnue.",
+        "Leur expérience antérieure justifie cette dérogation à la limite d'âge.",
+        "Cette exception est expressément prévue par l'article 6 du Règlement Intérieur."
+      ],
+      "explication": "Les anciens magistrats et les professeurs agrégés de droit peuvent être admis au Barreau de Madagascar sans limite d'âge, en raison de leur expertise juridique déjà établie dans l'exercice de leurs fonctions antérieures."
+    },
+    {
+      "question": "Pendant combien de temps un fonctionnaire retraité ne peut-il pas exercer la profession d'avocat dans le ressort de la juridiction où il a exercé en dernier ses fonctions ?",
+      "choix": [
+        "Pendant six mois",
+        "Pendant deux années",
+        "Pendant cinq années",
+        "Pendant toute sa vie"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette restriction temporelle vise à éviter un avantage indu tiré des relations passées.",
+        "Le délai se compte en années, et non en mois.",
+        "Cette règle est limitée géographiquement au ressort de la dernière juridiction d'exercice."
+      ],
+      "explication": "Les fonctionnaires retraités ne peuvent, pendant les deux années qui suivent la rupture de leur lien avec la fonction publique, exercer la profession d'avocat dans le ressort de la juridiction de la localité où ils ont exercé en dernier leurs fonctions. Cette règle vise à éviter qu'un avantage indu ne soit tiré de relations professionnelles antérieures."
+    },
+    {
+      "question": "Devant quelle juridiction le postulant admis au stage prête-t-il serment pour devenir avocat ?",
+      "choix": [
+        "Devant le Tribunal de Première Instance",
+        "Devant la Cour d'Appel, sur présentation du bâtonnier",
+        "Devant la Cour Suprême",
+        "Devant le Conseil de l'Ordre uniquement, sans intervention d'une juridiction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une juridiction de second degré qui reçoit ce serment.",
+        "Le bâtonnier joue un rôle de présentation dans cette cérémonie.",
+        "C'est cette prestation de serment qui fait définitivement du postulant un avocat."
+      ],
+      "explication": "Le postulant admis au stage prête serment devant la Cour d'Appel, sur présentation du bâtonnier. C'est cette prestation de serment qui fait définitivement de lui un avocat, conformément aux dispositions de la loi du 23 novembre 1967."
+    },
+    {
+      "question": "Pendant combien d'années un candidat doit-il justifier de la nationalité malgache pour être admis au stage d'avocat (sauf réciprocité) ?",
+      "choix": [
+        "Depuis sa naissance uniquement",
+        "Depuis plus de cinq ans",
+        "Depuis plus de dix ans",
+        "Aucune condition de nationalité n'est exigée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette durée est précisée par référence au code de la nationalité.",
+        "Une exception existe pour les ressortissants d'États accordant la réciprocité aux Malgaches.",
+        "Ce délai garantit un lien suffisamment établi avec la nation."
+      ],
+      "explication": "Le candidat au stage doit justifier de sa qualité de Malgache depuis plus de cinq ans, conformément à l'article 33 du code de la nationalité, ou de sa qualité de national d'un État accordant la réciprocité aux nationaux malgaches."
+    },
+    {
+      "question": "Qu'est-ce que le secret professionnel de l'avocat, tel que défini par le Règlement Intérieur du Barreau de Madagascar ?",
+      "choix": [
+        "Une obligation relative, qui cède toujours devant une demande de la justice",
+        "Une obligation absolue, fondée tant sur la tradition du Barreau que sur les dispositions législatives",
+        "Une simple recommandation facultative laissée à l'appréciation de chaque avocat",
+        "Une obligation qui ne concerne que les dossiers pénaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le caractère absolu de cette obligation est expressément affirmé par le texte.",
+        "Cette obligation a une double source : la tradition et la loi.",
+        "Elle s'applique à toutes les matières, et pas seulement au pénal."
+      ],
+      "explication": "L'avocat est tenu au secret professionnel absolu, en vertu tant de la tradition constante du Barreau que des dispositions législatives. Ce caractère absolu signifie que le secret ne connaît, en principe, aucune exception générale."
+    },
+    {
+      "question": "À quoi le secret professionnel de l'avocat s'applique-t-il, au-delà du seul contenu des dossiers juridiques ?",
+      "choix": [
+        "Uniquement aux conversations tenues dans le cabinet de l'avocat",
+        "Également aux maniements de fonds dont l'avocat a connaissance dans l'exercice de son ministère",
+        "Uniquement aux dossiers pénaux et non aux dossiers civils",
+        "Le secret professionnel ne s'applique qu'aux pièces écrites, jamais aux informations financières"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le Règlement Intérieur étend explicitement le champ du secret professionnel.",
+        "Cette extension concerne les aspects financiers de la relation avec le client.",
+        "C'est une précision importante du texte malgache."
+      ],
+      "explication": "Le secret professionnel s'applique également aux maniements de fonds : l'avocat ne peut donc pas davantage révéler les informations financières dont il a connaissance dans le cadre de son ministère, au-delà du seul contenu juridique des dossiers."
+    },
+    {
+      "question": "L'avocat peut-il témoigner pour ou contre son client, en se fondant sur des informations apprises dans l'exercice de sa profession ?",
+      "choix": [
+        "Oui, librement, si le client y consent expressément",
+        "Non, l'avocat ne peut fournir, pour ou contre ses clients ou des adversaires, aucun témoignage quelconque sur ce qu'il a appris dans l'exercice de sa profession",
+        "Oui, mais uniquement devant le tribunal correctionnel",
+        "Oui, si le juge l'exige formellement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le secret professionnel s'oppose à toute forme de témoignage de l'avocat sur ces informations.",
+        "Cette interdiction vaut aussi bien en faveur qu'à l'encontre du client.",
+        "Elle s'étend également aux informations concernant les adversaires."
+      ],
+      "explication": "Non, l'avocat ne peut ni livrer à une tierce personne les pièces qui lui ont été confiées, ni fournir, pour ou contre ses clients ou des adversaires, un témoignage quelconque sur ce qu'il a appris dans l'exercice de sa profession. Le secret professionnel absolu lui interdit cette divulgation."
+    },
+    {
+      "question": "Un avocat peut-il, dans une même affaire, défendre successivement les intérêts de deux parties adverses ?",
+      "choix": [
+        "Oui, sans aucune restriction",
+        "Non, l'avocat qui a accepté d'occuper pour une partie ne peut, dans la même affaire, se charger des intérêts de la partie adverse",
+        "Oui, à condition d'en informer le tribunal après coup",
+        "Oui, si les deux parties sont de la même famille"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette interdiction est la règle la plus générale en matière de conflit d'intérêts.",
+        "Elle protège la loyauté due à chaque client successif.",
+        "Elle s'applique strictement à l'intérieur d'une même affaire."
+      ],
+      "explication": "Non, l'avocat qui a accepté d'occuper pour une partie ne peut, dans la même affaire, se charger des intérêts de la partie adverse. C'est la règle la plus générale destinée à prévenir les conflits d'intérêts dans l'exercice de la profession d'avocat."
+    },
+    {
+      "question": "Jusqu'à quel degré de parenté ou d'alliance un avocat est-il interdit de se constituer ou de plaider dans un dossier déjà traité par un membre de sa famille ?",
+      "choix": [
+        "Jusqu'au premier degré seulement",
+        "Jusqu'au troisième degré",
+        "Jusqu'au cinquième degré",
+        "Aucune limite de degré n'est fixée par le Règlement Intérieur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette limite précise est fixée par le Règlement Intérieur pour prévenir les apparences de partialité.",
+        "Elle couvre à la fois les liens de parenté et les liens d'alliance.",
+        "Le troisième degré inclut notamment les oncles, tantes, cousins."
+      ],
+      "explication": "L'avocat ne doit se constituer ni plaider dans les dossiers qui ont été traités, à quelque titre que ce soit, par un parent ou un allié jusqu'au troisième degré. Cette interdiction vise à éviter toute apparence de partialité liée aux liens familiaux."
+    },
+    {
+      "question": "Que doit faire un avocat devenu membre du Gouvernement, en ce qui concerne l'exercice de sa profession ?",
+      "choix": [
+        "Il peut continuer à exercer librement sa profession en parallèle de ses fonctions gouvernementales",
+        "Il doit s'abstenir d'exercer la profession sous quelque forme que ce soit pendant la durée de ses fonctions",
+        "Il doit transférer son cabinet à un confrère, mais peut continuer à percevoir des honoraires",
+        "Il doit uniquement informer le bâtonnier sans aucune autre obligation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle vise à prévenir tout mélange entre fonction gouvernementale et profession libérale.",
+        "L'abstention exigée est totale, et non partielle.",
+        "Elle dure aussi longtemps que les fonctions gouvernementales elles-mêmes."
+      ],
+      "explication": "L'avocat investi de fonctions de membre du Gouvernement doit s'abstenir d'exercer la profession sous quelque forme que ce soit pendant la durée de ses fonctions. Cette abstention totale vise à éviter toute confusion entre sa fonction publique et son activité professionnelle privée."
+    },
+    {
+      "question": "Un avocat titulaire d'un mandat public électif peut-il accomplir un acte de sa profession contre la collectivité décentralisée qui l'a élu ?",
+      "choix": [
+        "Oui, sans aucune restriction particulière",
+        "Non, il ne peut accomplir aucun acte de sa profession contre les collectivités décentralisées qui l'ont élu",
+        "Oui, mais uniquement avec l'accord du bâtonnier",
+        "Oui, si l'affaire concerne un litige purement privé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette restriction vise à éviter toute confusion entre l'exercice du mandat électif et l'activité professionnelle.",
+        "Elle s'applique spécifiquement à la collectivité qui l'a élu, pas à toutes les collectivités.",
+        "Elle protège la cohérence de la fonction publique élective de l'avocat."
+      ],
+      "explication": "L'avocat investi d'un mandat public électif doit veiller à ce qu'aucune confusion ne puisse s'établir entre l'exercice de sa profession et l'accomplissement de son mandat ; il ne peut accomplir aucun acte de sa profession contre les collectivités décentralisées qui l'ont élu."
+    },
+    {
+      "question": "Qu'est-il formellement interdit à l'avocat de faire avec les fonds appartenant à des tiers ?",
+      "choix": [
+        "De les conserver chez lui",
+        "De les placer en bourse pour le compte du tiers",
+        "De les utiliser pour payer ses propres impôts personnels uniquement",
+        "Toutes ces réponses sont correctes"
+      ],
+      "reponse": 0,
+      "indices": [
+        "L'interdiction la plus fondamentale concerne le lieu de conservation de ces fonds.",
+        "Le Règlement Intérieur impose un mécanisme bancaire spécifique pour ces sommes.",
+        "Cette règle protège les tiers contre toute confusion patrimoniale."
+      ],
+      "explication": "Il est formellement interdit aux avocats de conserver chez eux des fonds appartenant à des tiers. Ils doivent obligatoirement se faire ouvrir, dans une banque, un compte spécialement affecté aux sommes revenant à des tiers."
+    },
+    {
+      "question": "Comment s'appelle le compte bancaire spécial que tout avocat malgache doit ouvrir pour les fonds appartenant à des tiers ?",
+      "choix": [
+        "Le compte « CARPA »",
+        "Le compte « ETUDE »",
+        "Le compte « BARREAU »",
+        "Le compte « FIDUCIE »"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le nom de ce compte doit suivre le nom de l'avocat lui-même.",
+        "Le bâtonnier peut en exiger la production à tout moment.",
+        "Ce nom évoque le cabinet professionnel de l'avocat."
+      ],
+      "explication": "Le compte bancaire spécial destiné aux fonds de tiers doit porter, en titre, le nom de l'avocat suivi du mot « ETUDE ». Le bâtonnier peut à tout moment demander la production de ce compte « ETUDE » de tout avocat du Barreau de Madagascar."
+    },
+    {
+      "question": "Dans quel délai un avocat doit-il déposer sur le compte « ETUDE » les sommes encaissées pour le compte d'un tiers ?",
+      "choix": [
+        "Dans les 48 heures",
+        "Dans les dix jours suivant leur encaissement",
+        "Dans le mois suivant leur encaissement",
+        "Aucun délai n'est fixé par le Règlement Intérieur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai concerne le dépôt sur le compte spécial, et non la mise en demeure ultérieure.",
+        "Il se compte en jours, et représente une durée relativement courte.",
+        "Ce délai vise à éviter que l'avocat ne conserve trop longtemps des fonds dus à un tiers."
+      ],
+      "explication": "Les avocats doivent déposer sur le compte ETUDE, dans les dix jours où ils les auront touchées, toutes les sommes encaissées pour un tiers dépassant un certain montant et qui n'auront pas été réglées à l'intéressé."
+    },
+    {
+      "question": "Que doit toujours respecter le solde créditeur du compte « ETUDE » d'un avocat ?",
+      "choix": [
+        "Il doit être nul en permanence",
+        "Il doit toujours être au moins égal à la totalité des sommes dues aux tiers",
+        "Il doit toujours être supérieur au double des sommes dues aux tiers",
+        "Aucune exigence particulière n'est imposée sur ce solde"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette exigence garantit que l'avocat est toujours en mesure de restituer les fonds dus aux tiers.",
+        "Le solde ne doit jamais être inférieur aux sommes effectivement dues.",
+        "C'est une garantie patrimoniale essentielle pour les clients et tiers concernés."
+      ],
+      "explication": "Le compte ETUDE doit comporter un solde créditeur au moins égal à la totalité des sommes dues aux tiers, ce qui garantit que l'avocat est toujours en mesure de restituer immédiatement les fonds qui leur appartiennent."
+    },
+    {
+      "question": "Que se passe-t-il si un avocat, mis en demeure par le bâtonnier de verser en banque des fonds conservés à tort, ne s'exécute pas dans les quarante-huit heures ?",
+      "choix": [
+        "Rien, le bâtonnier ne peut que renouveler sa mise en demeure indéfiniment",
+        "L'avocat est déféré au conseil de discipline",
+        "L'avocat est automatiquement radié sans procédure disciplinaire",
+        "Seul le procureur général peut alors agir, à l'exclusion du bâtonnier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette conséquence est une étape vers une éventuelle sanction disciplinaire.",
+        "Elle n'entraîne pas une radiation automatique et immédiate.",
+        "C'est le conseil de discipline qui examinera ensuite l'affaire."
+      ],
+      "explication": "L'avocat mis en demeure par le bâtonnier d'avoir à verser en banque les fonds qu'il a conservés à tort, et qui ne s'exécute pas dans les quarante-huit heures, sera déféré au conseil de discipline pour qu'une procédure disciplinaire soit engagée."
+    },
+    {
+      "question": "Dans quel délai un avocat doit-il présenter une attestation bancaire certifiée du solde de son compte ETUDE, en cas de réclamation pécuniaire exigée par le bâtonnier ?",
+      "choix": [
+        "Dans un délai maximum de 8 jours",
+        "Dans un délai maximum de 48 heures",
+        "Dans un délai maximum d'un mois",
+        "Aucun délai n'est fixé pour cette obligation"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Ce délai est distinct de celui de la mise en demeure de versement des fonds.",
+        "Le refus de présenter cette attestation dans ce délai entraîne des poursuites disciplinaires.",
+        "Il se compte en jours, et non en heures."
+      ],
+      "explication": "Le refus de présenter l'attestation de solde du compte ETUDE, certifiée par la banque, dans un délai maximum de huit jours à compter de la mise en demeure, donne lieu à des poursuites disciplinaires contre l'avocat concerné."
+    },
+    {
+      "question": "Quelle règle fondamentale limite la liberté de fixation des honoraires de l'avocat ?",
+      "choix": [
+        "Les honoraires doivent toujours être fixés à un montant identique pour tous les clients",
+        "La quotité ou le règlement des honoraires ne peuvent être subordonnés au résultat de l'affaire",
+        "Les honoraires ne peuvent jamais excéder un million d'ariary",
+        "Les honoraires doivent être payés exclusivement en numéraire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle interdit le pacte purement aléatoire fondé sur le succès de l'affaire.",
+        "Elle protège à la fois le client et l'indépendance de l'avocat.",
+        "Elle figure expressément à l'article 49 du Règlement Intérieur."
+      ],
+      "explication": "La quotité ou le règlement des honoraires ne peuvent être subordonnés au résultat de l'affaire. Cette interdiction du pacte purement aléatoire protège le client contre des honoraires démesurés en cas de succès, et préserve l'indépendance de l'avocat dans le traitement du dossier."
+    },
+    {
+      "question": "Un avocat peut-il accepter d'être rémunéré uniquement en cas de victoire de son client, à un pourcentage du montant obtenu ?",
+      "choix": [
+        "Oui, c'est une pratique encouragée par le Règlement Intérieur",
+        "Non, car la quotité des honoraires ne peut jamais être subordonnée au résultat de l'affaire",
+        "Oui, mais uniquement dans les affaires commerciales",
+        "Oui, à condition que le client donne son accord écrit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette pratique correspond exactement à l'interdiction du pacte aléatoire fondé sur le résultat.",
+        "L'accord du client ne suffit pas à valider une telle clause.",
+        "Cette interdiction protège l'indépendance même de l'avocat."
+      ],
+      "explication": "Non, un tel accord est contraire au Règlement Intérieur : la quotité des honoraires ne peut jamais être subordonnée au résultat de l'affaire, quel que soit le consentement du client. Cette règle protège l'indépendance de l'avocat face à un intérêt financier personnel disproportionné dans l'issue du litige."
+    },
+    {
+      "question": "Est-il permis à l'avocat de se faire souscrire un billet par son client pour garantir le paiement de ses honoraires ?",
+      "choix": [
+        "Oui, c'est une pratique courante et autorisée",
+        "Non, il est interdit à l'avocat de se faire souscrire un billet par son client à cette fin",
+        "Oui, mais uniquement pour les honoraires dépassant un certain montant",
+        "Oui, si le bâtonnier donne son autorisation préalable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette interdiction figure expressément dans le Règlement Intérieur.",
+        "Elle vise à éviter une forme de garantie excessive au profit de l'avocat.",
+        "Elle s'applique sans aucune exception mentionnée."
+      ],
+      "explication": "Il est interdit à l'avocat de se faire souscrire un billet par son client pour assurer le paiement de ses honoraires. Cette interdiction vise à éviter une forme de garantie jugée excessive dans la relation entre l'avocat et son client."
+    },
+    {
+      "question": "En cas de désaccord sur le montant des honoraires entre un avocat et son client, à qui doit être soumise la contestation ?",
+      "choix": [
+        "Directement au tribunal de commerce, sans étape préalable",
+        "Au bâtonnier, qui tente une conciliation et, à défaut, fixe lui-même le montant dû",
+        "Au procureur général, qui statue sans recours possible",
+        "À l'Assemblée générale de l'Ordre, réunie spécialement pour l'occasion"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est l'institution interne au Barreau qui intervient en premier lieu.",
+        "Une étape de conciliation précède la fixation autoritaire du montant.",
+        "Ce n'est qu'après cette intervention que la justice peut être saisie pour le recouvrement."
+      ],
+      "explication": "Toute contestation relative aux honoraires est soumise à l'arbitrage du bâtonnier, qui tente d'abord une conciliation. En cas de désaccord persistant, le bâtonnier fixe lui-même ce qu'il estime être dû, et autorise l'avocat à recourir à la justice pour le recouvrement des honoraires ainsi taxés."
+    },
+    {
+      "question": "Quel organe exerce la juridiction disciplinaire sur tous les membres du Barreau de Madagascar ?",
+      "choix": [
+        "Le tribunal correctionnel",
+        "Le conseil de l'Ordre",
+        "La Cour Suprême",
+        "Le ministère de la Justice"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cet organe est présidé par le bâtonnier.",
+        "Il s'agit d'un organe interne à la profession, et non d'une juridiction de droit commun.",
+        "C'est ce même organe qui administre l'Ordre en dehors de ses fonctions disciplinaires."
+      ],
+      "explication": "Le conseil de l'Ordre, présidé par le bâtonnier, a juridiction disciplinaire sur tous les membres de son Barreau. C'est un organe interne à la profession, distinct des juridictions de droit commun comme le tribunal correctionnel."
+    },
+    {
+      "question": "Par qui un avocat peut-il être déféré devant le conseil de l'Ordre en matière disciplinaire ?",
+      "choix": [
+        "Uniquement par le procureur général",
+        "Par le bâtonnier d'office, sur plainte ou dénonciation, ou à la demande du procureur général",
+        "Uniquement par un autre avocat du même Barreau",
+        "Uniquement par le client lui-même, sans aucun autre intermédiaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Plusieurs voies de saisine sont possibles selon le Règlement Intérieur.",
+        "Le bâtonnier peut agir de sa propre initiative, sans plainte préalable.",
+        "Le procureur général peut également être à l'origine de la saisine."
+      ],
+      "explication": "Les avocats sont déférés au conseil de l'Ordre, s'il y a lieu, par le bâtonnier, soit d'office, soit sur plainte ou dénonciation, soit à la demande du procureur général. Plusieurs voies de saisine sont donc possibles."
+    },
+    {
+      "question": "Quelle est la première étape de la procédure disciplinaire, une fois qu'un avocat est mis en cause ?",
+      "choix": [
+        "La radiation immédiate de l'avocat sans aucune vérification",
+        "Une enquête confiée à un membre du conseil de l'Ordre, qui en fait rapport au conseil",
+        "La saisine directe de la Cour Suprême",
+        "La convocation immédiate de l'Assemblée générale de l'Ordre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette étape précède la décision de poursuivre ou de classer l'affaire.",
+        "Elle est confiée à un membre désigné du conseil lui-même.",
+        "Le rapport de cette enquête éclaire la décision finale du conseil."
+      ],
+      "explication": "Le conseil de l'Ordre charge d'abord un de ses membres de procéder à une enquête et de faire rapport au conseil, qui décidera ensuite, sur cette base, le classement sans suite ou l'engagement de poursuites disciplinaires."
+    },
+    {
+      "question": "Dans quel délai l'avocat mis en cause doit-il être entendu ou appelé après sa citation par le secrétariat de l'Ordre ?",
+      "choix": [
+        "Dans un délai de huit jours",
+        "Dans le délai d'un mois",
+        "Dans un délai de six mois",
+        "Aucun délai n'est fixé"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai laisse à l'avocat le temps de préparer sa défense.",
+        "Il se compte en semaines plutôt qu'en jours.",
+        "C'est le même délai que celui prévu pour l'enquête lors de l'admission au tableau."
+      ],
+      "explication": "L'avocat mis en cause sera entendu ou appelé dans le délai d'un mois qui suivra la citation, ce qui lui laisse le temps de consulter le dossier au secrétariat de l'Ordre et de présenter tout mémoire en défense."
+    },
+    {
+      "question": "Comment se déroule l'audience disciplinaire devant le conseil de l'Ordre ?",
+      "choix": [
+        "En audience publique, ouverte à tous les avocats du Barreau",
+        "À huis clos",
+        "Par voie de correspondance écrite uniquement, sans audience",
+        "En présence obligatoire de la presse"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette confidentialité protège à la fois l'avocat mis en cause et la sérénité des débats.",
+        "Le terme désigne une audience fermée au public.",
+        "C'est un principe expressément posé par le Règlement Intérieur."
+      ],
+      "explication": "Le conseil de discipline se réunit en huis clos. À la séance fixée pour la comparution, le bâtonnier interroge l'avocat, qui est entendu en ses explications ainsi que son conseil, dans un cadre fermé au public."
+    },
+    {
+      "question": "Dans quel ordre les membres du conseil de l'Ordre donnent-ils leur avis lors de la délibération disciplinaire ?",
+      "choix": [
+        "Le bâtonnier donne son avis en premier, suivi des autres membres",
+        "Les membres donnent leur avis en commençant par le dernier inscrit au tableau et en terminant par le bâtonnier",
+        "L'ordre est tiré au sort à chaque délibération",
+        "Seul le bâtonnier donne un avis, les autres membres se contentant d'approuver"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cet ordre vise à éviter que l'autorité du bâtonnier n'influence prématurément les avis des autres membres.",
+        "Le membre le plus récemment inscrit s'exprime en premier.",
+        "Le bâtonnier conclut la délibération en exprimant son avis en dernier."
+      ],
+      "explication": "Les membres du conseil donnent leur avis en commençant, dans l'ordre du tableau, par le dernier inscrit et en finissant par le bâtonnier. Cet ordre évite que l'autorité du bâtonnier n'influence prématurément l'avis des membres les plus récemment inscrits."
+    },
+    {
+      "question": "Les décisions du conseil de l'Ordre en matière disciplinaire sont-elles suspendues en cas de recours ?",
+      "choix": [
+        "Oui, toute voie de recours suspend automatiquement leur exécution",
+        "Non, les décisions du conseil de l'Ordre en matière disciplinaire sont exécutoires nonobstant toutes voies de recours",
+        "Cela dépend de la gravité de la sanction prononcée",
+        "Cela dépend de la décision du procureur général"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle garantit l'efficacité immédiate des sanctions disciplinaires.",
+        "Un éventuel appel n'empêche pas l'application immédiate de la décision.",
+        "C'est une règle expressément posée par le Règlement Intérieur."
+      ],
+      "explication": "Les décisions du conseil de l'Ordre en matière disciplinaire sont exécutoires nonobstant toutes voies de recours : leur exécution n'est pas suspendue par un éventuel appel, ce qui garantit l'efficacité immédiate des sanctions prononcées."
+    },
+    {
+      "question": "Qui désigne l'avocat commis d'office, selon le Règlement Intérieur du Barreau de Madagascar ?",
+      "choix": [
+        "Le procureur général",
+        "Le bâtonnier, sauf disposition légale contraire",
+        "Le client lui-même, qui choisit son défenseur",
+        "Le président du tribunal saisi de l'affaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette désignation relève normalement de l'autorité ordinale.",
+        "Une exception est prévue si la loi en dispose autrement.",
+        "C'est une attribution classique du chef du Barreau."
+      ],
+      "explication": "La nomination de l'avocat d'office est faite par le bâtonnier, sauf dans le cas où la loi en a autrement disposé. C'est une attribution classique du bâtonnier dans l'organisation de l'aide aux justiciables démunis."
+    },
+    {
+      "question": "Un avocat régulièrement commis d'office peut-il refuser librement cette mission ?",
+      "choix": [
+        "Oui, sans aucune justification nécessaire",
+        "Non, il ne peut refuser son ministère sans faire approuver ses motifs d'empêchement par le bâtonnier",
+        "Oui, s'il estime que le client ne pourra pas le payer",
+        "Oui, uniquement s'il s'agit d'une affaire pénale grave"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La défense des justiciables démunis ne saurait dépendre du seul bon vouloir de chaque avocat.",
+        "Un refus reste possible, mais sous condition d'approbation.",
+        "C'est le bâtonnier qui apprécie la légitimité du motif d'empêchement invoqué."
+      ],
+      "explication": "Non, l'avocat régulièrement nommé d'office ne peut refuser son ministère sans faire approuver ses motifs d'empêchement par le bâtonnier. Cette règle garantit que la défense des justiciables démunis ne dépend pas du seul bon vouloir de chaque avocat."
+    },
+    {
+      "question": "L'avocat commis d'office peut-il réclamer des honoraires à son client ?",
+      "choix": [
+        "Oui, comme pour toute autre mission",
+        "Non, il ne peut en aucun cas réclamer, directement ou indirectement, des honoraires à son client",
+        "Oui, mais uniquement la moitié du tarif habituel",
+        "Oui, si le client en fait expressément la demande"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette interdiction protège spécifiquement les justiciables les plus démunis.",
+        "Elle vise toute forme de réclamation, directe ou indirecte.",
+        "Une nuance existe si le client offre spontanément des honoraires."
+      ],
+      "explication": "L'avocat commis d'office ne peut en aucun cas réclamer, directement ou indirectement, des honoraires à son client. Si des honoraires lui sont spontanément offerts, il peut les accepter, mais à charge d'en aviser immédiatement le bâtonnier."
+    },
+    {
+      "question": "Que doit faire un avocat, avant tout dépôt de plainte ou toute introduction d'instance contre un confrère ou un magistrat ?",
+      "choix": [
+        "Rien, il peut agir librement sans aucune formalité préalable",
+        "En référer préalablement au bâtonnier et obtenir son autorisation",
+        "Consulter directement le procureur général sans passer par le bâtonnier",
+        "Attendre l'accord unanime de l'Assemblée générale de l'Ordre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette règle protège la sérénité des rapports professionnels et l'autorité du Barreau.",
+        "L'autorisation préalable est exigée dans tous les cas, sans exception mentionnée.",
+        "C'est le bâtonnier, et non une autre autorité, qui doit être consulté."
+      ],
+      "explication": "L'avocat, avant tout dépôt de plainte ou toute introduction d'instance contre un confrère ou un magistrat, doit, dans tous les cas, en référer préalablement au bâtonnier et obtenir son autorisation. Cette règle protège la sérénité des rapports professionnels."
+    },
+    {
+      "question": "Comment le Règlement Intérieur décrit-il les relations que doivent entretenir les avocats entre eux ?",
+      "choix": [
+        "Des relations de compétition systématique, sans considération de courtoisie",
+        "Des relations toujours empreintes de courtoisie, les anciens devant être bienveillants pour les jeunes, et les jeunes déférents vis-à-vis des anciens",
+        "Des relations strictement hiérarchiques calquées sur l'ordre militaire",
+        "Des relations qui ne sont régies par aucune règle particulière"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La courtoisie est érigée en principe directeur des relations confraternelles.",
+        "Un double devoir réciproque est prévu, selon l'ancienneté de chacun.",
+        "Cette confraternité illustre l'esprit collectif propre à la profession."
+      ],
+      "explication": "Les relations entre confrères doivent toujours être empreintes de courtoisie. Les anciens doivent être bienveillants pour les jeunes, et les jeunes, en toute circonstance, doivent être déférents vis-à-vis des anciens."
+    },
+    {
+      "question": "Comment la loi n° 2007-026 du 12 décembre 2007 définit-elle le notaire à Madagascar ?",
+      "choix": [
+        "Un simple employé administratif chargé de copier des documents",
+        "Un officier public institué pour recevoir les actes auxquels les parties veulent conférer l'authenticité, en assurer la date, en conserver le dépôt, en délivrer copies, et agissant aussi comme conseiller, en exerçant à titre libéral",
+        "Un magistrat spécialisé dans les affaires civiles",
+        "Un avocat spécialisé en droit immobilier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette définition figure à l'article 3 de la loi sur le statut du notariat.",
+        "Elle combine une fonction d'authentification et une fonction de conseil.",
+        "Le notaire exerce sa profession à titre libéral, et non comme fonctionnaire."
+      ],
+      "explication": "Le notaire est défini par l'article 3 de la loi n° 2007-026 du 12 décembre 2007 comme un officier public institué pour recevoir les actes auxquels les parties veulent conférer l'authenticité, pour en assurer la date, en conserver le dépôt et en délivrer des copies, et agissant aussi comme conseiller des personnes qui font appel à son ministère, en exerçant à titre libéral."
+    },
+    {
+      "question": "En quoi la déontologie du notaire diffère-t-elle fondamentalement de celle de l'avocat ?",
+      "choix": [
+        "Il n'existe aucune différence entre les deux déontologies",
+        "Le notaire doit faire preuve d'impartialité envers toutes les parties à l'acte, tandis que l'avocat défend les intérêts particuliers d'une seule partie",
+        "Le notaire ne peut jamais être sanctionné disciplinairement, contrairement à l'avocat",
+        "L'avocat doit être impartial, contrairement au notaire qui peut prendre parti"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le notaire intervient pour authentifier un acte concernant plusieurs parties.",
+        "L'avocat, lui, est l'avocat d'une seule partie, qu'il défend exclusivement.",
+        "Cette différence structure profondément leurs déontologies respectives."
+      ],
+      "explication": "Le notaire, en tant qu'officier public, doit faire preuve d'une impartialité rigoureuse envers toutes les parties à l'acte qu'il authentifie, garantissant à chacune une égale information et une égale protection de ses intérêts — ce qui distingue fondamentalement sa fonction de celle de l'avocat, qui défend les intérêts particuliers d'une seule partie."
+    },
+    {
+      "question": "Comment la loi n° 2005-034 du 20 février 2006 définit-elle l'huissier de justice à Madagascar ?",
+      "choix": [
+        "Un simple agent de sécurité chargé de la surveillance des tribunaux",
+        "Un officier ministériel chargé de la signification des actes judiciaires et extrajudiciaires, de l'exécution forcée des décisions judiciaires et des actes notariés, et du service intérieur des cours et tribunaux comme huissier audiencier",
+        "Un magistrat spécialisé dans l'exécution des peines",
+        "Un avocat spécialisé dans le recouvrement de créances"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette définition figure à l'article premier de la loi sur le statut de la profession.",
+        "Elle couvre trois grandes catégories de fonctions distinctes.",
+        "L'huissier intervient à la fois pour signifier des actes et pour exécuter des décisions."
+      ],
+      "explication": "L'huissier de justice est défini par l'article premier de la loi n° 2005-034 du 20 février 2006 comme un officier ministériel chargé de la signification des actes judiciaires et extrajudiciaires, de l'exécution forcée des décisions judiciaires et des actes notariés, ainsi que du service intérieur des cours et tribunaux en tant qu'huissier audiencier."
+    },
+    {
+      "question": "Au sein de quelle organisation professionnelle les huissiers de justice malgaches sont-ils réunis ?",
+      "choix": [
+        "Le Barreau de Madagascar",
+        "La Chambre Nationale des Huissiers de Justice de Madagascar",
+        "Le Conseil Supérieur de la Magistrature",
+        "L'Ordre des Notaires de Madagascar"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette organisation est spécifiquement dédiée à cette profession.",
+        "Son nom évoque une structure nationale unifiée.",
+        "Elle veille au respect de la déontologie propre aux huissiers."
+      ],
+      "explication": "Les huissiers de justice malgaches sont réunis au sein de la Chambre Nationale des Huissiers de Justice de Madagascar, organisation professionnelle qui veille au respect de leur déontologie propre."
+    },
+    {
+      "question": "Pourquoi l'exactitude est-elle particulièrement exigée dans l'exercice de la fonction d'huissier de justice ?",
+      "choix": [
+        "Parce que l'huissier doit toujours travailler rapidement, sans considération de précision",
+        "Parce qu'une signification mal exécutée, une date erronée ou un défaut de respect des formes légales peuvent rendre nulles des procédures entières",
+        "Parce que l'huissier est rémunéré uniquement en fonction du nombre d'actes signifiés",
+        "Parce que cette exactitude n'a en réalité aucune conséquence juridique pratique"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les conséquences d'une erreur d'huissier peuvent être très graves pour les parties au litige.",
+        "Le respect scrupuleux des formes légales est au cœur de cette fonction.",
+        "Une nullité de procédure peut résulter directement d'une erreur de l'huissier."
+      ],
+      "explication": "L'exactitude est exigée car une signification mal exécutée, une date erronée sur un acte, ou un défaut de respect des formes légales peuvent rendre nulles des procédures entières, au préjudice direct des parties au litige qui s'appuyaient sur la régularité de cet acte."
+    },
+    {
+      "question": "Sur quel principe constitutionnel repose avant tout la déontologie du magistrat ?",
+      "choix": [
+        "Le principe de rentabilité financière des juridictions",
+        "Le principe d'indépendance : dans l'exercice de ses fonctions juridictionnelles, le magistrat du siège n'est soumis qu'à la Constitution et à la loi",
+        "Le principe de soumission hiérarchique au ministère de la Justice",
+        "Le principe d'élection directe des magistrats par le peuple"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe a déjà été étudié dans le module sur les institutions de la IVe République.",
+        "Il protège le magistrat de toute pression extérieure dans l'exercice de ses fonctions juridictionnelles.",
+        "Il est consacré directement par la Constitution malgache."
+      ],
+      "explication": "La déontologie du magistrat repose avant tout sur le principe d'indépendance, consacré par la Constitution : dans l'exercice de ses fonctions juridictionnelles, le magistrat du siège n'est soumis qu'à la Constitution et à la loi, ce qui le protège de toute pression extérieure."
+    },
+    {
+      "question": "Qu'est-ce que le déni de justice, interdit au magistrat ?",
+      "choix": [
+        "Le fait de rendre une décision défavorable à une partie",
+        "Le fait de refuser de juger un différend qui lui est soumis, sous quelque prétexte que ce soit",
+        "Le fait de prononcer une peine plus sévère que celle requise par le procureur",
+        "Le fait de rendre une décision en moins d'une journée"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette interdiction oblige le magistrat à statuer, même en cas de lacune apparente de la loi.",
+        "Elle a déjà été abordée dans le module sur les sources du droit (article 11 de l'ordonnance de 1962).",
+        "Le déni de justice n'a rien à voir avec le sens de la décision rendue."
+      ],
+      "explication": "Le déni de justice est le fait, pour un magistrat, de refuser de juger un différend qui lui est soumis, sous quelque prétexte que ce soit — y compris en cas de silence, d'insuffisance ou d'obscurité de la loi. Cette interdiction oblige le magistrat à toujours statuer sur les affaires dont il est saisi."
+    },
+    {
+      "question": "Quel organe est chargé de garantir le respect des obligations déontologiques des magistrats et de les sanctionner en cas de manquement ?",
+      "choix": [
+        "Le Conseil de l'Ordre des Avocats",
+        "Le Conseil Supérieur de la Magistrature",
+        "La Chambre Nationale des Huissiers de Justice",
+        "Le ministère de l'Intérieur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cet organe gère également la carrière des magistrats.",
+        "Il constitue l'organe disciplinaire propre au corps de la magistrature.",
+        "Il a déjà été présenté dans le module sur l'organisation juridictionnelle."
+      ],
+      "explication": "Le Conseil Supérieur de la Magistrature est l'organe chargé de garantir le respect des obligations déontologiques des magistrats : il gère leur carrière, veille à l'application de leur statut, et constitue l'organe disciplinaire du corps de la magistrature, habilité à sanctionner tout manquement."
+    },
+    {
+      "question": "Qu'est-ce que la récusation d'un magistrat, en lien avec son devoir d'impartialité ?",
+      "choix": [
+        "Une procédure permettant de remplacer un magistrat absent",
+        "Une procédure permettant à une partie d'obtenir l'écartement d'un magistrat lorsqu'il existe des raisons objectives de douter de sa neutralité",
+        "Une procédure de promotion accélérée d'un magistrat",
+        "Une procédure permettant de muter un magistrat dans une autre juridiction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette procédure protège le droit à un procès équitable.",
+        "Elle est déclenchée par une partie au litige, et non par le magistrat lui-même.",
+        "Le doute sur l'impartialité doit être fondé sur des raisons objectives, pas seulement subjectives."
+      ],
+      "explication": "La récusation est la procédure permettant à une partie d'obtenir l'écartement d'un magistrat lorsqu'il existe des raisons objectives de douter de sa neutralité dans une affaire donnée. Elle est le corollaire du devoir d'impartialité absolue qui pèse sur le magistrat."
+    },
+    {
+      "question": "Quelle particularité statutaire distingue le magistrat des avocats, notaires et huissiers de justice ?",
+      "choix": [
+        "Le magistrat exerce à titre libéral, comme les autres professions juridiques",
+        "Le magistrat est un fonctionnaire de l'État, agissant en son nom et pour son compte, et non un professionnel libéral",
+        "Le magistrat n'a aucune obligation déontologique particulière",
+        "Le magistrat est élu directement par les citoyens de son ressort"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette différence statutaire a des conséquences sur la nature même de sa déontologie.",
+        "Les avocats, notaires et huissiers exercent généralement à titre libéral.",
+        "Le magistrat, lui, agit au nom et pour le compte de l'État."
+      ],
+      "explication": "Le magistrat occupe une position singulière : il n'est pas un professionnel libéral comme l'avocat, le notaire ou l'huissier de justice, mais un fonctionnaire de l'État, agissant en son nom et pour son compte. Cette différence statutaire explique en partie la spécificité de sa déontologie, centrée sur l'indépendance et l'impartialité."
+    },
+    {
+      "question": "Hery, avocat, est mis en demeure par son bâtonnier de verser sur son compte ETUDE des fonds appartenant à un client, qu'il a conservés au-delà du délai légal. Il ne s'exécute pas dans les quarante-huit heures. Quelle est la conséquence prévue par le Règlement Intérieur ?",
+      "choix": [
+        "Aucune conséquence particulière, le bâtonnier devant seulement renouveler sa demande",
+        "Hery sera déféré au conseil de discipline",
+        "Hery perd automatiquement et immédiatement son droit d'exercer, sans procédure",
+        "Le client doit directement saisir le tribunal correctionnel, sans intervention du Barreau"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette situation correspond précisément au mécanisme prévu à l'article 48 du Règlement Intérieur.",
+        "Le délai de quarante-huit heures est celui de la mise en demeure du bâtonnier.",
+        "La conséquence du non-respect de ce délai déclenche une procédure interne à l'Ordre."
+      ],
+      "explication": "Conformément à l'article 48 du Règlement Intérieur, Hery sera déféré au conseil de discipline, faute d'avoir versé les fonds dans le délai de quarante-huit heures fixé par la mise en demeure du bâtonnier. C'est ensuite la procédure disciplinaire ordinaire (enquête, citation, audience à huis clos) qui s'appliquera."
+    },
+    {
+      "question": "Résumé : quel principe commun structure la déontologie des quatre professions juridiques étudiées dans ce module (avocats, notaires, huissiers, magistrats) ?",
+      "choix": [
+        "Aucun principe commun ne relie ces quatre professions, qui sont régies par des logiques totalement opposées",
+        "La nécessité de garantir, par des règles de conduite spécifiques et des sanctions disciplinaires propres, la confiance du public dans le fonctionnement de la justice et la protection des intérêts qui leur sont confiés",
+        "Le seul critère commun est la rémunération élevée de ces professions",
+        "Toutes ces professions sont soumises exactement aux mêmes règles, sans aucune spécificité propre"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Chacune de ces professions joue un rôle de confiance dans le fonctionnement de la justice.",
+        "Chacune dispose de règles de conduite spécifiques et d'une instance disciplinaire propre.",
+        "Cette confiance protège à la fois les justiciables et l'institution judiciaire elle-même."
+      ],
+      "explication": "Le principe commun qui structure la déontologie de ces quatre professions est la nécessité de garantir, par des règles de conduite spécifiques et des sanctions disciplinaires propres à chaque profession, la confiance du public dans le fonctionnement de la justice et la protection des intérêts (matériels, financiers, ou liés aux droits fondamentaux) qui leur sont confiés. Chaque profession adapte cette exigence à sa fonction propre : indépendance et secret pour l'avocat, impartialité et authenticité pour le notaire, exactitude et probité pour l'huissier, indépendance et impartialité juridictionnelles pour le magistrat."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Rakoto, avocat au Barreau de Madagascar depuis huit ans, a conseillé Faly il y a deux ans dans un litige relatif à un partage successoral. Aujourd'hui, l'adversaire de Faly dans cette même affaire — toujours en cours devant la Cour d'Appel — souhaite engager Rakoto comme nouvel avocat, Faly ayant changé de conseil entre-temps. Par ailleurs, Rakoto a perçu, pour le compte d'un autre client, une somme de 800 000 ariary à la suite d'un règlement amiable. Quinze jours se sont écoulés depuis l'encaissement de cette somme, et Rakoto ne l'a toujours pas reversée à son client ni déposée sur un compte séparé : il l'a conservée sur son compte personnel, comptant la restituer « bientôt ».\n\nAnalysez : (1) si Rakoto peut accepter d'être engagé par l'adversaire de Faly dans cette même affaire ; (2) si le comportement de Rakoto concernant les 800 000 ariary respecte les règles du Règlement Intérieur ; (3) les conséquences disciplinaires possibles pour chacune de ces deux situations.",
+      "choix": [
+        "Rakoto peut accepter librement le nouveau dossier, et la conservation des fonds pendant quinze jours est sans aucune conséquence tant qu'il a l'intention de les restituer",
+        "(1) Non, Rakoto ne peut pas accepter ce nouveau dossier : ayant occupé pour Faly dans cette même affaire, il ne peut, dans la même affaire, se charger des intérêts de la partie adverse. (2) Non, le comportement de Rakoto viole le Règlement Intérieur à plusieurs égards : il est formellement interdit de conserver chez soi des fonds de tiers, ces fonds devant être déposés sur le compte ETUDE dans les dix jours de leur encaissement — délai ici dépassé. (3) Rakoto s'expose à des poursuites disciplinaires devant le conseil de l'Ordre pour les deux faits : le conflit d'intérêts et le manquement aux règles de maniement des fonds, ce dernier pouvant en outre déclencher une mise en demeure du bâtonnier puis, en cas de non-exécution dans les 48 heures, un renvoi devant le conseil de discipline",
+        "Rakoto peut accepter le dossier car Faly a changé d'avocat, ce qui supprime tout conflit d'intérêts ; la conservation des fonds est licite si le montant est inférieur à un million d'ariary",
+        "Seule la question des fonds pose un problème déontologique ; le changement de client n'a aucune incidence sur la possibilité d'accepter le nouveau dossier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'interdiction de représenter les intérêts opposés dans une même affaire s'applique-t-elle même si le premier client a changé d'avocat depuis ?",
+        "Comparez les quinze jours écoulés au délai de dix jours fixé par le Règlement Intérieur pour le dépôt des fonds de tiers sur le compte ETUDE.",
+        "Identifiez les deux fautes distinctes et leurs conséquences disciplinaires respectives."
+      ],
+      "explication": "Voici l'analyse complète. (1) L'acceptation du nouveau dossier. Rakoto ne peut pas accepter ce nouveau dossier. Le Règlement Intérieur interdit à l'avocat qui a accepté d'occuper pour une partie de se charger, dans la même affaire, des intérêts de la partie adverse. Le fait que Faly ait changé d'avocat entre-temps ne change rien à cette interdiction : c'est la même affaire qui est en cause, et Rakoto a eu accès, en conseillant Faly, à des informations et une stratégie qu'il ne peut pas désormais utiliser au service de la partie opposée. Accepter ce dossier constituerait une violation grave de la règle sur les conflits d'intérêts. (2) Le maniement des fonds. Le comportement de Rakoto viole également le Règlement Intérieur. Il est formellement interdit aux avocats de conserver chez eux (ou sur leur compte personnel) des fonds appartenant à des tiers : ces fonds doivent être déposés sur un compte bancaire spécial, le compte ETUDE, dans les dix jours suivant leur encaissement. Or, quinze jours s'sont écoulés sans que Rakoto n'ait effectué ce dépôt : le délai légal est dépassé, et la conservation de la somme sur son compte personnel constitue en elle-même une violation des règles relatives au mélange des fonds de tiers avec le patrimoine personnel de l'avocat. (3) Les conséquences disciplinaires. Pour le conflit d'intérêts, Rakoto s'expose à des poursuites disciplinaires devant le conseil de l'Ordre s'il accepte malgré tout le dossier, la méconnaissance des principes essentiels de loyauté et de probité pouvant à elle seule constituer une faute professionnelle. Pour le manquement relatif aux fonds, si le client concerné ou le bâtonnier découvre la situation, ce dernier pourra mettre Rakoto en demeure de verser immédiatement la somme sur le compte ETUDE ; si Rakoto ne s'exécute pas dans les quarante-huit heures suivant cette mise en demeure, il sera déféré devant le conseil de discipline, qui suivra la procédure ordinaire : enquête, citation par lettre recommandée, comparution dans le délai d'un mois, audience à huis clos."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Tojo, jeune avocat récemment inscrit au tableau du Barreau de Madagascar, est désigné par le bâtonnier comme commis d'office pour défendre un prévenu poursuivi pour vol, sans aucune ressource financière. À l'issue du procès, qui se solde par un acquittement, le prévenu, reconnaissant, propose spontanément à Tojo une somme de 200 000 ariary en remerciement. Par ailleurs, lors de l'audience, Tojo a été choqué par certains propos tenus par l'avocat de la partie civile à son égard, qu'il a jugés blessants et personnels. De retour à son cabinet, furieux, Tojo rédige immédiatement une plainte contre ce confrère et s'apprête à la déposer le jour même devant le procureur général, sans en parler à personne d'autre.\n\nAnalysez : (1) si Tojo peut accepter la somme de 200 000 ariary proposée spontanément par son ancien client ; (2) si Tojo peut déposer directement sa plainte contre le confrère sans autre démarche préalable ; (3) quelle est la procédure correcte que Tojo aurait dû suivre dans cette seconde situation, et pourquoi cette procédure existe-t-elle.",
+      "choix": [
+        "Tojo ne peut accepter aucune somme d'argent dans le cadre d'une commission d'office, et il peut déposer sa plainte directement sans aucune formalité",
+        "(1) Oui, Tojo peut accepter cette somme spontanément offerte, à condition d'en aviser immédiatement le bâtonnier ; il lui était en revanche interdit de la réclamer lui-même, directement ou indirectement. (2) Non, Tojo ne peut pas déposer directement sa plainte : avant tout dépôt de plainte ou toute introduction d'instance contre un confrère, l'avocat doit, dans tous les cas, en référer préalablement au bâtonnier et obtenir son autorisation. (3) Tojo aurait dû contacter le bâtonnier pour exposer les faits et obtenir son autorisation avant d'agir ; cette procédure existe pour protéger la sérénité des rapports confraternels et éviter des conflits personnels précipités entre avocats, l'institution du Barreau ayant vocation à réguler ce type de différends en son sein avant tout recours extérieur",
+        "Tojo peut tout faire librement : accepter l'argent sans en informer personne, et déposer sa plainte immédiatement, l'urgence de la situation justifiant cette célérité",
+        "Tojo doit refuser l'argent car toute somme reçue dans le cadre d'une commission d'office est interdite sans exception, et il doit attendre un mois avant de pouvoir déposer une plainte contre un confrère"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Distinguez bien le cas où l'avocat réclame des honoraires de celui où le client les offre spontanément.",
+        "Rappelez-vous la règle précise applicable avant tout dépôt de plainte contre un confrère.",
+        "Réfléchissez à la fonction protectrice de cette règle : que cherche-t-elle à éviter dans les rapports entre confrères ?"
+      ],
+      "explication": "Voici l'analyse complète en trois points. (1) L'acceptation de la somme offerte. Tojo peut accepter les 200 000 ariary proposés spontanément par le prévenu acquitté, à condition d'en aviser immédiatement le bâtonnier. Le Règlement Intérieur distingue clairement deux situations : l'avocat commis d'office ne peut en aucun cas réclamer, directement ou indirectement, des honoraires à son client — cela lui est absolument interdit. Mais si des honoraires lui sont spontanément offerts, comme c'est le cas ici, il peut les accepter, à la seule condition d'en informer immédiatement le bâtonnier. Cette information préalable permet à l'Ordre de garder un contrôle sur ce type de versement, même volontaire. (2) Le dépôt direct de la plainte. Non, Tojo ne peut absolument pas déposer directement sa plainte contre le confrère, même s'il s'estime sincèrement blessé par des propos personnels tenus à l'audience. Le Règlement Intérieur impose, dans tous les cas, que l'avocat en réfère préalablement au bâtonnier et obtienne son autorisation avant tout dépôt de plainte ou toute introduction d'instance contre un confrère. Agir comme Tojo s'apprête à le faire — dans la précipitation, sous l'effet de la colère, sans consulter personne — constitue en lui-même un manquement à cette règle procédurale impérative. (3) La procédure correcte et sa justification. Tojo aurait dû, avant toute action, contacter le bâtonnier pour lui exposer les faits qu'il estime blessants et solliciter son autorisation avant d'engager quelque démarche que ce soit contre son confrère. Cette procédure existe pour deux raisons principales : d'une part, elle protège la sérénité et la confraternité qui doivent, selon le Règlement Intérieur, toujours empreindre les relations entre avocats, en évitant que des conflits personnels, parfois nés sous le coup de l'émotion d'une audience, ne se transforment immédiatement en procédures judiciaires ou disciplinaires irréversibles ; d'autre part, elle reconnaît au bâtonnier un rôle de régulateur interne des tensions au sein du Barreau, lui permettant d'apprécier la situation avec le recul nécessaire, et éventuellement de proposer une médiation, avant qu'une voie plus radicale ne soit empruntée."
+    }
+  ]
+}
