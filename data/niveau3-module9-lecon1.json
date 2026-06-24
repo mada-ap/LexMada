@@ -1,0 +1,806 @@
+{
+  "module": 9,
+  "niveau": 3,
+  "domaine": "Droit pénal et procédure pénale malgache",
+  "titre": "Le jugement pénal et les voies de recours",
+  "sous_titre": "De la décision de la juridiction de jugement à l'épuisement des recours : opposition, appel, pourvoi en cassation, révision et pourvoi dans l'intérêt de la loi",
+  "avertissement": "Ce module porte exclusivement sur le droit positif malgache, tel qu'il résulte du Code de procédure pénale malgache (ordonnance n°62-052 du 20 septembre 1962 et ses modifications successives) et de la loi organique n°2004-036 du 1er octobre 2004 relative à la Cour Suprême. Les notions et délais propres au droit français ou à d'autres systèmes francophones ne sont pas transposables au droit malgache et ne doivent pas être confondus avec celui-ci. Lorsque le texte consolidé le plus récent n'a pas pu être vérifié pour un point précis (par exemple le délai exact de l'appel ordinaire en matière correctionnelle), la formulation retenue reste volontairement prudente : il est recommandé de confronter ce module au texte intégral du Code publié au Journal Officiel avant toute utilisation contentieuse.",
+  "objectifs_pedagogiques": [
+    "Identifier les juridictions de jugement compétentes selon la nature de l'infraction et leur articulation avec la Cour d'appel et la Cour Suprême.",
+    "Connaître les mentions et conditions de validité d'un jugement ou d'un arrêt pénal, notamment l'exigence de motivation.",
+    "Distinguer les voies de recours ordinaires (opposition, appel) des voies de recours extraordinaires (pourvoi en cassation, révision, pourvoi dans l'intérêt de la loi).",
+    "Maîtriser les conditions, délais et effets du pourvoi en cassation en matière pénale malgache.",
+    "Appliquer ces notions à des situations contentieuses concrètes rencontrées par les justiciables de la région DIANA."
+  ],
+  "lecon": {
+    "introduction": "Le jugement marque l'aboutissement de l'audience pénale : il tranche, en fait et en droit, la culpabilité ou l'innocence de la personne poursuivie. Mais cette décision n'est pas nécessairement la dernière étape de la procédure. Le droit malgache organise plusieurs voies de recours qui permettent à une partie insatisfaite de demander un nouvel examen de l'affaire, ou, lorsque les faits ne sont plus contestés, de faire vérifier que la loi a été correctement appliquée. Ce module présente d'abord la structure des juridictions de jugement et les exigences formelles attachées à leurs décisions, avant d'étudier successivement les voies de recours ordinaires - l'opposition et l'appel - puis les voies de recours extraordinaires - le pourvoi en cassation, la demande en révision et le pourvoi dans l'intérêt de la loi.",
+    "sections": [
+      {
+        "titre": "1. Les juridictions de jugement et leur hiérarchie",
+        "contenu": "La compétence des juridictions répressives malgaches dépend de la gravité de l'infraction poursuivie. Le tribunal de simple police connaît des contraventions. Le tribunal correctionnel, et les sections de tribunal qui exercent la même compétence en dehors des chefs-lieux, jugent les délits, c'est-à-dire les infractions punies d'une peine dont le maximum dépasse le seuil fixé par le Code pour les contraventions. La cour criminelle, juridiction non permanente qui siège par sessions, connaît des crimes ; sa compétence s'étend aux infractions connexes ou formant avec le crime poursuivi un ensemble indivisible.\n\nEn appel, la chambre correctionnelle et de simple police de la Cour d'appel connaît des recours formés contre les jugements rendus en premier ressort par les tribunaux correctionnels, leurs sections, et les tribunaux de simple police. La chambre d'accusation de la Cour d'appel, quant à elle, connaît notamment de l'appel des ordonnances du juge d'instruction, des demandes de mise en liberté provisoire, des demandes en réhabilitation et des demandes d'extradition ; elle constitue également la juridiction d'instruction du second degré en matière criminelle.\n\nAu sommet de l'ordre judiciaire se trouve la Cour Suprême, qui comprend trois cours : la Cour de Cassation pour l'ordre judiciaire, le Conseil d'État pour l'ordre administratif et la Cour des comptes pour l'ordre financier. C'est la Cour de Cassation, par sa chambre pénale, qui exerce le contrôle de cassation sur les décisions pénales rendues en dernier ressort par les juridictions du fond."
+      },
+      {
+        "titre": "2. Le contenu et la forme du jugement pénal",
+        "contenu": "Le Code de procédure pénale encadre précisément la rédaction des décisions des juridictions de jugement. Les arrêts et jugements sont rédigés par le greffier ; la minute, signée par le président et le greffier, doit être déposée au greffe au plus tard dans les huit jours du prononcé. Cette minute doit notamment indiquer la date, les noms des magistrats qui ont siégé, la présence éventuelle du ministère public, le nom du greffier et de l'interprète s'il y a lieu, l'identité et la qualité des parties, leur comparution ou leur absence, l'assistance d'un défenseur, ainsi que le lieu où la décision a été rendue.\n\nL'exigence la plus structurante reste celle de la motivation : tout arrêt ou jugement doit comporter des motifs et un dispositif, les motifs constituant la base de la décision. Le dispositif énonce les infractions retenues, les peines prononcées, la référence du texte de loi appliqué et les condamnations civiles, ou, à défaut, l'acquittement de la personne poursuivie ; il règle également le sort des dépens. La décision doit préciser si elle a été rendue contradictoirement, par décision réputée contradictoire, ou par défaut à l'égard de tout ou partie des parties. Une motivation insuffisante - par exemple une formule générale affirmant que le premier juge a fait une saine appréciation des faits, sans préciser les considérations de fait et de droit qui fondent cette appréciation - expose la décision à la censure de la Cour de Cassation, comme l'illustre la jurisprudence constante de sa chambre pénale.\n\nEnfin, lorsqu'une même poursuite retient la culpabilité de la personne jugée pour plusieurs crimes ou délits, seule la peine la plus forte est prononcée."
+      },
+      {
+        "titre": "3. Les voies de recours ordinaires : opposition et appel",
+        "contenu": "Les voies de recours ordinaires permettent un nouvel examen complet de l'affaire, en fait comme en droit.\n\nL'opposition est ouverte contre les décisions rendues par défaut, c'est-à-dire lorsque la partie poursuivie n'a pas comparu et n'a pas été régulièrement représentée. Elle permet à la partie défaillante de ressaisir la juridiction qui a statué afin que l'affaire soit rejugée. Le Code organise cette voie aussi bien à l'égard des jugements par défaut rendus en première instance qu'à l'égard des arrêts rendus par défaut par la Cour d'appel elle-même. Si l'opposant ne comparaît pas une seconde fois, on parle d'itératif défaut : la décision retrouve alors son plein effet. Sur le plan financier, les frais liés à la décision par défaut, à sa signification et à l'opposition peuvent être laissés à la charge de la partie opposante. Une règle importante découle de l'articulation entre opposition et cassation : la partie qui n'a pas assisté aux débats ne peut se pourvoir en cassation tant que le délai ouvert pour former opposition n'est pas expiré - l'opposition doit, en principe, être exercée avant tout pourvoi.\n\nL'appel est la voie de recours ordinaire de droit commun contre les jugements rendus en premier ressort. Il est porté devant la chambre correctionnelle et de simple police de la Cour d'appel lorsqu'il vise un jugement du tribunal correctionnel, d'une section de tribunal ou d'un tribunal de simple police. La déclaration d'appel est faite au greffe de la juridiction qui a rendu la décision attaquée, puis le dossier est transmis à la Cour d'appel. Le point de départ du délai d'appel n'est pas le même selon que la décision a été rendue contradictoirement ou par défaut : pour une décision contradictoire, le délai court en principe à compter du prononcé ; pour une décision par défaut ou par itératif défaut, il ne court qu'à compter de sa signification à la partie concernée. La Cour d'appel réexamine l'affaire et peut confirmer, réformer ou infirmer le jugement déféré. Le justiciable doit garder à l'esprit que l'exercice du ministère public de son propre droit de recours peut conduire à un réexamen complet de l'action publique, y compris au détriment de l'appelant initial."
+      },
+      {
+        "titre": "4. Le pourvoi en cassation",
+        "contenu": "Le pourvoi en cassation est la principale voie de recours extraordinaire. Il est aujourd'hui régi par la loi organique n°2004-036 du 1er octobre 2004 relative à l'organisation, aux attributions, au fonctionnement et à la procédure applicable devant la Cour Suprême et les trois cours la composant. À la différence de l'appel, le pourvoi ne porte pas un nouvel examen des faits devant les juges : la Cour de Cassation exerce un contrôle de légalité, c'est-à-dire qu'elle vérifie si les juridictions du fond ont correctement appliqué et interprété la règle de droit. L'article 25 de la loi organique pose ce principe : le pourvoi ne peut être formé que pour violation de la loi, la violation des coutumes étant assimilée à la violation de la loi. L'article 26 énumère les cas d'ouverture à cassation : l'incompétence, la fausse application ou la fausse interprétation de la loi, l'excès de pouvoir, l'inobservation des formes prescrites à peine de nullité, la violation de l'autorité de la chose jugée, l'absence, l'insuffisance ou la contradiction de motifs, ainsi que, plus généralement, l'impossibilité pour la Cour d'exercer son contrôle ou l'absence de réponse à des conclusions régulièrement déposées.\n\nSont susceptibles de pourvoi les décisions rendues en dernier ressort : les décisions de première instance statuant en dernier ressort, les arrêts de la Cour d'appel - y compris ceux rendus par défaut -, les arrêts de la chambre correctionnelle, certains arrêts de la chambre d'accusation, ainsi que les arrêts des cours criminelles, qu'elles soient ordinaires, spéciales ou spéciales aggravées.\n\nEn matière pénale, le pourvoi se forme par simple déclaration au greffe de la juridiction qui a rendu la décision attaquée - ou, si le demandeur est détenu, par déclaration écrite ou verbale auprès du gardien-chef de l'établissement pénitentiaire, lequel délivre un récépissé daté. Le délai pour se pourvoir est de trois jours francs à compter du prononcé de la décision attaquée ; toutefois, si la partie n'a pas assisté au prononcé, ce délai ne court qu'à compter de la notification ou de la signification par voie d'huissier. Une fois le pourvoi déclaré, le demandeur doit déposer un mémoire ampliatif exposant ses moyens : dans les dix jours suivant la déclaration au greffe de la juridiction qui a rendu la décision, ou, à défaut, dans les deux mois suivants au greffe de la Cour de Cassation. Le défendeur au pourvoi dispose alors d'un délai de deux mois, à compter de la notification du mémoire du demandeur, pour déposer son mémoire en défense.\n\nÀ l'issue de l'instruction du pourvoi, la Cour de Cassation peut rejeter le pourvoi, auquel cas la décision attaquée devient irrévocable, ou prononcer une cassation totale ou partielle. En cas de cassation, l'affaire est en principe renvoyée devant la même juridiction autrement composée ; dans des cas limitativement prévus par la loi organique, la Cour peut casser sans renvoi et trancher elle-même définitivement le litige."
+      },
+      {
+        "titre": "5. La demande en révision et le pourvoi dans l'intérêt de la loi",
+        "contenu": "À côté du pourvoi en cassation, le droit malgache connaît d'autres voies de recours extraordinaires, également de la compétence de la Cour Suprême.\n\nLa demande en révision permet de remettre en cause une condamnation pénale devenue définitive lorsque des éléments nouveaux sont de nature à faire naître un doute sur la culpabilité du condamné. Elle relève des attributions de la Cour Suprême, aux côtés des demandes de renvoi d'une juridiction à une autre pour cause de suspicion légitime ou de sûreté publique, des demandes de prise à partie dirigées contre un magistrat, et des recours en cas de contrariété entre des jugements ou arrêts rendus en dernier ressort, entre les mêmes parties et sur les mêmes moyens, par des juridictions différentes de l'ordre judiciaire.\n\nLe pourvoi dans l'intérêt de la loi est une procédure exceptionnelle qui ne vise pas à modifier la situation des parties au procès déjà jugé - cette situation reste acquise -, mais à faire censurer, dans le seul intérêt du droit, une décision irrévocable entachée d'une illégalité. Il peut être engagé par le Procureur Général de la Cour de Cassation, d'office ou sur instruction du Ministre de la Justice, et la Cour de Cassation statue alors toutes chambres réunies."
+      },
+      {
+        "titre": "6. Synthèse pratique pour le justiciable",
+        "contenu": "Trois repères pratiques permettent de s'orienter face à une décision pénale défavorable. Premièrement, il faut identifier la nature de la décision : une décision rendue par défaut ouvre d'abord la voie de l'opposition, alors qu'une décision contradictoire ne peut être contestée que par l'appel ou, si elle est rendue en dernier ressort, par le pourvoi en cassation. Deuxièmement, il faut distinguer la nature du contrôle recherché : les voies ordinaires permettent de rejuger l'affaire au fond, alors que les voies extraordinaires - cassation, révision, pourvoi dans l'intérêt de la loi - obéissent à des conditions strictes et ne rouvrent pas, en principe, le débat sur les faits. Troisièmement, la motivation du jugement reste le premier point de vigilance : une décision insuffisamment motivée constitue, à elle seule, un moyen de cassation reconnu par une jurisprudence constante de la chambre pénale de la Cour de Cassation malgache. Pour les praticiens de la région DIANA, ces principes s'appliquent identiquement devant le Tribunal Correctionnel d'Antsiranana, la Chambre Correctionnelle de la Cour d'Appel d'Antsiranana, et, en cassation, devant la Cour Suprême siégeant à Antananarivo."
+      }
+    ],
+    "points_cles": [
+      "Tribunal de simple police (contraventions), tribunal correctionnel (délits), cour criminelle non permanente (crimes) : la compétence dépend de la gravité de l'infraction.",
+      "Tout jugement ou arrêt doit contenir des motifs et un dispositif ; l'absence ou l'insuffisance de motifs est une cause de cassation.",
+      "L'opposition rétracte une décision par défaut devant la même juridiction ; un second défaut produit l'itératif défaut.",
+      "L'appel ouvre un second examen complet en fait et en droit devant la Cour d'appel ; son point de départ diffère selon que la décision est contradictoire ou rendue par défaut.",
+      "Le pourvoi en cassation, régi par la loi organique n°2004-036 du 1er octobre 2004, n'est ouvert que pour violation de la loi (art. 25 et 26) ; déclaration en 3 jours francs, mémoire ampliatif en 10 jours puis 2 mois, mémoire en défense en 2 mois.",
+      "La demande en révision et le pourvoi dans l'intérêt de la loi sont des voies extraordinaires distinctes, de la compétence de la Cour Suprême."
+    ],
+    "lexique": [
+      {
+        "terme": "Dispositif",
+        "definition": "Partie de la décision qui énonce la solution du litige : culpabilité ou acquittement, peine, texte de loi appliqué, condamnations civiles, sort des dépens."
+      },
+      {
+        "terme": "Motifs",
+        "definition": "Considérations de fait et de droit qui fondent la décision ; ils en constituent la base et doivent figurer dans tout jugement ou arrêt."
+      },
+      {
+        "terme": "Jugement par défaut",
+        "definition": "Décision rendue en l'absence de la partie poursuivie, non régulièrement représentée, et qui ouvre la voie de l'opposition."
+      },
+      {
+        "terme": "Itératif défaut",
+        "definition": "Situation dans laquelle l'opposant, après avoir formé opposition, ne comparaît pas une seconde fois ; la décision initiale retrouve alors son plein effet."
+      },
+      {
+        "terme": "Dernier ressort",
+        "definition": "Caractère d'une décision qui n'est plus susceptible d'appel et qui peut, à ce titre, faire l'objet d'un pourvoi en cassation."
+      },
+      {
+        "terme": "Violation de la loi",
+        "definition": "Seul fondement admis pour un pourvoi en cassation pénal (art. 25 loi organique n°2004-036) ; recouvre notamment l'incompétence, la fausse application ou interprétation de la loi, l'excès de pouvoir et l'insuffisance de motifs."
+      },
+      {
+        "terme": "Mémoire ampliatif",
+        "definition": "Document écrit par lequel le demandeur au pourvoi développe ses moyens de droit devant la Cour de Cassation."
+      },
+      {
+        "terme": "Cassation avec renvoi",
+        "definition": "Décision par laquelle la Cour de Cassation annule la décision attaquée et renvoie l'affaire devant la même juridiction, autrement composée."
+      },
+      {
+        "terme": "Pourvoi dans l'intérêt de la loi",
+        "definition": "Recours exceptionnel exercé dans le seul but de faire censurer une illégalité, sans modifier la situation des parties au procès déjà jugé."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Quelle juridiction est compétente pour juger les contraventions à Madagascar ?",
+      "choix": [
+        "Le tribunal de simple police",
+        "Le tribunal correctionnel",
+        "La cour criminelle",
+        "La chambre d'accusation"
+      ],
+      "reponse": "Le tribunal de simple police",
+      "indices": "Pensez à la juridiction la plus proche du justiciable pour les infractions les moins graves.",
+      "explication": "Le tribunal de simple police connaît des contraventions, infractions les moins graves de la classification tripartite malgache."
+    },
+    {
+      "id": 2,
+      "question": "Quelle juridiction connaît des délits en premier ressort ?",
+      "choix": [
+        "Le tribunal correctionnel et ses sections",
+        "La cour criminelle",
+        "La chambre correctionnelle de la Cour d'appel",
+        "La Cour de Cassation"
+      ],
+      "reponse": "Le tribunal correctionnel et ses sections",
+      "indices": "Le délit se situe entre la contravention et le crime.",
+      "explication": "Le tribunal correctionnel, ou la section de tribunal qui exerce la même compétence, juge les délits en premier ressort."
+    },
+    {
+      "id": 3,
+      "question": "Quelle est la particularité de la cour criminelle dans l'organisation judiciaire malgache ?",
+      "choix": [
+        "C'est une juridiction non permanente qui siège par sessions",
+        "C'est une juridiction d'appel",
+        "Elle ne juge que les contraventions",
+        "Elle siège en permanence toute l'année"
+      ],
+      "reponse": "C'est une juridiction non permanente qui siège par sessions",
+      "indices": "Contrairement au tribunal correctionnel, elle ne fonctionne pas en continu.",
+      "explication": "La cour criminelle, compétente pour les crimes, est une juridiction non permanente qui se réunit par sessions."
+    },
+    {
+      "id": 4,
+      "question": "Quelle chambre de la Cour d'appel connaît des appels formés contre les jugements du tribunal correctionnel ?",
+      "choix": [
+        "La chambre correctionnelle et de simple police",
+        "La chambre d'accusation",
+        "La chambre civile",
+        "La chambre sociale"
+      ],
+      "reponse": "La chambre correctionnelle et de simple police",
+      "indices": "Le nom de la chambre reflète directement les juridictions dont elle reçoit les appels.",
+      "explication": "La chambre correctionnelle et de simple police de la Cour d'appel connaît des appels contre les jugements rendus en premier ressort par les tribunaux correctionnels, leurs sections, et les tribunaux de simple police."
+    },
+    {
+      "id": 5,
+      "question": "Parmi les attributions suivantes, laquelle relève de la chambre d'accusation de la Cour d'appel ?",
+      "choix": [
+        "L'appel des ordonnances du juge d'instruction",
+        "Le jugement des contraventions",
+        "Le pourvoi en cassation",
+        "La demande en révision"
+      ],
+      "reponse": "L'appel des ordonnances du juge d'instruction",
+      "indices": "Cette chambre intervient surtout pendant la phase d'instruction.",
+      "explication": "La chambre d'accusation connaît notamment de l'appel des ordonnances du juge d'instruction, des demandes de mise en liberté provisoire, de réhabilitation et d'extradition, et constitue la juridiction d'instruction du second degré en matière criminelle."
+    },
+    {
+      "id": 6,
+      "question": "Quelles sont les trois cours qui composent la Cour Suprême malgache ?",
+      "choix": [
+        "La Cour de Cassation, le Conseil d'État et la Cour des comptes",
+        "La Cour de Cassation, la Cour d'appel et le Tribunal correctionnel",
+        "Le Conseil d'État, la Haute Cour de Justice et la Cour criminelle",
+        "La Cour de Cassation, la Chambre d'accusation et la Cour criminelle"
+      ],
+      "reponse": "La Cour de Cassation, le Conseil d'État et la Cour des comptes",
+      "indices": "Pensez aux trois ordres : judiciaire, administratif, financier.",
+      "explication": "La Cour Suprême comprend la Cour de Cassation (ordre judiciaire), le Conseil d'État (ordre administratif) et la Cour des comptes (ordre financier)."
+    },
+    {
+      "id": 7,
+      "question": "Qui dirige la Cour Suprême malgache ?",
+      "choix": [
+        "Un Premier Président et un Procureur Général, secondés par trois Vice-présidents",
+        "Un seul magistrat statuant seul",
+        "Le Ministre de la Justice",
+        "Le Procureur de la République"
+      ],
+      "reponse": "Un Premier Président et un Procureur Général, secondés par trois Vice-présidents",
+      "indices": "Les trois Vice-présidents président chacun l'une des trois cours composant la Cour Suprême.",
+      "explication": "La Cour Suprême est dirigée par un Premier Président et un Procureur Général ; le Premier Président est secondé par trois Vice-présidents, qui président respectivement la Cour de Cassation, le Conseil d'État et la Cour des comptes."
+    },
+    {
+      "id": 8,
+      "question": "Au sein de la Cour de Cassation, quelle formation statue sur les pourvois formés contre les décisions pénales ?",
+      "choix": [
+        "La chambre pénale",
+        "La chambre civile, commerciale et sociale",
+        "La chambre administrative",
+        "La chambre des comptes"
+      ],
+      "reponse": "La chambre pénale",
+      "indices": "Il s'agit de la formation spécialisée en matière répressive.",
+      "explication": "Les pourvois dirigés contre les arrêts des cours d'appel et des cours criminelles en matière pénale relèvent de la chambre pénale de la Cour de Cassation."
+    },
+    {
+      "id": 9,
+      "question": "La compétence de la cour criminelle peut-elle s'étendre à des infractions connexes au crime poursuivi ?",
+      "choix": [
+        "Oui, sa compétence s'étend aux infractions connexes ou formant un ensemble indivisible avec le crime",
+        "Non, elle ne peut juger que le crime objet exact de la poursuite",
+        "Oui, mais uniquement pour les contraventions",
+        "Non, ces infractions relèvent obligatoirement du tribunal correctionnel"
+      ],
+      "reponse": "Oui, sa compétence s'étend aux infractions connexes ou formant un ensemble indivisible avec le crime",
+      "indices": "Pensez à l'objectif d'éviter des jugements contradictoires sur des faits liés.",
+      "explication": "La compétence de la cour criminelle s'étend aux crimes, délits et contraventions formant avec le crime poursuivi un ensemble indivisible, et peut s'étendre aux infractions connexes."
+    },
+    {
+      "id": 10,
+      "question": "Que doit obligatoirement contenir tout jugement ou arrêt pénal selon le Code de procédure pénale malgache ?",
+      "choix": [
+        "Des motifs et un dispositif",
+        "Uniquement un dispositif",
+        "Uniquement des motifs",
+        "Une liste des témoins entendus"
+      ],
+      "reponse": "Des motifs et un dispositif",
+      "indices": "Ces deux éléments sont expressément exigés par le Code.",
+      "explication": "L'article relatif au contenu des décisions pénales impose que tout arrêt ou jugement comporte des motifs et un dispositif, les motifs constituant la base de la décision."
+    },
+    {
+      "id": 11,
+      "question": "Quel rôle jouent les motifs dans un jugement pénal ?",
+      "choix": [
+        "Ils constituent la base de la décision",
+        "Ils n'ont qu'une valeur indicative sans portée juridique",
+        "Ils remplacent le dispositif",
+        "Ils sont facultatifs en matière correctionnelle"
+      ],
+      "reponse": "Ils constituent la base de la décision",
+      "indices": "Le Code emploie une formule directe sur ce point.",
+      "explication": "Le Code de procédure pénale précise que les motifs constituent la base de la décision ; leur absence ou leur insuffisance fragilise la validité du jugement."
+    },
+    {
+      "id": 12,
+      "question": "Que doit notamment énoncer le dispositif d'un jugement de condamnation ?",
+      "choix": [
+        "Les infractions retenues, la peine, le texte de loi appliqué et les condamnations civiles",
+        "Uniquement le nom du président du tribunal",
+        "Le seul montant des frais de justice",
+        "La liste des questions posées aux jurés"
+      ],
+      "reponse": "Les infractions retenues, la peine, le texte de loi appliqué et les condamnations civiles",
+      "indices": "Le dispositif est la partie qui tranche concrètement le litige.",
+      "explication": "Le dispositif énonce les infractions retenues, les peines prononcées, la référence au texte de loi appliqué, les condamnations civiles ou, à défaut, l'acquittement, et règle le sort des dépens."
+    },
+    {
+      "id": 13,
+      "question": "Dans quel délai la minute du jugement doit-elle, au plus tard, être déposée au greffe ?",
+      "choix": [
+        "Dans les huit jours du prononcé",
+        "Dans les vingt-quatre heures",
+        "Dans le mois suivant le prononcé",
+        "Il n'existe aucun délai"
+      ],
+      "reponse": "Dans les huit jours du prononcé",
+      "indices": "Il s'agit d'un délai bref destiné à garantir la conservation rapide de la décision.",
+      "explication": "La minute, signée par le président et le greffier, doit être déposée au greffe dans les huit jours du prononcé au plus tard."
+    },
+    {
+      "id": 14,
+      "question": "Une décision pénale doit préciser si elle a été rendue :",
+      "choix": [
+        "Contradictoirement, par décision réputée contradictoire, ou par défaut",
+        "Uniquement par défaut",
+        "Uniquement contradictoirement",
+        "Cette précision n'est pas requise par le Code"
+      ],
+      "reponse": "Contradictoirement, par décision réputée contradictoire, ou par défaut",
+      "indices": "Cette précision détermine la voie de recours ouverte à la partie absente.",
+      "explication": "Le dispositif doit préciser si la décision est contradictoire, réputée contradictoire, ou rendue par défaut à l'égard de certaines ou de toutes les parties - une mention déterminante pour identifier la voie de recours applicable."
+    },
+    {
+      "id": 15,
+      "question": "Que se passe-t-il lorsqu'une personne est déclarée coupable de plusieurs crimes ou délits au cours de la même poursuite ?",
+      "choix": [
+        "Seule la peine la plus forte est prononcée",
+        "Toutes les peines s'additionnent obligatoirement",
+        "Seule la peine la plus légère est retenue",
+        "Le juge doit obligatoirement relaxer le prévenu"
+      ],
+      "reponse": "Seule la peine la plus forte est prononcée",
+      "indices": "Pensez au principe de non-cumul des peines dans ce cas précis.",
+      "explication": "En cas de déclaration de culpabilité pour plusieurs crimes ou délits au sein d'une même poursuite, le Code prévoit que seule la peine la plus forte est prononcée."
+    },
+    {
+      "id": 16,
+      "question": "Une décision qui se contente d'affirmer que « le premier juge a fait une saine appréciation des faits », sans détailler les considérations de fait et de droit, encourt :",
+      "choix": [
+        "La cassation pour insuffisance de motifs",
+        "Aucune sanction, cette formule est suffisante",
+        "La nullité automatique de la citation",
+        "La prescription de l'action publique"
+      ],
+      "reponse": "La cassation pour insuffisance de motifs",
+      "indices": "Souvenez-vous de la jurisprudence de la chambre pénale rappelée dans le module.",
+      "explication": "Une motivation générale et stéréotypée, qui ne précise pas les considérations de fait et de droit ayant fondé la décision, constitue une insuffisance de motifs censurée par la Cour de Cassation, comme l'illustre l'arrêt n°206 du 15 mars 2022 de sa chambre pénale."
+    },
+    {
+      "id": 17,
+      "question": "Qui rédige matériellement les arrêts et jugements pénaux avant leur signature ?",
+      "choix": [
+        "Le greffier",
+        "Le procureur général",
+        "L'huissier",
+        "L'officier de police judiciaire"
+      ],
+      "reponse": "Le greffier",
+      "indices": "C'est l'auxiliaire de justice chargé de la tenue des minutes.",
+      "explication": "Les arrêts et jugements sont écrits par le greffier, sans interligne ; la minute est ensuite signée par le président et le greffier."
+    },
+    {
+      "id": 18,
+      "question": "En matière de simple police, que doit notamment préciser le dispositif du jugement ?",
+      "choix": [
+        "S'il est rendu en premier ou en dernier ressort",
+        "Le nom complet de tous les témoins entendus",
+        "Le montant exact des frais d'huissier",
+        "La date de naissance du greffier"
+      ],
+      "reponse": "S'il est rendu en premier ou en dernier ressort",
+      "indices": "Cette précision conditionne l'ouverture ou non d'un appel.",
+      "explication": "En matière de simple police, le dispositif indique si le jugement est rendu en premier ou en dernier ressort, ce qui détermine la possibilité d'un appel."
+    },
+    {
+      "id": 19,
+      "question": "Contre quel type de décision l'opposition est-elle ouverte ?",
+      "choix": [
+        "Les décisions rendues par défaut",
+        "Toutes les décisions, qu'elles soient contradictoires ou non",
+        "Uniquement les décisions de la Cour de Cassation",
+        "Uniquement les décisions de simple police"
+      ],
+      "reponse": "Les décisions rendues par défaut",
+      "indices": "Pensez à la situation de la partie absente lors du prononcé.",
+      "explication": "L'opposition est la voie de recours ordinaire ouverte contre les jugements et arrêts rendus par défaut, c'est-à-dire en l'absence de la partie poursuivie non régulièrement représentée."
+    },
+    {
+      "id": 20,
+      "question": "Devant quelle juridiction l'opposition est-elle portée ?",
+      "choix": [
+        "Devant la même juridiction qui a rendu la décision par défaut",
+        "Obligatoirement devant la Cour d'appel",
+        "Obligatoirement devant la Cour Suprême",
+        "Devant le tribunal civil"
+      ],
+      "reponse": "Devant la même juridiction qui a rendu la décision par défaut",
+      "indices": "L'opposition est une voie de rétractation, non un recours devant une juridiction supérieure.",
+      "explication": "L'opposition permet à la partie défaillante de ressaisir la juridiction qui a statué par défaut afin que l'affaire soit rejugée par cette même juridiction."
+    },
+    {
+      "id": 21,
+      "question": "Que désigne l'« itératif défaut » ?",
+      "choix": [
+        "La situation où l'opposant ne comparaît pas une seconde fois après avoir formé opposition",
+        "Une seconde citation délivrée par erreur",
+        "Un appel formé deux fois pour la même affaire",
+        "Le rejet automatique d'un pourvoi en cassation"
+      ],
+      "reponse": "La situation où l'opposant ne comparaît pas une seconde fois après avoir formé opposition",
+      "indices": "Le préfixe « itératif » indique une répétition du défaut.",
+      "explication": "L'itératif défaut survient lorsque la partie qui a formé opposition ne comparaît pas non plus à la nouvelle audience ; la décision initiale retrouve alors son plein effet."
+    },
+    {
+      "id": 22,
+      "question": "Le Code de procédure pénale malgache organise-t-il une opposition contre les arrêts rendus par défaut par la Cour d'appel elle-même ?",
+      "choix": [
+        "Oui, une section spécifique y est consacrée",
+        "Non, seuls les jugements de première instance peuvent faire l'objet d'une opposition",
+        "Non, seule la cassation est alors ouverte",
+        "Oui, mais uniquement en matière de simple police"
+      ],
+      "reponse": "Oui, une section spécifique y est consacrée",
+      "indices": "Le titre consacré aux voies de recours distingue cette hypothèse dans un chapitre dédié.",
+      "explication": "Le Code consacre une section spécifique à l'opposition aux arrêts de la Cour d'appel, qui s'ajoute à l'opposition contre les jugements de première instance rendus par défaut."
+    },
+    {
+      "id": 23,
+      "question": "Qui peut, en principe, supporter les frais liés à la décision par défaut, à sa signification et à l'opposition ?",
+      "choix": [
+        "La partie opposante",
+        "Toujours le trésor public",
+        "Toujours la partie civile",
+        "Toujours le ministère public"
+      ],
+      "reponse": "La partie opposante",
+      "indices": "Le Code prévoit une règle spécifique pour responsabiliser celui qui n'a pas comparu.",
+      "explication": "Le Code prévoit qu'en cas d'opposition à une décision rendue par défaut, les frais de l'expédition de cette décision, de sa signification et de l'opposition peuvent être laissés à la charge de la partie opposante."
+    },
+    {
+      "id": 24,
+      "question": "Une partie qui n'a pas assisté aux débats peut-elle directement former un pourvoi en cassation sans passer par l'opposition ?",
+      "choix": [
+        "Non, elle ne le peut pas tant que le délai d'opposition n'est pas expiré",
+        "Oui, les deux voies sont totalement indépendantes",
+        "Oui, mais uniquement en matière criminelle",
+        "Non, le pourvoi en cassation lui est définitivement fermé"
+      ],
+      "reponse": "Non, elle ne le peut pas tant que le délai d'opposition n'est pas expiré",
+      "indices": "Pensez à la hiérarchie entre voies ordinaires et voies extraordinaires.",
+      "explication": "Les parties absentes aux débats ne peuvent se pourvoir en cassation tant que le délai ouvert pour former opposition contre la décision n'est pas expiré : l'opposition doit en principe être épuisée en priorité."
+    },
+    {
+      "id": 25,
+      "question": "L'opposition est-elle classée parmi les voies de recours ordinaires ou extraordinaires ?",
+      "choix": [
+        "Ordinaires",
+        "Extraordinaires",
+        "Ni l'une ni l'autre, elle n'est pas une voie de recours",
+        "Elle dépend du montant de la condamnation"
+      ],
+      "reponse": "Ordinaires",
+      "indices": "Avec l'appel, elle permet un nouvel examen complet de l'affaire.",
+      "explication": "L'opposition et l'appel constituent les voies de recours ordinaires, qui permettent un réexamen complet de l'affaire au fond, à la différence des voies extraordinaires."
+    },
+    {
+      "id": 26,
+      "question": "Devant quelle formation de la Cour d'appel est porté l'appel d'un jugement du tribunal correctionnel ?",
+      "choix": [
+        "La chambre correctionnelle et de simple police",
+        "La chambre d'accusation",
+        "L'assemblée plénière de la Cour Suprême",
+        "La chambre des comptes"
+      ],
+      "reponse": "La chambre correctionnelle et de simple police",
+      "indices": "Reportez-vous à la juridiction décrite dans la section sur les juridictions de jugement.",
+      "explication": "L'appel d'un jugement du tribunal correctionnel, d'une section de tribunal ou d'un tribunal de simple police est porté devant la chambre correctionnelle et de simple police de la Cour d'appel."
+    },
+    {
+      "id": 27,
+      "question": "Où la déclaration d'appel doit-elle être effectuée ?",
+      "choix": [
+        "Au greffe de la juridiction qui a rendu la décision attaquée",
+        "Directement au greffe de la Cour Suprême",
+        "Auprès du Ministre de la Justice",
+        "Auprès du Procureur Général uniquement par courrier"
+      ],
+      "reponse": "Au greffe de la juridiction qui a rendu la décision attaquée",
+      "indices": "C'est la même logique que pour la déclaration de pourvoi en cassation.",
+      "explication": "La déclaration d'appel est faite au greffe de la juridiction qui a rendu la décision attaquée, qui transmet ensuite le dossier à la Cour d'appel."
+    },
+    {
+      "id": 28,
+      "question": "Pour une décision rendue contradictoirement, à partir de quel moment court, en principe, le délai d'appel ?",
+      "choix": [
+        "À compter du prononcé de la décision",
+        "À compter de la signification, quelle que soit la décision",
+        "À compter de l'exécution de la peine",
+        "À compter de la clôture de l'instruction"
+      ],
+      "reponse": "À compter du prononcé de la décision",
+      "indices": "Distinguez ce cas de celui d'une décision par défaut.",
+      "explication": "Pour une décision rendue contradictoirement, le délai d'appel court en principe à compter de son prononcé, alors que pour une décision par défaut, il ne court qu'à compter de sa signification."
+    },
+    {
+      "id": 29,
+      "question": "Pour une décision rendue par défaut ou par itératif défaut, à partir de quand court le délai d'appel ?",
+      "choix": [
+        "À compter de la signification de la décision",
+        "À compter du prononcé, comme pour toute décision",
+        "Il n'existe pas de délai d'appel dans ce cas",
+        "À compter de la date de l'infraction"
+      ],
+      "reponse": "À compter de la signification de la décision",
+      "indices": "La partie absente doit d'abord avoir connaissance de la décision.",
+      "explication": "Lorsque la décision a été rendue par défaut ou par itératif défaut, le délai d'appel ne court qu'à compter de sa signification à la partie concernée, qui n'a pas eu connaissance du prononcé."
+    },
+    {
+      "id": 30,
+      "question": "L'appel permet-il un réexamen de l'affaire en fait et en droit ?",
+      "choix": [
+        "Oui, c'est précisément l'objet de l'appel",
+        "Non, seul le droit est réexaminé",
+        "Non, seuls les faits sont réexaminés",
+        "L'appel ne porte que sur les frais de justice"
+      ],
+      "reponse": "Oui, c'est précisément l'objet de l'appel",
+      "indices": "C'est ce qui distingue fondamentalement l'appel du pourvoi en cassation.",
+      "explication": "L'appel est une voie de recours ordinaire qui permet un second examen complet de l'affaire, tant sur les faits que sur le droit, devant la Cour d'appel."
+    },
+    {
+      "id": 31,
+      "question": "Si le prévenu seul interjette appel d'un jugement de condamnation, mais que le ministère public forme également appel, quel risque court le prévenu ?",
+      "choix": [
+        "Un réexamen complet de l'action publique pouvant conduire à une issue moins favorable",
+        "Aucun risque, l'appel du parquet est sans incidence",
+        "La nullité automatique de l'appel du prévenu",
+        "L'extinction immédiate de l'action publique"
+      ],
+      "reponse": "Un réexamen complet de l'action publique pouvant conduire à une issue moins favorable",
+      "indices": "Le ministère public dispose de son propre droit de recours, indépendant de celui du prévenu.",
+      "explication": "Le ministère public exerce, le cas échéant, les voies de recours contre les décisions des juridictions de son ressort ; lorsqu'il fait également appel, la Cour d'appel réexamine l'ensemble de l'action publique, ce qui peut être défavorable au prévenu."
+    },
+    {
+      "id": 32,
+      "question": "L'appel et l'opposition appartiennent-ils à la même catégorie de voies de recours ?",
+      "choix": [
+        "Oui, ce sont toutes deux des voies de recours ordinaires",
+        "Non, l'appel est extraordinaire et l'opposition est ordinaire",
+        "Non, l'opposition est extraordinaire et l'appel est ordinaire",
+        "Non, aucune des deux n'est une voie de recours au sens strict"
+      ],
+      "reponse": "Oui, ce sont toutes deux des voies de recours ordinaires",
+      "indices": "Toutes deux permettent un réexamen complet de l'affaire au fond.",
+      "explication": "L'opposition et l'appel sont classées parmi les voies de recours ordinaires, par opposition au pourvoi en cassation, à la révision et au pourvoi dans l'intérêt de la loi, qui sont des voies extraordinaires."
+    },
+    {
+      "id": 33,
+      "question": "Quel texte régit aujourd'hui le pourvoi en cassation en matière pénale à Madagascar ?",
+      "choix": [
+        "La loi organique n°2004-036 du 1er octobre 2004",
+        "Le seul Code pénal de 1972",
+        "La loi sur la Haute Cour de Justice",
+        "Le Code de procédure civile de 1960"
+      ],
+      "reponse": "La loi organique n°2004-036 du 1er octobre 2004",
+      "indices": "Ce texte régit l'organisation et la procédure devant la Cour Suprême et les trois cours la composant.",
+      "explication": "Le pourvoi en cassation est régi par la loi organique n°2004-036 du 1er octobre 2004 relative à l'organisation, aux attributions, au fonctionnement et à la procédure applicable devant la Cour Suprême et les trois cours la composant."
+    },
+    {
+      "id": 34,
+      "question": "Pour quel motif unique le pourvoi en cassation peut-il être formé, selon l'article 25 de la loi organique n°2004-036 ?",
+      "choix": [
+        "La violation de la loi",
+        "Une appréciation différente des faits par le demandeur",
+        "Le seul désaccord avec le montant de la peine",
+        "L'existence d'un nouveau témoin"
+      ],
+      "reponse": "La violation de la loi",
+      "indices": "La Cour de Cassation ne réexamine pas les faits.",
+      "explication": "L'article 25 de la loi organique dispose que le pourvoi ne peut être formé que pour violation de la loi, la violation des coutumes étant assimilée à la violation de la loi."
+    },
+    {
+      "id": 35,
+      "question": "Parmi les cas d'ouverture à cassation énumérés à l'article 26 de la loi organique n°2004-036, lequel figure dans la liste ?",
+      "choix": [
+        "L'insuffisance de motifs",
+        "Le simple regret de la peine prononcée",
+        "L'absence d'avocat lors de l'enquête préliminaire",
+        "Le dépassement du délai raisonnable de jugement"
+      ],
+      "reponse": "L'insuffisance de motifs",
+      "indices": "Cette cause est directement liée à l'exigence de motivation étudiée plus haut.",
+      "explication": "L'article 26 énumère notamment l'incompétence, la fausse application ou interprétation de la loi, l'excès de pouvoir, l'inobservation des formes prescrites à peine de nullité, la violation de l'autorité de la chose jugée, et l'absence, l'insuffisance ou la contradiction de motifs."
+    },
+    {
+      "id": 36,
+      "question": "Quelles décisions peuvent en principe faire l'objet d'un pourvoi en cassation ?",
+      "choix": [
+        "Les décisions rendues en dernier ressort",
+        "Toutes les décisions, y compris celles susceptibles d'appel",
+        "Uniquement les ordonnances du juge d'instruction",
+        "Uniquement les décisions de simple police rendues en premier ressort"
+      ],
+      "reponse": "Les décisions rendues en dernier ressort",
+      "indices": "Le pourvoi suppose que toute autre voie ordinaire de recours soit fermée.",
+      "explication": "Le pourvoi en cassation est ouvert contre les décisions rendues en dernier ressort : décisions de première instance en dernier ressort, arrêts de la Cour d'appel même par défaut, arrêts de la chambre correctionnelle, certains arrêts de la chambre d'accusation, et arrêts des cours criminelles."
+    },
+    {
+      "id": 37,
+      "question": "Comment se forme le pourvoi en cassation en matière pénale ?",
+      "choix": [
+        "Par simple déclaration au greffe de la juridiction qui a rendu la décision attaquée",
+        "Uniquement par voie d'assignation devant huissier",
+        "Par requête directement déposée au Conseil d'État",
+        "Par lettre adressée au Ministre de la Justice"
+      ],
+      "reponse": "Par simple déclaration au greffe de la juridiction qui a rendu la décision attaquée",
+      "indices": "La procédure pénale prévoit une formalité simplifiée par rapport à la matière civile.",
+      "explication": "En matière pénale, le pourvoi se forme par simple déclaration auprès du greffe de la juridiction qui a rendu la décision attaquée."
+    },
+    {
+      "id": 38,
+      "question": "Comment un demandeur détenu peut-il déclarer son pourvoi en cassation ?",
+      "choix": [
+        "Par écrit ou verbalement auprès du gardien-chef de l'établissement pénitentiaire",
+        "Il ne peut pas se pourvoir tant qu'il est détenu",
+        "Uniquement par l'intermédiaire de sa famille",
+        "Uniquement après sa libération"
+      ],
+      "reponse": "Par écrit ou verbalement auprès du gardien-chef de l'établissement pénitentiaire",
+      "indices": "Cette modalité facilite l'exercice du recours par une personne incarcérée.",
+      "explication": "Si le demandeur au pourvoi est détenu, sa déclaration peut être faite par écrit ou verbalement auprès du gardien-chef de l'établissement pénitentiaire, qui délivre un récépissé daté."
+    },
+    {
+      "id": 39,
+      "question": "Quel est le délai pour se pourvoir en cassation en matière pénale, à compter du prononcé de la décision attaquée ?",
+      "choix": [
+        "Trois jours francs",
+        "Dix jours francs",
+        "Un mois",
+        "Deux mois"
+      ],
+      "reponse": "Trois jours francs",
+      "indices": "Ce délai est volontairement très bref pour ne pas retarder l'exécution des décisions pénales.",
+      "explication": "Le délai pour se pourvoir en cassation en matière pénale est de trois jours francs à compter du prononcé de la décision attaquée."
+    },
+    {
+      "id": 40,
+      "question": "Si la partie n'a pas assisté au prononcé de la décision, à partir de quel moment court le délai de pourvoi en cassation ?",
+      "choix": [
+        "À compter de la notification ou de la signification par voie d'huissier",
+        "Le délai court malgré tout dès le prononcé",
+        "À compter de l'exécution de la peine",
+        "Aucun délai ne s'applique dans ce cas"
+      ],
+      "reponse": "À compter de la notification ou de la signification par voie d'huissier",
+      "indices": "Il s'agit du même principe que pour l'appel d'une décision par défaut.",
+      "explication": "Lorsque la partie n'a pas assisté au prononcé de l'arrêt, le délai de trois jours francs ne court qu'à partir de la notification ou de la signification par voie d'huissier."
+    },
+    {
+      "id": 41,
+      "question": "Dans quel délai le mémoire ampliatif doit-il en principe être déposé au greffe de la juridiction qui a rendu la décision attaquée, après la déclaration de pourvoi ?",
+      "choix": [
+        "Dans les dix jours",
+        "Dans les trois jours",
+        "Dans le mois",
+        "Dans les six mois"
+      ],
+      "reponse": "Dans les dix jours",
+      "indices": "Ce premier délai est suivi, à défaut, d'un second délai plus long devant la Cour de Cassation elle-même.",
+      "explication": "Le mémoire ampliatif doit en principe être déposé dans les dix jours suivant la déclaration au greffe de la juridiction qui a rendu la décision attaquée."
+    },
+    {
+      "id": 42,
+      "question": "À défaut de dépôt dans les dix jours, dans quel délai supplémentaire le mémoire ampliatif peut-il être déposé au greffe de la Cour de Cassation ?",
+      "choix": [
+        "Dans les deux mois suivants",
+        "Dans les huit jours suivants",
+        "Dans les six mois suivants",
+        "Aucun délai supplémentaire n'est prévu"
+      ],
+      "reponse": "Dans les deux mois suivants",
+      "indices": "Ce second délai laisse davantage de temps au demandeur pour construire son argumentation.",
+      "explication": "À l'expiration du délai de dix jours, le mémoire ampliatif peut encore être déposé dans les deux mois suivants, directement au greffe de la Cour de Cassation."
+    },
+    {
+      "id": 43,
+      "question": "De quel délai dispose le défendeur au pourvoi pour déposer son mémoire en défense, à compter de la notification du mémoire du demandeur ?",
+      "choix": [
+        "Deux mois",
+        "Dix jours",
+        "Trois jours francs",
+        "Quinze jours"
+      ],
+      "reponse": "Deux mois",
+      "indices": "Ce délai est identique au second délai dont dispose le demandeur.",
+      "explication": "Le défendeur au pourvoi dispose d'un délai de deux mois, courant de la notification du mémoire du demandeur, pour déposer son mémoire en défense ou en réplique."
+    },
+    {
+      "id": 44,
+      "question": "Que se passe-t-il lorsque la Cour de Cassation rejette un pourvoi en cassation ?",
+      "choix": [
+        "La décision attaquée devient irrévocable",
+        "L'affaire est automatiquement rejugée sur le fond",
+        "Le condamné est immédiatement libéré",
+        "Une nouvelle instruction est obligatoirement ouverte"
+      ],
+      "reponse": "La décision attaquée devient irrévocable",
+      "indices": "Le rejet clôt en principe définitivement le litige, sauf voie exceptionnelle comme le pourvoi dans l'intérêt de la loi.",
+      "explication": "En cas de rejet du pourvoi, la décision attaquée devient irrévocable ; il n'existe plus de recours possible, hormis l'hypothèse exceptionnelle du pourvoi dans l'intérêt de la loi."
+    },
+    {
+      "id": 45,
+      "question": "En cas de cassation, devant quelle juridiction l'affaire est-elle, en principe, renvoyée ?",
+      "choix": [
+        "Devant la même juridiction, autrement composée",
+        "Devant le tribunal civil",
+        "Devant la Haute Cour de Justice",
+        "L'affaire n'est jamais renvoyée"
+      ],
+      "reponse": "Devant la même juridiction, autrement composée",
+      "indices": "Les magistrats ayant déjà statué ne peuvent en principe siéger à nouveau sur la même affaire.",
+      "explication": "En cas de cassation, l'affaire est en principe renvoyée devant la même juridiction qui a rendu la décision cassée, mais autrement composée ; dans des cas limitativement prévus, la Cour peut casser sans renvoi."
+    },
+    {
+      "id": 46,
+      "question": "Dans quelle situation une demande en révision peut-elle être envisagée ?",
+      "choix": [
+        "Lorsque des éléments nouveaux font naître un doute sur la culpabilité d'un condamné définitif",
+        "Dès qu'une partie n'est pas satisfaite de la peine prononcée",
+        "Uniquement en cas d'erreur de calcul des frais de justice",
+        "Uniquement avant que la décision ne devienne définitive"
+      ],
+      "reponse": "Lorsque des éléments nouveaux font naître un doute sur la culpabilité d'un condamné définitif",
+      "indices": "La révision suppose que la condamnation soit déjà définitive.",
+      "explication": "La demande en révision permet de remettre en cause une condamnation pénale devenue définitive lorsque des éléments nouveaux sont de nature à faire naître un doute sur la culpabilité du condamné."
+    },
+    {
+      "id": 47,
+      "question": "Quelle juridiction est compétente pour statuer sur une demande en révision ?",
+      "choix": [
+        "La Cour Suprême",
+        "Le tribunal correctionnel qui a initialement statué",
+        "La chambre d'accusation de la Cour d'appel",
+        "Le tribunal de simple police"
+      ],
+      "reponse": "La Cour Suprême",
+      "indices": "Il s'agit d'une compétence partagée avec d'autres recours extraordinaires comme la prise à partie.",
+      "explication": "La demande en révision relève de la compétence de la Cour Suprême, qui statue également sur les demandes de renvoi pour suspicion légitime, les demandes de prise à partie et les contrariétés de décisions rendues en dernier ressort."
+    },
+    {
+      "id": 48,
+      "question": "Quel est l'objectif du pourvoi dans l'intérêt de la loi ?",
+      "choix": [
+        "Faire censurer une illégalité sans modifier la situation des parties déjà jugées",
+        "Permettre au condamné d'obtenir une remise de peine",
+        "Rouvrir systématiquement le débat sur les faits",
+        "Remplacer l'appel lorsque celui-ci est forclos"
+      ],
+      "reponse": "Faire censurer une illégalité sans modifier la situation des parties déjà jugées",
+      "indices": "Ce recours protège la cohérence du droit plus que les intérêts individuels des parties.",
+      "explication": "Le pourvoi dans l'intérêt de la loi vise à faire censurer, dans le seul intérêt du droit, une décision irrévocable entachée d'illégalité, sans remettre en cause la situation des parties au procès déjà jugé."
+    },
+    {
+      "id": 49,
+      "question": "Qui peut engager un pourvoi dans l'intérêt de la loi ?",
+      "choix": [
+        "Le Procureur Général de la Cour de Cassation, d'office ou sur instruction du Ministre de la Justice",
+        "N'importe quel justiciable directement",
+        "Uniquement la partie civile",
+        "Uniquement le Président de la République"
+      ],
+      "reponse": "Le Procureur Général de la Cour de Cassation, d'office ou sur instruction du Ministre de la Justice",
+      "indices": "Ce recours relève d'une initiative institutionnelle, non d'une démarche individuelle des parties.",
+      "explication": "Le pourvoi dans l'intérêt de la loi est engagé par le Procureur Général de la Cour de Cassation, d'office ou sur instruction du Ministre de la Justice, et la Cour de Cassation statue alors toutes chambres réunies."
+    },
+    {
+      "id": 50,
+      "question": "Le pourvoi dans l'intérêt de la loi est-il classé parmi les voies de recours ordinaires ou extraordinaires ?",
+      "choix": [
+        "Extraordinaires",
+        "Ordinaires",
+        "Il ne s'agit pas d'une voie de recours",
+        "Il est assimilé à l'opposition"
+      ],
+      "reponse": "Extraordinaires",
+      "indices": "Il partage cette qualification avec le pourvoi en cassation classique et la révision.",
+      "explication": "Le pourvoi dans l'intérêt de la loi, comme le pourvoi en cassation et la demande en révision, appartient aux voies de recours extraordinaires."
+    },
+    {
+      "id": 51,
+      "question": "Un jugement a été rendu par défaut faute de comparution du prévenu, qui n'a pas eu connaissance de la citation. Quelle est la première voie de recours qu'il doit en principe exercer ?",
+      "choix": [
+        "L'opposition devant la juridiction qui a statué",
+        "Le pourvoi en cassation",
+        "La demande en révision",
+        "Le pourvoi dans l'intérêt de la loi"
+      ],
+      "reponse": "L'opposition devant la juridiction qui a statué",
+      "indices": "Souvenez-vous de la hiérarchie entre voies ordinaires et voies extraordinaires.",
+      "explication": "Un jugement par défaut ouvre d'abord la voie de l'opposition devant la juridiction qui a statué ; le pourvoi en cassation n'est ouvert qu'une fois cette voie ordinaire épuisée ou son délai expiré."
+    },
+    {
+      "id": 52,
+      "question": "Une partie souhaite contester non pas l'appréciation des faits, mais l'application d'un texte de loi par la Cour d'appel dans un arrêt rendu en dernier ressort. Quelle voie de recours est la plus appropriée ?",
+      "choix": [
+        "Le pourvoi en cassation",
+        "Un nouvel appel devant la même Cour d'appel",
+        "L'opposition",
+        "Une simple lettre adressée au greffier"
+      ],
+      "reponse": "Le pourvoi en cassation",
+      "indices": "La fausse application de la loi figure parmi les cas d'ouverture à cassation.",
+      "explication": "La fausse application ou la fausse interprétation de la loi par les juges du fond constitue un cas d'ouverture à cassation au sens de l'article 26 de la loi organique n°2004-036 ; le pourvoi en cassation est donc la voie appropriée."
+    },
+    {
+      "id": 53,
+      "question": "Quelle différence fondamentale distingue l'appel du pourvoi en cassation ?",
+      "choix": [
+        "L'appel réexamine les faits et le droit, le pourvoi en cassation contrôle uniquement la légalité",
+        "L'appel est extraordinaire et le pourvoi est ordinaire",
+        "Le pourvoi en cassation réexamine systématiquement les faits",
+        "Il n'existe aucune différence entre ces deux voies de recours"
+      ],
+      "reponse": "L'appel réexamine les faits et le droit, le pourvoi en cassation contrôle uniquement la légalité",
+      "indices": "Cette distinction structure l'ensemble du module.",
+      "explication": "L'appel, voie de recours ordinaire, permet un second examen complet de l'affaire en fait et en droit, alors que le pourvoi en cassation, voie extraordinaire, se limite à un contrôle de la légalité de la décision attaquée, sans réexaminer les faits."
+    }
+  ],
+  "cas_pratiques": [
+    {
+      "titre": "Cas pratique 1 - Le jugement par défaut insuffisamment motivé (Antsiranana)",
+      "contexte": "Cette situation s'inspire, à des fins pédagogiques, de la jurisprudence de la chambre pénale de la Cour de Cassation malgache relative à l'exigence de motivation des décisions confirmatives rendues sur opposition.",
+      "enonce": "M. RAZAFY, domicilié à Ramena, est poursuivi devant le Tribunal Correctionnel d'Antsiranana pour transport non autorisé de bois précieux. N'ayant pas reçu la citation à personne, il ne comparaît pas à l'audience : le tribunal le condamne par un jugement rendu par défaut à une peine d'emprisonnement ferme. M. RAZAFY, informé tardivement de cette condamnation, forme opposition. À l'issue de la nouvelle audience, le tribunal maintient sa décision initiale. M. RAZAFY interjette alors appel devant la Chambre Correctionnelle de la Cour d'Appel d'Antsiranana, qui rend un arrêt confirmatif se limitant à affirmer que « des pièces du dossier et du débat, il résulte que le premier juge a fait une saine appréciation des faits de la cause et une juste application de la loi », sans détailler aucune considération de fait ni de droit propre à l'espèce.",
+      "questions": [
+        "1. M. RAZAFY a-t-il correctement utilisé la voie de l'opposition ? Pourquoi cette voie était-elle ouverte à son égard ?",
+        "2. L'arrêt rendu par la Chambre Correctionnelle de la Cour d'Appel d'Antsiranana respecte-t-il les exigences légales de motivation ?",
+        "3. Quelle voie de recours reste ouverte à M. RAZAFY contre cet arrêt confirmatif, sur quel fondement légal précis, et selon quelle procédure ?"
+      ],
+      "corrige": "1. Oui. Le jugement initial ayant été rendu par défaut - M. RAZAFY n'ayant pas eu connaissance de la citation et n'ayant donc pas comparu - l'opposition était la voie de recours ordinaire appropriée pour lui permettre de faire rejuger l'affaire devant le tribunal correctionnel lui-même.\n\n2. Non. Le dispositif d'un jugement ou d'un arrêt doit reposer sur des motifs qui en constituent la base ; une formule générale affirmant que le premier juge a fait une saine appréciation des faits, sans préciser les considérations de fait et de droit propres à l'espèce, ne satisfait pas à cette exigence. Cette carence est analogue à celle censurée par la chambre pénale de la Cour de Cassation dans son arrêt n°206 du 15 mars 2022, qui a précisément cassé un arrêt confirmatif de la Chambre Correctionnelle de la Cour d'Appel d'Antsiranana pour ce motif.\n\n3. M. RAZAFY peut former un pourvoi en cassation pour violation de la loi, sur le fondement des articles 25 et 26 de la loi organique n°2004-036 du 1er octobre 2004, le moyen tiré étant précisément l'absence ou l'insuffisance de motifs. La déclaration de pourvoi doit être faite au greffe de la Cour d'Appel d'Antsiranana dans le délai de trois jours francs à compter du prononcé de l'arrêt (ou de sa notification s'il n'y a pas assisté), suivie du dépôt d'un mémoire ampliatif dans les dix jours, ou, à défaut, dans les deux mois suivants devant la Cour de Cassation."
+    },
+    {
+      "titre": "Cas pratique 2 - Jugement contradictoire, appel du parquet et limites du pourvoi",
+      "contexte": "Ce cas porte sur la distinction entre opposition, appel et pourvoi en cassation, et sur le risque attaché à l'appel du ministère public.",
+      "enonce": "Mme RASOA, commerçante à Diego-Suarez, comparaît en personne devant le Tribunal Correctionnel d'Antsiranana, poursuivie pour abus de confiance au préjudice d'un fournisseur. Présente et assistée de son conseil, elle est condamnée contradictoirement à six mois d'emprisonnement avec sursis et au paiement de dommages-intérêts à la partie civile. Estimant la peine sévère au regard des circonstances, elle souhaite contester le jugement. Le Procureur de la République, estimant au contraire la peine trop clémente, forme également un recours.",
+      "questions": [
+        "1. Mme RASOA peut-elle former opposition contre ce jugement ? Justifiez votre réponse.",
+        "2. Quelle voie de recours lui est ouverte, et devant quelle juridiction est-elle portée ?",
+        "3. Le Procureur de la République peut-il, lui aussi, exercer une voie de recours ? Quel risque cela fait-il peser sur Mme RASOA ?",
+        "4. Si l'arrêt rendu en appel ne donne pas satisfaction à Mme RASOA, quelle voie de recours lui reste-t-il, et sur quels types de moyens pourrait-elle s'appuyer ?"
+      ],
+      "corrige": "1. Non. L'opposition n'est ouverte que contre les décisions rendues par défaut. Mme RASOA ayant comparu en personne et le jugement ayant été rendu contradictoirement à son égard, cette voie ne lui est pas ouverte.\n\n2. La voie ouverte est l'appel, porté devant la chambre correctionnelle et de simple police de la Cour d'Appel d'Antsiranana, qui réexaminera l'affaire en fait et en droit. Le délai d'appel court, pour une décision contradictoire, à compter du prononcé.\n\n3. Oui. Le procureur de la République exerce les voies de recours contre les décisions des juridictions de jugement de son ressort, au même titre que le condamné. Si le parquet forme également appel, la Cour d'Appel réexaminera l'ensemble de l'action publique ; le risque pour Mme RASOA est que la peine prononcée en première instance soit aggravée à l'issue de ce réexamen complet, et non simplement confirmée ou réduite.\n\n4. Si l'arrêt de la Cour d'Appel, rendu en dernier ressort, ne lui donne pas satisfaction, Mme RASOA peut former un pourvoi en cassation devant la chambre pénale de la Cour de Cassation, mais uniquement pour violation de la loi au sens des articles 25 et 26 de la loi organique n°2004-036 : par exemple une incompétence, une fausse application ou interprétation de la loi, une inobservation des formes prescrites à peine de nullité, ou une absence/insuffisance de motifs. Elle ne pourra en revanche pas demander à la Cour de Cassation de réapprécier à nouveau les faits de la cause, ce contrôle relevant exclusivement des juges du fond."
+    }
+  ]
+    }
