@@ -1,0 +1,507 @@
+{
+  "niveau": 3,
+  "niveau_label": "Avancé",
+  "module": 5,
+  "titre": "Le contentieux administratif",
+  "description": "Ce module explore les mécanismes juridiques par lesquels les citoyens peuvent contester les actes et décisions de l'Administration malgache devant les juridictions compétentes. Recours, délais, pouvoirs du juge, exécution des décisions — tout ce qu'un praticien du droit doit maîtriser.",
+  "duree_estimee": "60 minutes",
+  "source_legale": "Loi n°2004-036 du 1er octobre 2004 relative à l'organisation, aux attributions, au fonctionnement et à la procédure applicable devant le Conseil d'État — Loi organique n°2004-005 du 26 juillet 2004 portant organisation, fonctionnement et procédures devant le Tribunal Administratif — Ordonnance n°60-107 du 27 septembre 1960 portant organisation de la juridiction administrative — Constitution de la IVème République de Madagascar (2010), art. 111-131",
+
+  "lecon": {
+    "introduction": "Un fonctionnaire est révoqué sans procédure régulière. Un commerçant d'Antsiranana voit sa licence retirée par arrêté préfectoral abusif. Une commune de la région DIANA est exclue d'un marché public sans justification. Dans tous ces cas, la personne lésée peut saisir une juridiction administrative pour faire annuler la décision illégale ou obtenir réparation. Ce module vous explique comment ce système fonctionne à Madagascar — qui sont les juges administratifs, quels recours existent, comment les exercer, et ce que peut faire le juge face à l'Administration.",
+
+    "parties": [
+      {
+        "id": "P1",
+        "titre": "La dualité de juridictions et la spécificité du contentieux administratif",
+        "contenu": "LA DUALITÉ DE JURIDICTIONS À MADAGASCAR :\n\nMadagascar, comme la France dont elle a hérité le système juridique, est organisée autour de DEUX ORDRES DE JURIDICTION :\n\n• L'ORDRE JUDICIAIRE : juge les litiges entre personnes privées (droit civil, pénal, commercial). Juridictions : tribunaux de première instance, cours d'appel, Cour Suprême (chambre civile, pénale, commerciale).\n\n• L'ORDRE ADMINISTRATIF : juge les litiges entre les personnes privées et l'Administration (État, collectivités, établissements publics). Juridictions : Tribunaux Administratifs, Cour Suprême (chambre administrative = Conseil d'État).\n\nPOURQUOI UN ORDRE SÉPARÉ POUR L'ADMINISTRATION ?\n\nTrois raisons fondamentales :\n1. L'Administration dispose de PRÉROGATIVES DE PUISSANCE PUBLIQUE (expropriation, police administrative, réquisition) que le juge judiciaire n'est pas formé pour apprécier\n2. Les actes administratifs obéissent à des règles spécifiques (principe de légalité administrative, hiérarchie des normes, finalité d'intérêt général) que seul un juge spécialisé peut contrôler efficacement\n3. La séparation des pouvoirs : le juge judiciaire ne doit pas s'immiscer dans l'action administrative\n\nORGANISATION DES JURIDICTIONS ADMINISTRATIVES À MADAGASCAR :\n\n• LES TRIBUNAUX ADMINISTRATIFS (TA) : juridictions administratives de premier degré, institués par la loi organique n°2004-005. Un tribunal administratif est compétent pour les litiges nés dans leur ressort territorial. Leur procédure est fixée par la loi n°2004-036.\n\n• LE CONSEIL D'ÉTAT (chambre administrative de la Cour Suprême) : institué par les articles 111-131 de la Constitution de 2010. Il connaît en appel des décisions des tribunaux administratifs et en premier et dernier ressort pour certains recours (recours contre les actes réglementaires nationaux).\n\nLE CONFLIT DE COMPÉTENCE :\nParfois, la frontière entre ordre judiciaire et administratif est incertaine. Quelques critères :\n• Critère du service public : si le litige concerne la gestion d'un service public → compétence administrative\n• Critère de la puissance publique : si l'acte contesté use de prérogatives exorbitantes → compétence administrative\n• Certains litiges relèvent du judiciaire même en présence d'une personne publique (voie de fait, emprise irrégulière sur propriété privée)",
+
+        "exemple_concret": "Deux litiges à Antsiranana :\n\n• LITIGE 1 : Le Préfet de la région DIANA annule par arrêté l'autorisation d'ouverture d'un restaurant sans motif légal. Le restaurateur conteste. → TRIBUNAL ADMINISTRATIF compétent : litige entre un particulier et l'Administration, portant sur un acte administratif unilatéral.\n\n• LITIGE 2 : Un contractant de l'État, payé avec un chèque sans provision par une régie communale, réclame son dû. → Discussion : si la créance est liée à un marché public, le tribunal administratif est compétent. Si c'est un simple contrat de droit privé, le tribunal de première instance (ordre judiciaire) est compétent."
+      },
+      {
+        "id": "P2",
+        "titre": "Les recours administratifs préalables : avant le juge",
+        "contenu": "Avant de saisir le juge administratif, le requérant doit en principe épuiser les RECOURS ADMINISTRATIFS PRÉALABLES. C'est une condition de recevabilité importante en droit malgache.\n\nDEUX TYPES DE RECOURS ADMINISTRATIFS :\n\n━━━ 1. LE RECOURS GRACIEUX ━━━\n\nLe requérant s'adresse à L'AUTEUR MÊME de la décision contestée et lui demande de la retirer, de la modifier ou de l'abroger.\n\nCaractéristiques :\n• Adressé à l'autorité qui a pris l'acte\n• Aucune forme particulière imposée (mais l'écrit est fortement recommandé pour la preuve)\n• Interrompt le délai de recours contentieux : un nouveau délai repart à compter de la décision sur le recours gracieux\n• Si l'autorité ne répond pas dans le délai légal → SILENCE VALANT REJET IMPLICITE (décision implicite de rejet)\n\nLe délai de réponse implicite : à Madagascar, le silence de l'Administration pendant 4 mois vaut en principe décision implicite de rejet, ouvrant alors le délai de recours contentieux.\n\n━━━ 2. LE RECOURS HIÉRARCHIQUE ━━━\n\nLe requérant s'adresse AU SUPÉRIEUR HIÉRARCHIQUE de l'auteur de la décision, lui demandant d'annuler ou de réformer la décision de son subordonné.\n\nCaractéristiques :\n• Adressé à l'autorité supérieure (ministre si c'est un directeur qui a décidé, chef de région si c'est un préfet, etc.)\n• L'autorité supérieure peut : confirmer, annuler ou réformer la décision\n• Interrompt également le délai de recours contentieux\n\nIMPORTANCE PRATIQUE :\nLes recours administratifs préalables permettent à l'Administration de corriger elle-même ses erreurs, sans encombrer les juridictions. Ils sont souvent plus rapides que le recours juridictionnel. Mais si l'Administration maintient sa position, le recours contentieux devient nécessaire.",
+
+        "exemple_concret": "Madame RASOA reçoit un refus d'ouverture de commerce de la mairie d'Antsiranana.\n\nÉTAPE 1 — RECOURS GRACIEUX : elle écrit au Maire (auteur du refus) en lui exposant les motifs pour lesquels elle estime le refus injustifié, et demande le réexamen de son dossier. Le Maire a 4 mois pour répondre. S'il ne répond pas → rejet implicite → délai de recours contentieux ouvert.\n\nÉTAPE 2 — RECOURS HIÉRARCHIQUE (si gracieux rejeté) : elle saisit le Chef de Région DIANA, supérieur hiérarchique du Maire, pour qu'il annule la décision du Maire.\n\nÉTAPE 3 — RECOURS CONTENTIEUX (si toujours rejeté) : elle saisit le Tribunal Administratif pour excès de pouvoir."
+      },
+      {
+        "id": "P3",
+        "titre": "Le recours pour excès de pouvoir (REP) : l'arme principale contre l'Administration",
+        "contenu": "Le RECOURS POUR EXCÈS DE POUVOIR (REP) est le recours contentieux de droit commun par lequel un requérant demande au juge administratif d'ANNULER un acte administratif illégal.\n\nCARACTÉRISTIQUES ESSENTIELLES :\n• C'est un recours en ANNULATION — pas en réparation\n• Il est ouvert à tout justiciable ayant un INTÉRÊT À AGIR\n• Il est encadré dans des DÉLAIS STRICTS\n• L'annulation a un effet ERGA OMNES (à l'égard de tous)\n\nLES CONDITIONS DE RECEVABILITÉ :\n\n1. UN ACTE ADMINISTRATIF ATTAQUABLE :\nPas tout acte n'est attaquable en REP. Sont attaquables :\n• Les actes administratifs UNILATÉRAUX : décisions, arrêtés, circulaires réglementaires\n• Les contrats administratifs dans certaines conditions\n\nNe sont PAS attaquables directement :\n• Les actes de gouvernement (décisions de nature politique pure : dissolution, relations diplomatiques)\n• Les mesures d'ordre intérieur (notes de service internes sans effet sur les droits)\n\n2. LA QUALITÉ ET L'INTÉRÊT À AGIR :\nLe requérant doit avoir un intérêt personnel, direct et certain à l'annulation. Pas d'action populaire — tout le monde ne peut pas contester n'importe quoi.\n\n3. LE DÉLAI DE RECOURS :\nC'est la condition la plus critique en pratique. Le REP doit être formé dans un délai de 60 JOURS (2 mois) à compter de :\n• La publication de l'acte réglementaire\n• La notification de la décision individuelle au destinataire\n• La naissance d'une décision implicite de rejet (silence de 4 mois de l'Administration)\n\nPassé ce délai → FORCLUSION : le recours est irrecevable, quel que soit le fond.\n\nLES CAS D'OUVERTURE DU REP — LES ILLÉGALITÉS ATTAQUABLES :\n\nLe juge peut annuler un acte pour quatre types d'illégalités :\n\n• ILLÉGALITÉ EXTERNE :\n  a) Vice d'INCOMPÉTENCE : l'auteur de l'acte n'avait pas le pouvoir de le prendre\n  b) Vice de FORME et de PROCÉDURE : les formalités substantielles n'ont pas été respectées (absence de consultation obligatoire, motivation absente quand elle est requise)\n\n• ILLÉGALITÉ INTERNE :\n  c) Violation de la LOI : l'acte contrevient à une règle de droit supérieure (loi, règlement, traité)\n  d) DÉTOURNEMENT DE POUVOIR : l'autorité a utilisé ses pouvoirs pour une finalité autre que celle pour laquelle ils lui ont été conférés",
+
+        "exemple_concret": "Hery est fonctionnaire. Le ministre de l'Éducation lui inflige une sanction disciplinaire de révocation SANS l'avoir convoqué devant le Conseil de discipline (procédure obligatoire pour les sanctions du groupe 4).\n\nHery peut former un REP devant le Tribunal Administratif dans les 60 jours suivant la notification de la révocation, en invoquant :\n1. Un VICE DE PROCÉDURE (illégalité externe) : absence de consultation du Conseil de discipline, violation des droits de la défense\n2. Éventuellement une VIOLATION DE LA LOI (SGF) si la sanction est disproportionnée\n\nSi le TA fait droit au recours → ANNULATION de la révocation → Hery est réintégré."
+      },
+      {
+        "id": "P4",
+        "titre": "Le recours de plein contentieux : obtenir réparation de l'Administration",
+        "contenu": "Contrairement au REP qui vise l'annulation, le RECOURS DE PLEIN CONTENTIEUX (ou plein contentieux) vise à obtenir de l'Administration une CONDAMNATION à payer des dommages-intérêts ou à exécuter une obligation.\n\nPOURQUOI LE PLEIN CONTENTIEUX ?\n\nL'annulation d'un acte illégal ne suffit pas toujours à réparer le préjudice subi. Si un fonctionnaire est illégalement révoqué, l'annulation de la révocation le réintègre — mais ses 2 ans de salaire perdus ne sont pas automatiquement recouvrés. Le plein contentieux permet de réclamer ces sommes.\n\nDOMAINES DU PLEIN CONTENTIEUX :\n\n1. LA RESPONSABILITÉ ADMINISTRATIVE :\nL'État et les personnes publiques sont responsables des dommages causés par leurs agents dans l'exercice de leurs fonctions. Conditions :\n• Une FAUTE DE SERVICE (distincte de la faute personnelle de l'agent)\n• Un PRÉJUDICE certain et direct\n• Un LIEN DE CAUSALITÉ\n\nFAUTE DE SERVICE vs FAUTE PERSONNELLE :\n• Faute de SERVICE : commise dans l'exercice des fonctions, dans le temps et le lieu du service. L'État répond → Tribunal Administratif compétent.\n• Faute PERSONNELLE : acte détachable des fonctions, mû par des motifs personnels (vengeance privée, acte en dehors de tout service). L'agent répond seul sur ses biens → Tribunal civil compétent.\n\nEx : un policier qui blesse quelqu'un en service lors d'une interpellation → faute de service → responsabilité de l'État devant le TA. Un policier qui agresse un voisin chez lui en dehors du service → faute personnelle → TPI ordinaire.\n\n2. LES CONTRATS ADMINISTRATIFS :\nLitiges nés des marchés publics, concessions, contrats de recrutement d'agents publics → plein contentieux. Le juge peut condamner l'Administration à payer le prix convenu ou des dommages-intérêts.\n\n3. LES ÉLECTIONS ADMINISTRATIVES :\nContentieux des élections des représentants du personnel dans les administrations → plein contentieux.\n\nPRINCIPE DE LA FAUTE PRÉSUMÉE :\nPour certaines catégories de dommages (travaux publics, ouvrages publics défectueux), la responsabilité de l'Administration est engagée sans qu'il soit nécessaire de prouver une faute — simple preuve du dommage et du lien avec l'ouvrage public suffit.",
+
+        "exemple_concret": "La mairie d'Antsiranana confie des travaux de voirie à une entreprise de la région DIANA. Pendant les travaux, un engin de chantier mal signalisé reverse le véhicule de Madame VOLASOA, causant des blessures et la destruction de sa voiture.\n\nMme VOLASOA peut former un RECOURS DE PLEIN CONTENTIEUX devant le Tribunal Administratif :\n• FAUTE DE SERVICE : la mairie (maître de l'ouvrage) a mal surveillé les travaux\n• PRÉJUDICE : blessures corporelles + destruction véhicule\n• LIEN DE CAUSALITÉ : direct\n\nElle peut réclamer : remboursement des soins médicaux + valeur du véhicule + perte de revenus pendant la convalescence + préjudice moral.\n\nSi c'est le conducteur de l'engin qui avait bu de l'alcool (faute personnelle détachable), sa responsabilité personnelle s'ajoute à celle de l'État — les deux peuvent être actionnés."
+      },
+      {
+        "id": "P5",
+        "titre": "La procédure devant le Tribunal Administratif",
+        "contenu": "La procédure administrative est ÉCRITE, CONTRADICTOIRE et INQUISITORIALE (le juge a un rôle actif).\n\n━━━ INTRODUCTION DE L'INSTANCE ━━━\n\nLa requête est déposée au greffe du Tribunal Administratif. Elle doit contenir :\n• L'identité du requérant\n• L'exposé des faits et moyens\n• Les conclusions (ce que le requérant demande)\n• Les pièces justificatives\n• La preuve que les recours préalables ont été épuisés (ou pourquoi ils ne l'ont pas été)\n\nMinistère d'avocat : à Madagascar, la représentation par avocat n'est pas toujours obligatoire devant le Tribunal Administratif, mais elle est fortement recommandée pour les affaires complexes.\n\n━━━ L'INSTRUCTION ━━━\n\nLe juge administratif est un juge INQUISITEUR : il dirige activement l'instruction. Il peut :\n• Demander à l'Administration de produire ses dossiers et pièces\n• Ordonner une expertise\n• Entendre des témoins\n• Demander un supplément d'instruction si le dossier est insuffisant\n\nLA COMMUNICATION DES MÉMOIRES :\nL'Administration (défendeur) doit produire un MÉMOIRE EN DÉFENSE exposant ses arguments. Le requérant peut répliquer par un mémoire en réplique. Le juge fixe les délais. Le principe du contradictoire impose que chaque partie connaisse les pièces de l'autre.\n\n━━━ L'AUDIENCE ━━━\n\nContrairement au tribunal civil, les audiences administratives sont généralement courtes — les débats sont principalement écrits. Le rapporteur public (ex-commissaire du gouvernement) présente ses conclusions en droit, indépendamment des parties. Le juge délibère.\n\n━━━ LE JUGEMENT ━━━\n\nLe TA rend son JUGEMENT (un arrêt si c'est le Conseil d'État). Il peut :\n• REJETER le recours : la décision administrative était légale\n• ANNULER l'acte : le REP est fondé\n• CONDAMNER l'Administration à payer : le plein contentieux est fondé\n• SURSEOIR À STATUER : attendre une question préjudicielle\n\n━━━ LE RÉFÉRÉ ADMINISTRATIF ━━━\n\nProcédure d'URGENCE devant le juge administratif. Le requérant peut obtenir une décision rapide (en quelques jours) quand l'urgence est caractérisée.\n\nTypes de référés :\n• RÉFÉRÉ-SUSPENSION : suspendre l'exécution d'un acte administratif contesté pendant que le fond est instruit. Conditions : urgence + doute sérieux sur la légalité de l'acte.\n• RÉFÉRÉ-LIBERTÉ : protéger une liberté fondamentale gravement et manifestement atteinte par une décision administrative. Décision en 48h.\n• RÉFÉRÉ-PROVISION : obtenir une provision (avance) sur une créance non sérieusement contestable.\n\n━━━ LES DÉLAIS DE PROCÉDURE ━━━\n\n• Dépôt de la requête : dans les 60 jours suivant la décision attaquée\n• Mémoire en défense de l'Administration : délai fixé par le juge (généralement 1 à 3 mois)\n• Jugement : variable — la lenteur des juridictions administratives est une réalité à Madagascar",
+
+        "exemple_concret": "RÉFÉRÉ-SUSPENSION en pratique :\n\nUne entreprise de Diego Suarez apprend qu'elle a été illégalement exclue d'un marché public attribué à un concurrent. Les travaux doivent commencer dans 10 jours.\n\nElle forme SIMULTANÉMENT :\n1. Un REP au fond demandant l'annulation de la décision d'attribution\n2. Un RÉFÉRÉ-SUSPENSION demandant au juge de suspendre en urgence l'exécution du marché pendant que le fond est examiné\n\nCONDITIONS du référé-suspension réunies :\n• URGENCE : les travaux commencent dans 10 jours, préjudice irréparable\n• DOUTE SÉRIEUX : l'exclusion semble illégale (vice de procédure)\n\nLe juge statue en quelques jours. S'il accorde la suspension, les travaux sont gelés pendant l'instruction du fond."
+      },
+      {
+        "id": "P6",
+        "titre": "Les pouvoirs du juge administratif et l'exécution des décisions",
+        "contenu": "LES POUVOIRS DU JUGE ADMINISTRATIF :\n\nLe juge administratif malgache dispose de pouvoirs étendus mais a aussi des limites traditionnelles importantes.\n\nCE QU'IL PEUT FAIRE :\n• ANNULER un acte administratif illégal (REP)\n• CONDAMNER l'État à payer des dommages-intérêts (plein contentieux)\n• ORDONNER des mesures provisoires (référé)\n• INTERPRÉTER un acte administratif ambigu\n• APPRÉCIER LA LÉGALITÉ d'un acte par voie d'exception\n• PRONONCER DES ASTREINTES pour forcer l'exécution\n\nCE QU'IL NE PEUT PAS FAIRE TRADITIONNELLEMENT :\n• ADRESSER DES INJONCTIONS à l'Administration de faire quelque chose (ex : ne peut pas ordonner à l'Administration de délivrer une autorisation — il peut seulement annuler le refus)\n• SE SUBSTITUER à l'Administration pour prendre une décision à sa place\n• MODIFIER une décision administrative (seulement annuler ou valider)\n\nCette limite est issue du principe de séparation des pouvoirs : le juge contrôle, il ne gouverne pas.\n\nEVOLUTION : les systèmes administratifs modernes tendent à accorder davantage de pouvoirs d'injonction au juge, pour rendre les décisions plus efficaces.\n\nL'AUTORITÉ DE LA CHOSE JUGÉE :\nUne décision du juge administratif a force de loi entre les parties. L'Administration est tenue de s'y conformer. L'annulation d'un acte réglementaire a un effet erga omnes (opposable à tous, pas seulement aux parties au procès).\n\nL'EXÉCUTION DES JUGEMENTS ADMINISTRATIFS — UN PROBLÈME RÉEL :\n\nC'est le point faible historique du contentieux administratif à Madagascar et dans de nombreux pays africains. Plusieurs mécanismes existent pour forcer l'exécution :\n\n1. L'ASTREINTE JUDICIAIRE : somme par jour de retard prononcée contre la personne publique récalcitrante. Elle s'accumule jusqu'à exécution.\n\n2. LA LIQUIDATION DE L'ASTREINTE : si l'Administration n'exécute toujours pas, le juge liquide l'astreinte et condamne définitivement la collectivité à payer.\n\n3. LE RECOURS EN MANQUEMENT : signaler à l'autorité de tutelle le refus d'exécution d'une décision juridictionnelle.\n\nLIMITE PRATIQUE : l'Administration dispose d'une immunité d'exécution partielle — ses biens essentiels au service public ne peuvent pas être saisis comme les biens d'un débiteur privé. Cela complique le recouvrement des condamnations.",
+
+        "exemple_concret": "Le TA d'Antsiranana annule la révocation de Madame FANJA, fonctionnaire illégalement licenciée. La décision est notifiée au ministère le 1er mars.\n\nLe ministère ignore la décision et refuse de réintégrer Mme FANJA.\n\nMme FANJA peut :\n1. Demander au TA de PRONONCER UNE ASTREINTE : ex. 50.000 Ar par jour de retard\n2. Si toujours rien après 3 mois → demander la LIQUIDATION de l'astreinte (150 jours × 50.000 Ar = 7.500.000 Ar de condamnation supplémentaire)\n3. Signaler le refus d'exécution au Ministère de tutelle et, si nécessaire, au Conseil d'État\n\nL'astreinte est un levier puissant mais son efficacité dépend de la volonté politique des autorités de se conformer aux décisions de justice."
+      },
+      {
+        "id": "P7",
+        "titre": "Les voies de recours contre les décisions des Tribunaux Administratifs",
+        "contenu": "Les décisions des Tribunaux Administratifs ne sont pas définitives. Plusieurs voies de recours permettent de les contester.\n\n━━━ L'APPEL DEVANT LE CONSEIL D'ÉTAT ━━━\n\nLes jugements des Tribunaux Administratifs peuvent faire l'objet d'un APPEL devant le Conseil d'État (chambre administrative de la Cour Suprême, art. 111 Constitution 2010).\n\n• Délai d'appel : 60 jours à compter de la notification du jugement\n• L'appel est suspensif (sauf en matière de référé où l'urgence prime)\n• Le Conseil d'État rejuge l'affaire en droit ET en fait (appel voie d'achèvement)\n\nATTRIBUTIONS PROPRES DU CONSEIL D'ÉTAT :\nCertains recours relèvent directement du Conseil d'État en PREMIER ET DERNIER RESSORT :\n• Recours contre les actes réglementaires nationaux (décrets, arrêtés ministériels)\n• Recours contre les actes des autorités nationales de rang élevé\n• Conflits de compétence entre juridictions administratives\n\n━━━ LE POURVOI EN CASSATION ━━━\n\nContre les arrêts du Conseil d'État rendu en appel, un POURVOI EN CASSATION peut être formé devant la Haute Cour Constitutionnelle ou devant une formation de la Cour Suprême selon la nature du litige.\n\nLa cassation ne rejuge pas le fond — elle contrôle seulement si la loi a été correctement appliquée.\n\n━━━ L'OPPOSITION ━━━\n\nVoie de recours ouverte à la partie qui n'était pas représentée à l'instance et contre laquelle un jugement par défaut a été rendu.\n\n━━━ LA TIERCE OPPOSITION ━━━\n\nVoie ouverte à un tiers (non partie au procès) dont les droits sont lésés par une décision rendue entre d'autres parties.\n\n━━━ LE RECOURS EN RÉVISION ━━━\n\nVoie extraordinaire de recours ouverte quand une décision définitive a été obtenue par fraude, ou quand des pièces décisives, inconnues lors du jugement, sont découvertes ultérieurement.\n\n━━━ LA HAUTE COUR CONSTITUTIONNELLE (HCC) ━━━\n\nBien que n'étant pas une juridiction administrative au sens strict, la HCC intervient dans le contentieux administratif dans deux cas :\n• Contrôle de constitutionnalité des lois : si une loi sur laquelle se fonde un acte administratif est inconstitutionnelle, la HCC peut l'invalider, ce qui entraîne l'illégalité de l'acte\n• Contentieux électoral national (présidentielle, législatives)",
+
+        "exemple_concret": "Chronologie d'un litige administratif complet à Madagascar :\n\n1. DÉCISION ADMINISTRATIVE litigieuse notifiée le 1er janvier\n2. RECOURS GRACIEUX déposé le 15 janvier → rejeté le 1er mars\n3. RECOURS CONTENTIEUX (REP) déposé au Tribunal Administratif le 20 mars (dans les 60 jours du rejet)\n4. INSTRUCTION du TA : échanges de mémoires pendant 6 mois\n5. JUGEMENT du TA : annulation de la décision, notifiée le 15 octobre\n6. APPEL de l'Administration devant le Conseil d'État le 10 décembre (dans les 60 jours)\n7. ARRÊT du Conseil d'État confirmant l'annulation\n8. Décision définitive → l'Administration doit s'exécuter\n\nDurée totale : souvent 2 à 4 ans en pratique à Madagascar — la longueur de la procédure est un enjeu majeur d'accès à la justice administrative."
+      }
+    ],
+
+    "resume": "Le contentieux administratif à Madagascar repose sur la dualité de juridictions : ordre judiciaire pour les litiges privés, ordre administratif (Tribunaux Administratifs et Conseil d'État) pour les litiges avec l'Administration. Avant de saisir le juge, le requérant doit épuiser les recours administratifs préalables (gracieux et hiérarchique). Le recours pour excès de pouvoir (REP) permet d'annuler un acte illégal (incompétence, vice de forme, violation de la loi, détournement de pouvoir) dans un délai de 60 jours. Le plein contentieux permet d'obtenir réparation (faute de service). Le référé administratif est la voie d'urgence. Les décisions du TA sont susceptibles d'appel devant le Conseil d'État. L'exécution des jugements reste un défi pratique majeur, encadré par l'astreinte judiciaire.",
+
+    "points_cles": [
+      "Dualité de juridictions : ordre judiciaire (privé) / ordre administratif (public)",
+      "Loi organique n°2004-005 : organisation des Tribunaux Administratifs",
+      "Loi n°2004-036 : procédure devant le Conseil d'État",
+      "Recours gracieux = saisir l'auteur de l'acte / Recours hiérarchique = saisir le supérieur",
+      "Silence de 4 mois de l'Administration = décision implicite de rejet",
+      "REP : délai de 60 jours, vise l'annulation, effet erga omnes",
+      "4 cas d'ouverture du REP : incompétence, vice de forme/procédure, violation de la loi, détournement de pouvoir",
+      "Plein contentieux : vise la réparation, faute de service ≠ faute personnelle",
+      "Référé-suspension : urgence + doute sérieux sur la légalité",
+      "Référé-liberté : liberté fondamentale gravement atteinte → décision en 48h",
+      "Appel devant le Conseil d'État dans les 60 jours du jugement du TA",
+      "Astreinte judiciaire : outil de pression pour forcer l'exécution des jugements"
+    ]
+  },
+
+  "quiz": {
+    "instructions": "50 questions de niveau avancé. Une seule réponse correcte par question. Lisez attentivement.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "La dualité de juridictions à Madagascar signifie :",
+        "options": ["Il existe deux Cours Suprêmes", "Il existe deux ordres de juridiction distincts : l'ordre judiciaire pour les litiges privés et l'ordre administratif pour les litiges avec l'Administration", "Il existe deux niveaux de tribunaux administratifs", "Le juge civil peut aussi juger l'Administration"],
+        "reponse_correcte": 1,
+        "explication": "La dualité de juridictions organise deux ordres séparés : l'ordre judiciaire (TPI, cours d'appel, Cour Suprême chambre civile/pénale) pour les litiges entre personnes privées, et l'ordre administratif (Tribunaux Administratifs, Conseil d'État) pour les litiges entre les administrés et les personnes publiques."
+      },
+      {
+        "id": 2,
+        "question": "La loi organique n°2004-005 du 26 juillet 2004 organise :",
+        "options": ["Le Conseil d'État uniquement", "Le fonctionnement et la procédure devant les Tribunaux Administratifs", "La Haute Cour Constitutionnelle", "Les juridictions de l'ordre judiciaire"],
+        "reponse_correcte": 1,
+        "explication": "La loi organique n°2004-005 du 26 juillet 2004 porte organisation, fonctionnement et procédures devant le Tribunal Administratif. La loi n°2004-036 du 1er octobre 2004 régit la procédure applicable devant le Conseil d'État (chambre administrative de la Cour Suprême)."
+      },
+      {
+        "id": 3,
+        "question": "Pourquoi l'Administration bénéficie-t-elle d'un ordre de juridiction spécifique ?",
+        "options": ["Pour lui éviter d'être jugée", "Parce qu'elle dispose de prérogatives de puissance publique que seul un juge spécialisé peut apprécier, et pour respecter la séparation des pouvoirs", "Pour simplifier les procédures", "Parce que le juge civil est incompétent pour les contrats"],
+        "reponse_correcte": 1,
+        "explication": "Trois raisons fondamentales : les prérogatives de puissance publique (expropriation, police, réquisition) requièrent un juge spécialisé ; les actes administratifs obéissent à des règles spécifiques que le juge judiciaire n'est pas formé à apprécier ; la séparation des pouvoirs évite que le juge civil s'immisce dans l'action gouvernementale."
+      },
+      {
+        "id": 4,
+        "question": "Le RECOURS GRACIEUX est adressé à :",
+        "options": ["Le supérieur hiérarchique de l'auteur de l'acte", "L'auteur même de la décision contestée, lui demandant de la retirer ou modifier", "Le Tribunal Administratif directement", "Le Ministre de la Justice"],
+        "reponse_correcte": 1,
+        "explication": "Le recours gracieux s'adresse à L'AUTEUR MÊME de la décision. C'est lui qu'on invite à reconsidérer sa position. Il se distingue du recours hiérarchique qui s'adresse au supérieur de l'auteur de l'acte."
+      },
+      {
+        "id": 5,
+        "question": "Le recours HIÉRARCHIQUE est adressé à :",
+        "options": ["L'auteur de l'acte", "Le supérieur hiérarchique de l'auteur de l'acte", "Le Tribunal Administratif", "Le Parlement"],
+        "reponse_correcte": 1,
+        "explication": "Le recours hiérarchique s'adresse au SUPÉRIEUR HIÉRARCHIQUE de l'auteur de la décision : si c'est un directeur qui a décidé, on saisit le ministre ; si c'est un préfet, on saisit le chef de région ou le ministre de l'Intérieur. Le supérieur peut confirmer, annuler ou réformer."
+      },
+      {
+        "id": 6,
+        "question": "En droit administratif malgache, le silence de l'Administration pendant 4 mois sur un recours gracieux vaut :",
+        "options": ["Acceptation implicite de la demande", "Décision implicite de rejet, ouvrant le délai de recours contentieux", "Obligation de statuer sous astreinte", "Nullité de la procédure"],
+        "reponse_correcte": 1,
+        "explication": "Le silence de l'Administration pendant 4 mois vaut DÉCISION IMPLICITE DE REJET. Cette fiction juridique permet au requérant de ne pas attendre indéfiniment : après 4 mois de silence, il peut saisir le juge administratif comme si son recours avait été expressément rejeté."
+      },
+      {
+        "id": 7,
+        "question": "Le REP (Recours pour Excès de Pouvoir) est un recours visant :",
+        "options": ["L'octroi de dommages-intérêts", "L'ANNULATION d'un acte administratif illégal", "La modification d'un acte administratif", "La suspension provisoire d'un acte"],
+        "reponse_correcte": 1,
+        "explication": "Le REP est un recours en ANNULATION : le requérant demande au juge de prononcer la disparition rétroactive de l'acte administratif illégal. Il ne permet pas d'obtenir des dommages-intérêts (c'est le plein contentieux), ni de modifier l'acte (seule l'Administration peut le faire)."
+      },
+      {
+        "id": 8,
+        "question": "L'effet erga omnes de l'annulation d'un acte réglementaire signifie :",
+        "options": ["L'annulation ne produit d'effets qu'entre les parties au procès", "L'annulation est opposable à tous — pas seulement aux parties au litige", "L'annulation ne vaut que pour l'avenir", "L'annulation doit être publiée pour produire des effets"],
+        "reponse_correcte": 1,
+        "explication": "Contrairement aux jugements civils qui n'ont d'autorité qu'entre les parties, l'annulation d'un acte réglementaire par le juge administratif a un effet erga omnes : l'acte disparaît à l'égard de tous les administrés, pas seulement du requérant. C'est une conséquence puissante du REP."
+      },
+      {
+        "id": 9,
+        "question": "Le délai pour former un REP devant le Tribunal Administratif à Madagascar est de :",
+        "options": ["30 jours", "60 jours (2 mois)", "6 mois", "1 an"],
+        "reponse_correcte": 1,
+        "explication": "Le REP doit être formé dans un délai de 60 JOURS à compter de la publication de l'acte réglementaire, de la notification de la décision individuelle, ou de la naissance d'une décision implicite de rejet. Passé ce délai, le recours est définitivement irrecevable — c'est la forclusion."
+      },
+      {
+        "id": 10,
+        "question": "La FORCLUSION en matière de REP signifie :",
+        "options": ["L'affaire est renvoyée à une autre juridiction", "Le recours est irrecevable car déposé après l'expiration du délai légal", "Le requérant peut recommencer la procédure", "L'Administration doit réexaminer sa décision"],
+        "reponse_correcte": 1,
+        "explication": "La forclusion est la sanction du dépassement du délai de recours : le REP devient irrecevable, quel que soit son fondement sur le fond. Le juge rejette le recours sans examiner si l'acte était légal ou non. C'est pourquoi le respect des délais est absolument crucial en contentieux administratif."
+      },
+      {
+        "id": 11,
+        "question": "Le vice d'INCOMPÉTENCE comme cas d'ouverture du REP signifie :",
+        "options": ["L'auteur de l'acte n'était pas qualifié professionnellement", "L'auteur de l'acte n'avait pas le pouvoir juridique de prendre cet acte", "L'acte manque de motivation", "L'acte viole une règle de procédure"],
+        "reponse_correcte": 1,
+        "explication": "Le vice d'incompétence (illégalité externe) survient quand l'acte est pris par une autorité qui n'avait pas le pouvoir de le prendre. Ex : un préfet prend un acte qui relève du ministre, ou un directeur prend une décision réservée au président de la République. C'est l'un des cas d'ouverture les plus graves."
+      },
+      {
+        "id": 12,
+        "question": "Le vice de FORME comme cas d'ouverture du REP porte sur :",
+        "options": ["Le contenu de l'acte", "Le non-respect de formalités substantielles : absence de motivation obligatoire, consultation préalable non effectuée, signature manquante", "La compétence de l'auteur", "La finalité poursuivie"],
+        "reponse_correcte": 1,
+        "explication": "Le vice de forme ou de procédure (illégalité externe) concerne les formalités entourant l'élaboration de l'acte : une consultation obligatoire non effectuée, une motivation absente quand elle est requise, une signature manquante. Seules les formalités SUBSTANTIELLES (essentielles) ouvrent le REP — les irrégularités mineures ne suffisent pas."
+      },
+      {
+        "id": 13,
+        "question": "Le DÉTOURNEMENT DE POUVOIR comme cas d'ouverture du REP signifie :",
+        "options": ["L'Administration a volé les fonds publics", "L'autorité a utilisé ses pouvoirs pour une finalité autre que celle pour laquelle ils lui ont été conférés", "L'acte est contraire à une loi", "L'auteur de l'acte a agi sous la contrainte"],
+        "reponse_correcte": 1,
+        "explication": "Le détournement de pouvoir est un cas d'illégalité interne subtil : l'autorité disposait bien du pouvoir, a respecté les formes, mais l'a exercé pour des fins différentes de celles prévues par la loi. Ex : un maire révoque un fonctionnaire non pour faute professionnelle mais pour des raisons politiques personnelles."
+      },
+      {
+        "id": 14,
+        "question": "La VIOLATION DE LA LOI comme cas d'ouverture du REP recouvre :",
+        "options": ["Uniquement la violation des lois votées par le Parlement", "La contrariété de l'acte avec toute règle supérieure : Constitution, loi, traité international, règlement", "Uniquement la violation des traités internationaux", "La violation d'un contrat"],
+        "reponse_correcte": 1,
+        "explication": "La violation de la loi (illégalité interne) est entendue largement : l'acte contrevient à toute norme supérieure dans la hiérarchie des normes — Constitution, loi, règlement, principe général du droit, traité international ratifié. C'est le cas d'ouverture le plus fréquent."
+      },
+      {
+        "id": 15,
+        "question": "Les ACTES DE GOUVERNEMENT sont-ils attaquables en REP ?",
+        "options": ["Oui, comme tous les actes administratifs", "Non, ils échappent au contrôle du juge administratif", "Oui, mais seulement devant le Conseil d'État", "Non, sauf s'ils violent la Constitution"],
+        "reponse_correcte": 1,
+        "explication": "Les actes de gouvernement (décisions de nature politique pure : dissolution du Parlement, déclaration de guerre, relations diplomatiques) échappent au contrôle du juge administratif — c'est une immunité juridictionnelle historique. Ils relèvent du contrôle politique (Parlement, HCC), pas juridictionnel."
+      },
+      {
+        "id": 16,
+        "question": "La FAUTE DE SERVICE engage la responsabilité de :",
+        "options": ["L'agent public personnellement sur ses biens propres", "L'État (personne publique) devant le Tribunal Administratif", "L'agent et l'État solidairement devant le tribunal civil", "Personne — l'État est irresponsable"],
+        "reponse_correcte": 1,
+        "explication": "La faute de service est commise dans et par l'exercice des fonctions publiques. Elle engage la responsabilité de la PERSONNE PUBLIQUE (État, collectivité) et le litige relève du TRIBUNAL ADMINISTRATIF. La victime agit contre l'État, pas contre l'agent personnellement."
+      },
+      {
+        "id": 17,
+        "question": "La FAUTE PERSONNELLE engage la responsabilité de :",
+        "options": ["L'État exclusivement", "L'agent lui-même, personnellement, devant les juridictions civiles ordinaires", "L'État et l'agent solidairement", "Personne si l'agent était en service"],
+        "reponse_correcte": 1,
+        "explication": "La faute personnelle est détachable des fonctions : elle révèle l'homme avec ses faiblesses, sa méchanceté, ses imprudences, en dehors ou indépendamment du service. L'agent répond personnellement sur ses propres biens devant le tribunal civil. L'État n'est pas responsable de la faute personnelle."
+      },
+      {
+        "id": 18,
+        "question": "Un fonctionnaire commet-il une faute de service ou une faute personnelle en blessant quelqu'un lors d'une interpellation policière réglementaire ?",
+        "options": ["Faute personnelle — il agissait en son nom propre", "Faute de service — il était dans l'exercice de ses fonctions pour le compte de l'État", "Les deux simultanément dans tous les cas", "Aucune faute — l'État est irresponsable pour les actes de police"],
+        "reponse_correcte": 1,
+        "explication": "Une blessure involontaire lors d'une interpellation RÉGLEMENTAIRE est une faute de SERVICE : l'agent agissait dans le cadre de ses fonctions, au service de l'État. La responsabilité de l'État est engagée devant le TA. Si l'interpellation était abusive et délibérément violente hors tout cadre légal → faute personnelle."
+      },
+      {
+        "id": 19,
+        "question": "Le PLEIN CONTENTIEUX permet au requérant d'obtenir :",
+        "options": ["Uniquement l'annulation d'un acte", "La condamnation de l'Administration à payer des dommages-intérêts ou à exécuter une obligation", "La modification d'un acte administratif", "L'emprisonnement d'un fonctionnaire"],
+        "reponse_correcte": 1,
+        "explication": "Le plein contentieux (recours de plein contentieux) a un objet plus large que le REP : le juge peut condamner l'Administration à payer des sommes d'argent, ordonner l'exécution d'une obligation, et généralement statuer sur tous aspects du litige — pas seulement annuler ou valider."
+      },
+      {
+        "id": 20,
+        "question": "Le principe d'IMMUNITÉ D'EXÉCUTION partielle de l'Administration signifie que :",
+        "options": ["L'Administration n'est jamais condamnée à payer", "Les biens essentiels au service public ne peuvent pas être saisis comme les biens d'un débiteur privé", "Les jugements contre l'Administration ne sont jamais exécutés", "L'Administration peut ignorer tous les jugements"],
+        "reponse_correcte": 1,
+        "explication": "L'immunité d'exécution partielle protège les biens des personnes publiques indispensables au fonctionnement des services publics : on ne peut pas saisir les véhicules de police, les équipements hospitaliers, etc. pour forcer le paiement d'une condamnation. Cela complique le recouvrement des créances contre l'État."
+      },
+      {
+        "id": 21,
+        "question": "Le RÉFÉRÉ-SUSPENSION permet de :",
+        "options": ["Obtenir définitivement l'annulation d'un acte", "Suspendre provisoirement l'exécution d'un acte contesté pendant l'instruction du fond, si urgence et doute sérieux sont réunis", "Condamner l'Administration à payer en urgence", "Remplacer le jugement au fond"],
+        "reponse_correcte": 1,
+        "explication": "Le référé-suspension est une mesure PROVISOIRE d'urgence : il gèle l'exécution d'un acte administratif contesté pendant que le fond est examiné. Deux conditions cumulatives : (1) URGENCE caractérisée (préjudice immédiat), et (2) DOUTE SÉRIEUX sur la légalité de l'acte."
+      },
+      {
+        "id": 22,
+        "question": "Le RÉFÉRÉ-LIBERTÉ doit être tranché par le juge en :",
+        "options": ["60 jours", "30 jours", "48 heures", "8 jours"],
+        "reponse_correcte": 2,
+        "explication": "Le référé-liberté est la procédure d'urgence absolue : quand une liberté fondamentale est gravement et manifestement atteinte par une décision administrative, le juge doit statuer dans les 48 HEURES. C'est la procédure la plus rapide du contentieux administratif."
+      },
+      {
+        "id": 23,
+        "question": "La procédure devant le Tribunal Administratif est principalement :",
+        "options": ["Orale — les débats se font à l'audience", "Écrite — les mémoires des parties constituent l'essentiel des débats", "Orale et écrite en proportions égales", "Informelle — pas de règles strictes"],
+        "reponse_correcte": 1,
+        "explication": "La procédure administrative est essentiellement ÉCRITE : les parties échangent des mémoires écrits (requête, mémoire en défense, mémoire en réplique). Les audiences sont brèves et peu débattues oralement. Le juge administratif est principalement un juge du dossier écrit."
+      },
+      {
+        "id": 24,
+        "question": "Le juge administratif est dit INQUISITEUR parce qu'il :",
+        "options": ["Peut condamner les fonctionnaires corrompus", "Dirige activement l'instruction : peut demander des pièces, ordonner des expertises, entendre des témoins, sans attendre les parties", "Peut modifier les actes administratifs", "Peut prononcer des peines d'emprisonnement"],
+        "reponse_correcte": 1,
+        "explication": "Le caractère inquisitorial de la procédure administrative signifie que le juge ne se contente pas d'arbitrer les parties — il DIRIGE l'instruction. Il peut d'office demander à l'Administration de produire ses dossiers, ordonner une expertise, demander un supplément d'instruction. C'est différent du juge civil qui est davantage passif."
+      },
+      {
+        "id": 25,
+        "question": "Le RAPPORTEUR PUBLIC (ex-commissaire du gouvernement) devant le TA est :",
+        "options": ["Le représentant du gouvernement qui défend l'Administration", "Un membre indépendant du tribunal qui présente ses conclusions en droit, sans être lié par les positions des parties", "L'avocat du requérant commis d'office", "Le greffier chargé de rédiger le jugement"],
+        "reponse_correcte": 1,
+        "explication": "Le rapporteur public est un membre de la juridiction administrative qui, à l'audience, présente ses conclusions personnelles sur ce que le droit commande en l'espèce. Il est INDÉPENDANT des deux parties et même du tribunal. Son rôle est pédagogique et jurisprudentiel — il ne représente pas le gouvernement malgré son ancien nom."
+      },
+      {
+        "id": 26,
+        "question": "L'APPEL contre un jugement du Tribunal Administratif est formé devant :",
+        "options": ["La Cour d'appel ordinaire", "Le Conseil d'État (chambre administrative de la Cour Suprême)", "La Haute Cour Constitutionnelle", "Un deuxième Tribunal Administratif"],
+        "reponse_correcte": 1,
+        "explication": "Les jugements des Tribunaux Administratifs sont susceptibles d'APPEL devant le Conseil d'État, qui est la chambre administrative de la Cour Suprême à Madagascar (art. 111 et suivants de la Constitution de 2010). Le Conseil d'État est le juge d'appel de droit commun en matière administrative."
+      },
+      {
+        "id": 27,
+        "question": "Dans quels cas le Conseil d'État statue-t-il en PREMIER ET DERNIER RESSORT ?",
+        "options": ["Pour tous les litiges administratifs", "Pour les recours contre les actes réglementaires nationaux (décrets, arrêtés ministériels) et les conflits entre juridictions administratives", "Pour les litiges impliquant plus d'un million d'ariary", "Pour les litiges avec les fonctionnaires Corps A uniquement"],
+        "reponse_correcte": 1,
+        "explication": "Le Conseil d'État est compétent en premier et dernier ressort (sans passage préalable par un TA) pour les recours contre les actes réglementaires de portée nationale (décrets présidentiels, arrêtés ministériels) et pour les conflits de compétence entre tribunaux administratifs."
+      },
+      {
+        "id": 28,
+        "question": "Le délai d'appel contre un jugement du TA est de :",
+        "options": ["30 jours", "60 jours à compter de la notification du jugement", "3 mois", "6 mois"],
+        "reponse_correcte": 1,
+        "explication": "L'appel devant le Conseil d'État doit être formé dans les 60 JOURS suivant la notification du jugement du Tribunal Administratif. Ce délai est identique au délai de recours contentieux de première instance. Son dépassement entraîne l'irrecevabilité de l'appel."
+      },
+      {
+        "id": 29,
+        "question": "L'ASTREINTE JUDICIAIRE en droit administratif est :",
+        "options": ["Une amende pénale contre un fonctionnaire récalcitrant", "Une somme due par jour de retard pour inciter l'Administration à exécuter un jugement", "Une retenue sur le salaire du fonctionnaire", "Une pénalité contractuelle"],
+        "reponse_correcte": 1,
+        "explication": "L'astreinte judiciaire est un mécanisme de contrainte financière : le juge condamne la personne publique à payer un montant par jour (ou par semaine) tant qu'elle n'a pas exécuté sa décision. L'astreinte s'accumule jusqu'à exécution. Elle peut être liquidée (convertie en condamnation définitive) si l'inexécution persiste."
+      },
+      {
+        "id": 30,
+        "question": "La TIERCE OPPOSITION est une voie de recours ouverte à :",
+        "options": ["La partie qui a perdu en première instance", "Un tiers non partie au procès dont les droits sont lésés par la décision rendue entre d'autres parties", "Le Parquet administratif", "L'Administration qui n'a pas été notifiée"],
+        "reponse_correcte": 1,
+        "explication": "La tierce opposition permet à une personne qui n'était PAS partie au procès de contester une décision judiciaire qui lèse ses droits. Elle garantit qu'une décision entre A et B ne peut pas impunément emporter des conséquences sur C sans que C ait pu se défendre."
+      },
+      {
+        "id": 31,
+        "question": "Le RECOURS EN RÉVISION est une voie extraordinaire ouverte notamment quand :",
+        "options": ["La partie n'était pas satisfaite du jugement", "Des pièces décisives inconnues lors du jugement sont découvertes ultérieurement, ou quand la décision a été obtenue par fraude", "Le délai d'appel est dépassé", "L'Administration refuse d'exécuter le jugement"],
+        "reponse_correcte": 1,
+        "explication": "Le recours en révision est une voie extraordinaire (après épuisement des voies ordinaires) ouverte dans des cas limitatifs : découverte de pièces nouvelles décisives inconnues au moment du jugement, ou décision obtenue par fraude, dol ou faux documents. Il permet de remettre en cause une décision définitive."
+      },
+      {
+        "id": 32,
+        "question": "Qu'est-ce que la RESPONSABILITÉ SANS FAUTE de l'Administration ?",
+        "options": ["L'Administration répond toujours, quoi qu'il arrive", "Pour certains dommages (travaux publics, risque), la responsabilité de l'Administration est engagée sans qu'il soit nécessaire de prouver une faute", "L'Administration n'est jamais responsable sans faute prouvée", "C'est la responsabilité des fonctionnaires pour leurs fautes personnelles"],
+        "reponse_correcte": 1,
+        "explication": "La responsabilité sans faute (ou pour risque) est un régime spécial applicable pour certains dommages : dommages de travaux publics, dommages causés par des méthodes dangereuses, dommages liés à des activités de police administrative. La victime n'a pas à prouver la faute — seulement le dommage et le lien avec l'activité publique."
+      },
+      {
+        "id": 33,
+        "question": "Le CONFLIT DE COMPÉTENCE entre l'ordre judiciaire et l'ordre administratif survient quand :",
+        "options": ["Deux tribunaux administratifs sont saisis de la même affaire", "La frontière entre droit privé et droit administratif est incertaine et les deux ordres revendiquent ou refusent la compétence", "Un juge refuse de statuer", "L'Administration saisit le tribunal judiciaire"],
+        "reponse_correcte": 1,
+        "explication": "Le conflit de compétence naît de l'incertitude sur la nature du litige : est-il de droit privé (judiciaire) ou de droit public (administratif) ? Ces conflits sont résolus par le Tribunal des conflits dans les pays qui en disposent, ou par la Cour Suprême à Madagascar selon les modalités prévues."
+      },
+      {
+        "id": 34,
+        "question": "La VOIE DE FAIT est un cas où :",
+        "options": ["L'Administration commet une faute de service normale", "L'Administration commet une atteinte manifestement illégale et grave à la liberté individuelle ou à la propriété, échappant au domaine administratif → compétence judiciaire", "Le fonctionnaire agit sans ordre hiérarchique", "L'Administration ne motive pas ses décisions"],
+        "reponse_correcte": 1,
+        "explication": "La voie de fait est une illégalité si grave (atteinte totalement étrangère aux prérogatives de l'Administration) qu'elle fait perdre à l'acte son caractère administratif. Le juge JUDICIAIRE devient alors compétent — même si c'est l'Administration l'auteur — pour protéger la liberté individuelle ou la propriété privée."
+      },
+      {
+        "id": 35,
+        "question": "La HAUTE COUR CONSTITUTIONNELLE (HCC) intervient dans le contentieux administratif :",
+        "options": ["Pour juger tous les fonctionnaires en appel", "Pour contrôler la constitutionnalité des lois (pouvant invalider le fondement légal d'un acte administratif) et pour le contentieux électoral national", "Pour liquider les astreintes contre l'État", "Pour statuer sur les conflits entre ministères"],
+        "reponse_correcte": 1,
+        "explication": "La HCC intervient indirectement dans le contentieux administratif : si une loi sur laquelle se fonde un acte administratif est déclarée inconstitutionnelle, l'acte perd sa base légale. La HCC juge aussi les élections présidentielles et législatives, et peut être saisie par voie d'exception d'inconstitutionnalité."
+      },
+      {
+        "id": 36,
+        "question": "Une mesure d'ORDRE INTÉRIEUR peut-elle faire l'objet d'un REP ?",
+        "options": ["Oui, toujours", "Non, les mesures d'ordre intérieur (notes de service internes sans effet sur les droits) ne sont pas attaquables", "Oui, si le requérant a un avocat", "Non, sauf si elles touchent les fonctionnaires"],
+        "reponse_correcte": 1,
+        "explication": "Les mesures d'ordre intérieur (circulaires internes, notes de service, directives organisationnelles sans effet juridique sur les droits des administrés) ne sont pas des actes administratifs attaquables en REP. Le juge refuse d'en connaître. Seules les mesures faisant grief (affectant les droits ou les obligations) sont attaquables."
+      },
+      {
+        "id": 37,
+        "question": "L'INTÉRÊT À AGIR en REP exige que le requérant :",
+        "options": ["Soit avocat ou juriste", "Ait un intérêt personnel, direct et certain à l'annulation de l'acte contesté", "Ait subi un préjudice financier supérieur à 1 million d'ariary", "Soit domicilié dans le ressort du tribunal saisi"],
+        "reponse_correcte": 1,
+        "explication": "L'intérêt à agir est la condition qui vérifie que le requérant est personnellement concerné par l'acte contesté : son intérêt doit être PERSONNEL (pas abstrait), DIRECT (sans intermédiaire) et CERTAIN (actuel, pas hypothétique). Cette condition évite l'action populaire — tout le monde ne peut pas contester n'importe quel acte."
+      },
+      {
+        "id": 38,
+        "question": "La DÉCISION IMPLICITE D'ACCEPTATION existe-t-elle en droit administratif malgache ?",
+        "options": ["Oui, le silence de l'Administration vaut toujours acceptation", "En principe non — le silence vaut rejet. Des exceptions légales peuvent prévoir qu'un silence vaut acceptation dans certains domaines précis", "Non, le silence est toujours neutre", "Oui, après 30 jours de silence uniquement"],
+        "reponse_correcte": 1,
+        "explication": "La règle générale en droit malgache (comme en droit français classique) est que le SILENCE DE L'ADMINISTRATION VAUT REJET. Des exceptions légales spécifiques peuvent prévoir que le silence vaut acceptation dans certains domaines (ex : certaines autorisations administratives pour simplifier les procédures), mais ce n'est pas le principe général."
+      },
+      {
+        "id": 39,
+        "question": "Le recours pour excès de pouvoir est-il subordonné à l'épuisement préalable des recours administratifs ?",
+        "options": ["Oui, toujours et sans exception", "En principe oui, mais des exceptions existent selon la nature de l'acte et les textes applicables", "Non, on peut saisir directement le TA sans recours préalable", "Oui, mais uniquement pour les actes réglementaires"],
+        "reponse_correcte": 1,
+        "explication": "L'épuisement des recours préalables est en principe requis mais la règle connaît des nuances selon les textes applicables. Pour certains actes (actes réglementaires, certaines décisions d'autorités nationales), le recours contentieux direct est possible. La jurisprudence administrative précise ces exceptions."
+      },
+      {
+        "id": 40,
+        "question": "Dans un MARCHÉ PUBLIC, le litige entre l'Administration et l'entreprise titulaire relève :",
+        "options": ["Du tribunal de commerce (ordre judiciaire)", "Du Tribunal Administratif (plein contentieux des contrats administratifs)", "Du tribunal arbitral obligatoirement", "Du ministère des Finances"],
+        "reponse_correcte": 1,
+        "explication": "Les marchés publics sont des CONTRATS ADMINISTRATIFS dont les litiges relèvent du Tribunal Administratif en plein contentieux. Le TA peut condamner l'Administration à payer le prix convenu, des pénalités de retard, ou des dommages-intérêts si elle a rompu irrégulièrement le marché."
+      },
+      {
+        "id": 41,
+        "question": "L'INSTRUCTION dans une procédure administrative est dirigée par :",
+        "options": ["L'avocat du requérant", "Le juge administratif lui-même, qui peut d'office demander des pièces et ordonner des mesures d'instruction", "Le ministère public", "Le greffier en chef"],
+        "reponse_correcte": 1,
+        "explication": "La procédure administrative est INQUISITORIALE : le juge dirige activement l'instruction. Il n'attend pas passivement que les parties produisent les preuves — il peut d'office ordonner la production de documents, une expertise, l'audition de témoins. Cela compense le déséquilibre entre un administré et l'Administration."
+      },
+      {
+        "id": 42,
+        "question": "Le principe du CONTRADICTOIRE en procédure administrative signifie :",
+        "options": ["Les parties s'affrontent oralement à l'audience", "Chaque partie a le droit de connaître et de discuter les pièces et arguments de l'autre avant le jugement", "Le juge prend toujours une position contraire à l'Administration", "Les deux parties doivent être présentes à l'audience"],
+        "reponse_correcte": 1,
+        "explication": "Le contradictoire est un principe fondamental de la procédure : chaque partie doit avoir connaissance des pièces, mémoires et arguments produits par l'autre, et avoir la possibilité d'y répondre. Le juge ne peut pas se fonder sur des éléments qu'une partie n'a pas pu discuter."
+      },
+      {
+        "id": 43,
+        "question": "L'OPPOSITION comme voie de recours est ouverte à :",
+        "options": ["Toute partie insatisfaite du jugement", "La partie qui n'était pas représentée à l'instance et contre laquelle un jugement par défaut a été rendu", "L'Administration qui refuse d'exécuter", "Le Procureur qui intervient dans une affaire administrative"],
+        "reponse_correcte": 1,
+        "explication": "L'opposition est la voie de recours spécifique contre les jugements par DÉFAUT — rendus en l'absence d'une partie. Quand une partie n'a pas été régulièrement convoquée ou n'a pas pu comparaître, elle peut former opposition pour que l'affaire soit rejugée contradictoirement."
+      },
+      {
+        "id": 44,
+        "question": "La RESPONSABILITÉ DE L'ÉTAT pour les dommages causés par les lois et règlements illégaux est :",
+        "options": ["Totalement exclue : l'État ne répond pas des lois", "Reconnue en principe quand une loi ou un règlement illégal cause un préjudice spécial et anormal à un administré", "Automatique dès qu'un acte est annulé", "Reconnue uniquement pour les lois votées en urgence"],
+        "reponse_correcte": 1,
+        "explication": "La responsabilité de l'État pour les actes normatifs (lois, règlements) est admise dans certains systèmes administratifs quand l'acte cause un préjudice SPÉCIAL (touche un groupe limité d'administrés) et ANORMAL (dépasse ce que les administrés doivent normalement supporter). C'est une forme de responsabilité sans faute pour rupture d'égalité devant les charges publiques."
+      },
+      {
+        "id": 45,
+        "question": "Le RÉFÉRÉ-PROVISION en contentieux administratif permet d'obtenir :",
+        "options": ["La suspension définitive d'un acte", "Une avance financière sur une créance non sérieusement contestable, en urgence", "La nomination d'un administrateur provisoire", "La protection d'une liberté fondamentale"],
+        "reponse_correcte": 1,
+        "explication": "Le référé-provision permet d'obtenir en urgence une provision (avance) sur une créance que l'Administration est tenue de payer et qui n'est pas sérieusement contestable. Condition : l'existence de l'obligation ne doit pas faire de doute sérieux. Cela évite d'attendre un jugement au fond pour obtenir une somme qui n'est pas discutée."
+      },
+      {
+        "id": 46,
+        "question": "Après l'annulation d'un acte par le TA, l'Administration est-elle tenue de prendre une nouvelle décision ?",
+        "options": ["Non, l'annulation met fin à tout", "En principe oui — l'annulation annule rétroactivement l'acte et l'Administration doit souvent en tirer les conséquences en prenant une nouvelle décision conforme au droit", "Seulement si le juge le lui ordonne expressément", "Non, elle peut choisir de ne rien faire"],
+        "reponse_correcte": 1,
+        "explication": "L'annulation a un effet rétroactif : l'acte est censé n'avoir jamais existé. L'Administration doit tirer les conséquences juridiques de cette annulation — souvent en prenant une nouvelle décision correctement motivée, en réintégrant un fonctionnaire, ou en rouvrant une procédure viciée. Le juge peut même l'y contraindre par voie d'injonction dans certains systèmes."
+      },
+      {
+        "id": 47,
+        "question": "La LÉGALITÉ PAR VOIE D'EXCEPTION permet :",
+        "options": ["Au juge de soulever d'office l'illégalité d'un acte", "À une partie, dans le cadre d'un litige, d'invoquer l'illégalité d'un acte général même si le délai de REP direct est écoulé", "Au requérant de contester la légalité de la Constitution", "À l'Administration de contester la légalité d'une loi"],
+        "reponse_correcte": 1,
+        "explication": "L'exception d'illégalité permet d'invoquer l'illégalité d'un acte (souvent un règlement) PAR VOIE D'EXCEPTION dans le cadre d'un litige, même si le délai de REP direct est écoulé. On ne demande pas l'annulation de l'acte général — on demande au juge de l'écarter pour le litige en cours."
+      },
+      {
+        "id": 48,
+        "question": "Quelle est la principale faiblesse du contentieux administratif malgache en pratique ?",
+        "options": ["L'absence totale de juridictions administratives", "La longueur excessive des procédures (souvent 2 à 4 ans) et les difficultés d'exécution des jugements", "L'impossibilité pour les particuliers de saisir les tribunaux administratifs", "L'absence de règles de procédure écrites"],
+        "reponse_correcte": 1,
+        "explication": "La principale faiblesse pratique du contentieux administratif malgache est la durée excessive des procédures (2 à 4 ans en moyenne) et les difficultés d'exécution des jugements rendus contre l'Administration. Ces deux facteurs limitent l'accès effectif à la justice administrative et découragent les requérants."
+      },
+      {
+        "id": 49,
+        "question": "Le POURVOI EN CASSATION contre un arrêt du Conseil d'État contrôle :",
+        "options": ["Les faits de l'affaire dans leur intégralité", "Uniquement la bonne application du droit — pas les faits", "La proportionnalité de la sanction uniquement", "L'opportunité de la décision administrative contestée"],
+        "reponse_correcte": 1,
+        "explication": "Le pourvoi en cassation est un recours en DROIT uniquement : la juridiction de cassation vérifie si la loi a été correctement interprétée et appliquée. Elle ne rejuge pas les faits. Si elle censure l'arrêt, elle renvoie l'affaire devant une autre formation pour qu'elle soit rejugée en fait et en droit."
+      },
+      {
+        "id": 50,
+        "question": "Un citoyen d'Antsiranana dont la demande de permis de construire a été refusée sans motivation peut :",
+        "options": ["Accepter le refus sans recours possible", "Former un recours gracieux auprès du maire, puis hiérarchique, puis un REP devant le TA pour vice de forme (absence de motivation obligatoire) dans les 60 jours", "Saisir directement la HCC", "Porter plainte au pénal contre le maire"],
+        "reponse_correcte": 1,
+        "explication": "La stratégie complète : (1) RECOURS GRACIEUX au maire auteur du refus ; (2) si rejet ou silence de 4 mois → RECOURS HIÉRARCHIQUE au chef de région ; (3) si toujours rejeté → REP au TRIBUNAL ADMINISTRATIF dans les 60 jours, invoquant le VICE DE FORME (absence de motivation, si elle est obligatoire) et la VIOLATION DE LA LOI. C'est la voie normale du contentieux administratif."
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": "CP1",
+      "titre": "L'éviction illégale d'un marché public à Diego Suarez",
+      "contexte": "La société DIANA BTP, basée à Antsiranana, soumissionne à un marché public de construction d'un bâtiment scolaire lancé par la commune d'Antsiranana pour un montant de 500.000.000 Ar. DIANA BTP présente l'offre techniquement la meilleure et le prix le plus compétitif selon le rapport d'évaluation.\n\nPar arrêté du Maire en date du 15 janvier 2025, le marché est attribué à la société TANA CONSTRUCTIONS, entreprise de la capitale dont l'offre est 20% plus chère et techniquement moins bien notée.\n\nDIANA BTP reçoit notification de la décision le 20 janvier 2025. Aucune motivation n'est fournie.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "DIANA BTP a-t-elle un intérêt à agir en contentieux administratif ?",
+          "reponse_attendue": "OUI, CLAIREMENT.\n\nL'intérêt à agir exige un intérêt PERSONNEL, DIRECT et CERTAIN.\n\n• PERSONNEL : DIANA BTP est directement visée par la décision d'attribution — c'est elle qui a été écartée\n• DIRECT : la décision lui cause un préjudice immédiat — perte du marché\n• CERTAIN : le préjudice est réel et actuel — elle a perdu un marché de 500 millions Ar qu'elle avait légitimement une chance d'obtenir selon le rapport d'évaluation\n\nDe plus, DIANA BTP est soumissionnaire évincée : la jurisprudence administrative reconnaît l'intérêt à agir des candidats non retenus dans les procédures de marchés publics, même sans certitude qu'ils auraient obtenu le marché.\n\nConclusion : DIANA BTP a la qualité ET l'intérêt pour agir en REP et/ou en plein contentieux."
+        },
+        {
+          "numero": 2,
+          "question": "Sur quels moyens DIANA BTP peut-elle fonder son recours ? Quelles illégalités invoquer ?",
+          "reponse_attendue": "DIANA BTP peut invoquer PLUSIEURS ILLÉGALITÉS :\n\n1. VICE DE PROCÉDURE (illégalité externe) :\n• La décision d'attribution n'est pas motivée. Si les textes sur les marchés publics exigent une motivation écrite de l'attribution (ce qui est généralement le cas), l'absence de motivation constitue un VICE DE FORME substantiel.\n\n2. VIOLATION DE LA LOI (illégalité interne) :\n• La réglementation des marchés publics (Code des marchés publics ou texte applicable à Madagascar) impose en général des critères objectifs d'attribution. Écarter l'offre la mieux notée au profit d'une offre plus chère et moins bien évaluée viole ces règles d'attribution objectives.\n\n3. DÉTOURNEMENT DE POUVOIR (illégalité interne) :\n• Si DIANA BTP peut prouver que l'attribution à TANA CONSTRUCTIONS répond à des motifs autres que l'intérêt général (liens politiques, corruption, favoritisme régional), elle peut invoquer le détournement de pouvoir.\n\n4. VIOLATION DU PRINCIPE D'ÉGALITÉ :\n• Les candidats à un marché public doivent être traités de façon égale et selon des critères objectifs. Favoriser une entreprise de la capitale sans justification objective viole ce principe."
+        },
+        {
+          "numero": 3,
+          "question": "Quelle stratégie procédurale adopter compte tenu des délais et de l'urgence ?",
+          "reponse_attendue": "STRATÉGIE EN DEUX VOLETS SIMULTANÉS :\n\nVOLET 1 — URGENCE (immédiat) :\n\nSi les travaux n'ont pas encore commencé, DIANA BTP doit IMMÉDIATEMENT (dans les jours suivant la notification du 20 janvier) former :\n\n• UN RÉFÉRÉ-SUSPENSION au Tribunal Administratif : demander la SUSPENSION de l'arrêté d'attribution pendant l'instruction du fond.\n  - URGENCE : les travaux vont débuter rapidement, le préjudice sera irréparable une fois commencés\n  - DOUTE SÉRIEUX : offre techniquement supérieure écartée sans motivation = doute sérieux sur la légalité\n  - Le TA peut statuer en quelques jours\n\nVOLET 2 — FOND (dans les 60 jours) :\n\nDÉLAI CRITIQUE : la notification est du 20 janvier → REP à déposer AVANT le 20 mars 2025 (60 jours).\n\n• RECOURS GRACIEUX préalable au Maire : demander le retrait de l'arrêté et une nouvelle attribution. Interrompt le délai de 60 jours.\n• Si rejeté ou silence → REP devant le Tribunal Administratif + recours de PLEIN CONTENTIEUX pour dommages-intérêts si l'annulation n'est plus possible (travaux déjà commencés).\n\nATTENTION : si les travaux sont déjà bien avancés avant l'annulation, le juge pourrait refuser d'annuler le marché pour ne pas perturber le service public (bâtiment scolaire). DIANA BTP obtiendrait alors uniquement des dommages-intérêts."
+        },
+        {
+          "numero": 4,
+          "question": "Si le TA annule l'arrêté d'attribution, quelles sont les conséquences pour TANA CONSTRUCTIONS et la commune ?",
+          "reponse_attendue": "CONSÉQUENCES MULTIPLES :\n\nPOUR LA COMMUNE D'ANTSIRANANA :\n• La commune doit relancer une nouvelle procédure d'attribution conforme aux règles\n• Si les travaux ont déjà commencé avec TANA CONSTRUCTIONS, une situation complexe se crée : le contrat est-il nul avec effet rétroactif ?\n• La commune peut être condamnée à payer des dommages-intérêts à DIANA BTP pour le préjudice causé par l'attribution illégale\n\nPOUR TANA CONSTRUCTIONS :\n• L'annulation du marché peut entraîner la résiliation du contrat en cours\n• TANA CONSTRUCTIONS peut réclamer à la commune la valeur des travaux déjà réalisés (enrichissement sans cause)\n• Si TANA CONSTRUCTIONS était de mauvaise foi (savait que l'attribution était irrégulière), sa créance peut être réduite\n\nPOUR DIANA BTP :\n• Elle peut demander au TA une INJONCTION à la commune de relancer la procédure\n• En PLEIN CONTENTIEUX : réclamer le manque à gagner (bénéfice qu'elle aurait réalisé sur le marché), les frais de soumission engagés, et le préjudice commercial lié à la perte du chantier\n\nPOUR LE MAIRE :\n• Si le détournement de pouvoir est établi et que des actes de corruption sont prouvés → RESPONSABILITÉ PERSONNELLE PÉNALE (corruption active ou passive, favoritisme dans les marchés publics — délit pénal au sens du Code pénal malgache)"
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre la convergence de plusieurs voies de recours en contentieux administratif des marchés publics : le référé-suspension d'urgence, le REP au fond, et le plein contentieux indemnitaire. Il montre aussi l'importance cruciale des délais : 60 jours à compter de la notification, passé lesquels le recours devient irrecevable quelle que soit l'illégalité. En pratique, les entreprises évincées d'un marché public doivent agir simultanément et rapidement sur les deux tableaux : urgence et fond."
+    },
+    {
+      "id": "CP2",
+      "titre": "La responsabilité de l'État pour accident lors de travaux publics à Antsiranana",
+      "contexte": "En avril 2025, la Direction Régionale des Travaux Publics (DRTP) de la région DIANA entame des travaux de réfection de la RN6 entre Antsiranana et Ambilobe. Une signalisation insuffisante est mise en place autour d'une tranchée ouverte en pleine nuit.\n\nMonsieur RABE, qui rentre chez lui à moto, tombe dans la tranchée mal signalisée. Il subit des fractures multiples, une hospitalisation de 3 semaines au CHU d'Antsiranana, et ne peut pas travailler pendant 4 mois. Il était artisan menuisier indépendant avec un revenu mensuel d'environ 400.000 Ar.\n\nL'enquête révèle que le chef de chantier, conscient de l'insuffisance de la signalisation, avait omis de la compléter par négligence pour terminer plus vite. M. RABE veut être indemnisé.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "S'agit-il d'une faute de service ou d'une faute personnelle ? Quelle juridiction saisir ?",
+          "reponse_attendue": "C'est une FAUTE DE SERVICE.\n\nANALYSE :\n• Le chef de chantier est un agent public de la DRTP agissant dans l'exercice de ses fonctions\n• La négligence dans la signalisation du chantier est commise DANS et PAR l'exercice de la mission de travaux publics\n• Elle se rattache directement à l'activité de service public (travaux de la RN6)\n• Même si la faute résulte d'une négligence individuelle, elle est accomplie dans le cadre du service et non en dehors de tout lien avec celui-ci\n\nCRITÈRE : la faute personnelle suppose un acte DÉTACHABLE des fonctions, révélant l'homme dans sa vie privée ou sa malveillance personnelle. Ici, la négligence dans la signalisation d'un chantier public est indissociable de la mission de service public → FAUTE DE SERVICE.\n\nJURIDICTION COMPÉTENTE : le TRIBUNAL ADMINISTRATIF, en plein contentieux de la responsabilité administrative.\n\nNOTE : les dommages de TRAVAUX PUBLICS bénéficient même d'un régime de RESPONSABILITÉ SANS FAUTE pour les tiers — M. RABE peut donc engager la responsabilité de l'État même sans avoir à prouver la faute, ce qui rend son action encore plus solide."
+        },
+        {
+          "numero": 2,
+          "question": "Quels préjudices M. RABE peut-il faire valoir et comment les chiffrer ?",
+          "reponse_attendue": "M. RABE peut réclamer l'intégralité de son préjudice direct et certain :\n\n1. PRÉJUDICE CORPOREL :\n• Frais médicaux et d'hospitalisation au CHU (3 semaines) : sur justificatifs (factures)\n• Frais de médicaments, kinésithérapie, soins post-hospitalisation\n• Préjudice d'incapacité temporaire totale (ITT) : 4 mois sans travail\n\n2. PRÉJUDICE ÉCONOMIQUE (gain manqué) :\n• Revenu mensuel perdu pendant 4 mois : 4 × 400.000 Ar = 1.600.000 Ar\n• Perte de clientèle pendant la période d'indisponibilité (si documentable)\n• Frais d'un remplaçant éventuel pour maintenir son activité\n\n3. PRÉJUDICE MORAL :\n• Douleurs physiques (pretium doloris)\n• Préjudice d'agrément (impossibilité temporaire de mener une vie normale)\n• Éventuel préjudice esthétique si les blessures laissent des séquelles visibles\n\n4. ÉVENTUEL PRÉJUDICE PERMANENT :\n• Si les fractures laissent des séquelles permanentes (incapacité partielle permanente), M. RABE peut réclamer une indemnisation pour le reste de sa vie active\n\nTOTAL ESTIMATIF MINIMUM : frais médicaux + 1.600.000 Ar de revenus perdus + préjudice moral évalué par le juge.\n\nPREUVES À CONSTITUER : certificats médicaux, factures hospitalières, attestation de revenus (clients habituels, déclarations fiscales), certificats d'arrêt de travail."
+        },
+        {
+          "numero": 3,
+          "question": "Quelle procédure M. RABE doit-il suivre pour être indemnisé ?",
+          "reponse_attendue": "PROCÉDURE EN PLEIN CONTENTIEUX ADMINISTRATIF :\n\nÉTAPE 1 — RECOURS PRÉALABLE INDEMNITAIRE :\nAvant de saisir le TA, M. RABE doit adresser une DEMANDE INDEMNITAIRE préalable à la DRTP et/ou à l'État (Ministère des Travaux Publics). Cette demande :\n• Expose les faits, les préjudices subis et les sommes réclamées\n• Est accompagnée des justificatifs médicaux et financiers\n• Fixe un délai de réponse (en pratique 4 mois avant décision implicite de rejet)\n\nÉTAPE 2 — SAISINE DU TRIBUNAL ADMINISTRATIF :\nSi l'Administration rejette la demande ou ne répond pas dans les délais → M. RABE saisit le Tribunal Administratif d'Antsiranana par requête en PLEIN CONTENTIEUX INDEMNITAIRE dans les 60 jours du rejet.\n\nLa requête doit contenir :\n• Exposé des faits et de la faute de service\n• Détail et justificatifs des préjudices\n• Montant total réclamé\n• Preuve de la demande préalable et du rejet\n\nÉTAPE 3 — INSTRUCTION :\n• L'Administration produit un mémoire en défense\n• Le juge peut ordonner une expertise médicale pour évaluer les préjudices corporels\n• M. RABE peut répliquer\n\nÉTAPE 4 — JUGEMENT :\nLe TA condamne l'État/la commune à payer le montant qu'il évalue — qui peut différer de ce que M. RABE a réclamé."
+        },
+        {
+          "numero": 4,
+          "question": "Le chef de chantier peut-il aussi être mis en cause personnellement ?",
+          "reponse_attendue": "LA SITUATION EST NUANCÉE :\n\nREGLE GÉNÉRALE : puisqu'il s'agit d'une faute de SERVICE, l'agent lui-même est en principe protégé — c'est l'État qui répond, pas lui personnellement.\n\nEXCEPTIONS — CAS OÙ LA FAUTE PERSONNELLE POURRAIT S'AJOUTER :\n\nSi l'enquête révèle que le chef de chantier :\n• Avait reçu des instructions précises sur la signalisation et les a délibérément ignorées pour des raisons personnelles\n• Avait conscience du danger immédiat et a omis d'agir par malveillance\n→ La faute pourrait CUMULER faute de service (État responsable) et faute personnelle (agent responsable personnellement)\n\nEN MATIÈRE PÉNALE :\nIndépendamment de la responsabilité administrative, le chef de chantier peut être poursuivi PÉNALEMENT pour :\n• Blessures involontaires par négligence ou imprudence (Code pénal malgache)\n• Non-respect des règles de sécurité des chantiers\n\nDans ce cas, M. RABE peut se constituer PARTIE CIVILE dans le procès pénal pour obtenir réparation de son préjudice.\n\nSYNTHÈSE PRATIQUE :\n• Devant le TA (plein contentieux) → M. RABE agit contre l'ÉTAT pour la faute de service\n• Devant le TPI (pénal) → M. RABE peut agir contre le CHEF DE CHANTIER pour blessures involontaires\n• Les deux procédures sont indépendantes et cumulables — la réparation obtenue dans l'une s'impute sur l'autre pour éviter la double indemnisation"
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre les mécanismes de la responsabilité administrative pour faute de service et les spécificités du régime des travaux publics (responsabilité sans faute pour les tiers victimes). Il démontre la nécessité de la demande indemnitaire préalable avant la saisine du TA, et montre comment les procédures administrative et pénale peuvent coexister pour un même accident."
+    }
+  ],
+
+  "references_legales": [
+    { "texte": "Constitution IVème République (2010), art. 111-131", "sujet": "Organisation des juridictions — Conseil d'État" },
+    { "texte": "Loi organique n°2004-005 du 26 juillet 2004", "sujet": "Organisation, fonctionnement et procédures devant le Tribunal Administratif" },
+    { "texte": "Loi n°2004-036 du 1er octobre 2004", "sujet": "Organisation, attributions, fonctionnement et procédure devant le Conseil d'État" },
+    { "texte": "Ordonnance n°60-107 du 27 septembre 1960", "sujet": "Organisation de la juridiction administrative à Madagascar" },
+    { "texte": "Principes généraux du contentieux administratif", "sujet": "REP, plein contentieux, référés, voies de recours" },
+    { "texte": "Doctrine Rolland / Principes du service public", "sujet": "Continuité, mutabilité, égalité — fondements du contrôle juridictionnel" },
+    { "texte": "Code pénal malgache, art. 177 et s.", "sujet": "Corruption — cumul responsabilité administrative et pénale" }
+  ]
+}
