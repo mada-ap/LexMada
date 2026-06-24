@@ -1,0 +1,813 @@
+{
+  "titre": "Le droit foncier à Madagascar",
+  "module": "Module 17 — Niveau 2 (Intermédiaire)",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Comprendre le foncier malgache : un droit à trois vitesses",
+      "texte": "Madagascar est un pays essentiellement rural. Plus des deux tiers de sa population vit hors des villes, et la terre constitue le pilier central de l'économie, de l'identité et de la vie sociale. Dans ce contexte, le droit foncier — c'est-à-dire l'ensemble des règles qui organisent l'accès à la terre, sa propriété, son usage et sa transmission — n'est pas une abstraction juridique. C'est une réalité quotidienne qui touche directement la vie de millions de Malgaches.\n\nCe qui rend le droit foncier malgache particulièrement complexe et fascinant, c'est qu'il fonctionne à trois niveaux simultanés qui coexistent et parfois s'affrontent.\n\nD'abord, le droit coutumier. Avant toute colonisation, les Malgaches vivaient et cultivaient leurs terres sans documentation écrite. La propriété se transmettait oralement, au sein des familles et des lignages. Les limites des parcelles étaient connues de tous les voisins. Ce système ancestral n'a pas disparu avec les lois modernes — il continue de régir la réalité quotidienne de millions de familles rurales.\n\nEnsuite, le droit colonial hérité. L'administration française a introduit le système Torrens — un système d'immatriculation formelle des terres — qui est resté la base du droit foncier malgache après l'indépendance de 1960. Ce système suppose qu'une terre n'a de propriétaire légalement reconnu que si elle est immatriculée. Or, à peine 10% des terres malgaches sont immatriculées.\n\nEnfin, le droit issu de la réforme de 2005. Face à l'inadaptation du système colonial, Madagascar a entrepris une réforme majeure qui a créé un troisième outil : le certificat foncier, délivré au niveau communal, reconnaissant les occupations légitimes sans passer par la lourde procédure d'immatriculation.",
+      "definition": "Droit foncier malgache : ensemble de règles organisées à trois niveaux — le droit coutumier (transmission orale, reconnaissance communautaire), le droit formel issu de la colonisation (immatriculation, titre foncier), et le droit issu de la réforme de 2005 (certificat foncier, guichet foncier communal). Ces trois systèmes coexistent, se complètent et parfois se contredisent."
+    },
+    {
+      "titre": "La présomption de domanialité : quand l'État était propriétaire de tout",
+      "texte": "Pour comprendre la réforme de 2005, il faut d'abord comprendre le principe qui gouvernait le foncier malgache depuis la colonisation : la présomption de domanialité.\n\nCe principe posait une règle simple mais aux conséquences considérables : toute terre non immatriculée est présumée appartenir à l'État. Autrement dit, si vous ne disposez pas d'un titre foncier officiel pour votre terrain, l'État en est le propriétaire présumé, même si votre famille le cultive depuis des générations.\n\nCette présomption avait été instaurée par l'administration coloniale française pour permettre à l'État de disposer des terres non formellement appropriées. Après l'indépendance de 1960, Madagascar l'a maintenue. Pendant plus de quarante ans, ce principe a créé une situation absurde : la grande majorité des Malgaches, qui occupaient et cultivaient leurs terres selon le droit coutumier, n'avaient aucune reconnaissance légale de leur propriété. Ils étaient, juridiquement, des occupants sans titre sur des terres appartenant à l'État.\n\nLes conséquences pratiques étaient graves. Impossible d'utiliser sa terre comme garantie pour obtenir un crédit bancaire. Impossible d'opposer son droit de propriété à un tiers ayant obtenu une immatriculation. Vulnérabilité face aux expropriations ou aux accaparements.\n\nEn 2005, la Loi n°2005-019 a abrogé ce principe. L'État n'est plus présumé propriétaire des terres non immatriculées. Les terres occupées et mises en valeur sont désormais reconnues comme appartenant à leurs occupants — même sans titre formel. C'est un renversement complet de philosophie.",
+      "definition": "Présomption de domanialité : principe colonial selon lequel toute terre non immatriculée était présumée appartenir à l'État. Abrogée par la Loi n°2005-019 du 17 octobre 2005, qui reconnaît désormais les droits des occupants sur les terres non titrées. Ce renversement constitue le cœur de la réforme foncière malgache."
+    },
+    {
+      "titre": "Les statuts des terres à Madagascar : la loi de 2005 et sa classification",
+      "texte": "La Loi n°2005-019 du 17 octobre 2005, dite loi de cadrage foncière, organise la classification des terres à Madagascar en plusieurs catégories aux régimes juridiques distincts.\n\nLe domaine public de l'État regroupe les biens affectés à l'usage direct du public ou à un service public, et qui ne peuvent être aliénés. On y trouve les routes, les rivières navigables, les plages, les ports, les forêts classées, les espaces naturels protégés. Ces biens sont inaliénables et imprescriptibles — on ne peut ni les vendre ni les acquérir par prescription.\n\nLe domaine privé de l'État comprend les terres appartenant à l'État mais qui ne font pas partie du domaine public. Ces terres peuvent être cédées, louées ou concédées à des particuliers ou des entreprises selon des procédures définies. C'est notamment dans ce domaine que se trouvent les terres non occupées et non mises en valeur.\n\nLes propriétés privées titrées sont les terres qui ont fait l'objet d'une immatriculation formelle et pour lesquelles il existe un titre foncier officiel inscrit au livre foncier. C'est la forme de propriété la plus sécurisée juridiquement.\n\nLes propriétés privées non titrées — et c'est l'innovation majeure de 2005 — sont les terres occupées et mises en valeur par des personnes physiques ou morales, mais non encore immatriculées. La loi leur reconnaît désormais une existence juridique propre. Elles peuvent faire l'objet d'un certificat foncier, nouvel outil de sécurisation créé par la réforme.",
+      "definition": "Classification des terres selon la Loi n°2005-019 : domaine public de l'État (inaliénable et imprescriptible — routes, cours d'eau, forêts classées) ; domaine privé de l'État (terres cessibles ou concédables) ; propriétés privées titrées (immatriculées, titre foncier officiel) ; propriétés privées non titrées (occupées et mises en valeur sans titre, désormais reconnues et pouvant être certifiées)."
+    },
+    {
+      "titre": "Le titre foncier : la preuve ultime de la propriété",
+      "texte": "Le titre foncier est le document officiel attestant de la propriété d'un immeuble après accomplissement de la procédure d'immatriculation foncière. C'est l'outil le plus sûr juridiquement — mais aussi le plus difficile à obtenir.\n\nL'immatriculation est régie par l'Ordonnance n°60-146 du 3 octobre 1960 relative au régime foncier de l'immatriculation, texte fondateur du droit foncier formel malgache, complété par la Loi n°2017-046 fixant le régime juridique de l'immatriculation et de la propriété foncière titrée. Elle consiste à inscrire officiellement un terrain dans le Livre Foncier tenu par les Services des Domaines de l'État.\n\nLe titre foncier présente des caractéristiques juridiques essentielles. Il est définitif et inattaquable : une fois délivré, il ne peut plus être remis en cause par une action en justice ordinaire. Il est opposable à tous — y compris à l'État. Il constitue la preuve absolue de la propriété. Il peut servir de garantie hypothécaire pour obtenir un crédit bancaire.\n\nMais la procédure d'immatriculation est longue, coûteuse et complexe. Elle comprend pas moins de 24 étapes, mobilise plusieurs institutions, et peut durer en moyenne six ans. Son coût — environ 600 000 ariary — représente plusieurs mois de revenus pour un ménage rural malgache dont le revenu mensuel moyen est estimé à 50 000 ariary. C'est pourquoi seulement environ 10% des terres malgaches sont immatriculées.",
+      "definition": "Titre foncier : document officiel délivré après la procédure d'immatriculation, inscrit au Livre Foncier des Services des Domaines. Preuve absolue et inattaquable de la propriété, opposable à tous y compris à l'État, utilisable comme garantie hypothécaire. Procédure d'immatriculation : 24 étapes, durée moyenne 6 ans, coût environ 600 000 ariary — inaccessible pour la majorité des ménages ruraux.",
+      "exemple": "Rakoto veut acheter un terrain à Antananarivo pour y construire sa maison. Le vendeur lui présente un titre foncier régulièrement délivré par les Services des Domaines. Rakoto peut vérifier l'authenticité de ce titre au bureau des Domaines compétent. Si le titre est régulier, la transaction est sécurisée : une fois la vente inscrite sur le titre, Rakoto sera reconnu comme propriétaire de façon inattaquable. Il pourra même hypothéquer ce terrain pour obtenir un emprunt bancaire."
+    },
+    {
+      "titre": "Le certificat foncier : l'innovation de la réforme de 2005",
+      "texte": "Face à l'inaccessibilité de l'immatriculation pour la majorité des Malgaches, la réforme de 2005 a créé un nouvel instrument de sécurisation foncière : le certificat foncier. C'est l'innovation majeure de cette réforme.\n\nLe certificat foncier reconnaît officiellement les droits d'une personne sur une terre qu'elle occupe et met en valeur, sans passer par la procédure lourde et coûteuse de l'immatriculation. Il est délivré non pas par les Services des Domaines de l'État, mais par le Guichet Foncier de la Commune — une décision de décentralisation importante qui rapproche le service des citoyens.\n\nLa procédure est plus simple et plus rapide que l'immatriculation. Elle comprend une enquête de terrain menée par des agents du guichet foncier, une publicité locale permettant à quiconque s'y opposerait de faire valoir ses droits, et une validation par le maire de la commune. Le certificat est signé par le maire.\n\nLe certificat foncier n'a pas exactement la même force juridique que le titre foncier — il n'est pas inattaquable. Il peut être contesté si quelqu'un démontre avoir des droits antérieurs sur le terrain. Mais il constitue une présomption de propriété opposable aux tiers : c'est le détenteur du certificat qui est présumé propriétaire, et c'est à celui qui conteste de prouver le contraire. Il peut évoluer vers un titre foncier par une procédure de transformation.\n\nLe certificat foncier peut également être utilisé comme garantie pour obtenir un crédit auprès de certaines institutions de microfinance, ce qui représente un avantage économique concret pour les ménages ruraux.",
+      "definition": "Certificat foncier : document créé par la réforme de 2005, délivré par le Guichet Foncier communal, reconnaissant les droits d'une personne sur une terre occupée et mise en valeur sans titre. Présomption de propriété opposable aux tiers, utilisable comme garantie de crédit. Procédure plus simple et moins coûteuse que l'immatriculation. Peut être transformé en titre foncier.",
+      "exemple": "Vonjy occupe et cultive une parcelle de rizière dans la commune rurale d'Ampanotokana depuis 20 ans, transmise par ses parents. Elle n'a jamais immatriculé ce terrain — trop coûteux. Grâce aux guichets fonciers créés depuis 2005, elle peut demander un certificat foncier à la commune. Après enquête de terrain, publicité locale et validation par le maire, elle reçoit son certificat. Ce document lui permet désormais de prouver sa propriété et d'accéder à des microcrédits agricoles que les institutions refusaient auparavant, faute de garantie."
+    },
+    {
+      "titre": "Les petits papiers : quand la pratique sociale crée son propre droit",
+      "texte": "Entre le titre foncier officiel et l'absence totale de documentation, la pratique sociale malgache a développé une troisième voie informelle mais largement répandue : les « petits papiers ».\n\nLes petits papiers désignent des documents privés — actes de vente, reconnaissances de propriété, conventions de partage — rédigés entre particuliers, sans intervention des services officiels de l'État. Ces documents peuvent être légalisés (signature authentifiée par les autorités locales) ou authentifiés par le fokonolona ou le maire du fokontany. Ils n'ont pas valeur de titre foncier officiel, mais dans la pratique, ils circulent et sont acceptés comme preuves de propriété par la grande majorité des Malgaches.\n\nCette pratique est née d'une nécessité : quand l'immatriculation est hors de portée financière et procédurale, les gens ont besoin d'une trace écrite de leurs transactions foncières. Les petits papiers répondent à ce besoin réel.\n\nDu point de vue juridique, leur valeur est complexe. Entre les parties qui les ont signés, ils ont la force d'un contrat privé et lient ceux qui s'y sont engagés. Mais face à un titre foncier officiel, ils ne peuvent pas prévaloir — la personne titulaire d'un titre foncier l'emportera en justice sur la personne ne disposant que d'un petit papier. Et si deux personnes disposent de petits papiers contradictoires pour le même terrain, la situation peut devenir très conflictuelle.\n\nLes tribunaux malgaches ont parfois fait preuve de tolérance envers ces situations de fait lorsqu'aucun titre officiel ne s'y opposait. Mais cette tolérance n'est pas garantie.",
+      "definition": "Petits papiers : documents privés non officiels (actes de vente entre particuliers, reconnaissances de propriété, conventions familiales) légalisés ou authentifiés localement, utilisés comme preuves informelles de propriété foncière. Valables entre les parties mais ne peuvent pas prévaloir contre un titre foncier ou un certificat foncier officiel. Pratique née de l'inaccessibilité des procédures formelles."
+    },
+    {
+      "titre": "Le droit coutumier et le fokonolona : la régulation foncière communautaire",
+      "texte": "Le droit foncier malgache ne se comprend pas sans le fokonolona — la communauté de base qui constitue depuis des siècles le premier cadre de régulation des rapports fonciers.\n\nLe fokonolona est défini comme un clan patrilinéaire et patrilocal unissant sur un même territoire les descendants d'un même ancêtre dont le tombeau constitue le pôle mystique du groupe. Cette dimension ancestrale est fondamentale : la terre à Madagascar n'est pas seulement une ressource économique — elle est liée aux ancêtres, à l'identité, au tombeau familial. L'appropriation et la transmission des terres s'inscrivent dans cette logique.\n\nLe fokonolona exerce des fonctions foncières essentielles. Il administre les biens fonciers collectifs et détermine les règles de gestion. Il résout les conflits entre ses membres à travers des procédures de conciliation. Il participe officiellement à la procédure d'immatriculation — aucune immatriculation dans une commune rurale ne peut se faire sans le consentement du fokonolona lorsqu'un propriétaire légitime selon la coutume existe déjà. Il adopte et exécute des dina — des conventions communautaires qui organisent la vie du fokontany, y compris en matière foncière.\n\nLa légitimité d'une propriété coutumière repose sur la mise en valeur, la continuité de l'occupation et la reconnaissance par la communauté. Chaque famille connaît les limites de ses parcelles. Dans le Sud malgache, chaque parcelle a même un nom qui permet de l'identifier — se tromper de nom peut trahir un propriétaire illégitime.",
+      "definition": "Fokonolona : communauté de base malgache (clan patrilinéaire sur un territoire commun) exerçant des fonctions de régulation foncière — administration des biens collectifs, résolution des conflits, adoption de dina, participation à la procédure d'immatriculation. La propriété coutumière repose sur la mise en valeur, l'occupation continue et la reconnaissance communautaire, indépendamment de tout titre officiel."
+    },
+    {
+      "titre": "Le dina : convention communautaire et outil de régulation foncière",
+      "texte": "Le dina est l'un des instruments les plus originaux du droit malgache. C'est à la fois une convention communautaire traditionnelle et, depuis sa légalisation, un outil de régulation officiel reconnu par l'État.\n\nTraditionnellement, le dina est une convention adoptée par le fokonolona pour organiser la vie de la communauté et sanctionner les comportements déviants. En matière foncière, il peut régir l'usage des terres collectives, interdire certaines pratiques agricoles destructrices, organiser la gestion des pâturages communs. Les sanctions en cas de violation du dina — les vonodina — peuvent être des réparations pécuniaires, des restitutions en nature, ou des sanctions sociales comme l'exclusion de la communauté.\n\nEn 2001, la Loi n°2001-004 a institué une procédure d'homologation du dina par le juge. Le projet de dina est soumis pour avis aux autorités communales et au représentant de l'État, puis adressé au juge qui doit l'homologuer ou motiver son refus. Une fois homologué, le dina acquiert force exécutoire — son non-respect peut être sanctionné pénalement sur le fondement du Code pénal.\n\nL'homologation judiciaire du dina illustre comment le droit malgache cherche à articuler les institutions coutumières et le droit étatique. Le juge ne détruit pas le dina traditionnel — il lui confère une légitimité supplémentaire par la reconnaissance de l'État.\n\nLes tribunaux malgaches tiennent compte du dina dans leurs décisions foncières. Lorsqu'un vonodina a déjà été appliqué, le juge pénal cherche à éviter une double peine en prenant en compte le montant déjà payé dans le calcul des dommages et intérêts.",
+      "definition": "Dina : convention communautaire adoptée par le fokonolona organisant la vie sociale et réglant les comportements, y compris en matière foncière. Les violations entraînent des vonodina (sanctions pécuniaires ou sociales). Depuis 2001, le dina peut être homologué par un juge, ce qui lui confère force exécutoire et permet le recours à la force publique en cas d'inexécution."
+    },
+    {
+      "titre": "Le guichet foncier communal : la décentralisation au service du citoyen",
+      "texte": "Le guichet foncier communal est la grande innovation institutionnelle de la réforme de 2005. C'est un service de proximité créé au niveau de la commune, chargé de délivrer les certificats fonciers et de gérer les informations foncières locales.\n\nAvant la réforme, toute démarche foncière passait par les Services des Domaines de l'État, souvent localisés loin des communes rurales. Pour un paysan vivant dans une zone enclavée, accéder au bureau des Domaines pouvait nécessiter plusieurs jours de marche. Le coût du déplacement, de l'hébergement et des formalités représentait une somme prohibitive.\n\nLe guichet foncier change cette réalité. Localisé à la mairie de la commune, il est accessible aux habitants sans déplacement lointain. Il est géré par des agents communaux formés à la gestion foncière, sous la supervision technique des services fonciers de l'État.\n\nSes missions principales sont : délivrer les certificats fonciers après enquête de terrain et publicité locale ; tenir le Plan Local d'Occupation Foncière (PLOF) — une carte de l'occupation des terres sur le territoire communal ; informer les citoyens sur les statuts des terres ; prévenir et contribuer à résoudre les conflits fonciers locaux.\n\nLe PLOF est particulièrement important. C'est la carte qui recense visuellement l'ensemble des parcelles du territoire communal avec leur statut — terre titrée, terrain certifié, terrain non encore sécurisé, domaine de l'État. Il permet au guichet foncier de savoir immédiatement si une terre est libre de droits avant de délivrer un certificat, évitant ainsi les conflits ultérieurs.",
+      "definition": "Guichet foncier communal : service de proximité créé par la réforme de 2005, localisé à la mairie, chargé de délivrer les certificats fonciers, de tenir le Plan Local d'Occupation Foncière (PLOF) et d'informer les citoyens sur les statuts des terres. Outil de décentralisation qui rapproche l'administration foncière des citoyens ruraux."
+    },
+    {
+      "titre": "Les conflits fonciers à Madagascar : nature, causes et modes de résolution",
+      "texte": "Madagascar est un pays où les conflits fonciers sont extrêmement fréquents. Selon certaines estimations, 70% des affaires portées devant les tribunaux concernent le foncier. Pourtant, la très grande majorité des conflits fonciers ne parvient jamais jusqu'aux tribunaux — ils sont résolus, ou restent latents, au niveau communautaire.\n\nLes causes de conflits fonciers sont multiples. La double immatriculation — deux titres délivrés pour un même terrain — est un problème ancien dû à des défaillances administratives. Les héritages non réglés entre membres d'une même famille constituent une source majeure de contentieux : lorsqu'un parent décède sans laisser de document de partage, ses enfants peuvent se retrouver en conflit des années plus tard. La vente du même terrain à plusieurs acheteurs (stellionat) est une forme de fraude sanctionnée pénalement. L'occupation progressive de terrains voisins par empiètement crée des litiges de délimitation. Les transactions foncières impliquant des migrants ou des étrangers génèrent souvent des conflits avec le fokonolona local.\n\nLa résolution des conflits fonciers suit une logique progressive. D'abord, la résolution interne à la famille : un conflit est d'abord traité au sein du lignage, lors de réunions familiales. Puis l'intervention des ray aman-dreny — les anciens respectés — qui cherchent le marimaritra iraisana (le juste milieu). Si ça échoue, le fokonolona ou le maire peut tenter une conciliation. Ce n'est qu'en dernier recours que les parties s'adressent au tribunal. Ce processus reflète une valeur profonde de la société malgache : la préservation du fihavanana — la solidarité et l'harmonie communautaire.",
+      "definition": "Conflits fonciers malgaches : résolution progressive selon une hiérarchie — résolution familiale interne, intervention des ray aman-dreny (anciens sages), conciliation par le fokonolona ou le maire, recours judiciaire en dernier ressort. Les principales causes : double immatriculation, héritages non réglés, stellionat (vente frauduleuse à plusieurs acheteurs), empiètements, transactions avec des étrangers. Valeur centrale : fihavanana (solidarité communautaire)."
+    },
+    {
+      "titre": "Le rôle du juge dans les conflits fonciers : conciliateur autant que trancheur",
+      "texte": "Le rôle du juge malgache dans les conflits fonciers est profondément original. Il ne se contente pas d'appliquer mécaniquement la loi — il cherche avant tout une solution socialement acceptable et durable.\n\nLe juge civil est le principal acteur judiciaire des conflits fonciers. Il est compétent pour connaître des litiges relatifs à la propriété privée, pour juger les cas d'expropriation, pour allouer des dommages-intérêts en cas de dol lors d'une immatriculation, pour ordonner l'expulsion d'occupants sans titre. Mais au-delà de ces compétences formelles, le juge civil a un rôle légalement reconnu de conciliateur — il peut tenter de concilier les parties à tout moment de la procédure.\n\nLes magistrats malgaches exercent cette fonction de conciliation en s'appuyant sur leur rôle social de ray aman-dreny — les anciens sages. Les parties les interpellent parfois directement ainsi : « Vous en tant que ray aman-dreny, pouvez-vous... ». Le juge comprend que son jugement, s'il ne s'inscrit pas dans la dynamique de régulation locale, risque de ne pas être accepté par la communauté — et donc de ne pas être appliqué.\n\nLe juge pénal connaît les conflits fonciers indirectement (coups et blessures nés d'un différend foncier) ou directement (stellionat, occupation sans titre). Il dispose lui aussi de pouvoirs d'adaptation — circonstances atténuantes, délais de réflexion, invitation à la conciliation — qu'il mobilise pour donner aux parties le temps de trouver un accord. Dans les conflits familiaux notamment, le juge souligne l'importance du fihavanana et les conséquences désastreuses qu'un jugement formel pourrait avoir sur les liens de parenté.\n\nLe juge administratif contrôle la légalité des actes administratifs en matière foncière et protège le domaine public. Il n'hésite pas à condamner l'État lorsqu'il constate une illégalité.",
+      "definition": "Rôle du juge foncier à Madagascar : triple fonction — décision judiciaire (application du droit), conciliation (recherche d'un accord entre parties, légalement reconnu pour le juge civil), et adaptation aux réalités sociales locales (prise en compte du fokonolona, du dina, du fihavanana). Le juge statue souvent 'à la marge' — la plupart des conflits étant réglés avant d'arriver en justice."
+    },
+    {
+      "titre": "L'accès à la justice foncière : un obstacle majeur pour les ruraux",
+      "texte": "Si les conflits fonciers sont nombreux à Madagascar, l'accès à la justice pour les régler reste un défi considérable, particulièrement pour les populations rurales.\n\nL'obstacle géographique est immédiat. En 2003, Madagascar ne comptait que 37 tribunaux de première instance et 4 cours d'appel pour une superficie de 587 041 km² et une population de 15 millions d'habitants. Un tribunal de première instance couvre en moyenne 15 000 km² et 500 000 habitants. Pour un paysan vivant dans une zone enclavée, se rendre au tribunal peut représenter cinq jours de marche aller. À titre de comparaison, à La Réunion, un tribunal couvre 63 km² et 187 000 habitants.\n\nL'obstacle financier est tout aussi décisif. Les frais d'une procédure judiciaire sont prohibitifs pour des ménages ruraux vivant avec moins de 2 000 ariary par jour. Une provision pour affaires civiles : 26 000 ariary. Les honoraires d'avocat : 300 000 ariary minimum. Une procédure de prescription acquisitive complète peut coûter plusieurs centaines de milliers d'ariary. Pour rappel, le salaire d'un ouvrier agricole est de 1 200 à 2 000 ariary par jour.\n\nL'obstacle culturel est peut-être le plus profond. Dans la société malgache, recourir au tribunal est vu comme une rupture du fihavanana — la solidarité communautaire. Celui qui emmène un conflit devant le juge est perçu comme un impatient, voire un filou. Cette réputation peut être plus coûteuse socialement que le conflit lui-même.\n\nL'obstacle procédural et informatif complète le tableau : les textes juridiques sont dispersés, souvent indisponibles en dehors d'Antananarivo, rédigés dans un langage français inaccessible à la plupart des justiciables.",
+      "definition": "Obstacles à l'accès à la justice foncière : géographique (peu de tribunaux, zones enclavées), financier (frais prohibitifs par rapport au revenu rural), culturel (recourir au tribunal brise le fihavanana — la solidarité communautaire, et expose à la réprobation sociale), et procédural/informationnel (textes juridiques indisponibles, complexes, en français)."
+    },
+    {
+      "titre": "Récapitulatif : les clés du droit foncier malgache",
+      "texte": "Voici les points essentiels pour maîtriser le droit foncier à Madagascar.\n\nPremièrement, le droit foncier malgache est pluriel. Il combine le droit coutumier (fokonolona, ray aman-dreny, dina), le droit formel colonial (immatriculation, titre foncier) et le droit issu de la réforme de 2005 (certificat foncier, guichet foncier communal).\n\nDeuxièmement, la réforme de 2005 a abrogé la présomption de domanialité. Les terres occupées et mises en valeur ne sont plus présumées appartenir à l'État — elles sont reconnues comme propriétés de leurs occupants.\n\nTroisièmement, il existe trois documents de propriété foncière. Le titre foncier (immatriculation officielle, force absolue, inattaquable, mais coûteux et long à obtenir). Le certificat foncier (délivré par le guichet foncier communal, présomption de propriété, moins coûteux). Les petits papiers (documents privés sans valeur officielle, mais largement utilisés dans la pratique).\n\nQuatrièmement, le fokonolona et les institutions coutumières jouent un rôle essentiel dans la gestion et la résolution des conflits fonciers, avant tout recours judiciaire.\n\nCinquièmement, le juge malgache est davantage conciliateur que trancheur. Il cherche le marimaritra iraisana — le juste équilibre entre les intérêts en présence — en s'appuyant à la fois sur le droit positif et sur les réalités sociales locales.\n\nSixièmement, l'accès à la justice foncière reste très limité pour les populations rurales en raison d'obstacles géographiques, financiers, culturels et procéduraux.",
+      "definition": "À retenir : pluralisme juridique foncier (coutumier + formel + réforme 2005) ; abrogation de la présomption de domanialité en 2005 ; trois documents de propriété (titre foncier > certificat foncier > petits papiers) ; rôle central du fokonolona et du dina ; juge conciliateur cherchant le marimaritra iraisana ; accès à la justice limité pour les ruraux."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel principe gouvernait le foncier malgache depuis la colonisation jusqu'en 2005 ?",
+      "choix": [
+        "La présomption de propriété coutumière — les occupants étaient présumés propriétaires",
+        "La présomption de domanialité — toute terre non immatriculée était présumée appartenir à l'État",
+        "Le droit communautaire — le fokonolona était propriétaire de toutes les terres",
+        "La liberté totale — chacun était propriétaire de la terre qu'il occupait sans formalité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce principe venait de l'administration coloniale française.",
+        "Il signifiait que l'absence de titre foncier bénéficiait à l'État.",
+        "La réforme de 2005 l'a précisément abrogé."
+      ],
+      "explication": "La présomption de domanialité posait que toute terre non immatriculée appartenait présumément à l'État. Cela signifiait que des millions de Malgaches occupant et cultivant leurs terres depuis des générations, sans titre foncier officiel, n'avaient aucune reconnaissance légale de leur propriété. Ce principe colonial, maintenu après l'indépendance de 1960, a été abrogé par la Loi n°2005-019 qui reconnaît désormais les droits des occupants sur les terres non titrées."
+    },
+    {
+      "question": "Quel texte fondamental a abrogé la présomption de domanialité et opéré la réforme foncière de 2005 ?",
+      "choix": [
+        "L'Ordonnance n°60-146 du 3 octobre 1960",
+        "La Loi n°2005-019 du 17 octobre 2005 fixant les principes régissant les statuts des terres",
+        "Le Code civil malgache de 1962",
+        "La Loi n°2017-046 sur l'immatriculation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est la loi de cadrage de la réforme foncière.",
+        "Elle date de 2005 et classe les terres en plusieurs catégories.",
+        "Elle a créé la notion de propriété privée non titrée."
+      ],
+      "explication": "La Loi n°2005-019 du 17 octobre 2005, dite loi de cadrage foncière, est le texte central de la réforme. Elle abroge la présomption de domanialité, classe les terres en domaine public, domaine privé de l'État, propriétés privées titrées et propriétés privées non titrées, et fonde le nouveau dispositif du certificat foncier communal."
+    },
+    {
+      "question": "Quelle est la proportion de terres immatriculées à Madagascar ?",
+      "choix": [
+        "Environ 50% des terres",
+        "Plus de 80% des terres",
+        "Environ 10% seulement des terres",
+        "Environ 30% des terres"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Ce chiffre illustre l'échec relatif du système colonial d'immatriculation.",
+        "La grande majorité des terres malgaches sont donc occupées sans titre formel.",
+        "C'est précisément cette réalité qui a justifié la réforme de 2005."
+      ],
+      "explication": "Environ 10% seulement des terres malgaches sont immatriculées. Cette proportion infime illustre l'inadaptation du système d'immatriculation coloniale au contexte malgache : une procédure de 24 étapes, une durée moyenne de 6 ans, et un coût d'environ 600 000 ariary pour un revenu mensuel moyen de 50 000 ariary en milieu rural. 90% des terres sont donc occupées sans titre formel — c'est la réalité que la réforme de 2005 a voulu prendre en compte."
+    },
+    {
+      "question": "Qu'est-ce que le certificat foncier créé par la réforme de 2005 ?",
+      "choix": [
+        "Un document identique au titre foncier, délivré par les Services des Domaines",
+        "Un document délivré par le Guichet Foncier communal reconnaissant les droits sur une terre occupée et mise en valeur sans titre formel",
+        "Un simple reçu de paiement des taxes foncières",
+        "Un document attestant de la valeur vénale d'un terrain"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il est délivré non par l'État central mais par la commune.",
+        "Il reconnaît une occupation réelle sans passer par l'immatriculation.",
+        "Il est signé par le maire après enquête de terrain."
+      ],
+      "explication": "Le certificat foncier est le nouvel outil de sécurisation créé par la réforme de 2005. Délivré par le Guichet Foncier de la commune (et non par les Services des Domaines de l'État), il reconnaît officiellement les droits d'une personne sur une terre qu'elle occupe et met en valeur, sans passer par la longue et coûteuse procédure d'immatriculation. Il constitue une présomption de propriété opposable aux tiers et peut évoluer vers un titre foncier."
+    },
+    {
+      "question": "Quelle est la différence juridique fondamentale entre le titre foncier et le certificat foncier ?",
+      "choix": [
+        "Il n'y a aucune différence — ils ont la même valeur juridique",
+        "Le titre foncier est définitif et inattaquable ; le certificat foncier constitue une présomption de propriété qui peut être contestée si des droits antérieurs sont prouvés",
+        "Le certificat foncier est plus fort que le titre foncier car il est plus récent",
+        "Le titre foncier est délivré par la commune ; le certificat foncier par l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un est la forme de propriété la plus sécurisée qui soit.",
+        "L'autre peut être remis en cause sous certaines conditions.",
+        "La différence tient à leur force probatoire respective."
+      ],
+      "explication": "Le titre foncier est définitif et inattaquable : une fois délivré, il ne peut plus être remis en cause par une action judiciaire ordinaire et constitue la preuve absolue de la propriété. Le certificat foncier, lui, constitue une présomption de propriété : c'est le détenteur du certificat qui est présumé propriétaire, mais cette présomption peut être renversée si quelqu'un démontre avoir des droits antérieurs sur le terrain. Le certificat est moins sécurisé mais beaucoup plus accessible."
+    },
+    {
+      "question": "Qu'est-ce que le Plan Local d'Occupation Foncière (PLOF) ?",
+      "choix": [
+        "Un plan d'urbanisme municipal définissant les zones constructibles",
+        "La carte tenue par le Guichet Foncier communal recensant visuellement toutes les parcelles du territoire avec leur statut foncier",
+        "Un document comptable recensant les taxes foncières dues par chaque propriétaire",
+        "Un plan de répartition des terres entre les différents fokontany d'une commune"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un outil informatique et cartographique.",
+        "Il permet au guichet foncier de savoir si une terre est libre avant de délivrer un certificat.",
+        "Il est tenu au niveau communal."
+      ],
+      "explication": "Le Plan Local d'Occupation Foncière (PLOF) est la carte foncière communale tenue par le Guichet Foncier. Elle recense visuellement l'ensemble des parcelles du territoire communal avec leur statut — terrain titré, terrain certifié, terrain non encore sécurisé, domaine de l'État. Il est l'outil essentiel qui permet au guichet foncier de vérifier qu'une terre est libre de droits avant de délivrer un certificat foncier, prévenant ainsi les conflits de double attribution."
+    },
+    {
+      "question": "Que sont les 'petits papiers' dans le système foncier malgache ?",
+      "choix": [
+        "Des documents officiels délivrés par les Services des Domaines pour les petites parcelles",
+        "Des documents privés non officiels (actes de vente entre particuliers, reconnaissances de propriété) légalisés localement, utilisés comme preuves informelles de propriété",
+        "Des reçus de paiement des taxes foncières communales",
+        "Des extraits du registre foncier délivrés aux petits propriétaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ils sont nés de l'inaccessibilité des procédures formelles.",
+        "Ils n'ont pas la valeur d'un titre foncier officiel.",
+        "Ils sont largement utilisés dans la pratique malgache malgré leur nature informelle."
+      ],
+      "explication": "Les petits papiers sont des documents privés rédigés entre particuliers — actes de vente, reconnaissances de propriété, conventions de partage — légalisés ou authentifiés localement. Ils n'ont pas valeur de titre foncier officiel mais sont largement acceptés dans la pratique comme preuves de propriété. Ils sont nés de la nécessité : quand l'immatriculation est hors de portée, les gens ont besoin d'une trace écrite de leurs transactions. Juridiquement, ils ne peuvent pas prévaloir contre un titre foncier officiel."
+    },
+    {
+      "question": "Vrai ou faux : en droit foncier malgache actuel, l'État est propriétaire de toutes les terres non immatriculées.",
+      "choix": [
+        "Vrai",
+        "Faux : la présomption de domanialité a été abrogée en 2005 — les terres occupées et mises en valeur sont désormais reconnues comme propriétés de leurs occupants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La réforme de 2005 a précisément inversé ce principe.",
+        "C'est l'innovation fondamentale de la Loi n°2005-019.",
+        "Désormais, c'est l'occupant qui est présumé propriétaire, pas l'État."
+      ],
+      "explication": "Faux. Avant 2005, la présomption de domanialité imposait que toute terre non immatriculée appartienne à l'État. La Loi n°2005-019 du 17 octobre 2005 a abrogé ce principe. Désormais, les terres occupées et mises en valeur sont reconnues comme propriétés de leurs occupants, même sans titre formel. L'État n'est plus présumé propriétaire par défaut — c'est un renversement philosophique majeur."
+    },
+    {
+      "question": "Combien d'étapes comprend la procédure d'immatriculation foncière à Madagascar ?",
+      "choix": [
+        "5 étapes",
+        "12 étapes",
+        "24 étapes",
+        "3 étapes seulement"
+      ],
+      "reponse": 2,
+      "indices": [
+        "C'est précisément cette complexité qui explique le faible taux d'immatriculation.",
+        "La durée moyenne est de 6 ans.",
+        "Ce nombre illustre pourquoi la grande majorité des Malgaches n'ont pas de titre foncier."
+      ],
+      "explication": "La procédure d'immatriculation foncière comprend pas moins de 24 étapes, mobilise plusieurs institutions, et peut durer en moyenne 6 ans. Son coût d'environ 600 000 ariary représente plusieurs mois de revenus pour un ménage rural. C'est précisément cette inaccessibilité qui a conduit à la création du certificat foncier — une alternative plus simple, plus rapide et moins coûteuse."
+    },
+    {
+      "question": "Qu'est-ce que le fokonolona et quel est son rôle en matière foncière ?",
+      "choix": [
+        "Le Service des Domaines de l'État au niveau communal",
+        "La communauté de base malgache (clan patrilinéaire sur un territoire commun) qui administre les biens fonciers collectifs, résout les conflits et adopte des dina",
+        "Le tribunal foncier spécialisé dans les conflits de propriété",
+        "L'assemblée des maires des communes rurales"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une institution traditionnelle ancestrale, pas une institution étatique.",
+        "Il regroupe les membres d'une même communauté sur un territoire.",
+        "Il joue un rôle de régulation sociale bien avant tout recours judiciaire."
+      ],
+      "explication": "Le fokonolona est la communauté de base malgache — un clan patrilinéaire unissant les descendants d'un même ancêtre sur un territoire commun. En matière foncière, il administre les biens collectifs, détermine les règles de gestion, résout les conflits entre membres, participe à la procédure d'immatriculation et adopte des dina. Il constitue le premier niveau de régulation foncière, avant tout recours au juge étatique."
+    },
+    {
+      "question": "Qu'est-ce que le dina traditionnel ?",
+      "choix": [
+        "Un acte notarié authentifiant une transaction foncière",
+        "Une convention adoptée par le fokonolona organisant la vie de la communauté et sanctionnant les comportements déviants",
+        "Un jugement rendu par le tribunal de première instance en matière foncière",
+        "Un document de propriété intermédiaire entre le petit papier et le certificat foncier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une institution communautaire traditionnelle.",
+        "Son non-respect entraîne des vonodina — des sanctions pécuniaires ou sociales.",
+        "Il peut être homologué par un juge depuis 2001."
+      ],
+      "explication": "Le dina est une convention adoptée par le fokonolona pour organiser la vie de la communauté — y compris en matière foncière — et sanctionner les comportements déviants. Les violations entraînent des vonodina (sanctions pécuniaires, restitutions en nature, ou exclusion sociale). Depuis la Loi n°2001-004, le dina peut être homologué par un juge, ce qui lui confère force exécutoire et permet le recours à la force publique en cas d'inexécution."
+    },
+    {
+      "question": "Qu'est-ce que le vonodina ?",
+      "choix": [
+        "Le nom donné au titre foncier dans la langue malgache",
+        "La sanction prévue par le dina en cas de violation de la convention communautaire",
+        "La procédure d'approbation du dina par les autorités communales",
+        "Le représentant du fokonolona chargé d'appliquer les décisions communautaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est la conséquence du non-respect du dina.",
+        "Il peut prendre plusieurs formes — financière, naturelle ou sociale.",
+        "Le juge en tient compte pour éviter une double peine."
+      ],
+      "explication": "Le vonodina est la sanction prévue par le dina en cas de violation de la convention communautaire. Il peut prendre la forme d'une réparation pécuniaire (amende, remboursement), d'une restitution en nature (restitution d'animaux volés avec coefficient), ou d'une sanction sociale (exclusion de la communauté). Le juge pénal, lorsqu'il est saisi parallèlement au fokonolona, tient compte du vonodina déjà appliqué pour éviter une double peine."
+    },
+    {
+      "question": "Depuis quelle loi le dina peut-il être homologué par un juge ?",
+      "choix": [
+        "La Loi n°2005-019 sur le statut des terres",
+        "L'Ordonnance n°60-146 sur le régime foncier de l'immatriculation",
+        "La Loi n°2001-004 du 25 octobre 2001 portant réglementation générale des dina en matière de sécurité publique",
+        "La Loi n°2017-046 sur l'immatriculation"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Cette loi date du début des années 2000.",
+        "Elle encadre spécifiquement les dina en matière de sécurité publique.",
+        "L'homologation confère au dina force exécutoire."
+      ],
+      "explication": "La Loi n°2001-004 du 25 octobre 2001 portant réglementation générale des dina en matière de sécurité publique institue la procédure d'homologation judiciaire du dina. Le projet de dina est soumis pour avis aux autorités communales, puis adressé au juge pour homologation. Une fois homologué, le dina acquiert force exécutoire et son non-respect peut être sanctionné pénalement."
+    },
+    {
+      "question": "Qu'est-ce que le stellionat en droit foncier malgache ?",
+      "choix": [
+        "La procédure de partage d'un terrain entre plusieurs héritiers",
+        "Une fraude consistant à immatriculer en son nom un terrain dont on sait ne pas être propriétaire, ou à vendre le même terrain à plusieurs acheteurs",
+        "Le fait d'occuper un terrain sans titre foncier",
+        "La procédure d'extension du titre foncier à une parcelle voisine"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une infraction pénale sanctionnée par le Code foncier malgache.",
+        "Elle peut prendre plusieurs formes de fraude lors de l'immatriculation.",
+        "Elle est définie à l'article 131 de l'Ordonnance n°60-146."
+      ],
+      "explication": "Le stellionat est une infraction pénale définie à l'article 131 de l'Ordonnance n°60-146. Est réputé stellionataire : quiconque fait immatriculer en son nom un immeuble dont il sait ne pas être propriétaire ; quiconque inscrit un droit réel sur un titre qui ne lui appartient pas ; quiconque omet sciemment de déclarer des hypothèques ou charges lors de l'immatriculation ; quiconque contracte avec un tiers à l'aide d'une déclaration mensongère. Les officiers ministériels complices peuvent être poursuivis comme co-auteurs."
+    },
+    {
+      "question": "Qui est compétent pour délivrer le certificat foncier ?",
+      "choix": [
+        "Les Services des Domaines de l'État au niveau national",
+        "Le Tribunal de Première Instance de la zone concernée",
+        "Le Guichet Foncier communal, sous la supervision du maire",
+        "Le Service Topographique National"
+      ],
+      "reponse": 2,
+      "indices": [
+        "L'innovation de 2005 est précisément de décentraliser cette compétence.",
+        "C'est un service de proximité, localisé à la mairie.",
+        "Le document final est signé par le maire."
+      ],
+      "explication": "Le certificat foncier est délivré par le Guichet Foncier communal, localisé à la mairie de la commune concernée. C'est l'une des grandes innovations institutionnelles de la réforme de 2005 : la décentralisation de la gestion foncière vers les communes, qui rapproche le service des citoyens ruraux. Après enquête de terrain et publicité locale, le certificat est signé par le maire."
+    },
+    {
+      "question": "Vrai ou faux : en milieu rural malgache, la résolution des conflits fonciers commence généralement par le recours au tribunal.",
+      "choix": [
+        "Vrai, les Malgaches font confiance à la justice étatique pour résoudre leurs conflits",
+        "Faux : la résolution suit une progression — famille élargie, puis ray aman-dreny, puis fokonolona ou maire, et seulement en dernier recours le tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La valeur du fihavanana — la solidarité communautaire — oriente vers des solutions internes.",
+        "Recourir au tribunal est perçu comme une rupture sociale.",
+        "On estime qu'un millième seulement des conflits fonciers arrive devant les tribunaux."
+      ],
+      "explication": "Faux. En milieu rural malgache, le tribunal est le dernier recours. La résolution d'un conflit foncier suit une progression : d'abord résolution au sein de la famille élargie, puis intervention des ray aman-dreny (anciens sages), puis du fokonolona ou du maire. Ce n'est qu'en cas d'échec de toutes ces tentatives que les parties s'adressent au tribunal. On estime qu'environ un millième des conflits fonciers réels parvient devant les juridictions."
+    },
+    {
+      "question": "Qu'est-ce que le fihavanana et quel est son impact sur la gestion des conflits fonciers ?",
+      "choix": [
+        "Un type de document foncier informel reconnu par la coutume",
+        "La solidarité et l'harmonie communautaire, valeur centrale malgache qui pousse à résoudre les conflits en interne plutôt que d'aller en justice",
+        "La procédure légale de médiation foncière devant le maire",
+        "Le nom malgache du titre foncier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une valeur sociale et non un document juridique.",
+        "Elle explique pourquoi la justice étatique est vue comme un dernier recours.",
+        "Celui qui recourt au tribunal rompt cette valeur aux yeux de la communauté."
+      ],
+      "explication": "Le fihavanana désigne la solidarité et l'harmonie communautaire — une valeur fondamentale de la société malgache. Dans les conflits fonciers, le fihavanana pousse les parties à chercher une solution interne plutôt que judiciaire. Aller en justice est perçu comme une rupture de cette solidarité : la personne qui emmène un conflit au tribunal sera considérée comme impatiente, voire malhonnête. Cette valeur explique pourquoi les Malgaches préfèrent les modes de résolution amiables."
+    },
+    {
+      "question": "Qu'est-ce que le marimaritra iraisana dans la pratique judiciaire foncière malgache ?",
+      "choix": [
+        "Le nom d'une procédure judiciaire spéciale pour les conflits fonciers",
+        "Le juste milieu — l'équilibre équitable entre les intérêts des parties que le juge cherche à rétablir",
+        "Le document de conciliation signé par les parties devant le juge",
+        "Le nom malgache du certificat foncier"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un concept de la pensée traditionnelle malgache.",
+        "Il guide la pratique des ray aman-dreny et des juges.",
+        "Il exprime l'idéal de solution équilibrée pour toutes les parties."
+      ],
+      "explication": "Le marimaritra iraisana désigne le juste milieu — la solution équitable et équilibrée entre les intérêts des parties en conflit. C'est l'objectif que cherchent à atteindre les ray aman-dreny lors de leurs conciliations, et que le juge malgache cherche également dans sa pratique judiciaire. Plutôt que de condamner l'une des parties, le juge s'efforce de trouver un équilibre acceptable par tous."
+    },
+    {
+      "question": "Combien de tribunaux de première instance Madagascar comptait-il en 2003 pour l'ensemble de son territoire ?",
+      "choix": [
+        "Environ 200 tribunaux",
+        "37 tribunaux de première instance et 4 cours d'appel",
+        "Uniquement le Tribunal de Grande Instance d'Antananarivo",
+        "Un tribunal par province, soit 6 tribunaux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce nombre est très faible pour un pays de 587 000 km².",
+        "Chaque tribunal couvrait en moyenne 15 000 km² et 500 000 habitants.",
+        "C'est l'un des obstacles majeurs à l'accès à la justice foncière."
+      ],
+      "explication": "En 2003, Madagascar ne comptait que 37 tribunaux de première instance et 4 cours d'appel pour une superficie de 587 041 km² et une population d'environ 15 millions d'habitants. Chaque tribunal couvrait en moyenne 15 000 km² et 500 000 habitants. Pour des populations rurales vivant dans des zones enclavées, cela représentait parfois plusieurs jours de marche pour atteindre le tribunal — un obstacle majeur à l'accès à la justice."
+    },
+    {
+      "question": "Quel est le rôle du ray aman-dreny dans la résolution des conflits fonciers ?",
+      "choix": [
+        "Il est le juge officiel des conflits fonciers au niveau du fokontany",
+        "Il est un ancien respecté de la communauté qui intervient comme conciliateur pour trouver un équilibre entre les parties en conflit",
+        "Il est l'agent du guichet foncier chargé des enquêtes de terrain",
+        "Il est le représentant de l'État dans la commune"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Son autorité vient de son âge, de son expérience et du respect de la communauté.",
+        "Il n'a pas de pouvoir de contrainte formelle — son autorité est morale.",
+        "Les juges eux-mêmes sont parfois interpellés dans ce rôle par les justiciables."
+      ],
+      "explication": "Le ray aman-dreny est un ancien respecté de la communauté qui exerce une autorité morale fondée sur son âge, son expérience et la confiance que lui accorde le groupe. En cas de conflit foncier, il réunit les parties, les écoute, interroge des témoins si nécessaire, et cherche à trouver le marimaritra iraisana — le juste milieu. Sa décision n'est pas juridiquement contraignante, mais son autorité morale est telle que son non-respect entraîne une forte déconsidération sociale."
+    },
+    {
+      "question": "Quel texte fondateur réglemente encore aujourd'hui l'immatriculation foncière à Madagascar ?",
+      "choix": [
+        "Le Code civil français, applicable à Madagascar par continuité du droit",
+        "L'Ordonnance n°60-146 du 3 octobre 1960 relative au régime foncier de l'immatriculation",
+        "La Loi n°2005-019 uniquement",
+        "Le Décret royal d'Andrianampoinimerina"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce texte date de l'indépendance de Madagascar en 1960.",
+        "C'est le texte fondateur du régime foncier formel malgache.",
+        "Il a été complété par des textes ultérieurs dont la Loi n°2017-046."
+      ],
+      "explication": "L'Ordonnance n°60-146 du 3 octobre 1960 relative au régime foncier de l'immatriculation est le texte fondateur du droit foncier formel malgache. Adopté lors de l'indépendance, il régit encore aujourd'hui la procédure d'immatriculation et la délivrance des titres fonciers, complété par des textes successifs dont notamment la Loi n°2017-046 fixant le régime juridique de l'immatriculation et de la propriété foncière titrée."
+    },
+    {
+      "question": "Vrai ou faux : le droit français est applicable à Madagascar pour combler les lacunes du droit malgache.",
+      "choix": [
+        "Vrai, en vertu de la théorie de la continuité du droit et d'une ordonnance de 1960",
+        "Faux, le droit français n'a aucune application à Madagascar depuis l'indépendance"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Madagascar est une ancienne dépendance française.",
+        "Une ordonnance de 1960 consacre ce principe.",
+        "Cette pratique comble les lacunes mais comporte le risque d'un droit inadapté au contexte malgache."
+      ],
+      "explication": "Vrai. En vertu de la théorie de la continuité du droit et en application de l'Ordonnance n°60-107 du 27 septembre 1960, le droit français fait partie du droit positif malgache et comble les vides existants dans ce droit. Dans la pratique, les magistrats l'appliquent dans ses termes actuels, et non dans sa rédaction au moment de l'indépendance. Cette pratique comble les lacunes par du droit contemporain mais comporte le risque d'appliquer un droit inadapté au contexte malgache."
+    },
+    {
+      "question": "Qu'est-ce que le domaine public de l'État en droit foncier malgache ?",
+      "choix": [
+        "L'ensemble des terres appartenant à des propriétaires publics (État, communes, régions)",
+        "Les biens affectés à l'usage direct du public ou à un service public, inaliénables et imprescriptibles",
+        "Les terres qui peuvent être vendues par l'État à des particuliers",
+        "Les terres non encore immatriculées"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces biens ne peuvent ni être vendus ni être acquis par prescription.",
+        "Ils comprennent les routes, les rivières navigables, les plages, les forêts classées.",
+        "Même immatriculés, ils gardent ce caractère inaliénable."
+      ],
+      "explication": "Le domaine public de l'État regroupe les biens affectés à l'usage direct du public ou à un service public. Ces biens sont inaliénables (on ne peut pas les vendre) et imprescriptibles (on ne peut pas les acquérir par prescription acquisitive). Ils comprennent les routes, les rivières navigables, les plages, les ports, les espaces naturels protégés, les forêts classées. Même immatriculés, ils conservent ce caractère inaliénable."
+    },
+    {
+      "question": "Comment la propriété foncière coutumière est-elle reconnue à Madagascar ?",
+      "texte": "La propriété coutumière repose sur la mise en valeur continue d'une terre, l'occupation paisible reconnue par la communauté, et la légitimité accordée par le fokonolona — indépendamment de tout titre officiel.",
+      "choix": [
+        "Elle n'est pas reconnue — seul le titre foncier officiel constitue une preuve de propriété",
+        "Elle est reconnue sur la base de la mise en valeur continue, de l'occupation paisible et de la légitimité accordée par la communauté — et depuis 2005, elle peut être formalisée par un certificat foncier",
+        "Elle est reconnue uniquement pour les terres héritées de parents directs",
+        "Elle est reconnue uniquement dans les communes rurales de moins de 1 000 habitants"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La réforme de 2005 a précisément voulu formaliser ces droits informels.",
+        "Le certificat foncier a été créé pour reconnaître ces occupations légitimes.",
+        "Avant 2005, ces occupants étaient juridiquement présumés vivre sur des terres de l'État."
+      ],
+      "explication": "La propriété coutumière est reconnue sur la base de critères pratiques : la mise en valeur effective et continue d'une terre, l'occupation paisible reconnue par les voisins et la communauté, et la légitimité accordée par le fokonolona. Depuis 2005, cette reconnaissance informelle peut être formalisée par l'obtention d'un certificat foncier auprès du guichet foncier communal, transformant une propriété de fait en propriété de droit."
+    },
+    {
+      "question": "Quel pourcentage des affaires traitées dans les tribunaux malgaches concernait le foncier selon les estimations ?",
+      "choix": [
+        "Environ 10%",
+        "Environ 30%",
+        "Environ 70%",
+        "Environ 95%"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Ce chiffre illustre l'importance du foncier dans le contentieux judiciaire malgache.",
+        "Pourtant, seule une infime fraction des conflits fonciers réels parvient aux tribunaux.",
+        "Un député l'avait souligné lors d'une séance à l'Assemblée nationale."
+      ],
+      "explication": "Selon les estimations mentionnées en séance à l'Assemblée nationale malgache, environ 70% des affaires traitées dans les tribunaux concernent le foncier. Ce chiffre souligne l'importance capital du foncier dans la vie juridique malgache. Paradoxalement, il ne représente qu'une infime fraction des conflits fonciers réels — on estime qu'environ un millième seulement des conflits parvient devant les juridictions, les autres étant résolus ou restant latents au niveau communautaire."
+    },
+    {
+      "question": "Qu'est-ce que la prescription acquisitive en matière foncière malgache ?",
+      "choix": [
+        "La procédure administrative permettant d'obtenir un certificat foncier",
+        "Le mode d'acquisition de la propriété par une possession prolongée, paisible, publique et non équivoque pendant la durée légale requise",
+        "La procédure de transformation d'un certificat foncier en titre foncier",
+        "La sanction financière appliquée en cas d'occupation illégale d'un terrain"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un mode d'acquisition de la propriété fondé sur le temps.",
+        "Elle permet à un occupant de longue date de devenir propriétaire légal.",
+        "Elle suppose une possession réunissant plusieurs caractères cumulatifs."
+      ],
+      "explication": "La prescription acquisitive (usucapion) est le mode d'acquisition de la propriété résultant d'une possession prolongée réunissant des conditions légales — possession continue, paisible, publique et non équivoque pendant la durée requise. En droit foncier malgache, elle permet à un occupant de longue date d'un terrain de faire reconnaître sa propriété en justice. C'est une procédure judiciaire distinct du certificat foncier — elle passe par le tribunal."
+    },
+    {
+      "question": "Pourquoi le coût de l'immatriculation foncière est-il considéré comme prohibitif pour les ménages ruraux malgaches ?",
+      "choix": [
+        "Il n'est pas prohibitif — le gouvernement subventionne entièrement les coûts d'immatriculation",
+        "Le coût est d'environ 600 000 ariary, soit plusieurs mois de revenus pour un ménage rural dont le revenu mensuel moyen est estimé à 50 000 ariary",
+        "Le coût est élevé uniquement dans les zones urbaines",
+        "Il n'existe pas de coût d'immatriculation — la procédure est gratuite"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Comparez le coût à 600 000 ariary avec un revenu mensuel moyen de 50 000 ariary.",
+        "S'y ajoutent les frais de déplacement, d'hébergement et de représentation.",
+        "C'est l'une des raisons principales du faible taux d'immatriculation (10%)."
+      ],
+      "explication": "Le coût d'une immatriculation est d'environ 600 000 ariary, pour un revenu mensuel moyen estimé à 50 000 ariary en milieu rural — soit environ 12 mois de revenus. À ce coût s'ajoutent les frais de déplacement jusqu'au bureau des Domaines (souvent plusieurs jours de route), les frais d'hébergement, et éventuellement les honoraires d'un représentant. Pour la grande majorité des ménages ruraux, ces coûts cumulés sont tout simplement hors de portée."
+    },
+    {
+      "question": "Qu'est-ce que le domaine privé de l'État en droit foncier malgache ?",
+      "choix": [
+        "Les terres appartenant aux fonctionnaires de l'État",
+        "Les terres appartenant à l'État mais ne faisant pas partie du domaine public — cessibles, louables ou concédables à des particuliers selon des procédures définies",
+        "Les terres forestières protégées",
+        "Les terres immatriculées au nom de l'État"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Contrairement au domaine public, ces terres peuvent être cédées.",
+        "C'est notamment là que se trouvent les terres non occupées.",
+        "L'État peut les attribuer à des investisseurs ou à des particuliers selon des procédures légales."
+      ],
+      "explication": "Le domaine privé de l'État comprend les terres appartenant à l'État mais qui ne relèvent pas du domaine public. Contrairement au domaine public (inaliénable et imprescriptible), ces terres peuvent être cédées, louées, concédées à des particuliers ou des entreprises selon des procédures définies. C'est notamment dans ce domaine que se trouvent les terres non occupées et non mises en valeur."
+    },
+    {
+      "question": "Vrai ou faux : le certificat foncier peut être utilisé comme garantie pour obtenir un crédit.",
+      "choix": [
+        "Vrai, certaines institutions de microfinance l'acceptent comme garantie",
+        "Faux, seul le titre foncier peut servir de garantie"
+      ],
+      "reponse": 0,
+      "indices": [
+        "C'est l'un des avantages pratiques concrets du certificat foncier.",
+        "Les institutions de microfinance jouent un rôle particulier ici.",
+        "Avant la réforme, les ruraux sans titre ne pouvaient accéder à aucun crédit."
+      ],
+      "explication": "Vrai. Bien que le certificat foncier n'ait pas la même force juridique qu'un titre foncier, il est accepté comme garantie par certaines institutions de microfinance dans le cadre de crédits agricoles. C'est l'un des avantages concrets de la réforme de 2005 pour les ménages ruraux : avant cette réforme, sans titre foncier officiel, il était pratiquement impossible d'accéder au crédit bancaire ou institutionnel."
+    },
+    {
+      "question": "Comment le juge malgache intègre-t-il le dina dans sa pratique judiciaire ?",
+      "choix": [
+        "Il ignore totalement le dina car c'est une institution non reconnue par le droit positif",
+        "Il invalide systématiquement les dina pour rétablir la primauté du droit étatique",
+        "Il tient compte du dina comme élément du dossier, cherche à éviter une double peine, et peut encourager l'homologation du dina",
+        "Il applique le dina à la place du droit pénal lorsqu'il est homologué"
+      ],
+      "reponse": 2,
+      "indices": [
+        "Le juge est conscient du poids social du fokonolona.",
+        "Il cherche à éviter que le justiciable paie deux fois pour le même fait.",
+        "Il peut encourager la procédure d'homologation pour les dina non encore homologués."
+      ],
+      "explication": "Le juge malgache intègre le dina de manière pragmatique. Lorsqu'un vonodina a déjà été appliqué, il cherche à éviter une double peine en tenant compte du montant déjà payé dans le calcul des dommages et intérêts. Si un dina non homologué lui est présenté comme élément du dossier, il peut en tenir compte selon ses termes tout en invitant le fokonolona à engager la procédure d'homologation. Il sait que s'opposer frontalement à une décision du fokonolona pourrait avoir des conséquences sociales dommageables."
+    },
+    {
+      "question": "Vrai ou faux : la formation juridique à Madagascar repose principalement sur des manuels de droit malgache rédigés par des auteurs malgaches.",
+      "choix": [
+        "Vrai",
+        "Faux : la formation repose essentiellement sur des manuels de droit français — les ouvrages de doctrine malgache sont trop peu nombreux et souvent anciens"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Madagascar est une ancienne dépendance française.",
+        "La Faculté de droit d'Antananarivo utilise principalement des manuels français.",
+        "Cette réalité contribue à la déconnexion entre le droit enseigné et les réalités malgaches."
+      ],
+      "explication": "Faux. La formation des juristes malgaches repose essentiellement sur des manuels et ouvrages de doctrine français. Les ouvrages traitant spécifiquement du droit malgache sont peu nombreux — moins d'une vingtaine — et souvent anciens, datant pour la plupart du milieu des années 1970. Cette situation contribue à une déconnexion entre le droit enseigné et les réalités juridiques et sociales malgaches, et explique en partie pourquoi la pratique judiciaire malgache reste si fortement imprégnée du modèle français."
+    },
+    {
+      "question": "Qu'est-ce que la Lettre de Politique Foncière de 2005 ?",
+      "choix": [
+        "La loi principale instituant le certificat foncier",
+        "Le document stratégique du gouvernement malgache annonçant les orientations de la réforme foncière — reconnaissance des droits non titrés, décentralisation, modernisation des services",
+        "Une circulaire administrative sur les frais d'immatriculation",
+        "Un accord international sur les investissements fonciers étrangers"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un document de politique, pas une loi à proprement parler.",
+        "Elle a précédé et accompagné la Loi n°2005-019.",
+        "Elle a fixé les grandes orientations stratégiques de la réforme."
+      ],
+      "explication": "La Lettre de Politique Foncière de 2005 est le document stratégique du gouvernement malgache qui a annoncé les grandes orientations de la réforme foncière : suppression de la présomption de domanialité, reconnaissance des droits sur les terres non titrées, décentralisation de la gestion foncière vers les communes par la création des guichets fonciers, et modernisation des services domaniaux et topographiques. Elle a précédé et accompagné la loi de cadrage n°2005-019."
+    },
+    {
+      "question": "Comment se déroule la procédure de délivrance d'un certificat foncier au guichet foncier communal ?",
+      "choix": [
+        "Sur simple demande du propriétaire, sans vérification sur le terrain",
+        "Par enquête de terrain menée par les agents du guichet, publicité locale permettant à des tiers de faire valoir leurs droits, et validation par le maire qui signe le certificat",
+        "Par décision du tribunal de première instance sur la base des petits papiers présentés",
+        "Par l'accord unanime du fokonolona lors d'une assemblée communautaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle comprend une vérification physique sur le terrain.",
+        "Une phase de publicité permet à d'éventuels opposants de se manifester.",
+        "La validation finale revient à l'autorité communale élue."
+      ],
+      "explication": "La procédure de délivrance du certificat foncier comprend trois phases essentielles : une enquête de terrain menée par des agents du guichet foncier pour constater l'occupation effective et les limites de la parcelle ; une publicité locale (affichage, annonces) pendant un délai suffisant pour permettre à quiconque aurait des droits concurrents de se manifester et de s'opposer ; puis la validation par le maire de la commune qui signe le certificat si aucune opposition valable n'a été formulée."
+    },
+    {
+      "question": "Dans la classification de la Loi n°2005-019, où se situent les terres des parcs nationaux et réserves naturelles ?",
+      "choix": [
+        "Dans le domaine privé de l'État — elles peuvent être concédées à des investisseurs touristiques",
+        "Dans le domaine public de l'État — elles sont inaliénables et imprescriptibles",
+        "Dans les propriétés privées non titrées — leur gestion relève du fokonolona",
+        "Dans une catégorie spéciale sans régime défini"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les espaces naturels protégés ont un régime particulier.",
+        "Leur caractère public les soustrait à toute appropriation privée.",
+        "Ils rejoignent d'autres biens comme les routes et les rivières navigables."
+      ],
+      "explication": "Les espaces naturels protégés — parcs nationaux, réserves naturelles — font partie du domaine public de l'État. Comme les routes, les rivières navigables, les plages ou les forêts classées, ils sont inaliénables (on ne peut pas les vendre) et imprescriptibles (on ne peut pas les acquérir par prescription). Ces caractéristiques garantissent leur protection contre toute forme d'appropriation privée, même par immatriculation."
+    },
+    {
+      "question": "Qu'arrive-t-il lorsqu'une même parcelle fait l'objet de deux titres fonciers distincts (double immatriculation) ?",
+      "choix": [
+        "Les deux titres sont également valides et la parcelle est partagée entre les deux titulaires",
+        "Le premier titre chronologiquement l'emporte toujours automatiquement",
+        "Le juge est saisi et peut allouer des dommages-intérêts à la victime lésée par l'immatriculation frauduleuse",
+        "L'État reprend la parcelle et les deux titres sont annulés"
+      ],
+      "reponse": 2,
+      "indices": [
+        "C'est un problème administratif grave résultant de défaillances des Services des Domaines.",
+        "L'Ordonnance n°60-146 prévoit un recours pour les personnes lésées.",
+        "Le juge administratif peut condamner l'État à de très lourdes indemnités dans ces cas."
+      ],
+      "explication": "En cas de double immatriculation, le juge peut être saisi. L'article 122 de l'Ordonnance n°60-146 prévoit que toute personne dont les droits ont été lésés par suite d'une immatriculation peut obtenir des dommages et intérêts. Le juge administratif n'hésite pas à condamner l'État à des indemnités parfois très élevées (plusieurs milliards d'ariary ont été alloués pour des cas de double immatriculation ou de refus illégaux). Le juge peut également constater la responsabilité de l'État."
+    },
+    {
+      "question": "Qu'est-ce que le mpisikidy ou le mpanandro et quel est leur rôle dans certains conflits fonciers ?",
+      "choix": [
+        "Des agents assermentés du guichet foncier chargés des enquêtes de terrain",
+        "Des autorités coutumières disposant de pouvoirs divinatoires, sollicitées dans certaines régions pour identifier les auteurs de délits fonciers",
+        "Des représentants de l'État dans les fokontany éloignés",
+        "Des juristes spécialisés dans le droit coutumier malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Leur rôle est surtout pratiqué dans certaines régions comme Ambatondrazaka.",
+        "Leurs pratiques sont potentiellement répréhensibles par la loi.",
+        "Ils sont consultés en parallèle des voies officielles dans certains contextes."
+      ],
+      "explication": "Le mpisikidy et le mpanandro sont des autorités coutumières disposant de pouvoirs divinatoires dans certaines régions malgaches. Dans les conflits fonciers impliquant des vols de récoltes ou des destructions, ils peuvent être sollicitées pour identifier les auteurs. Leurs pratiques sont potentiellement répréhensibles par les articles 473 et 475 du Code pénal, ce qui explique que les communautés hésitent à en parler ouvertement. Dans certains cas, leur intervention est menée en parallèle du dépôt d'une plainte officielle."
+    },
+    {
+      "question": "Vrai ou faux : les juges malgaches ne tiennent pas compte des réalités sociales locales et appliquent mécaniquement la loi.",
+      "choix": [
+        "Vrai, les juges sont strictement liés par le droit positif",
+        "Faux : les juges malgaches développent une pratique pragmatique qui intègre les réalités locales — coutumes, fokonolona, fihavanana — pour trouver des solutions socialement acceptables"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les études empiriques sur la pratique judiciaire montrent le contraire.",
+        "Les juges se voient parfois eux-mêmes comme des ray aman-dreny.",
+        "L'objectif est la paix sociale, pas seulement l'application mécanique de la loi."
+      ],
+      "explication": "Faux. Les juges malgaches développent une pratique judiciaire originale qui intègre les réalités sociales locales. Soucieux de la paix sociale et de la viabilité de leurs décisions, ils cherchent pragmatiquement un équilibre entre les intérêts en présence. Ils exercent un rôle de conciliateur, tiennent compte du dina, font preuve de souplesse dans les conflits familiaux, et mobilisent toutes les possibilités procédurales pour donner aux parties le temps de trouver un accord amiable."
+    },
+    {
+      "question": "Qu'est-ce que l'abus de droit de propriété sanctionné par l'Ordonnance n°74-021 ?",
+      "choix": [
+        "Le fait de vendre sa propriété à un prix inférieur à sa valeur de marché",
+        "Le non-respect par le propriétaire de son obligation légale de mettre en exploitation et d'entretenir ses terres, pouvant entraîner le transfert à l'État",
+        "Le fait de contester une immatriculation régulière par une action judiciaire",
+        "L'utilisation d'une terre à des fins autres que celles déclarées lors de l'immatriculation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette ordonnance sanctionne les propriétaires qui n'exploitent pas leurs terres.",
+        "La sanction est le transfert de propriété à l'État.",
+        "Elle illustre que la propriété foncière implique des obligations, pas seulement des droits."
+      ],
+      "explication": "L'Ordonnance n°74-021 du 20 juin 1974 sanctionne l'abus du droit de propriété foncière : le non-respect par le propriétaire de son obligation légale de mettre en exploitation, d'entretenir et d'utiliser ses terres rurales ou urbaines. La sanction est radicale : le transfert en toute propriété de la terre à l'État. Cette disposition illustre que la propriété foncière à Madagascar n'est pas un droit purement absolu — elle s'accompagne d'obligations d'usage actif."
+    },
+    {
+      "question": "Vrai ou faux : le certificat foncier peut être directement transformé en titre foncier.",
+      "choix": [
+        "Vrai, une procédure spéciale permet cette transformation",
+        "Faux, le certificat foncier et le titre foncier sont deux documents distincts qui ne peuvent pas être convertis"
+      ],
+      "reponse": 0,
+      "indices": [
+        "La réforme de 2005 prévoit cette passerelle.",
+        "L'article 24 de la Loi n°2005-019 mentionne cette procédure.",
+        "C'est un chemin d'évolution vers une sécurisation renforcée."
+      ],
+      "explication": "Vrai. L'article 24 de la Loi n°2005-019 prévoit qu'une procédure particulière fixe les modalités de la transformation du certificat foncier en titre foncier. Cette passerelle permet aux détenteurs d'un certificat foncier d'évoluer progressivement vers une sécurisation maximale de leur propriété — le titre foncier inattaquable — lorsque leurs moyens ou leurs besoins le justifient."
+    },
+    {
+      "question": "Résumé final : quel est l'ordre de priorité juridique des documents fonciers à Madagascar en cas de conflits ?",
+      "choix": [
+        "Les petits papiers prévalent car ils sont plus anciens et reflètent la réalité coutumière",
+        "Le titre foncier (force absolue et inattaquable) > le certificat foncier (présomption de propriété) > les petits papiers (valeur entre parties seulement)",
+        "Le certificat foncier prévaut sur le titre foncier car il est plus récent",
+        "Tous les documents ont la même valeur juridique devant le tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La hiérarchie reflète la solidité juridique de chaque document.",
+        "Le titre foncier est la preuve la plus sécurisée qui soit.",
+        "Les petits papiers sont les plus faibles juridiquement malgré leur usage répandu."
+      ],
+      "explication": "En cas de conflit, la hiérarchie juridique est claire : le titre foncier (immatriculation officielle) a la force absolue et est inattaquable — il prévaut sur tout autre document. Le certificat foncier (délivré par le guichet foncier communal) constitue une présomption de propriété pouvant être contestée mais qui prévaut sur les petits papiers. Les petits papiers n'ont de valeur juridique qu'entre les parties qui les ont signés — ils ne peuvent pas prévaloir contre un titre foncier ou un certificat foncier officiels."
+    },
+    {
+      "question": "Qu'est-ce que l'occupation sans titre d'un terrain titré, et quelle en est la sanction pénale ?",
+      "choix": [
+        "C'est une situation tolérée en attendant la régularisation par le certificat foncier",
+        "C'est une infraction pénale sanctionnée par l'Ordonnance n°60-121 du 1er octobre 1960 visant à réprimer les atteintes portées à la propriété",
+        "C'est uniquement une faute civile ouvrant droit à des dommages-intérêts",
+        "Ce n'est pas sanctionné pénalement — seule une action civile en expulsion est possible"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'État protège pénalement les titres fonciers régulièrement délivrés.",
+        "Le juge pénal peut sanctionner les occupants sans titre.",
+        "L'Ordonnance de 1960 est le texte applicable."
+      ],
+      "explication": "L'occupation sans titre d'un terrain titré est une infraction pénale en droit malgache, sanctionnée par l'Ordonnance n°60-121 du 1er octobre 1960 visant à réprimer les atteintes portées à la propriété. Le juge pénal peut être saisi par le propriétaire titré et condamner l'occupant sans titre. Cette protection pénale de la propriété titrée illustre la supériorité juridique du titre foncier sur toute autre forme d'occupation."
+    },
+    {
+      "question": "Vrai ou faux : au niveau du fokonolona, l'immatriculation d'un terrain peut se faire sans son consentement si les procédures administratives sont respectées.",
+      "choix": [
+        "Vrai, les procédures administratives priment sur les décisions du fokonolona",
+        "Faux : dans les communes rurales, l'immatriculation ne peut généralement pas aboutir sans le consentement du fokonolona lorsqu'un propriétaire légitime selon la coutume existe"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La pratique sociale est plus puissante que les textes en milieu rural.",
+        "Le fokonolona peut bloquer une immatriculation qu'il juge illégitime.",
+        "L'exemple de la commune d'Ampanotokana illustre ce phénomène."
+      ],
+      "explication": "Faux, dans la pratique. Même si les textes administratifs prévoient une procédure d'immatriculation formelle, dans les communes rurales, aucune immatriculation ne peut aboutir en pratique sans le consentement du fokonolona lorsqu'un propriétaire légitime selon la coutume existe déjà. Si une personne tente d'immatriculer un terrain occupé par un propriétaire légitime sans l'accord du fokonolona, elle risque de ne pas pouvoir faire aboutir la procédure — la résistance communautaire peut bloquer l'opération."
+    },
+    {
+      "question": "Quelle est la durée moyenne d'une procédure foncière devant les tribunaux malgaches en matière foncière ?",
+      "choix": [
+        "Quelques semaines",
+        "Plusieurs mois à plusieurs années, et parfois plus de 20 ans pour les affaires complexes",
+        "Exactement 6 mois, délai légal obligatoire",
+        "Jamais plus d'un an"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce délai est l'un des obstacles majeurs à la justice foncière.",
+        "Des affaires foncières peuvent durer plus de 20 ans.",
+        "La lenteur judiciaire est l'une des critiques récurrentes du système."
+      ],
+      "explication": "La procédure judiciaire en matière foncière à Madagascar peut s'étaler sur plusieurs mois, plusieurs années, et dans certains cas plus de vingt ans. Cette durée excessive constitue un obstacle majeur à l'accès effectif à la justice foncière. Elle décourage les justiciables de recourir aux tribunaux et les pousse vers des modes alternatifs de résolution — conciliation communautaire, intervention des ray aman-dreny — même lorsque le tribunal serait la voie appropriée."
+    },
+    {
+      "question": "Vrai ou faux : le PLOF (Plan Local d'Occupation Foncière) est tenu au niveau national par le Service Topographique.",
+      "choix": [
+        "Vrai",
+        "Faux : le PLOF est tenu au niveau communal par le Guichet Foncier de la commune"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La décentralisation est le principe-clé de la réforme de 2005.",
+        "Le PLOF est l'outil local de gestion foncière.",
+        "Il permet au guichet foncier local de connaître le statut de chaque parcelle."
+      ],
+      "explication": "Faux. Le PLOF est tenu au niveau communal par le Guichet Foncier de la commune — c'est précisément l'un des principes fondamentaux de la réforme de 2005, qui a décentralisé la gestion foncière vers les communes. Ce plan cartographie l'ensemble des parcelles du territoire communal avec leur statut foncier, permettant au guichet foncier local d'informer les citoyens et de vérifier la disponibilité d'une terre avant de délivrer un certificat."
+    },
+    {
+      "question": "Qu'est-ce que la procédure de conciliation menée par le juge civil en matière foncière ?",
+      "choix": [
+        "Une procédure obligatoire avant tout jugement en matière foncière",
+        "Une tentative facultative de rapprochement des parties menée par le juge à tout moment de l'instance, aboutissant à un procès-verbal ayant valeur de titre exécutoire si les parties s'accordent",
+        "Une procédure réservée aux conflits entre membres du même fokonolona",
+        "Une procédure pénale permettant d'éviter les poursuites en cas d'accord"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle est prévue par le Code de procédure civile malgache.",
+        "Son résultat, le procès-verbal de conciliation, a une valeur juridique forte.",
+        "Elle peut intervenir à l'initiative des parties ou du juge lui-même."
+      ],
+      "explication": "La conciliation civile est prévue par l'article 021 du Code de procédure civile : il entre dans la mission du juge de concilier les parties. Cette procédure est généralement facultative et peut intervenir à tout moment de l'instance, à l'initiative des parties ou du juge. Si un accord est trouvé, il est constaté dans un procès-verbal signé par le juge et les parties. Ce procès-verbal peut être revêtu de la formule exécutoire et vaut titre exécutoire — son exécution peut être forcée si nécessaire."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Rakoto est agriculteur dans une commune rurale de la région d'Analanjirofo. Sa famille cultive une parcelle de 2 hectares de girofliers depuis trois générations. Il ne dispose que d'un « petit papier » — un acte de vente rédigé en 1978 entre son grand-père et un tiers, légalisé par le chef de fokontany de l'époque. En 2018, une société d'exploitation agro-industrielle obtient un titre foncier sur ce même terrain, affirmant que la terre faisait partie du domaine privé de l'État avant la réforme de 2005 puisqu'elle n'était pas immatriculée. Rakoto veut défendre ses droits. (1) Expliquez la situation juridique de Rakoto avant et après la réforme de 2005. (2) Le petit papier de 1978 peut-il constituer une preuve valable contre le titre foncier de la société ? (3) Quelles démarches Rakoto peut-il engager pour défendre ses droits ? (4) Quel rôle le fokonolona peut-il jouer dans ce conflit ?",
+      "choix": [
+        "Rakoto n'a aucun recours car la société a un titre foncier officiel",
+        "(1) Avant 2005 : la présomption de domanialité faisait de la terre un bien de l'État présumé — Rakoto occupait sans droits formels. Après 2005 : la présomption est abrogée, les droits des occupants sont reconnus. (2) Le petit papier ne peut pas prévaloir directement contre un titre foncier — mais il constitue un élément de preuve d'une occupation ancienne. (3) Rakoto peut contester l'immatriculation devant le tribunal civil (article 122 Ordonnance n°60-146), demander des dommages-intérêts si l'immatriculation a lésé ses droits, et demander l'appui du guichet foncier. (4) Le fokonolona peut témoigner de l'occupation ancienne et légitime de Rakoto, et tenter une médiation.",
+        "La société a raison car la terre était dans le domaine de l'État",
+        "Rakoto doit immédiatement quitter le terrain car le titre foncier est inattaquable"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Analysez la situation avant et après 2005 — la réforme change-t-elle quelque chose ?",
+        "Le petit papier seul peut-il prévaloir contre un titre foncier officiel ?",
+        "L'article 122 de l'Ordonnance n°60-146 ouvre une voie de recours spécifique."
+      ],
+      "explication": "(1) Situation avant et après 2005. Avant 2005, la présomption de domanialité s'appliquait : tout terrain non immatriculé était présumé appartenir à l'État. La famille de Rakoto occupait la terre sans titre formel — juridiquement, ils étaient des occupants sur une terre présumée étatique, sans reconnaissance légale de leur propriété. Après la Loi n°2005-019 de 2005, la présomption de domanialité a été abrogée. Les terres occupées et mises en valeur sont désormais reconnues comme propriétés de leurs occupants. La famille de Rakoto, qui cultive cette parcelle depuis trois générations, devrait voir ses droits reconnus par le nouveau cadre légal — elle aurait pu demander un certificat foncier au guichet foncier communal. (2) Valeur du petit papier face au titre foncier. Le petit papier (acte de 1978 légalisé par le chef de fokontany) ne peut pas directement prévaloir contre un titre foncier officiellement délivré — le titre foncier est définitif et inattaquable en principe. Cependant, le petit papier constitue un élément de preuve important : il atteste d'une transaction ancienne et d'une occupation remontant à 1978. Il peut être utilisé dans le cadre d'une procédure judiciaire pour démontrer que l'immatriculation obtenue par la société a été réalisée au détriment de droits antérieurs et légitimes. (3) Démarches de Rakoto. Il peut contester l'immatriculation devant le juge civil sur le fondement de l'article 122 de l'Ordonnance n°60-146 : toute personne dont les droits ont été lésés par suite d'une immatriculation peut obtenir des dommages et intérêts. Si l'immatriculation est frauduleuse (la société aurait immatriculé en sachant que des droits coutumiers existaient), une plainte pour stellionat peut être envisagée. Il peut également solliciter le guichet foncier communal pour que son occupation soit reconnue et documentée. L'aide judiciaire peut l'aider à surmonter l'obstacle financier d'une procédure judiciaire. (4) Rôle du fokonolona. Le fokonolona peut jouer un rôle crucial dans ce conflit. Il peut témoigner collectivement de l'ancienneté et de la légitimité de l'occupation de la famille de Rakoto — ce témoignage collectif a une forte valeur probatoire dans le contexte malgache. Il peut également tenter une médiation avec la société, cherchant le marimaritra iraisana — une solution équilibrée qui reconnaisse les droits de Rakoto sans nécessairement détruire le projet économique de la société. Si le fokonolona a participé à la procédure d'immatriculation (comme il doit normalement le faire), il peut témoigner de son opposition à cette immatriculation ou, à l'inverse, expliquer pourquoi il ne s'y est pas opposé en temps utile."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Dans un village du district d'Ambositra, deux frères, Niry et Tojo, se disputent la parcelle héritée de leur père décédé il y a deux ans, sans laisser de testament ni de document de partage. Chacun affirme que leur père lui avait verbalement promis la terre avant sa mort. Ni la parcelle ni aucune autre terre familiale n'est immatriculée. Un voisin a proposé de racheter la parcelle, créant une urgence supplémentaire. Le ray aman-dreny du village a tenté une conciliation sans succès — Niry a refusé la solution proposée. Tojo veut désormais saisir le tribunal. (1) Quel est le statut juridique de cette parcelle ? (2) Le refus de Niry d'accepter la solution du ray aman-dreny a-t-il des conséquences ? (3) Si Tojo saisit le tribunal, comment le juge va-t-il probablement traiter ce dossier ? (4) Quelle serait la meilleure solution pratique pour sécuriser les droits de l'un ou l'autre des frères sur cette parcelle ?",
+      "choix": [
+        "Tojo gagne automatiquement car il a saisi le tribunal en premier",
+        "(1) Parcelle non titrée — propriété privée non titrée depuis 2005, appartenant aux héritiers du père. (2) Le refus de Niry n'a pas de conséquence juridique directe mais une forte conséquence sociale — il sera considéré comme impatient par la communauté. (3) Le juge cherchera d'abord à concilier, prendra en compte les témoignages du fokonolona, et statuera sur la base des règles d'héritage et des preuves disponibles. (4) La solution pratique : les deux frères sollicitent conjointement le guichet foncier pour un certificat foncier au nom de l'indivision successorale, puis procèdent au partage officiel.",
+        "Niry a raison car la promesse verbale suffit à prouver la propriété",
+        "Le voisin peut acheter car personne n'a de titre sur ce terrain"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quel est le statut d'une terre non immatriculée depuis la réforme de 2005 ?",
+        "Comment le juge malgache approche-t-il les conflits familiaux ?",
+        "Le guichet foncier peut-il intervenir même en cas de conflit ?"
+      ],
+      "explication": "(1) Statut juridique de la parcelle. Depuis la Loi n°2005-019 de 2005, une parcelle occupée et mise en valeur sans titre formel constitue une propriété privée non titrée — elle ne relève plus présumément du domaine de l'État. La parcelle appartient aux héritiers du père décédé, en indivision successorale, selon les règles du droit successoral malgache. Niry et Tojo sont tous les deux héritiers légaux de leur père et ont donc tous les deux des droits sur cette parcelle — en indivision, c'est-à-dire sans partage encore effectué. (2) Conséquences du refus de Niry. Le refus de Niry d'accepter la solution proposée par le ray aman-dreny n'a pas de conséquence juridique directe — la décision du ray aman-dreny n'est pas contraignante. Mais les conséquences sociales sont importantes : Niry sera considéré comme impatient et peut-être malhonnête par les membres de la communauté. Sa réputation au sein du village sera affectée. Ce poids social peut être très fort dans la société malgache et conduire à terme à un accord — la pression communautaire est un mécanisme puissant. (3) Approche probable du juge. Le juge malgache, saisi par Tojo, ne se précipitera probablement pas vers un jugement immédiat. Fidèle à sa fonction de conciliateur et conscient de la dimension familiale du conflit, il tentera d'abord de rapprocher les parties. Il demandera probablement aux deux frères de tenter à nouveau une conciliation, insistant sur l'importance des liens fraternels et les conséquences désastreuses d'un jugement sur ces liens. Il accordera des délais pour permettre à la famille de trouver une solution amiable. Sur le fond, en l'absence de testament ou de document de partage, il appliquera les règles légales d'héritage et tiendra compte des témoignages disponibles — notamment les témoignages des membres du fokonolona qui peuvent attester de l'usage et de la possession de chacun des frères sur la parcelle. Les promesses verbales du père seront difficiles à prouver sans témoins fiables. (4) Solution pratique recommandée. La meilleure solution pour sécuriser les droits est pratique et évite le tribunal. Les deux frères devraient d'abord solliciter conjointement le guichet foncier communal pour faire établir un certificat foncier au nom de l'indivision successorale — ce qui sécurise les droits de la famille face au voisin souhaitant racheter. Ensuite, ils peuvent procéder au partage officiel de la parcelle devant notaire ou devant le juge, permettant à chacun d'obtenir son lot propre. Cette approche protège les deux frères contre toute appropriation extérieure (le voisin ou l'État) et règle le conflit interne de façon pérenne. La vente au voisin, tant que l'indivision n'est pas réglée, ne peut pas valablement avoir lieu sans l'accord des deux frères — ni l'un ni l'autre ne peut vendre seul."
+    }
+  ]
+}
