@@ -1,0 +1,827 @@
+{
+  "module": {
+    "id": "module_11_niveau3",
+    "titre": "L'arbitrage et les modes alternatifs de règlement des litiges (MARL)",
+    "niveau": 3,
+    "description": "Étude approfondie de l'arbitrage interne et international, de la médiation, de la conciliation et des autres MARL dans le système juridique malgache, incluant les dispositions du droit OHADA applicables à Madagascar.",
+    "objectifs": [
+      "Maîtriser le cadre juridique de l'arbitrage à Madagascar (droit interne et OHADA)",
+      "Distinguer les différents modes alternatifs de règlement des litiges",
+      "Analyser la clause compromissoire et le compromis d'arbitrage",
+      "Comprendre la procédure arbitrale et l'exécution de la sentence",
+      "Appliquer les MARL dans des contextes pratiques malgaches"
+    ],
+    "textes_applicables": [
+      "Loi n° 98-019 du 2 décembre 1998 portant refonte du Code de procédure civile malgache",
+      "Acte Uniforme OHADA relatif au droit de l'arbitrage (AUA) du 11 mars 1999, révisé le 23 novembre 2017",
+      "Règlement d'arbitrage de la CCJA (Cour Commune de Justice et d'Arbitrage)",
+      "Loi n° 2003-025 du 5 septembre 2003 relative à la médiation commerciale à Madagascar",
+      "Code de commerce malgache",
+      "Convention de New York du 10 juin 1958 sur la reconnaissance et l'exécution des sentences arbitrales étrangères (ratifiée par Madagascar)"
+    ],
+    "lecons": [
+      {
+        "id": "lecon_1",
+        "titre": "Introduction aux modes alternatifs de règlement des litiges",
+        "contenu": [
+          {
+            "sous_titre": "1.1 Définition et fondements des MARL",
+            "texte": "Les modes alternatifs de règlement des litiges (MARL) — également appelés ADR (Alternative Dispute Resolution) — désignent l'ensemble des mécanismes permettant de résoudre un différend en dehors de la voie judiciaire étatique classique. À Madagascar, les MARL répondent à une double logique : désengorger les tribunaux et offrir aux justiciables des solutions plus rapides, moins coûteuses et souvent mieux adaptées à leurs réalités économiques et culturelles.\n\nLes MARL reposent sur plusieurs fondements juridiques. Le premier est constitutionnel : l'article 12 de la Constitution malgache de 2010 garantit l'égal accès à la justice, ce qui inclut la liberté de choisir un mode de règlement adapté. Le deuxième fondement est contractuel : les parties sont libres de convenir du mode de résolution de leurs litiges futurs ou présents, dans les limites de l'ordre public. Le troisième fondement est institutionnel : le droit OHADA, applicable à Madagascar depuis son adhésion en 2013, impose un cadre unifié pour l'arbitrage commercial."
+          },
+          {
+            "sous_titre": "1.2 Typologie des MARL",
+            "texte": "On distingue quatre grandes catégories de MARL :\n\n**A) L'arbitrage** : Mode juridictionnel privé dans lequel le litige est tranché par un ou plusieurs arbitres dont la décision (sentence arbitrale) a force obligatoire. C'est le MARL le plus formalisé.\n\n**B) La médiation** : Un tiers neutre — le médiateur — facilite le dialogue entre les parties pour les aider à trouver elles-mêmes une solution. Le médiateur ne tranche pas ; il guide. À Madagascar, la médiation commerciale est régie par la Loi n° 2003-025.\n\n**C) La conciliation** : Proche de la médiation, la conciliation peut être judiciaire (devant le juge) ou conventionnelle (hors du prétoire). Le conciliateur peut proposer des solutions, contrairement au médiateur strict. Le Code de procédure civile malgache prévoit une tentative de conciliation obligatoire dans certaines matières (notamment en droit du travail et en droit de la famille).\n\n**D) La négociation** : Mécanisme informel par lequel les parties règlent directement leur différend sans l'intervention d'un tiers. C'est le préalable naturel à tout recours à un MARL plus structuré."
+          },
+          {
+            "sous_titre": "1.3 Avantages et limites des MARL",
+            "texte": "**Avantages :**\n- Rapidité : une médiation peut aboutir en quelques semaines là où un procès dure des années\n- Confidentialité : les débats et la solution ne sont pas publics, ce qui protège la réputation des parties\n- Coût généralement inférieur à celui d'une procédure judiciaire longue\n- Flexibilité procédurale : les parties organisent librement la procédure\n- Préservation des relations commerciales : la solution négociée est mieux acceptée qu'un jugement imposé\n\n**Limites :**\n- Impossibilité d'arbitrer certains litiges (matières non arbitrables : état des personnes, droit de la famille sauf aspects patrimoniaux, droit pénal)\n- Risque de déséquilibre entre parties de puissance inégale\n- Absence de mesures provisoires d'urgence sans saisine du juge étatique (sauf dispositions spéciales)\n- La sentence arbitrale nécessite une procédure d'exequatur pour être exécutée de force"
+          }
+        ]
+      },
+      {
+        "id": "lecon_2",
+        "titre": "L'arbitrage interne à Madagascar",
+        "contenu": [
+          {
+            "sous_titre": "2.1 Sources du droit malgache de l'arbitrage interne",
+            "texte": "L'arbitrage interne à Madagascar est principalement régi par le Livre IV du Code de procédure civile malgache (Loi n° 98-019 du 2 décembre 1998), consacré à l'arbitrage. Ce texte s'inspire largement de la Loi-type de la CNUDCI tout en intégrant des spécificités propres au contexte malgache.\n\nL'arbitrage interne couvre les litiges dont les éléments sont tous rattachés à Madagascar : parties domiciliées à Madagascar, objet du litige situé sur le territoire national, lieu d'exécution du contrat à Madagascar. Dès lors qu'un élément d'extranéité significatif apparaît (nationalité étrangère d'une partie, lieu d'exécution à l'étranger, etc.), on bascule vers l'arbitrage international."
+          },
+          {
+            "sous_titre": "2.2 La convention d'arbitrage : clause compromissoire et compromis",
+            "texte": "La convention d'arbitrage est l'acte par lequel les parties s'engagent à soumettre leur litige à l'arbitrage. Elle prend deux formes :\n\n**A) La clause compromissoire** (art. 458 et s. CPC malgache) : stipulée dans le contrat principal **avant** la naissance du litige. Elle désigne à l'avance l'arbitrage comme mode de règlement des différends qui pourraient survenir à l'occasion de l'exécution du contrat. Exemple : 'Tout litige relatif à l'exécution du présent contrat de construction sera soumis à l'arbitrage de la Chambre de Commerce d'Antananarivo.'\n\nLa clause compromissoire doit être rédigée par écrit. Elle est autonome par rapport au contrat principal : la nullité du contrat n'entraîne pas automatiquement la nullité de la clause (principe de séparabilité).\n\n**B) Le compromis d'arbitrage** : convention conclue **après** la naissance du litige, par laquelle les parties décident de soumettre leur différend déjà né à l'arbitrage. Le compromis doit définir précisément l'objet du litige soumis aux arbitres.\n\n**Conditions de validité communes :**\n- Capacité des parties (seules les personnes capables de disposer de leurs droits peuvent compromettre)\n- Consentement libre et éclairé\n- Objet arbitrable (les droits dont les parties ont la libre disposition)\n- Forme écrite"
+          },
+          {
+            "sous_titre": "2.3 Constitution du tribunal arbitral",
+            "texte": "**Nombre d'arbitres :** Les parties sont libres de fixer le nombre d'arbitres. En pratique, on opte pour un arbitre unique (pour les petits litiges) ou un collège de trois arbitres (pour les litiges importants). Le nombre pair est à éviter pour prévenir les blocages.\n\n**Désignation des arbitres :** Les parties désignent leurs arbitres librement. Dans un collège de trois arbitres, chaque partie désigne un arbitre et les deux arbitres désignés s'accordent sur le troisième (le président). En cas de désaccord, le juge compétent intervient pour procéder à la désignation.\n\n**Conditions requises pour être arbitre :** Toute personne physique ayant la pleine capacité juridique peut être arbitre. Elle doit être indépendante et impartiale par rapport aux parties. L'arbitre doit révéler toute circonstance susceptible d'affecter son indépendance.\n\n**Récusation :** Un arbitre peut être récusé si des circonstances soulèvent des doutes légitimes sur son impartialité ou son indépendance, ou s'il ne possède pas les qualifications convenues."
+          },
+          {
+            "sous_titre": "2.4 La procédure arbitrale",
+            "texte": "**Principe directeur :** Les parties sont libres d'organiser la procédure. À défaut d'accord, le tribunal arbitral conduit lui-même l'instance selon les modalités qu'il juge appropriées.\n\n**Déroulement type :**\n1. **Saisine** : La procédure commence par la remise à l'autre partie d'une demande d'arbitrage précisant l'objet du litige, les prétentions et les moyens.\n2. **Instruction** : Échange de mémoires, production de pièces, expertise éventuelle, audition des parties et témoins.\n3. **Débats** : Audience où les parties présentent oralement leurs arguments (facultatif si les parties y renoncent).\n4. **Délibéré** : Le tribunal arbitral délibère et rend sa sentence.\n\n**Délai :** La sentence doit être rendue dans le délai convenu par les parties ou, à défaut, dans les six mois suivant la constitution du tribunal arbitral (délai prorogeable).\n\n**Confidentialité :** Sauf accord contraire, la procédure arbitrale est confidentielle."
+          },
+          {
+            "sous_titre": "2.5 La sentence arbitrale",
+            "texte": "La sentence arbitrale est la décision par laquelle le tribunal arbitral tranche définitivement le litige. Elle doit être :\n- Rendue par écrit\n- Motivée (exposé des raisons de droit et de fait)\n- Signée par les arbitres (ou la majorité d'entre eux)\n- Notifiée aux parties\n\n**Effets de la sentence :** La sentence a, dès son prononcé, l'autorité de la chose jugée. Elle s'impose aux parties comme un jugement définitif.\n\n**Recours contre la sentence :**\n- **Recours en annulation** : devant la Cour d'appel compétente, dans des cas limitativement énumérés (tribunal arbitral irrégulièrement constitué, dépassement de mission, violation de l'ordre public, sentence rendue sans convention d'arbitrage valable, etc.)\n- **Opposition tierce** : un tiers dont les droits sont lésés peut former opposition\n\n**Exequatur :** Pour être exécutée de force, la sentence arbitrale interne doit être revêtue de l'exequatur accordé par ordonnance du Président du Tribunal de Première Instance compétent."
+          }
+        ]
+      },
+      {
+        "id": "lecon_3",
+        "titre": "L'arbitrage OHADA applicable à Madagascar",
+        "contenu": [
+          {
+            "sous_titre": "3.1 Madagascar et l'OHADA",
+            "texte": "Madagascar a adhéré à l'Organisation pour l'Harmonisation en Afrique du Droit des Affaires (OHADA) le 18 octobre 2013, avec entrée en vigueur effective des Actes Uniformes le 19 septembre 2014. Depuis lors, les instruments OHADA — dont l'Acte Uniforme relatif au droit de l'Arbitrage (AUA) — s'appliquent directement et priment sur les dispositions nationales contraires en matière commerciale.\n\nL'adhésion à l'OHADA a profondément modifié le paysage juridique malgache des affaires, en offrant aux opérateurs économiques un cadre d'arbitrage harmonisé, prévisible et reconnu à l'échelle africaine."
+          },
+          {
+            "sous_titre": "3.2 L'Acte Uniforme OHADA sur l'Arbitrage (AUA)",
+            "texte": "L'AUA du 23 novembre 2017 (révisé) est le texte de référence pour l'arbitrage OHADA. Il s'applique à tout arbitrage lorsque le siège du tribunal arbitral se trouve dans un État partie à l'OHADA, comme Madagascar.\n\n**Champ d'application :** L'AUA s'applique à tout arbitrage ad hoc (organisé par les parties elles-mêmes) dont le siège est dans un État partie. Les arbitrages institutionnels devant la CCJA suivent le Règlement d'arbitrage CCJA.\n\n**Principes fondamentaux de l'AUA :**\n- Autonomie de la clause compromissoire\n- Compétence-compétence : le tribunal arbitral est seul juge de sa propre compétence\n- Principe du contradictoire et d'égalité des parties\n- Liberté procédurale encadrée\n- Possibilité pour le juge étatique d'intervenir comme juge d'appui"
+          },
+          {
+            "sous_titre": "3.3 La CCJA et l'arbitrage institutionnel OHADA",
+            "texte": "La Cour Commune de Justice et d'Arbitrage (CCJA), dont le siège est à Abidjan, est l'institution suprême de l'OHADA. Elle remplit deux fonctions :\n\n**Fonction juridictionnelle :** La CCJA est la cour suprême pour les litiges relevant du droit OHADA. Ses arrêts priment sur ceux des cours suprêmes nationales en matière de droit uniforme.\n\n**Fonction arbitrale :** La CCJA administre des procédures d'arbitrage selon son propre Règlement. Elle ne tranche pas elle-même les litiges (ce sont des arbitres désignés qui le font) mais elle supervise la procédure, contrôle les sentences avant leur signature et peut les corriger si la forme fait défaut.\n\n**Particularité :** Une sentence rendue sous l'égide de la CCJA n'est pas soumise au contrôle des juridictions nationales. L'exequatur est accordé directement par le Président de la CCJA, et la sentence est exécutoire dans tous les États parties."
+          },
+          {
+            "sous_titre": "3.4 Articulation entre droit malgache et droit OHADA",
+            "texte": "Depuis l'adhésion de Madagascar à l'OHADA, la hiérarchie des normes en matière d'arbitrage commercial est la suivante :\n\n1. **Règlement CCJA** : pour les arbitrages institutionnels CCJA\n2. **AUA** : pour les arbitrages ad hoc dont le siège est à Madagascar\n3. **Code de procédure civile malgache** : en matière d'arbitrage interne non commercial et pour combler les lacunes\n\nEn cas de conflit entre l'AUA et le CPC malgache sur une question de droit commercial, l'AUA prime en vertu de l'article 10 du Traité OHADA."
+          }
+        ]
+      },
+      {
+        "id": "lecon_4",
+        "titre": "L'arbitrage international",
+        "contenu": [
+          {
+            "sous_titre": "4.1 Définition et critères de l'arbitrage international",
+            "texte": "L'arbitrage est international lorsque les intérêts du commerce international sont en jeu. Le critère retenu par l'AUA est celui de l'internationalité économique : un arbitrage est international dès lors que le contrat en cause met en œuvre un mouvement de biens, de services ou de capitaux à travers au moins deux États.\n\nD'autres critères d'internationalité peuvent être retenus :\n- Nationalité étrangère d'une des parties\n- Lieu de conclusion ou d'exécution du contrat à l'étranger\n- Siège social de l'une des parties à l'étranger\n\nÀ Madagascar, les investissements étrangers dans la région DIANA (zone franche de Nosy-Be, projets touristiques, miniers) génèrent de nombreux litiges à caractère international susceptibles d'être soumis à l'arbitrage."
+          },
+          {
+            "sous_titre": "4.2 La Convention de New York de 1958",
+            "texte": "Madagascar est partie à la Convention de New York du 10 juin 1958 sur la reconnaissance et l'exécution des sentences arbitrales étrangères. Cette convention est l'instrument le plus important du droit international de l'arbitrage : elle lie plus de 170 États et garantit la circulation des sentences arbitrales à travers les frontières.\n\n**Principe :** Les États parties s'engagent à reconnaître et exécuter les sentences arbitrales rendues sur le territoire d'un autre État partie, sous réserve de motifs de refus limitativement énumérés (incapacité des parties, convention invalide, violation du contradictoire, dépassement de mission, sentence non exécutoire, ordre public).\n\n**Importance pratique :** Un investisseur étranger à Madagascar — par exemple une société française exploitant un hôtel à Nosy-Be — peut inclure dans son contrat une clause d'arbitrage international et être assuré que la sentence obtenue sera exécutable à Madagascar grâce à la Convention de New York."
+          },
+          {
+            "sous_titre": "4.3 Reconnaissance et exécution des sentences étrangères à Madagascar",
+            "texte": "La procédure d'exequatur d'une sentence arbitrale étrangère à Madagascar est introduite devant la Cour d'appel compétente (Cour d'appel d'Antananarivo ou d'Antsiranana selon la localisation des biens ou du défendeur).\n\nLe juge de l'exequatur ne réexamine pas le fond du litige. Il vérifie uniquement :\n- L'existence d'une sentence arbitrale valable\n- La conformité de la procédure aux garanties fondamentales\n- L'absence de contrariété à l'ordre public international malgache\n\nSi ces conditions sont remplies, l'ordonnance d'exequatur est accordée et la sentence est exécutoire comme un jugement malgache."
+          }
+        ]
+      },
+      {
+        "id": "lecon_5",
+        "titre": "La médiation",
+        "contenu": [
+          {
+            "sous_titre": "5.1 Cadre juridique de la médiation à Madagascar",
+            "texte": "La médiation commerciale à Madagascar est régie par la Loi n° 2003-025 du 5 septembre 2003. Ce texte définit la médiation comme le processus par lequel un tiers — le médiateur — aide les parties en conflit à trouver elles-mêmes une solution mutuellement acceptable, sans imposer de décision.\n\nLa médiation peut être :\n- **Conventionnelle** : prévue par une clause de médiation dans le contrat ou convenue après la naissance du litige\n- **Judiciaire** : ordonnée par le juge en cours d'instance, avec l'accord des parties"
+          },
+          {
+            "sous_titre": "5.2 Le médiateur : statut et rôle",
+            "texte": "**Qualités requises :** Le médiateur doit être indépendant, impartial et neutre. Il n'est pas tenu d'être juriste, mais doit posséder des compétences en communication, négociation et résolution de conflits. Dans la pratique malgache, les médiateurs sont souvent des avocats, experts-comptables, notaires ou chefs traditionnels (ray aman-dreny) reconnus pour leur autorité morale.\n\n**Rôle du médiateur :** Il ne tranche pas, ne juge pas, ne conseille pas une partie contre l'autre. Il crée les conditions d'un dialogue structuré, aide les parties à identifier leurs intérêts réels (au-delà de leurs positions déclarées) et explore avec elles les solutions possibles.\n\n**Secret professionnel :** Le médiateur est tenu au secret sur tout ce qui est porté à sa connaissance dans le cadre de la médiation."
+          },
+          {
+            "sous_titre": "5.3 Déroulement de la médiation et accord de médiation",
+            "texte": "**Phases de la médiation :**\n1. Séance d'ouverture : présentation du processus, règles de conduite, consentement des parties\n2. Expression des positions : chaque partie expose sa vision du conflit\n3. Identification des intérêts : le médiateur aide à dépasser les positions pour comprendre les besoins réels\n4. Génération de solutions : brainstorming de solutions possibles\n5. Négociation et accord : les parties s'accordent sur une solution\n6. Rédaction de l'accord\n\n**L'accord de médiation :** Si les parties parviennent à un accord, celui-ci est rédigé et signé. Cet accord a la force d'un contrat entre les parties. Pour lui conférer force exécutoire, il peut être homologué par le tribunal compétent, qui lui donnera alors la valeur d'un jugement."
+          }
+        ]
+      },
+      {
+        "id": "lecon_6",
+        "titre": "La conciliation",
+        "contenu": [
+          {
+            "sous_titre": "6.1 La conciliation judiciaire",
+            "texte": "La conciliation judiciaire est la tentative de règlement amiable du litige effectuée sous l'égide du juge, avant ou pendant l'instance. Le Code de procédure civile malgache prévoit que dans certaines matières, le juge est tenu de tenter une conciliation avant de statuer au fond.\n\n**Matières concernées :**\n- Droit du travail : le conseil de discipline ou l'inspecteur du travail tente obligatoirement une conciliation\n- Droit de la famille : dans les procédures de divorce, le juge tente une réconciliation lors d'une audience préliminaire\n- Baux ruraux et litiges de voisinage\n\n**Procédure :** Le juge convoque les parties, entend leurs positions et propose des bases d'accord. Si les parties s'accordent, un procès-verbal de conciliation est dressé, qui a force de chose jugée et constitue un titre exécutoire."
+          },
+          {
+            "sous_titre": "6.2 La conciliation conventionnelle",
+            "texte": "La conciliation conventionnelle est organisée par les parties en dehors de tout cadre judiciaire. Un conciliateur est désigné d'un commun accord pour proposer des bases de règlement.\n\n**Distinction avec la médiation :** Le conciliateur peut faire des propositions de solution (contrairement au médiateur pur qui s'en abstient). Mais comme le médiateur, il ne peut pas imposer sa solution : les parties restent libres d'accepter ou de refuser.\n\n**Pratique malgache :** Dans la région DIANA, la conciliation est souvent pratiquée de manière informelle par des notables locaux, des chefs de fokontany ou des anciens. Cette pratique traditionnelle — appelée 'fitsarana am-piarahamonina' dans certaines communautés — est socialement reconnue et peut précéder ou remplacer le recours aux MARL formels."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q1",
+        "question": "Qu'est-ce qu'un mode alternatif de règlement des litiges (MARL) ?",
+        "choix": [
+          "A) Un recours devant la Cour suprême de Madagascar",
+          "B) Un mécanisme permettant de résoudre un différend en dehors de la voie judiciaire étatique classique",
+          "C) Une procédure d'appel contre un jugement de première instance",
+          "D) Un recours administratif devant le Conseil d'État malgache"
+        ],
+        "reponse": "B",
+        "indices": ["Pensez à l'alternative à la juridiction étatique", "Le mot 'alternatif' est la clé"],
+        "explication": "Les MARL désignent l'ensemble des mécanismes — arbitrage, médiation, conciliation, négociation — permettant de résoudre un litige sans passer par les tribunaux étatiques classiques."
+      },
+      {
+        "id": "q2",
+        "question": "Parmi les textes suivants, lequel régit principalement l'arbitrage interne à Madagascar ?",
+        "choix": [
+          "A) La loi n° 2003-025 du 5 septembre 2003",
+          "B) L'Acte Uniforme OHADA sur l'Arbitrage",
+          "C) La loi n° 98-019 du 2 décembre 1998 portant refonte du Code de procédure civile",
+          "D) La Convention de New York de 1958"
+        ],
+        "reponse": "C",
+        "indices": ["Ce texte est le Code de procédure civile malgache", "L'OHADA s'applique au droit commercial"],
+        "explication": "L'arbitrage interne à Madagascar est principalement régi par le Livre IV du Code de procédure civile malgache (Loi n° 98-019 du 2 décembre 1998). L'AUA OHADA s'applique à l'arbitrage commercial depuis 2014."
+      },
+      {
+        "id": "q3",
+        "question": "Quelle est la différence fondamentale entre la clause compromissoire et le compromis d'arbitrage ?",
+        "choix": [
+          "A) La clause compromissoire est orale, le compromis est écrit",
+          "B) La clause compromissoire est stipulée avant le litige, le compromis après sa naissance",
+          "C) Le compromis est prévu dans le contrat principal, la clause compromissoire est autonome",
+          "D) Il n'y a aucune différence, ce sont deux termes synonymes"
+        ],
+        "reponse": "B",
+        "indices": ["Pensez au moment de la naissance du litige", "L'un anticipe, l'autre réagit"],
+        "explication": "La clause compromissoire est stipulée dans le contrat principal avant tout litige. Le compromis d'arbitrage est conclu après la naissance du litige pour soumettre ce litige précis à l'arbitrage."
+      },
+      {
+        "id": "q4",
+        "question": "Madagascar a adhéré à l'OHADA en quelle année ?",
+        "choix": [
+          "A) 1993",
+          "B) 2003",
+          "C) 2013",
+          "D) 2017"
+        ],
+        "reponse": "C",
+        "indices": ["C'est relativement récent", "Entre 2010 et 2015"],
+        "explication": "Madagascar a adhéré à l'OHADA le 18 octobre 2013, avec entrée en vigueur effective des Actes Uniformes le 19 septembre 2014."
+      },
+      {
+        "id": "q5",
+        "question": "Qu'est-ce que le principe de 'compétence-compétence' en arbitrage ?",
+        "choix": [
+          "A) Le tribunal arbitral peut désigner lui-même ses arbitres",
+          "B) Le tribunal arbitral est seul juge de sa propre compétence",
+          "C) La CCJA est compétente pour tous les litiges OHADA",
+          "D) Le juge étatique est compétent pour contrôler la sentence arbitrale"
+        ],
+        "reponse": "B",
+        "indices": ["Ce principe concerne l'auto-appréciation par l'arbitre", "'Compétence sur la compétence'"],
+        "explication": "Le principe compétence-compétence signifie que le tribunal arbitral est seul habilité à statuer sur sa propre compétence, avant toute intervention du juge étatique."
+      },
+      {
+        "id": "q6",
+        "question": "La clause compromissoire stipulée dans un contrat est-elle affectée par la nullité dudit contrat ?",
+        "choix": [
+          "A) Oui, la nullité du contrat entraîne automatiquement la nullité de la clause",
+          "B) Non, en vertu du principe de séparabilité, la clause est autonome",
+          "C) Cela dépend de la volonté des parties exprimée lors de la conclusion",
+          "D) Seul le juge étatique peut décider de l'effet sur la clause"
+        ],
+        "reponse": "B",
+        "indices": ["Le mot clé est 'autonomie' ou 'séparabilité'", "La clause a sa propre vie juridique"],
+        "explication": "En vertu du principe de séparabilité (autonomie de la clause compromissoire), la nullité du contrat principal n'entraîne pas automatiquement la nullité de la clause compromissoire qui est traitée comme un accord distinct."
+      },
+      {
+        "id": "q7",
+        "question": "Devant quelle juridiction un recours en annulation contre une sentence arbitrale interne malgache est-il porté ?",
+        "choix": [
+          "A) Le Tribunal de Première Instance",
+          "B) La Cour Commune de Justice et d'Arbitrage (CCJA)",
+          "C) La Cour d'appel compétente",
+          "D) La Cour suprême de Madagascar"
+        ],
+        "reponse": "C",
+        "indices": ["Ce n'est pas la juridiction de première instance", "C'est une juridiction intermédiaire"],
+        "explication": "Le recours en annulation d'une sentence arbitrale interne est porté devant la Cour d'appel compétente, dans les cas limitativement énumérés par la loi (irrégularité du tribunal, dépassement de mission, violation de l'ordre public, etc.)."
+      },
+      {
+        "id": "q8",
+        "question": "Qu'est-ce que l'exequatur d'une sentence arbitrale ?",
+        "choix": [
+          "A) La procédure d'annulation de la sentence",
+          "B) L'ordonnance accordant force exécutoire à la sentence",
+          "C) La ratification de la sentence par la CCJA",
+          "D) Le délai de prescription pour exécuter la sentence"
+        ],
+        "reponse": "B",
+        "indices": ["Le terme latin signifie 'qu'il soit exécuté'", "Sans cela, la sentence ne peut pas être exécutée de force"],
+        "explication": "L'exequatur est l'ordonnance rendue par le Président du Tribunal de Première Instance compétent qui confère à la sentence arbitrale la force exécutoire, permettant son exécution forcée."
+      },
+      {
+        "id": "q9",
+        "question": "La CCJA remplit deux fonctions principales. Lesquelles ?",
+        "choix": [
+          "A) Législative et réglementaire",
+          "B) Juridictionnelle (cour suprême) et arbitrale (administration des arbitrages)",
+          "C) Médiation et conciliation",
+          "D) Contrôle constitutionnel et contrôle de légalité"
+        ],
+        "reponse": "B",
+        "indices": ["L'une concerne les arrêts, l'autre les sentences", "CCJA = Cour Commune de Justice ET d'Arbitrage"],
+        "explication": "La CCJA est à la fois la juridiction suprême de l'espace OHADA (elle rend des arrêts qui priment sur les cours suprêmes nationales en droit OHADA) et une institution d'arbitrage qui administre des procédures arbitrales selon son Règlement."
+      },
+      {
+        "id": "q10",
+        "question": "La loi n° 2003-025 du 5 septembre 2003 régit à Madagascar :",
+        "choix": [
+          "A) L'arbitrage international",
+          "B) La médiation commerciale",
+          "C) La conciliation judiciaire",
+          "D) L'exequatur des sentences étrangères"
+        ],
+        "reponse": "B",
+        "indices": ["Ce texte concerne un MARL non juridictionnel", "Il s'agit d'un tiers facilitateur, non décideur"],
+        "explication": "La Loi n° 2003-025 du 5 septembre 2003 est le texte de référence sur la médiation commerciale à Madagascar. Elle définit la médiation, le statut du médiateur et les effets de l'accord de médiation."
+      },
+      {
+        "id": "q11",
+        "question": "En médiation, le médiateur peut-il imposer une solution aux parties ?",
+        "choix": [
+          "A) Oui, si les parties ne parviennent pas à s'accorder dans le délai fixé",
+          "B) Oui, avec l'autorisation préalable du tribunal",
+          "C) Non, le médiateur ne tranche pas ; il facilite la recherche d'un accord",
+          "D) Oui, mais uniquement pour les litiges de moins d'un million d'ariary"
+        ],
+        "reponse": "C",
+        "indices": ["La médiation est un MARL non décisionnel", "Le médiateur est un facilitateur, pas un juge"],
+        "explication": "Le médiateur ne dispose d'aucun pouvoir de décision. Il facilite le dialogue entre les parties et les aide à trouver elles-mêmes une solution. C'est ce qui distingue fondamentalement la médiation de l'arbitrage."
+      },
+      {
+        "id": "q12",
+        "question": "Comment appelle-t-on la décision rendue par un tribunal arbitral ?",
+        "choix": [
+          "A) Un arrêt",
+          "B) Un jugement",
+          "C) Une sentence arbitrale",
+          "D) Une ordonnance"
+        ],
+        "reponse": "C",
+        "indices": ["Ce terme est propre à l'arbitrage", "Ce n'est pas le vocabulaire des juridictions étatiques"],
+        "explication": "La décision par laquelle le tribunal arbitral tranche définitivement le litige s'appelle une sentence arbitrale. Les arrêts sont rendus par les cours d'appel, les jugements par les tribunaux, les ordonnances par les présidents de juridiction."
+      },
+      {
+        "id": "q13",
+        "question": "Quelle est la Convention internationale sur l'exécution des sentences arbitrales étrangères ratifiée par Madagascar ?",
+        "choix": [
+          "A) La Convention de La Haye de 1965",
+          "B) La Convention de Washington de 1965 (CIRDI)",
+          "C) La Convention de New York du 10 juin 1958",
+          "D) La Convention de Genève de 1927"
+        ],
+        "reponse": "C",
+        "indices": ["Cette convention date de la fin des années 1950", "Elle lie plus de 170 États"],
+        "explication": "Madagascar est partie à la Convention de New York du 10 juin 1958 sur la reconnaissance et l'exécution des sentences arbitrales étrangères, instrument fondamental du droit international de l'arbitrage."
+      },
+      {
+        "id": "q14",
+        "question": "Devant quelle juridiction est introduite la demande d'exequatur d'une sentence arbitrale étrangère à Madagascar ?",
+        "choix": [
+          "A) Le Tribunal de première instance",
+          "B) La Cour d'appel compétente",
+          "C) La Cour suprême",
+          "D) Le Tribunal de commerce"
+        ],
+        "reponse": "B",
+        "indices": ["Ce n'est pas la première juridiction civile", "C'est la juridiction intermédiaire"],
+        "explication": "La procédure d'exequatur d'une sentence arbitrale étrangère à Madagascar est introduite devant la Cour d'appel compétente, qui vérifie les conditions de régularité sans réexaminer le fond."
+      },
+      {
+        "id": "q15",
+        "question": "En arbitrage OHADA, quelle est la règle en cas de conflit entre l'AUA et le Code de procédure civile malgache sur une question commerciale ?",
+        "choix": [
+          "A) Le Code de procédure civile malgache prime car c'est le droit national",
+          "B) L'AUA prime en vertu de l'article 10 du Traité OHADA",
+          "C) Le juge choisit librement la règle la plus favorable aux parties",
+          "D) La CCJA tranche le conflit au cas par cas"
+        ],
+        "reponse": "B",
+        "indices": ["Les traités internationaux ont une valeur supérieure à la loi nationale", "L'article 10 du Traité OHADA est explicite sur ce point"],
+        "explication": "En vertu de l'article 10 du Traité OHADA, les Actes Uniformes (dont l'AUA) sont directement applicables et obligatoires dans les États parties et priment sur les dispositions nationales contraires."
+      },
+      {
+        "id": "q16",
+        "question": "Qu'est-ce qu'un arbitrage ad hoc ?",
+        "choix": [
+          "A) Un arbitrage organisé par une institution permanente d'arbitrage",
+          "B) Un arbitrage organisé par les parties elles-mêmes, sans institution",
+          "C) Un arbitrage obligatoire imposé par la loi",
+          "D) Un arbitrage rapide rendu en moins de 30 jours"
+        ],
+        "reponse": "B",
+        "indices": ["Ad hoc = pour cela, spécialement conçu", "Par opposition à l'arbitrage institutionnel"],
+        "explication": "L'arbitrage ad hoc est organisé directement par les parties sans recours à une institution d'arbitrage permanente. Les parties fixent elles-mêmes les règles de procédure. Il s'oppose à l'arbitrage institutionnel (CCJA, CCI, etc.)."
+      },
+      {
+        "id": "q17",
+        "question": "Randrianasolo Harimanana dirige une entreprise de pêche à Diego-Suarez. Il souhaite inclure dans ses contrats avec ses partenaires commerciaux une disposition prévoyant l'arbitrage en cas de litige. Quelle clause doit-il insérer ?",
+        "choix": [
+          "A) Un compromis d'arbitrage",
+          "B) Une clause de renonciation à la juridiction",
+          "C) Une clause compromissoire",
+          "D) Une clause pénale"
+        ],
+        "reponse": "C",
+        "indices": ["Le litige n'est pas encore né", "Cette clause est insérée dans le contrat principal"],
+        "explication": "Randrianasolo doit insérer une clause compromissoire dans ses contrats. Cette clause, stipulée avant la naissance de tout litige, prévoit que les différends futurs relatifs au contrat seront soumis à l'arbitrage."
+      },
+      {
+        "id": "q18",
+        "question": "Le procès-verbal de conciliation judiciaire a-t-il force exécutoire ?",
+        "choix": [
+          "A) Non, il faut un jugement supplémentaire pour l'exécuter",
+          "B) Oui, il constitue un titre exécutoire",
+          "C) Seulement si les deux parties le signent devant notaire",
+          "D) Oui, mais uniquement pour les litiges civils de moins de 5 millions d'ariary"
+        ],
+        "reponse": "B",
+        "indices": ["Le PV de conciliation est dressé par le juge", "Il vaut comme acte judiciaire"],
+        "explication": "Le procès-verbal de conciliation judiciaire a force de chose jugée et constitue un titre exécutoire. Il peut donc être directement exécuté sans nécessiter un nouveau jugement."
+      },
+      {
+        "id": "q19",
+        "question": "Parmi les matières suivantes, laquelle est NON arbitrable selon les principes du droit malgache ?",
+        "choix": [
+          "A) Un litige entre associés sur la répartition des bénéfices",
+          "B) Un différend portant sur l'état civil d'une personne",
+          "C) Un litige né d'un contrat de construction à Nosy-Be",
+          "D) Un différend entre employeur et salarié sur le montant d'une indemnité"
+        ],
+        "reponse": "B",
+        "indices": ["Les droits indisponibles ne peuvent pas être arbitrés", "L'état civil concerne l'ordre public"],
+        "explication": "Les litiges relatifs à l'état des personnes (état civil, capacité, nationalité) sont non arbitrables car ils relèvent de l'ordre public et portent sur des droits dont les parties n'ont pas la libre disposition."
+      },
+      {
+        "id": "q20",
+        "question": "Quel est le délai ordinaire pour rendre une sentence arbitrale en droit malgache, à défaut de délai convenu par les parties ?",
+        "choix": [
+          "A) 3 mois",
+          "B) 6 mois",
+          "C) 12 mois",
+          "D) 18 mois"
+        ],
+        "reponse": "B",
+        "indices": ["Ce délai court à compter de la constitution du tribunal arbitral", "Il est prorogeable"],
+        "explication": "À défaut de délai convenu par les parties, la sentence doit être rendue dans les six mois suivant la constitution du tribunal arbitral. Ce délai peut être prorogé par accord des parties ou décision du juge d'appui."
+      },
+      {
+        "id": "q21",
+        "question": "Qu'est-ce que le 'juge d'appui' en matière d'arbitrage ?",
+        "choix": [
+          "A) Le juge qui réexamine la sentence arbitrale au fond",
+          "B) Le juge étatique qui intervient pour assister le tribunal arbitral en cas de difficulté",
+          "C) L'arbitre désigné par le tribunal lorsque les parties ne s'accordent pas",
+          "D) Le président de la CCJA"
+        ],
+        "reponse": "B",
+        "indices": ["Il 'appuie', c'est-à-dire soutient sans se substituer", "Il intervient notamment pour la désignation des arbitres en cas de blocage"],
+        "explication": "Le juge d'appui est le juge étatique compétent qui intervient pour assister le tribunal arbitral lorsque celui-ci se heurte à des difficultés procédurales (désignation d'arbitre en cas de carence, mesures provisoires urgentes, etc.) sans pour autant remettre en cause la compétence des arbitres."
+      },
+      {
+        "id": "q22",
+        "question": "Rakotoarivelo Mialy est responsable juridique d'une société cotonnière à Ambanja. Un litige surgit avec un fournisseur turc. Aucune clause d'arbitrage n'existe dans leur contrat. Quel acte peuvent-ils signer pour soumettre ce litige à l'arbitrage ?",
+        "choix": [
+          "A) Une clause compromissoire",
+          "B) Un compromis d'arbitrage",
+          "C) Un accord de médiation",
+          "D) Un protocole de conciliation"
+        ],
+        "reponse": "B",
+        "indices": ["Le litige est déjà né", "L'acte est signé après la survenance du différend"],
+        "explication": "Puisque le litige est déjà né et qu'il n'existe pas de clause d'arbitrage préalable, les parties peuvent conclure un compromis d'arbitrage pour soumettre ce différend précis à l'arbitrage."
+      },
+      {
+        "id": "q23",
+        "question": "La confidentialité de la procédure arbitrale est-elle un principe absolu ?",
+        "choix": [
+          "A) Oui, la procédure est toujours strictement confidentielle",
+          "B) Non, la confidentialité ne s'applique qu'aux litiges commerciaux",
+          "C) Non, les parties peuvent convenir de déroger à la confidentialité",
+          "D) Oui, sauf en cas d'ordre public international"
+        ],
+        "reponse": "C",
+        "indices": ["Les parties sont libres d'organiser leur procédure", "La confidentialité est un principe supplétif"],
+        "explication": "La confidentialité est un principe général de l'arbitrage, mais il est supplétif de la volonté des parties. Celles-ci peuvent convenir de déroger à la confidentialité, par exemple pour permettre la publication de la sentence comme jurisprudence."
+      },
+      {
+        "id": "q24",
+        "question": "Quel est le principal avantage de la médiation sur l'arbitrage en termes de relation commerciale entre les parties ?",
+        "choix": [
+          "A) La médiation est plus rapide que l'arbitrage dans tous les cas",
+          "B) La solution issue de la médiation est librement acceptée par les parties, ce qui préserve les relations",
+          "C) La médiation produit une décision exécutoire sans procédure judiciaire supplémentaire",
+          "D) La médiation est gratuite à Madagascar"
+        ],
+        "reponse": "B",
+        "indices": ["La médiation aboutit à un accord, non à une décision imposée", "Les parties construisent elles-mêmes la solution"],
+        "explication": "L'avantage principal de la médiation sur l'arbitrage est la préservation des relations commerciales : la solution est co-construite et librement acceptée par les parties, ce qui favorise l'exécution volontaire et maintient les relations d'affaires."
+      },
+      {
+        "id": "q25",
+        "question": "Dans la région DIANA, la conciliation informelle pratiquée par les notables locaux ou chefs de fokontany est parfois appelée :",
+        "choix": [
+          "A) Fanjakana",
+          "B) Fitsarana am-piarahamonina",
+          "C) Raiamandreny arbitral",
+          "D) Kabary juridique"
+        ],
+        "reponse": "B",
+        "indices": ["Ce terme malgache désigne une justice communautaire", "Il intègre les notions de communauté (piarahamonina)"],
+        "explication": "La conciliation informelle pratiquée par les notables et chefs de fokontany dans la région DIANA est appelée 'fitsarana am-piarahamonina', terme malgache désignant une justice communautaire qui précède souvent le recours aux MARL formels."
+      },
+      {
+        "id": "q26",
+        "question": "Un accord de médiation commerciale à Madagascar peut-il être homologué par le tribunal ?",
+        "choix": [
+          "A) Non, un accord de médiation reste toujours un simple contrat",
+          "B) Oui, l'homologation lui confère la valeur d'un jugement et force exécutoire",
+          "C) Seulement si les deux parties sont représentées par un avocat",
+          "D) Oui, mais uniquement par la Cour suprême"
+        ],
+        "reponse": "B",
+        "indices": ["L'homologation transforme l'accord en titre exécutoire", "Le tribunal valide sans remettre en cause le fond"],
+        "explication": "Selon la Loi n° 2003-025, l'accord de médiation peut être soumis à l'homologation du tribunal compétent, qui lui confère alors la valeur d'un jugement et le rend exécutoire de force, sans que le juge réexamine le fond de l'accord."
+      },
+      {
+        "id": "q27",
+        "question": "Quelle est la condition de forme essentielle de la convention d'arbitrage ?",
+        "choix": [
+          "A) Elle doit être rédigée en deux langues officielles",
+          "B) Elle doit être rédigée par écrit",
+          "C) Elle doit être enregistrée auprès du greffe du tribunal",
+          "D) Elle doit être signée devant un notaire"
+        ],
+        "reponse": "B",
+        "indices": ["La forme est simple mais obligatoire", "L'oral est insuffisant"],
+        "explication": "La convention d'arbitrage (clause compromissoire ou compromis) doit être rédigée par écrit. C'est une condition de validité formelle essentielle. Elle peut figurer dans le contrat principal ou dans tout document y faisant référence."
+      },
+      {
+        "id": "q28",
+        "question": "En cas de désaccord des parties sur la désignation du troisième arbitre dans un collège de trois, qui intervient ?",
+        "choix": [
+          "A) Le Ministre de la Justice malgache",
+          "B) Le Président de la République",
+          "C) Le juge compétent (juge d'appui)",
+          "D) Le Bâtonnier de l'Ordre des avocats"
+        ],
+        "reponse": "C",
+        "indices": ["Ce n'est pas une autorité politique", "C'est le juge étatique dans son rôle d'appui"],
+        "explication": "En cas de désaccord sur la désignation d'un arbitre, le juge compétent (juge d'appui) intervient pour procéder à la désignation. Cette intervention judiciaire est limitée à cet aspect procédural et ne remet pas en cause la compétence du tribunal arbitral."
+      },
+      {
+        "id": "q29",
+        "question": "Quel critère l'AUA OHADA retient-il pour qualifier un arbitrage d'international ?",
+        "choix": [
+          "A) La nationalité étrangère d'au moins une des parties",
+          "B) Le siège du tribunal arbitral situé hors de Madagascar",
+          "C) Les intérêts du commerce international (critère économique)",
+          "D) La valeur du litige supérieure à 100 millions d'ariary"
+        ],
+        "reponse": "C",
+        "indices": ["L'AUA adopte un critère économique et non géographique ou personnel", "Il s'agit du mouvement de biens, services ou capitaux entre États"],
+        "explication": "L'AUA retient le critère économique de l'internationalité : un arbitrage est international lorsque le contrat en cause met en œuvre un mouvement de biens, de services ou de capitaux à travers au moins deux États."
+      },
+      {
+        "id": "q30",
+        "question": "Depuis quelle date les Actes Uniformes OHADA sont-ils effectivement en vigueur à Madagascar ?",
+        "choix": [
+          "A) 18 octobre 2013",
+          "B) 19 septembre 2014",
+          "C) 1er janvier 2015",
+          "D) 23 novembre 2017"
+        ],
+        "reponse": "B",
+        "indices": ["C'est l'année suivant l'adhésion formelle", "2014"],
+        "explication": "Bien que Madagascar ait adhéré à l'OHADA le 18 octobre 2013, les Actes Uniformes sont entrés en vigueur effective à Madagascar le 19 septembre 2014."
+      },
+      {
+        "id": "q31",
+        "question": "Une sentence CCJA bénéficie-t-elle de l'exequatur des juridictions nationales malgaches ?",
+        "choix": [
+          "A) Oui, elle doit passer par la Cour d'appel d'Antananarivo",
+          "B) Non, l'exequatur est accordé directement par le Président de la CCJA et est valable dans tous les États parties",
+          "C) Oui, mais uniquement devant le Tribunal de commerce",
+          "D) Non, les sentences CCJA ne sont exécutables qu'en Côte d'Ivoire"
+        ],
+        "reponse": "B",
+        "indices": ["La CCJA est supranationale", "Son exequatur a une portée panafricaine dans l'espace OHADA"],
+        "explication": "Une sentence rendue sous l'égide de la CCJA n'est pas soumise au contrôle des juridictions nationales. L'exequatur est accordé directement par le Président de la CCJA et la sentence est exécutoire dans tous les États parties à l'OHADA."
+      },
+      {
+        "id": "q32",
+        "question": "Le médiateur peut-il révéler à l'une des parties les informations confidentielles communiquées par l'autre partie en session individuelle (caucus) ?",
+        "choix": [
+          "A) Oui, la transparence est un principe fondamental de la médiation",
+          "B) Oui, avec l'accord du juge superviseur",
+          "C) Non, il est tenu au secret professionnel",
+          "D) Seulement si cela peut aider à trouver un accord"
+        ],
+        "reponse": "C",
+        "indices": ["Le médiateur a une obligation de confidentialité", "Le secret est la condition du dialogue frank"],
+        "explication": "Le médiateur est tenu au secret professionnel. Les informations communiquées en session individuelle (caucus) ne peuvent pas être révélées à l'autre partie sans l'accord exprès de celle qui les a communiquées."
+      },
+      {
+        "id": "q33",
+        "question": "Quelle est la nature juridique de la sentence arbitrale dès son prononcé ?",
+        "choix": [
+          "A) Elle a une valeur contractuelle simple",
+          "B) Elle a l'autorité de la chose jugée",
+          "C) Elle doit être confirmée par le juge pour avoir un effet obligatoire",
+          "D) Elle n'est obligatoire qu'après l'expiration du délai de recours en annulation"
+        ],
+        "reponse": "B",
+        "indices": ["La sentence est assimilée à un jugement", "Elle s'impose aux parties immédiatement"],
+        "explication": "La sentence arbitrale a, dès son prononcé, l'autorité de la chose jugée. Elle s'impose aux parties comme un jugement définitif, même si l'exequatur est encore nécessaire pour son exécution forcée."
+      },
+      {
+        "id": "q34",
+        "question": "Qu'est-ce que la clause de médiation préalable obligatoire dans un contrat ?",
+        "choix": [
+          "A) Une clause imposant la médiation comme unique mode de résolution des litiges",
+          "B) Une clause exigeant de tenter la médiation avant tout recours à l'arbitrage ou au tribunal",
+          "C) Une clause rendant la médiation obligatoire pour les contrats publics",
+          "D) Une disposition légale malgache imposant la médiation dans tous les contrats commerciaux"
+        ],
+        "reponse": "B",
+        "indices": ["Le mot 'préalable' indique un ordre chronologique", "La médiation précède d'autres recours"],
+        "explication": "La clause de médiation préalable oblige les parties à tenter une médiation avant de saisir un tribunal ou un tribunal arbitral. Elle crée une étape obligatoire de règlement amiable dans le processus de résolution des conflits."
+      },
+      {
+        "id": "q35",
+        "question": "Dans le cadre d'un divorce à Madagascar, le juge doit-il tenter une réconciliation avant de statuer au fond ?",
+        "choix": [
+          "A) Non, c'est facultatif selon la discrétion du juge",
+          "B) Oui, le Code de procédure civile malgache prévoit une audience préliminaire de réconciliation",
+          "C) Oui, mais uniquement pour les mariages de moins de 5 ans",
+          "D) Non, car le droit de la famille relève exclusivement du droit coutumier"
+        ],
+        "reponse": "B",
+        "indices": ["La conciliation est obligatoire dans certaines matières", "Le droit de la famille en fait partie"],
+        "explication": "Dans les procédures de divorce à Madagascar, le Code de procédure civile prévoit que le juge tente une réconciliation lors d'une audience préliminaire avant de statuer au fond. Cette tentative de conciliation judiciaire est obligatoire."
+      },
+      {
+        "id": "q36",
+        "question": "Quel document matérialise le résultat d'une conciliation judiciaire réussie ?",
+        "choix": [
+          "A) Un arrêt de la Cour d'appel",
+          "B) Un procès-verbal de conciliation",
+          "C) Une sentence arbitrale provisoire",
+          "D) Un acte notarié"
+        ],
+        "reponse": "B",
+        "indices": ["Ce document est dressé par le greffe sous l'autorité du juge", "Il a force exécutoire"],
+        "explication": "Lorsque la conciliation judiciaire aboutit, un procès-verbal de conciliation est dressé. Il a force de chose jugée et constitue un titre exécutoire, ce qui lui confère une valeur équivalente à un jugement."
+      },
+      {
+        "id": "q37",
+        "question": "Peut-on arbitrer un litige relatif à une infraction pénale commise à Antsiranana ?",
+        "choix": [
+          "A) Oui, si les parties sont d'accord",
+          "B) Oui, pour les infractions de faible gravité",
+          "C) Non, la matière pénale est d'ordre public et non arbitrable",
+          "D) Oui, mais seulement devant la CCJA"
+        ],
+        "reponse": "C",
+        "indices": ["La matière pénale est une prérogative exclusive de l'État", "L'action publique ne peut être cédée aux parties"],
+        "explication": "La matière pénale est non arbitrable à Madagascar. L'action publique appartient au Ministère public (représentant l'État) et ne peut être confiée à des arbitres privés. Seule la partie civile (réparation du préjudice) peut éventuellement faire l'objet d'un accord amiable."
+      },
+      {
+        "id": "q38",
+        "question": "Un arbitre peut-il être récusé ? Sur quel fondement ?",
+        "choix": [
+          "A) Non, une fois désigné, l'arbitre ne peut jamais être récusé",
+          "B) Oui, si des doutes légitimes existent sur son impartialité ou son indépendance",
+          "C) Oui, mais uniquement si l'autre partie en fait la demande dans les 24 heures",
+          "D) Oui, uniquement si l'arbitre est le conjoint d'une des parties"
+        ],
+        "reponse": "B",
+        "indices": ["L'arbitre doit être indépendant et impartial", "Les doutes légitimes suffisent"],
+        "explication": "Un arbitre peut être récusé si des circonstances soulèvent des doutes légitimes sur son impartialité ou son indépendance, ou s'il ne possède pas les qualifications convenues. La récusation protège l'égalité des parties dans la procédure."
+      },
+      {
+        "id": "q39",
+        "question": "La négociation directe entre les parties se distingue des autres MARL par :",
+        "choix": [
+          "A) Son caractère contraignant pour les parties",
+          "B) L'intervention obligatoire d'un avocat",
+          "C) L'absence d'intervention d'un tiers",
+          "D) Sa durée limitée à 30 jours"
+        ],
+        "reponse": "C",
+        "indices": ["Dans la négociation, les parties agissent seules", "Pas de médiateur, pas d'arbitre"],
+        "explication": "La négociation directe se distingue de tous les autres MARL par l'absence d'intervention d'un tiers. Les parties règlent leur différend directement entre elles, sans médiateur, conciliateur ni arbitre."
+      },
+      {
+        "id": "q40",
+        "question": "Rasoanandrasana Voahangy, avocate au Barreau de Madagascar, est choisie comme arbitre par les deux parties à un litige commercial à Nosy-Be. Quelle obligation lui incombe avant d'accepter sa mission ?",
+        "choix": [
+          "A) Obtenir l'autorisation du Bâtonnier de l'Ordre des avocats",
+          "B) Révéler toute circonstance susceptible d'affecter son indépendance ou son impartialité",
+          "C) Démissionner provisoirement de son barreau",
+          "D) Obtenir l'accord du Tribunal de commerce de Nosy-Be"
+        ],
+        "reponse": "B",
+        "indices": ["L'arbitre a une obligation de transparence dès sa désignation", "L'indépendance est la valeur cardinale de l'arbitre"],
+        "explication": "Avant d'accepter sa mission, Rasoanandrasana doit révéler aux parties toute circonstance susceptible d'affecter son indépendance ou son impartialité (liens avec les parties, intérêts dans le litige, etc.). Cette obligation de révélation est fondamentale en droit de l'arbitrage."
+      },
+      {
+        "id": "q41",
+        "question": "La sentence arbitrale doit-elle être motivée selon le droit malgache ?",
+        "choix": [
+          "A) Non, la motivation est facultative si les parties y renoncent",
+          "B) Oui, la sentence doit toujours être motivée",
+          "C) Non, seules les sentences de plus de 10 millions d'ariary doivent être motivées",
+          "D) Oui, mais uniquement pour les arbitrages internationaux"
+        ],
+        "reponse": "B",
+        "indices": ["La motivation est une exigence de fond", "Elle permet le contrôle et protège les parties"],
+        "explication": "La sentence arbitrale doit être motivée. Elle doit exposer les raisons de droit et de fait qui fondent la décision des arbitres. La motivation est une condition de régularité de la sentence."
+      },
+      {
+        "id": "q42",
+        "question": "Qu'est-ce que la 'tierce opposition' en matière arbitrale ?",
+        "choix": [
+          "A) L'appel interjeté par une partie perdante",
+          "B) Le recours formé par un tiers dont les droits sont lésés par la sentence",
+          "C) L'intervention de la CCJA dans un arbitrage national",
+          "D) La demande de révision formée par un arbitre récusé"
+        ],
+        "reponse": "B",
+        "indices": ["Un 'tiers' est une personne qui n'était pas partie à l'arbitrage", "Ce tiers peut être lésé par la sentence"],
+        "explication": "La tierce opposition est le recours formé par un tiers — une personne qui n'était pas partie à la procédure arbitrale — dont les droits sont lésés par la sentence arbitrale. Elle permet à ce tiers de faire valoir ses droits."
+      },
+      {
+        "id": "q43",
+        "question": "Un hôtel de luxe à Nosy-Be conclut un contrat de gestion avec une chaîne hôtelière française. Le contrat prévoit l'arbitrage à Paris selon le règlement de la CCI. Ce contrat est exécuté à Nosy-Be. S'agit-il d'un arbitrage interne ou international ?",
+        "choix": [
+          "A) Interne, car le lieu d'exécution est à Madagascar",
+          "B) International, car il met en jeu des intérêts du commerce international",
+          "C) Interne, car l'hôtel est une société malgache",
+          "D) Mixte, soumis à la fois au droit malgache et au droit français"
+        ],
+        "reponse": "B",
+        "indices": ["Une partie est française, l'autre malgache", "Le critère d'internationalité retenu est économique"],
+        "explication": "Il s'agit d'un arbitrage international car le contrat met en jeu des intérêts du commerce international (partie française, flux économiques transfrontaliers). Le lieu d'exécution à Madagascar n'est pas le critère déterminant; c'est l'internationalité économique de l'opération qui prime."
+      },
+      {
+        "id": "q44",
+        "question": "En médiation judiciaire, qui prononce la décision de recourir à la médiation ?",
+        "choix": [
+          "A) Les parties, par accord mutuel sans intervention du juge",
+          "B) Le médiateur lui-même",
+          "C) Le juge saisi du litige, avec l'accord des parties",
+          "D) Le Procureur de la République"
+        ],
+        "reponse": "C",
+        "indices": ["La médiation judiciaire est ordonnée pendant l'instance", "Le juge garde un rôle de contrôle"],
+        "explication": "En médiation judiciaire, c'est le juge saisi du litige qui ordonne la médiation, avec l'accord des parties. Le juge désigne le médiateur et fixe un délai. L'instance est suspendue pendant la médiation."
+      },
+      {
+        "id": "q45",
+        "question": "Quelle est la principale différence entre un conciliateur et un médiateur au sens strict ?",
+        "choix": [
+          "A) Le conciliateur est toujours un magistrat, le médiateur peut être un simple particulier",
+          "B) Le conciliateur peut proposer des solutions, le médiateur ne fait que faciliter le dialogue",
+          "C) La médiation est payante, la conciliation est toujours gratuite",
+          "D) Le conciliateur tranche le litige, le médiateur propose seulement"
+        ],
+        "reponse": "B",
+        "indices": ["Il s'agit du niveau d'intervention du tiers", "L'un propose, l'autre facilite"],
+        "explication": "La distinction principale est que le conciliateur peut formuler des propositions de solution aux parties, alors que le médiateur (au sens strict) s'abstient de toute proposition et se contente de faciliter le dialogue. Dans les deux cas, les parties restent libres d'accepter ou de refuser."
+      },
+      {
+        "id": "q46",
+        "question": "Une clause compromissoire peut-elle être insérée dans un contrat de travail à Madagascar ?",
+        "choix": [
+          "A) Oui, librement comme dans tout contrat",
+          "B) Non, le droit du travail impose la conciliation devant l'inspecteur du travail",
+          "C) Oui, mais uniquement pour les cadres supérieurs",
+          "D) Non, les litiges du travail sont exclusivement de la compétence du Tribunal du travail"
+        ],
+        "reponse": "B",
+        "indices": ["Le droit du travail est protecteur du salarié", "La conciliation obligatoire est prévue par le Code du travail malgache"],
+        "explication": "En droit du travail malgache, la conciliation devant l'inspecteur du travail est obligatoire préalablement à tout recours au Tribunal du travail. L'arbitrabilité des litiges du travail est limitée par ces dispositions d'ordre public protectrices du salarié."
+      },
+      {
+        "id": "q47",
+        "question": "Rakotondrabe Fidy, entrepreneur à Diego-Suarez, signe un contrat avec un partenaire camerounais membre de l'OHADA. En cas de litige, quelle règle d'arbitrage est la plus adaptée pour bénéficier d'un cadre commun aux deux États ?",
+        "choix": [
+          "A) Le règlement de la CCI de Paris",
+          "B) Le règlement d'arbitrage CCJA",
+          "C) Le Code de procédure civile malgache",
+          "D) Le règlement de l'OHADA sur la médiation"
+        ],
+        "reponse": "B",
+        "indices": ["Les deux États sont membres de l'OHADA", "La CCJA est l'institution arbitrale de l'OHADA"],
+        "explication": "Puisque Madagascar et le Cameroun sont tous deux membres de l'OHADA, le Règlement d'arbitrage CCJA constitue le cadre le plus adapté : il offre un système partagé, reconnu dans les deux États, et les sentences CCJA sont exécutoires dans tout l'espace OHADA sans procédure nationale d'exequatur."
+      },
+      {
+        "id": "q48",
+        "question": "Quel est l'effet de la clause compromissoire sur la compétence du tribunal étatique ?",
+        "choix": [
+          "A) Le tribunal étatique reste compétent en parallèle de l'arbitrage",
+          "B) La clause compromissoire dessaisit le tribunal étatique au profit des arbitres",
+          "C) Le tribunal étatique est compétent uniquement pour les mesures provisoires",
+          "D) La clause n'a aucun effet sur la compétence du tribunal étatique"
+        ],
+        "reponse": "B",
+        "indices": ["La clause compromissoire crée une compétence exclusive des arbitres", "Le juge étatique ne peut pas statuer sur le fond si la clause est valable"],
+        "explication": "Une clause compromissoire valable dessaisit le tribunal étatique de sa compétence pour statuer au fond sur le litige. Si une partie saisit quand même le tribunal étatique, l'autre peut soulever l'incompétence du tribunal en invoquant la clause."
+      },
+      {
+        "id": "q49",
+        "question": "Quel est l'acte par lequel le Président du Tribunal de Première Instance rend exécutoire une sentence arbitrale interne malgache ?",
+        "choix": [
+          "A) Un arrêt",
+          "B) Un jugement contradictoire",
+          "C) Une ordonnance d'exequatur",
+          "D) Un décret ministériel"
+        ],
+        "reponse": "C",
+        "indices": ["Le Président du TPI statue seul, sans audience contradictoire", "L'acte d'un président de juridiction statuant seul"],
+        "explication": "L'exequatur d'une sentence arbitrale interne est accordé par ordonnance rendue par le Président du Tribunal de Première Instance compétent, statuant en matière gracieuse. Cette ordonnance confère à la sentence la force exécutoire."
+      },
+      {
+        "id": "q50",
+        "question": "La Convention de New York de 1958 permet-elle de refuser l'exequatur d'une sentence arbitrale étrangère à Madagascar si elle viole l'ordre public international malgache ?",
+        "choix": [
+          "A) Non, la Convention oblige à reconnaître toutes les sentences sans exception",
+          "B) Oui, la contrariété à l'ordre public international est un motif de refus prévu par la Convention",
+          "C) Seulement si la sentence a été rendue dans un État non membre de la Convention",
+          "D) Non, seule la CCJA peut refuser l'exequatur d'une sentence étrangère"
+        ],
+        "reponse": "B",
+        "indices": ["La Convention prévoit des motifs limitatifs de refus", "L'ordre public international en fait partie"],
+        "explication": "La Convention de New York de 1958 prévoit des motifs limitatifs de refus d'exequatur, parmi lesquels figure la contrariété de la sentence à l'ordre public international de l'État requis. À Madagascar, le juge peut refuser l'exequatur si la sentence heurte les principes fondamentaux de l'ordre juridique malgache."
+      }
+    ],
+    "cas_pratiques": [
+      {
+        "id": "cas_pratique_1",
+        "titre": "Litige commercial entre un exportateur de vanille de la région DIANA et un acheteur européen",
+        "enonce": "La société DIANA VANILLE SARL, dont le siège social est à Antsiranana, et dont le gérant est Andriamahefazafy Rivo, a conclu le 15 mars 2023 un contrat de vente de 5 tonnes de vanille bourbon avec la société EURO ARÔMES SA, société de droit belge basée à Bruxelles, pour un prix total de 250 000 euros. Le contrat contient la clause suivante : 'Tout différend relatif à l'exécution ou à l'interprétation du présent contrat sera définitivement réglé par voie d'arbitrage selon le Règlement d'arbitrage CCJA, le siège de l'arbitrage étant fixé à Antananarivo.'\n\nLe 10 août 2023, EURO ARÔMES SA refuse de payer la dernière tranche de 80 000 euros, invoquant une non-conformité des livraisons. DIANA VANILLE SARL conteste cette allégation et soutient avoir livré une vanille conforme aux spécifications contractuelles.\n\nFaute d'accord amiable, DIANA VANILLE SARL souhaite engager une procédure arbitrale.\n\n**Questions :**\n1. Qualifiez la convention d'arbitrage figurant dans le contrat. S'agit-il d'une clause compromissoire ou d'un compromis ? Justifiez.\n2. Cet arbitrage est-il interne ou international ? Précisez les critères applicables.\n3. Quel règlement d'arbitrage s'applique et quelle est l'institution compétente ?\n4. Décrivez les étapes de la procédure arbitrale jusqu'à la sentence.\n5. Comment DIANA VANILLE SARL pourra-t-elle faire exécuter la sentence en Belgique si EURO ARÔMES SA ne s'exécute pas volontairement ?",
+        "corrige": {
+          "question_1": "La convention d'arbitrage figurant dans le contrat est une **clause compromissoire**. En effet, elle a été stipulée dans le contrat principal (le 15 mars 2023) **avant la naissance du litige** (survenu en août 2023). Elle anticipe les différends futurs susceptibles de naître de l'exécution ou de l'interprétation du contrat. Il s'agit bien d'une clause compromissoire et non d'un compromis, lequel n'aurait pu être conclu qu'après la survenance du différend en août 2023, pour viser ce litige précis.",
+
+          "question_2": "Cet arbitrage est **international**. L'AUA OHADA retient le critère économique de l'internationalité : l'arbitrage est international lorsque le contrat en cause met en œuvre un mouvement de biens, de services ou de capitaux à travers au moins deux États. En l'espèce, le contrat porte sur la vente de vanille entre une société malgache et une société belge, avec un flux économique transfrontalier (paiement en euros de Belgique vers Madagascar, livraison de Madagascar vers la Belgique ou à destination belge). Les intérêts du commerce international sont clairement en jeu.",
+
+          "question_3": "La clause désigne expressément le **Règlement d'arbitrage CCJA** comme règlement applicable. L'institution compétente est donc la **Cour Commune de Justice et d'Arbitrage (CCJA)**, dont le siège est à Abidjan. La CCJA administrera la procédure selon son Règlement : elle contrôlera la composition du tribunal arbitral, supervisera la procédure, scrutinera la sentence avant signature. Puisque Madagascar est État partie à l'OHADA, l'application de ce règlement est cohérente et valide.",
+
+          "question_4": "Étapes de la procédure arbitrale CCJA :\n1. **Saisine de la CCJA** : DIANA VANILLE SARL dépose une requête d'arbitrage auprès du Secrétariat de la CCJA, précisant les parties, l'objet du litige (80 000 euros impayés) et la convention d'arbitrage.\n2. **Constitution du tribunal arbitral** : Les parties désignent leurs arbitres. Un collège de trois arbitres peut être constitué si les parties le souhaitent ou si la CCJA le juge approprié. À défaut d'accord, la CCJA procède aux désignations nécessaires.\n3. **Instruction** : Échange de mémoires (demande, défense, réplique, duplique), production des pièces (contrat, bons de livraison, correspondances, rapports d'expertise sur la conformité de la vanille).\n4. **Expertise éventuelle** : Le tribunal peut ordonner une expertise sur la conformité de la vanille livrée.\n5. **Audience** : Les parties peuvent être entendues oralement.\n6. **Délibéré et sentence** : Le tribunal arbitral délibère et rend sa sentence. La CCJA examine la sentence avant signature pour en vérifier la forme.\n7. **Notification** : La sentence est notifiée aux parties.",
+
+          "question_5": "Pour faire exécuter la sentence en Belgique, DIANA VANILLE SARL bénéficiera de la **Convention de New York du 10 juin 1958**, à laquelle la Belgique est partie. La procédure est la suivante : DIANA VANILLE SARL saisira la juridiction belge compétente d'une demande de reconnaissance et d'exequatur de la sentence arbitrale. Elle devra produire la sentence originale (ou copie certifiée conforme) et la convention d'arbitrage. La juridiction belge vérifiera l'absence de motifs de refus (incapacité des parties, convention invalide, violation du contradictoire, dépassement de mission, sentence non obligatoire, contrariété à l'ordre public). Si aucun motif de refus n'est établi, l'exequatur sera accordé et la sentence sera exécutoire en Belgique comme un jugement belge."
+        }
+      },
+      {
+        "id": "cas_pratique_2",
+        "titre": "Médiation d'un conflit entre associés dans une société de transport à Nosy-Be",
+        "enonce": "Rakotomalala Nivo et Randrianarisoa Fara sont associés à égalité dans la société NOSY-BE TRANSPORT SARL, société de transport de passagers entre Nosy-Be et Antsiranana. Un grave différend les oppose depuis six mois sur la stratégie de développement de la société : Nivo souhaite acquérir deux nouveaux bateaux à crédit, Fara s'y oppose et souhaite distribuer les bénéfices accumulés.\n\nLes rapports entre les deux associés se sont détériorés au point que la société est paralysée. Leur avocat, Maître Rasolofonirina, leur suggère de recourir à la médiation commerciale avant d'engager une procédure judiciaire en dissolution de la société.\n\nLes deux associés acceptent le principe et signent une convention de médiation le 5 janvier 2024. Ils désignent comme médiateur Razafindrabe Haja, expert-comptable reconnu à Antsiranana, qui accepte la mission.\n\n**Questions :**\n1. Quelle est la base légale de cette médiation à Madagascar ?\n2. Quelles sont les obligations du médiateur Razafindrabe Haja dans l'exercice de sa mission ?\n3. Décrivez les phases du processus de médiation dans ce cas précis.\n4. Si les parties parviennent à un accord, comment cet accord peut-il être rendu opposable à des tiers et exécutoire ?\n5. Si la médiation échoue, Maître Rasolofonirina envisage une procédure judiciaire en dissolution de la société. Peut-il encore invoquer un MARL à ce stade ? Lequel ?",
+        "corrige": {
+          "question_1": "La base légale de cette médiation à Madagascar est la **Loi n° 2003-025 du 5 septembre 2003 relative à la médiation commerciale à Madagascar**. Cette loi définit la médiation commerciale, fixe les conditions d'exercice de la mission du médiateur et détermine les effets de l'accord de médiation. Elle s'applique en l'espèce car le différend oppose des associés dans le cadre de l'exercice d'une activité commerciale (transport de passagers).",
+
+          "question_2": "Les obligations du médiateur Razafindrabe Haja sont :\n- **Indépendance et impartialité** : Il doit traiter les deux associés de manière strictement égale, sans favoriser l'un ou l'autre. Il doit révéler tout lien personnel ou professionnel avec l'une des parties susceptible d'affecter son impartialité.\n- **Neutralité** : Il ne prend pas parti pour l'une des positions et ne formule pas de jugement sur le fond du différend.\n- **Confidentialité** : Il est tenu au secret professionnel sur tout ce qui lui est communiqué dans le cadre de la médiation. Ce qu'une partie lui confie en session individuelle (caucus) ne peut être révélé à l'autre sans son accord.\n- **Diligence** : Il conduit la procédure avec célérité et dans le délai fixé par la convention de médiation.\n- **Absence de pouvoir décisionnel** : Il ne peut pas imposer de solution ; son rôle est exclusivement facilitative.",
+
+          "question_3": "Déroulement de la médiation entre Nivo et Fara :\n1. **Séance d'ouverture** : Razafindrabe explique les règles du processus (neutralité, confidentialité, liberté de quitter la médiation), recueille l'accord des parties sur ces règles.\n2. **Expression des positions** : Nivo expose sa vision (acquisition de bateaux pour développer la société), Fara exprime ses réserves (risque financier, préférence pour la distribution des bénéfices). Le médiateur écoute sans interrompre ni juger.\n3. **Exploration des intérêts** : Le médiateur aide chacun à dépasser sa position pour identifier ses intérêts réels. Nivo veut développer la société (croissance, part de marché). Fara veut sécuriser ses revenus personnels (préoccupations financières personnelles peut-être liées à un autre investissement). Ces intérêts ne sont pas nécessairement incompatibles.\n4. **Sessions individuelles (caucus)** : Le médiateur rencontre chaque associé séparément pour explorer plus librement ses préoccupations profondes et options de règlement.\n5. **Génération de solutions** : Les parties explorent ensemble des solutions créatives (acquisition d'un seul bateau + distribution partielle des bénéfices, entrée d'un nouvel associé investisseur, cession de parts de l'un à l'autre, etc.).\n6. **Négociation et accord** : Les parties s'accordent sur une solution équilibrée.",
+
+          "question_4": "Si un accord est trouvé, il est formalisé dans un **accord de médiation écrit**, signé par les deux associés et contresigné par le médiateur. Cet accord a la force d'un contrat entre les parties. Pour le rendre opposable aux tiers et lui conférer force exécutoire, les parties peuvent le soumettre à **l'homologation du Tribunal de Commerce compétent**. Le tribunal vérifie la régularité de l'accord (capacité des parties, objet licite, consentement) sans réexaminer le fond. L'ordonnance d'homologation confère à l'accord la valeur d'un jugement et lui donne force exécutoire, ce qui permettra une exécution forcée si l'une des parties ne respecte pas l'accord.",
+
+          "question_5": "Si la médiation échoue et que la procédure judiciaire est engagée, Maître Rasolofonirina peut encore invoquer la **conciliation judiciaire**. En effet, dans le cadre d'une action en dissolution de société, le juge peut, avec l'accord des parties, ordonner une médiation judiciaire (la médiation peut donc reprendre sous l'autorité du juge) ou tenter lui-même une conciliation. La conciliation judiciaire diffère de la médiation en ce que le juge peut proposer des bases d'accord et que le procès-verbal de conciliation a immédiatement force exécutoire. Cette dernière tentative amiable, même en cours d'instance, peut permettre d'éviter une dissolution judiciaire préjudiciable aux deux associés et aux salariés de NOSY-BE TRANSPORT SARL."
+        }
+      }
+    ]
+  }
+}
