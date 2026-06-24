@@ -1,0 +1,524 @@
+{
+  "niveau": 2,
+  "niveau_label": "Intermédiaire",
+  "module": 19,
+  "titre": "Les successions et libéralités",
+  "description": "Ce module explore ce qui se passe quand une personne décède : qui hérite, comment, dans quel ordre, et comment elle peut de son vivant organiser la transmission de ses biens par testament ou donation. Le tout ancré dans la loi malgache n°68-012 du 4 juillet 1968 et ses spécificités culturelles profondes.",
+  "duree_estimee": "50 minutes",
+  "source_legale": "Loi n°68-012 du 4 juillet 1968 relative aux successions, testaments et donations (J.O. n°598 du 13 juillet 1968) — droit civil malgache",
+
+  "lecon": {
+    "introduction": "Quand une personne décède à Antsiranana, que devient sa maison ? Ses économies ? Sa boutique ? Ses dettes ? Et si elle avait promis sa parcelle à son fils aîné mais rien écrit ? Ou si elle avait rédigé un testament en faveur de son ami proche plutôt que de ses enfants ? Ces questions touchent chaque famille malgache. Le droit des successions et des libéralités répond à toutes ces questions — en tenant compte à la fois des règles juridiques modernes et des valeurs traditionnelles malgaches comme le masi-mandidy.",
+
+    "parties": [
+      {
+        "id": "P1",
+        "titre": "Notions fondamentales : la succession, ses conditions et son ouverture",
+        "contenu": "UNE SUCCESSION, C'EST QUOI ?\n\nUne succession est la transmission du patrimoine (biens, droits et obligations) d'une personne décédée à ses héritiers. Le défunt s'appelle le DE CUJUS (locution latine signifiant «celui dont il est question»). L'ensemble de ce qu'il laisse — actifs et passifs — forme la MASSE SUCCESSORALE.\n\nLA SUCCESSION S'OUVRE :\n• Au moment du décès du de cujus\n• Au lieu de son dernier domicile (art. 1 loi 68-012)\n\nC'est important : c'est le tribunal du dernier domicile du défunt qui est compétent pour régler les litiges successoraux.\n\nQUI PEUT HÉRITER ? LES CONDITIONS (art. 3-8) :\n\nPour recueillir une succession, l'héritier doit :\n1. EXISTER au moment de l'ouverture de la succession (être vivant ou déjà conçu — un enfant conçu mais pas encore né peut hériter s'il naît viable, art. 4)\n2. Ne pas être INDIGNE de succéder\n\nL'INDIGNITÉ SUCCESSORALE (art. 5-8) :\nCertaines personnes sont exclues de la succession pour cause d'indignité. Est indigne :\n• Celui qui a été condamné pour avoir volontairement donné la mort ou tenté de donner la mort au défunt\n• Celui qui a porté contre le défunt une accusation capitale jugée calomnieuse\n• Celui qui a contraint le défunt à faire ou révoquer un testament par violence ou fraude\n\nL'indignité n'est pas automatique : elle doit être prononcée par le tribunal. Les descendants de l'indigne peuvent néanmoins hériter à sa place (représentation).\n\nLA TRANSMISSION DE PLEIN DROIT (art. 68) :\nC'est une particularité forte du droit malgache : «Dès l'ouverture de la succession, celle-ci est transmise de plein droit aux héritiers.» Il n'est besoin d'AUCUNE formalité, d'aucun envoi en possession. Les héritiers deviennent propriétaires instantanément au décès, sans procédure préalable.",
+
+        "exemple_concret": "Monsieur ANDRIANTSOA décède à Antsiranana le 15 mars. Dès le 15 mars à l'heure du décès, ses héritiers légaux deviennent automatiquement propriétaires de ses biens. Personne n'a besoin d'aller au tribunal pour «prendre possession» de la succession. C'est la transmission de plein droit malgache — simple et directe, fidèle à la tradition."
+      },
+      {
+        "id": "P2",
+        "titre": "La succession légale : qui hérite en l'absence de testament ?",
+        "contenu": "Quand le défunt n'a laissé aucun testament — ou seulement un testament partiel — c'est la LOI qui désigne les héritiers. C'est la succession ab intestat (sans testament). L'article 16 de la loi 68-012 organise 9 classes de successibles en ordre de préférence.\n\nLE PRINCIPE DE DÉVOLUTION PRÉFÉRENTIELLE :\nLes héritiers d'une classe plus proche excluent totalement ceux des classes suivantes. Si des héritiers de la 1ère classe existent, la 2ème classe ne reçoit rien.\n\nLES 9 CLASSES D'HÉRITIERS (art. 16) :\n\n• 1ère classe : les ENFANTS du défunt et leurs descendants\n• 2ème classe : le PÈRE et la MÈRE du défunt\n• 3ème classe : les FRÈRES ET SŒURS du défunt et leurs descendants\n• 4ème classe : les GRANDS-PARENTS (aïeux et aïeules)\n• 5ème classe : les ONCLES ET TANTES\n• 6ème classe : les COUSINS GERMAINS\n• 7ème classe : les autres PARENTS jusqu'au 6ème degré\n• 8ème classe : le CONJOINT SURVIVANT (époux/épouse)\n• 9ème classe : l'ÉTAT\n\nATTENTION — SPÉCIFICITÉ MALGACHE IMPORTANTE :\nLe conjoint survivant est en 8ème position — bien après les enfants, parents, frères et sœurs, grands-parents, oncles, tantes et cousins ! C'est une différence majeure avec d'autres systèmes juridiques. Une proposition de loi récente (2021) vise à remonter le conjoint à la 3ème place mais n'a pas encore été adoptée.\n\nLES ENFANTS (art. 17) :\nLa 1ère classe comprend tous les enfants dont la filiation est légalement établie : enfants légitimes, naturels reconnus, adoptifs. Les enfants héritent à parts ÉGALES, sans distinction de sexe (art. 18). C'est le principe d'égalité entre enfants, consacré par la loi malgache.\n\nLA REPRÉSENTATION (art. 23-28) :\nSi un héritier est décédé avant le de cujus, ses propres descendants «prennent sa place» et héritent à sa place. C'est la représentation. Exemple : si le fils aîné est décédé, ses enfants (petits-enfants du de cujus) héritent de la part qui aurait dû revenir à leur père.\n\nL'INDIVISION SUCCESSORALE (art. 70-76) :\nQuand plusieurs héritiers recueillent la succession ensemble, les biens sont en INDIVISION : ils appartiennent indistinctement à tous, sans parts matériellement délimitées. Chaque indivisaire peut à tout moment demander le PARTAGE (art. 77). Personne ne peut être contraint à rester en indivision indéfiniment.",
+
+        "exemple_concret": "Madame RASOA décède sans testament à Diego Suarez. Elle laisse :\n• 2 enfants (Hery et Fanja)\n• Son mari (Rakoto)\n• Ses parents (encore vivants)\n• 3 frères et sœurs\n\nQui hérite ? Les ENFANTS (1ère classe) prennent tout — à parts égales : 50% Hery, 50% Fanja. Le mari Rakoto (8ème classe), les parents (2ème classe) et les frères et sœurs (3ème classe) ne reçoivent RIEN. La dévolution préférentielle est absolue."
+      },
+      {
+        "id": "P3",
+        "titre": "Le testament : organiser soi-même la transmission de ses biens",
+        "contenu": "Le TESTAMENT est l'acte par lequel une personne (le testateur) fait connaître ses dernières volontés, notamment la destination de ses biens après sa mort. C'est une libéralité — un acte de générosité — mais à effet différé : il ne produit ses effets qu'au décès du testateur.\n\nLE PRINCIPE DU MASI-MANDIDY :\nC'est le principe fondateur du droit successoral malgache, affirmé depuis le règne d'Andrianampoinimerina : toute personne peut librement disposer de ses biens par testament. Ce principe de liberté testamentaire est profondément ancré dans la culture malgache.\n\nCONDITIONS DE VALIDITÉ DU TESTAMENT (art. 36-40) :\nPour être valide, un testament doit être fait par une personne :\n• Ayant la CAPACITÉ JURIDIQUE (majeur ou mineur émancipé)\n• SAINE D'ESPRIT au moment de la rédaction\n• Sans VICE DE CONSENTEMENT (pas de violence, fraude ou erreur)\n\nLES FORMES DU TESTAMENT (art. 41-67) :\nLa loi 68-012 reconnaît plusieurs formes de testament :\n\n1. LE TESTAMENT OLOGRAPHE (art. 41-46) :\nC'est le plus simple et le plus courant. Il doit être :\n• ENTIÈREMENT ÉCRIT à la main par le testateur (pas de frappe, pas de dictée)\n• DATÉ avec précision (jour, mois, année)\n• SIGNÉ du testateur\nPas besoin de notaire, pas de témoin. Mais le risque : perte, destruction, contestation.\n\n2. LE TESTAMENT PAR ACTE PUBLIC (notarié, art. 47-57) :\nDicté par le testateur devant un notaire et deux témoins (ou deux notaires). Le notaire le rédigé, le lit, le fait signer. Plus sûr juridiquement : le notaire le conserve et en délivre des copies. Moins courant à Madagascar en raison du coût.\n\n3. LE TESTAMENT MYSTIQUE (art. 58-67) :\nLe testateur remet au notaire, en présence de deux témoins, un document cacheté contenant ses dispositions. Le notaire en dresse acte. Le contenu reste secret jusqu'au décès.\n\nLA RÉVOCATION DU TESTAMENT (art. 99-104) :\nLe testament peut être révoqué à tout moment par le testateur :\n• Par un testament postérieur qui le révoque expressément\n• Par un acte notarié de révocation\n• Par la destruction matérielle volontaire du testament olographe\nUn testament plus récent révoque automatiquement les dispositions incompatibles avec un testament antérieur.",
+
+        "exemple_concret": "Monsieur ANDRIAMANANA, 65 ans, veut laisser sa maison à son neveu préféré plutôt qu'à ses enfants. Il rédige un testament olographe : il l'écrit entièrement à la main, le date du «20 octobre 2024» et le signe. C'est valide. Mais attention : la loi protège les enfants (héritiers réservataires). M. ANDRIAMANANA ne peut pas tout donner à son neveu — la quotité disponible est limitée. Il peut seulement léguer la part qui n'est pas réservée à ses enfants."
+      },
+      {
+        "id": "P4",
+        "titre": "La réserve héréditaire et la quotité disponible : les limites à la liberté testamentaire",
+        "contenu": "La liberté testamentaire (masi-mandidy) a des LIMITES. La loi protège certains héritiers proches — les HÉRITIERS RÉSERVATAIRES — en leur garantissant une part minimale de la succession qu'on ne peut pas leur retirer, même par testament.\n\nQUI SONT LES HÉRITIERS RÉSERVATAIRES ? (art. 105-115) :\n\nÀ Madagascar, SEULS LES ENFANTS (descendants) sont héritiers réservataires.\nLe conjoint survivant N'EST PAS héritier réservataire — c'est une différence importante avec d'autres droits.\n\nLA RÉSERVE HÉRÉDITAIRE :\nC'est la part minimale garantie aux enfants, que le testateur ne peut pas toucher :\n• 1 enfant : la réserve est de la MOITIÉ de la succession\n• 2 enfants : la réserve est des DEUX TIERS de la succession\n• 3 enfants ou plus : la réserve est des TROIS QUARTS de la succession\n\nLA QUOTITÉ DISPONIBLE :\nC'est la part que le testateur peut librement léguer à qui il veut (un ami, une association, un neveu, son conjoint) :\n• 1 enfant → quotité disponible = 1/2\n• 2 enfants → quotité disponible = 1/3\n• 3 enfants ou plus → quotité disponible = 1/4\n\nL'ACTION EN RÉDUCTION (art. 113-115) :\nSi un testament ou une donation empiète sur la réserve, les héritiers réservataires peuvent agir en RÉDUCTION pour récupérer leur part. Cette action doit être exercée dans les délais légaux. Le bénéficiaire du legs excessif doit restituer ce qui dépasse la quotité disponible.",
+
+        "exemple_concret": "VOLASOA décède à Antsiranana. Elle laisse :\n• 2 enfants\n• Un ami très cher à qui elle a légué 80% de ses biens par testament\n• Des biens totaux évalués à 60.000.000 Ar\n\nPROBLÈME : avec 2 enfants, la réserve = 2/3 = 40.000.000 Ar. La quotité disponible = 1/3 = 20.000.000 Ar.\n\nOr VOLASOA a légué 80% = 48.000.000 Ar à son ami. Elle dépasse de 28.000.000 Ar la quotité disponible.\n\nRÉSULTAT : les enfants exercent une action en réduction. L'ami ne conserve que 20.000.000 Ar (la quotité disponible). Les 40.000.000 Ar restants sont partagés entre les deux enfants (20.000.000 Ar chacun)."
+      },
+      {
+        "id": "P5",
+        "titre": "Les legs : les différentes façons de léguer par testament",
+        "contenu": "Dans un testament, le testateur peut faire des LEGS — des libéralités à cause de mort désignant précisément ce qu'il veut transmettre et à qui.\n\nTROIS TYPES DE LEGS (art. 80-98) :\n\n1. LE LEGS UNIVERSEL (art. 80-85) :\nLe testateur lègue à une personne (le légataire universel) la TOTALITÉ de ce qu'il laissera à son décès ou la totalité de la quotité disponible s'il y a des héritiers réservataires.\nExemple : «Je lègue tous mes biens à ma nièce Fanja.»\n\n2. LE LEGS À TITRE UNIVERSEL (art. 86-91) :\nLe testateur lègue une FRACTION de sa succession ou tous ses biens d'une certaine catégorie.\nExemples :\n• «Je lègue la moitié de mes biens à mon ami Hery.\"\n• «Je lègue tous mes immeubles à l'association X.\"\n\n3. LE LEGS PARTICULIER (art. 92-98) :\nLe testateur lègue un ou des BIENS PRÉCISÉMENT DÉTERMINÉS à une personne.\nExemple : «Je lègue ma maison de Diego Suarez à mon neveu Rakoto.\"\n«Je lègue ma voiture Toyota à ma filleule Soa.\"\n\nL'ORDRE DE PAIEMENT DES LEGS (art. 94) :\nSi la succession est insuffisante pour payer tous les legs, on suit l'ordre prévu par le testateur. Sinon, les legs particuliers sont payés en premier (ils portent sur des biens déterminés), puis les legs à titre universel, puis le legs universel.\n\nLE LÉGATAIRE ET SON DROIT (art. 68 et s.) :\nComme les héritiers légaux, le légataire universel reçoit la succession de plein droit. Il peut être tenu au paiement des dettes successorales dans la limite de ce qu'il reçoit.",
+
+        "exemple_concret": "Testament de HERY :\n«Je lègue ma maison à ma sœur Rasoa (legs particulier). Je lègue la moitié de mes autres biens à mon association préférée CDI DIEGO (legs à titre universel). Le reste ira à mon fils (legs universel résiduel).\"\n\nSa maison vaut 30.000.000 Ar. Ses autres biens valent 20.000.000 Ar. Résultat :\n• Rasoa reçoit la maison (30.000.000 Ar)\n• CDI DIEGO reçoit 10.000.000 Ar (moitié des autres biens)\n• Le fils reçoit les 10.000.000 Ar restants\nLes legs sont exécutés dans l'ordre, sous réserve de la réserve héréditaire si le fils est enfant du défunt."
+      },
+      {
+        "id": "P6",
+        "titre": "Les donations : transmettre de son vivant",
+        "contenu": "Contrairement au testament qui produit effet à la mort, la DONATION est une libéralité consentie et exécutée DU VIVANT du donateur. Donner maintenant, pas après la mort.\n\nDÉFINITION ET CONDITIONS (art. 116-128) :\nLa donation est un acte par lequel une personne (le donateur) transfère gratuitement la propriété d'un bien à une autre personne (le donataire) qui l'accepte. Deux conditions essentielles :\n• INTENTION DE DONNER (animus donandi) : le donateur agit sans contrepartie\n• APPAUVRISSEMENT DU DONATEUR et ENRICHISSEMENT DU DONATAIRE\n\nFORMES DE DONATION :\n\n1. LA DONATION PAR ACTE NOTARIÉ :\nPour les donations d'immeubles ou de valeurs importantes, l'acte notarié est requis pour l'opposabilité aux tiers et pour la sécurité juridique.\n\n2. LE DON MANUEL (art. 116) :\nLa loi malgache reconnaît expressément la validité du don manuel — la donation réalisée par remise matérielle du bien de la main à la main. Applicable aux meubles corporels (argent en espèces, bijoux, véhicule).\nPas besoin d'acte écrit pour le don manuel, mais la preuve peut être délicate.\n\n3. LA DONATION DÉGUISÉE :\nUne donation «cachée» sous l'apparence d'un acte à titre onéreux (vente à un prix dérisoire, fausse dette). Elle peut être valide si l'intention libérale est prouvée, mais elle est suspecte et peut être annulée.\n\nLES RÈGLES IMPÉRATIVES SUR LES DONATIONS :\n\n• Une donation ne peut pas empiéter sur la RÉSERVE HÉRÉDITAIRE (mêmes règles qu'un testament). Si c'est le cas, les héritiers peuvent agir en réduction.\n\n• Le RAPPORT DES DONATIONS (art. 108-112) : les donations reçues par un héritier de son vivant doivent être «rapportées» à la masse successorale au décès du donateur pour assurer l'égalité entre cohéritiers. Autrement dit : la donation anticipée est imputée sur sa part d'héritage.\n\nLES CAUSES DE RÉVOCATION DES DONATIONS (art. 123-128) :\nContrairement au testament révocable à tout moment, la donation est en principe IRRÉVOCABLE. Mais la loi admet des causes limitatives de révocation :\n• Pour INEXÉCUTION DES CHARGES : si la donation était conditionnelle et le donataire n'a pas rempli ses obligations\n• Pour INGRATITUDE (art. 124) : si le donataire a tenté de donner la mort au donateur, a commis des voies de fait graves, ou a refusé des aliments au donateur dans le besoin\n• Pour SURVENANCE D'ENFANT (art. 125) : si la donation a été faite sans enfants et qu'un enfant naît après — la donation peut être révoquée de plein droit",
+
+        "exemple_concret": "Deux situations à Antsiranana :\n\nSituation 1 — DON MANUEL VALIDE :\nMadame JOSIANE remet 500.000 Ar en espèces à sa petite-fille Soa pour ses études, de la main à la main. C'est un don manuel valide, sans aucun écrit nécessaire. Mais si Soa nie l'avoir reçu, Madame JOSIANE aura du mal à le prouver.\n\nSituation 2 — RÉVOCATION POUR INGRATITUDE :\nMonsieur FENO donne sa boutique à son neveu MAMY. Quelques années plus tard, MAMY refuse de l'aider quand il est ruiné et dans le besoin, bien qu'il en ait les moyens. FENO peut demander au tribunal la révocation de la donation pour cause d'ingratitude (art. 124). S'il obtient gain de cause, la boutique lui revient."
+      },
+      {
+        "id": "P7",
+        "titre": "Le partage successoral et le règlement de la succession",
+        "contenu": "Quand plusieurs héritiers recueillent la succession, ils sont en INDIVISION. Mais cette situation est temporaire — chacun peut sortir de l'indivision.\n\nLE DROIT AU PARTAGE (art. 77) :\n«Chacun des cohéritiers peut en tout temps exiger qu'il soit procédé au partage des biens successoraux.» C'est un droit ABSOLU. Personne ne peut être contraint à rester en indivision indéfiniment. Même une clause du testament interdisant le partage pendant un certain temps ne peut excéder 5 ans.\n\nDEUX TYPES DE PARTAGE :\n\n1. LE PARTAGE AMIABLE :\nLes héritiers s'accordent eux-mêmes sur la répartition des biens. C'est la voie la plus simple, la plus rapide, la moins coûteuse. Ils peuvent faire appel à un notaire pour authentifier le partage et le rendre opposable aux tiers.\n\n2. LE PARTAGE JUDICIAIRE :\nSi les héritiers ne s'accordent pas, l'un d'eux saisit le tribunal. Le juge nomme généralement un notaire-liquidateur qui :\n• Inventorie tous les biens\n• Évalue les actifs et passifs\n• Propose un projet de partage\n• Le soumet aux héritiers et au juge pour homologation\n\nL'ADMINISTRATEUR PROVISOIRE DE SUCCESSION (art. 72) :\nEn attendant le partage, les indivisaires peuvent désigner un ADMINISTRATEUR PROVISOIRE pour gérer les biens communs. C'est obligatoire pour les terres agricoles (loi n°66-025 du 19 décembre 1966).\n\nLES DETTES DE LA SUCCESSION :\nLes héritiers ne reçoivent pas que les actifs — ils héritent aussi des DETTES du défunt, dans la limite de l'actif successoral. Un héritier peut :\n• ACCEPTER la succession : il reçoit les actifs et supporte les dettes (jusqu'à concurrence de l'actif reçu)\n• Aucun héritier ne peut être contraint de payer les dettes du défunt sur ses propres biens personnels si elles dépassent l'actif — le principe de la limitation aux forces de la succession protège les héritiers.",
+
+        "exemple_concret": "Les 3 enfants de feu Monsieur ANDRIANTOVO héritent de :\n• Une maison à Diego Suarez (valeur : 50.000.000 Ar)\n• Un compte bancaire (10.000.000 Ar)\n• Une dette envers la BOA (8.000.000 Ar)\n\nMasse nette = 60.000.000 − 8.000.000 = 52.000.000 Ar\nPart de chaque enfant = 52.000.000 / 3 = 17.333.333 Ar\n\nSi les 3 enfants ne s'accordent pas sur qui prend la maison, l'un d'eux peut saisir le tribunal pour un partage judiciaire. Le juge nommera un notaire-liquidateur qui proposera soit une attribution avec soulte (compensation financière), soit une vente de la maison et répartition du prix."
+      }
+    ],
+
+    "resume": "La loi n°68-012 du 4 juillet 1968 organise les successions, testaments et donations à Madagascar. La succession s'ouvre au décès et se transmet de plein droit aux héritiers (art. 68) — sans formalité. En l'absence de testament, 9 classes d'héritiers s'appellent dans l'ordre (art. 16), les enfants étant en premier, le conjoint en 8ème. Le testament (olographe, notarié ou mystique) permet de déroger à cet ordre, dans le respect de la réserve héréditaire garantie aux enfants : 1/2, 2/3 ou 3/4 selon leur nombre. Les donations, faites du vivant, sont irrévocables sauf ingratitude, inexécution des charges ou survenance d'enfant. Tous les héritiers peuvent exiger le partage à tout moment.",
+
+    "points_cles": [
+      "Loi n°68-012 du 4 juillet 1968 : texte de référence des successions à Madagascar",
+      "Art. 68 : transmission de plein droit — aucune formalité préalable",
+      "Art. 16 : 9 classes d'héritiers — dévolution préférentielle",
+      "Le conjoint survivant est en 8ème position (pas héritier réservataire)",
+      "Art. 17-18 : tous les enfants héritent à parts égales — sans distinction de sexe",
+      "Art. 23-28 : représentation — les descendants d'un héritier prédécédé prennent sa place",
+      "Art. 77 : droit absolu au partage — personne ne peut rester en indivision de force",
+      "Testament olographe : entièrement manuscrit, daté, signé (art. 41-46)",
+      "Principe du masi-mandidy : liberté testamentaire fondamentale en droit malgache",
+      "Réserve héréditaire : 1/2 (1 enfant), 2/3 (2 enfants), 3/4 (3 enfants ou plus)",
+      "Don manuel : donation par remise de main à main, valide à Madagascar (art. 116)",
+      "Révocation des donations : ingratitude (art. 124), inexécution des charges, survenance d'enfant (art. 125)"
+    ]
+  },
+
+  "quiz": {
+    "instructions": "50 questions pour tester votre maîtrise du module. Une seule bonne réponse par question.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Quel est le texte de référence du droit des successions à Madagascar ?",
+        "options": ["La loi n°66-003 du 2 juillet 1966", "La loi n°68-012 du 4 juillet 1968", "Le Code de commerce de 2003", "La loi n°2020-011"],
+        "reponse_correcte": 1,
+        "explication": "La loi n°68-012 du 4 juillet 1968 relative aux successions, testaments et donations est le texte fondamental régissant le droit successoral malgache. Elle a été publiée au Journal Officiel n°598 du 13 juillet 1968."
+      },
+      {
+        "id": 2,
+        "question": "Quand s'ouvre une succession à Madagascar ?",
+        "options": ["Quand le testament est lu", "Au moment du décès du de cujus, au lieu de son dernier domicile", "Quand les héritiers se réunissent", "Quand la justice est saisie"],
+        "reponse_correcte": 1,
+        "explication": "L'article 1 de la loi 68-012 : la succession s'ouvre au moment du décès, au lieu du dernier domicile du défunt. C'est ce lieu qui détermine la compétence territoriale du tribunal en cas de litige successoral."
+      },
+      {
+        "id": 3,
+        "question": "Qu'est-ce que la transmission de plein droit prévue à l'article 68 ?",
+        "options": ["Les héritiers doivent demander au tribunal de les mettre en possession", "Dès l'ouverture de la succession, elle est transmise automatiquement aux héritiers sans formalité préalable", "La succession est transmise après publication dans un journal officiel", "Les héritiers doivent accepter formellement devant notaire"],
+        "reponse_correcte": 1,
+        "explication": "L'article 68 est fondamental : «Dès l'ouverture de la succession, celle-ci est transmise de plein droit aux héritiers.» Il n'est besoin d'aucune procédure, d'aucun envoi en possession. Les héritiers deviennent propriétaires instantanément au décès."
+      },
+      {
+        "id": 4,
+        "question": "Un enfant conçu mais pas encore né au décès de son père peut-il hériter ?",
+        "options": ["Non, il faut être né pour hériter", "Oui, s'il naît vivant et viable (art. 4 loi 68-012)", "Oui, automatiquement dès la conception", "Non, seulement les enfants majeurs peuvent hériter"],
+        "reponse_correcte": 1,
+        "explication": "L'article 4 de la loi 68-012 reconnaît la capacité successorale de l'enfant conçu mais non encore né, à condition qu'il naisse vivant et viable. C'est l'adage «infans conceptus pro nato habetur»."
+      },
+      {
+        "id": 5,
+        "question": "L'indignité successorale est-elle automatique dès la condamnation pénale ?",
+        "options": ["Oui, elle est automatique", "Non, elle doit être expressément prononcée par le tribunal civil", "Oui, mais seulement pour les crimes graves", "Non, elle résulte d'un accord entre héritiers"],
+        "reponse_correcte": 1,
+        "explication": "L'indignité successorale (art. 5-8) n'est pas automatique — elle doit être prononcée par le tribunal civil. Un héritier condamné pénalement pour avoir voulu tuer le défunt peut donc encore hériter si aucune action en indignité n'est intentée."
+      },
+      {
+        "id": 6,
+        "question": "Selon l'article 16, dans quel ordre les 9 classes d'héritiers sont-elles appelées à succéder ?",
+        "options": ["Le conjoint d'abord, puis les enfants, puis les parents", "Les enfants d'abord (1ère classe), le conjoint en 8ème position, l'État en 9ème", "Les parents d'abord, puis les enfants, puis le conjoint", "L'État d'abord, puis les enfants, puis le conjoint"],
+        "reponse_correcte": 1,
+        "explication": "L'article 16 place les ENFANTS en 1ère classe, puis les parents (2ème), frères et sœurs (3ème), grands-parents (4ème), oncles et tantes (5ème), cousins germains (6ème), autres parents jusqu'au 6ème degré (7ème), le CONJOINT SURVIVANT (8ème), et l'ÉTAT (9ème)."
+      },
+      {
+        "id": 7,
+        "question": "Le conjoint survivant à Madagascar est-il héritier réservataire ?",
+        "options": ["Oui, il a droit à la moitié de la succession", "Non, le conjoint survivant n'est pas héritier réservataire en droit malgache", "Oui, s'ils étaient mariés depuis plus de 10 ans", "Oui, seulement en l'absence d'enfants"],
+        "reponse_correcte": 1,
+        "explication": "Non seulement le conjoint survivant n'est pas héritier réservataire, mais il est classé en 8ème position dans l'ordre successoral. Cela signifie qu'en présence d'enfants, de parents, de frères et sœurs, de grands-parents, d'oncles, de tantes ou de cousins germains, le conjoint ne reçoit RIEN."
+      },
+      {
+        "id": 8,
+        "question": "Le principe de dévolution préférentielle signifie que :",
+        "options": ["Les héritiers d'une classe partagent avec ceux de la classe suivante", "Les héritiers d'une classe plus proche excluent totalement ceux des classes suivantes", "Chaque classe reçoit un quart de la succession", "Le juge peut modifier l'ordre des classes"],
+        "reponse_correcte": 1,
+        "explication": "Le principe de dévolution préférentielle est absolu : dès qu'un seul héritier d'une classe existe, les classes suivantes sont totalement exclues. Si le défunt a des enfants, la succession va intégralement aux enfants — les parents, frères, conjoint ne reçoivent rien."
+      },
+      {
+        "id": 9,
+        "question": "Les enfants nés hors mariage dont la filiation est légalement établie ont-ils les mêmes droits successoraux que les enfants légitimes ?",
+        "options": ["Non, ils reçoivent la moitié de la part d'un enfant légitime", "Oui, tous les enfants héritent à parts égales sans distinction (art. 17-18)", "Oui, mais uniquement si le père les a reconnus par acte notarié", "Non, ils héritent seulement de la mère"],
+        "reponse_correcte": 1,
+        "explication": "L'article 17 définit les enfants de la 1ère classe comme tous ceux dont la filiation est légalement établie, sans distinction de leur nature (légitimes, naturels reconnus, adoptifs). L'article 18 consacre l'égalité de parts entre tous les enfants, sans distinction de sexe."
+      },
+      {
+        "id": 10,
+        "question": "Qu'est-ce que la représentation successorale (art. 23-28) ?",
+        "options": ["Le droit d'un héritier de se faire représenter par un avocat", "Les descendants d'un héritier prédécédé prennent sa place dans la succession", "La désignation d'un administrateur de la succession", "Le droit du conjoint de représenter tous les héritiers"],
+        "reponse_correcte": 1,
+        "explication": "La représentation permet aux descendants d'un héritier décédé avant le de cujus de «prendre la place» de leur parent défunt et d'hériter de la part qui lui aurait été attribuée. Sans représentation, la branche entière serait exclue."
+      },
+      {
+        "id": 11,
+        "question": "Qu'est-ce que l'indivision successorale ?",
+        "options": ["La division immédiate des biens entre les héritiers", "L'état dans lequel les biens appartiennent indistinctement à tous les héritiers, sans parts matériellement délimitées", "Un régime fiscal spécifique aux successions", "L'impossibilité de vendre les biens du défunt"],
+        "reponse_correcte": 1,
+        "explication": "L'indivision successorale est la situation où plusieurs héritiers reçoivent ensemble la succession : les biens appartiennent à tous, sans qu'aucun lot ne soit matériellement attribué à chacun. C'est une situation temporaire — chaque cohéritier peut en sortir en demandant le partage."
+      },
+      {
+        "id": 12,
+        "question": "Peut-on contraindre un héritier à rester en indivision indéfiniment ?",
+        "options": ["Oui, si les autres héritiers s'y opposent", "Non, l'article 77 donne à chacun le droit absolu d'exiger le partage à tout moment", "Oui, pendant 10 ans maximum", "Non, mais le juge peut refuser le partage si les biens sont agricoles"],
+        "reponse_correcte": 1,
+        "explication": "L'article 77 al. 1 est catégorique : «Chacun des cohéritiers peut en tout temps exiger qu'il soit procédé au partage des biens successoraux.» C'est un droit absolu. Une clause testamentaire interdisant le partage ne peut excéder 5 ans."
+      },
+      {
+        "id": 13,
+        "question": "Le testament est une libéralité qui produit ses effets :",
+        "options": ["Dès sa signature", "À compter de sa remise au notaire", "Uniquement après le décès du testateur", "Dès que les héritiers en ont connaissance"],
+        "reponse_correcte": 2,
+        "explication": "C'est la caractéristique fondamentale du testament : il ne produit ses effets qu'après le décès du testateur. Tant que le testateur est vivant, ses biens lui appartiennent toujours — le testament ne crée aucun droit immédiat pour les légataires."
+      },
+      {
+        "id": 14,
+        "question": "Qu'est-ce que le principe du masi-mandidy en droit malgache ?",
+        "options": ["L'obligation de partager équitablement entre tous les enfants", "Le principe de liberté testamentaire : toute personne peut librement disposer de ses biens par testament", "L'interdiction de donner ses biens à des étrangers à la famille", "L'obligation de consulter la famille avant tout testament"],
+        "reponse_correcte": 1,
+        "explication": "Le masi-mandidy est un principe traditionnel malgache consacré dès avant le règne d'Andrianampoinimerina, affirmant la liberté de chaque personne de disposer de ses biens par testament. Il constitue le fondement culturel de la liberté testamentaire à Madagascar."
+      },
+      {
+        "id": 15,
+        "question": "Pour être valide, un testament olographe doit être :",
+        "options": ["Tapé à la machine et signé devant deux témoins", "Entièrement écrit à la main par le testateur, daté avec précision et signé (art. 41-46)", "Rédigé par un notaire et signé par le testateur", "Déposé obligatoirement au greffe du tribunal"],
+        "reponse_correcte": 1,
+        "explication": "L'article 41 de la loi 68-012 exige pour le testament olographe : qu'il soit entièrement MANUSCRIT par le testateur lui-même (toute frappe le rend invalide), qu'il soit DATÉ avec précision, et qu'il soit SIGNÉ. Pas de notaire, pas de témoin requis."
+      },
+      {
+        "id": 16,
+        "question": "Quel est l'avantage principal du testament par acte public (notarié) sur le testament olographe ?",
+        "options": ["Il permet de donner davantage aux légataires", "Il est conservé par le notaire, plus difficile à perdre, détruire ou contester", "Il est moins coûteux", "Il permet de désigner plus de légataires"],
+        "reponse_correcte": 1,
+        "explication": "Le testament par acte public (art. 47-57) est rédigé devant notaire et deux témoins. Il est conservé dans les archives notariales, ce qui le rend quasi-indestructible et difficile à contester. En contrepartie, il est plus coûteux et moins courant à Madagascar."
+      },
+      {
+        "id": 17,
+        "question": "Le testament mystique se caractérise par :",
+        "options": ["Son contenu dicté à voix haute devant témoins", "La remise au notaire d'un document cacheté dont le contenu reste secret jusqu'au décès du testateur", "Son oralité — il n'est pas écrit", "Son rédaction par le fils aîné du testateur"],
+        "reponse_correcte": 1,
+        "explication": "Le testament mystique (art. 58-67) : le testateur remet au notaire un document cacheté en présence de deux témoins. Le notaire dresse acte de la remise. Le contenu reste strictement secret du vivant du testateur et n'est ouvert qu'après son décès."
+      },
+      {
+        "id": 18,
+        "question": "Un testateur peut-il révoquer son testament à tout moment ?",
+        "options": ["Non, une fois rédigé, le testament est définitif", "Oui, par un testament postérieur, un acte notarié de révocation, ou la destruction volontaire", "Oui, mais seulement dans les 3 mois suivant sa rédaction", "Non, sauf autorisation judiciaire"],
+        "reponse_correcte": 1,
+        "explication": "La révocabilité du testament est un principe fondamental (art. 99-104). Le testateur peut révoquer à tout moment : par un testament postérieur (révocation implicite des dispositions incompatibles), par un acte notarié exprès, ou en détruisant physiquement un testament olographe."
+      },
+      {
+        "id": 19,
+        "question": "Qui sont les héritiers réservataires en droit malgache ?",
+        "options": ["Le conjoint survivant et les enfants", "Uniquement les enfants (descendants)", "Les enfants, les parents et le conjoint", "Tous les héritiers des 3 premières classes"],
+        "reponse_correcte": 1,
+        "explication": "En droit malgache, SEULS les enfants (descendants) sont héritiers réservataires (art. 105-115). Le conjoint survivant n'est PAS héritier réservataire. Les parents non plus. C'est une spécificité importante : seule la ligne descendante bénéficie de la protection légale."
+      },
+      {
+        "id": 20,
+        "question": "Quelle est la réserve héréditaire garantie aux enfants lorsque le défunt laisse UN seul enfant ?",
+        "options": ["Le tiers de la succession", "La moitié de la succession", "Les deux tiers de la succession", "Les trois quarts de la succession"],
+        "reponse_correcte": 1,
+        "explication": "Avec 1 enfant : la réserve est de 1/2 de la succession, la quotité disponible est de 1/2. Le testateur peut librement léguer la moitié de ses biens à qui il veut, mais l'autre moitié revient obligatoirement à l'enfant."
+      },
+      {
+        "id": 21,
+        "question": "Quelle est la réserve héréditaire lorsque le défunt laisse DEUX enfants ?",
+        "options": ["La moitié", "Les deux tiers", "Les trois quarts", "La totalité"],
+        "reponse_correcte": 1,
+        "explication": "Avec 2 enfants : la réserve est de 2/3 de la succession. La quotité disponible est réduite à 1/3. Chaque enfant a droit à 1/3 de la succession à titre de réserve (2 × 1/3 = 2/3)."
+      },
+      {
+        "id": 22,
+        "question": "Quelle est la quotité disponible lorsque le défunt laisse TROIS enfants ou plus ?",
+        "options": ["La moitié", "Un tiers", "Un quart", "Un huitième"],
+        "reponse_correcte": 2,
+        "explication": "Avec 3 enfants ou plus : la réserve est de 3/4, la quotité disponible est de seulement 1/4. Plus il y a d'enfants, plus la liberté testamentaire du défunt est réduite — et plus leur protection légale est forte."
+      },
+      {
+        "id": 23,
+        "question": "L'action en réduction permet aux héritiers réservataires de :",
+        "options": ["Réduire les dettes de la succession", "Récupérer la part de réserve que le testateur ou donateur a empiétée par ses libéralités", "Réduire le délai du partage", "Contester la validité du testament"],
+        "reponse_correcte": 1,
+        "explication": "L'action en réduction (art. 113-115) est le mécanisme par lequel les héritiers réservataires font respecter leur réserve. Si un legs ou une donation excède la quotité disponible, les héritiers agissent en réduction et le bénéficiaire doit restituer l'excédent."
+      },
+      {
+        "id": 24,
+        "question": "Qu'est-ce qu'un legs universel ?",
+        "options": ["Le legs de tous les meubles du défunt", "Le legs de la totalité de ce que le testateur laissera à son décès ou de la totalité de la quotité disponible", "Le legs d'un bien précisément déterminé", "Le legs d'une fraction de la succession"],
+        "reponse_correcte": 1,
+        "explication": "Le legs universel (art. 80-85) porte sur la TOTALITÉ de la succession ou la totalité de la quotité disponible. Exemple : «Je lègue tous mes biens à ma nièce.» Le légataire universel a vocation à recueillir l'ensemble — sous réserve de la réserve héréditaire."
+      },
+      {
+        "id": 25,
+        "question": "Un legs à titre universel porte sur :",
+        "options": ["Un bien précisément identifié", "Une fraction de la succession ou tous les biens d'une catégorie (tous les immeubles, tous les meubles, une moitié)", "La totalité de la succession", "Les dettes uniquement"],
+        "reponse_correcte": 1,
+        "explication": "Le legs à titre universel (art. 86-91) porte sur une QUOTE-PART (moitié, tiers, quart) ou sur une catégorie de biens (tous les immeubles, tous les meubles). Il se distingue du legs universel (tout) et du legs particulier (un bien déterminé)."
+      },
+      {
+        "id": 26,
+        "question": "Un legs particulier porte sur :",
+        "options": ["La totalité de la succession", "Une fraction indéterminée des biens", "Un ou des biens précisément et individuellement déterminés", "Tous les biens d'une catégorie"],
+        "reponse_correcte": 2,
+        "explication": "Le legs particulier (art. 92-98) désigne un ou des biens précisément identifiés. Exemple : «Je lègue ma maison de Diego Suarez à Rakoto» ou «Je lègue ma voiture Toyota Corolla bleue à Fanja». C'est la forme de legs la plus fréquente dans la pratique."
+      },
+      {
+        "id": 27,
+        "question": "Quand la succession est insuffisante pour payer tous les legs, dans quel ordre sont-ils exécutés (art. 94) ?",
+        "options": ["Le legs universel d'abord, puis les autres", "Dans l'ordre prévu par le testateur, sinon les legs particuliers d'abord", "Au prorata, sans ordre de priorité", "Les plus anciens testaments d'abord"],
+        "reponse_correcte": 1,
+        "explication": "L'article 94 : on observe d'abord l'ordre prévu par le testateur lui-même. À défaut, les legs particuliers (portant sur des biens précis) ont priorité sur les legs à titre universel et les legs universels, car ils portent sur des biens spécifiquement désignés."
+      },
+      {
+        "id": 28,
+        "question": "La donation se distingue du testament en ce qu'elle :",
+        "options": ["Ne peut porter que sur des immeubles", "Produit ses effets du vivant du donateur, immédiatement", "Est toujours révocable par le donateur", "Ne peut bénéficier qu'aux enfants"],
+        "reponse_correcte": 1,
+        "explication": "La donation est une libéralité ENTRE VIFS : elle est consentie et exécutée du vivant du donateur, qui se dépouille immédiatement de son bien. Le testament est une libéralité À CAUSE DE MORT : il ne produit ses effets qu'au décès du testateur."
+      },
+      {
+        "id": 29,
+        "question": "Le don manuel est-il valide à Madagascar ?",
+        "options": ["Non, toute donation doit être notariée", "Oui, la loi malgache reconnaît expresssément la validité du don manuel (art. 116)", "Oui, mais uniquement pour les sommes inférieures à 100.000 Ar", "Non, sauf pour les objets de peu de valeur"],
+        "reponse_correcte": 1,
+        "explication": "L'article 116 de la loi 68-012 reconnaît la validité du don manuel — la donation réalisée par remise du meuble de la main à la main. Pas d'acte écrit requis. Applicable aux meubles corporels : argent en espèces, bijoux, matériel, véhicule remis physiquement."
+      },
+      {
+        "id": 30,
+        "question": "La donation est-elle en principe révocable comme le testament ?",
+        "options": ["Oui, à tout moment par le donateur", "Non, la donation est en principe irrévocable — sauf causes limitatives légales", "Oui, mais uniquement dans l'année suivant la donation", "Oui, si les héritiers s'y opposent"],
+        "reponse_correcte": 1,
+        "explication": "La donation obéit au principe d'irrévocabilité : «donner et retenir ne vaut». Contrairement au testament librement révocable, la donation engage définitivement le donateur. Les causes légales de révocation sont limitativement énumérées (art. 123-128)."
+      },
+      {
+        "id": 31,
+        "question": "Pour quelle cause un donateur peut-il demander la révocation d'une donation pour ingratitude (art. 124) ?",
+        "options": ["Si le donataire ne lui rend pas visite régulièrement", "Si le donataire a tenté de donner la mort au donateur, lui a causé des voies de fait graves, ou a refusé de lui fournir des aliments dans le besoin", "Si le donataire a revendu le bien donné", "Si le donataire est devenu riche après la donation"],
+        "reponse_correcte": 1,
+        "explication": "L'article 124 limite strictement les causes d'ingratitude : tentative de meurtre sur le donateur, voies de fait graves (violences physiques), ou refus d'aliments quand le donateur est dans le besoin et que le donataire aurait pu les fournir. Ce n'est pas une clause générale d'ingratitude."
+      },
+      {
+        "id": 32,
+        "question": "La survenance d'un enfant après une donation peut-elle entraîner sa révocation (art. 125) ?",
+        "options": ["Non, jamais — la donation est irrévocable", "Oui, si la donation a été faite sans enfants et qu'un enfant naît (ou est reconnu) après — révocation de plein droit", "Oui, mais uniquement pour les donations immobilières", "Cela dépend du contenu de la donation"],
+        "reponse_correcte": 1,
+        "explication": "L'article 125 prévoit la révocation de plein droit des donations pour survenance d'enfant : si le donateur n'avait pas d'enfant au moment de la donation et qu'un enfant naît (ou est reconnu) ultérieurement. C'est une protection automatique de la famille constituée après."
+      },
+      {
+        "id": 33,
+        "question": "Qu'est-ce que le rapport des donations à la succession (art. 108-112) ?",
+        "options": ["L'obligation de signaler toutes les donations à la DGI", "L'obligation pour un héritier d'imputer la donation reçue de son vivant sur sa part d'héritage pour égaliser les parts", "La déclaration des donations au registre civil", "L'obligation du notaire de vérifier les donations antérieures"],
+        "reponse_correcte": 1,
+        "explication": "Le rapport des donations vise l'égalité entre cohéritiers. Si un parent a fait une donation à l'un de ses enfants de son vivant, cet enfant doit «rapporter» cette donation à la masse successorale au décès : la donation est imputée sur sa part d'héritage. Sans rapport, il recevrait plus que les autres."
+      },
+      {
+        "id": 34,
+        "question": "Qu'est-ce qu'une donation déguisée ?",
+        "options": ["Une donation faite sous condition", "Une libéralité cachée sous l'apparence d'un acte à titre onéreux (fausse vente, fausse dette)", "Une donation verbale non écrite", "Une donation faite à un inconnu"],
+        "reponse_correcte": 1,
+        "explication": "La donation déguisée est une libéralité dissimulée sous l'apparence d'un acte juridique onéreux — par exemple une vente à un prix dérisoire ou la simulation d'une dette. Elle peut être valide si l'intention libérale est prouvée, mais elle est suspecte et peut être annulée ou soumise au rapport."
+      },
+      {
+        "id": 35,
+        "question": "Quelles sont les deux formes du partage successoral ?",
+        "options": ["Le partage notarié et le partage fiscal", "Le partage amiable (entre héritiers d'accord) et le partage judiciaire (par le tribunal)", "Le partage immédiat et le partage différé", "Le partage égalitaire et le partage testamentaire"],
+        "reponse_correcte": 1,
+        "explication": "Le partage amiable : les héritiers s'accordent librement sur la répartition, éventuellement devant notaire pour l'opposabilité. Le partage judiciaire : en cas de désaccord, le tribunal est saisi et nomme un notaire-liquidateur qui inventorie, évalue et propose un projet de partage."
+      },
+      {
+        "id": 36,
+        "question": "Quelle est la définition du de cujus ?",
+        "options": ["L'héritier principal de la succession", "Le défunt dont la succession est ouverte", "Le notaire chargé du règlement de la succession", "Le juge chargé du partage"],
+        "reponse_correcte": 1,
+        "explication": "Le de cujus est le terme juridique désignant le défunt dont la succession est en cours de règlement. C'est une abréviation de l'expression latine «is de cujus successione agitur» — «celui dont il est question dans la succession»."
+      },
+      {
+        "id": 37,
+        "question": "Un héritier peut-il être obligé de payer les dettes du défunt sur ses propres biens personnels si elles dépassent l'actif successoral ?",
+        "options": ["Oui, toujours — l'héritier répond sur l'ensemble de son patrimoine", "Non, les héritiers ne paient les dettes qu'à concurrence de l'actif successoral reçu", "Oui, seulement pour les dettes fiscales", "Oui, si l'héritier est le fils aîné"],
+        "reponse_correcte": 1,
+        "explication": "En droit malgache, comme dans la plupart des droits modernes, les héritiers ne peuvent être tenus des dettes du défunt qu'à concurrence de l'actif successoral qu'ils reçoivent. Personne n'est contraint de payer sur ses propres biens les dettes d'un mort qui excèdent ce qu'il a laissé."
+      },
+      {
+        "id": 38,
+        "question": "Le testateur peut-il prévoir un ordre de paiement des legs en cas d'insuffisance de la succession ?",
+        "options": ["Non, c'est le juge qui décide", "Oui, l'article 94 permet au testateur de stipuler l'ordre expressément dans son testament", "Non, la loi impose toujours le même ordre", "Oui, mais uniquement pour les legs particuliers"],
+        "reponse_correcte": 1,
+        "explication": "L'article 94 : «Lorsque la succession est insuffisante pour payer tous les legs, on observe pour le paiement l'ordre expressément stipulé par le testateur dans son testament.» Le testateur peut donc hiérarchiser ses legs. À défaut de précision, la loi détermine l'ordre."
+      },
+      {
+        "id": 39,
+        "question": "L'administrateur provisoire de succession est désigné pour :",
+        "options": ["Vendre tous les biens de la succession", "Gérer les biens de la succession pendant la période d'indivision, avant le partage", "Remplacer le notaire dans la rédaction du testament", "Contester le testament devant le tribunal"],
+        "reponse_correcte": 1,
+        "explication": "L'article 72 prévoit la possibilité pour les indivisaires de désigner un administrateur provisoire de succession pour gérer les biens communs en attendant le partage. Pour les terres agricoles, c'est même obligatoire en vertu de la loi n°66-025 du 19 décembre 1966."
+      },
+      {
+        "id": 40,
+        "question": "Quel est le contenu de la masse successorale ?",
+        "options": ["Uniquement les actifs (biens et droits) du défunt", "L'ensemble du patrimoine du défunt : actifs ET passifs (dettes)", "Uniquement les biens immobiliers du défunt", "Les biens et les dettes, mais pas les droits incorporels"],
+        "reponse_correcte": 1,
+        "explication": "La masse successorale comprend l'intégralité du patrimoine du défunt : tous ses actifs (immeubles, meubles, droits, créances, argent, véhicules) ET tous ses passifs (dettes, obligations contractuelles). Les héritiers reçoivent le net — actifs moins passifs."
+      },
+      {
+        "id": 41,
+        "question": "Fanja décède en laissant 3 enfants et son conjoint. Qui hérite ?",
+        "options": ["Les 3 enfants et le conjoint partagent à parts égales", "Les 3 enfants héritent de tout (1ère classe) — le conjoint ne reçoit rien", "Le conjoint reçoit la moitié, les enfants se partagent l'autre moitié", "Le conjoint reçoit 1/4, les enfants 3/4"],
+        "reponse_correcte": 1,
+        "explication": "Les enfants (1ère classe) excluent totalement le conjoint (8ème classe) par le jeu de la dévolution préférentielle. Les 3 enfants héritent de l'intégralité de la succession à parts égales — 1/3 chacun. Le conjoint ne reçoit rien du tout, sauf si un testament le prévoit expressément."
+      },
+      {
+        "id": 42,
+        "question": "Un testateur ayant 2 enfants veut léguer 60% de ses biens à son association préférée. Est-ce valide ?",
+        "options": ["Oui, la liberté testamentaire est totale", "Non — avec 2 enfants, la quotité disponible est de 1/3 (33%) seulement. Le legs de 60% empiète sur la réserve des 2/3", "Oui, si les enfants approuvent", "Non, les associations ne peuvent pas recevoir de legs"],
+        "reponse_correcte": 1,
+        "explication": "Avec 2 enfants, la réserve est de 2/3 et la quotité disponible est de 1/3 (environ 33%). Léguer 60% empiète sur la réserve. Les enfants peuvent exercer une action en réduction pour ramener le legs à 1/3 maximum et récupérer leur réserve de 2/3."
+      },
+      {
+        "id": 43,
+        "question": "En droit malgache, les règles coutumières successorales non contraires à la loi 68-012 sont-elles applicables ?",
+        "options": ["Non, la loi 68-012 a tout abrogé", "Oui, l'article 128 maintient les règles coutumières non contraires aux dispositions de la loi", "Non, seules les règles écrites s'appliquent", "Oui, mais uniquement dans les zones rurales"],
+        "reponse_correcte": 1,
+        "explication": "L'article 128 dispose que «les règles successorales, testamentaires ou relatives aux donations, qui non contraires aux dispositions de la présente loi n'y auraient pas été expressément formulées, demeurent applicables dans les conditions fixées à l'article 11 de l'ordonnance n°62-041». Le droit coutumier non contradictoire subsiste."
+      },
+      {
+        "id": 44,
+        "question": "Un testament olographe dont certaines parties sont tapées à la machine est-il valide ?",
+        "options": ["Oui, seule la signature doit être manuscrite", "Non, le testament olographe doit être ENTIÈREMENT écrit à la main par le testateur", "Oui, si la partie manuscrite est plus importante", "Non, sauf si un notaire le valide ensuite"],
+        "reponse_correcte": 1,
+        "explication": "Le testament olographe doit être ENTIÈREMENT manuscrit (écrit à la main) par le testateur. Toute partie tapée à la machine, imprimée ou dictée et transcrite par quelqu'un d'autre vicie le testament qui devient nul. L'exigence est absolue."
+      },
+      {
+        "id": 45,
+        "question": "Qu'est-ce que l'exhérédation en droit des successions ?",
+        "options": ["La désignation d'un héritier supplémentaire dans le testament", "L'action consistant à exclure un héritier légitime de la succession par testament", "La mise en indivision forcée de la succession", "La révocation d'un legs par le légataire"],
+        "reponse_correcte": 1,
+        "explication": "L'exhérédation est la décision du testateur d'exclure un ou plusieurs héritiers légaux de sa succession. En vertu du masi-mandidy, c'est possible. Mais l'exhérédation des enfants est limitée par la réserve héréditaire : on peut les priver de la quotité disponible, jamais de leur réserve."
+      },
+      {
+        "id": 46,
+        "question": "La donation faite à un enfant est-elle toujours imputée sur sa part d'héritage ?",
+        "options": ["Non, jamais — donation et héritage sont indépendants", "Oui, en principe — c'est le rapport des donations — sauf si la donation a été faite expressément «hors part» (préciput)", "Non, seulement si l'enfant le souhaite", "Oui, toujours sans exception"],
+        "reponse_correcte": 1,
+        "explication": "Le principe du rapport (art. 108-112) impose l'imputation de la donation sur la part héréditaire pour maintenir l'égalité entre cohéritiers. Mais le donateur peut déclarer expressément que la donation est faite «hors part successorale» (préciput) : elle s'impute alors sur la quotité disponible, pas sur la réserve."
+      },
+      {
+        "id": 47,
+        "question": "Si un héritier meurt APRÈS l'ouverture de la succession mais AVANT le partage, que se passe-t-il ?",
+        "options": ["Sa part est redistribuée entre les autres héritiers", "Sa part est transmise à ses propres héritiers — il avait déjà acquis ses droits au décès du de cujus", "Sa part revient à l'État", "Le partage est suspendu jusqu'à clarification"],
+        "reponse_correcte": 1,
+        "explication": "Grâce à la transmission de plein droit (art. 68), l'héritier avait déjà acquis sa part au moment du décès du de cujus. Si cet héritier décède ensuite, avant le partage, sa part successorale fait partie de sa propre succession et passe à ses propres héritiers."
+      },
+      {
+        "id": 48,
+        "question": "Un enfant adopté a-t-il les mêmes droits successoraux qu'un enfant biologique à Madagascar ?",
+        "options": ["Non, l'adopté reçoit la moitié d'une part normale", "Oui, dès lors que sa filiation adoptive est légalement établie, il est dans la 1ère classe des héritiers à parts égales", "Non, l'adopté hérite seulement des meubles", "Oui, mais uniquement si le testateur n'a pas d'enfant biologique"],
+        "reponse_correcte": 1,
+        "explication": "L'article 17 inclut les enfants adoptifs dans la 1ère classe, à égalité avec les enfants biologiques, à condition que la filiation adoptive soit légalement établie. L'article 18 consacre l'égalité entre tous les enfants, sans distinction d'origine ou de sexe."
+      },
+      {
+        "id": 49,
+        "question": "En l'absence de tout héritier connu, à qui revient la succession ?",
+        "options": ["Aux voisins du défunt", "À l'État — 9ème et dernière classe des héritiers (art. 16)", "À la commune du lieu de domicile", "Aux créanciers du défunt uniquement"],
+        "reponse_correcte": 1,
+        "explication": "L'État est le dernier héritier (9ème classe) selon l'article 16. Si aucun héritier des 8 premières classes n'existe ou ne peut hériter, la succession est dévolue à l'État. C'est la succession en déshérence : l'État recueille les biens par son droit de souveraineté."
+      },
+      {
+        "id": 50,
+        "question": "Un testament valide peut-il être contesté par les héritiers légaux après le décès du testateur ?",
+        "options": ["Non, un testament valide est inattaquable", "Oui, s'il empiète sur la réserve héréditaire (action en réduction) ou si sa validité formelle est contestée (action en nullité)", "Non, sauf accord unanime de tous les héritiers", "Oui, mais uniquement dans les 30 jours suivant le décès"],
+        "reponse_correcte": 1,
+        "explication": "Un testament peut être contesté sur deux terrains : (1) l'action en NULLITÉ si les conditions de forme ou de fond (capacité, consentement) n'étaient pas réunies, et (2) l'action en RÉDUCTION si les legs empiètent sur la réserve héréditaire des enfants. Ce sont les deux recours principaux des héritiers lésés."
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": "CP1",
+      "titre": "La succession contestée à Antsiranana",
+      "contexte": "Monsieur ANDRIANTOVO décède à Antsiranana en janvier 2025. Il laisse :\n• 3 enfants : HERY (45 ans), FANJA (40 ans) et SANDRO (35 ans)\n• Son épouse VOAHANGY (65 ans)\n• Sa mère ROSALIE (82 ans)\n• Un testament olographe daté de 2022 dans lequel il lègue :\n  — Sa maison (valeur : 80.000.000 Ar) à son ami RAKOTO\n  — La moitié de ses économies à son épouse VOAHANGY\n  — «Le reste à mes enfants»\n• Ses économies totales : 60.000.000 Ar\n• Une dette envers la BNI : 20.000.000 Ar",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "Le testament olographe est-il valide ? Quelles vérifications faire ?",
+          "reponse_attendue": "Pour valider le testament olographe (art. 41-46), il faut vérifier 3 conditions cumulatives :\n\n1. ENTIÈREMENT MANUSCRIT : le testament doit être écrit à la main par M. ANDRIANTOVO lui-même dans son intégralité. Aucune partie tapée ou dictée n'est admise. Si quelqu'un a écrit à sa place ou si une partie est imprimée : NULLITÉ.\n\n2. DATÉ : le testament doit mentionner le jour, le mois et l'année de sa rédaction. La date de 2022 doit être précise (ex : «le 15 mars 2022»). Une simple année sans jour ni mois peut poser problème.\n\n3. SIGNÉ de la main du testateur.\n\nSi ces trois conditions sont réunies : le testament est valide en la forme. Mais sa validité de fond reste soumise à la capacité du testateur (état mental en 2022) et à l'absence de vice de consentement."
+        },
+        {
+          "numero": 2,
+          "question": "Les enfants HERY, FANJA et SANDRO peuvent-ils contester le legs de la maison à RAKOTO ?",
+          "reponse_attendue": "OUI, et ils ont de solides arguments.\n\nCALCUL DE LA MASSE SUCCESSORALE NETTE :\n• Actifs : maison (80.000.000) + économies (60.000.000) = 140.000.000 Ar\n• Passif : dette BNI (20.000.000 Ar)\n• Masse nette = 120.000.000 Ar\n\nCALCUL DE LA RÉSERVE et de la QUOTITÉ DISPONIBLE :\nAvec 3 enfants : réserve = 3/4 de la masse nette = 90.000.000 Ar / Quotité disponible = 1/4 = 30.000.000 Ar\n\nQUE PRÉVOIT LE TESTAMENT ?\n• Legs à RAKOTO : maison = 80.000.000 Ar\n• Legs à VOAHANGY : moitié des économies = 30.000.000 Ar (après dette)\n• Total légué hors enfants = 80.000.000 + 30.000.000 = 110.000.000 Ar\n\nOr la quotité disponible n'est que de 30.000.000 Ar. Le testament empiète massivement sur la réserve de 90.000.000 Ar.\n\nACTION EN RÉDUCTION : les 3 enfants exercent une action en réduction. Le legs à RAKOTO sera réduit. En pratique, RAKOTO ne peut conserver qu'une valeur ne dépassant pas, avec le legs à VOAHANGY, la quotité disponible de 30.000.000 Ar."
+        },
+        {
+          "numero": 3,
+          "question": "VOAHANGY (l'épouse) a-t-elle un droit garanti sur la succession ?",
+          "reponse_attendue": "En droit positif malgache actuel, VOAHANGY est en 8ème position dans l'ordre successoral. Elle N'EST PAS héritière réservataire.\n\nSans testament, elle ne recevrait RIEN — les 3 enfants (1ère classe) prennent tout et excluent totalement le conjoint (8ème classe).\n\nAvec testament : le testateur a prévu un legs à VOAHANGY (moitié des économies = environ 30.000.000 Ar avant dette). Ce legs est valide SI ET SEULEMENT SI il rentre dans la quotité disponible.\n\nRappel : après action en réduction pour protéger la réserve des enfants, la quotité disponible de 30.000.000 Ar doit couvrir à la fois le legs à RAKOTO ET le legs à VOAHANGY.\n\nSi les deux legs dépassent 30.000.000 Ar (ce qui est le cas : 110.000.000 Ar au total), le juge réduit proportionnellement. Il reviendra aux tribunaux d'ordonner la réduction en tenant compte des priorités établies par le testateur dans son document.\n\nNOTE D'ACTUALITÉ : une proposition de loi en cours vise à placer le conjoint en 3ème position, mais elle n'est pas encore adoptée — le droit actuel s'applique."
+        },
+        {
+          "numero": 4,
+          "question": "La mère ROSALIE (82 ans) peut-elle prétendre à une part de la succession ?",
+          "reponse_attendue": "NON. ROSALIE est la mère du défunt — elle appartient à la 2ème classe (père et mère du défunt).\n\nOr les 3 enfants HERY, FANJA et SANDRO sont de la 1ère classe. En vertu du PRINCIPE DE DÉVOLUTION PRÉFÉRENTIELLE, la 1ère classe exclut TOTALEMENT la 2ème classe.\n\nRÉSULTAT : ROSALIE ne reçoit RIEN de la succession de son fils, même si elle est encore en vie et a 82 ans.\n\nElle ne peut pas non plus invoquer la qualité d'héritière réservataire — en droit malgache, les parents (ascendants) ne sont pas des héritiers réservataires.\n\nSi elle est dans le besoin, elle pourrait éventuellement solliciter une obligation alimentaire auprès de ses petits-enfants (HERY, FANJA, SANDRO), mais c'est une question distincte du droit des successions."
+        }
+      ],
+      "lecon_tiree": "Ce cas illustre trois enjeux fondamentaux : la validation formelle du testament olographe, la protection impérative de la réserve héréditaire des enfants via l'action en réduction, et la position fragile du conjoint survivant en droit malgache actuel. En pratique, toute famille devrait anticiper ces questions de son vivant, en rédigeant un testament clair et en connaissant les limites de la liberté testamentaire."
+    },
+    {
+      "id": "CP2",
+      "titre": "La donation contestée à Diego Suarez",
+      "contexte": "Madame RASOA, veuve, 70 ans, a deux enfants adultes : MARIO et LINDA. En 2020, elle donne sa boutique commerciale à Diego Suarez (valeur estimée à 40.000.000 Ar) à LINDA, par acte notarié, en lui demandant de s'occuper d'elle jusqu'à sa mort.\n\nEn 2023, RASOA tombe malade. LINDA ne lui rend plus visite, refuse de l'aider financièrement malgré ses moyens, et ne lui apporte aucune assistance.\n\nEn 2024, RASOA décède. Elle laisse pour seul bien : une parcelle de terrain (valeur : 20.000.000 Ar).\n\nMARIO conteste la donation de la boutique à LINDA.",
+      "questions": [
+        {
+          "numero": 1,
+          "question": "RASOA aurait-elle pu révoquer la donation de son vivant pour ingratitude ou inexécution des charges ?",
+          "reponse_attendue": "OUI. RASOA disposait de DEUX causes de révocation :\n\n1. RÉVOCATION POUR INEXÉCUTION DES CHARGES (art. 123) :\nLa donation était assortie d'une CHARGE : s'occuper de RASOA jusqu'à sa mort. C'est une condition que LINDA devait remplir en contrepartie de la donation. Si LINDA ne s'en est pas occupée, RASOA pouvait demander la révocation pour inexécution des charges imposées.\n\n2. RÉVOCATION POUR INGRATITUDE (art. 124) :\nLINDA a refusé des aliments à RASOA qui était dans le besoin et malade — c'est l'une des causes légales d'ingratitude expressément prévues par la loi. RASOA pouvait donc aussi agir en révocation pour ingratitude.\n\nComment ? RASOA devait saisir le tribunal de son vivant pour demander la révocation. Le tribunal, s'il reconnaissait la cause invoquée, prononçait le retour de la boutique dans le patrimoine de RASOA.\n\nMALHEURESEMENT : elle ne l'a pas fait avant son décès. La question est de savoir si MARIO peut agir après sa mort."
+        },
+        {
+          "numero": 2,
+          "question": "MARIO peut-il agir en justice après le décès de RASOA pour contester cette donation ?",
+          "reponse_attendue": "MARIO dispose de deux voies possibles :\n\n1. ACTION EN RÉDUCTION (protection de la réserve) :\nMASS SUCCESSORALE RECONSTITUÉE :\n• Terrain = 20.000.000 Ar\n• Donation à LINDA = 40.000.000 Ar (à rapporter)\n• Masse totale reconstituée = 60.000.000 Ar\n\nRÉSERVE avec 2 enfants = 2/3 × 60.000.000 = 40.000.000 Ar\nQUOTITÉ DISPONIBLE = 1/3 × 60.000.000 = 20.000.000 Ar\n\nOr la donation à LINDA (40.000.000 Ar) DÉPASSE la quotité disponible (20.000.000 Ar) de 20.000.000 Ar.\n\nMARIO peut exercer une ACTION EN RÉDUCTION pour récupérer la part excédant la quotité disponible : 20.000.000 Ar. LINDA ne conserve que 20.000.000 Ar de valeur (quotité disponible). MARIO récupère 20.000.000 Ar via la réduction. Puis il partage avec LINDA le terrain (20.000.000 Ar) → 10.000.000 Ar chacun.\n\n2. CONTINUATION DE L'ACTION EN RÉVOCATION pour inexécution des charges ou ingratitude : dans certains systèmes, les héritiers peuvent continuer l'action en révocation commencée par le donateur. En droit malgache, cela dépend de l'interprétation des tribunaux."
+        },
+        {
+          "numero": 3,
+          "question": "Si la boutique a été revendue par LINDA à un tiers de bonne foi en 2022, MARIO peut-il quand même récupérer quelque chose ?",
+          "reponse_attendue": "C'est une situation délicate.\n\nPRINCIPE : si le bien donné a été aliéné à un tiers de bonne foi (qui ne savait pas que la donation était contestable), la restitution en nature est impossible — on ne peut pas reprendre la boutique au tiers innocent.\n\nSOLUTION : la réduction se fait alors EN VALEUR, pas en nature. LINDA doit verser à MARIO l'équivalent de ce qui excède la quotité disponible, en argent.\n\nAutrement dit :\n• Valeur de la boutique au moment de la donation = 40.000.000 Ar\n• Quotité disponible = 20.000.000 Ar\n• LINDA doit verser à MARIO 20.000.000 Ar en espèces (réduit à hauteur de la réserve)\n\nSi LINDA est insolvable (n'a pas cet argent), MARIO peut saisir ses autres biens à hauteur de sa créance. L'action en réduction est une protection réelle des héritiers réservataires."
+        },
+        {
+          "numero": 4,
+          "question": "Quelle leçon pratique RASOA aurait-elle dû tirer pour mieux protéger ses intérêts ?",
+          "reponse_attendue": "Plusieurs précautions auraient mieux protégé RASOA :\n\n1. RÉDIGER LA CHARGE CLAIREMENT dans l'acte notarié : préciser exactement les obligations de LINDA (visites hebdomadaires, aide financière mensuelle d'un montant X, prise en charge médicale, etc.). Plus la charge est précise, plus son inexécution est facile à prouver.\n\n2. PRÉVOIR UNE CLAUSE RÉSOLUTOIRE dans la donation : «En cas d'inexécution de la charge d'entretien, la présente donation sera résolue de plein droit et la boutique retournera dans mon patrimoine.» Cela rend la révocation automatique sans procès.\n\n3. AGIR IMMÉDIATEMENT lors du premier manquement de LINDA, sans attendre — saisir le tribunal dès 2023.\n\n4. RÉSERVER UN DROIT D'USUFRUIT : RASOA aurait pu donner la boutique à LINDA en nue-propriété tout en se réservant l'USUFRUIT (droit de l'utiliser et d'en percevoir les revenus) jusqu'à son décès. Ainsi, LINDA n'aurait la pleine propriété qu'au décès de RASOA, et RASOA garde le contrôle de son vivant.\n\n5. CONSULTER UN JURISTE avant toute donation importante : la donation était bien intentionnée mais juridiquement fragile."
+        }
+      ],
+      "lecon_tiree": "Ce cas pratique illustre deux points essentiels : la donation avec charge est un outil puissant mais qui doit être rédigé précisément et suivi activement, et la réserve héréditaire protège les enfants même contre les donations faites du vivant du parent. En pratique, une donation de bien important doit toujours être faite devant notaire avec des conseils juridiques préalables — surtout en présence d'héritiers réservataires."
+    }
+  ],
+
+  "references_legales": [
+    { "article": "1", "sujet": "Ouverture de la succession au lieu du dernier domicile" },
+    { "article": "3-4", "sujet": "Conditions pour succéder — enfant conçu mais non né" },
+    { "article": "5-8", "sujet": "Indignité successorale — causes et effets" },
+    { "article": "16", "sujet": "Les 9 classes d'héritiers — ordre de dévolution" },
+    { "article": "17-18", "sujet": "Les enfants successibles — égalité sans distinction" },
+    { "article": "23-28", "sujet": "La représentation successorale" },
+    { "article": "36-40", "sujet": "Conditions de validité du testament" },
+    { "article": "41-46", "sujet": "Testament olographe — conditions formelles" },
+    { "article": "47-57", "sujet": "Testament par acte public (notarié)" },
+    { "article": "58-67", "sujet": "Testament mystique" },
+    { "article": "68", "sujet": "Transmission de plein droit de la succession" },
+    { "article": "70-76", "sujet": "Indivision successorale" },
+    { "article": "72", "sujet": "Administrateur provisoire de succession" },
+    { "article": "77", "sujet": "Droit absolu au partage" },
+    { "article": "80-85", "sujet": "Legs universel" },
+    { "article": "86-91", "sujet": "Legs à titre universel" },
+    { "article": "92-98", "sujet": "Legs particulier" },
+    { "article": "94", "sujet": "Ordre de paiement des legs en cas d'insuffisance" },
+    { "article": "99-104", "sujet": "Révocation du testament" },
+    { "article": "105-115", "sujet": "Réserve héréditaire — quotité disponible — action en réduction" },
+    { "article": "108-112", "sujet": "Rapport des donations à la succession" },
+    { "article": "116", "sujet": "Don manuel — validité" },
+    { "article": "123-128", "sujet": "Révocation des donations — ingratitude, charges, survenance d'enfant" },
+    { "article": "128", "sujet": "Maintien des règles coutumières non contraires à la loi" }
+  ]
+}
