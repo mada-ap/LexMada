@@ -1,0 +1,823 @@
+{
+  "module": {
+    "id": "module_12_niveau3",
+    "titre": "La jurisprudence constitutionnelle malgache",
+    "niveau": 3,
+    "description": "Étude approfondie de la Haute Cour Constitutionnelle de Madagascar, de ses attributions, de sa jurisprudence et de son rôle dans la protection des droits fondamentaux et la régulation du jeu institutionnel malgache.",
+    "objectifs": [
+      "Maîtriser le statut et les attributions de la Haute Cour Constitutionnelle (HCC)",
+      "Analyser les grandes décisions de la jurisprudence constitutionnelle malgache",
+      "Comprendre le contrôle de constitutionnalité des lois à Madagascar",
+      "Identifier le rôle de la HCC dans la protection des droits fondamentaux",
+      "Appliquer les principes constitutionnels dans des cas pratiques malgaches"
+    ],
+    "textes_applicables": [
+      "Constitution de la Quatrième République de Madagascar du 11 décembre 2010",
+      "Loi organique n° 2016-001 du 26 juillet 2016 sur la Haute Cour Constitutionnelle",
+      "Règlement intérieur de la Haute Cour Constitutionnelle",
+      "Ordonnance n° 2001-003 du 18 novembre 2001 portant Code électoral (modifié)",
+      "Décisions et avis de la HCC (disponibles sur le site officiel de la HCC)",
+      "Charte africaine des droits de l'homme et des peuples (ratifiée par Madagascar)"
+    ],
+    "lecons": [
+      {
+        "id": "lecon_1",
+        "titre": "La Haute Cour Constitutionnelle : statut et composition",
+        "contenu": [
+          {
+            "sous_titre": "1.1 Fondement constitutionnel et nature juridique",
+            "texte": "La Haute Cour Constitutionnelle (HCC) est instituée par le Titre VI de la Constitution malgache du 11 décembre 2010 (articles 114 à 124). Elle est le gardien suprême de la Constitution, arbitre institutionnel et protecteur des droits fondamentaux des citoyens malgaches.\n\nLa HCC est une juridiction constitutionnelle indépendante, distincte des juridictions judiciaires et administratives ordinaires. Elle ne fait pas partie de l'ordre judiciaire (Cour suprême, Cours d'appel, TPI) ni de l'ordre administratif (Conseil d'État). Elle constitue un ordre juridictionnel à part entière, directement issu de la Constitution.\n\nSon siège est fixé à Antananarivo. Elle peut toutefois siéger en tout lieu du territoire national si les circonstances l'exigent, notamment en période de crise institutionnelle."
+          },
+          {
+            "sous_titre": "1.2 Composition de la HCC",
+            "texte": "Selon l'article 116 de la Constitution, la HCC est composée de **neuf membres** nommés pour un mandat de **sept ans non renouvelable** :\n\n- **3 membres** nommés par le Président de la République\n- **3 membres** nommés par le Président de l'Assemblée nationale\n- **3 membres** nommés par le Président du Sénat\n\nLes membres de la HCC doivent justifier d'une haute compétence juridique ou d'une longue expérience dans les domaines juridique, administratif ou judiciaire. Ils sont choisis parmi les personnalités reconnues pour leur intégrité morale.\n\n**Le Président de la HCC** est élu par les membres de la Cour en leur sein pour la durée de leur mandat. Il a voix prépondérante en cas de partage des voix.\n\n**Incompatibilités :** La fonction de membre de la HCC est incompatible avec toute fonction publique ou privée (mandat électif, fonctions gouvernementales, exercice d'une profession libérale), à l'exception des travaux scientifiques ou littéraires."
+          },
+          {
+            "sous_titre": "1.3 Garanties d'indépendance",
+            "texte": "L'indépendance de la HCC est garantie par plusieurs mécanismes :\n\n**A) L'inamovibilité :** Les membres ne peuvent être révoqués pendant la durée de leur mandat sauf manquement grave à leurs obligations, établi par la Cour elle-même.\n\n**B) L'irresponsabilité fonctionnelle :** Les membres ne peuvent être poursuivis pour les opinions émises et les votes exprimés dans l'exercice de leurs fonctions.\n\n**C) L'immunité :** Les membres bénéficient d'une immunité pour les actes accomplis dans l'exercice de leurs fonctions.\n\n**D) La non-rééligibilité :** Le mandat de sept ans non renouvelable préserve les membres de toute tentation de complaisance envers leurs autorités de nomination pour obtenir un second mandat.\n\n**E) Le renouvellement partiel :** Le renouvellement se fait par tiers tous les deux ans et quatre mois environ, garantissant la continuité institutionnelle et évitant un changement brutal de composition."
+          }
+        ]
+      },
+      {
+        "id": "lecon_2",
+        "titre": "Les attributions de la Haute Cour Constitutionnelle",
+        "contenu": [
+          {
+            "sous_titre": "2.1 Le contrôle de constitutionnalité des lois",
+            "texte": "Le contrôle de constitutionnalité est la mission première de la HCC. Il se décline en deux formes :\n\n**A) Le contrôle a priori (avant promulgation) :**\nLa HCC est saisie obligatoirement ou facultativement pour vérifier la conformité d'une loi à la Constitution avant sa promulgation par le Président de la République.\n\n*Saisine obligatoire :* Les lois organiques sont soumises de plein droit à la HCC avant leur promulgation (article 117 Constitution).\n\n*Saisine facultative :* Toute loi ordinaire peut être déférée à la HCC par :\n- Le Président de la République\n- Le Président de l'Assemblée nationale\n- Le Président du Sénat\n- Un cinquième des membres de l'Assemblée nationale\n- Un cinquième des membres du Sénat\n\n**B) Le contrôle a posteriori (exception d'inconstitutionnalité) :**\nDepuis la Constitution de 2010, tout justiciable peut, lors d'un procès, invoquer l'inconstitutionnalité d'une loi applicable à son litige. Cette exception est soulevée devant la juridiction saisie, qui la transmet à la Cour suprême, puis à la HCC si la question est sérieuse."
+          },
+          {
+            "sous_titre": "2.2 Le contrôle de la régularité des élections et des référendums",
+            "texte": "La HCC est le juge électoral suprême à Madagascar. Ses compétences électorales sont étendues :\n\n**Élection présidentielle :**\n- Contrôle de la régularité des opérations électorales\n- Proclamation des résultats définitifs\n- Tranchement des contentieux électoraux\n\n**Élections législatives :**\n- Proclamation des résultats des élections à l'Assemblée nationale\n- Contentieux des élections législatives\n\n**Référendums :**\n- Contrôle de la régularité des opérations référendaires\n- Proclamation des résultats\n\n**Rôle pratique :** La HCC a joué un rôle crucial dans les périodes de crise politique malgache. Lors des élections présidentielles de 2013 (première après la crise de 2009), la HCC a veillé à la régularité du processus de transition. En 2018, la HCC a dû trancher des contentieux importants lors de l'élection présidentielle opposant Andry Rajoelina et Marc Ravalomanana."
+          },
+          {
+            "sous_titre": "2.3 Le rôle de régulation institutionnelle",
+            "texte": "La HCC est l'arbitre des conflits entre les institutions constitutionnelles malgaches :\n\n**Conflits de compétence :** La HCC tranche les conflits d'attribution entre le Président de la République, le gouvernement, l'Assemblée nationale et le Sénat.\n\n**Constatation de vacance et d'empêchement :** C'est la HCC qui constate officiellement la vacance de la Présidence de la République (décès, démission, incapacité définitive) ou l'empêchement temporaire du Chef de l'État. Cette fonction a été cruciale dans les crises politiques malgaches de 2009 et 2014.\n\n**Contrôle des règlements des assemblées :** Les règlements intérieurs de l'Assemblée nationale et du Sénat sont soumis à la HCC avant leur mise en application.\n\n**Avis consultatifs :** La HCC peut être consultée pour avis par le Président de la République sur des questions de constitutionnalité. Ces avis, bien que non contraignants, ont une haute autorité morale."
+          },
+          {
+            "sous_titre": "2.4 La protection des droits et libertés fondamentaux",
+            "texte": "La Constitution de 2010 confie à la HCC une mission explicite de protection des droits et libertés fondamentaux garantis par le Titre II de la Constitution (articles 11 à 44).\n\n**Droits protégés :**\n- Droits civils et politiques : droit à la vie, à la liberté, à la sécurité, à l'égalité devant la loi\n- Liberté d'expression, de réunion, d'association, de conscience et de religion\n- Droits économiques et sociaux : droit au travail, à l'éducation, à la santé\n- Droit à un procès équitable\n- Droits des femmes et égalité des sexes (article 6 Constitution)\n\n**Mécanisme de protection :** Tout citoyen peut saisir la HCC via l'exception d'inconstitutionnalité lorsqu'une loi porte atteinte à ses droits fondamentaux. Le Médiateur de la République peut également alerter la HCC sur des violations systémiques."
+          }
+        ]
+      },
+      {
+        "id": "lecon_3",
+        "titre": "La procédure devant la Haute Cour Constitutionnelle",
+        "contenu": [
+          {
+            "sous_titre": "3.1 Les modes de saisine",
+            "texte": "La HCC peut être saisie par plusieurs voies :\n\n**A) Saisine directe (contrôle a priori) :**\nLes autorités habilitées (Président de la République, Présidents des assemblées, parlementaires représentant au moins 1/5 des membres d'une chambre) saisissent directement la HCC avant la promulgation d'une loi.\n\n**B) Saisine d'office :**\nLa HCC peut s'autosaisir pour les lois organiques (contrôle obligatoire) et pour les règlements des assemblées.\n\n**C) Renvoi préjudiciel (exception d'inconstitutionnalité) :**\nUn justiciable soulève l'exception devant sa juridiction. Si celle-ci estime la question sérieuse, elle sursoit à statuer et renvoie la question à la Cour suprême (filtre), qui la transmet à la HCC si les conditions sont remplies.\n\n**D) Recours électoral :**\nLes candidats, les partis politiques et les électeurs peuvent former des recours directement devant la HCC en matière électorale, dans les délais stricts prévus par le Code électoral."
+          },
+          {
+            "sous_titre": "3.2 L'instruction et le délibéré",
+            "texte": "**Délais :** La HCC statue dans des délais constitutionnellement fixés :\n- **30 jours** pour le contrôle de constitutionnalité ordinaire (réduit à **8 jours** en cas d'urgence déclarée par le gouvernement)\n- **5 jours** pour les contentieux électoraux urgents\n\n**Instruction :** Le Président de la HCC désigne un rapporteur parmi les membres. Le rapporteur instruit la saisine, recueille les observations des parties (lorsqu'applicable) et présente son rapport à la Cour.\n\n**Délibéré :** La HCC délibère à huis clos. Les délibérations sont secrètes. Il n'existe pas d'opinion dissidente publiée dans le système malgache (contrairement à certaines juridictions constitutionnelles étrangères).\n\n**Quorum :** La HCC ne peut valablement délibérer qu'en présence d'au moins sept de ses neuf membres."
+          },
+          {
+            "sous_titre": "3.3 Les décisions de la HCC et leur autorité",
+            "texte": "**Formes des décisions :**\nLa HCC rend des **décisions** (lorsqu'elle statue en matière contentieuse) et des **avis** (lorsqu'elle est consultée). Les décisions sont numérotées et publiées au Journal Officiel de la République de Madagascar.\n\n**Autorité des décisions :**\nL'article 120 de la Constitution dispose que les décisions de la HCC s'imposent à toutes les autorités de l'État, à tous les organes administratifs et juridictionnels et à toutes les personnes physiques et morales. Elles ne sont susceptibles d'aucun recours.\n\n**Effets du contrôle a priori :**\n- Si la loi est déclarée conforme : elle peut être promulguée\n- Si elle est déclarée non conforme : le Président de la République ne peut pas la promulguer. Elle est renvoyée à l'Assemblée nationale pour modification ou abandon\n- Si seulement certaines dispositions sont inconstitutionnelles : les autres peuvent être promulguées si elles sont séparables\n\n**Effet erga omnes :** La déclaration d'inconstitutionnalité a un effet absolu : la disposition inconstitutionnelle est abrogée et ne peut plus être appliquée par aucune juridiction ni aucune autorité."
+          }
+        ]
+      },
+      {
+        "id": "lecon_4",
+        "titre": "Grandes décisions de la jurisprudence constitutionnelle malgache",
+        "contenu": [
+          {
+            "sous_titre": "4.1 La jurisprudence sur les crises institutionnelles",
+            "texte": "La HCC a été confrontée à plusieurs crises institutionnelles majeures qui ont marqué sa jurisprudence.\n\n**La crise de 2009 :** Lors du renversement du Président Ravalomanana par Andry Rajoelina, la HCC a dû statuer sur des questions inédites de vacance du pouvoir. Sa décision de reconnaître la Haute Autorité de Transition (HAT) a été controversée : certains juristes y ont vu une légitimation d'un coup d'État institutionnel, d'autres une tentative pragmatique d'éviter l'effondrement total de l'État de droit. Cette décision illustre la tension entre légalité constitutionnelle stricte et légitimité politique effective.\n\n**La jurisprudence de transition (2009-2014) :** Durant la période de transition, la HCC a développé une jurisprudence pragmatique sur la continuité de l'État, reconnaissant des actes de gouvernance pris en dehors du cadre constitutionnel strict au nom de la préservation des institutions."
+          },
+          {
+            "sous_titre": "4.2 La jurisprudence électorale",
+            "texte": "La jurisprudence électorale de la HCC est particulièrement riche.\n\n**Élection présidentielle de 2013 :** La HCC a validé la candidature de plusieurs candidats après examen des dossiers et a écarté ceux ne remplissant pas les conditions constitutionnelles (notamment la condition de résidence). Elle a proclamé Hery Rajaonarimampianina vainqueur au second tour face à Jean-Louis Robinson, validant un processus électoral complexe organisé après cinq ans de crise.\n\n**Élection présidentielle de 2018 :** La HCC a rendu plusieurs décisions importantes :\n- Décision sur la constitutionnalité des décrets de révision du Code électoral pris par voie d'ordonnance\n- Validation de la candidature d'Andry Rajoelina malgré les contestations sur sa résidence\n- Proclamation des résultats définitifs du second tour donnant Rajoelina vainqueur\n\n**Principes dégagés :** La jurisprudence électorale de la HCC a consacré des principes importants : égalité des candidats, sincérité du scrutin, délais stricts des recours, présomption de régularité des opérations électorales en l'absence de preuve contraire."
+          },
+          {
+            "sous_titre": "4.3 La jurisprudence sur les droits fondamentaux",
+            "texte": "La HCC a rendu plusieurs décisions importantes en matière de droits fondamentaux.\n\n**Égalité et non-discrimination :** La HCC a consacré le principe d'égalité devant la loi comme norme fondamentale, en annulant des dispositions législatives créant des distinctions injustifiées entre citoyens.\n\n**Liberté d'expression et presse :** La HCC a veillé à ce que les restrictions à la liberté de la presse soient proportionnées et ne vident pas ce droit de sa substance. Dans plusieurs décisions, elle a rappelé que toute restriction à la liberté d'expression doit être prévue par la loi, poursuivre un but légitime et être nécessaire dans une société démocratique.\n\n**Droits de la défense :** La HCC a affirmé que le droit à un procès équitable, incluant le droit à la défense et la présomption d'innocence, est un principe constitutionnel non dérogeable.\n\n**Droits des femmes :** L'article 6 de la Constitution malgache de 2010 consacre l'égalité entre hommes et femmes. La HCC a veillé à ce que les dispositions législatives ne contreviennent pas à ce principe, s'inscrivant ainsi dans les engagements internationaux de Madagascar (Convention CEDAW ratifiée)."
+          },
+          {
+            "sous_titre": "4.4 La jurisprudence sur les lois organiques et le règlement des assemblées",
+            "texte": "Les lois organiques étant soumises de plein droit au contrôle de la HCC avant promulgation, la Cour a développé une jurisprudence substantielle dans ce domaine.\n\n**Loi organique sur la HCC elle-même (n° 2016-001) :** La HCC a validé les dispositions de sa propre loi organique, tout en précisant certaines modalités procédurales.\n\n**Règlements des assemblées :** La HCC a plusieurs fois rappelé aux assemblées les limites constitutionnelles de leur autonomie réglementaire. Elle a notamment veillé au respect des droits de l'opposition dans les procédures parlementaires.\n\n**Délégation législative :** La HCC a développé une jurisprudence sur les limites du pouvoir réglementaire du gouvernement par rapport au domaine de la loi. Elle a précisé que certaines matières (libertés fondamentales, état des personnes, droit pénal, fiscalité) relèvent exclusivement de la loi et ne peuvent être régies par voie d'ordonnance ou de décret qu'en cas d'habilitation expresse du Parlement."
+          }
+        ]
+      },
+      {
+        "id": "lecon_5",
+        "titre": "La HCC dans le système constitutionnel de la IVe République",
+        "contenu": [
+          {
+            "sous_titre": "5.1 La HCC et le Président de la République",
+            "texte": "La Constitution de 2010 institue un régime semi-présidentiel où le Président de la République détient des pouvoirs considérables. La HCC joue un rôle d'équilibre essentiel.\n\n**Contrôle des actes présidentiels :** La HCC peut être saisie pour contrôler la constitutionnalité des ordonnances et décrets présidentiels empiétant sur le domaine de la loi.\n\n**Vacance et empêchement :** C'est la HCC qui constate officiellement la vacance de la présidence. En cas d'empêchement temporaire, la HCC en prend acte et organise l'intérim constitutionnel.\n\n**Article 50 de la Constitution :** Le Président de la République peut dissoudre l'Assemblée nationale après avis de la HCC. Cet avis, bien que consultatif, engage la responsabilité institutionnelle du Chef de l'État s'il n'en tient pas compte."
+          },
+          {
+            "sous_titre": "5.2 La HCC et le Parlement",
+            "texte": "La relation entre la HCC et le Parlement est structurée autour du contrôle de constitutionnalité des lois.\n\n**Irrecevabilité des amendements empiétant sur le domaine réglementaire :** La HCC peut être saisie pour déclarer irrecevables des amendements parlementaires qui empiéteraient sur le pouvoir réglementaire du gouvernement.\n\n**Délimitation du domaine de la loi :** L'article 96 de la Constitution énumère les matières relevant du domaine de la loi. La HCC veille à ce que le Parlement ne légifère que dans ces matières et que le gouvernement n'empiète pas non plus sur le domaine législatif par voie d'ordonnances non habilitées.\n\n**Dissolution et continuité :** En cas de dissolution de l'Assemblée nationale, la HCC veille à ce que le délai constitutionnel pour l'organisation de nouvelles élections soit respecté."
+          },
+          {
+            "sous_titre": "5.3 Limites et critiques de la jurisprudence constitutionnelle malgache",
+            "texte": "La jurisprudence de la HCC n'est pas exempte de critiques, qui reflètent les défis de l'État de droit à Madagascar.\n\n**Critique d'instrumentalisation politique :** La composition de la HCC (membres nommés par le Président de la République et les présidents des chambres) expose la Cour au risque d'être perçue comme un instrument au service du pouvoir en place. Certaines décisions prises en période de crise ont été interprétées comme politiquement motivées.\n\n**Faible accessibilité pour les citoyens ordinaires :** Le mécanisme de l'exception d'inconstitutionnalité, bien que prévu par la Constitution de 2010, reste peu utilisé par les justiciables ordinaires en raison de la complexité procédurale et du manque d'information juridique, particulièrement dans des régions comme DIANA.\n\n**Tension entre légalité et légitimité :** L'histoire constitutionnelle malgache montre une tension récurrente entre la légalité constitutionnelle formelle et la légitimité politique effective. La HCC a parfois été contrainte de choisir entre l'une et l'autre, avec des résultats contestés.\n\n**Absence d'opinion dissidente publiée :** Contrairement à d'autres cours constitutionnelles africaines (notamment la Cour constitutionnelle d'Afrique du Sud), la HCC ne publie pas les opinions dissidentes de ses membres, ce qui limite la transparence du délibéré et le développement de la doctrine constitutionnelle."
+          }
+        ]
+      },
+      {
+        "id": "lecon_6",
+        "titre": "Comparaison avec d'autres modèles constitutionnels africains",
+        "contenu": [
+          {
+            "sous_titre": "6.1 Le modèle kelsénien et ses adaptations africaines",
+            "texte": "La HCC malgache s'inscrit dans le modèle de justice constitutionnelle concentrée dit 'kelsénien' (du nom du juriste autrichien Hans Kelsen), caractérisé par l'existence d'une cour spécialisée unique chargée du contrôle de constitutionnalité, distincte des juridictions ordinaires. Ce modèle — introduit en France avec le Conseil constitutionnel (1958) — a été largement adopté par les anciennes colonies françaises d'Afrique.\n\nMadagascar, ancienne colonie française, a naturellement adopté ce modèle dès sa première constitution post-indépendance. La Constitution de 2010 en constitue la version la plus élaborée.\n\nLes adaptations africaines du modèle kelsénien incluent généralement : l'élargissement des autorités habilitées à saisir la cour, l'introduction progressive du contrôle a posteriori (exception d'inconstitutionnalité), et la combinaison des fonctions de juge constitutionnel et de juge électoral."
+          },
+          {
+            "sous_titre": "6.2 Spécificités malgaches",
+            "texte": "La HCC présente plusieurs spécificités par rapport aux modèles comparables dans la région :\n\n**Combinaison des fonctions :** La HCC cumule les fonctions de juge constitutionnel, de juge électoral suprême et d'organe consultatif institutionnel. Cette combinaison est plus large que dans certains pays voisins.\n\n**Rôle en période de crise :** L'histoire politique malgache, marquée par des crises constitutionnelles récurrentes (1972, 1991, 2001-2002, 2009), a conduit la HCC à développer une jurisprudence de crise sans équivalent dans la région.\n\n**Intégration du droit international :** La Constitution de 2010 affirme que les traités et accords internationaux régulièrement ratifiés ont une autorité supérieure à celle des lois dès leur publication. La HCC peut donc être amenée à contrôler la conformité des lois aux traités internationaux des droits de l'homme ratifiés par Madagascar (CEDAW, Charte africaine, Pactes onusiens)."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q1",
+        "question": "Combien de membres compose la Haute Cour Constitutionnelle de Madagascar ?",
+        "choix": [
+          "A) 7 membres",
+          "B) 9 membres",
+          "C) 11 membres",
+          "D) 12 membres"
+        ],
+        "reponse": "B",
+        "indices": ["Ce nombre figure à l'article 116 de la Constitution", "Trois fois trois"],
+        "explication": "La HCC est composée de neuf membres, nommés à raison de trois par le Président de la République, trois par le Président de l'Assemblée nationale et trois par le Président du Sénat."
+      },
+      {
+        "id": "q2",
+        "question": "Quelle est la durée du mandat des membres de la HCC ?",
+        "choix": [
+          "A) 5 ans renouvelable une fois",
+          "B) 6 ans non renouvelable",
+          "C) 7 ans non renouvelable",
+          "D) 4 ans renouvelable"
+        ],
+        "reponse": "C",
+        "indices": ["Ce mandat est plus long que le mandat présidentiel", "Il est non renouvelable pour garantir l'indépendance"],
+        "explication": "Les membres de la HCC sont nommés pour un mandat de sept ans non renouvelable. Cette durée et la non-rééligibilité garantissent leur indépendance vis-à-vis des autorités de nomination."
+      },
+      {
+        "id": "q3",
+        "question": "Quelle est la base constitutionnelle de la Haute Cour Constitutionnelle dans la Constitution de 2010 ?",
+        "choix": [
+          "A) Titre III, articles 60 à 70",
+          "B) Titre IV, articles 80 à 95",
+          "C) Titre VI, articles 114 à 124",
+          "D) Titre VIII, articles 140 à 150"
+        ],
+        "reponse": "C",
+        "indices": ["La HCC est dans la partie sur les institutions de contrôle", "Articles 114 à 124"],
+        "explication": "La HCC est instituée par le Titre VI de la Constitution malgache du 11 décembre 2010, aux articles 114 à 124, qui définissent sa composition, ses attributions et ses modes de fonctionnement."
+      },
+      {
+        "id": "q4",
+        "question": "Qui nomme le Président de la Haute Cour Constitutionnelle ?",
+        "choix": [
+          "A) Le Président de la République",
+          "B) Le Parlement en séance plénière",
+          "C) Les membres de la HCC eux-mêmes, en leur sein",
+          "D) Le Premier ministre"
+        ],
+        "reponse": "C",
+        "indices": ["Le Président de la HCC est élu par ses pairs", "Cela renforce l'indépendance de la Cour"],
+        "explication": "Le Président de la HCC est élu par les membres de la Cour en leur sein pour la durée de leur mandat. Cette élection interne renforce l'indépendance de la présidence de la HCC vis-à-vis des autorités politiques."
+      },
+      {
+        "id": "q5",
+        "question": "Le contrôle de constitutionnalité exercé avant la promulgation d'une loi est appelé :",
+        "choix": [
+          "A) Contrôle a posteriori",
+          "B) Contrôle diffus",
+          "C) Contrôle a priori",
+          "D) Contrôle incident"
+        ],
+        "reponse": "C",
+        "indices": ["A priori = avant", "Ce contrôle intervient avant que la loi soit en vigueur"],
+        "explication": "Le contrôle a priori est exercé avant la promulgation de la loi. Il permet d'éliminer les dispositions inconstitutionnelles avant qu'elles ne soient intégrées dans l'ordre juridique et ne créent des situations juridiques qu'il serait difficile de remettre en cause."
+      },
+      {
+        "id": "q6",
+        "question": "Quelles lois sont soumises de plein droit au contrôle obligatoire de la HCC avant leur promulgation ?",
+        "choix": [
+          "A) Toutes les lois ordinaires",
+          "B) Les lois de finances",
+          "C) Les lois organiques",
+          "D) Les lois relatives aux libertés publiques"
+        ],
+        "reponse": "C",
+        "indices": ["Ces lois ont un rang intermédiaire entre la Constitution et les lois ordinaires", "Elles complètent la Constitution"],
+        "explication": "Les lois organiques sont soumises de plein droit à la HCC avant leur promulgation (article 117 Constitution). Elles complètent la Constitution sur des points essentiels (organisation des pouvoirs, statut des institutions) et doivent donc être conformes à la norme suprême."
+      },
+      {
+        "id": "q7",
+        "question": "Quel est le nombre minimal de membres de l'Assemblée nationale pouvant saisir la HCC d'une loi ordinaire ?",
+        "choix": [
+          "A) 10 membres",
+          "B) Un tiers des membres",
+          "C) Un cinquième des membres",
+          "D) La moitié des membres"
+        ],
+        "reponse": "C",
+        "indices": ["Ce seuil est fixé par la Constitution", "Il est plus bas que la majorité"],
+        "explication": "Un cinquième des membres de l'Assemblée nationale peut saisir la HCC pour contrôle de constitutionnalité d'une loi ordinaire. Ce seuil, relativement bas, permet à l'opposition parlementaire de recourir à la HCC sans être majoritaire."
+      },
+      {
+        "id": "q8",
+        "question": "L'exception d'inconstitutionnalité permet à :",
+        "choix": [
+          "A) Un parlementaire de bloquer le vote d'une loi",
+          "B) Tout justiciable d'invoquer l'inconstitutionnalité d'une loi applicable à son litige",
+          "C) La HCC de s'autosaisir de toute loi contraire à la Constitution",
+          "D) Le gouvernement de suspendre l'application d'une loi contestée"
+        ],
+        "reponse": "B",
+        "indices": ["C'est un mécanisme ouvert aux citoyens ordinaires", "Il intervient lors d'un procès en cours"],
+        "explication": "L'exception d'inconstitutionnalité permet à tout justiciable, lors d'un procès, d'invoquer l'inconstitutionnalité d'une loi applicable à son litige. La question est transmise via la juridiction saisie et, après filtrage par la Cour suprême, éventuellement portée devant la HCC."
+      },
+      {
+        "id": "q9",
+        "question": "Quel est l'effet d'une déclaration d'inconstitutionnalité par la HCC ?",
+        "choix": [
+          "A) La disposition est suspendue pendant 3 mois avant abrogation définitive",
+          "B) La disposition est abrogée avec effet absolu (erga omnes)",
+          "C) La disposition reste applicable mais ne peut plus être invoquée dans le litige en cours",
+          "D) La disposition est renvoyée au Parlement pour révision dans un délai de 6 mois"
+        ],
+        "reponse": "B",
+        "indices": ["L'effet est absolu, il vaut pour tous", "Erga omnes = à l'égard de tous"],
+        "explication": "La déclaration d'inconstitutionnalité a un effet erga omnes (à l'égard de tous) : la disposition est abrogée et ne peut plus être appliquée par aucune juridiction ni aucune autorité. Cet effet absolu distingue le contrôle concentré du contrôle diffus (où la décision ne vaut qu'entre les parties)."
+      },
+      {
+        "id": "q10",
+        "question": "Quel est le délai ordinaire dans lequel la HCC doit statuer sur un contrôle de constitutionnalité ?",
+        "choix": [
+          "A) 15 jours",
+          "B) 30 jours",
+          "C) 45 jours",
+          "D) 60 jours"
+        ],
+        "reponse": "B",
+        "indices": ["Ce délai est constitutionnellement fixé", "Il est réduit à 8 jours en cas d'urgence"],
+        "explication": "La HCC dispose de 30 jours pour statuer sur un contrôle de constitutionnalité ordinaire. Ce délai est réduit à 8 jours en cas d'urgence déclarée par le gouvernement, notamment pour les lois de finances ou les textes liés à une situation de crise."
+      },
+      {
+        "id": "q11",
+        "question": "La HCC délibère-t-elle en audience publique ?",
+        "choix": [
+          "A) Oui, toutes les délibérations sont publiques",
+          "B) Non, la HCC délibère à huis clos et les délibérations sont secrètes",
+          "C) Oui, mais uniquement pour les contentieux électoraux",
+          "D) Non, sauf si une partie en fait la demande"
+        ],
+        "reponse": "B",
+        "indices": ["Le délibéré des juridictions est traditionnellement secret", "La HCC n'y fait pas exception"],
+        "explication": "La HCC délibère à huis clos et ses délibérations sont secrètes. Les membres sont tenus au secret du délibéré. Les décisions sont rendues publiques après délibéré, mais le processus interne reste confidentiel. La HCC malgache ne publie pas d'opinions dissidentes."
+      },
+      {
+        "id": "q12",
+        "question": "Quel quorum est requis pour que la HCC puisse valablement délibérer ?",
+        "choix": [
+          "A) La totalité des 9 membres",
+          "B) Au moins 5 membres",
+          "C) Au moins 7 membres",
+          "D) Au moins 6 membres"
+        ],
+        "reponse": "C",
+        "indices": ["Ce quorum représente les deux tiers de la Cour", "En dessous, la Cour ne peut pas statuer"],
+        "explication": "La HCC ne peut valablement délibérer qu'en présence d'au moins sept de ses neuf membres. Ce quorum élevé garantit que les décisions reflètent une large majorité de la Cour et non seulement quelques membres."
+      },
+      {
+        "id": "q13",
+        "question": "Les décisions de la HCC sont-elles susceptibles de recours ?",
+        "choix": [
+          "A) Oui, devant la Cour suprême de Madagascar",
+          "B) Oui, devant la Cour africaine des droits de l'homme et des peuples",
+          "C) Non, elles ne sont susceptibles d'aucun recours",
+          "D) Oui, mais uniquement pour les décisions électorales"
+        ],
+        "reponse": "C",
+        "indices": ["La HCC est au sommet de l'ordre constitutionnel", "Ses décisions ont une autorité absolue"],
+        "explication": "En vertu de l'article 120 de la Constitution, les décisions de la HCC s'imposent à toutes les autorités et ne sont susceptibles d'aucun recours. Cette irrévocabilité est inhérente à la nature de juridiction suprême de la HCC."
+      },
+      {
+        "id": "q14",
+        "question": "Andriantsimialona Hery, candidat à l'élection présidentielle de 2023 à Madagascar, conteste les résultats proclamés. Devant quelle juridiction doit-il porter son recours ?",
+        "choix": [
+          "A) La Cour suprême de Madagascar",
+          "B) Le Tribunal administratif d'Antananarivo",
+          "C) La Haute Cour Constitutionnelle",
+          "D) La Cour d'appel d'Antananarivo"
+        ],
+        "reponse": "C",
+        "indices": ["La HCC est le juge électoral suprême", "Elle proclame les résultats définitifs"],
+        "explication": "La HCC est le juge électoral suprême à Madagascar. Tout recours en contentieux de l'élection présidentielle est porté directement devant elle. Elle proclame les résultats définitifs et tranche les contestations."
+      },
+      {
+        "id": "q15",
+        "question": "Qui constate officiellement la vacance de la Présidence de la République à Madagascar ?",
+        "choix": [
+          "A) Le Président de l'Assemblée nationale",
+          "B) La Haute Cour Constitutionnelle",
+          "C) Le Conseil des ministres",
+          "D) La Cour suprême"
+        ],
+        "reponse": "B",
+        "indices": ["C'est la juridiction constitutionnelle suprême", "Cette compétence a été cruciale lors des crises malgaches"],
+        "explication": "C'est la HCC qui constate officiellement la vacance de la Présidence de la République (décès, démission, incapacité définitive) ou l'empêchement temporaire du Chef de l'État. Cette fonction a été exercée lors des crises institutionnelles de 2009 et 2014."
+      },
+      {
+        "id": "q16",
+        "question": "La Constitution malgache de 2010 est celle de quelle République ?",
+        "choix": [
+          "A) Deuxième République",
+          "B) Troisième République",
+          "C) Quatrième République",
+          "D) Cinquième République"
+        ],
+        "reponse": "C",
+        "indices": ["Elle fait suite à la crise de 2009", "Madagascar en est à sa quatrième constitution majeure"],
+        "explication": "La Constitution du 11 décembre 2010 est celle de la Quatrième République de Madagascar, adoptée après la crise politique de 2009 qui avait renversé la Troisième République. Elle a été approuvée par référendum."
+      },
+      {
+        "id": "q17",
+        "question": "Le modèle de justice constitutionnelle adopté par Madagascar (cour spécialisée unique) est dit :",
+        "choix": [
+          "A) Modèle américain ou diffus",
+          "B) Modèle kelsénien ou concentré",
+          "C) Modèle britannique de souveraineté parlementaire",
+          "D) Modèle scandinave de contrôle parlementaire"
+        ],
+        "reponse": "B",
+        "indices": ["Ce modèle vient du juriste autrichien Hans Kelsen", "Il est dit 'concentré' car une seule cour a le monopole du contrôle"],
+        "explication": "Madagascar adopte le modèle kelsénien (ou concentré), caractérisé par l'existence d'une cour constitutionnelle spécialisée unique dotée du monopole du contrôle de constitutionnalité. Ce modèle, introduit en Autriche puis en France avec le Conseil constitutionnel, a été largement suivi par les anciennes colonies françaises d'Afrique."
+      },
+      {
+        "id": "q18",
+        "question": "La loi organique sur la HCC porte le numéro et la date suivants :",
+        "choix": [
+          "A) Loi n° 2010-004 du 15 mars 2010",
+          "B) Loi n° 2016-001 du 26 juillet 2016",
+          "C) Loi n° 2003-025 du 5 septembre 2003",
+          "D) Loi n° 2014-020 du 10 septembre 2014"
+        ],
+        "reponse": "B",
+        "indices": ["Cette loi est postérieure à la Constitution de 2010", "Elle date de 2016"],
+        "explication": "La loi organique sur la Haute Cour Constitutionnelle est la Loi n° 2016-001 du 26 juillet 2016. Elle précise et complète les dispositions constitutionnelles sur la composition, les attributions et la procédure de la HCC."
+      },
+      {
+        "id": "q19",
+        "question": "La fonction de membre de la HCC est-elle compatible avec un mandat de député à l'Assemblée nationale ?",
+        "choix": [
+          "A) Oui, si le député est juriste",
+          "B) Oui, avec l'accord du Président de la HCC",
+          "C) Non, les deux fonctions sont incompatibles",
+          "D) Oui, pendant les sessions parlementaires uniquement"
+        ],
+        "reponse": "C",
+        "indices": ["L'incompatibilité préserve l'indépendance de la HCC", "Le membre de la HCC ne peut exercer aucun mandat électif"],
+        "explication": "La fonction de membre de la HCC est incompatible avec tout mandat électif, dont le mandat de député. Cette incompatibilité garantit l'indépendance des membres vis-à-vis des institutions dont ils contrôlent la constitutionnalité des actes."
+      },
+      {
+        "id": "q20",
+        "question": "Quel article de la Constitution malgache de 2010 consacre l'égalité entre hommes et femmes ?",
+        "choix": [
+          "A) Article 3",
+          "B) Article 6",
+          "C) Article 14",
+          "D) Article 28"
+        ],
+        "reponse": "B",
+        "indices": ["Cet article est dans les premiers articles de la Constitution", "Il garantit l'égalité des sexes"],
+        "explication": "L'article 6 de la Constitution malgache de 2010 consacre l'égalité entre hommes et femmes. La HCC veille à ce que les dispositions législatives ne contreviennent pas à ce principe constitutionnel, en cohérence avec la Convention CEDAW ratifiée par Madagascar."
+      },
+      {
+        "id": "q21",
+        "question": "En cas de partage des voix au sein de la HCC, qui départage ?",
+        "choix": [
+          "A) Le Président de la République",
+          "B) Le doyen d'âge des membres",
+          "C) Le Président de la HCC, dont la voix est prépondérante",
+          "D) Un tirage au sort entre les membres"
+        ],
+        "reponse": "C",
+        "indices": ["Le Président a un rôle de départage", "Sa voix compte double en cas d'égalité"],
+        "explication": "En cas de partage des voix au sein de la HCC, le Président de la Cour dispose d'une voix prépondérante qui permet de trancher. Cette règle prévient les blocages décisionnels."
+      },
+      {
+        "id": "q22",
+        "question": "Que se passe-t-il si la HCC déclare une loi organique non conforme à la Constitution ?",
+        "choix": [
+          "A) La loi est promulguée avec des réserves d'interprétation",
+          "B) La loi ne peut pas être promulguée et doit être revotée ou abandonnée",
+          "C) La loi est promulguée mais suspendue pendant 6 mois",
+          "D) La loi est soumise à référendum populaire"
+        ],
+        "reponse": "B",
+        "indices": ["Le contrôle a priori est préventif", "Une loi déclarée inconstitutionnelle ne peut entrer en vigueur"],
+        "explication": "Si la HCC déclare une loi organique non conforme à la Constitution, le Président de la République ne peut pas la promulguer. La loi est renvoyée au Parlement pour modification ou abandon. Elle ne peut entrer en vigueur qu'après nouvelle délibération et nouvelle décision de conformité de la HCC."
+      },
+      {
+        "id": "q23",
+        "question": "La HCC peut-elle contrôler la constitutionnalité d'un traité international avant sa ratification par Madagascar ?",
+        "choix": [
+          "A) Non, les traités relèvent exclusivement du droit international",
+          "B) Oui, le Président de la République peut saisir la HCC avant ratification",
+          "C) Non, seule la Cour suprême est compétente pour les traités",
+          "D) Oui, mais uniquement pour les traités relatifs aux droits de l'homme"
+        ],
+        "reponse": "B",
+        "indices": ["Le contrôle préventif s'étend aux traités", "Le Président de la République est habilité à saisir la HCC"],
+        "explication": "Le Président de la République peut saisir la HCC pour contrôler la constitutionnalité d'un engagement international avant sa ratification. Si la HCC constate une contrariété à la Constitution, la ratification nécessite une révision constitutionnelle préalable."
+      },
+      {
+        "id": "q24",
+        "question": "Rasolofonirina Nathalie, avocate à Antsiranana, défend un client poursuivi pour une infraction prévue par une loi qu'elle estime inconstitutionnelle. Quelle voie procédurale doit-elle emprunter ?",
+        "choix": [
+          "A) Saisir directement la HCC par requête",
+          "B) Soulever l'exception d'inconstitutionnalité devant la juridiction saisie du fond",
+          "C) Saisir le Président de la République pour qu'il défère la loi à la HCC",
+          "D) Former un recours directement devant la Cour africaine des droits de l'homme"
+        ],
+        "reponse": "B",
+        "indices": ["Le justiciable ne saisit pas directement la HCC en contrôle a posteriori", "L'exception est soulevée devant le juge du fond"],
+        "explication": "Maître Rasolofonirina doit soulever l'exception d'inconstitutionnalité devant la juridiction pénale saisie du fond. Si la question est jugée sérieuse, la juridiction surseoit à statuer et transmet la question à la Cour suprême, qui la renvoie à la HCC si les conditions sont remplies."
+      },
+      {
+        "id": "q25",
+        "question": "Le renouvellement des membres de la HCC s'effectue :",
+        "choix": [
+          "A) En totalité tous les 7 ans",
+          "B) Par moitié tous les 3 ans et demi",
+          "C) Par tiers environ tous les deux ans et quatre mois",
+          "D) Au gré des nominations par les autorités compétentes"
+        ],
+        "reponse": "C",
+        "indices": ["Le renouvellement partiel assure la continuité", "9 membres renouvelés par tiers = 3 à la fois"],
+        "explication": "Le renouvellement de la HCC s'effectue par tiers, soit environ tous les deux ans et quatre mois. Ce renouvellement partiel garantit la continuité institutionnelle et évite un changement brutal de composition qui pourrait affecter la jurisprudence."
+      },
+      {
+        "id": "q26",
+        "question": "Quel rôle la HCC a-t-elle joué lors de la crise politique malgache de 2009 ?",
+        "choix": [
+          "A) Elle a refusé de statuer en invoquant son incompétence",
+          "B) Elle a dissous l'Assemblée nationale",
+          "C) Elle a constaté la vacance du pouvoir et reconnu la Haute Autorité de Transition",
+          "D) Elle a annulé les élections de 2006 et convoqué de nouvelles élections"
+        ],
+        "reponse": "C",
+        "indices": ["La crise de 2009 a renversé Ravalomanana", "La HCC a dû gérer une situation sans précédent constitutionnel"],
+        "explication": "Lors de la crise de 2009, la HCC a dû statuer sur la vacance du pouvoir après la démission forcée du Président Ravalomanana. Sa décision de reconnaître la Haute Autorité de Transition (HAT) d'Andry Rajoelina a été controversée, certains juristes l'interprétant comme une légitimation d'un coup d'État institutionnel."
+      },
+      {
+        "id": "q27",
+        "question": "La HCC publie-t-elle les opinions dissidentes de ses membres ?",
+        "choix": [
+          "A) Oui, systématiquement pour toutes les décisions",
+          "B) Oui, mais uniquement pour les décisions électorales",
+          "C) Non, la HCC malgache ne publie pas d'opinions dissidentes",
+          "D) Oui, uniquement si la majorité l'autorise"
+        ],
+        "reponse": "C",
+        "indices": ["Contrairement à certaines cours constitutionnelles africaines", "Le secret du délibéré est total"],
+        "explication": "La HCC malgache ne publie pas les opinions dissidentes de ses membres, contrairement par exemple à la Cour constitutionnelle d'Afrique du Sud. Le secret du délibéré est total, ce qui limite la transparence et le développement de la doctrine constitutionnelle malgache."
+      },
+      {
+        "id": "q28",
+        "question": "L'article 96 de la Constitution malgache définit :",
+        "choix": [
+          "A) Les conditions d'éligibilité à la présidence de la République",
+          "B) Les matières relevant du domaine de la loi",
+          "C) La procédure de révision constitutionnelle",
+          "D) Les attributions de la HCC"
+        ],
+        "reponse": "B",
+        "indices": ["Il délimite ce que le Parlement peut réglementer", "Ce qui n'est pas dans cet article relève du pouvoir réglementaire"],
+        "explication": "L'article 96 de la Constitution malgache énumère les matières relevant du domaine de la loi (libertés fondamentales, état des personnes, droit pénal, fiscalité, etc.). La HCC veille à ce que le Parlement ne légifère que dans ces matières et que le gouvernement ne les régisse pas par décret ou ordonnance non habilitée."
+      },
+      {
+        "id": "q29",
+        "question": "Les règlements intérieurs de l'Assemblée nationale et du Sénat sont-ils soumis au contrôle de la HCC ?",
+        "choix": [
+          "A) Non, les assemblées ont une autonomie règlementaire absolue",
+          "B) Oui, ils doivent être soumis à la HCC avant leur mise en application",
+          "C) Seulement si l'opposition parlementaire le demande",
+          "D) Non, seul le Conseil d'État peut les contrôler"
+        ],
+        "reponse": "B",
+        "indices": ["Le contrôle s'étend aux règles internes des assemblées", "Il est automatique, avant application"],
+        "explication": "Les règlements intérieurs de l'Assemblée nationale et du Sénat sont soumis de plein droit à la HCC avant leur mise en application. La HCC vérifie notamment que ces règlements respectent les droits de l'opposition et les garanties procédurales constitutionnelles."
+      },
+      {
+        "id": "q30",
+        "question": "Quel principe constitutionnel la HCC a-t-elle consacré concernant les restrictions à la liberté d'expression ?",
+        "choix": [
+          "A) Toute restriction est inconstitutionnelle",
+          "B) Les restrictions doivent être prévues par la loi, poursuivre un but légitime et être nécessaires dans une société démocratique",
+          "C) Seul le Président de la République peut restreindre la liberté d'expression par décret",
+          "D) Les restrictions sont licites si elles sont votées à la majorité absolue du Parlement"
+        ],
+        "reponse": "B",
+        "indices": ["Ce triple test est commun aux cours constitutionnelles et aux organes de droits de l'homme", "Prévision légale + but légitime + nécessité"],
+        "explication": "La HCC a consacré le test de proportionnalité pour les restrictions aux libertés fondamentales : toute restriction à la liberté d'expression doit être (1) prévue par la loi, (2) poursuivre un but légitime, et (3) être nécessaire et proportionnée. Ces critères s'inspirent du droit international des droits de l'homme."
+      },
+      {
+        "id": "q31",
+        "question": "Madagascar a ratifié quelle convention internationale sur les droits des femmes, dont la HCC assure le respect ?",
+        "choix": [
+          "A) La Convention d'Istanbul",
+          "B) La Convention CEDAW",
+          "C) La Déclaration de Pékin",
+          "D) Le Protocole de Maputo uniquement"
+        ],
+        "reponse": "B",
+        "indices": ["CEDAW = Convention sur l'Élimination de toutes les formes de Discrimination À l'égard des Femmes", "C'est le principal traité onusien sur les droits des femmes"],
+        "explication": "Madagascar a ratifié la Convention sur l'Élimination de toutes les formes de Discrimination À l'égard des Femmes (CEDAW). La HCC veille à ce que les dispositions législatives respectent l'égalité entre hommes et femmes consacrée à l'article 6 de la Constitution, en cohérence avec cet engagement international."
+      },
+      {
+        "id": "q32",
+        "question": "La HCC peut-elle s'autosaisir pour contrôler une loi ordinaire jugée inconstitutionnelle ?",
+        "choix": [
+          "A) Oui, elle peut toujours s'autosaisir",
+          "B) Non, pour les lois ordinaires, elle doit être saisie par les autorités habilitées",
+          "C) Oui, mais uniquement dans les 30 jours suivant la promulgation",
+          "D) Oui, sur demande du Médiateur de la République"
+        ],
+        "reponse": "B",
+        "indices": ["L'autosaisine est limitée aux matières spécifiques (lois organiques, règlements des assemblées)", "Les lois ordinaires nécessitent une saisine externe"],
+        "explication": "La HCC ne peut pas s'autosaisir pour contrôler une loi ordinaire. Pour ces lois, elle doit être saisie par le Président de la République, les Présidents des assemblées ou un cinquième des membres d'une chambre. L'autosaisine est réservée aux lois organiques et aux règlements des assemblées."
+      },
+      {
+        "id": "q33",
+        "question": "Quel est le rang des traités internationaux régulièrement ratifiés par Madagascar dans la hiérarchie des normes ?",
+        "choix": [
+          "A) Inférieur à la loi ordinaire",
+          "B) Équivalent à la loi ordinaire",
+          "C) Supérieur à la loi, inférieur à la Constitution",
+          "D) Supérieur à la Constitution"
+        ],
+        "reponse": "C",
+        "indices": ["La Constitution malgache affirme leur supériorité sur les lois", "Mais la Constitution reste la norme suprême"],
+        "explication": "La Constitution de 2010 affirme que les traités et accords internationaux régulièrement ratifiés ont une autorité supérieure à celle des lois dès leur publication. Ils occupent donc un rang intermédiaire : supérieur aux lois, mais inférieur à la Constitution."
+      },
+      {
+        "id": "q34",
+        "question": "Ranarivelo Solofoniaina, président d'un parti d'opposition à Madagascar, conteste la constitutionnalité d'une loi électorale récemment promulguée. Il veut saisir la HCC. Est-ce possible ?",
+        "choix": [
+          "A) Oui, tout citoyen peut saisir directement la HCC",
+          "B) Non, la loi est déjà promulguée et le contrôle a priori est clôturé ; seul un justiciable lors d'un procès peut l'invoquer via l'exception d'inconstitutionnalité",
+          "C) Oui, un leader de parti peut toujours saisir la HCC",
+          "D) Non, seul le Président de la République peut rouvrir un contrôle après promulgation"
+        ],
+        "reponse": "B",
+        "indices": ["La loi est promulguée, le contrôle a priori n'est plus possible", "Le contrôle a posteriori passe par une exception en cours de procès"],
+        "explication": "Une fois la loi promulguée, le contrôle a priori est clôturé. Ranarivelo, en sa qualité de leader de parti, ne peut pas saisir directement la HCC. La seule voie disponible est l'exception d'inconstitutionnalité, soulevée lors d'un procès où cette loi serait applicable à son situation. Il n'existe pas à Madagascar de recours direct des citoyens devant la HCC (contrairement au recours constitutionnel direct allemand — Verfassungsbeschwerde)."
+      },
+      {
+        "id": "q35",
+        "question": "La Charte africaine des droits de l'homme et des peuples a-t-elle été ratifiée par Madagascar ?",
+        "choix": [
+          "A) Non, Madagascar n'est pas membre de l'Union africaine",
+          "B) Oui, Madagascar a ratifié la Charte africaine",
+          "C) Non, Madagascar a signé mais pas ratifié",
+          "D) Oui, mais avec de nombreuses réserves limitant son application"
+        ],
+        "reponse": "B",
+        "indices": ["Madagascar est membre de l'Union africaine", "La Charte africaine a été ratifiée par presque tous les États africains"],
+        "explication": "Madagascar a ratifié la Charte africaine des droits de l'homme et des peuples. En vertu de la hiérarchie des normes constitutionnelles malgaches, ce traité a une autorité supérieure à la loi ordinaire et la HCC peut en assurer le respect lors du contrôle de constitutionnalité."
+      },
+      {
+        "id": "q36",
+        "question": "L'avis rendu par la HCC à la demande du Président de la République est-il contraignant ?",
+        "choix": [
+          "A) Oui, le Président est juridiquement tenu de le suivre",
+          "B) Non, il est consultatif mais a une haute autorité morale et institutionnelle",
+          "C) Oui, mais seulement pour les questions de droit électoral",
+          "D) Non, et il n'a aucune valeur juridique particulière"
+        ],
+        "reponse": "B",
+        "indices": ["Un 'avis' consultatif se distingue d'une 'décision' contraignante", "Mais l'autorité morale de la HCC lui donne du poids"],
+        "explication": "Les avis rendus par la HCC à titre consultatif ne sont pas juridiquement contraignants. Toutefois, leur autorité morale et institutionnelle est considérable : un Président qui passerait outre un avis défavorable de la HCC s'exposerait à une forte contestation de la légitimité de son acte."
+      },
+      {
+        "id": "q37",
+        "question": "La dissolution de l'Assemblée nationale par le Président de la République requiert-elle l'avis de la HCC ?",
+        "choix": [
+          "A) Non, le Président dispose d'un pouvoir discrétionnaire absolu",
+          "B) Oui, l'article 50 de la Constitution prévoit un avis de la HCC",
+          "C) Non, seul le Premier ministre doit être consulté",
+          "D) Oui, et cet avis est contraignant"
+        ],
+        "reponse": "B",
+        "indices": ["L'article 50 de la Constitution est la base textuelle", "Cet avis est consultatif mais obligatoire dans la procédure"],
+        "explication": "L'article 50 de la Constitution malgache prévoit que le Président de la République peut dissoudre l'Assemblée nationale après avis de la HCC. Cet avis est consultatif (le Président n'est pas tenu de le suivre) mais obligatoire dans la procédure : la dissolution sans avis préalable de la HCC serait irrégulière."
+      },
+      {
+        "id": "q38",
+        "question": "Quelle critique majeure est adressée à la composition de la HCC malgache ?",
+        "choix": [
+          "A) Les membres sont trop jeunes et manquent d'expérience",
+          "B) Le mode de nomination par les autorités politiques expose la Cour au risque d'instrumentalisation politique",
+          "C) Il n'y a pas assez de membres pour garantir un quorum permanent",
+          "D) La durée du mandat est trop courte pour permettre une jurisprudence cohérente"
+        ],
+        "reponse": "B",
+        "indices": ["Les membres sont nommés par des autorités politiques", "Cela peut créer un lien de dépendance"],
+        "explication": "La critique majeure adressée à la HCC porte sur son mode de composition : les neuf membres sont tous nommés par des autorités politiques (Président de la République, Présidents des assemblées), ce qui expose la Cour au risque d'être perçue comme un instrument au service du pouvoir en place, malgré les garanties formelles d'indépendance."
+      },
+      {
+        "id": "q39",
+        "question": "En matière électorale, dans quel délai la HCC doit-elle statuer sur les recours urgents ?",
+        "choix": [
+          "A) 30 jours",
+          "B) 15 jours",
+          "C) 8 jours",
+          "D) 5 jours"
+        ],
+        "reponse": "D",
+        "indices": ["Les contentieux électoraux sont urgents par nature", "Le délai est très court"],
+        "explication": "Pour les contentieux électoraux urgents, la HCC doit statuer dans un délai de 5 jours. Ce délai très court est justifié par la nécessité de ne pas paralyser le processus électoral et de proclamer rapidement les résultats définitifs."
+      },
+      {
+        "id": "q40",
+        "question": "Andriamanantsoa Toky, fonctionnaire à Diego-Suarez, estime que sa mise à l'écart d'un concours administratif viole le principe constitutionnel d'égalité. Peut-il saisir directement la HCC ?",
+        "choix": [
+          "A) Oui, tout citoyen peut saisir directement la HCC pour violation d'un droit fondamental",
+          "B) Non, il doit d'abord introduire un recours administratif, puis soulever éventuellement l'exception d'inconstitutionnalité si une loi en cause est contestable",
+          "C) Oui, mais uniquement via le Médiateur de la République",
+          "D) Non, seul le Tribunal administratif peut traiter les violations de droits constitutionnels des fonctionnaires"
+        ],
+        "reponse": "B",
+        "indices": ["Il n'existe pas de recours direct des citoyens devant la HCC à Madagascar", "L'inconstitutionnalité se soulève lors d'un procès"],
+        "explication": "Andriamanantsoa ne peut pas saisir directement la HCC. Il doit d'abord contester la décision administrative par la voie administrative (recours gracieux, puis recours contentieux devant le Tribunal administratif). Si une loi applicable à son cas est inconstitutionnelle, il pourra soulever l'exception d'inconstitutionnalité devant la juridiction administrative saisie."
+      },
+      {
+        "id": "q41",
+        "question": "Quelle est la principale différence entre le recours constitutionnel direct allemand (Verfassungsbeschwerde) et le système malgache ?",
+        "choix": [
+          "A) En Allemagne, seul le gouvernement peut saisir la cour constitutionnelle",
+          "B) En Allemagne, tout citoyen peut saisir directement la cour constitutionnelle après épuisement des voies ordinaires ; ce recours n'existe pas à Madagascar",
+          "C) En Allemagne, la cour constitutionnelle peut s'autosaisir de toute loi ; Madagascar aussi",
+          "D) Il n'y a aucune différence significative entre les deux systèmes"
+        ],
+        "reponse": "B",
+        "indices": ["Le Verfassungsbeschwerde est un recours individuel direct", "Ce droit n'existe pas en France ni à Madagascar"],
+        "explication": "Le recours constitutionnel direct (Verfassungsbeschwerde) permet à tout citoyen allemand de saisir directement la Cour constitutionnelle fédérale pour violation de ses droits fondamentaux, après épuisement des voies ordinaires. Ce mécanisme n'existe pas à Madagascar : les citoyens malgaches ne peuvent accéder à la HCC que via l'exception d'inconstitutionnalité soulevée lors d'un procès."
+      },
+      {
+        "id": "q42",
+        "question": "Qu'est-ce qu'une 'réserve d'interprétation' dans la jurisprudence constitutionnelle ?",
+        "choix": [
+          "A) Une disposition par laquelle la HCC réserve sa décision à une date ultérieure",
+          "B) Une technique par laquelle la HCC déclare une loi conforme à la Constitution sous réserve d'une interprétation précise qu'elle indique",
+          "C) Un mécanisme permettant à certains membres de la HCC de ne pas participer au vote",
+          "D) Une clause permettant au Parlement de contester la décision de la HCC"
+        ],
+        "reponse": "B",
+        "indices": ["C'est une technique de validation conditionnelle", "La HCC valide mais oriente l'interprétation"],
+        "explication": "La réserve d'interprétation est une technique par laquelle la HCC déclare une loi conforme à la Constitution, mais seulement sous réserve qu'elle soit interprétée dans le sens précisé par la Cour. Cette technique évite de censurer une loi utile tout en encadrant son application pour la rendre compatible avec la Constitution."
+      },
+      {
+        "id": "q43",
+        "question": "Les décisions de la HCC s'imposent à quelles autorités ?",
+        "choix": [
+          "A) Uniquement aux autorités judiciaires",
+          "B) Uniquement aux autorités législatives et exécutives",
+          "C) À toutes les autorités de l'État, organes administratifs et juridictionnels, et à toutes les personnes physiques et morales",
+          "D) Uniquement aux parties au litige constitutionnel"
+        ],
+        "reponse": "C",
+        "indices": ["L'autorité des décisions est absolue et universelle", "Article 120 de la Constitution"],
+        "explication": "En vertu de l'article 120 de la Constitution, les décisions de la HCC s'imposent à toutes les autorités de l'État, à tous les organes administratifs et juridictionnels et à toutes les personnes physiques et morales. Cette portée universelle traduit la suprématie de la Constitution dans l'ordre juridique malgache."
+      },
+      {
+        "id": "q44",
+        "question": "Que signifie le terme 'bloc de constitutionnalité' en droit constitutionnel ?",
+        "choix": [
+          "A) L'ensemble des articles de la Constitution formant un bloc indivisible",
+          "B) L'ensemble des normes de valeur constitutionnelle servant de référence au contrôle de constitutionnalité (Constitution + préambule + principes fondamentaux reconnus)",
+          "C) Les lois organiques qui complètent la Constitution",
+          "D) Les traités internationaux ayant la même valeur que la Constitution"
+        ],
+        "reponse": "B",
+        "indices": ["Le bloc dépasse le texte strict de la Constitution", "Il inclut le préambule et les principes reconnus"],
+        "explication": "Le 'bloc de constitutionnalité' désigne l'ensemble des normes servant de référence au contrôle de constitutionnalité. À Madagascar, ce bloc inclut le texte de la Constitution de 2010, son préambule (qui fait référence aux droits fondamentaux), et les principes fondamentaux reconnus. La HCC contrôle la conformité des lois à l'ensemble de ce bloc."
+      },
+      {
+        "id": "q45",
+        "question": "Lors de l'élection présidentielle malgache de 2018, la HCC a dû se prononcer sur la constitutionnalité de décrets électoraux pris par ordonnance. Quelle était la question centrale ?",
+        "choix": [
+          "A) La validité des procurations de vote",
+          "B) La constitutionnalité de la modification du Code électoral par voie d'ordonnance sans habilitation parlementaire",
+          "C) Le financement des campagnes électorales",
+          "D) La validité des candidatures déposées hors délai"
+        ],
+        "reponse": "B",
+        "indices": ["La question portait sur le pouvoir normatif du gouvernement", "Peut-on modifier le Code électoral par ordonnance ?"],
+        "explication": "Lors de l'élection de 2018, la HCC a dû se prononcer sur la constitutionnalité de la modification du Code électoral par voie d'ordonnance, question centrale étant de savoir si le gouvernement pouvait modifier des règles électorales (relevant du domaine de la loi) sans habilitation parlementaire préalable."
+      },
+      {
+        "id": "q46",
+        "question": "La Charte africaine des droits de l'homme et des peuples a été adoptée par l'Organisation de l'Unité Africaine en quelle année ?",
+        "choix": [
+          "A) 1963",
+          "B) 1981",
+          "C) 1990",
+          "D) 2003"
+        ],
+        "reponse": "B",
+        "indices": ["La Charte est antérieure à l'Union africaine", "Elle date des années 1980"],
+        "explication": "La Charte africaine des droits de l'homme et des peuples (aussi appelée Charte de Banjul) a été adoptée par l'Organisation de l'Unité Africaine (OUA) en 1981. Elle est entrée en vigueur en 1986 et a été ratifiée par Madagascar."
+      },
+      {
+        "id": "q47",
+        "question": "Peut-on poursuivre pénalement un membre de la HCC pour une opinion exprimée dans l'exercice de ses fonctions ?",
+        "choix": [
+          "A) Oui, comme tout citoyen",
+          "B) Oui, mais uniquement sur autorisation de la HCC elle-même",
+          "C) Non, les membres bénéficient d'une irresponsabilité fonctionnelle",
+          "D) Oui, mais seulement après la fin de leur mandat"
+        ],
+        "reponse": "C",
+        "indices": ["Cette garantie protège l'indépendance des membres", "Elle couvre les actes accomplis dans l'exercice des fonctions"],
+        "explication": "Les membres de la HCC bénéficient d'une irresponsabilité fonctionnelle : ils ne peuvent pas être poursuivis pour les opinions émises et les votes exprimés dans l'exercice de leurs fonctions. Cette garantie est essentielle pour leur permettre de statuer en toute indépendance, sans crainte de représailles."
+      },
+      {
+        "id": "q48",
+        "question": "Qu'est-ce que le 'contrôle diffus' de constitutionnalité, par opposition au système malgache ?",
+        "choix": [
+          "A) Un contrôle exercé par plusieurs institutions en même temps",
+          "B) Un système où toute juridiction peut écarter une loi inconstitutionnelle, sans cour spécialisée",
+          "C) Un contrôle exercé uniquement sur les lois régionales ou provinciales",
+          "D) Un contrôle exercé de manière informelle par les citoyens via les pétitions"
+        ],
+        "reponse": "B",
+        "indices": ["Ce système est celui des États-Unis depuis l'arrêt Marbury v. Madison (1803)", "Toute juridiction peut contrôler la constitutionnalité"],
+        "explication": "Le contrôle diffus (système américain) est celui dans lequel toute juridiction — pas seulement une cour spécialisée — peut écarter l'application d'une loi inconstitutionnelle dans un litige. À Madagascar, au contraire, le contrôle est concentré : seule la HCC a le monopole de la déclaration d'inconstitutionnalité, et ses décisions ont un effet erga omnes."
+      },
+      {
+        "id": "q49",
+        "question": "Maître Raharimanalina Felantsahondra, avocate à Antsiranana, plaide une affaire dans laquelle son client conteste la constitutionnalité d'une disposition du Code pénal. La juridiction pénale estime la question sérieuse. Quelle est la suite de la procédure ?",
+        "choix": [
+          "A) La juridiction pénale statue directement sur la constitutionnalité",
+          "B) La question est transmise directement à la HCC par la juridiction pénale",
+          "C) La juridiction surseoit à statuer et transmet la question à la Cour suprême, qui la renvoie à la HCC si les conditions sont remplies",
+          "D) La question est soumise au Parlement pour clarification législative"
+        ],
+        "reponse": "C",
+        "indices": ["Il y a un mécanisme de filtrage par la Cour suprême", "La juridiction ne saisit pas directement la HCC"],
+        "explication": "Lorsqu'une juridiction estime sérieuse une exception d'inconstitutionnalité, elle surseoit à statuer sur le fond et transmet la question à la Cour suprême. Celle-ci joue un rôle de filtre : si elle juge la question recevable et sérieuse, elle la renvoie à la HCC. Ce mécanisme évite d'encombrer la HCC de questions futiles."
+      },
+      {
+        "id": "q50",
+        "question": "Quelle est la particularité des décisions de la HCC malgache par rapport aux décisions des juridictions ordinaires en termes de recours ?",
+        "choix": [
+          "A) Elles peuvent faire l'objet d'un pourvoi en cassation devant la Cour suprême",
+          "B) Elles ne sont susceptibles d'aucun recours et s'imposent à toutes les autorités",
+          "C) Elles peuvent être révisées par la HCC elle-même dans un délai de 6 mois",
+          "D) Elles peuvent être contestées devant la Cour africaine des droits de l'homme"
+        ],
+        "reponse": "B",
+        "indices": ["La HCC est au sommet de l'ordre constitutionnel", "Aucune instance ne peut remettre en cause ses décisions"],
+        "explication": "Les décisions de la HCC se distinguent de toutes les autres décisions juridictionnelles par leur caractère définitif absolu : elles ne sont susceptibles d'aucun recours et s'imposent à toutes les autorités. Aucune juridiction, aucune autorité administrative ou politique ne peut les remettre en cause."
+      }
+    ],
+    "cas_pratiques": [
+      {
+        "id": "cas_pratique_1",
+        "titre": "Contrôle de constitutionnalité d'une loi sur la presse à Madagascar",
+        "enonce": "L'Assemblée nationale de Madagascar adopte, le 15 février 2024, une loi sur la régulation des médias numériques. Cette loi contient notamment les dispositions suivantes :\n- Article 12 : 'Tout contenu publié sur internet critiquant les politiques gouvernementales de manière jugée excessive par la Commission de Régulation des Médias est passible d'une amende de 50 millions d'ariary et d'une suspension de l'accès internet pour une durée de 3 mois.'\n- Article 18 : 'Les journalistes étrangers exerçant à Madagascar sont soumis aux mêmes règles que les journalistes malgaches et bénéficient des mêmes protections.'\n- Article 23 : 'La Commission de Régulation des Médias est composée de 7 membres nommés exclusivement par le Président de la République pour une durée de 5 ans renouvelable.'\n\nUn groupe de 45 députés de l'opposition saisit la HCC avant la promulgation de cette loi.\n\n**Questions :**\n1. La saisine est-elle recevable ? Justifiez au regard des règles constitutionnelles.\n2. Analysez la constitutionnalité de l'article 12 au regard de la liberté d'expression garantie par la Constitution malgache.\n3. Analysez la constitutionnalité de l'article 23 au regard du principe d'indépendance des organes de régulation.\n4. L'article 18 est-il susceptible d'une critique constitutionnelle ?\n5. Si la HCC déclare l'article 12 inconstitutionnel mais l'article 18 conforme, quelles sont les conséquences pour la promulgation de la loi ?",
+        "corrige": {
+          "question_1": "La saisine est **recevable**. Plusieurs conditions sont remplies :\n\n**Qualité des saisissants :** Les 45 députés constituent plus d'un cinquième des membres de l'Assemblée nationale (qui compte environ 151 membres). Le seuil constitutionnel du cinquième est donc atteint.\n\n**Délai :** La saisine intervient avant la promulgation de la loi, conformément au mécanisme du contrôle a priori. Le délai constitutionnel de saisine est respecté.\n\n**Objet :** La loi sur la régulation des médias est une loi ordinaire adoptée par le Parlement, relevant pleinement du contrôle de constitutionnalité. La HCC est donc compétente.\n\n**Forme :** Sous réserve du respect des formes prescrites par la loi organique et le règlement intérieur de la HCC (saisine par écrit, exposé des moyens d'inconstitutionnalité), la requête est formellement recevable.",
+
+          "question_2": "L'article 12 est **inconstitutionnel** à plusieurs titres :\n\n**Violation de la liberté d'expression :** La Constitution malgache garantit la liberté d'expression. La HCC a consacré le principe que toute restriction à la liberté d'expression doit être (1) prévue par la loi, (2) poursuivre un but légitime et (3) être nécessaire et proportionnée.\n\nL'article 12 viole ce triple test :\n- **Imprécision de la loi :** La notion de critique 'jugée excessive' est trop vague et laisse un pouvoir discrétionnaire arbitraire à la Commission de Régulation. La loi doit être suffisamment précise pour que les justiciables puissent prévoir les comportements prohibés.\n- **But légitime douteux :** Sanctionner la critique des politiques gouvernementales n'est pas un but légitime dans une société démocratique.\n- **Disproportionnalité :** Une amende de 50 millions d'ariary et une suspension d'accès internet de 3 mois constituent des sanctions disproportionnées qui produiraient un effet dissuasif (chilling effect) sur la liberté d'expression.\n\nCette disposition est également contraire aux engagements internationaux de Madagascar (Charte africaine des droits de l'homme, Pacte international relatif aux droits civils et politiques).",
+
+          "question_3": "L'article 23 soulève de **sérieuses questions constitutionnelles** :\n\n**Indépendance des organes de régulation :** Un organe de régulation des médias doit être indépendant du pouvoir politique pour exercer ses missions de manière impartiale. Or, l'article 23 prévoit que tous les membres sont nommés exclusivement par le Président de la République, sans participation des autres institutions (Parlement, société civile, presse elle-même).\n\n**Renouvellement indéfini :** Le mandat de 5 ans renouvelable sans limitation crée un lien de dépendance entre les membres et l'autorité de nomination : les membres pourraient être tentés de complaire au Président pour obtenir un renouvellement.\n\n**Violation du principe de séparation des pouvoirs :** Un organe exclusivement nommé par le Président contrôlant la presse — quatrième pouvoir en démocratie — porte atteinte à l'équilibre constitutionnel des pouvoirs.\n\nLa HCC pourrait déclarer cet article inconstitutionnel ou émettre une réserve d'interprétation exigeant un mode de désignation pluraliste.",
+
+          "question_4": "L'article 18 **ne soulève pas de critique constitutionnelle majeure**. Il prévoit que les journalistes étrangers exerçant à Madagascar bénéficient des mêmes droits et obligations que les journalistes malgaches.\n\nCette disposition est conforme au principe d'égalité de traitement et aux engagements internationaux de Madagascar en matière de liberté de la presse. Elle ne crée pas de discrimination injustifiée et ne restreint pas une liberté fondamentale. L'article 18 peut être déclaré conforme à la Constitution.",
+
+          "question_5": "Si la HCC déclare l'article 12 inconstitutionnel et l'article 18 conforme, les conséquences sont les suivantes :\n\n**Principe de séparabilité :** La HCC applique le principe de séparabilité des dispositions. Si les articles inconstitutionnels sont séparables du reste du texte — c'est-à-dire si leur suppression ne prive pas la loi de sa cohérence d'ensemble —, les autres dispositions peuvent être promulguées.\n\n**Application concrète :** L'article 12, déclaré inconstitutionnel, est retranché de la loi. L'article 18, déclaré conforme, demeure. Le Président de la République promulgue la loi expurgée des dispositions inconstitutionnelles.\n\n**Limite :** Si la HCC estime que l'article 12 est indissociable du cœur du dispositif législatif (ce qui pourrait être le cas s'il constitue le mécanisme de sanction central de la loi), elle pourrait déclarer la loi entière non promulgable, obligeant le Parlement à retravailler l'ensemble du texte."
+        }
+      },
+      {
+        "id": "cas_pratique_2",
+        "titre": "Exception d'inconstitutionnalité dans un litige foncier à Nosy-Be",
+        "enonce": "Rakotonirina Fanantenana est propriétaire d'un terrain à Nosy-Be (district d'Ambanja, région DIANA) acquis par achat en 2015 et régulièrement titré. En 2023, une loi est adoptée permettant à l'État malgache de procéder à l'expropriation de terrains côtiers situés dans des zones touristiques prioritaires sans compensation financière préalable, au motif de 'l'intérêt général touristique national'.\n\nEn 2024, l'administration exproprie le terrain de Fanantenana sans lui verser aucune indemnité préalable. Elle lui remet uniquement une 'promesse de compensation ultérieure sous 3 ans'.\n\nFanantenana engage un recours devant le Tribunal administratif d'Antananarivo. Son avocat, Maître Randriamihaja Liva, estime que la loi permettant l'expropriation sans compensation préalable est inconstitutionnelle.\n\n**Questions :**\n1. Quelle est la procédure que Maître Randriamihaja doit suivre pour soulever l'inconstitutionnalité de cette loi ?\n2. Sur quels fondements constitutionnels l'inconstitutionnalité de cette loi peut-elle être invoquée ?\n3. Le Tribunal administratif est-il obligé de transmettre la question à la Cour suprême ? Dans quelles conditions ?\n4. Si la HCC déclare la loi inconstitutionnelle, quel est l'effet sur la procédure d'expropriation en cours et sur les droits de Fanantenana ?\n5. En parallèle, Fanantenana peut-il saisir la Cour africaine des droits de l'homme et des peuples ? Dans quelles conditions ?",
+        "corrige": {
+          "question_1": "La procédure à suivre est celle de l'**exception d'inconstitutionnalité** :\n\n1. **Soulèvement de l'exception :** Maître Randriamihaja doit soulever formellement l'exception d'inconstitutionnalité devant le Tribunal administratif d'Antananarivo, par voie de conclusions écrites. L'exception doit être soulevée avant toute défense au fond, en exposant précisément quelles dispositions constitutionnelles sont violées par la loi d'expropriation.\n\n2. **Examen préliminaire par le Tribunal administratif :** Le Tribunal administratif examine si la question est sérieuse (non manifestement infondée) et si la disposition contestée est applicable au litige et n'a pas déjà été déclarée conforme ou non conforme par la HCC.\n\n3. **Sursis à statuer et transmission à la Cour suprême :** Si le Tribunal estime la question sérieuse, il surseoit à statuer sur le fond et transmet la question à la Cour suprême.\n\n4. **Filtrage par la Cour suprême :** La Cour suprême examine la recevabilité et la sériosité de la question. Si elle l'admet, elle la renvoie à la HCC.\n\n5. **Décision de la HCC :** La HCC statue dans un délai constitutionnellement fixé et rend sa décision, qui s'impose à toutes les autorités.",
+
+          "question_2": "Plusieurs fondements constitutionnels peuvent être invoqués :\n\n**A) Droit à la propriété :** La Constitution malgache consacre le droit à la propriété privée comme un droit fondamental. Ce droit ne peut être limité que par la loi et uniquement pour des motifs d'utilité publique, moyennant une juste et préalable indemnité. L'expropriation sans compensation préalable viole directement ce principe.\n\n**B) Violation du principe de juste et préalable indemnité :** Dans tous les États de droit, l'expropriation pour cause d'utilité publique implique le versement d'une indemnité juste, équitable et préalable. La 'promesse de compensation ultérieure sous 3 ans' ne satisfait pas à cette exigence de préalabilité et d'équivalence.\n\n**C) Principe d'égalité devant les charges publiques :** Fanantenana supporte seul le coût d'une opération d'intérêt général. Ce déséquilibre viole le principe constitutionnel d'égalité des citoyens devant les charges publiques.\n\n**D) Violation des engagements internationaux :** La Charte africaine des droits de l'homme garantit le droit à la propriété et interdit les dépossessions arbitraires. Ce traité, ayant rang supérieur à la loi à Madagascar, est lui aussi violé.",
+
+          "question_3": "Le Tribunal administratif **n'est pas automatiquement obligé** de transmettre la question, mais il doit le faire si plusieurs conditions sont remplies :\n\n**Conditions de transmission :**\n1. La loi contestée est **applicable** au litige de Fanantenana (c'est le cas : l'expropriation est fondée sur cette loi)\n2. La question n'a **pas déjà été tranchée** par la HCC (absence de décision antérieure sur cette loi)\n3. La question est **sérieuse**, c'est-à-dire non manifestement infondée\n\nEn l'espèce, les trois conditions semblent remplies. L'expropriation sans indemnité préalable soulève une question constitutionnelle sérieuse. Le Tribunal devrait donc transmettre.\n\n**Si le Tribunal refuse :** La partie peut critiquer ce refus par voie de recours. Le refus abusif de transmission constitue lui-même une violation du droit à un procès équitable.",
+
+          "question_4": "Si la HCC déclare la loi inconstitutionnelle :\n\n**Effet erga omnes :** La déclaration d'inconstitutionnalité a un effet absolu. La loi d'expropriation sans indemnité préalable est abrogée et ne peut plus être appliquée par aucune autorité.\n\n**Effet sur la procédure en cours :** L'expropriation du terrain de Fanantenana est privée de base légale. La procédure d'expropriation engagée sur le fondement de cette loi devient irrégulière.\n\n**Droits de Fanantenana :**\n- Il peut demander la restitution de son terrain si le juge administratif l'ordonne\n- Si la restitution est impossible (terrain déjà affecté à un usage public), il peut exiger une indemnisation intégrale et préalable de la valeur du terrain\n- Il peut engager la responsabilité de l'État malgache pour les préjudices subis (privation de jouissance pendant la période d'expropriation illégale)\n\n**Reprise de l'instance :** Le Tribunal administratif, après réception de la décision de la HCC, reprend l'instruction de l'affaire et statue sur le fond en tenant compte de l'abrogation de la loi inconstitutionnelle.",
+
+          "question_5": "Fanantenana peut **en principe saisir la Cour africaine des droits de l'homme et des peuples**, mais sous des conditions strictes :\n\n**Épuisement des voies de recours internes :** La Cour africaine n'est saisie qu'après épuisement de toutes les voies de recours internes disponibles. Fanantenana doit donc aller jusqu'au bout des voies internes (Tribunal administratif, Cour d'appel administrative, Conseil d'État ou chambre administrative de la Cour suprême) avant de saisir la Cour africaine.\n\n**Compétence de la Cour africaine :** La Cour africaine est compétente pour examiner les violations de la Charte africaine des droits de l'homme et des peuples. L'expropriation sans indemnité préalable peut constituer une violation du droit à la propriété garanti par l'article 14 de la Charte africaine.\n\n**Déclaration d'acceptation de la compétence :** Pour que des individus puissent la saisir directement, Madagascar doit avoir déposé une déclaration acceptant la compétence de la Cour pour les requêtes individuelles. Sans cette déclaration, seuls les États et la Commission africaine des droits de l'homme peuvent saisir la Cour.\n\n**Conseil pratique :** En attendant de saisir la Cour africaine, Fanantenana devrait adresser une communication à la Commission africaine des droits de l'homme et des peuples, organe quasi-juridictionnel de l'Union africaine compétent pour examiner les violations de la Charte."
+        }
+      }
+    ]
+  }
+}
