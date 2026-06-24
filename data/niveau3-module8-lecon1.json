@@ -1,0 +1,734 @@
+{
+  "titre": "La procédure pénale — enquête et instruction",
+  "module": "Module 8 — Niveau 3 (Avancé)",
+  "niveau": "Avancé",
+  "contenu": [
+    {
+      "titre": "Introduction : la procédure pénale, entre répression et garanties",
+      "texte": "La procédure pénale est l'ensemble des règles qui organisent la réaction de l'État face à une infraction pénale. Elle détermine comment l'État découvre les infractions, identifie leurs auteurs, rassemble les preuves, et soumet les suspects à un jugement. C'est une matière fondamentale car elle se situe au carrefour de deux impératifs contradictoires : la nécessité de réprimer les infractions et de protéger la société, et l'obligation de garantir les droits fondamentaux des personnes poursuivies.\n\nEn droit malgache, la procédure pénale est principalement régie par le Code de procédure pénale (CPP), d'inspiration largement française, ainsi que par la Constitution malgache qui garantit un certain nombre de droits fondamentaux — présomption d'innocence, droit à un procès équitable, prohibition des détentions arbitraires.\n\nLa procédure pénale se déroule en plusieurs phases successives. La phase préliminaire comprend l'enquête de police judiciaire — enquête de flagrance ou enquête préliminaire — pendant laquelle les officiers de police judiciaire (OPJ) rassemblent les premiers éléments sur l'infraction. La phase d'instruction préparatoire, conduite par le juge d'instruction, permet d'approfondir les investigations dans les affaires complexes. Enfin, la phase de jugement se déroule devant la juridiction compétente.\n\nNous étudions ici les deux premières phases — enquête et instruction — qui constituent le cœur de la mécanique procédurale avant le procès.",
+      "definition": "Procédure pénale : ensemble des règles organisant la réaction de l'État face aux infractions — découverte, enquête, instruction, jugement. Se déroule en trois phases principales : enquête de police judiciaire (phase préliminaire), instruction préparatoire (phase judiciaire avant le procès), puis jugement. Droit malgache : régi par le Code de procédure pénale, d'inspiration française."
+    },
+    {
+      "titre": "Les acteurs de la procédure pénale : qui fait quoi ?",
+      "texte": "La procédure pénale mobilise plusieurs acteurs aux rôles distincts et complémentaires, encadrés par le Code de procédure pénale malgache.\n\nLe ministère public — le parquet — est l'autorité chargée de déclencher et de conduire l'action publique au nom de la société. Il est représenté par le Procureur de la République (au niveau du Tribunal de Première Instance) et le Procureur Général (au niveau de la Cour d'Appel). Le parquet reçoit les plaintes et dénonciations, décide des poursuites (ou du classement sans suite), dirige la police judiciaire dans son action, et soutient l'accusation lors du jugement.\n\nLa police judiciaire agit sous le contrôle du parquet et du juge d'instruction pour constater les infractions, en rassembler les preuves et en rechercher les auteurs. Elle comprend les officiers de police judiciaire (OPJ) — gendarmes et officiers de police habilités — qui ont des pouvoirs étendus : garde à vue, perquisitions, saisies, auditions. Les agents de police judiciaire (APJ) ont des pouvoirs plus limités et agissent sous la supervision des OPJ.\n\nLe juge d'instruction est un magistrat indépendant du parquet, chargé d'instruire les affaires complexes. Il est saisi par le parquet et conduit une instruction à charge et à décharge — il cherche à la fois les preuves de culpabilité et les éléments favorables au mis en examen. Il dispose de pouvoirs d'investigation considérables.\n\nLa victime peut se constituer partie civile pour participer à la procédure, obtenir réparation de son préjudice, et déclencher les poursuites en saisissant directement le juge d'instruction par une plainte avec constitution de partie civile.",
+      "definition": "Acteurs principaux : ministère public/parquet (déclenche l'action publique, dirige la police judiciaire, soutient l'accusation) ; officiers de police judiciaire/OPJ (constatent les infractions, rassemblent les preuves, garde à vue, perquisitions) ; juge d'instruction (instruit les affaires complexes, à charge et à décharge) ; victime/partie civile (peut déclencher les poursuites, obtenir réparation)."
+    },
+    {
+      "titre": "L'enquête de flagrance : quand l'infraction vient d'être commise",
+      "texte": "L'enquête de flagrance est la procédure d'investigation applicable lorsqu'une infraction vient d'être commise ou est en train de l'être — c'est la situation de flagrant délit. Elle se caractérise par l'urgence et confère à la police judiciaire des pouvoirs particulièrement étendus, justifiés par la nécessité d'agir vite pour ne pas perdre les preuves.\n\nLa flagrance est caractérisée dans plusieurs hypothèses : l'infraction est en train d'être commise ou vient de l'être ; la personne est poursuivie par la clameur publique juste après l'acte ; la personne est trouvée en possession d'objets, d'armes ou de traces laissant penser qu'elle vient de participer à un crime ou délit.\n\nDans le cadre de l'enquête de flagrance, l'officier de police judiciaire dispose de pouvoirs renforcés. Il peut procéder à des perquisitions et saisies sans avoir besoin d'une autorisation préalable du juge. Il peut placer une personne en garde à vue pour une durée définie par la loi. Il peut entendre toute personne susceptible d'apporter des informations. Il peut requérir tout médecin, expert ou toute personne qualifiée pour procéder à des examens techniques.\n\nToutes ces mesures doivent être consignées dans un procès-verbal qui sera transmis au procureur. Le procureur est informé dès le début de l'enquête de flagrance et peut donner des instructions à la police.",
+      "definition": "Enquête de flagrance : procédure applicable lorsqu'une infraction vient d'être commise ou est en cours. Confère à l'OPJ des pouvoirs étendus sans autorisation judiciaire préalable : perquisitions, saisies, garde à vue, auditions. Limitée dans le temps. Le procureur est immédiatement informé et peut donner des instructions.",
+      "exemple": "Les voisins de Rakoto appellent la gendarmerie en pleine nuit : ils entendent des cris et des bruits de lutte dans la maison d'à côté. Les gendarmes arrivent et trouvent Rakoto encore sur les lieux avec une arme ensanglantée. Ils sont en situation de flagrant délit : ils peuvent immédiatement procéder à l'arrestation de Rakoto, perquisitionner les lieux, saisir l'arme et tous les éléments de preuve, sans avoir besoin d'une autorisation préalable du juge."
+    },
+    {
+      "titre": "L'enquête préliminaire : l'investigation ordinaire hors flagrance",
+      "texte": "L'enquête préliminaire est la procédure d'investigation applicable en dehors des cas de flagrance — lorsque l'infraction a été commise dans un passé plus lointain, ou lorsque sa commission est suspectée sans élément immédiat de flagrance. Elle est la procédure de droit commun de la police judiciaire.\n\nContrairement à l'enquête de flagrance, l'enquête préliminaire impose des contraintes plus importantes à la police. En particulier, les perquisitions dans les domiciles ne peuvent être effectuées qu'avec le consentement écrit et exprès de la personne chez qui elle a lieu — ou avec une autorisation judiciaire. Cette exigence protège l'inviolabilité du domicile, droit fondamental garanti par la Constitution.\n\nL'enquête préliminaire peut être ouverte d'office par la police judiciaire qui a connaissance d'une infraction, ou sur instruction du procureur de la République. Elle peut durer le temps nécessaire aux investigations, sans limitation légale stricte dans certains systèmes, mais sous le contrôle du parquet.\n\nPendant l'enquête préliminaire, la police peut entendre les personnes susceptibles d'apporter des informations — à titre de témoins. Elle peut procéder à des surveillances, des filatures, des relevés d'empreintes. Elle peut requérir des expertises techniques. Elle peut consulter les fichiers et bases de données accessibles.\n\nLa garde à vue est possible en enquête préliminaire mais dans des conditions plus encadrées. Les personnes entendues comme témoins ne peuvent pas être placées en garde à vue.",
+      "definition": "Enquête préliminaire : procédure d'investigation ordinaire hors flagrance, ouverte d'office ou sur instruction du parquet. Pouvoirs de la police plus limités qu'en flagrance : perquisitions nécessitant le consentement ou une autorisation judiciaire. Garde à vue possible sous conditions. Durée en principe plus longue. Contrôle permanent du procureur."
+    },
+    {
+      "titre": "La garde à vue : mesure privative de liberté et ses garanties",
+      "texte": "La garde à vue est la mesure par laquelle une personne soupçonnée d'avoir commis ou tenté de commettre une infraction est retenue dans les locaux de la police judiciaire, pendant un temps limité, pour les besoins de l'enquête. C'est une mesure privative de liberté — grave par nature — qui doit être entourée de garanties précises.\n\nEn droit malgache, la durée de la garde à vue est limitée par la loi. Elle est en principe de 48 heures renouvelable une fois sur autorisation du procureur, soit 96 heures maximum dans les cas ordinaires. Pour les infractions les plus graves — terrorisme, trafic de stupéfiants, crime organisé — des durées plus longues peuvent être prévues par des textes spéciaux.\n\nLa personne gardée à vue dispose de droits fondamentaux. Elle doit être informée dans une langue qu'elle comprend des raisons de sa garde à vue et des faits qui lui sont reprochés. Elle a le droit de prévenir un membre de sa famille ou son employeur. Elle a le droit d'être examinée par un médecin. Elle a le droit de se taire — le droit au silence est une garantie essentielle contre l'auto-incrimination.\n\nL'officier de police judiciaire doit consigner dans un procès-verbal l'heure du placement en garde à vue, les droits notifiés, les heures d'audition, et les conditions de la garde à vue. Le procureur est immédiatement informé et peut ordonner la levée de la garde à vue à tout moment.\n\nToute garde à vue effectuée en violation de ces règles peut être annulée par le juge, entraînant la nullité des actes accomplis pendant cette période.",
+      "definition": "Garde à vue : mesure privative de liberté pendant l'enquête, limitée en durée (48h renouvelables sur autorisation du procureur). Droits du gardé à vue : information sur les faits reprochés, droit de prévenir un proche, droit à un médecin, droit au silence. Contrôle du procureur. Violation = nullité des actes.",
+      "exemple": "Vonjy est soupçonnée d'escroquerie. Les OPJ la convoquent pour une audition. Au cours de l'audition, des éléments graves émergent et les OPJ décident de la placer en garde à vue. Ils doivent immédiatement : lui notifier ses droits en malgache (langue qu'elle comprend), l'informer des faits qui lui sont reprochés, lui permettre d'appeler un membre de sa famille, lui proposer un examen médical, et informer le procureur. Si les OPJ omettent de lui notifier son droit au silence et qu'elle fait des aveux, ces aveux risquent d'être annulés par le juge."
+    },
+    {
+      "titre": "La saisine du juge d'instruction : quand le parquet passe la main",
+      "texte": "Après l'enquête préliminaire ou de flagrance, le procureur de la République examine les éléments rassemblés et prend une décision. Plusieurs options s'offrent à lui : classer sans suite (si l'infraction n'est pas établie ou si les poursuites ne sont pas opportunes), renvoyer directement devant une juridiction de jugement (pour les infractions simples ou lorsque les preuves sont suffisantes), ou saisir le juge d'instruction par un réquisitoire introductif (pour les affaires complexes nécessitant des investigations approfondies).\n\nLe juge d'instruction est obligatoirement saisi pour les crimes. Pour les délits complexes, la saisine est à la discrétion du parquet. Le réquisitoire introductif est l'acte par lequel le procureur saisit le juge d'instruction et définit le cadre de l'information judiciaire — les faits sur lesquels le juge doit enquêter.\n\nLa victime peut également déclencher une instruction en se constituant partie civile directement auprès du juge d'instruction — c'est la plainte avec constitution de partie civile. Cette voie est particulièrement importante car elle permet à la victime de déclencher les poursuites même si le parquet a classé sans suite. Le juge d'instruction est alors obligé d'instruire — il ne peut pas refuser de prendre en charge l'affaire.\n\nUne fois saisi, le juge d'instruction est maître de l'instruction. Il dirige les investigations, délivre des commissions rogatoires à la police pour effectuer des actes d'investigation, procède lui-même à des auditions, et prend les décisions importantes (mise en examen, détention provisoire).",
+      "definition": "Saisine du juge d'instruction : par réquisitoire introductif du procureur (obligatoire pour les crimes, facultatif pour les délits complexes) ou par plainte avec constitution de partie civile de la victime (permet de déclencher une instruction même si le parquet a classé sans suite). Le juge d'instruction est alors maître de l'information judiciaire."
+    },
+    {
+      "titre": "La mise en examen : le statut de suspect officiel",
+      "texte": "La mise en examen est l'acte par lequel le juge d'instruction confère à une personne le statut officiel de suspect dans le cadre d'une information judiciaire. C'est un acte grave — il signifie que des indices graves ou concordants rendent vraisemblable que la personne ait pu participer à la commission des faits instruits.\n\nLe juge d'instruction ne peut mettre en examen une personne qu'après l'avoir entendue. Avant d'être mis en examen, la personne est convoquée et entendue en qualité de témoin assisté — un statut intermédiaire qui lui permet d'être assistée d'un avocat sans avoir encore le statut de suspect officiel.\n\nLa mise en examen ouvre des droits importants pour la personne concernée. Elle a droit à l'assistance d'un avocat choisi ou commis d'office. Elle a le droit d'accéder au dossier de la procédure. Elle peut demander des actes d'investigation complémentaires au juge d'instruction. Elle bénéficie de la présomption d'innocence jusqu'au jugement définitif.\n\nLa mise en examen n'est pas une condamnation — ni même une accusation définitive. Le juge d'instruction peut, à l'issue de l'instruction, prononcer un non-lieu (s'il estime que les charges sont insuffisantes) ou renvoyer la personne devant une juridiction de jugement. Le non-lieu efface toute conséquence de la mise en examen.\n\nIl est important de distinguer la mise en examen (statut de suspect officiel durant l'instruction) du renvoi en jugement (décision finale de l'instruction) et de la condamnation (décision du juge de jugement).",
+      "definition": "Mise en examen : acte du juge d'instruction conférant le statut de suspect officiel, fondé sur des indices graves ou concordants. Droits : assistance d'un avocat, accès au dossier, demande d'actes complémentaires, présomption d'innocence. N'est pas une condamnation — peut aboutir à un non-lieu si les charges sont insuffisantes."
+    },
+    {
+      "titre": "La détention provisoire : l'emprisonnement avant le jugement",
+      "texte": "La détention provisoire est l'emprisonnement d'une personne mise en examen avant que sa culpabilité soit établie par un jugement définitif. C'est la mesure la plus grave que le juge d'instruction puisse ordonner — elle prive une personne de sa liberté alors qu'elle est présumée innocente.\n\nEn droit malgache comme dans les systèmes inspirés du modèle français, la détention provisoire ne peut être ordonnée que si certaines conditions sont réunies : la personne est mise en examen pour un crime ou un délit puni d'une peine d'emprisonnement suffisante, et l'une des finalités suivantes l'exige — garantir la représentation en justice (risque de fuite), préserver les preuves (risque de destruction), empêcher des pressions sur les témoins, prévenir le renouvellement de l'infraction, ou mettre fin à un trouble à l'ordre public.\n\nLe contrôle judiciaire est une alternative à la détention provisoire. Il consiste en une série d'obligations imposées à la personne mise en examen — pointer régulièrement auprès des autorités, remettre son passeport, ne pas quitter le territoire, ne pas contacter certaines personnes — permettant de la surveiller sans l'emprisonner.\n\nLa détention provisoire doit être ordonnée pour une durée limitée et peut être prolongée par le juge d'instruction ou la chambre de l'instruction. En principe, la durée de la détention provisoire s'impute sur la peine prononcée si la personne est condamnée. Si elle est acquittée ou bénéficie d'un non-lieu, elle peut demander réparation pour la détention injustifiée.",
+      "definition": "Détention provisoire : emprisonnement avant jugement d'une personne mise en examen, ordonnée par le juge d'instruction lorsque des conditions légales sont réunies (risque de fuite, destruction de preuves, pression sur témoins, etc.). Mesure exceptionnelle car contraire à la présomption d'innocence. Alternative : le contrôle judiciaire (obligations sans emprisonnement)."
+    },
+    {
+      "titre": "Les actes d'instruction : perquisitions, écoutes et expertises",
+      "texte": "Dans le cadre de l'information judiciaire, le juge d'instruction dispose d'un arsenal d'actes d'investigation pour établir la vérité.\n\nLa perquisition est la fouille d'un lieu — domicile, bureau, véhicule — pour y découvrir des preuves. En phase d'instruction, la perquisition est ordonnée par le juge d'instruction ou par les OPJ dans le cadre d'une commission rogatoire. Elle doit en principe se dérouler en présence de la personne concernée ou de son représentant. Elle ne peut pas avoir lieu la nuit sauf autorisation spéciale du juge ou cas d'extrême urgence.\n\nLa commission rogatoire est le mécanisme par lequel le juge d'instruction délègue à des officiers de police judiciaire le soin d'accomplir certains actes d'investigation en son nom. Elle précise les actes à accomplir et le cadre de la mission. Les OPJ agissent alors avec les pouvoirs du juge d'instruction, dans les limites fixées par la commission rogatoire.\n\nL'interception de communications — écoutes téléphoniques, surveillance des échanges électroniques — est un acte particulièrement intrusif qui ne peut être ordonné que par le juge d'instruction, pour une durée limitée, et uniquement pour les infractions d'une certaine gravité.\n\nL'expertise est le recours à un technicien spécialisé pour analyser des éléments qui dépassent les compétences juridiques — expertise médicale, balistique, comptable, informatique. L'expert est désigné par le juge d'instruction, prête serment, et remet un rapport écrit. Les parties peuvent contester les conclusions de l'expert en demandant une contre-expertise.",
+      "definition": "Actes d'instruction : perquisition (fouille d'un lieu pour découvrir des preuves, en présence de l'intéressé, interdite de nuit sauf autorisation) ; commission rogatoire (délégation au OPJ pour accomplir des actes au nom du juge) ; interception de communications (écoutes, ordonnées par le juge pour les infractions graves) ; expertise (technicien spécialisé désigné par le juge, rapport écrit, contre-expertise possible)."
+    },
+    {
+      "titre": "La clôture de l'instruction : non-lieu ou renvoi en jugement",
+      "texte": "À l'issue de l'instruction préparatoire, le juge d'instruction doit rendre une ordonnance de clôture qui détermine les suites données à l'information judiciaire.\n\nL'ordonnance de non-lieu est rendue lorsque les charges réunies au cours de l'instruction sont insuffisantes pour renvoyer la personne mise en examen devant une juridiction de jugement. Le non-lieu peut être fondé sur le fait que l'infraction n'est pas établie, que son auteur n'est pas identifié, ou que les charges contre la personne mise en examen sont insuffisantes. Le non-lieu met fin à la procédure et efface toutes les conséquences de la mise en examen — la personne recouvre la plénitude de sa réputation.\n\nL'ordonnance de renvoi envoie la personne mise en examen devant la juridiction de jugement compétente. Pour les délits, c'est le tribunal correctionnel. Pour les crimes, c'est la cour d'assises. Cette ordonnance précise les faits pour lesquels la personne est renvoyée et leur qualification juridique.\n\nPour les crimes, avant le renvoi en cour d'assises, la chambre de l'instruction — formation spécialisée de la cour d'appel — doit examiner le dossier et rendre une ordonnance de mise en accusation. C'est un filtre supplémentaire qui garantit que seules les affaires sérieuses parviennent à la cour d'assises.\n\nLes parties — personne mise en examen, parquet, parties civiles — peuvent faire appel des ordonnances du juge d'instruction devant la chambre de l'instruction.",
+      "definition": "Clôture de l'instruction : ordonnance de non-lieu (charges insuffisantes, met fin à la procédure, efface les conséquences de la mise en examen) ou ordonnance de renvoi (devant le tribunal correctionnel pour les délits, ou mise en accusation devant la cour d'assises pour les crimes). Appel possible devant la chambre de l'instruction."
+    },
+    {
+      "titre": "Les nullités de procédure : quand la forme protège le fond",
+      "texte": "La procédure pénale est marquée par un formalisme important. Les actes de procédure doivent respecter des formes prescrites à peine de nullité. Cette exigence formelle n'est pas une bureaucratie vide de sens — elle garantit les droits fondamentaux des personnes mises en cause.\n\nUne nullité de procédure est l'annulation d'un acte accompli en violation d'une règle procédurale. Par exemple : une garde à vue dont les droits n'ont pas été notifiés, une perquisition effectuée de nuit sans autorisation, une mise en examen sans audition préalable, une écoute téléphonique ordonnée sans le respect des conditions légales.\n\nOn distingue les nullités d'ordre public — qui peuvent être soulevées par toute partie et même relevées d'office par le juge — et les nullités d'intérêt privé — qui ne peuvent être soulevées que par la partie dont l'intérêt est protégé.\n\nL'effet d'une nullité est l'annulation de l'acte vicié et, par voie de conséquence, de tous les actes ultérieurs qui en sont le résultat — c'est l'effet en cascade. Si une perquisition est annulée, les preuves découvertes lors de cette perquisition sont exclues du dossier et ne peuvent pas être utilisées contre la personne. C'est la règle de l'exclusion des preuves illégalement obtenues.\n\nEn droit malgache, les nullités sont soulevées devant la chambre de l'instruction. Un incident de nullité mal fondé peut exposer la partie qui le soulève à des frais.",
+      "definition": "Nullité de procédure : annulation d'un acte accompli en violation d'une règle procédurale. Nullités d'ordre public (invocables par tous, relevées d'office) vs nullités d'intérêt privé (réservées à la partie protégée). Effet en cascade : l'acte annulé entraîne la nullité des actes ultérieurs qui en dépendent. Preuves obtenues illégalement : exclues du dossier."
+    },
+    {
+      "titre": "La présomption d'innocence : principe cardinal de la procédure pénale",
+      "texte": "La présomption d'innocence est le principe selon lequel toute personne suspectée ou poursuivie est considérée comme innocente tant que sa culpabilité n'a pas été légalement établie par une décision judiciaire définitive. C'est un droit fondamental garanti par la Constitution malgache, la Déclaration universelle des droits de l'homme, et le Pacte international relatif aux droits civils et politiques auquel Madagascar est partie.\n\nDans la procédure pénale, la présomption d'innocence a des conséquences pratiques essentielles. La charge de la preuve pèse sur l'accusation — c'est au parquet et à la partie civile de prouver la culpabilité, non à l'accusé de prouver son innocence. Le doute profite à l'accusé — si le tribunal n'est pas convaincu de la culpabilité au-delà de tout doute raisonnable, il doit acquitter. L'accusé n'est pas obligé de participer à sa propre incrimination — il peut garder le silence sans que ce silence soit interprété comme un aveu.\n\nLa présomption d'innocence s'oppose également à la présentation publique d'une personne mise en examen ou en garde à vue comme coupable avant tout jugement. La diffusion d'images de personnes menottées, ou les déclarations publiques présentant un suspect comme l'auteur certain d'un crime, constituent des violations de la présomption d'innocence qui peuvent ouvrir droit à des dommages-intérêts.\n\nLa détention provisoire est une atteinte à la présomption d'innocence — c'est pourquoi elle est encadrée strictement et réservée aux cas où elle est véritablement nécessaire.",
+      "definition": "Présomption d'innocence : toute personne poursuivie est présumée innocente jusqu'à condamnation définitive. Conséquences : charge de la preuve sur l'accusation, doute profite à l'accusé, droit au silence. Protégée par la Constitution malgache, la DUDH et le PIDCP. Violation : présentation publique d'un suspect comme coupable avant jugement. Détention provisoire = atteinte justifiée seulement dans des conditions strictes."
+    },
+    {
+      "titre": "Récapitulatif : les clés de la procédure pénale (enquête et instruction)",
+      "texte": "Voici les points essentiels à maîtriser sur la procédure pénale malgache en phase d'enquête et d'instruction.\n\nPremièrement, la procédure pénale oppose deux impératifs : réprimer les infractions et protéger les droits fondamentaux des suspects.\n\nDeuxièmement, les acteurs principaux sont le parquet (qui déclenche l'action publique), la police judiciaire (qui enquête sous contrôle du parquet), le juge d'instruction (qui instruit les affaires complexes), et la victime/partie civile.\n\nTroisièmement, deux types d'enquêtes coexistent : l'enquête de flagrance (pouvoirs étendus, urgence, infraction récente) et l'enquête préliminaire (droit commun, pouvoirs plus limités, perquisitions nécessitant consentement ou autorisation).\n\nQuatrièmement, la garde à vue est une mesure privative de liberté limitée dans le temps, entourée de garanties : notification des droits, droit de prévenir un proche, droit à un médecin, droit au silence.\n\nCinquièmement, l'instruction préparatoire est conduite par le juge d'instruction, saisi par réquisitoire du parquet ou par plainte avec constitution de partie civile. Elle comprend la mise en examen, les actes d'investigation (perquisitions, écoutes, expertises, commissions rogatoires) et se clôt par un non-lieu ou un renvoi en jugement.\n\nSixièmement, les nullités de procédure protègent les droits fondamentaux : tout acte irrégulier peut être annulé, entraînant l'exclusion des preuves illégalement obtenues.\n\nSeptièmement, la présomption d'innocence est le principe cardinal : la charge de la preuve pèse sur l'accusation, le doute profite à l'accusé, le silence ne peut être interprété comme un aveu.",
+      "definition": "À retenir : deux phases (enquête + instruction) ; acteurs (parquet, police judiciaire, juge d'instruction, partie civile) ; deux types d'enquête (flagrance = pouvoirs étendus ; préliminaire = droit commun) ; garde à vue = mesure encadrée avec droits garantis ; instruction = juge d'instruction, mise en examen, clôture par non-lieu ou renvoi ; nullités = protection des droits ; présomption d'innocence = principe cardinal."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Qu'est-ce que la procédure pénale ?",
+      "choix": [
+        "L'ensemble des règles définissant les infractions et leurs peines",
+        "L'ensemble des règles organisant la réaction de l'État face aux infractions — découverte, enquête, instruction et jugement",
+        "Le règlement intérieur des tribunaux pénaux",
+        "L'ensemble des droits reconnus aux victimes d'infractions"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle se distingue du droit pénal de fond qui définit les infractions.",
+        "Elle organise le processus — comment on passe de l'infraction au jugement.",
+        "Elle se déroule en plusieurs phases successives."
+      ],
+      "explication": "La procédure pénale est l'ensemble des règles qui organisent la réaction de l'État face à une infraction pénale — comment l'État découvre les infractions, identifie leurs auteurs, rassemble les preuves et les soumet à un jugement. Elle se distingue du droit pénal de fond (qui définit les infractions et les peines) et se déroule en plusieurs phases : enquête, instruction, jugement."
+    },
+    {
+      "question": "Quel est le rôle du ministère public (parquet) dans la procédure pénale ?",
+      "choix": [
+        "Défendre les intérêts de la personne mise en examen",
+        "Déclencher et conduire l'action publique au nom de la société, diriger la police judiciaire et soutenir l'accusation",
+        "Instruire les affaires complexes et ordonner les actes d'investigation",
+        "Juger les affaires pénales en premier ressort"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il agit au nom de la société, pas de la victime.",
+        "Il décide si des poursuites doivent être engagées.",
+        "Il est représenté par le Procureur de la République."
+      ],
+      "explication": "Le ministère public (parquet) est l'autorité chargée de déclencher et conduire l'action publique au nom de la société. Il reçoit les plaintes, décide des poursuites ou du classement sans suite, dirige la police judiciaire dans ses investigations, et soutient l'accusation devant les juridictions de jugement. Il est représenté par le Procureur de la République au niveau du TPI et le Procureur Général au niveau de la Cour d'Appel."
+    },
+    {
+      "question": "Dans quels cas l'enquête de flagrance est-elle applicable ?",
+      "choix": [
+        "Uniquement lorsque l'infraction a été commise il y a moins d'un mois",
+        "Lorsqu'une infraction vient d'être commise ou est en cours, ou lorsque la personne est poursuivie par la clameur publique juste après l'acte",
+        "Uniquement pour les crimes, jamais pour les délits ou contraventions",
+        "Lorsque le procureur ordonne expressément cette procédure"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le mot 'flagrance' vient du latin 'flagrare' — brûler, être en train de.",
+        "L'urgence est le critère central de cette procédure.",
+        "Elle confère des pouvoirs plus larges à la police."
+      ],
+      "explication": "L'enquête de flagrance est applicable dans plusieurs situations : l'infraction est en train d'être commise ou vient de l'être ; la personne est poursuivie par la clameur publique immédiatement après l'acte ; la personne est trouvée en possession d'objets ou de traces laissant penser qu'elle vient de participer à une infraction. La proximité temporelle avec l'infraction est le critère déterminant."
+    },
+    {
+      "question": "Quelle est la différence principale entre l'enquête de flagrance et l'enquête préliminaire concernant les perquisitions ?",
+      "choix": [
+        "Les perquisitions sont interdites dans les deux types d'enquête",
+        "En flagrance, les perquisitions sont possibles sans autorisation préalable ; en enquête préliminaire, elles nécessitent le consentement de la personne ou une autorisation judiciaire",
+        "En enquête préliminaire, les perquisitions sont plus rapides qu'en flagrance",
+        "Il n'y a aucune différence — les perquisitions obéissent aux mêmes règles dans les deux cas"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'urgence de la flagrance justifie des pouvoirs étendus.",
+        "Le respect de l'inviolabilité du domicile impose des garanties en enquête préliminaire.",
+        "Le consentement est un élément clé en enquête préliminaire."
+      ],
+      "explication": "En enquête de flagrance, l'OPJ peut procéder à des perquisitions sans autorisation préalable du juge, en raison de l'urgence. En enquête préliminaire, les perquisitions dans les domiciles ne peuvent être effectuées qu'avec le consentement écrit et exprès de la personne concernée — ou avec une autorisation judiciaire. Cette différence protège l'inviolabilité du domicile, droit fondamental constitutionnellement garanti."
+    },
+    {
+      "question": "Qu'est-ce que la garde à vue ?",
+      "choix": [
+        "La détention d'une personne condamnée en attente d'exécution de sa peine",
+        "La mesure privative de liberté retenant un suspect dans les locaux de la police pendant un temps limité pour les besoins de l'enquête",
+        "La surveillance d'une personne mise en examen à son domicile",
+        "L'emprisonnement ordonné par le juge d'instruction pendant l'information judiciaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une mesure policière, pas judiciaire.",
+        "Elle intervient pendant l'enquête, avant toute mise en examen.",
+        "Elle est limitée dans le temps."
+      ],
+      "explication": "La garde à vue est la mesure par laquelle une personne soupçonnée est retenue dans les locaux de la police judiciaire pendant un temps limité pour les besoins de l'enquête. Elle est ordonnée par l'OPJ (avec information du procureur) et se distingue de la détention provisoire (ordonnée par le juge d'instruction) et de l'emprisonnement après condamnation."
+    },
+    {
+      "question": "Quelle est la durée maximale de la garde à vue en droit commun malgache ?",
+      "choix": [
+        "24 heures non renouvelables",
+        "48 heures renouvelables une fois sur autorisation du procureur, soit 96 heures maximum",
+        "72 heures renouvelables",
+        "7 jours pour toutes les infractions"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La durée initiale est de 48 heures.",
+        "Un renouvellement est possible sous condition.",
+        "Des durées spéciales existent pour les infractions les plus graves."
+      ],
+      "explication": "En droit commun malgache, la garde à vue est de 48 heures, renouvelable une fois sur autorisation du procureur de la République, soit 96 heures (4 jours) maximum. Pour les infractions les plus graves comme le terrorisme ou le trafic de stupéfiants, des textes spéciaux peuvent prévoir des durées plus longues."
+    },
+    {
+      "question": "Quels droits doit-on notifier à une personne placée en garde à vue ?",
+      "choix": [
+        "Uniquement le droit de garder le silence",
+        "Le droit d'être informée des faits reprochés, de prévenir un proche, d'être examinée par un médecin, et le droit au silence",
+        "Uniquement le droit à un avocat",
+        "Aucun droit — la garde à vue est une mesure d'enquête sans garanties particulières"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ces droits doivent être notifiés dans une langue compréhensible par l'intéressé.",
+        "Leur non-notification peut entraîner la nullité de la garde à vue.",
+        "Le droit au silence est une garantie fondamentale contre l'auto-incrimination."
+      ],
+      "explication": "La personne placée en garde à vue doit être informée dans une langue qu'elle comprend : des faits qui lui sont reprochés et des raisons de sa garde à vue, de son droit de prévenir un membre de sa famille ou son employeur, de son droit d'être examinée par un médecin, et de son droit au silence (ne pas répondre aux questions des enquêteurs). La violation de ces droits peut entraîner la nullité de la garde à vue et des actes qui en découlent."
+    },
+    {
+      "question": "Vrai ou faux : le silence gardé pendant la garde à vue peut être interprété comme un aveu de culpabilité.",
+      "choix": [
+        "Vrai, le silence peut être pris en compte défavorablement par le juge",
+        "Faux : le droit au silence est une garantie fondamentale — le silence ne peut jamais être interprété comme un aveu"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Ce droit découle directement de la présomption d'innocence.",
+        "Il protège contre l'auto-incrimination.",
+        "La charge de la preuve repose sur l'accusation, pas sur l'accusé."
+      ],
+      "explication": "Faux. Le droit au silence est une garantie fondamentale de la procédure pénale, découlant directement de la présomption d'innocence. La personne gardée à vue ou mise en examen n'est pas obligée de répondre aux questions. Son silence ne peut être interprété ni comme un aveu ni comme une circonstance défavorable. La charge de la preuve incombe à l'accusation — c'est à elle de prouver la culpabilité, pas à l'accusé de prouver son innocence."
+    },
+    {
+      "question": "Qu'est-ce que le réquisitoire introductif ?",
+      "choix": [
+        "L'acte par lequel le juge d'instruction clôture l'instruction et renvoie l'affaire en jugement",
+        "L'acte par lequel le procureur saisit le juge d'instruction et définit le cadre de l'information judiciaire",
+        "La décision par laquelle le tribunal ordonne un supplément d'instruction",
+        "La demande formulée par la partie civile pour obtenir réparation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est le point de départ de l'instruction préparatoire.",
+        "Il est rédigé par le parquet.",
+        "Il définit les faits sur lesquels le juge doit enquêter."
+      ],
+      "explication": "Le réquisitoire introductif est l'acte par lequel le procureur de la République saisit formellement le juge d'instruction. Il précise les faits sur lesquels porte l'instruction, leur qualification juridique provisoire, et demande au juge d'informer. Une fois ce réquisitoire déposé, le juge d'instruction est saisi et maître de l'information judiciaire."
+    },
+    {
+      "question": "Comment la victime peut-elle déclencher une instruction judiciaire même si le parquet a classé l'affaire sans suite ?",
+      "choix": [
+        "Elle ne peut pas — seul le parquet peut déclencher une instruction",
+        "En faisant appel de la décision du parquet devant le tribunal",
+        "En se constituant partie civile directement auprès du juge d'instruction par une plainte avec constitution de partie civile",
+        "En saisissant le ministre de la Justice"
+      ],
+      "reponse": 2,
+      "indices": [
+        "C'est une voie procédurale qui court-circuite la décision du parquet.",
+        "Elle oblige le juge d'instruction à ouvrir une information judiciaire.",
+        "Elle confère à la victime un pouvoir important dans la procédure pénale."
+      ],
+      "explication": "La victime peut déclencher une instruction en se constituant partie civile directement auprès du juge d'instruction, par une plainte avec constitution de partie civile. Cette voie est fondamentale car elle permet à la victime de déclencher les poursuites même si le parquet a classé sans suite. Contrairement au réquisitoire introductif du parquet, le juge d'instruction ne peut pas refuser d'instruire lorsqu'il est saisi par une plainte avec constitution de partie civile."
+    },
+    {
+      "question": "Qu'est-ce que la mise en examen ?",
+      "choix": [
+        "La condamnation d'une personne par le tribunal correctionnel",
+        "L'acte du juge d'instruction conférant à une personne le statut officiel de suspect, fondé sur des indices graves ou concordants",
+        "Le placement en garde à vue décidé par l'OPJ",
+        "La décision du parquet de poursuivre une personne devant le tribunal"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un acte du juge d'instruction, pas du parquet ni de la police.",
+        "Elle requiert des indices graves ou concordants, pas une certitude de culpabilité.",
+        "Elle n'est pas une condamnation — elle peut aboutir à un non-lieu."
+      ],
+      "explication": "La mise en examen est l'acte par lequel le juge d'instruction confère à une personne le statut officiel de suspect, lorsque des indices graves ou concordants rendent vraisemblable sa participation aux faits instruits. Elle doit être précédée d'une audition. Elle ouvre des droits : accès au dossier, assistance d'un avocat, demande d'actes complémentaires. Elle n'est pas une condamnation — l'instruction peut se terminer par un non-lieu."
+    },
+    {
+      "question": "Quels droits la mise en examen confère-t-elle à la personne concernée ?",
+      "choix": [
+        "Aucun droit supplémentaire — elle est simplement informée des faits qui lui sont reprochés",
+        "Droit à l'assistance d'un avocat, accès au dossier de la procédure, droit de demander des actes d'investigation complémentaires, et bénéfice de la présomption d'innocence",
+        "Uniquement le droit à un avocat commis d'office",
+        "Le droit de consulter le dossier sans pouvoir y faire ajouter des éléments"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La mise en examen transforme le statut procédural de la personne.",
+        "Elle lui donne accès au dossier qui lui était jusqu'alors inaccessible.",
+        "Elle lui permet de participer activement à sa défense pendant l'instruction."
+      ],
+      "explication": "La mise en examen confère plusieurs droits importants : le droit à l'assistance d'un avocat (choisi ou commis d'office), l'accès au dossier de la procédure, le droit de demander au juge d'instruction d'effectuer des actes complémentaires (auditions de témoins, expertises), et bien sûr le bénéfice de la présomption d'innocence jusqu'au jugement définitif."
+    },
+    {
+      "question": "Qu'est-ce que la détention provisoire et en quoi s'oppose-t-elle à la présomption d'innocence ?",
+      "choix": [
+        "C'est l'emprisonnement après condamnation — il ne s'oppose pas à la présomption d'innocence car la culpabilité est établie",
+        "C'est l'emprisonnement avant jugement d'une personne mise en examen, qui s'oppose à la présomption d'innocence car la personne est emprisonnée alors qu'elle est encore présumée innocente",
+        "C'est une mesure de protection de la victime qui n'implique pas la présomption d'innocence",
+        "C'est l'équivalent de la garde à vue mais ordonnée par le juge d'instruction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle intervient avant tout jugement.",
+        "La personne détenue n'est pas encore condamnée.",
+        "C'est pourquoi elle est encadrée strictement et doit rester exceptionnelle."
+      ],
+      "explication": "La détention provisoire est l'emprisonnement d'une personne mise en examen avant que sa culpabilité soit établie par un jugement définitif. Elle s'oppose directement à la présomption d'innocence — on emprisonne une personne qui est encore juridiquement innocente. C'est pourquoi elle ne peut être ordonnée que dans des conditions strictement définies par la loi (risque de fuite, destruction de preuves, pression sur témoins, etc.) et doit rester une mesure exceptionnelle."
+    },
+    {
+      "question": "Quelle est l'alternative à la détention provisoire ?",
+      "choix": [
+        "La garde à vue prolongée",
+        "Le contrôle judiciaire — ensemble d'obligations imposées à la personne mise en examen sans l'emprisonner",
+        "L'assignation à résidence dans un hôtel de police",
+        "La caution financière versée par la famille"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle permet de surveiller la personne sans l'emprisonner.",
+        "Elle peut comprendre l'obligation de pointer, de remettre son passeport, de ne pas quitter le territoire.",
+        "Elle est moins attentatoire à la présomption d'innocence."
+      ],
+      "explication": "Le contrôle judiciaire est l'alternative à la détention provisoire. Il consiste en une série d'obligations imposées à la personne mise en examen — pointer régulièrement auprès des autorités, remettre son passeport, ne pas quitter le territoire, ne pas contacter certaines personnes, ne pas s'approcher de certains lieux. Cette mesure permet de surveiller la personne et de prévenir les risques (fuite, pressions sur témoins) sans l'emprisonner."
+    },
+    {
+      "question": "Qu'est-ce qu'une commission rogatoire ?",
+      "choix": [
+        "La demande formulée par la partie civile auprès du juge d'instruction",
+        "L'acte par lequel le juge d'instruction délègue à des OPJ le soin d'accomplir certains actes d'investigation en son nom",
+        "L'autorisation donnée par le procureur à la police pour effectuer une perquisition",
+        "La demande d'entraide judiciaire internationale"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un mécanisme de délégation des pouvoirs du juge.",
+        "Les OPJ agissent alors avec les pouvoirs du juge d'instruction dans les limites définies.",
+        "Elle précise les actes à accomplir et leur cadre."
+      ],
+      "explication": "La commission rogatoire est l'acte par lequel le juge d'instruction délègue à des officiers de police judiciaire le soin d'accomplir certains actes d'investigation — perquisitions, auditions, surveillances — en son nom. Les OPJ agissent alors avec les pouvoirs du juge d'instruction, dans les limites fixées par la commission rogatoire. Ils rédigent des procès-verbaux qui sont transmis au juge d'instruction."
+    },
+    {
+      "question": "Dans quelles conditions les interceptions de communications (écoutes téléphoniques) peuvent-elles être ordonnées ?",
+      "choix": [
+        "Par n'importe quel OPJ pour toute infraction",
+        "Uniquement par le juge d'instruction, pour les infractions d'une certaine gravité, pour une durée limitée",
+        "Par le procureur de la République sans limitation",
+        "Elles sont totalement interdites en droit malgache"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une mesure particulièrement intrusive sur la vie privée.",
+        "Elle est réservée aux infractions les plus graves.",
+        "Seul le juge peut l'ordonner."
+      ],
+      "explication": "Les interceptions de communications sont un acte d'investigation particulièrement intrusif sur la vie privée. Elles ne peuvent être ordonnées que par le juge d'instruction (jamais par la police seule), pour les infractions d'une certaine gravité déterminée par la loi, et pour une durée limitée. Ces conditions strictes visent à protéger le secret des communications, droit fondamental de la personne."
+    },
+    {
+      "question": "Qu'est-ce qu'une expertise judiciaire et comment est-elle ordonnée ?",
+      "choix": [
+        "Une consultation informelle de la police auprès d'un technicien",
+        "Le recours à un technicien spécialisé désigné par le juge d'instruction qui analyse des éléments techniques et remet un rapport écrit",
+        "L'analyse des preuves par le procureur de la République",
+        "Une enquête complémentaire ordonnée par le parquet"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle fait appel à des compétences techniques que le juge ne possède pas.",
+        "L'expert prête serment et son rapport a une valeur officielle.",
+        "Les parties peuvent la contester par une contre-expertise."
+      ],
+      "explication": "L'expertise judiciaire est le recours à un technicien spécialisé (médecin, expert balistique, comptable, informaticien) désigné par le juge d'instruction pour analyser des éléments qui dépassent les compétences juridiques. L'expert prête serment et remet un rapport écrit au juge. Les parties peuvent contester les conclusions de l'expert en demandant une contre-expertise — une seconde expertise confiée à un autre expert."
+    },
+    {
+      "question": "Qu'est-ce qu'une ordonnance de non-lieu ?",
+      "choix": [
+        "La décision du tribunal acquittant une personne après un procès",
+        "L'ordonnance du juge d'instruction clôturant l'instruction car les charges sont insuffisantes, mettant fin à la procédure",
+        "La décision du procureur de classer une affaire sans suite",
+        "L'ordonnance refusant une demande d'acte d'investigation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est la décision de clôture de l'instruction la plus favorable à la personne mise en examen.",
+        "Elle efface toutes les conséquences de la mise en examen.",
+        "Elle est rendue par le juge d'instruction, pas par le tribunal."
+      ],
+      "explication": "L'ordonnance de non-lieu est rendue par le juge d'instruction lorsque les charges réunies au cours de l'instruction sont insuffisantes pour renvoyer la personne devant une juridiction de jugement — soit que les faits ne sont pas établis, soit que l'auteur n'est pas identifié, soit que les charges contre la personne mise en examen sont insuffisantes. Le non-lieu met fin à la procédure et efface toutes les conséquences de la mise en examen."
+    },
+    {
+      "question": "Devant quelle juridiction est renvoyée une personne mise en examen pour un crime ?",
+      "choix": [
+        "Le tribunal correctionnel",
+        "La cour d'assises, après ordonnance de mise en accusation de la chambre de l'instruction",
+        "Le tribunal de première instance en matière pénale",
+        "Le juge de proximité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Les crimes sont les infractions les plus graves.",
+        "Une juridiction spéciale est compétente pour les juger.",
+        "Un filtre supplémentaire — la chambre de l'instruction — intervient avant le renvoi."
+      ],
+      "explication": "Pour les crimes, la personne mise en examen est renvoyée devant la cour d'assises. Mais avant ce renvoi, la chambre de l'instruction — formation spécialisée de la cour d'appel — examine le dossier et rend une ordonnance de mise en accusation. C'est un filtre supplémentaire garantissant que seules les affaires sérieuses parviennent à la cour d'assises. Pour les délits, le renvoi est direct devant le tribunal correctionnel."
+    },
+    {
+      "question": "Qu'est-ce qu'une nullité de procédure pénale et quel est son effet ?",
+      "choix": [
+        "L'annulation d'un jugement par la cour d'appel",
+        "L'annulation d'un acte accompli en violation d'une règle procédurale, entraînant l'exclusion des preuves obtenues par cet acte et des actes qui en dépendent",
+        "Le refus du juge d'instruction d'effectuer un acte demandé par les parties",
+        "L'irrecevabilité d'une plainte tardive"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle sanctionne le non-respect des formes procédurales.",
+        "Son effet s'étend aux actes ultérieurs dépendant de l'acte annulé.",
+        "Elle protège les droits fondamentaux des suspects."
+      ],
+      "explication": "Une nullité de procédure est l'annulation d'un acte accompli en violation d'une règle procédurale — garde à vue sans notification des droits, perquisition de nuit sans autorisation, etc. Son effet est double : l'acte lui-même est annulé, et tous les actes ultérieurs qui en sont le résultat sont également annulés (effet en cascade). Les preuves obtenues par un acte annulé sont exclues du dossier et ne peuvent pas être utilisées."
+    },
+    {
+      "question": "Vrai ou faux : une perquisition peut toujours être effectuée de nuit par les OPJ.",
+      "choix": [
+        "Vrai, les perquisitions peuvent avoir lieu à toute heure",
+        "Faux : les perquisitions de nuit sont en principe interdites et ne peuvent avoir lieu que sur autorisation spéciale du juge ou en cas d'extrême urgence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La nuit est une période de protection renforcée du domicile.",
+        "Des exceptions existent mais sont encadrées.",
+        "L'inviolabilité du domicile est un droit constitutionnel."
+      ],
+      "explication": "Faux. Les perquisitions de nuit sont en principe interdites pour protéger l'inviolabilité du domicile et la tranquillité nocturne. Des exceptions sont prévues : autorisation spéciale du juge dans les cas graves, ou cas d'extrême urgence (danger imminent pour des personnes, par exemple). En dehors de ces exceptions, une perquisition nocturne constitue une irrégularité pouvant entraîner la nullité de l'acte et l'exclusion des preuves."
+    },
+    {
+      "question": "Qu'est-ce que le témoin assisté dans la procédure d'instruction ?",
+      "choix": [
+        "Un témoin qui bénéficie d'une protection en raison de la dangerosité de l'affaire",
+        "Un statut intermédiaire entre le simple témoin et la personne mise en examen, permettant à une personne soupçonnée d'être assistée d'un avocat sans avoir encore le statut officiel de suspect",
+        "Un expert désigné pour assister le juge d'instruction dans ses investigations",
+        "Un témoin qui assiste à toutes les audiences de l'instruction"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est un statut intermédiaire créé pour protéger les personnes soupçonnées.",
+        "Il précède souvent la mise en examen.",
+        "Il permet déjà l'assistance d'un avocat."
+      ],
+      "explication": "Le témoin assisté est un statut intermédiaire entre le simple témoin (qui n'a pas droit à un avocat pendant l'audition par le juge d'instruction) et la personne mise en examen (suspect officiel). Avant de mettre en examen une personne, le juge d'instruction l'entend d'abord en qualité de témoin assisté — ce qui lui permet d'être assistée d'un avocat et de prendre connaissance des faits qui lui sont reprochés, sans avoir encore le statut officiel de suspect."
+    },
+    {
+      "question": "Vrai ou faux : la présomption d'innocence signifie que la culpabilité doit être prouvée par l'accusé.",
+      "choix": [
+        "Vrai, l'accusé doit prouver qu'il est innocent",
+        "Faux : la charge de la preuve pèse sur l'accusation — c'est au parquet et à la partie civile de prouver la culpabilité, pas à l'accusé de prouver son innocence"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La présomption d'innocence dit que l'accusé EST innocent jusqu'à preuve du contraire.",
+        "C'est 'jusqu'à preuve du contraire' — et cette preuve incombe à l'accusation.",
+        "Le doute profite à l'accusé."
+      ],
+      "explication": "Faux. La présomption d'innocence signifie exactement l'inverse : c'est l'accusation (parquet et partie civile) qui doit prouver la culpabilité, pas l'accusé qui doit prouver son innocence. Si l'accusation ne parvient pas à établir la culpabilité au-delà de tout doute raisonnable, le tribunal doit acquitter. Le doute profite toujours à l'accusé — 'in dubio pro reo'."
+    },
+    {
+      "question": "Qu'est-ce que l'effet en cascade des nullités de procédure ?",
+      "choix": [
+        "Le fait qu'une nullité entraîne automatiquement la nullité de toute la procédure depuis le début",
+        "L'annulation d'un acte vicié entraîne la nullité de tous les actes ultérieurs qui en sont directement le résultat",
+        "Le fait que plusieurs nullités successives peuvent conduire à l'extinction de l'action publique",
+        "Le délai accordé aux parties pour soulever une nullité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'image de la cascade illustre bien la propagation de la nullité.",
+        "Si une perquisition est annulée, les preuves saisies lors de cette perquisition le sont aussi.",
+        "Cet effet ne s'étend pas à tous les actes mais seulement à ceux qui dépendent de l'acte annulé."
+      ],
+      "explication": "L'effet en cascade signifie que l'annulation d'un acte vicié entraîne la nullité de tous les actes ultérieurs qui en sont directement le résultat. Par exemple : si une garde à vue est annulée pour non-notification des droits, les aveux faits pendant cette garde à vue sont également nuls et exclus du dossier. Si une perquisition est annulée, toutes les saisies effectuées lors de cette perquisition sont également nulles. L'effet ne s'étend cependant pas à tous les actes de la procédure — seulement à ceux qui dépendent causalement de l'acte annulé."
+    },
+    {
+      "question": "Vrai ou faux : le parquet est obligé d'engager des poursuites pour toute infraction dont il a connaissance.",
+      "choix": [
+        "Vrai, le parquet doit poursuivre toutes les infractions signalées",
+        "Faux : le parquet dispose du principe d'opportunité des poursuites — il peut classer sans suite une affaire s'il l'estime opportun"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le parquet a un pouvoir discrétionnaire sur les poursuites.",
+        "Les raisons de classement sans suite peuvent être diverses — insuffisance de preuves, faiblesse du trouble causé, etc.",
+        "La victime peut contourner ce pouvoir par la plainte avec constitution de partie civile."
+      ],
+      "explication": "Faux. Le parquet dispose du principe d'opportunité des poursuites — il peut décider de ne pas poursuivre une infraction s'il l'estime inopportun, notamment si les preuves sont insuffisantes, si l'infraction est mineure, si l'auteur est inconnu, ou si les poursuites ne serviraient pas l'intérêt général. C'est le classement sans suite. La victime peut contourner cette décision en se constituant partie civile directement auprès du juge d'instruction."
+    },
+    {
+      "question": "Qu'est-ce que le contrôle judiciaire et quelles obligations peut-il imposer ?",
+      "choix": [
+        "La surveillance du juge d'instruction par la chambre de l'instruction",
+        "Une mesure alternative à la détention provisoire imposant des obligations à la personne mise en examen pour la surveiller sans l'emprisonner",
+        "Le contrôle exercé par le procureur sur les activités de la police judiciaire",
+        "La supervision par le juge des actes d'investigation de la police"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est moins grave que la détention provisoire mais plus contraignant qu'une liberté totale.",
+        "Il peut imposer diverses obligations selon la situation.",
+        "Il est ordonné par le juge d'instruction."
+      ],
+      "explication": "Le contrôle judiciaire est la mesure alternative à la détention provisoire permettant de surveiller la personne mise en examen sans l'emprisonner. Le juge d'instruction peut lui imposer diverses obligations : pointer régulièrement auprès des autorités, remettre son passeport ou ses documents d'identité, ne pas quitter le territoire national, ne pas contacter certaines personnes (témoins, co-mis en examen), ne pas s'approcher de certains lieux, ou se soumettre à des traitements médicaux."
+    },
+    {
+      "question": "Quelle est la différence entre la police judiciaire et la police administrative ?",
+      "choix": [
+        "Il n'y a aucune différence — ce sont deux noms pour la même activité",
+        "La police judiciaire constate les infractions commises et en recherche les auteurs ; la police administrative prévient les infractions et maintient l'ordre public",
+        "La police judiciaire est sous le contrôle du ministre de l'Intérieur ; la police administrative sous celui du parquet",
+        "La police judiciaire intervient uniquement en matière de crimes ; la police administrative en matière de délits"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une regarde le passé (infraction déjà commise), l'autre le futur (prévenir).",
+        "Leurs autorités de tutelle sont différentes.",
+        "Elles peuvent être exercées par les mêmes agents selon les circonstances."
+      ],
+      "explication": "La police judiciaire constate les infractions déjà commises, en rassemble les preuves et en recherche les auteurs — elle est rétrospective et agit sous le contrôle du parquet et du juge d'instruction. La police administrative est prospective : elle prévient les infractions, maintient l'ordre public et assure la sécurité — elle est sous le contrôle du pouvoir exécutif (préfet, ministre). Les mêmes agents de police peuvent exercer les deux fonctions selon les circonstances."
+    },
+    {
+      "question": "Qu'est-ce que la chambre de l'instruction et quel est son rôle ?",
+      "choix": [
+        "La formation du tribunal de première instance chargée des affaires pénales urgentes",
+        "La formation spécialisée de la cour d'appel qui contrôle les actes du juge d'instruction et prononce les ordonnances de mise en accusation pour les crimes",
+        "Le bureau du juge d'instruction où se tiennent les auditions",
+        "La commission chargée de superviser les établissements pénitentiaires"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une formation de la cour d'appel.",
+        "Elle contrôle la légalité de l'instruction.",
+        "Elle intervient notamment avant le renvoi en cour d'assises."
+      ],
+      "explication": "La chambre de l'instruction est une formation spécialisée de la cour d'appel. Elle exerce un contrôle sur les actes du juge d'instruction : elle statue sur les appels contre les ordonnances du juge d'instruction (ordonnances de refus d'actes, de détention provisoire, etc.). Pour les crimes, elle doit rendre une ordonnance de mise en accusation avant le renvoi en cour d'assises. Elle connaît aussi des incidents de nullité de procédure."
+    },
+    {
+      "question": "Vrai ou faux : le juge d'instruction instruit uniquement à charge — c'est-à-dire qu'il ne cherche que les preuves de culpabilité.",
+      "choix": [
+        "Vrai, son rôle est de préparer l'accusation",
+        "Faux : le juge d'instruction instruit à charge ET à décharge — il cherche aussi bien les preuves de culpabilité que les éléments favorables à la personne mise en examen"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'impartialité est une exigence fondamentale de la fonction.",
+        "Il peut aboutir à un non-lieu s'il ne trouve pas de charges suffisantes.",
+        "Sa mission est de chercher la vérité, pas de condamner."
+      ],
+      "explication": "Faux. Le juge d'instruction a l'obligation d'instruire à charge ET à décharge. Il doit rechercher aussi bien les éléments de culpabilité que les éléments qui pourraient innocenter la personne mise en examen. Cette impartialité est fondamentale — le juge d'instruction n'est pas un auxiliaire de l'accusation, c'est un magistrat indépendant chargé de rechercher la vérité. C'est pourquoi il peut aboutir à un non-lieu s'il constate que les charges sont insuffisantes."
+    },
+    {
+      "question": "Qu'est-ce que la clameur publique et dans quel contexte est-elle invoquée ?",
+      "choix": [
+        "La publication dans la presse d'informations sur une affaire pénale",
+        "La poursuite immédiate d'un auteur d'infraction par des personnes présentes sur les lieux, permettant d'établir la situation de flagrance",
+        "La déclaration publique du procureur annonçant l'ouverture d'une enquête",
+        "Le bruit causé par une infraction qui permet aux voisins de la signaler"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est l'un des critères permettant de caractériser la flagrance.",
+        "Elle suppose une poursuite immédiate après l'infraction.",
+        "Elle permet d'interpeller quelqu'un qui fuit juste après avoir commis une infraction."
+      ],
+      "explication": "La clameur publique est la poursuite immédiate d'un auteur d'infraction par des personnes qui l'ont vu commettre l'infraction ou qui le suivent dès les premiers moments après l'acte. Elle constitue l'un des critères caractérisant la situation de flagrance — permettant à la police judiciaire qui intercepte la personne poursuivie d'appliquer la procédure de flagrance avec ses pouvoirs étendus."
+    },
+    {
+      "question": "La victime peut-elle participer à l'instruction préparatoire et comment ?",
+      "choix": [
+        "Non, la victime n'est pas partie à l'instruction",
+        "Oui, en se constituant partie civile — elle peut alors demander des actes d'investigation, accéder au dossier et obtenir réparation de son préjudice",
+        "Oui, mais uniquement pour les crimes",
+        "Non, sauf si le procureur lui accorde ce droit spécialement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La constitution de partie civile ouvre des droits importants.",
+        "La victime peut déclencher l'instruction elle-même par cette voie.",
+        "Elle peut aussi demander des actes d'investigation qui lui seraient favorables."
+      ],
+      "explication": "Oui. La victime peut se constituer partie civile auprès du juge d'instruction, ce qui lui confère des droits importants : accéder au dossier de la procédure, demander l'accomplissement d'actes d'investigation (auditions de témoins, expertises), faire appel des ordonnances du juge, et obtenir réparation de son préjudice. Elle peut même déclencher l'instruction par sa plainte avec constitution de partie civile, indépendamment de la décision du parquet."
+    },
+    {
+      "question": "Qu'est-ce que l'imputation en droit pénal et comment se distingue-t-elle de la mise en examen ?",
+      "choix": [
+        "Ce sont deux termes synonymes désignant la même procédure",
+        "L'imputation est le fait d'attribuer une infraction à une personne pendant l'enquête (phase policière) ; la mise en examen est l'acte judiciaire formel du juge d'instruction conférant le statut officiel de suspect",
+        "L'imputation est plus grave que la mise en examen car elle entraîne automatiquement la détention",
+        "L'imputation est un acte du parquet ; la mise en examen un acte de la police"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une intervient pendant la phase policière d'enquête.",
+        "L'autre est un acte judiciaire formel avec effets juridiques précis.",
+        "La mise en examen ouvre des droits que l'imputation n'ouvre pas."
+      ],
+      "explication": "L'imputation désigne le fait d'attribuer la commission d'une infraction à une personne — c'est une notion factuelle de la phase d'enquête policière. La mise en examen est l'acte juridique formel par lequel le juge d'instruction confère officiellement le statut de suspect, fondé sur des indices graves ou concordants, avec des effets juridiques précis (droits à l'avocat, accès au dossier). La mise en examen suppose une instruction ouverte par le juge ; l'imputation peut se faire dès la phase policière."
+    },
+    {
+      "question": "Vrai ou faux : un avocat peut assister son client lors de la garde à vue en droit malgache.",
+      "choix": [
+        "Vrai, dès le début de la garde à vue",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Les garanties de la garde à vue ont évolué dans les systèmes d'inspiration française.",
+        "Ce droit renforce la protection contre les aveux obtenus sous pression.",
+        "C'est un droit fondamental de la défense."
+      ],
+      "explication": "Vrai. Le droit à l'assistance d'un avocat pendant la garde à vue est une garantie fondamentale reconnue dans les systèmes modernes d'inspiration française, dont le droit malgache s'inspire. L'avocat peut assister son client lors des auditions, lui conseiller d'exercer son droit au silence, et s'assurer que ses droits fondamentaux sont respectés. Le défaut d'information sur ce droit peut entraîner la nullité de la garde à vue."
+    },
+    {
+      "question": "Résumé final : dans quel ordre chronologique se déroulent les phases de la procédure pénale jusqu'au jugement ?",
+      "choix": [
+        "Instruction → enquête → jugement",
+        "Jugement → enquête → instruction",
+        "Enquête de police judiciaire → instruction préparatoire (pour les affaires complexes) → jugement devant la juridiction compétente",
+        "Garde à vue → mise en examen → jugement → instruction"
+      ],
+      "reponse": 2,
+      "indices": [
+        "On commence toujours par découvrir et documenter les faits.",
+        "L'instruction approfondit ce que l'enquête a ébauché.",
+        "Le jugement est toujours la dernière phase."
+      ],
+      "explication": "La procédure pénale suit un ordre chronologique précis : d'abord l'enquête de police judiciaire (flagrance ou préliminaire) pendant laquelle la police rassemble les premiers éléments sur l'infraction sous contrôle du parquet ; puis, pour les affaires complexes, l'instruction préparatoire conduite par le juge d'instruction (mise en examen, actes d'investigation, clôture par non-lieu ou renvoi) ; enfin le jugement devant la juridiction compétente (tribunal correctionnel pour les délits, cour d'assises pour les crimes)."
+    },
+    {
+      "question": "Qu'est-ce que la prescription de l'action publique en procédure pénale ?",
+      "choix": [
+        "La décision du parquet de poursuivre une infraction",
+        "L'extinction du droit de poursuivre une infraction par l'écoulement d'un délai légal sans qu'aucune poursuite n'ait été engagée",
+        "La procédure permettant au juge d'instruction de prolonger son instruction",
+        "L'ordonnance par laquelle le juge d'instruction clôture l'information judiciaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une limite dans le temps au droit de poursuivre.",
+        "Son délai varie selon la nature de l'infraction.",
+        "Une fois la prescription acquise, plus aucune poursuite n'est possible."
+      ],
+      "explication": "La prescription de l'action publique est l'extinction du droit de l'État de poursuivre pénalement une infraction par l'écoulement d'un délai légal sans que des poursuites n'aient été engagées. Ce délai varie selon la gravité de l'infraction — plus long pour les crimes que pour les délits, encore plus court pour les contraventions. Passé ce délai, l'action publique est éteinte et aucune poursuite n'est plus possible, même si l'auteur est parfaitement identifié."
+    },
+    {
+      "question": "Vrai ou faux : le procureur de la République peut donner des instructions à la police judiciaire pendant l'enquête.",
+      "choix": [
+        "Vrai, la police judiciaire agit sous le contrôle et les instructions du parquet",
+        "Faux, la police judiciaire est totalement indépendante du parquet"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le parquet dirige la police judiciaire dans ses missions d'enquête.",
+        "La police judiciaire est placée sous la direction du procureur pendant l'enquête.",
+        "Ce lien hiérarchique garantit le contrôle judiciaire de l'enquête."
+      ],
+      "explication": "Vrai. La police judiciaire agit sous le contrôle et les instructions du procureur de la République pendant la phase d'enquête. Le procureur peut donner des directives sur les orientations de l'enquête, demander des actes d'investigation spécifiques, et mettre fin à une garde à vue. Cette supervision garantit que l'enquête policière reste sous contrôle judiciaire — la police judiciaire n'est pas totalement autonome dans ses investigations."
+    },
+    {
+      "question": "Qu'est-ce que le principe de l'intime conviction du juge pénal ?",
+      "choix": [
+        "L'obligation pour le juge de motiver sa décision par des preuves légales formelles",
+        "Le principe selon lequel le juge pénal apprécie librement les preuves qui lui sont soumises et forme sa conviction sans être lié par des règles de preuve formelles",
+        "La règle imposant au juge d'acquitter en cas de doute",
+        "L'obligation pour le juge de consulter des experts avant de statuer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il permet au juge d'apprécier librement toutes les preuves.",
+        "Il s'oppose aux systèmes de preuve légale où la valeur des preuves est fixée par la loi.",
+        "Il est souvent couplé à l'obligation de motivation de la décision."
+      ],
+      "explication": "Le principe de l'intime conviction signifie que le juge pénal apprécie librement les preuves qui lui sont soumises et forme sa conviction sans être lié par des règles formelles fixant la valeur probante de chaque type de preuve. Il peut tenir compte des témoignages, des aveux, des preuves matérielles, des expertises, selon le poids qu'il leur accorde librement. Ce principe est tempéré par l'obligation de motivation — le juge doit expliquer dans sa décision les éléments qui ont forgé sa conviction."
+    },
+    {
+      "question": "Vrai ou faux : une personne ayant fait l'objet d'un non-lieu peut être de nouveau poursuivie pour les mêmes faits si de nouveaux éléments apparaissent.",
+      "choix": [
+        "Vrai, si de nouvelles charges apparaissent, la procédure peut être rouverte",
+        "Faux, le non-lieu a l'autorité de la chose jugée définitive"
+      ],
+      "reponse": 0,
+      "indices": [
+        "Le non-lieu n'est pas un acquittement définitif.",
+        "Il peut être provisoire.",
+        "L'apparition de nouveaux éléments peut justifier la réouverture."
+      ],
+      "explication": "Vrai. Le non-lieu n'est pas un acquittement définitif — il ne signifie pas que la personne est innocente, mais seulement que les charges actuelles sont insuffisantes pour renvoyer l'affaire en jugement. Si de nouveaux éléments de preuve apparaissent ultérieurement, l'instruction peut être rouverte sur réquisition du parquet. C'est pourquoi le non-lieu se distingue de l'acquittement prononcé après un procès — l'acquittement a l'autorité de la chose jugée et interdit définitivement toute nouvelle poursuite pour les mêmes faits."
+    },
+    {
+      "question": "Qu'est-ce qu'un acte de procédure et pourquoi doit-il être consigné dans un procès-verbal ?",
+      "choix": [
+        "Un acte de procédure est une décision du tribunal ; il est consigné pour servir de base à l'appel",
+        "Un acte de procédure est toute action officielle accomplie dans le cadre de la procédure pénale ; il est consigné dans un procès-verbal pour constituer une trace officielle opposable à toutes les parties",
+        "Un acte de procédure est uniquement une audition ; le procès-verbal est une exigence administrative",
+        "Un acte de procédure ne nécessite pas de procès-verbal s'il est effectué devant témoins"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le procès-verbal est la mémoire officielle de la procédure.",
+        "Il permet de vérifier que les règles procédurales ont été respectées.",
+        "Son absence peut entraîner la nullité de l'acte."
+      ],
+      "explication": "Un acte de procédure est toute action officielle accomplie dans le cadre de la procédure pénale — audition, perquisition, placement en garde à vue, saisie, etc. Il doit être consigné dans un procès-verbal signé par les acteurs de l'acte, pour constituer la trace officielle et opposable de ce qui s'est passé, des conditions dans lesquelles l'acte s'est déroulé, et des droits qui ont été respectés ou notifiés. L'absence de procès-verbal ou un procès-verbal incomplet peut entraîner la nullité de l'acte."
+    },
+    {
+      "question": "Résumé final — cas pratique rapide : Niry est soupçonné de vol à main armée commis hier soir. Les gendarmes l'interpellent ce matin dans la rue avec l'arme présumée sur lui. Quelle procédure s'applique et quels pouvoirs les gendarmes ont-ils immédiatement ?",
+      "choix": [
+        "Enquête préliminaire — les gendarmes doivent obtenir une autorisation judiciaire avant toute action",
+        "Enquête de flagrance — les gendarmes peuvent arrêter Niry, perquisitionner son domicile sans autorisation préalable, saisir l'arme et les preuves, le placer en garde à vue de 48 heures renouvelable, et doivent immédiatement informer le procureur",
+        "Instruction préparatoire — ils doivent saisir le juge d'instruction avant d'agir",
+        "Il n'y a plus de flagrance car l'infraction a été commise hier soir — ils doivent demander un mandat de perquisition"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La personne est trouvée avec l'arme — c'est l'un des critères de flagrance.",
+        "La flagrance peut s'étendre au-delà du moment immédiat de l'infraction.",
+        "Quels pouvoirs étendus la flagrance confère-t-elle à la police ?"
+      ],
+      "explication": "La procédure de flagrance s'applique. Le fait que Niry soit trouvé avec l'arme présumée le lendemain de l'infraction peut caractériser la flagrance — la personne est trouvée en possession d'objets laissant penser qu'elle vient de participer à une infraction. Dans ce cadre, les gendarmes OPJ disposent de pouvoirs étendus immédiats : arrêter Niry, procéder à des perquisitions (y compris à son domicile) sans autorisation préalable du juge, saisir l'arme et toutes les preuves disponibles, le placer en garde à vue de 48 heures (renouvelable une fois avec autorisation du procureur). Ils doivent immédiatement informer le procureur de la République qui peut leur donner des instructions. Toutes ces actions doivent être consignées dans des procès-verbaux."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Les faits. Rakoto porte plainte auprès de la gendarmerie d'Antananarivo pour escroquerie aggravée. Il affirme avoir remis 50 millions d'ariary à Niry, qui lui avait promis de lui obtenir un permis de construction au ministère, sans en avoir la possibilité. La gendarmerie ouvre une enquête préliminaire. Les gendarmes souhaitent perquisitionner le domicile de Niry pour y trouver les documents prouvant l'escroquerie. Niry refuse catégoriquement d'autoriser la perquisition. Les gendarmes décident alors de forcer l'entrée sans autorisation. Au cours de la perquisition, ils trouvent des contrats frauduleux signés par Niry. Ils placent Niry en garde à vue de 96 heures sans informer le procureur, et sans lui notifier ses droits. À la fin de la garde à vue, Niry avoue. Le procureur reçoit le dossier et saisit le juge d'instruction. Questions : (1) La perquisition était-elle régulière ? Quelles en sont les conséquences ? (2) La garde à vue était-elle régulière ? Quelles en sont les conséquences sur les aveux de Niry ? (3) Que peut faire le juge d'instruction une fois saisi ?",
+      "choix": [
+        "Tout est régulier car les gendarmes ont trouvé des preuves",
+        "(1) Perquisition irrégulière : en enquête préliminaire, sans consentement ni autorisation judiciaire, la perquisition forcée est nulle — les contrats trouvés sont exclus du dossier. (2) Garde à vue irrégulière : 96h sans information du procureur ni notification des droits — la garde à vue est nulle, les aveux sont exclus. (3) Le juge d'instruction peut ordonner de nouvelles investigations régulières et statuer sur les nullités.",
+        "Niry est coupable car il a avoué — les irrégularités sont sans conséquence",
+        "La perquisition est régulière car Niry est suspect"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle est la règle pour les perquisitions en enquête préliminaire sans consentement ?",
+        "Quelles sont les deux irrégularités affectant la garde à vue ?",
+        "Quel est l'effet en cascade de ces nullités sur les aveux ?"
+      ],
+      "explication": "(1) Irrégularité de la perquisition. En enquête préliminaire, les perquisitions dans un domicile ne peuvent être effectuées qu'avec le consentement écrit et exprès de la personne — ou avec une autorisation judiciaire préalable. Or Niry a explicitement refusé, et les gendarmes ont forcé l'entrée sans autorisation du juge. La perquisition est donc entachée d'une irrégularité grave constituant une nullité. Conséquence : la perquisition est annulée, et par effet en cascade, tous les actes qui en sont le résultat direct sont également nuls — les contrats frauduleux découverts lors de cette perquisition sont exclus du dossier et ne peuvent pas être utilisés comme preuves contre Niry. (2) Irrégularité de la garde à vue. Deux irrégularités cumulatives affectent la garde à vue. Premièrement, sa durée : 96 heures est la durée maximale légale, mais elle ne peut être atteinte que si le renouvellement (48h supplémentaires) a été autorisé par le procureur. Or les gendarmes ont placé Niry en garde à vue de 96 heures sans informer le procureur, ce qui est une violation grave. Deuxièmement, les droits de Niry n'ont pas été notifiés : il n'a pas été informé des faits reprochés, ni de son droit au silence, ni de son droit à un médecin, ni de son droit à prévenir un proche. La garde à vue est donc nulle. Conséquence par effet en cascade : les aveux de Niry, obtenus pendant cette garde à vue irrégulière, sont également nuls et exclus du dossier. Des aveux obtenus dans des conditions portant atteinte aux droits fondamentaux (absence de notification du droit au silence notamment) ne peuvent pas être utilisés. (3) Action du juge d'instruction. Saisi par le procureur, le juge d'instruction peut statuer sur les incidents de nullité soulevés par les parties (notamment Niry et son avocat). Il prononcera vraisemblablement les nullités de la perquisition et de la garde à vue, ce qui entraînera l'exclusion du dossier des contrats et des aveux. Cependant, il n'est pas démuni : il peut ordonner de nouvelles investigations régulières — demander à Rakoto de produire les preuves du versement des 50 millions (virements bancaires, témoignages), faire perquisitionner régulièrement le domicile de Niry avec une commission rogatoire, entendre des témoins, demander une expertise comptable des comptes de Niry. Si de nouvelles preuves régulières sont rassemblées, l'affaire peut aboutir à une mise en examen et un renvoi en jugement malgré l'annulation des premières preuves."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Vonjy est victime d'une agression violente dans la rue à Toamasina. Elle porte plainte. Le parquet classe l'affaire sans suite, estimant que l'auteur ne peut pas être identifié. Vonjy ne se résout pas à cette décision — elle dispose de témoignages et d'images de vidéosurveillance qu'elle pense permettre d'identifier l'agresseur. Elle souhaite que la justice soit rendue. Par ailleurs, pendant l'enquête préliminaire, les gendarmes ont procédé à une garde à vue de 48 heures d'un suspect — Tojo — sans lui notifier son droit au silence ni son droit d'être examiné par un médecin. Tojo a fait des déclarations pendant cette garde à vue. (1) Comment Vonjy peut-elle déclencher des poursuites malgré le classement sans suite du parquet ? (2) Si le juge d'instruction est saisi, quels actes peut-il accomplir avec les éléments que Vonjy lui apporte ? (3) La garde à vue de Tojo est-elle régulière ? Quelles en sont les conséquences sur ses déclarations ?",
+      "choix": [
+        "Vonjy ne peut rien faire car le parquet a classé sans suite",
+        "(1) Vonjy se constitue partie civile directement auprès du juge d'instruction — le juge est alors obligé d'instruire. (2) Le juge peut convoquer les témoins, réquisitionner les images de vidéosurveillance, ordonner une expertise des images, délivrer des commissions rogatoires à la police. (3) La garde à vue est irrégulière — absence de notification du droit au silence et du droit à un médecin — les déclarations de Tojo peuvent être annulées.",
+        "Le juge d'instruction peut refuser de traiter l'affaire si le parquet a classé",
+        "Les déclarations de Tojo sont valables car il a parlé volontairement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Quelle voie permet à la victime de déclencher une instruction sans passer par le parquet ?",
+        "Quels actes le juge d'instruction peut-il accomplir pour rassembler les preuves ?",
+        "Quels droits n'ont pas été notifiés à Tojo et quelles en sont les conséquences ?"
+      ],
+      "explication": "(1) Voie ouverte à Vonjy. Malgré le classement sans suite du parquet, Vonjy dispose d'une voie procédurale puissante : la plainte avec constitution de partie civile directement déposée auprès du juge d'instruction. Cette voie est précisément prévue pour les situations où la victime estime que le parquet a classé à tort. Contrairement au réquisitoire introductif du parquet, la plainte avec constitution de partie civile oblige le juge d'instruction à ouvrir une information judiciaire — il ne peut pas refuser d'instruire. En se constituant partie civile, Vonjy devient officiellement partie à la procédure : elle peut demander des actes d'investigation, accéder au dossier, être informée des décisions prises, et obtenir réparation de son préjudice si un auteur est identifié et condamné. (2) Actes du juge d'instruction. Saisi par Vonjy avec les témoignages et informations sur les images de vidéosurveillance, le juge d'instruction dispose d'un vaste arsenal. Il peut convoquer et entendre les témoins sous serment — leurs témoignages ont une valeur plus forte que lors d'une simple audition policière. Il peut adresser une commission rogatoire aux gendarmes pour réquisitionner légalement les enregistrements de vidéosurveillance auprès des services municipaux ou des établissements privés qui les détiennent. Il peut ordonner une expertise des images pour identifier l'agresseur — un expert en reconnaissance faciale ou en analyse d'images peut être désigné. Si un suspect est identifié grâce à ces investigations, il peut être convoqué d'abord en qualité de témoin assisté, puis mis en examen si des indices graves ou concordants l'impliquent. (3) Irrégularité de la garde à vue de Tojo. La garde à vue de 48 heures respecte la durée légale. En revanche, deux droits fondamentaux n'ont pas été notifiés à Tojo : son droit au silence (ne pas répondre aux questions) et son droit d'être examiné par un médecin. Ces notifications sont obligatoires et leur omission constitue une irrégularité grave. Conséquences : la garde à vue peut être annulée par la chambre de l'instruction saisie d'un incident de nullité. Par effet en cascade, les déclarations de Tojo faites pendant cette garde à vue irrégulière sont également annulées — même s'il a parlé 'volontairement', le fait qu'il n'ait pas été informé de son droit au silence vicie la liberté de ses déclarations. Ces déclarations seraient exclues du dossier. Pour Vonjy, cela signifie que si Tojo est le suspect identifié, l'instruction devra rassembler des preuves supplémentaires régulières pour compenser la perte des déclarations annulées."
+    }
+  ]
+}
