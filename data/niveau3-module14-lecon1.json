@@ -1,0 +1,791 @@
+{
+  "module": {
+    "id": "module_14",
+    "niveau": 3,
+    "titre": "Le Droit de la Mer et des Ressources Maritimes",
+    "description": "Ce module traite du cadre juridique international et national régissant les espaces maritimes, l'exploitation des ressources halieutiques et minérales, le transport et le droit portuaire, la sécurité maritime et la lutte contre la piraterie, avec une attention particulière à la situation de Madagascar en tant que grande île de l'océan Indien.",
+    "themes": [
+      "UNCLOS & zones maritimes (ZEE, plateau continental)",
+      "Pêche & ressources halieutiques",
+      "Droit portuaire & transport maritime",
+      "Piraterie & sécurité maritime",
+      "Ressources minérales sous-marines"
+    ],
+    "lecons": [
+      {
+        "id": "lecon_1",
+        "titre": "L'UNCLOS et le régime des zones maritimes",
+        "theme": "UNCLOS & zones maritimes",
+        "contenu": {
+          "introduction": "La Convention des Nations Unies sur le Droit de la Mer (UNCLOS), adoptée à Montego Bay en 1982 et entrée en vigueur en 1994, constitue la 'constitution des océans'. Elle organise la répartition des compétences étatiques sur les espaces maritimes et fixe le régime juridique applicable à chaque zone.",
+          "sections": [
+            {
+              "titre": "1.1 La genèse et la portée de l'UNCLOS",
+              "texte": "L'UNCLOS (United Nations Convention on the Law of the Sea) est le fruit de dix ans de négociations (1973-1982) dans le cadre de la troisième Conférence des Nations Unies sur le droit de la mer (CNUDM III). Elle rassemble 168 États parties et couvre l'intégralité des espaces maritimes, des fonds marins à la haute mer.\n\nMadagascar a ratifié l'UNCLOS le 22 août 2001. En tant que grande île de l'océan Indien (5 000 km de côtes), Madagascar dispose d'espaces maritimes considérables et d'une Zone Économique Exclusive (ZEE) d'environ 1,2 million de km², soit une superficie supérieure à celle du territoire terrestre.\n\nL'UNCLOS s'articule autour de trois grands principes : la liberté de la haute mer (héritage du droit coutumier), la souveraineté côtière sur les zones proches (mer territoriale) et la juridiction fonctionnelle sur les zones intermédiaires (ZEE, plateau continental)."
+            },
+            {
+              "titre": "1.2 Les eaux intérieures et la mer territoriale",
+              "texte": "Les eaux intérieures sont les eaux situées en deçà des lignes de base (ports, baies, rades) sur lesquelles l'État côtier exerce une souveraineté totale, comparable à sa souveraineté terrestre.\n\nLa mer territoriale s'étend jusqu'à 12 milles marins (M) à partir des lignes de base. L'État côtier y exerce sa pleine souveraineté (droit pénal, douanes, immigration, environnement), sous réserve du droit de passage inoffensif reconnu aux navires étrangers. Ce passage doit être continu, rapide et ne pas porter atteinte à la paix, à l'ordre public ou à la sécurité de l'État côtier.\n\nLa zone contiguë s'étend de 12 à 24 M. L'État côtier peut y exercer des contrôles pour prévenir et réprimer les infractions à ses lois douanières, fiscales, sanitaires et d'immigration commises sur son territoire ou dans sa mer territoriale."
+            },
+            {
+              "titre": "1.3 La Zone Économique Exclusive (ZEE)",
+              "texte": "La ZEE est l'innovation majeure de l'UNCLOS. Elle s'étend jusqu'à 200 milles marins des lignes de base et confère à l'État côtier des droits souverains (non une souveraineté pleine) sur :\n\n• L'exploration et l'exploitation des ressources naturelles (vivantes et non vivantes) des eaux, des fonds marins et du sous-sol ;\n• La gestion et la conservation des ressources biologiques ;\n• La production d'énergie à partir de l'eau, des courants et des vents ;\n• La juridiction sur les îles artificielles, les installations, les recherches scientifiques marines, la protection de l'environnement marin.\n\nLes autres États conservent dans la ZEE la liberté de navigation, de survol, de pose de câbles et pipelines sous-marins.\n\nLa ZEE de Madagascar (environ 1,2 million de km²) est l'une des plus grandes de l'océan Indien et contient d'importantes ressources halieutiques (thonidés, crevettes, langoustes) et potentiellement des hydrocarbures et nodules polymétalliques."
+            },
+            {
+              "titre": "1.4 Le plateau continental",
+              "texte": "Le plateau continental comprend les fonds marins et leur sous-sol au-delà de la mer territoriale, jusqu'à 200 M au minimum. L'État côtier peut revendiquer une extension jusqu'à 350 M (ou 100 M au-delà de l'isobathe des 2 500 mètres) si la marge continentale se prolonge au-delà de 200 M, sous réserve de validation par la Commission des limites du plateau continental (CLPC).\n\nL'État côtier exerce des droits souverains exclusifs sur le plateau continental pour l'exploration et l'exploitation des ressources naturelles non vivantes (hydrocarbures, minéraux) et des espèces sédentaires (coraux, éponges, crustacés fixés).\n\nMadagascar a soumis une demande d'extension de son plateau continental à la CLPC pour plusieurs zones, notamment dans le Canal du Mozambique, où des découvertes importantes de gaz naturel ont été réalisées."
+            },
+            {
+              "titre": "1.5 La haute mer et la Zone internationale des fonds marins",
+              "texte": "La haute mer commence au-delà de la ZEE et est ouverte à tous les États selon le principe de liberté (navigation, survol, pêche, recherche scientifique, pose de câbles et pipelines, construction d'îles artificielles).\n\nLes fonds marins situés au-delà des juridictions nationales constituent la 'Zone', dont les ressources minérales sont déclarées 'patrimoine commun de l'humanité' par l'UNCLOS (article 136). L'Autorité internationale des fonds marins (AIFM), basée à Kingston (Jamaïque), régule l'exploration et l'exploitation de ces ressources au profit de l'ensemble de l'humanité, avec une attention particulière aux pays en développement.\n\nMadagascar, en tant qu'État en développement, peut bénéficier d'un transfert de technologie et d'une part des revenus générés par l'exploitation de la Zone."
+            }
+          ]
+        }
+      },
+      {
+        "id": "lecon_2",
+        "titre": "La pêche et la gestion des ressources halieutiques",
+        "theme": "Pêche & ressources halieutiques",
+        "contenu": {
+          "introduction": "Les ressources halieutiques de la ZEE malgache représentent un enjeu économique majeur et un défi de gouvernance. La pêche illicite, non déclarée et non réglementée (pêche INN) constitue une menace sérieuse pour la souveraineté et la durabilité des ressources.",
+          "sections": [
+            {
+              "titre": "2.1 Le cadre juridique national de la pêche",
+              "texte": "La Loi n°2015-053 portant Code de la pêche et de l'aquaculture constitue le texte de référence. Elle est complétée par plusieurs décrets d'application et accords bilatéraux de pêche.\n\nLe Code de la pêche distingue :\n• La pêche traditionnelle ou artisanale : réservée aux nationaux malgaches dans les eaux côtières, utilisant des embarcations non motorisées ou de faible puissance ;\n• La pêche côtière : dans les eaux territoriales et la ZEE côtière, soumise à licence ;\n• La pêche hauturière (au large) : dans toute la ZEE, ouverte aux armateurs nationaux et étrangers sous conditions ;\n• L'aquaculture : élevage en milieu marin ou continental, secteur en développement.\n\nL'autorité compétente est le Ministère chargé des ressources halieutiques (ou de la pêche), avec des services déconcentrés dans les régions côtières."
+            },
+            {
+              "titre": "2.2 Le régime des licences et accords de pêche",
+              "texte": "Tout navire souhaitant pêcher dans la ZEE malgache doit obtenir une licence de pêche délivrée par le Ministère. Les navires étrangers accèdent aux ressources halieutiques malgaches via :\n\n• Des accords bilatéraux de pêche (avec l'Union européenne, le Japon, la Chine, les îles Seychelles) prévoyant le paiement de droits d'accès et des obligations de déclaration des captures ;\n• Des licences individuelles accordées à des armateurs étrangers.\n\nL'accord de pêche entre Madagascar et l'Union européenne (Accord de Partenariat pour la Pêche Durable - APPD) est le plus important. Il permet aux thoniers de l'UE d'opérer dans la ZEE malgache moyennant une contrepartie financière destinée à soutenir la politique sectorielle des pêches de Madagascar.\n\nLes obligations des titulaires de licences comprennent : la déclaration des captures (journaux de bord électroniques), l'embarquement d'observateurs malgaches, le débarquement prioritaire dans les ports malgaches et le paiement des taxes et redevances."
+            },
+            {
+              "titre": "2.3 La pêche INN (Illicite, Non déclarée, Non réglementée)",
+              "texte": "La pêche INN constitue l'un des défis majeurs de la gouvernance maritime malgache. Elle se manifeste par :\n• Des navires pêchant sans licence dans la ZEE malgache ;\n• Des déclarations de captures frauduleuses (sous-déclaration) ;\n• L'utilisation d'engins de pêche prohibés (filets dérivants, chaluts à faible maillage).\n\nPour lutter contre la pêche INN, Madagascar a mis en place :\n• Un système VMS (Vessel Monitoring System) de surveillance par satellite des navires ;\n• Des patrouilles de la Marine nationale malgache ;\n• La participation à la Commission de l'Océan Indien (COI) et à la Commission thonière de l'Océan Indien (CTOI/IOTC) pour la gestion concertée des stocks transfrontaliers.\n\nLes sanctions prévues par le Code de la pêche incluent la saisie du navire et de la cargaison, des amendes très élevées et l'interdiction d'opérer dans la ZEE malgache. L'accord de l'État du port (Accord de Cape Town) permet également de contrôler les navires pêchant illégalement lorsqu'ils font escale dans les ports malgaches."
+            },
+            {
+              "titre": "2.4 La gestion durable des ressources et l'aquaculture",
+              "texte": "L'UNCLOS impose à l'État côtier de déterminer le volume admissible des captures (TAC - Total Admissible de Captures) pour chaque stock et de ne pas surexploiter ses ressources. Les stocks partagés avec d'autres États (thonidés migrateurs) sont gérés par des organisations régionales de gestion des pêches (ORGP) comme la CTOI.\n\nLes principaux stocks halieutiques malgaches comprennent :\n• Les thonidés (thon albacore, thon obèse, listao) : espèces hautement migratrices ;\n• Les crevettes pénéidées : principale exportation halieutique, secteur en crise suite à la surexploitation et aux maladies ;\n• Les langoustes et les holothuries (concombres de mer) ;\n• Les espèces côtières (poissons de récif, céphalopodes).\n\nL'aquaculture (crevettes, algues, huîtres) est encouragée comme alternative à la pêche de capture. Des textes spécifiques encadrent les installations d'aquaculture et leurs impacts environnementaux."
+            }
+          ]
+        }
+      },
+      {
+        "id": "lecon_3",
+        "titre": "Le droit portuaire et le transport maritime",
+        "theme": "Droit portuaire & transport maritime",
+        "contenu": {
+          "introduction": "En tant qu'île, Madagascar dépend à plus de 80% du transport maritime pour ses échanges commerciaux. Le cadre juridique portuaire et maritime détermine les conditions d'accès aux ports, la sécurité des navires et la responsabilité des acteurs du secteur.",
+          "sections": [
+            {
+              "titre": "3.1 Le cadre institutionnel portuaire malgache",
+              "texte": "Les infrastructures portuaires malgaches sont placées sous l'autorité de l'Agence Portuaire Maritime et Fluviale (APMF), établissement public créé par le Décret n°2003-962. L'APMF est chargée de :\n• La réglementation, le contrôle et la sécurité de la navigation maritime et fluviale ;\n• La délivrance des titres de navigation et des brevets maritimes ;\n• Le contrôle des navires par l'État du port (inspection PSC).\n\nLes ports de Madagascar sont gérés par la Société Malgache des Ports (SMPM) pour les ports secondaires et par des sociétés concessionnaires pour les ports principaux. Le port de Toamasina (Tamatave) est le principal port de commerce de Madagascar, traitant plus de 70% du trafic national. Il est géré par la Société Malgache de Manutention et d'Acconage (SMMA) sous concession."
+            },
+            {
+              "titre": "3.2 Les conventions maritimes internationales applicables",
+              "texte": "Madagascar est partie à plusieurs conventions de l'Organisation Maritime Internationale (OMI) :\n\n• Convention SOLAS (Safety of Life at Sea, 1974) : sécurité des navires (construction, équipements, procédures d'urgence) ;\n• Convention MARPOL (Marine Pollution, 1973/78) : prévention de la pollution des mers par les navires (hydrocarbures, eaux usées, ordures, émissions atmosphériques) ;\n• Convention STCW (Standards of Training, Certification and Watchkeeping, 1978) : formation et certification des gens de mer ;\n• Convention SAR (Search and Rescue, 1979) : organisation des secours en mer ;\n• Convention de Montego Bay (UNCLOS) : régime général des espaces maritimes.\n\nLe non-respect de ces conventions expose les armateurs et capitaines à des poursuites devant les juridictions malgaches ou celles de l'État du port."
+            },
+            {
+              "titre": "3.3 Le régime juridique du navire et de l'équipage",
+              "texte": "Tout navire doit arborer le pavillon d'un État et être immatriculé dans un registre national. Le navire battant pavillon malgache est soumis à la juridiction et au contrôle de Madagascar en haute mer.\n\nLe Code maritime malgache (inspiré du Code des transports maritime français) régit :\n• Le contrat d'affrètement (nolisement) : location d'un navire ou de sa capacité de transport ;\n• Le connaissement (bill of lading) : titre représentatif de la marchandise transportée ;\n• La responsabilité du transporteur maritime : limitée par les Règles de La Haye-Visby pour les dommages aux marchandises ;\n• Les gens de mer : contrat d'engagement, droits et obligations à bord, sécurité sociale des marins.\n\nLes pavillons de complaisance (navires immatriculés dans des États à faible réglementation pour réduire les coûts) sont une problématique mondiale : ils échappent souvent aux contrôles stricts, augmentant les risques d'accidents et de pollutions."
+            },
+            {
+              "titre": "3.4 La responsabilité en matière de pollution maritime par les hydrocarbures",
+              "texte": "Madagascar est partie à la Convention CLC (Civil Liability Convention, 1969/1992) et au Fonds FIPOL (Fonds international d'indemnisation pour les dommages dus à la pollution par les hydrocarbures).\n\nCe régime prévoit :\n• La responsabilité objective (sans faute) du propriétaire du navire pour les dommages par pollution aux hydrocarbures ;\n• L'obligation d'assurance (certificat bleu délivré par le P&I Club) ;\n• La limitation de responsabilité selon le tonnage du navire ;\n• La compensation complémentaire par le FIPOL si les dommages dépassent la limite de responsabilité du propriétaire.\n\nEn cas de catastrophe maritime (naufrage, déversement d'hydrocarbures dans les eaux malgaches), l'APMF coordonne les opérations d'intervention et peut exiger le remorquage ou l'échouage d'urgence du navire en difficulté."
+            }
+          ]
+        }
+      },
+      {
+        "id": "lecon_4",
+        "titre": "La piraterie maritime et la sécurité en mer",
+        "theme": "Piraterie & sécurité maritime",
+        "contenu": {
+          "introduction": "L'océan Indien occidental, dont fait partie le Canal du Mozambique adjacent à Madagascar, a été fortement affecté par la piraterie somalienne (2008-2012). Bien que le phénomène ait diminué, la menace persiste et a conduit à un renforcement significatif du cadre juridique international et régional.",
+          "sections": [
+            {
+              "titre": "4.1 La définition juridique de la piraterie en droit international",
+              "texte": "L'article 101 de l'UNCLOS définit la piraterie comme tout acte illicite de violence, de détention ou de déprédation commis à des fins privées par l'équipage ou des passagers d'un navire ou d'un aéronef privé :\n• Contre un autre navire ou aéronef, ou contre des personnes ou des biens à leur bord, en haute mer ;\n• Contre un navire, un aéronef, des personnes ou des biens dans un lieu ne relevant d'aucun État.\n\nLa piraterie est un crime de droit international coutumier soumis au principe de compétence universelle : tout État peut arrêter, juger et condamner les pirates, quel que soit leur nationalité et le lieu de l'acte (en haute mer). Cette compétence universelle est une exception majeure au principe de territorialité en droit pénal.\n\nÀ distinguer du vol à main armée en mer (robbery at sea), qui désigne les actes similaires commis dans les eaux territoriales d'un État : ceux-ci relèvent de la seule compétence de l'État côtier concerné."
+            },
+            {
+              "titre": "4.2 La réponse internationale à la piraterie somalienne",
+              "texte": "Face à l'explosion de la piraterie somalienne (jusqu'à 237 incidents en 2011), la communauté internationale a réagi par plusieurs instruments :\n\n• Résolutions du Conseil de Sécurité de l'ONU (notamment Résolution 1816/2008) autorisant les États à poursuivre les pirates dans les eaux territoriales somaliennes ;\n• Opérations navales multinationales : EU NAVFOR Atalanta (Union européenne), Combined Task Force 151 (coalition internationale), OTAN (Operation Ocean Shield) ;\n• Code de conduite de Djibouti (2009) : accord régional de coopération entre États de l'Afrique de l'Est et du Golfe d'Aden pour lutter contre la piraterie et les crimes maritimes ;\n• Convention de l'Union africaine sur la sûreté et la sécurité maritimes (Code de Lomé, 2016).\n\nMadagascar a adhéré au Code de Djibouti et participe aux mécanismes régionaux de surveillance maritime (Centre de sécurité maritime de l'Océan Indien - MASE/COI à Madagascar)."
+            },
+            {
+              "titre": "4.3 Le cadre juridique malgache de lutte contre la piraterie",
+              "texte": "Madagascar a adopté la Loi n°2014-042 relative à la répression de la piraterie, transposant les obligations du droit international. Cette loi :\n\n• Définit la piraterie conformément à l'UNCLOS et crée des infractions spécifiques dans le Code pénal malgache ;\n• Établit la compétence des juridictions malgaches pour juger les actes de piraterie commis en haute mer, indépendamment de la nationalité des auteurs ;\n• Prévoit des peines sévères (emprisonnement à perpétuité pour les actes ayant entraîné la mort) ;\n• Autorise les forces de sécurité malgaches à arraisonner, fouiller et arrêter les navires suspects.\n\nLe Centre de Coordination des Opérations de Sauvetage Maritime (MRCC) à Antananarivo coordonne également les opérations de recherche et sauvetage en mer dans la zone SAR placée sous responsabilité malgache."
+            },
+            {
+              "titre": "4.4 Les gardes privés armés à bord des navires",
+              "texte": "Face à l'insuffisance des escortes navales, de nombreux armateurs ont eu recours à des équipes de protection embarquées (PCASP - Privately Contracted Armed Security Personnel). Le statut juridique de ces gardes pose des problèmes complexes :\n\n• Dans la mer territoriale d'un État côtier, le port d'armes par des privés étrangers est généralement illégal sans autorisation ;\n• Les armes doivent être déclarées et stockées dans des conditions précises lors de l'escale en port ;\n• Les règles d'engagement (recours à la force) doivent respecter le principe de proportionnalité et les droits fondamentaux.\n\nL'OMI a émis des circulaires (MSC.1/Circ.1405/Rev.3) guidant les États du pavillon, les États du port et les armateurs sur l'emploi de PCASP. Madagascar, comme État du port, a le droit d'imposer des conditions strictes aux navires entrant dans ses ports avec des gardes armés à bord."
+            }
+          ]
+        }
+      },
+      {
+        "id": "lecon_5",
+        "titre": "Les ressources minérales sous-marines",
+        "theme": "Ressources minérales sous-marines",
+        "contenu": {
+          "introduction": "Les fonds marins recèlent d'immenses richesses minérales : hydrocarbures, nodules polymétalliques, sulfures hydrothermaux, encroûtements cobaltifères. L'exploitation de ces ressources soulève des questions juridiques complexes selon qu'elles se situent dans les zones nationales ou dans la Zone internationale.",
+          "sections": [
+            {
+              "titre": "5.1 Les hydrocarbures offshore dans la ZEE et le plateau continental",
+              "texte": "L'État côtier exerce des droits souverains exclusifs sur les hydrocarbures (pétrole, gaz naturel) de son plateau continental et de sa ZEE. Aucun autre État ni aucune entité privée ne peut explorer ou exploiter ces ressources sans autorisation de l'État côtier.\n\nMadagascar dispose d'un potentiel pétrolier et gazier significatif, notamment dans :\n• Le Canal du Mozambique (gaz naturel, en cours d'exploration) ;\n• Le bassin de Morondava (côte ouest, gaz onshore et offshore) ;\n• Le bassin de Majunga.\n\nLe cadre juridique est fixé par le Code pétrolier (Loi n°96-018 modifiée) et ses décrets d'application. L'État conclut des Contrats de Partage de Production (CPP) avec les compagnies pétrolières : l'État reçoit une part de la production (le 'profit oil') après récupération des coûts par l'opérateur.\n\nL'Office Malgache des Hydrocarbures (OMH) représente les intérêts de l'État dans ces contrats et surveille les opérations."
+            },
+            {
+              "titre": "5.2 Les nodules polymétalliques et les ressources de la Zone",
+              "texte": "Les nodules polymétalliques sont des concrétions minérales présentes sur les grands fonds marins (3 000-6 000 m), contenant du manganèse, du cobalt, du nickel, du cuivre et des terres rares, matériaux essentiels pour la transition énergétique (batteries, éoliennes).\n\nSituées au-delà des juridictions nationales, ces ressources relèvent de l'Autorité Internationale des Fonds Marins (AIFM), dont le siège est à Kingston (Jamaïque). L'AIFM gère l'attribution de contrats d'exploration aux États et aux entreprises parrainées par des États.\n\nMadagascar, en tant qu'État partie à l'UNCLOS, peut parrainer des entreprises nationales ou des joint-ventures pour obtenir des contrats d'exploration de l'AIFM. L'État parrain engage sa responsabilité si l'entreprise parrainée ne respecte pas les obligations environnementales fixées par l'AIFM.\n\nLe Règlement de l'AIFM sur l'exploitation des nodules (en cours de finalisation) inclut des obligations environnementales strictes et un mécanisme de partage des bénéfices avec les pays en développement."
+            },
+            {
+              "titre": "5.3 Les sulfures hydrothermaux et les encroûtements cobaltifères",
+              "texte": "Les sources hydrothermales des dorsales océaniques génèrent des sulfures polymétalliques (or, argent, cuivre, zinc) qui se déposent autour des cheminées hydrothermales. Ces écosystèmes uniques abritent une faune endémique très fragile.\n\nLes encroûtements cobaltifères (riches en cobalt, platine, terres rares) se forment sur les flancs des monts sous-marins (guyots) entre 400 et 4 000 m de profondeur. Des monts sous-marins importants sont présents dans la ZEE de Madagascar et ses environs.\n\nLes défis juridiques soulevés par l'exploitation de ces ressources concernent :\n• La frontière entre la ZEE nationale et la Zone internationale (délimitation précise nécessaire) ;\n• La protection de la biodiversité des grands fonds (espèces endémiques des sources hydrothermales, coraux d'eaux froides) ;\n• La responsabilité environnementale en cas de dommages écologiques irréversibles.\n\nLe principe de précaution s'applique avec une particulière rigueur : les écosystèmes des grands fonds, en cas de destruction, ne peuvent pas se régénérer à l'échelle humaine."
+            },
+            {
+              "titre": "5.4 L'extension du plateau continental et les enjeux pour Madagascar",
+              "texte": "L'article 76 de l'UNCLOS permet aux États côtiers de revendiquer un plateau continental étendu au-delà de 200 M si leur marge continentale se prolonge naturellement. La demande doit être soumise à la Commission des Limites du Plateau Continental (CLPC) dans un délai de 10 ans après la ratification de l'UNCLOS.\n\nMadagascar a déposé ses demandes auprès de la CLPC pour plusieurs zones, en particulier dans le Canal du Mozambique. La reconnaissance d'un plateau continental étendu permettrait à Madagascar d'exercer des droits souverains sur les ressources des fonds marins au-delà de 200 M, représentant des superficies considérables.\n\nLes enjeux sont majeurs : contrôle des ressources en hydrocarbures et minéraux dans des zones aujourd'hui en dehors de toute juridiction nationale, renforcement de la souveraineté maritime, amélioration de la position de négociation avec les compagnies extractives.\n\nLa délimitation maritime avec les États voisins (Mozambique, Comores, Seychelles, Réunion/France, Maurice) est également une priorité : des zones de chevauchement de revendications existent et peuvent être résolues par négociation bilatérale, médiation ou saisine du Tribunal International du Droit de la Mer (TIDM)."
+            },
+            {
+              "titre": "5.5 Le Tribunal International du Droit de la Mer (TIDM)",
+              "texte": "Le TIDM, créé par l'UNCLOS et siégeant à Hambourg (Allemagne), est la juridiction internationale spécialisée en droit de la mer. Il est compétent pour :\n• Les différends entre États parties à l'UNCLOS relatifs à l'interprétation ou l'application de la Convention ;\n• La prompte mainlevée des navires saisis (procédure d'urgence) ;\n• Les mesures conservatoires en urgence ;\n• Les avis consultatifs à la demande de l'AIFM ou d'organisations régionales.\n\nLe TIDM comprend une Chambre pour le règlement des différends relatifs aux fonds marins (Chambre des fonds marins) spécifiquement compétente pour les litiges liés à l'exploitation de la Zone.\n\nMadagascar peut recourir au TIDM en cas de différend maritime avec un autre État partie, notamment pour des questions de délimitation maritime, de violation de sa ZEE par des navires étrangers, ou de contestation de mesures prises par un autre État à l'encontre de navires malgaches."
+            }
+          ]
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q1",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "Quelle est la dénomination officielle de l'UNCLOS ?",
+        "options": [
+          "Convention de Genève sur le droit de la mer",
+          "Convention des Nations Unies sur le Droit de la Mer",
+          "Charte maritime internationale",
+          "Accord de Montego Bay sur les pêcheries"
+        ],
+        "reponse_correcte": "Convention des Nations Unies sur le Droit de la Mer",
+        "explication": "L'UNCLOS (United Nations Convention on the Law of the Sea) est officiellement la Convention des Nations Unies sur le Droit de la Mer, adoptée à Montego Bay en 1982."
+      },
+      {
+        "id": "q2",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "Jusqu'à quelle distance des lignes de base s'étend la mer territoriale selon l'UNCLOS ?",
+        "options": ["6 milles marins", "12 milles marins", "24 milles marins", "200 milles marins"],
+        "reponse_correcte": "12 milles marins",
+        "explication": "La mer territoriale s'étend jusqu'à 12 milles marins (M) à partir des lignes de base. L'État y exerce sa pleine souveraineté sous réserve du droit de passage inoffensif."
+      },
+      {
+        "id": "q3",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "La ZEE de Madagascar s'étend sur environ :",
+        "options": ["500 000 km²", "800 000 km²", "1,2 million de km²", "2 millions de km²"],
+        "reponse_correcte": "1,2 million de km²",
+        "explication": "La ZEE de Madagascar couvre environ 1,2 million de km², superficie supérieure à son territoire terrestre, faisant de Madagascar un grand État maritime de l'océan Indien."
+      },
+      {
+        "id": "q4",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "Le droit de passage inoffensif s'applique dans :",
+        "options": [
+          "Les eaux intérieures uniquement",
+          "La mer territoriale",
+          "La ZEE uniquement",
+          "La haute mer"
+        ],
+        "reponse_correcte": "La mer territoriale",
+        "explication": "Le passage inoffensif (continu, rapide, non menaçant) est reconnu dans la mer territoriale aux navires étrangers, mais pas dans les eaux intérieures où la souveraineté est totale."
+      },
+      {
+        "id": "q5",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "La zone contiguë s'étend de :",
+        "options": ["0 à 12 M", "12 à 24 M", "24 à 200 M", "200 à 350 M"],
+        "reponse_correcte": "12 à 24 M",
+        "explication": "La zone contiguë est la bande maritime entre 12 et 24 milles marins des lignes de base, où l'État peut exercer des contrôles douaniers, fiscaux, sanitaires et d'immigration."
+      },
+      {
+        "id": "q6",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "Quelle institution valide les demandes d'extension du plateau continental au-delà de 200 M ?",
+        "options": [
+          "Le Conseil de Sécurité de l'ONU",
+          "La Commission des Limites du Plateau Continental (CLPC)",
+          "L'Autorité Internationale des Fonds Marins (AIFM)",
+          "Le Tribunal International du Droit de la Mer (TIDM)"
+        ],
+        "reponse_correcte": "La Commission des Limites du Plateau Continental (CLPC)",
+        "explication": "La CLPC examine et valide les demandes d'extension du plateau continental au-delà de 200 M soumises par les États côtiers conformément à l'article 76 de l'UNCLOS."
+      },
+      {
+        "id": "q7",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "Quelle est la qualification juridique des ressources minérales des fonds marins situés au-delà des juridictions nationales selon l'UNCLOS ?",
+        "options": [
+          "Propriété des États développés",
+          "Patrimoine commun de l'humanité",
+          "Ressources libres d'accès",
+          "Propriété des États riverains"
+        ],
+        "reponse_correcte": "Patrimoine commun de l'humanité",
+        "explication": "L'article 136 de l'UNCLOS qualifie les ressources minérales de la Zone (fonds marins internationaux) de 'patrimoine commun de l'humanité', gérées par l'AIFM au bénéfice de tous les États."
+      },
+      {
+        "id": "q8",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "Madagascar a ratifié l'UNCLOS en :",
+        "options": ["1994", "1999", "2001", "2005"],
+        "reponse_correcte": "2001",
+        "explication": "Madagascar a ratifié l'UNCLOS le 22 août 2001, rejoignant le régime général du droit de la mer pour ses espaces maritimes de l'océan Indien."
+      },
+      {
+        "id": "q9",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "Dans la ZEE, les droits de l'État côtier sur les ressources sont qualifiés de :",
+        "options": [
+          "Souveraineté pleine et entière",
+          "Droits souverains fonctionnels",
+          "Droits de police administrative",
+          "Juridiction exclusive absolue"
+        ],
+        "reponse_correcte": "Droits souverains fonctionnels",
+        "explication": "Dans la ZEE, l'État côtier exerce des droits souverains (non une souveraineté totale) à des fins précises : exploration/exploitation des ressources, gestion, protection de l'environnement. Les autres libertés (navigation, survol) restent ouvertes."
+      },
+      {
+        "id": "q10",
+        "theme": "UNCLOS & zones maritimes",
+        "question": "L'AIFM (Autorité Internationale des Fonds Marins) a son siège à :",
+        "options": ["New York", "Genève", "Kingston (Jamaïque)", "Hambourg"],
+        "reponse_correcte": "Kingston (Jamaïque)",
+        "explication": "L'AIFM, créée par l'UNCLOS pour gérer les ressources des fonds marins internationaux, a son siège à Kingston, Jamaïque."
+      },
+      {
+        "id": "q11",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "Quelle loi constitue le Code de la pêche et de l'aquaculture de Madagascar ?",
+        "options": ["Loi n°97-017", "Loi n°2015-053", "Loi n°2001-005", "Loi n°99-022"],
+        "reponse_correcte": "Loi n°2015-053",
+        "explication": "La Loi n°2015-053 portant Code de la pêche et de l'aquaculture est le texte de référence régissant la pêche à Madagascar, complété par des décrets d'application."
+      },
+      {
+        "id": "q12",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "Que signifie la pêche INN ?",
+        "options": [
+          "Industrielle, Nationale et Normalisée",
+          "Illicite, Non déclarée, Non réglementée",
+          "Internationale, Négociée, Normative",
+          "Intensive, Nocturne et Non surveillée"
+        ],
+        "reponse_correcte": "Illicite, Non déclarée, Non réglementée",
+        "explication": "La pêche INN désigne la pêche Illicite (sans licence), Non déclarée (captures frauduleuses) et Non réglementée (hors cadre des ORGP), phénomène majeur menaçant les ressources de la ZEE malgache."
+      },
+      {
+        "id": "q13",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "Le VMS (Vessel Monitoring System) est :",
+        "options": [
+          "Un système de détection des maladies des poissons",
+          "Un système de surveillance par satellite des navires de pêche",
+          "Un outil de comptage des captures en temps réel",
+          "Un visa de pêche électronique"
+        ],
+        "reponse_correcte": "Un système de surveillance par satellite des navires de pêche",
+        "explication": "Le VMS permet de suivre en temps réel la position des navires de pêche via satellite, outil essentiel pour détecter et réprimer la pêche INN dans la ZEE malgache."
+      },
+      {
+        "id": "q14",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "L'accord de pêche entre Madagascar et l'Union européenne est un :",
+        "options": [
+          "Accord de Libre-Échange Halieutique (ALEH)",
+          "Accord de Partenariat pour la Pêche Durable (APPD)",
+          "Protocole de coopération maritime",
+          "Traité de gestion des stocks partagés"
+        ],
+        "reponse_correcte": "Accord de Partenariat pour la Pêche Durable (APPD)",
+        "explication": "L'APPD (Accord de Partenariat pour la Pêche Durable) entre Madagascar et l'UE permet aux thoniers européens d'opérer dans la ZEE malgache en contrepartie d'une compensation financière."
+      },
+      {
+        "id": "q15",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "Qu'est-ce que le TAC dans la gestion des pêches ?",
+        "options": [
+          "Taxe sur les Activités de la Crevetticulture",
+          "Total Admissible de Captures",
+          "Traité sur les Accords de Coopération",
+          "Terminal d'Accueil des Chalutiers"
+        ],
+        "reponse_correcte": "Total Admissible de Captures",
+        "explication": "Le TAC (Total Admissible de Captures) est le volume maximal de captures fixé pour chaque stock de poisson afin d'éviter la surexploitation, conformément aux obligations de l'UNCLOS."
+      },
+      {
+        "id": "q16",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "La CTOI (IOTC) est :",
+        "options": [
+          "La Commission Thonière de l'Océan Indien",
+          "La Convention sur le Transport des Organismes Ichtyologiques",
+          "Le Centre de Traitement des Opérations de pêche Illégale",
+          "La Conférence Technique pour les Océans et les Îles"
+        ],
+        "reponse_correcte": "La Commission Thonière de l'Océan Indien",
+        "explication": "La CTOI (Commission thonière de l'Océan Indien / Indian Ocean Tuna Commission) est l'organisation régionale de gestion des pêches thonières dans l'Océan Indien, dont Madagascar est membre."
+      },
+      {
+        "id": "q17",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "La pêche traditionnelle à Madagascar est réservée :",
+        "options": [
+          "Aux navires de moins de 500 tonnes",
+          "Aux nationaux malgaches dans les eaux côtières",
+          "Aux armateurs titulaires d'une licence hauturière",
+          "Aux pêcheurs des pays ACP uniquement"
+        ],
+        "reponse_correcte": "Aux nationaux malgaches dans les eaux côtières",
+        "explication": "Le Code de la pêche réserve la pêche traditionnelle/artisanale aux nationaux malgaches dans les eaux côtières, utilisant des embarcations non motorisées ou de faible puissance."
+      },
+      {
+        "id": "q18",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "Parmi ces espèces, laquelle constitue la principale exportation halieutique de Madagascar (aujourd'hui en crise) ?",
+        "options": ["Thon albacore", "Langouste", "Crevette pénéidée", "Holothurie"],
+        "reponse_correcte": "Crevette pénéidée",
+        "explication": "Les crevettes pénéidées ont longtemps été la principale exportation halieutique de Madagascar, mais le secteur est en crise due à la surexploitation et aux maladies."
+      },
+      {
+        "id": "q19",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "L'Accord de Cape Town sur l'État du port vise à :",
+        "options": [
+          "Réglementer la construction des ports de pêche",
+          "Contrôler les navires INN dans les ports pour les empêcher d'écouler leurs captures",
+          "Financer les flottes de pêche artisanale",
+          "Harmoniser les droits de douane sur les produits de la mer"
+        ],
+        "reponse_correcte": "Contrôler les navires INN dans les ports pour les empêcher d'écouler leurs captures",
+        "explication": "L'Accord sur les mesures du ressort de l'État du port (dit Accord de Cape Town ou Accord FAO de 2009) permet aux États portuaires d'inspecter et de refuser l'accès aux navires pratiquant la pêche INN."
+      },
+      {
+        "id": "q20",
+        "theme": "Pêche & ressources halieutiques",
+        "question": "Les holothuries (concombres de mer) sont des ressources halieutiques :",
+        "options": [
+          "Hautement migratrices gérées par la CTOI",
+          "Côtières faisant l'objet d'une exploitation et d'exportation intense",
+          "Protégées intégralement à Madagascar",
+          "Exclusivement élevées en aquaculture"
+        ],
+        "reponse_correcte": "Côtières faisant l'objet d'une exploitation et d'exportation intense",
+        "explication": "Les holothuries sont des espèces côtières très demandées sur les marchés asiatiques, exposées à une surexploitation importante nécessitant une réglementation stricte à Madagascar."
+      },
+      {
+        "id": "q21",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "L'APMF à Madagascar est :",
+        "options": [
+          "L'Association Portuaire Maritime et Fluviale",
+          "L'Agence Portuaire Maritime et Fluviale",
+          "L'Autorité Publique Maritime et Fluviale",
+          "L'Administration des Ports Maritimes et Fluviaux"
+        ],
+        "reponse_correcte": "L'Agence Portuaire Maritime et Fluviale",
+        "explication": "L'APMF (Agence Portuaire Maritime et Fluviale) est l'établissement public chargé de la réglementation, du contrôle et de la sécurité de la navigation maritime et fluviale à Madagascar."
+      },
+      {
+        "id": "q22",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "La Convention SOLAS concerne :",
+        "options": [
+          "La prévention de la pollution maritime",
+          "La sécurité de la vie en mer (navires, équipements, procédures)",
+          "La formation des gens de mer",
+          "La recherche et le sauvetage en mer"
+        ],
+        "reponse_correcte": "La sécurité de la vie en mer (navires, équipements, procédures)",
+        "explication": "SOLAS (Safety of Life at Sea, 1974) fixe les normes de sécurité minimales pour la construction des navires, leur équipement et leur exploitation."
+      },
+      {
+        "id": "q23",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "La Convention MARPOL traite de :",
+        "options": [
+          "La formation maritime professionnelle",
+          "La prévention de la pollution des mers par les navires",
+          "La responsabilité civile pour les abordages",
+          "Le contrat de transport de marchandises"
+        ],
+        "reponse_correcte": "La prévention de la pollution des mers par les navires",
+        "explication": "MARPOL (Marine Pollution, 1973/78) réglemente toutes les formes de pollution par les navires : hydrocarbures, eaux usées, ordures, substances nocives en vrac et émissions atmosphériques."
+      },
+      {
+        "id": "q24",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "Le connaissement (bill of lading) est :",
+        "options": [
+          "Un titre représentatif de la marchandise transportée par mer",
+          "Un certificat de navigabilité du navire",
+          "Un contrat d'affrètement à temps",
+          "Un document douanier d'exportation"
+        ],
+        "reponse_correcte": "Un titre représentatif de la marchandise transportée par mer",
+        "explication": "Le connaissement est le document central du transport maritime de marchandises : il fait preuve du contrat de transport, de la prise en charge des marchandises et donne droit à leur livraison."
+      },
+      {
+        "id": "q25",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "Quel est le principal port de commerce de Madagascar ?",
+        "options": ["Mahajanga", "Toamasina (Tamatave)", "Toliara", "Antsiranana"],
+        "reponse_correcte": "Toamasina (Tamatave)",
+        "explication": "Le port de Toamasina (Tamatave) est le plus grand port de Madagascar, traitant plus de 70% du trafic commercial national."
+      },
+      {
+        "id": "q26",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "La Convention CLC impose au propriétaire du navire :",
+        "options": [
+          "Une responsabilité pour faute uniquement",
+          "Une responsabilité objective (sans faute) pour les dommages par hydrocarbures",
+          "Une responsabilité partagée avec l'État du pavillon",
+          "Une exonération en cas de force majeure absolue"
+        ],
+        "reponse_correcte": "Une responsabilité objective (sans faute) pour les dommages par hydrocarbures",
+        "explication": "La CLC établit la responsabilité objective (strict liability) du propriétaire du navire pour les dommages causés par la pollution aux hydrocarbures, indépendamment de sa faute."
+      },
+      {
+        "id": "q27",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "Le FIPOL est :",
+        "options": [
+          "Un fonds d'assurance des gens de mer",
+          "Un fonds international d'indemnisation pour les dommages dus à la pollution par hydrocarbures",
+          "Un programme de financement des ports africains",
+          "Un fonds pour la pêche illicite et la pollution"
+        ],
+        "reponse_correcte": "Un fonds international d'indemnisation pour les dommages dus à la pollution par hydrocarbures",
+        "explication": "Le FIPOL indemnise les victimes de pollutions par hydrocarbures lorsque les dommages dépassent la limite de responsabilité du propriétaire du navire fixée par la CLC."
+      },
+      {
+        "id": "q28",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "Un pavillon de complaisance désigne :",
+        "options": [
+          "Le pavillon d'un navire de plaisance",
+          "L'immatriculation d'un navire dans un État à faible réglementation pour réduire les coûts",
+          "Le drapeau hissé lors de l'entrée en port",
+          "Un régime de faveur accordé aux navires humanitaires"
+        ],
+        "reponse_correcte": "L'immatriculation d'un navire dans un État à faible réglementation pour réduire les coûts",
+        "explication": "Les pavillons de complaisance (Panama, Liberia, Marshall Islands) permettent aux armateurs d'éviter des réglementations strictes (travail, sécurité, fiscalité) en immatriculant leurs navires dans des États peu exigeants."
+      },
+      {
+        "id": "q29",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "La Convention STCW concerne :",
+        "options": [
+          "La sécurité des navires citernes",
+          "Les normes de formation et de certification des gens de mer",
+          "Le transport des marchandises dangereuses",
+          "La surveillance du trafic maritime"
+        ],
+        "reponse_correcte": "Les normes de formation et de certification des gens de mer",
+        "explication": "STCW (Standards of Training, Certification and Watchkeeping, 1978) fixe les normes minimales de formation, de certification et de veille pour les officiers et matelots de la marine marchande."
+      },
+      {
+        "id": "q30",
+        "theme": "Droit portuaire & transport maritime",
+        "question": "Quel organisme international élabore les conventions maritimes (SOLAS, MARPOL, STCW) ?",
+        "options": [
+          "L'UNCLOS",
+          "L'Organisation Maritime Internationale (OMI)",
+          "La FAO",
+          "L'AIFM"
+        ],
+        "reponse_correcte": "L'Organisation Maritime Internationale (OMI)",
+        "explication": "L'OMI (Organisation Maritime Internationale / IMO), agence spécialisée de l'ONU basée à Londres, élabore et gère les conventions internationales en matière de sécurité maritime et de prévention de la pollution."
+      },
+      {
+        "id": "q31",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "Selon l'article 101 de l'UNCLOS, la piraterie se commet :",
+        "options": [
+          "Exclusivement dans la mer territoriale",
+          "En haute mer ou dans un lieu ne relevant d'aucun État",
+          "Dans toute zone maritime",
+          "Uniquement dans la ZEE"
+        ],
+        "reponse_correcte": "En haute mer ou dans un lieu ne relevant d'aucun État",
+        "explication": "La piraterie au sens de l'UNCLOS est limitée aux actes commis en haute mer ou dans un lieu hors juridiction étatique. Les actes similaires dans les eaux territoriales constituent du 'vol à main armée en mer', de la compétence de l'État côtier."
+      },
+      {
+        "id": "q32",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "Le principe de compétence universelle en matière de piraterie signifie que :",
+        "options": [
+          "Seul l'État du pavillon peut juger les pirates",
+          "Tout État peut arrêter et juger les pirates quel que soit leur nationalité",
+          "L'ONU juge directement les pirates",
+          "Seuls les États riverains sont compétents"
+        ],
+        "reponse_correcte": "Tout État peut arrêter et juger les pirates quel que soit leur nationalité",
+        "explication": "La compétence universelle est une exception au principe de territorialité : tout État peut exercer sa juridiction pénale sur les pirates, indépendamment de leur nationalité ou du lieu exact de l'acte (en haute mer)."
+      },
+      {
+        "id": "q33",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "L'opération EU NAVFOR Atalanta est :",
+        "options": [
+          "Une opération de l'OTAN contre la piraterie en Méditerranée",
+          "Une opération navale de l'Union européenne contre la piraterie dans l'océan Indien",
+          "Un programme européen de surveillance des pêches",
+          "Un accord bilatéral franco-malgache de sécurité maritime"
+        ],
+        "reponse_correcte": "Une opération navale de l'Union européenne contre la piraterie dans l'océan Indien",
+        "explication": "EU NAVFOR Atalanta est la première opération navale militaire de l'UE (depuis 2008), déployée dans le golfe d'Aden et l'océan Indien pour lutter contre la piraterie somalienne."
+      },
+      {
+        "id": "q34",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "Le Code de Djibouti (2009) est :",
+        "options": [
+          "Un code pénal régional contre la corruption maritime",
+          "Un accord régional de coopération contre la piraterie et les crimes maritimes en Afrique de l'Est",
+          "Une convention bilatérale Djibouti-Somalie",
+          "Un protocole de l'OMI sur la sécurité des ports"
+        ],
+        "reponse_correcte": "Un accord régional de coopération contre la piraterie et les crimes maritimes en Afrique de l'Est",
+        "explication": "Le Code de conduite de Djibouti (2009) est un accord régional entre États d'Afrique de l'Est et du golfe d'Aden pour coopérer dans la répression de la piraterie, auquel Madagascar a adhéré."
+      },
+      {
+        "id": "q35",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "Quelle loi malgache réprime spécifiquement la piraterie ?",
+        "options": ["Loi n°2001-005", "Loi n°2014-042", "Loi n°2015-053", "Loi n°96-018"],
+        "reponse_correcte": "Loi n°2014-042",
+        "explication": "La Loi n°2014-042 relative à la répression de la piraterie transpose en droit malgache les obligations de l'UNCLOS et crée des infractions spécifiques de piraterie dans le Code pénal."
+      },
+      {
+        "id": "q36",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "Les PCASP (Privately Contracted Armed Security Personnel) sont :",
+        "options": [
+          "Des policiers de l'État du pavillon embarqués sur les navires",
+          "Des gardes privés armés engagés par les armateurs pour protéger les navires",
+          "Des agents de l'OMI pour l'inspection des navires",
+          "Des militaires de l'opération Atalanta"
+        ],
+        "reponse_correcte": "Des gardes privés armés engagés par les armateurs pour protéger les navires",
+        "explication": "Face à l'insuffisance des escortes navales, de nombreux armateurs ont engagé des équipes de sécurité privées armées (PCASP) pour protéger leurs navires contre la piraterie."
+      },
+      {
+        "id": "q37",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "Le MRCC (Maritime Rescue Coordination Centre) de Madagascar est chargé de :",
+        "options": [
+          "La répression de la piraterie",
+          "La coordination des opérations de recherche et de sauvetage en mer",
+          "La délivrance des licences de pêche",
+          "L'inspection des navires de commerce"
+        ],
+        "reponse_correcte": "La coordination des opérations de recherche et de sauvetage en mer",
+        "explication": "Le MRCC (Centre de Coordination des Opérations de Sauvetage Maritime) coordonne les secours en mer dans la zone SAR (Search and Rescue) placée sous responsabilité malgache."
+      },
+      {
+        "id": "q38",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "Le Code de Lomé (2016) est :",
+        "options": [
+          "Un code maritime de l'Union Européenne",
+          "La Convention de l'Union africaine sur la sûreté et la sécurité maritimes",
+          "Un traité bilatéral Togo-Nigeria",
+          "Un accord de l'OMI sur la piraterie en Afrique de l'Ouest"
+        ],
+        "reponse_correcte": "La Convention de l'Union africaine sur la sûreté et la sécurité maritimes",
+        "explication": "Le Code de Lomé (2016) est la Charte de l'Union africaine sur la sécurité maritime et la sûreté en mer, adoptée lors du sommet extraordinaire de l'UA à Lomé, Togo."
+      },
+      {
+        "id": "q39",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "Quelle résolution du Conseil de Sécurité de l'ONU a autorisé les États à poursuivre les pirates dans les eaux somaliennes ?",
+        "options": ["Résolution 1373", "Résolution 1540", "Résolution 1816", "Résolution 2100"],
+        "reponse_correcte": "Résolution 1816",
+        "explication": "La Résolution 1816 du Conseil de Sécurité (2008) a autorisé les États à entrer dans les eaux territoriales somaliennes pour réprimer la piraterie, dérogation exceptionnelle au principe de souveraineté."
+      },
+      {
+        "id": "q40",
+        "theme": "Piraterie & sécurité maritime",
+        "question": "La différence fondamentale entre piraterie et vol à main armée en mer est :",
+        "options": [
+          "La valeur des biens volés",
+          "Le lieu de commission : haute mer vs eaux territoriales",
+          "La nationalité des auteurs",
+          "Le nombre de victimes"
+        ],
+        "reponse_correcte": "Le lieu de commission : haute mer vs eaux territoriales",
+        "explication": "La piraterie (UNCLOS art. 101) se commet en haute mer ou hors juridiction étatique. Les mêmes actes dans la mer territoriale constituent un 'vol à main armée en mer', relevant de la seule compétence de l'État côtier."
+      },
+      {
+        "id": "q41",
+        "theme": "Ressources minérales sous-marines",
+        "question": "Un Contrat de Partage de Production (CPP) dans le secteur pétrolier offshore prévoit :",
+        "options": [
+          "La cession de la propriété du gisement à la compagnie pétrolière",
+          "Le partage de la production entre l'État et la compagnie après récupération des coûts",
+          "La gestion exclusive du gisement par l'État",
+          "Un loyer annuel fixe indépendant de la production"
+        ],
+        "reponse_correcte": "Le partage de la production entre l'État et la compagnie après récupération des coûts",
+        "explication": "Dans un CPP, la compagnie pétrolière récupère d'abord ses coûts ('cost oil'), puis la production restante ('profit oil') est partagée entre l'État et la compagnie selon des proportions négociées."
+      },
+      {
+        "id": "q42",
+        "theme": "Ressources minérales sous-marines",
+        "question": "Les nodules polymétalliques contiennent principalement :",
+        "options": [
+          "Du pétrole et du gaz",
+          "Du manganèse, cobalt, nickel, cuivre et terres rares",
+          "Des diamants et rubis sous-marins",
+          "Du sable et des graviers industriels"
+        ],
+        "reponse_correcte": "Du manganèse, cobalt, nickel, cuivre et terres rares",
+        "explication": "Les nodules polymétalliques, présents à grande profondeur, contiennent des métaux stratégiques essentiels pour la transition énergétique (batteries, aimants permanents pour éoliennes et véhicules électriques)."
+      },
+      {
+        "id": "q43",
+        "theme": "Ressources minérales sous-marines",
+        "question": "Quel organisme attribue les contrats d'exploration des fonds marins internationaux ?",
+        "options": ["TIDM", "CLPC", "AIFM", "OMI"],
+        "reponse_correcte": "AIFM",
+        "explication": "L'Autorité Internationale des Fonds Marins (AIFM) gère les ressources minérales de la Zone (fonds marins internationaux) et attribue les contrats d'exploration aux États et entreprises parrainées."
+      },
+      {
+        "id": "q44",
+        "theme": "Ressources minérales sous-marines",
+        "question": "L'OMH (Office Malgache des Hydrocarbures) représente :",
+        "options": [
+          "Les intérêts des compagnies pétrolières étrangères",
+          "Les intérêts de l'État malgache dans les contrats pétroliers",
+          "L'organisme de protection de l'environnement marin",
+          "La société nationale d'exploitation du pétrole"
+        ],
+        "reponse_correcte": "Les intérêts de l'État malgache dans les contrats pétroliers",
+        "explication": "L'OMH (Office Malgache des Hydrocarbures) est l'entité publique chargée de représenter l'État dans les contrats pétroliers (CPP) et de surveiller les opérations des compagnies."
+      },
+      {
+        "id": "q45",
+        "theme": "Ressources minérales sous-marines",
+        "question": "Les sulfures hydrothermaux se forment :",
+        "options": [
+          "Sur les plateaux continentaux peu profonds",
+          "Autour des cheminées hydrothermales sur les dorsales océaniques",
+          "Dans les deltas des grands fleuves",
+          "Sur les plages sableuses tropicales"
+        ],
+        "reponse_correcte": "Autour des cheminées hydrothermales sur les dorsales océaniques",
+        "explication": "Les sulfures polymétalliques hydrothermaux se déposent autour des cheminées hydrothermales des dorsales océaniques, abritant des écosystèmes uniques et fragiles."
+      },
+      {
+        "id": "q46",
+        "theme": "Ressources minérales sous-marines",
+        "question": "Pourquoi le principe de précaution s'applique-t-il avec une rigueur particulière aux grands fonds marins ?",
+        "options": [
+          "Parce que les ressources y sont peu importantes",
+          "Parce que les écosystèmes des grands fonds ne peuvent pas se régénérer à l'échelle humaine",
+          "Parce que l'exploitation y est techniquement impossible",
+          "Parce que l'AIFM interdit toute exploitation"
+        ],
+        "reponse_correcte": "Parce que les écosystèmes des grands fonds ne peuvent pas se régénérer à l'échelle humaine",
+        "explication": "Les écosystèmes des grands fonds marins (faune des sources hydrothermales, coraux d'eaux froides) sont extrêmement lents à se développer : une destruction irréversible à l'échelle humaine justifie une application stricte du principe de précaution."
+      },
+      {
+        "id": "q47",
+        "theme": "Ressources minérales sous-marines",
+        "question": "Le Canal du Mozambique présente un intérêt pour Madagascar notamment en raison de :",
+        "options": [
+          "Ses ressources en phosphates",
+          "Ses découvertes de gaz naturel et son potentiel pétrolier offshore",
+          "Ses gisements de diamants sous-marins",
+          "Ses réserves de terres rares à faible profondeur"
+        ],
+        "reponse_correcte": "Ses découvertes de gaz naturel et son potentiel pétrolier offshore",
+        "explication": "Le Canal du Mozambique est l'une des zones les plus prometteuses pour les hydrocarbures offshore de Madagascar, avec des découvertes importantes de gaz naturel et un potentiel pétrolier en cours d'évaluation."
+      },
+      {
+        "id": "q48",
+        "theme": "Ressources minérales sous-marines",
+        "question": "Le TIDM siège à :",
+        "options": ["New York", "La Haye", "Hambourg", "Kingston"],
+        "reponse_correcte": "Hambourg",
+        "explication": "Le Tribunal International du Droit de la Mer (TIDM) a son siège à Hambourg, en Allemagne. Il est distinct de la Cour Internationale de Justice (La Haye) et de l'AIFM (Kingston)."
+      },
+      {
+        "id": "q49",
+        "theme": "Ressources minérales sous-marines",
+        "question": "L'extension du plateau continental au-delà de 200 M peut aller jusqu'à :",
+        "options": ["250 M", "300 M", "350 M ou 100 M au-delà de l'isobathe 2500m", "500 M"],
+        "reponse_correcte": "350 M ou 100 M au-delà de l'isobathe 2500m",
+        "explication": "L'article 76 de l'UNCLOS permet une extension jusqu'à 350 M des lignes de base, ou jusqu'à 100 M au-delà de l'isobathe des 2 500 mètres, selon la formule la plus favorable à l'État côtier."
+      },
+      {
+        "id": "q50",
+        "theme": "Ressources minérales sous-marines",
+        "question": "Un État parrainant une entreprise pour l'exploration des fonds marins internationaux :",
+        "options": [
+          "N'engage aucune responsabilité",
+          "Engage sa responsabilité si l'entreprise ne respecte pas ses obligations environnementales",
+          "Garantit les bénéfices de l'entreprise",
+          "Devient propriétaire des ressources extraites"
+        ],
+        "reponse_correcte": "Engage sa responsabilité si l'entreprise ne respecte pas ses obligations environnementales",
+        "explication": "La Chambre des fonds marins du TIDM (avis consultatif de 2011) a confirmé que l'État parrain peut voir sa responsabilité internationale engagée si l'entreprise qu'il parraine ne respecte pas ses obligations envers l'AIFM."
+      }
+    ],
+    "cas_pratiques": [
+      {
+        "id": "cas_1",
+        "titre": "Arraisonnement d'un navire de pêche étranger dans la ZEE malgache",
+        "contexte": "La frégate malgache MNS Trozona détecte un navire battant pavillon panaméen, le 'Blue Fortune', pêchant des thonidés dans la ZEE malgache à 150 milles marins des côtes, sans licence valide. Le navire est arraisonné. À son bord, les autorités découvrent : 45 tonnes de thon albacore capturées, des journaux de bord falsifiés et un équipage composé de ressortissants de 5 nationalités différentes (chinoise, philippine, indonésienne, somalienne et malgache). Le capitaine affirme se trouver en haute mer et conteste la compétence malgache. L'armateur, une société basée à Hong Kong, réclame la libération immédiate du navire.",
+        "questions": [
+          {
+            "question": "Madagascar est-il compétent pour arraisonner ce navire ? Sur quelle base juridique ?",
+            "elements_de_reponse": "Oui, Madagascar est pleinement compétent. Le navire se trouve à 150 milles marins des côtes malgaches, soit bien à l'intérieur de la ZEE malgache (qui s'étend jusqu'à 200 M). Dans la ZEE, Madagascar exerce des droits souverains sur l'exploration et l'exploitation des ressources biologiques, incluant le droit de réglementer la pêche et d'en contrôler l'accès. L'article 73 de l'UNCLOS confère explicitement à l'État côtier le droit de prendre toutes les mesures nécessaires, y compris l'arraisonnement, l'inspection, la saisie et l'engagement de procédures judiciaires, pour faire respecter ses lois et règlements sur la pêche dans la ZEE. Le Code de la pêche malgache (Loi n°2015-053) confirme cette compétence en droit interne. L'argument du capitaine est donc sans fondement : à 150 M, le navire est dans la ZEE malgache, pas en haute mer."
+          },
+          {
+            "question": "Quelles infractions peuvent être retenues contre le capitaine et l'armateur ?",
+            "elements_de_reponse": "Plusieurs infractions sont caractérisées : (1) Pêche sans licence dans la ZEE malgache (violation du Code de la pêche) : infraction principale constitutive de pêche INN ; (2) Falsification des journaux de bord (pêche non déclarée) : infraction supplémentaire pouvant constituer un faux en écriture ; (3) Non-respect des obligations de déclaration des captures ; (4) Éventuellement, usage d'engins de pêche prohibés si les filets ou équipements ne sont pas conformes aux réglementations. Le capitaine, en tant que responsable du navire, engage sa responsabilité pénale personnelle. L'armateur (société de Hong Kong) peut être poursuivi en tant que personne morale pour les infractions commises sous sa direction, notamment pour la pêche sans licence et la falsification des déclarations."
+          },
+          {
+            "question": "L'armateur demande la prompte mainlevée du navire. Quelle procédure s'applique ?",
+            "elements_de_reponse": "L'article 292 de l'UNCLOS prévoit la procédure de prompte mainlevée du navire et de mise en liberté de l'équipage devant le TIDM (Tribunal International du Droit de la Mer), lorsqu'un État a saisi un navire étranger et que l'État du pavillon considère que les conditions de l'UNCLOS ne sont pas respectées. La procédure est applicable si : l'État côtier n'a pas respecté les dispositions de l'UNCLOS sur les conditions de détention ; une caution raisonnable ou une garantie financière a été proposée. Madagascar doit fixer promptement le montant de la caution raisonnée permettant la libération du navire et de son équipage, conformément à l'art. 73§2 de l'UNCLOS. Si Madagascar refuse ou fixe une caution déraisonnable, le Panama (État du pavillon) peut saisir le TIDM. La procédure ne préjuge pas du fond des poursuites engagées par Madagascar."
+          },
+          {
+            "question": "Quel sera le sort du marin malgache faisant partie de l'équipage ?",
+            "elements_de_reponse": "Le marin malgache est dans une situation juridique particulière : (1) En tant que ressortissant malgache travaillant sur un navire pêchant illégalement dans la ZEE de son propre pays, il peut être poursuivi pour complicité d'infractions à la législation sur la pêche, voire pour violation de la réglementation sur l'embarquement sur des navires étrangers ; (2) Cependant, si le marin était simple exécutant sans connaissance de l'illégalité des opérations, sa responsabilité peut être atténuée ; (3) Le droit du travail maritime s'applique : il doit être traité conformément aux normes internationales (Convention du Travail Maritime - MLC 2006) et ses droits salariaux doivent être protégés pendant la procédure ; (4) La juridiction malgache est pleinement compétente pour le juger, sa nationalité malgache renforçant même cette compétence. Les circonstances exactes de son recrutement et de sa connaissance des faits détermineront le degré de sa responsabilité."
+          }
+        ]
+      },
+      {
+        "id": "cas_2",
+        "titre": "Délimitation maritime contestée et ressources pétrolières offshore",
+        "contexte": "Madagascar et l'État voisin Alpharia (État fictif) ont des ZEE se chevauchant dans une zone du Canal du Mozambique où une compagnie pétrolière internationale, PetroDeep SA, a découvert un gisement offshore significatif. Madagascar revendique cette zone comme relevant de sa ZEE selon la règle de l'équidistance. Alpharia conteste et invoque des circonstances spéciales (présence d'une île malgache de 2 km² mais à peine habitée à 80 milles de ses côtes, qui déplace la ligne d'équidistance en faveur de Madagascar). PetroDeep SA a signé un CPP avec Madagascar et a commencé des forages exploratoires. Alpharia proteste officiellement et menace d'envoyer des navires de guerre escorter ses propres navires d'exploration dans la zone disputée.",
+        "questions": [
+          {
+            "question": "Quelle est la règle de délimitation maritime applicable selon l'UNCLOS ?",
+            "elements_de_reponse": "L'UNCLOS (art. 74 pour la ZEE, art. 83 pour le plateau continental) prévoit que la délimitation entre États aux côtes adjacentes ou se faisant face doit être effectuée par accord afin d'aboutir à une solution équitable. En l'absence d'accord, le droit international coutumier (codifié par la jurisprudence internationale) s'applique : la méthode dominante est la ligne d'équidistance/circonstances spéciales, en trois étapes : (1) Tracer une ligne d'équidistance provisoire ; (2) Vérifier s'il existe des circonstances pertinentes justifiant un ajustement ; (3) Vérifier si le résultat est équitable (test de proportionnalité). L'île malgache invoquée par Alpharia est une 'circonstance pertinente' potentielle : la jurisprudence internationale (affaire Malte/Libye, affaire Roumanie/Ukraine) tend à ne donner qu'un effet réduit aux petites îles éloignées de l'État côtier principal pour éviter des résultats disproportionnés."
+          },
+          {
+            "question": "Quels mécanismes de règlement des différends l'UNCLOS offre-t-il à Madagascar et Alpharia ?",
+            "elements_de_reponse": "L'UNCLOS prévoit un système de règlement obligatoire des différends en plusieurs étapes : (1) Négociation directe entre les États (obligatoire en premier lieu) ; (2) Bons offices, médiation ou conciliation (mécanismes facultatifs) ; (3) Procédure obligatoire contraignante au choix des parties parmi quatre options : le TIDM (Tribunal International du Droit de la Mer, Hambourg), la CIJ (Cour Internationale de Justice, La Haye), un tribunal arbitral (Annexe VII de l'UNCLOS), ou un tribunal arbitral spécialisé (Annexe VIII). Si les parties n'ont pas fait le même choix de juridiction, c'est la procédure arbitrale de l'Annexe VII qui s'applique par défaut. En outre, le TIDM peut être saisi en urgence pour des mesures conservatoires (art. 290) afin de prévenir des dommages graves à l'environnement marin ou une aggravation du différend pendant la procédure principale."
+          },
+          {
+            "question": "Quel est le statut juridique des forages de PetroDeep SA dans la zone disputée ?",
+            "elements_de_reponse": "Le statut juridique des forages est incertain et risqué : (1) Madagascar a valablement accordé un CPP à PetroDeep SA sur la base de sa revendication sur la zone ; (2) Cependant, tant que la délimitation n'est pas définitivement établie (par accord ou décision judiciaire), les activités unilatérales d'exploitation dans la zone disputée peuvent constituer une violation du droit international ; (3) La jurisprudence internationale (notamment l'affaire Guyana/Suriname, arbitrage 2007) a établi qu'autoriser unilatéralement des forages dans une zone disputée constitue une violation de l'obligation de ne pas mettre en péril le règlement définitif et une violation de l'obligation de bonne foi dans les négociations ; (4) Le droit international recommande aux États en différend de conclure des accords provisoires (joint development zones) pour exploiter conjointement les ressources en attendant la délimitation définitive ; (5) PetroDeep SA prend un risque juridique et commercial significatif en poursuivant ses opérations, car un accord final défavorable à Madagascar pourrait invalider son CPP."
+          },
+          {
+            "question": "La menace militaire d'Alpharia constitue-t-elle une violation du droit international ?",
+            "elements_de_reponse": "Oui, la menace d'envoyer des navires de guerre pour escorter des navires d'exploration dans une zone relevant de la ZEE malgache (même disputée) est problématique au regard du droit international : (1) L'article 2§4 de la Charte des Nations Unies interdit le recours à la force ou à la menace de la force dans les relations internationales ; la menace d'escorte militaire de navires civils dans une zone revendiquée pourrait constituer une menace à la paix internationale ; (2) Dans la ZEE, les navires de guerre étrangers jouissent de la liberté de navigation, mais l'escorte armée de navires d'exploration constitue un acte de coercition dépassant ce cadre ; (3) Madagascar peut saisir le Conseil de Sécurité de l'ONU si la menace persiste, ou demander des mesures conservatoires au TIDM pour prévenir l'aggravation du différend ; (4) Les deux États ont l'obligation de régler leur différend par des moyens pacifiques (art. 2§3 Charte ONU et art. 279 UNCLOS) ; le recours à la force serait une violation grave de ces principes fondamentaux."
+          }
+        ]
+      }
+    ]
+  }
+}
+ 
