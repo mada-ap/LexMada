@@ -1,0 +1,640 @@
+{
+  "titre": "Le droit de la consommation",
+  "module": "Module 13 — Le droit de la consommation",
+  "niveau": "Intermédiaire",
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que le droit de la consommation ?",
+      "texte": "Chaque jour, nous achetons des produits, souscrivons des services, signons des contrats avec des entreprises. Dans ces relations, il existe un déséquilibre fondamental : d'un côté, le professionnel qui connaît parfaitement son produit, ses pratiques commerciales et ses contrats ; de l'autre, le consommateur qui ne dispose ni des mêmes informations ni des mêmes ressources. Le droit de la consommation est né précisément pour corriger ce déséquilibre. C'est l'ensemble des règles juridiques qui protègent le consommateur dans ses relations avec les professionnels. Il repose sur une idée simple : la liberté contractuelle ne suffit pas quand les parties ne sont pas sur un pied d'égalité. Le consommateur doit être protégé contre les pratiques déloyales, les clauses abusives, les informations trompeuses et les produits dangereux. À Madagascar, le droit de la consommation est en cours de développement, mais les principes fondamentaux issus du droit français et des conventions internationales s'appliquent progressivement. La connaissance de ces règles est indispensable pour tout juriste, tout professionnel et tout citoyen averti.",
+      "definition": "Droit de la consommation : ensemble des règles juridiques protégeant le consommateur dans ses relations avec les professionnels. Fondé sur la correction du déséquilibre structurel entre professionnel (sachant) et consommateur (profane). Couvre l'information, la protection contre les pratiques déloyales, les clauses abusives et les produits dangereux."
+    },
+    {
+      "titre": "Les acteurs : consommateur et professionnel",
+      "texte": "Le droit de la consommation repose sur une distinction fondamentale entre deux catégories d'acteurs. Le consommateur est toute personne physique qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale. La clé est le critère de finalité : le consommateur agit pour ses besoins personnels ou familiaux. Un particulier qui achète un téléphone pour son usage personnel est un consommateur. Un commerçant qui achète ce même téléphone pour son bureau dans le cadre de son activité professionnelle n'est pas un consommateur au sens du droit de la consommation. Le professionnel est toute personne physique ou morale qui agit dans le cadre de son activité commerciale, industrielle, artisanale ou libérale. Les entreprises, les commerçants, les artisans, les prestataires de services sont des professionnels. Entre les deux, certains systèmes juridiques reconnaissent la catégorie du non-professionnel — une personne morale (association, petite entreprise) qui contracte en dehors de son domaine de compétence et mérite une protection similaire au consommateur. La distinction est cruciale car les protections du droit de la consommation ne s'appliquent qu'aux contrats conclus entre un consommateur et un professionnel.",
+      "definition": "Consommateur : personne physique agissant à des fins personnelles ou familiales, en dehors de toute activité professionnelle. Professionnel : personne physique ou morale agissant dans le cadre de son activité commerciale, artisanale, industrielle ou libérale. Les protections du droit de la consommation s'appliquent uniquement aux contrats consommateur-professionnel.",
+      "exemple": "Vonjy achète un réfrigérateur pour sa maison : elle est consommatrice. La même semaine, elle achète un ordinateur pour son cabinet d'avocate : elle agit en tant que professionnelle. Dans le premier cas, elle bénéficie de toutes les protections du droit de la consommation. Dans le second, elle est soumise au droit commun des contrats entre professionnels."
+    },
+    {
+      "titre": "L'obligation d'information précontractuelle",
+      "texte": "Avant de signer quoi que ce soit, le consommateur a le droit d'être informé. L'obligation d'information précontractuelle est l'une des pierres angulaires du droit de la consommation. Elle impose au professionnel de communiquer au consommateur, avant la conclusion du contrat, toutes les informations utiles à un consentement éclairé. Ces informations comprennent notamment : les caractéristiques essentielles du bien ou du service, le prix total toutes taxes comprises, les modalités de paiement, la date ou le délai de livraison, les informations relatives au droit de rétractation, l'identité et les coordonnées du professionnel, les garanties applicables. Cette obligation est renforcée dans les contrats conclus à distance (internet, téléphone) et les contrats conclus hors établissement (démarchage à domicile), où le consommateur est particulièrement vulnérable car il ne peut pas examiner physiquement le produit. Le manquement à l'obligation d'information peut entraîner la nullité du contrat, des sanctions pénales pour le professionnel, et l'allongement du délai de rétractation.",
+      "definition": "Obligation d'information précontractuelle : obligation du professionnel de communiquer au consommateur, avant la conclusion du contrat, toutes les informations nécessaires à un consentement éclairé (caractéristiques, prix, délais, garanties, droit de rétractation, identité du professionnel). Renforcée pour les contrats à distance et hors établissement.",
+      "exemple": "Une boutique en ligne malgache vend des vêtements. Avant que le client valide son achat, elle doit afficher clairement le prix total (produit + livraison + taxes), les délais de livraison, les conditions de retour et l'existence d'un droit de rétractation. Si ces informations ne sont pas fournies, le consommateur peut contester le contrat ou bénéficier d'un délai de rétractation prolongé."
+    },
+    {
+      "titre": "Le droit de rétractation",
+      "texte": "L'une des protections les plus importantes du droit de la consommation est le droit de rétractation. Il permet au consommateur de revenir sur son engagement dans un délai prévu par la loi, sans avoir à se justifier et sans pénalité. Ce droit existe parce que certaines situations de vente ne permettent pas au consommateur de réfléchir sereinement : démarchage à domicile, vente par internet, vente téléphonique. Le délai de rétractation est en principe de 14 jours calendaires à compter de la réception du bien pour les contrats de vente, ou de la conclusion du contrat pour les contrats de prestation de service. Si le professionnel n'a pas informé le consommateur de l'existence de ce droit, le délai est prolongé de 12 mois. Pour exercer son droit de rétractation, le consommateur doit notifier sa décision au professionnel avant l'expiration du délai — par tout moyen permettant d'en conserver la preuve. Le professionnel doit ensuite rembourser intégralement le consommateur dans les meilleurs délais. Le droit de rétractation ne s'applique pas à tous les contrats : il est exclu notamment pour les biens confectionnés selon les spécifications du consommateur, les biens périssables, les prestations pleinement exécutées avec l'accord du consommateur.",
+      "definition": "Droit de rétractation : droit du consommateur de revenir sur son engagement dans un délai légal (14 jours en principe), sans justification ni pénalité. S'applique aux contrats à distance et hors établissement. Délai prolongé de 12 mois si le professionnel n'a pas informé le consommateur. Exceptions : biens sur mesure, biens périssables, services pleinement exécutés.",
+      "exemple": "Hery achète un téléviseur sur un site internet. Il reçoit le colis le 1er mars. Il dispose de 14 jours — jusqu'au 15 mars — pour décider de le garder ou de le retourner, sans avoir à expliquer pourquoi. S'il retourne le téléviseur dans ce délai, le vendeur doit le rembourser intégralement. Hery ne peut pas exercer ce droit s'il a acheté un costume fait sur mesure à ses dimensions."
+    },
+    {
+      "titre": "Les clauses abusives",
+      "texte": "Dans les contrats conclus entre professionnels et consommateurs, il est fréquent que le professionnel impose des clauses très avantageuses pour lui et très défavorables pour le consommateur. Ces clauses sont dites abusives. Une clause abusive est une clause qui crée, au détriment du consommateur, un déséquilibre significatif entre les droits et obligations des parties. Le professionnel, fort de sa position dominante, peut rédiger des contrats d'adhésion — des contrats que le consommateur ne peut qu'accepter ou refuser en bloc, sans possibilité de négocier. Les clauses abusives sont réputées non écrites : elles sont considérées comme n'ayant jamais existé, mais le reste du contrat demeure valable. Parmi les clauses classiquement considérées comme abusives, on trouve : les clauses qui permettent au professionnel de modifier unilatéralement les caractéristiques du bien ou du service, les clauses qui limitent de façon disproportionnée la responsabilité du professionnel en cas de faute, les clauses qui accordent au professionnel un délai déraisonnablement long pour exécuter ses obligations, les clauses pénales excessives imposées au seul consommateur. Le juge peut d'office relever le caractère abusif d'une clause et l'écarter.",
+      "definition": "Clause abusive : clause d'un contrat consommateur-professionnel qui crée un déséquilibre significatif au détriment du consommateur. Sanction : réputée non écrite (considérée comme inexistante), mais le reste du contrat reste valable. Le juge peut la soulever d'office. Exemples : clause de modification unilatérale, clause limitative de responsabilité excessive, pénalité disproportionnée.",
+      "exemple": "Une société de téléphonie mobile inclut dans ses conditions générales une clause permettant d'augmenter les tarifs à tout moment sans en informer le client au préalable. Cette clause crée un déséquilibre significatif au détriment du consommateur : il ne peut pas se protéger contre des hausses soudaines. Elle est abusive et réputée non écrite — le reste du contrat d'abonnement reste valable."
+    },
+    {
+      "titre": "Les pratiques commerciales déloyales",
+      "texte": "Le droit de la consommation interdit les pratiques commerciales qui faussent le comportement du consommateur. Une pratique commerciale est déloyale lorsqu'elle est contraire aux exigences de la diligence professionnelle et qu'elle altère — ou est susceptible d'altérer — de manière substantielle le comportement économique du consommateur. Il existe deux grandes catégories de pratiques déloyales. Les pratiques trompeuses : elles créent une confusion dans l'esprit du consommateur par des allégations mensongères ou des omissions. La publicité mensongère (affirmer qu'un produit a des qualités qu'il n'a pas), la présentation trompeuse d'un prix (afficher un prix bas en cachant des frais obligatoires), la fausse promotion (annoncer une réduction sur un prix qui n'a jamais existé) sont des pratiques trompeuses. Les pratiques agressives : elles utilisent le harcèlement, la contrainte ou une influence injustifiée pour forcer le consentement du consommateur. Le démarchage insistant, les relances téléphoniques répétées, le recours à des procédés psychologiques pour créer un sentiment d'urgence ou de peur, constituent des pratiques agressives. Ces pratiques sont interdites et peuvent être sanctionnées pénalement, en plus d'engager la responsabilité civile du professionnel.",
+      "definition": "Pratiques commerciales déloyales : pratiques contraires à la diligence professionnelle altérant le comportement du consommateur. Deux catégories : pratiques trompeuses (publicité mensongère, omission d'informations, fausse promotion) et pratiques agressives (harcèlement, contrainte, pression psychologique). Sanctions : civiles et pénales.",
+      "exemple": "Un vendeur annonce 'Offre exceptionnelle — 50% de réduction, seulement 10 articles disponibles !' alors qu'il dispose de 500 articles et que le prix initial était artificiellement gonflé. C'est une pratique trompeuse : la fausse promotion et la fausse rareté créent une urgence artificielle pour pousser le consommateur à acheter sans réfléchir."
+    },
+    {
+      "titre": "La garantie légale de conformité",
+      "texte": "Quand un consommateur achète un bien, il est en droit d'attendre que ce bien corresponde à ce qui lui a été promis et qu'il fonctionne normalement. La garantie légale de conformité protège le consommateur contre les défauts de conformité du bien livré. Un bien est non conforme lorsqu'il ne correspond pas au contrat : il ne possède pas les caractéristiques convenues, il n'est pas apte à l'usage habituellement attendu d'un bien similaire, il n'a pas les qualités annoncées par le vendeur ou la publicité, ou il ne correspond pas à l'échantillon présenté. La garantie légale de conformité est due par le vendeur professionnel pendant une durée de deux ans à compter de la délivrance du bien. Elle est d'ordre public — le vendeur ne peut pas l'écarter contractuellement. En cas de défaut de conformité, le consommateur peut choisir entre la réparation ou le remplacement du bien. Si ni l'une ni l'autre n'est possible dans un délai raisonnable, il peut obtenir une réduction du prix ou la résolution du contrat avec remboursement intégral. Pendant les 24 premiers mois, le défaut est présumé exister au moment de la délivrance — c'est au vendeur de prouver le contraire.",
+      "definition": "Garantie légale de conformité : garantie due par le vendeur professionnel pendant 2 ans à compter de la délivrance, couvrant les défauts de conformité du bien (différence entre le bien livré et ce qui était convenu). D'ordre public — non écartable. Remèdes : réparation, remplacement, réduction du prix ou résolution. Présomption de défaut préexistant pendant 24 mois.",
+      "exemple": "Fara achète un mixeur neuf dans une boutique. Après 8 mois, le moteur tombe en panne dans des conditions normales d'utilisation. Elle peut invoquer la garantie légale de conformité : le mixeur n'est pas apte à l'usage habituellement attendu d'un tel appareil. La panne est présumée exister au moment de la vente. Le vendeur doit réparer ou remplacer le mixeur gratuitement."
+    },
+    {
+      "titre": "La garantie des vices cachés",
+      "texte": "La garantie légale de conformité protège contre les défauts apparents ou qui apparaissent rapidement. Mais qu'en est-il des défauts qui n'étaient pas visibles au moment de l'achat et qui se révèlent plus tard ? C'est le rôle de la garantie des vices cachés. Un vice caché est un défaut qui existait au moment de la vente, qui n'était pas apparent lors de l'achat (même avec un examen attentif), et qui rend le bien impropre à l'usage auquel on le destinait ou en diminue tellement l'usage que l'acheteur ne l'aurait pas acquis, ou n'en aurait donné qu'un moindre prix, s'il avait connu le défaut. La garantie des vices cachés s'applique même dans les ventes entre particuliers, contrairement à la garantie légale de conformité qui ne concerne que les ventes par un professionnel. L'action en garantie des vices cachés doit être exercée dans les 2 ans à compter de la découverte du vice. En cas de vice caché, l'acheteur peut choisir entre rendre le bien et se faire rembourser le prix (action rédhibitoire) ou garder le bien et obtenir une réduction du prix (action estimatoire).",
+      "definition": "Garantie des vices cachés : garantie couvrant les défauts non apparents au moment de la vente, qui existaient à ce moment, et qui rendent le bien impropre à son usage ou en diminuent substantiellement l'utilité. S'applique aussi entre particuliers. Action dans les 2 ans de la découverte. Remèdes : restitution + remboursement (action rédhibitoire) ou réduction de prix (action estimatoire).",
+      "exemple": "Rakoto achète un véhicule d'occasion. Six mois après, un mécanicien découvre que le cadre du châssis était fissuré avant la vente — défaut invisible à l'œil nu, non signalé par le vendeur. C'est un vice caché : le défaut existait avant la vente, était non apparent, et rend le véhicule dangereux à conduire. Rakoto peut exercer la garantie des vices cachés dans les 2 ans suivant cette découverte."
+    },
+    {
+      "titre": "Le crédit à la consommation",
+      "texte": "De nombreux consommateurs financent leurs achats à crédit. Le crédit à la consommation est encadré par des règles protectrices spécifiques pour éviter le surendettement et les abus. Le crédit à la consommation est tout crédit accordé à un consommateur pour financer un achat de bien ou de service, autre que l'immobilier, pour un montant compris entre certains seuils. Le prêteur professionnel est soumis à des obligations renforcées. Il doit vérifier la solvabilité du consommateur avant d'accorder le crédit — c'est le devoir de responsabilité. Il doit fournir une fiche d'information standardisée permettant au consommateur de comparer les offres. Il doit mentionner le taux annuel effectif global (TAEG) qui reflète le coût total du crédit. Le consommateur bénéficie d'un droit de rétractation de 14 jours à compter de la signature du contrat de crédit. Il peut rembourser par anticipation, avec des pénalités plafonnées. En cas de difficultés financières, le consommateur peut demander des délais de paiement au juge. Le prêteur ne peut pas engager des procédures de recouvrement abusives.",
+      "definition": "Crédit à la consommation : crédit accordé à un consommateur pour financer un achat non immobilier. Obligations du prêteur : vérification de solvabilité, fiche d'information standardisée, mention du TAEG. Droits du consommateur : rétractation (14 jours), remboursement anticipé, délais de paiement en cas de difficultés. Interdiction des pratiques de recouvrement abusives.",
+      "exemple": "Miora signe un contrat de crédit pour financer l'achat d'un salon de coiffure à usage personnel pour 3 millions d'ariary. La société de crédit doit lui communiquer le TAEG, vérifier qu'elle peut rembourser, et lui remettre une fiche d'information. Miora dispose de 14 jours pour se rétracter. Si elle perd son emploi, elle peut saisir le juge pour obtenir un échelonnement de ses remboursements."
+    },
+    {
+      "titre": "La sécurité des produits et la responsabilité du fait des produits défectueux",
+      "texte": "Le consommateur a le droit d'acheter des produits sûrs. La réglementation sur la sécurité des produits impose aux producteurs et distributeurs de ne mettre sur le marché que des produits présentant la sécurité à laquelle on peut légitimement s'attendre. Un produit est défectueux lorsqu'il n'offre pas la sécurité à laquelle on peut légitimement s'attendre, compte tenu de sa présentation, de son usage normal prévisible et du moment de sa mise en circulation. La responsabilité du fait des produits défectueux est une responsabilité sans faute : la victime n'a pas à prouver la faute du producteur. Elle doit seulement établir le dommage, le défaut du produit et le lien de causalité entre le défaut et le dommage. Le producteur peut s'exonérer en prouvant notamment que le défaut n'existait pas au moment de la mise en circulation du produit, ou que l'état des connaissances scientifiques et techniques au moment de la mise en circulation ne permettait pas de déceler le défaut. Cette responsabilité couvre les dommages corporels et matériels causés par le produit défectueux. Elle s'applique au producteur, à l'importateur et, subsidiairement, au distributeur.",
+      "definition": "Responsabilité du fait des produits défectueux : responsabilité sans faute du producteur pour les dommages causés par un produit n'offrant pas la sécurité légitimement attendue. La victime prouve le défaut, le dommage et le lien de causalité. Exonérations : défaut inexistant lors de la mise en circulation, risque de développement (état des connaissances). S'applique au producteur, importateur, distributeur.",
+      "exemple": "Une entreprise commercialise un appareil électroménager dont le câble électrique présente un défaut de fabrication causant des incendies. Une consommatrice dont la maison a brûlé peut agir contre le producteur sans avoir à prouver sa faute — il suffit de prouver le défaut du produit, le dommage (incendie) et le lien entre les deux. Le producteur sera responsable même s'il ignorait le défaut."
+    },
+    {
+      "titre": "Le surendettement et la protection du consommateur en difficulté",
+      "texte": "Certains consommateurs se retrouvent dans l'impossibilité de faire face à l'ensemble de leurs dettes non professionnelles. C'est le surendettement. Le droit de la consommation organise des procédures spécifiques pour aider ces personnes à se sortir de leur situation sans être écrasées par leurs créanciers. Le surendettement est caractérisé quand une personne physique se trouve dans l'impossibilité manifeste de faire face à l'ensemble de ses dettes non professionnelles exigibles et à échoir. La procédure de surendettement permet au consommateur de déposer un dossier auprès d'une commission de surendettement. Cette commission examine la situation et peut proposer plusieurs solutions : un plan de remboursement aménagé avec rééchelonnement des dettes, une réduction des taux d'intérêt, un moratoire (suspension temporaire des remboursements), voire un effacement partiel ou total des dettes dans les cas les plus graves (procédure de rétablissement personnel). Pendant l'examen du dossier, toutes les procédures d'exécution contre le débiteur sont suspendues. Cette protection est fondamentale dans une société moderne : le surendettement touche souvent des personnes qui ont connu des accidents de la vie (chômage, maladie, divorce) et non pas des mauvais payeurs.",
+      "definition": "Surendettement : impossibilité manifeste pour une personne physique de faire face à l'ensemble de ses dettes non professionnelles. Procédure : dépôt d'un dossier auprès d'une commission qui peut proposer rééchelonnement, réduction des intérêts, moratoire ou effacement des dettes (rétablissement personnel). Suspension des procédures d'exécution pendant l'examen.",
+      "exemple": "Suite à une longue maladie et à la perte de son emploi, Monsieur Andry ne peut plus rembourser ses crédits à la consommation, son loyer en retard et ses factures impayées. Il n'est pas de mauvaise foi — il a simplement connu des accidents de la vie. Il peut déposer un dossier de surendettement pour obtenir un plan de remboursement adapté à ses capacités réelles, pendant que ses créanciers ne peuvent plus le poursuivre."
+    },
+    {
+      "titre": "Le règlement des litiges de consommation",
+      "texte": "Quand un litige survient entre un consommateur et un professionnel, plusieurs voies s'offrent au consommateur pour obtenir satisfaction. La première est la réclamation directe auprès du service client du professionnel — souvent la plus rapide et la moins coûteuse. Si cette démarche échoue, le consommateur peut recourir à la médiation de la consommation. Le médiateur est un tiers neutre qui aide les parties à trouver une solution amiable, gratuitement pour le consommateur. En France et dans de nombreux systèmes qui s'en inspirent, tout professionnel doit permettre à ses clients d'accéder à un médiateur. Si la médiation échoue ou si le consommateur préfère aller directement en justice, il peut saisir le tribunal compétent. Pour les petits litiges, des procédures simplifiées et peu coûteuses existent. Des associations de consommateurs peuvent aussi l'assister ou agir en son nom collectif pour défendre les intérêts d'un groupe de consommateurs victimes d'un même professionnel. À Madagascar, les structures de protection des consommateurs se développent progressivement, et la connaissance de ses droits reste le meilleur outil de protection.",
+      "definition": "Règlement des litiges de consommation : voies disponibles pour le consommateur. (1) Réclamation directe au service client. (2) Médiation de la consommation — tiers neutre, gratuit, solution amiable. (3) Action en justice devant le tribunal compétent. (4) Action collective par les associations de consommateurs. La connaissance de ses droits est le premier outil de protection.",
+      "exemple": "Rasoa a commandé un meuble en ligne qui n'a jamais été livré. Elle a d'abord contacté le service client sans résultat. Elle a ensuite saisi le médiateur désigné par le site, qui a obtenu le remboursement intégral en 3 semaines. Si la médiation avait échoué, elle aurait pu saisir le tribunal pour obtenir le remboursement et des dommages-intérêts pour le préjudice subi."
+    },
+    {
+      "titre": "Récapitulatif : l'essentiel du droit de la consommation",
+      "texte": "Voici les points clés à retenir sur le droit de la consommation. Le droit de la consommation protège le consommateur — personne physique agissant à des fins personnelles — face au professionnel, dans le but de corriger le déséquilibre structurel de leurs relations. Les protections essentielles sont : l'obligation d'information précontractuelle (le professionnel doit tout expliquer avant la signature), le droit de rétractation (14 jours pour changer d'avis sans justification pour les contrats à distance et hors établissement), l'interdiction des clauses abusives (clauses créant un déséquilibre significatif, réputées non écrites), l'interdiction des pratiques commerciales déloyales (trompeuses ou agressives), la garantie légale de conformité (2 ans pour les défauts de conformité), la garantie des vices cachés (défauts non visibles au moment de la vente), la responsabilité du fait des produits défectueux (sans faute à prouver), et la protection contre le surendettement. En cas de litige, le consommateur dispose de plusieurs recours : service client, médiation, justice, associations de consommateurs.",
+      "definition": "À retenir : consommateur (personne physique, usage personnel) vs professionnel. Protections : information précontractuelle, rétractation (14 j.), clauses abusives (non écrites), pratiques déloyales (interdites), garantie conformité (2 ans), vices cachés (2 ans depuis découverte), produits défectueux (responsabilité sans faute), surendettement (procédure de protection). Recours : réclamation, médiation, justice, associations."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel est l'objectif principal du droit de la consommation ?",
+      "choix": [
+        "Protéger les entreprises contre les consommateurs abusifs",
+        "Corriger le déséquilibre entre le consommateur et le professionnel en protégeant le consommateur",
+        "Réglementer les prix des produits de grande consommation",
+        "Empêcher la concurrence entre les professionnels"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Qui est la partie faible dans une relation consommateur-professionnel ?",
+        "Le professionnel connaît son produit mieux que quiconque — le consommateur, lui ?",
+        "Le droit de la consommation rétablit un équilibre."
+      ],
+      "explication": "Le droit de la consommation a pour objectif principal de corriger le déséquilibre structurel entre le consommateur, qui est la partie faible (moins d'informations, moins de ressources), et le professionnel, qui connaît parfaitement son produit et ses pratiques. Il protège le consommateur contre les pratiques déloyales, les clauses abusives, les informations insuffisantes et les produits dangereux."
+    },
+    {
+      "question": "Qui est un consommateur au sens du droit de la consommation ?",
+      "choix": [
+        "Toute personne qui achète quelque chose",
+        "Toute personne physique agissant à des fins qui n'entrent pas dans le cadre de son activité professionnelle",
+        "Toute personne morale qui achète des biens pour son fonctionnement",
+        "Toute personne qui achète en grande quantité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le critère clé est la finalité de l'achat — personnel ou professionnel ?",
+        "Un avocat qui achète un ordinateur pour son cabinet est-il un consommateur ?",
+        "Seules les personnes physiques peuvent être des consommateurs."
+      ],
+      "explication": "Le consommateur est toute personne physique qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale. La clé est le critère de finalité : l'achat doit être fait pour des besoins personnels ou familiaux. Une personne morale (association, société) ne peut pas être un consommateur au sens strict."
+    },
+    {
+      "question": "Un médecin achète un stéthoscope pour son cabinet. Bénéficie-t-il des protections du droit de la consommation ?",
+      "choix": [
+        "Oui, car il est une personne physique",
+        "Non, car il agit dans le cadre de son activité professionnelle libérale",
+        "Oui, si le prix est inférieur à un certain seuil",
+        "Non, car les médecins sont exclus du droit de la consommation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le médecin agit-il pour ses besoins personnels ou professionnels ?",
+        "Le critère est la finalité de l'achat.",
+        "Acheter pour son cabinet = achat professionnel."
+      ],
+      "explication": "Non. Le médecin agit dans le cadre de son activité professionnelle libérale. Il n'est donc pas un consommateur au sens du droit de la consommation pour cet achat. Il est soumis au droit commun des contrats entre professionnels. En revanche, s'il achète ce stéthoscope pour un usage personnel (un loisir, par exemple), il pourrait être considéré comme consommateur."
+    },
+    {
+      "question": "Qu'est-ce que l'obligation d'information précontractuelle ?",
+      "choix": [
+        "L'obligation du consommateur d'informer le professionnel de ses besoins avant l'achat",
+        "L'obligation du professionnel de communiquer au consommateur toutes les informations nécessaires à un consentement éclairé avant la conclusion du contrat",
+        "L'obligation de rédiger le contrat en plusieurs langues",
+        "L'obligation de vérifier l'identité du consommateur avant la vente"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Pré-contractuelle signifie avant la conclusion du contrat.",
+        "C'est le professionnel qui doit informer — pas le consommateur.",
+        "Elle vise à permettre un consentement éclairé."
+      ],
+      "explication": "L'obligation d'information précontractuelle est l'obligation du professionnel de communiquer au consommateur, avant la conclusion du contrat, toutes les informations nécessaires à un consentement éclairé : caractéristiques du bien ou service, prix total, délais, conditions de retour, existence du droit de rétractation, identité du professionnel. Le manquement peut entraîner la nullité du contrat ou le prolongement du délai de rétractation."
+    },
+    {
+      "question": "Dans quel délai le consommateur peut-il exercer son droit de rétractation pour un achat en ligne ?",
+      "choix": [
+        "7 jours à compter de la commande",
+        "14 jours calendaires à compter de la réception du bien",
+        "30 jours à compter de la livraison",
+        "3 mois à compter de la signature du contrat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le délai légal de droit commun est de 14 jours.",
+        "Pour un bien, le délai court à compter de la réception — pas de la commande.",
+        "Ce délai peut être prolongé si le professionnel n'a pas informé le consommateur."
+      ],
+      "explication": "Le consommateur dispose de 14 jours calendaires à compter de la réception du bien pour exercer son droit de rétractation sur un achat en ligne. S'il achète un service, le délai court à compter de la conclusion du contrat. Si le professionnel n'a pas informé le consommateur de l'existence de ce droit, le délai est prolongé de 12 mois supplémentaires."
+    },
+    {
+      "question": "Le droit de rétractation s'applique-t-il à un costume fait sur mesure commandé en ligne ?",
+      "choix": [
+        "Oui, le droit de rétractation s'applique à tous les achats en ligne sans exception",
+        "Non, les biens confectionnés selon les spécifications du consommateur sont exclus du droit de rétractation",
+        "Oui, mais le délai est réduit à 7 jours pour les biens sur mesure",
+        "Non, car le textile est exclu du droit de la consommation"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon liste les exceptions au droit de rétractation.",
+        "Un bien fait sur mesure peut-il être revendu facilement à quelqu'un d'autre ?",
+        "Les biens sur mesure et les biens périssables sont exclus."
+      ],
+      "explication": "Non. Les biens confectionnés selon les spécifications du consommateur — comme un costume taillé à ses mesures exactes — sont expressément exclus du droit de rétractation. La raison est évidente : un produit fait sur mesure pour une personne précise ne peut pas être revendu à quelqu'un d'autre. Le professionnel ne peut pas être obligé de reprendre un bien qu'il a fabriqué spécifiquement pour ce client."
+    },
+    {
+      "question": "Qu'est-ce qu'une clause abusive ?",
+      "choix": [
+        "Une clause rédigée en petits caractères illisibles",
+        "Une clause qui crée, au détriment du consommateur, un déséquilibre significatif entre les droits et obligations des parties",
+        "Une clause qui impose un prix trop élevé",
+        "Une clause que le consommateur n'a pas lue avant de signer"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le critère est le déséquilibre — pas la lisibilité ou le prix.",
+        "Elle avantage excessivement le professionnel au détriment du consommateur.",
+        "Sa sanction : elle est réputée non écrite."
+      ],
+      "explication": "Une clause abusive est une clause qui crée, au détriment du consommateur, un déséquilibre significatif entre les droits et obligations des parties. Elle favorise excessivement le professionnel. La sanction est radicale : la clause est réputée non écrite — elle est considérée comme n'ayant jamais existé. Le reste du contrat demeure valable. Le juge peut la soulever d'office."
+    },
+    {
+      "question": "Quelle est la sanction d'une clause abusive dans un contrat de consommation ?",
+      "choix": [
+        "L'annulation de tout le contrat",
+        "La clause est réputée non écrite, mais le reste du contrat reste valable",
+        "Le contrat est suspendu jusqu'à la modification de la clause",
+        "Le professionnel reçoit une amende administrative"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La sanction frappe seulement la clause abusive, pas le contrat entier.",
+        "Réputée non écrite signifie considérée comme inexistante.",
+        "Le consommateur conserve les bénéfices du contrat sans subir la clause abusive."
+      ],
+      "explication": "La sanction de la clause abusive est qu'elle est réputée non écrite : elle est considérée comme n'ayant jamais existé dans le contrat. Mais le reste du contrat demeure valable — le consommateur continue à bénéficier du bien ou service sans être soumis à la clause abusive. C'est une solution équilibrée qui protège le consommateur sans lui faire perdre le bénéfice de son contrat."
+    },
+    {
+      "question": "Donnez un exemple de clause abusive classique.",
+      "choix": [
+        "Une clause fixant le prix du bien",
+        "Une clause permettant au professionnel de modifier unilatéralement les caractéristiques du service sans en informer le consommateur",
+        "Une clause précisant les délais de livraison",
+        "Une clause décrivant les caractéristiques du produit"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La clause abusive crée un déséquilibre au profit du professionnel.",
+        "Modifier unilatéralement le contrat sans accord du consommateur — est-ce équitable ?",
+        "La leçon cite cet exemple précis."
+      ],
+      "explication": "Une clause permettant au professionnel de modifier unilatéralement les caractéristiques du service (ou le prix) sans en informer préalablement le consommateur est classiquement considérée comme abusive. Elle rompt l'équilibre contractuel : le consommateur s'est engagé sur la base de certaines conditions, et le professionnel pourrait les changer sans son accord. C'est un déséquilibre significatif au détriment du consommateur."
+    },
+    {
+      "question": "Quelles sont les deux grandes catégories de pratiques commerciales déloyales ?",
+      "choix": [
+        "Les pratiques légales et les pratiques illégales",
+        "Les pratiques trompeuses et les pratiques agressives",
+        "Les pratiques civiles et les pratiques pénales",
+        "Les pratiques directes et les pratiques indirectes"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'une agit sur l'information — elle crée une illusion.",
+        "L'autre agit sur la volonté — elle force ou harcèle.",
+        "La leçon les définit clairement toutes les deux."
+      ],
+      "explication": "Les pratiques commerciales déloyales se divisent en deux grandes catégories. Les pratiques trompeuses créent une confusion en altérant l'information du consommateur : publicité mensongère, omission d'informations essentielles, fausse promotion. Les pratiques agressives altèrent la liberté du consommateur par le harcèlement, la contrainte ou une influence injustifiée : démarchage insistant, pression psychologique, création d'urgence artificielle."
+    },
+    {
+      "question": "Un vendeur annonce '70% de réduction' sur un produit dont le prix a été artificiellement gonflé la semaine précédente. De quel type de pratique déloyale s'agit-il ?",
+      "choix": [
+        "D'une pratique agressive",
+        "D'une pratique trompeuse",
+        "D'une clause abusive",
+        "D'un vice caché"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette pratique agit-elle sur l'information ou sur la volonté du consommateur ?",
+        "Elle crée une fausse impression sur le prix et la réduction.",
+        "La publicité mensongère est une pratique trompeuse."
+      ],
+      "explication": "Il s'agit d'une pratique trompeuse. Le vendeur induit le consommateur en erreur sur le niveau réel de la réduction : en gonflant artificiellement le prix initial, il donne l'impression d'une remise importante alors qu'il n'en est rien. C'est une publicité mensongère sur le prix — une pratique commerciale trompeuse interdite, susceptible de sanctions civiles et pénales."
+    },
+    {
+      "question": "Qu'est-ce que la garantie légale de conformité ?",
+      "choix": [
+        "La garantie que le professionnel donne volontairement en plus de ses obligations légales",
+        "La garantie légale obligatoire couvrant les défauts de conformité d'un bien pendant 2 ans à compter de sa délivrance",
+        "La garantie que le bien ne tombera jamais en panne",
+        "La garantie que le prix du bien ne changera pas après l'achat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Elle est légale — imposée par la loi, pas volontaire.",
+        "Elle dure 2 ans à compter de la délivrance du bien.",
+        "Elle couvre les défauts de conformité — différence entre ce qui était convenu et ce qui a été livré."
+      ],
+      "explication": "La garantie légale de conformité est une garantie imposée par la loi au vendeur professionnel, couvrant les défauts de conformité du bien pendant 2 ans à compter de sa délivrance. Elle est d'ordre public : le vendeur ne peut pas l'écarter. Un bien est non conforme s'il ne correspond pas au contrat, n'est pas apte à l'usage attendu, ou ne possède pas les qualités annoncées. Pendant 24 mois, le défaut est présumé exister au moment de la vente."
+    },
+    {
+      "question": "Un consommateur achète un lave-linge. Après 18 mois, la machine ne chauffe plus correctement. Peut-il invoquer la garantie légale de conformité ?",
+      "choix": [
+        "Non, car 18 mois ont passé et la garantie constructeur est souvent d'un an",
+        "Oui, la garantie légale de conformité couvre les défauts pendant 2 ans, et le défaut est présumé exister au moment de la vente",
+        "Non, si la machine a été utilisée normalement",
+        "Oui, mais seulement s'il a conservé la facture d'achat"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La garantie légale dure 2 ans — 18 mois, c'est encore dans le délai.",
+        "Qui supporte la charge de la preuve pendant les 24 premiers mois ?",
+        "La garantie légale est distincte de la garantie commerciale du fabricant."
+      ],
+      "explication": "Oui. La garantie légale de conformité couvre les défauts pendant 2 ans à compter de la délivrance. 18 mois, c'est encore dans ce délai. De plus, pendant les 24 premiers mois, le défaut est présumé avoir existé au moment de la vente : c'est au vendeur de prouver le contraire. La garantie légale est indépendante et souvent plus protectrice que la garantie commerciale du fabricant, qui peut être plus courte."
+    },
+    {
+      "question": "Quelle est la différence entre la garantie légale de conformité et la garantie des vices cachés ?",
+      "choix": [
+        "Il n'y a aucune différence pratique entre les deux",
+        "La garantie de conformité (2 ans, vendeur professionnel uniquement) couvre les défauts apparaissant après la vente ; la garantie des vices cachés couvre les défauts non apparents existant avant la vente, entre particuliers également",
+        "La garantie de conformité est gratuite ; la garantie des vices cachés est payante",
+        "La garantie de conformité concerne les biens neufs ; la garantie des vices cachés concerne les biens d'occasion uniquement"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Qui peut invoquer chacune des deux garanties ?",
+        "La garantie de conformité : vendeur professionnel seulement. Les vices cachés : aussi entre particuliers.",
+        "Le vice caché existait avant la vente mais n'était pas visible."
+      ],
+      "explication": "Les deux garanties se distinguent sur plusieurs points. La garantie légale de conformité ne s'applique qu'aux ventes par un professionnel, dure 2 ans, et couvre les défauts de conformité (le bien ne correspond pas à ce qui était convenu). La garantie des vices cachés s'applique aussi entre particuliers, l'action doit être exercée dans les 2 ans de la découverte du vice, et couvre les défauts non apparents au moment de la vente qui existaient à ce moment et rendent le bien impropre à son usage."
+    },
+    {
+      "question": "Qu'est-ce qu'un vice caché ?",
+      "choix": [
+        "Un défaut visible que l'acheteur a négligé d'inspecter",
+        "Un défaut qui existait lors de la vente, n'était pas apparent, et rend le bien impropre à l'usage prévu ou en diminue substantiellement l'utilité",
+        "Un défaut qui apparaît après plusieurs années d'utilisation normale",
+        "Un défaut causé par une mauvaise utilisation de l'acheteur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Caché signifie non apparent — même avec un examen attentif.",
+        "Il devait exister avant la vente — pas apparaître après.",
+        "Il doit rendre le bien impropre à son usage ou en diminuer fortement l'utilité."
+      ],
+      "explication": "Un vice caché est un défaut qui réunit trois caractères : il existait au moment de la vente (pas apparu après), il n'était pas apparent lors de l'achat même avec un examen attentif, et il rend le bien impropre à l'usage prévu ou en diminue tellement l'utilité que l'acheteur ne l'aurait pas acquis ou n'en aurait donné qu'un moindre prix s'il l'avait connu. Un défaut visible que l'acheteur a simplement négligé de vérifier n'est pas un vice caché."
+    },
+    {
+      "question": "Quels sont les deux recours disponibles en cas de vice caché ?",
+      "choix": [
+        "La réparation ou le remplacement",
+        "L'action rédhibitoire (restitution + remboursement) ou l'action estimatoire (réduction du prix)",
+        "Les dommages-intérêts ou la résolution du contrat",
+        "La médiation ou l'arbitrage"
+      ],
+      "reponse": 1,
+      "indices": [
+        "L'un permet de défaire la vente entièrement, l'autre de la maintenir avec ajustement.",
+        "Rédhibitoire vient du latin reddere — rendre.",
+        "Estimatoire vient d'estimation — évaluation du préjudice."
+      ],
+      "explication": "En cas de vice caché, l'acheteur dispose de deux actions. L'action rédhibitoire : l'acheteur rend le bien et obtient le remboursement intégral du prix — la vente est défaite. L'action estimatoire : l'acheteur garde le bien mais obtient une réduction du prix proportionnelle à la gravité du vice. C'est l'acheteur qui choisit entre les deux actions selon ce qui lui convient le mieux."
+    },
+    {
+      "question": "Qu'est-ce que le TAEG dans un contrat de crédit à la consommation ?",
+      "choix": [
+        "Le taux annuel d'épargne garanti",
+        "Le taux annuel effectif global, qui reflète le coût total du crédit incluant tous les frais",
+        "Le taux appliqué en cas de retard de paiement",
+        "Le taux de change applicable aux crédits en devises"
+      ],
+      "reponse": 1,
+      "indices": [
+        "TAEG = Taux Annuel Effectif Global.",
+        "Il inclut les intérêts mais aussi tous les autres frais du crédit.",
+        "Il permet de comparer les offres de crédit entre elles."
+      ],
+      "explication": "Le TAEG (Taux Annuel Effectif Global) est le taux qui reflète le coût total du crédit en pourcentage annuel. Il inclut non seulement les intérêts, mais aussi tous les frais obligatoires liés au crédit (frais de dossier, assurance obligatoire, etc.). Il est obligatoirement mentionné dans le contrat de crédit et permet au consommateur de comparer les offres de différents prêteurs sur une base commune."
+    },
+    {
+      "question": "Quelle est l'obligation du prêteur avant d'accorder un crédit à la consommation ?",
+      "choix": [
+        "Vérifier que le consommateur a un emploi stable depuis au moins 5 ans",
+        "Vérifier la solvabilité du consommateur — c'est le devoir de responsabilité",
+        "Obtenir l'accord des proches du consommateur",
+        "Publier le contrat de crédit dans un journal officiel"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le prêteur ne doit pas accorder du crédit à quelqu'un qui ne peut pas rembourser.",
+        "C'est une obligation de prudence et de responsabilité.",
+        "Elle protège à la fois le consommateur et le système financier."
+      ],
+      "explication": "Avant d'accorder un crédit à la consommation, le prêteur a l'obligation de vérifier la solvabilité du consommateur — c'est le devoir de responsabilité. Il doit s'assurer que le consommateur a les capacités financières de rembourser le crédit. Accorder un crédit à une personne manifestement insolvable engage la responsabilité du prêteur. Cette obligation protège le consommateur contre le surendettement et responsabilise les établissements de crédit."
+    },
+    {
+      "question": "Qu'est-ce que la responsabilité du fait des produits défectueux ?",
+      "choix": [
+        "La responsabilité du consommateur pour la mauvaise utilisation d'un produit",
+        "La responsabilité sans faute du producteur pour les dommages causés par un produit n'offrant pas la sécurité légitimement attendue",
+        "La responsabilité du distributeur pour les retards de livraison",
+        "La responsabilité contractuelle du vendeur pour les défauts de conformité"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une responsabilité sans faute — la victime n'a pas à prouver la faute du producteur.",
+        "Le produit doit présenter un défaut de sécurité.",
+        "Elle s'applique au producteur, à l'importateur et subsidiairement au distributeur."
+      ],
+      "explication": "La responsabilité du fait des produits défectueux est une responsabilité sans faute : la victime n'a pas à prouver que le producteur a commis une faute. Elle doit seulement établir le défaut du produit (absence de la sécurité légitimement attendue), le dommage subi et le lien de causalité entre le défaut et le dommage. Cette responsabilité pèse sur le producteur, l'importateur et subsidiairement le distributeur."
+    },
+    {
+      "question": "Quelles preuves la victime d'un produit défectueux doit-elle apporter ?",
+      "choix": [
+        "La faute du producteur, le dommage et le lien de causalité",
+        "Le défaut du produit, le dommage et le lien de causalité entre le défaut et le dommage",
+        "L'intention du producteur, le préjudice et le montant des dommages-intérêts",
+        "La mauvaise qualité du produit et la négligence du distributeur"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Cette responsabilité est sans faute — pas besoin de prouver la faute.",
+        "Trois éléments à prouver, dont aucun n'est la faute.",
+        "Le défaut remplace la faute dans ce régime spécial."
+      ],
+      "explication": "Pour engager la responsabilité du fait des produits défectueux, la victime doit prouver trois éléments : le défaut du produit (il n'offre pas la sécurité légitimement attendue), le dommage subi (corporel ou matériel), et le lien de causalité entre le défaut et le dommage. Elle n'a pas à prouver la faute du producteur — c'est l'avantage majeur de ce régime pour les victimes."
+    },
+    {
+      "question": "Qu'est-ce que le surendettement ?",
+      "choix": [
+        "Le fait d'avoir plus d'un crédit en cours",
+        "L'impossibilité manifeste pour une personne physique de faire face à l'ensemble de ses dettes non professionnelles",
+        "Le fait de dépenser plus que ses revenus pendant un mois",
+        "Le fait d'avoir des dettes envers plusieurs créanciers différents"
+      ],
+      "reponse": 1,
+      "indices": [
+        "C'est une impossibilité manifeste — pas une simple difficulté passagère.",
+        "Elle concerne les dettes non professionnelles.",
+        "Ce sont les personnes physiques qui peuvent en bénéficier."
+      ],
+      "explication": "Le surendettement est caractérisé lorsqu'une personne physique se trouve dans l'impossibilité manifeste — c'est-à-dire évidente et durable — de faire face à l'ensemble de ses dettes non professionnelles exigibles et à échoir. Ce n'est pas une simple difficulté passagère, mais une situation structurelle d'incapacité de remboursement. Les dettes professionnelles relèvent d'autres procédures (redressement judiciaire)."
+    },
+    {
+      "question": "Quelles solutions la commission de surendettement peut-elle proposer ?",
+      "choix": [
+        "Uniquement la saisie des biens du débiteur",
+        "Rééchelonnement des dettes, réduction des intérêts, moratoire, ou effacement des dettes (rétablissement personnel)",
+        "La prison pour le débiteur de mauvaise foi",
+        "L'interdiction de contracter de nouveaux crédits pendant 10 ans"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La commission cherche des solutions adaptées à la situation du débiteur.",
+        "Du moins grave (rééchelonnement) au plus radical (effacement).",
+        "Le rétablissement personnel est réservé aux situations les plus désespérées."
+      ],
+      "explication": "La commission de surendettement peut proposer plusieurs solutions selon la gravité de la situation : un plan de remboursement aménagé avec rééchelonnement des dettes (payer moins chaque mois sur une période plus longue), une réduction des taux d'intérêt, un moratoire (suspension temporaire des remboursements), ou dans les cas les plus graves un effacement partiel ou total des dettes dans le cadre d'une procédure de rétablissement personnel."
+    },
+    {
+      "question": "Vrai ou faux : pendant l'examen d'un dossier de surendettement, les créanciers peuvent continuer à poursuivre le débiteur.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La procédure de surendettement offre une protection au débiteur.",
+        "Les créanciers sont-ils libres d'agir pendant que la commission examine le dossier ?",
+        "La leçon précise que toutes les procédures d'exécution sont suspendues."
+      ],
+      "explication": "Faux. Pendant l'examen du dossier de surendettement par la commission, toutes les procédures d'exécution contre le débiteur sont suspendues. Les créanciers ne peuvent pas saisir ses biens, prélever sur ses comptes ou engager de nouvelles poursuites. Cette protection est essentielle : elle donne au débiteur le temps de respirer et à la commission le temps d'élaborer une solution sans que la situation ne s'aggrave."
+    },
+    {
+      "question": "Quelles sont les voies de recours disponibles pour un consommateur en litige avec un professionnel ?",
+      "choix": [
+        "Uniquement la voie judiciaire devant le tribunal compétent",
+        "Réclamation au service client, médiation de la consommation, action en justice, ou action collective par une association de consommateurs",
+        "Uniquement le dépôt d'une plainte pénale",
+        "Uniquement la médiation, qui est obligatoire avant tout recours judiciaire"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon présente plusieurs voies dans l'ordre de la facilité.",
+        "La médiation est gratuite pour le consommateur.",
+        "Les associations de consommateurs peuvent agir collectivement."
+      ],
+      "explication": "Le consommateur dispose de plusieurs voies : la réclamation directe au service client (la plus rapide et la moins coûteuse), la médiation de la consommation (gratuite pour le consommateur, amiable), l'action en justice devant le tribunal compétent (plus longue et coûteuse mais contraignante), et l'action collective par une association de consommateurs (pour les litiges touchant de nombreux consommateurs victimes du même professionnel)."
+    },
+    {
+      "question": "Vrai ou faux : le droit de rétractation s'applique à tous les contrats sans exception.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon liste des exceptions au droit de rétractation.",
+        "Peut-on retourner un repas déjà consommé dans un restaurant ?",
+        "Biens sur mesure, biens périssables, services pleinement exécutés sont exclus."
+      ],
+      "explication": "Faux. Le droit de rétractation connaît des exceptions importantes. Il ne s'applique pas aux biens confectionnés selon les spécifications du consommateur (sur mesure), aux biens périssables (denrées alimentaires), aux prestations pleinement exécutées avec l'accord du consommateur, et à d'autres situations prévues par la loi. Il s'applique principalement aux contrats conclus à distance (internet) et hors établissement (démarchage à domicile)."
+    },
+    {
+      "question": "Un professionnel peut-il contractuellement écarter la garantie légale de conformité ?",
+      "choix": [
+        "Oui, si le consommateur signe une clause d'exclusion de garantie",
+        "Non, la garantie légale de conformité est d'ordre public — elle ne peut pas être écartée contractuellement",
+        "Oui, mais seulement pour les biens d'occasion",
+        "Oui, si le prix du bien est inférieur à un certain seuil"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La garantie légale est dite d'ordre public.",
+        "L'ordre public signifie qu'on ne peut pas y déroger par contrat.",
+        "Toute clause l'écartant serait... une clause abusive."
+      ],
+      "explication": "Non. La garantie légale de conformité est d'ordre public : le vendeur ne peut pas l'écarter contractuellement, même si le consommateur signe une clause en ce sens. Une clause excluant cette garantie serait considérée comme abusive et réputée non écrite. C'est une protection minimale que le droit impose aux vendeurs professionnels dans toutes leurs relations avec les consommateurs."
+    },
+    {
+      "question": "Vrai ou faux : la garantie des vices cachés ne s'applique qu'aux ventes entre professionnels.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La leçon précise le champ d'application de la garantie des vices cachés.",
+        "La garantie légale de conformité est réservée aux ventes par un professionnel. Et les vices cachés ?",
+        "Un particulier qui vend sa voiture d'occasion peut-il être tenu à cette garantie ?"
+      ],
+      "explication": "Faux. La garantie des vices cachés s'applique aussi aux ventes entre particuliers, contrairement à la garantie légale de conformité qui ne concerne que les ventes par un professionnel. Ainsi, si un particulier vend sa voiture d'occasion avec un vice caché (défaut non apparent existant avant la vente), l'acheteur peut exercer la garantie des vices cachés contre lui, même si le vendeur ignorait ce défaut."
+    },
+    {
+      "question": "Quel est le délai pour exercer la garantie des vices cachés ?",
+      "choix": [
+        "1 an à compter de l'achat",
+        "2 ans à compter de la découverte du vice",
+        "5 ans à compter de la vente",
+        "6 mois à compter de la manifestation du défaut"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le délai court non pas à partir de la vente mais à partir de la découverte.",
+        "Logique : on ne peut pas agir sur un vice qu'on ne connaît pas encore.",
+        "2 ans est le délai standard dans la plupart des systèmes."
+      ],
+      "explication": "L'action en garantie des vices cachés doit être exercée dans les 2 ans à compter de la découverte du vice. Ce délai court non pas à partir de la date de vente, mais à partir du moment où l'acheteur a découvert (ou aurait dû découvrir) le vice. Cette règle est logique : on ne peut pas reprocher à quelqu'un de ne pas avoir agi sur un défaut qu'il ne connaissait pas encore."
+    },
+    {
+      "question": "Qu'est-ce que l'action rédhibitoire en matière de vices cachés ?",
+      "choix": [
+        "L'action permettant d'obtenir la réparation du bien vicié",
+        "L'action permettant de rendre le bien et d'obtenir le remboursement intégral du prix",
+        "L'action permettant d'obtenir une réduction du prix",
+        "L'action permettant d'obtenir des dommages-intérêts pour le préjudice moral"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Rédhibitoire vient du latin reddere — rendre.",
+        "Elle défait entièrement la vente.",
+        "S'oppose à l'action estimatoire qui maintient la vente avec réduction."
+      ],
+      "explication": "L'action rédhibitoire permet à l'acheteur de défaire entièrement la vente : il rend le bien au vendeur et obtient le remboursement intégral du prix payé. C'est la solution la plus radicale. Elle s'oppose à l'action estimatoire, par laquelle l'acheteur garde le bien mais obtient une réduction du prix proportionnelle à la gravité du vice. C'est l'acheteur qui choisit entre les deux."
+    },
+    {
+      "question": "Vrai ou faux : le professionnel peut se défendre contre la responsabilité pour produit défectueux en prouvant que l'état des connaissances scientifiques lors de la mise en circulation ne permettait pas de déceler le défaut.",
+      "choix": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "indices": [
+        "C'est le risque de développement — une cause d'exonération spécifique.",
+        "Si personne ne pouvait détecter le défaut à l'époque, le producteur peut-il être tenu ?",
+        "La leçon cite cette exonération explicitement."
+      ],
+      "explication": "Vrai. C'est ce qu'on appelle le risque de développement : si l'état des connaissances scientifiques et techniques au moment de la mise en circulation du produit ne permettait pas de déceler le défaut, le producteur peut s'exonérer. C'est une cause d'exonération spécifique à la responsabilité du fait des produits défectueux. Elle est cependant controversée car elle peut limiter la protection des victimes face à des risques nouveaux."
+    },
+    {
+      "question": "Dans quel type de contrat le droit de rétractation est-il le plus important ?",
+      "choix": [
+        "Les contrats conclus dans un magasin physique",
+        "Les contrats conclus à distance (internet, téléphone) et les contrats conclus hors établissement (démarchage)",
+        "Les contrats de longue durée supérieure à 1 an",
+        "Les contrats portant sur des biens de valeur supérieure à 1 million d'ariary"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le droit de rétractation compense l'impossibilité d'examiner le produit en personne.",
+        "À distance = internet ou téléphone. Hors établissement = démarchage à domicile.",
+        "Dans un magasin, le consommateur peut voir et tester le produit avant d'acheter."
+      ],
+      "explication": "Le droit de rétractation est particulièrement important pour les contrats à distance (internet, téléphone, catalogue) et les contrats hors établissement (démarchage à domicile, foire, salon). Dans ces situations, le consommateur ne peut pas examiner physiquement le produit avant d'acheter, ou il peut être soumis à une pression commerciale qu'il n'aurait pas dans une boutique. Le droit de rétractation lui donne le temps de la réflexion."
+    },
+    {
+      "question": "Quel est le rôle du médiateur de la consommation ?",
+      "choix": [
+        "Rendre une décision contraignante comme un juge",
+        "Aider les parties à trouver une solution amiable à leur litige, gratuitement pour le consommateur",
+        "Représenter le consommateur devant le tribunal",
+        "Contrôler les pratiques commerciales des professionnels"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le médiateur est un tiers neutre, pas un juge.",
+        "La médiation est gratuite pour le consommateur.",
+        "Son but est de trouver un accord amiable, pas de trancher."
+      ],
+      "explication": "Le médiateur de la consommation est un tiers neutre et indépendant qui aide les parties à trouver une solution amiable à leur litige, gratuitement pour le consommateur. Il ne prend pas de décision contraignante comme un juge — il facilite le dialogue et propose des solutions. Si les parties acceptent la solution proposée, elles s'y conforment. Si la médiation échoue, le consommateur reste libre de saisir le tribunal."
+    },
+    {
+      "question": "Récapitulatif : quelle affirmation résume le mieux l'esprit du droit de la consommation ?",
+      "choix": [
+        "Le consommateur a toujours raison face au professionnel",
+        "Le droit de la consommation corrige le déséquilibre structurel entre consommateur et professionnel en imposant des obligations renforcées au professionnel et des droits spéciaux au consommateur",
+        "Le droit de la consommation interdit toute liberté contractuelle entre consommateurs et professionnels",
+        "Le droit de la consommation s'applique uniquement aux achats en ligne"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Il s'agit de corriger un déséquilibre — pas de donner tous les droits à l'un.",
+        "Le professionnel a des obligations renforcées ; le consommateur a des droits spéciaux.",
+        "La liberté contractuelle existe mais encadrée par des règles protectrices."
+      ],
+      "explication": "Le droit de la consommation corrige le déséquilibre structurel entre le consommateur (partie faible, moins informée) et le professionnel (partie forte, experte) en imposant au professionnel des obligations renforcées (information, loyauté, sécurité des produits) et en reconnaissant au consommateur des droits spéciaux (rétractation, garanties, protection contre les clauses abusives). Ce n'est pas que le consommateur a toujours raison, mais qu'il mérite une protection particulière."
+    }
+  ],
+  "exercices": [
+    {
+      "question": "CAS PRATIQUE 1 : Madame Nivo commande en ligne un canapé sur le site d'un meuble malgache pour 850 000 ariary. Le site ne mentionne pas l'existence d'un droit de rétractation. Le canapé est livré le 5 avril. Une fois reçu, Madame Nivo constate que la couleur réelle est différente de celle affichée sur le site, et que le tissu est d'une qualité bien inférieure à ce qui était décrit. Elle souhaite retourner le canapé. (1) Peut-elle exercer son droit de rétractation, et dans quel délai ? (2) Le canapé présente-t-il un défaut de conformité ? (3) Quels recours Madame Nivo peut-elle exercer et quels résultats peut-elle obtenir ?",
+      "choix": [
+        "Madame Nivo ne peut rien faire car elle a validé sa commande en ligne",
+        "(1) Oui, elle peut se rétracter — le site n'ayant pas informé de ce droit, le délai est prolongé de 12 mois (jusqu'au 5 avril de l'année suivante). (2) Oui, défaut de conformité : couleur et qualité différentes de ce qui était décrit. (3) Elle peut exercer le droit de rétractation (remboursement intégral) et/ou la garantie légale de conformité (réparation, remplacement, réduction de prix ou résolution).",
+        "Elle peut seulement demander une réduction du prix de 10%",
+        "Elle doit conserver le canapé car la vente en ligne est définitive"
+      ],
+      "reponse": 1,
+      "indices": [
+        "Le site n'a pas informé du droit de rétractation — quel est l'effet sur le délai ?",
+        "La couleur et la qualité ne correspondent pas à la description — est-ce un défaut de conformité ?",
+        "Combien de recours différents Madame Nivo peut-elle cumuler ?"
+      ],
+      "explication": "Le droit de rétractation. Madame Nivo a commandé en ligne — c'est un contrat à distance. Elle bénéficie donc du droit de rétractation. Problème : le site ne l'a pas informée de l'existence de ce droit. Conséquence : le délai de rétractation de 14 jours est prolongé de 12 mois. Elle peut donc se rétracter jusqu'au 5 avril de l'année suivante — soit 12 mois et 14 jours après la livraison. Pour exercer ce droit, elle doit notifier sa décision au vendeur par tout moyen permettant d'en conserver la preuve. Le vendeur doit la rembourser intégralement, y compris les frais de livraison initiaux. Le défaut de conformité. Le canapé livré présente deux problèmes : la couleur est différente de celle affichée sur le site, et la qualité du tissu est inférieure à ce qui était décrit. Ces deux éléments caractérisent un défaut de conformité : le bien livré ne correspond pas à ce qui était convenu dans le contrat (description sur le site). Le bien n'est pas conforme. Les recours cumulables. Madame Nivo peut exercer deux types de recours. D'abord le droit de rétractation (puisque le délai est prolongé) : remboursement intégral sans avoir à se justifier. Ensuite la garantie légale de conformité : réparation (impossible pour une couleur différente), remplacement par un canapé conforme, réduction du prix, ou résolution du contrat avec remboursement. Le défaut étant présumé exister au moment de la vente pendant les 24 premiers mois, c'est au vendeur de prouver le contraire. En pratique, Madame Nivo peut commencer par contacter le service client, puis recourir à la médiation si nécessaire, avant d'envisager une action en justice."
+    },
+    {
+      "question": "CAS PRATIQUE 2 : Monsieur Rakoto achète une voiture d'occasion à un particulier (pas un professionnel) pour 12 millions d'ariary. Le vendeur lui assure que la voiture est en parfait état. Huit mois après l'achat, un garagiste découvre que la boîte de vitesses présente une fissure interne qui existait avant la vente et qui n'était pas détectable sans démontage. Cette réparation coûte 4 millions d'ariary. Par ailleurs, Monsieur Rakoto avait signé dans l'acte de vente une clause stipulant : 'La vente est conclue en l'état, le vendeur ne garantit aucun vice caché.' (1) La clause d'exclusion de garantie est-elle valable ? (2) Monsieur Rakoto peut-il invoquer la garantie des vices cachés ? (3) Quels recours a-t-il et que peut-il obtenir ?",
+      "choix": [
+        "Monsieur Rakoto ne peut rien faire car il a signé la clause d'exclusion et acheté d'occasion",
+        "(1) La clause est valable entre particuliers si le vendeur est de bonne foi, mais inopposable si le vendeur connaissait le vice. (2) Oui : vice existant avant la vente, non apparent, rendant le bien impropre à son usage normal. (3) Il peut exercer l'action rédhibitoire (restitution + remboursement) ou l'action estimatoire (réduction de prix), et des dommages-intérêts si le vendeur connaissait le vice.",
+        "Il peut seulement demander la réparation gratuite",
+        "La garantie des vices cachés ne s'applique pas aux voitures d'occasion"
+      ],
+      "reponse": 1,
+      "indices": [
+        "La clause d'exclusion est-elle valable si le vendeur connaissait le vice ?",
+        "Les trois conditions du vice caché sont-elles remplies ?",
+        "Quelles sont les deux actions disponibles et lesquelles peut-il combiner avec des dommages-intérêts ?"
+      ],
+      "explication": "La valeur de la clause d'exclusion. La clause stipulant 'le vendeur ne garantit aucun vice caché' peut en principe être valable dans une vente entre particuliers — contrairement à une vente par un professionnel où elle serait une clause abusive. Cependant, cette clause ne vaut que si le vendeur était lui-même de bonne foi, c'est-à-dire s'il ignorait le vice. Si le vendeur connaissait la fissure de la boîte de vitesses et ne l'a pas révélée, la clause lui est inopposable : on ne peut pas s'exonérer d'un vice qu'on connaît délibérément. En droit, le vendeur professionnel est présumé connaître les vices — ce qui n'est pas le cas du particulier. Les conditions du vice caché. Les trois conditions sont remplies. Le vice existait avant la vente : la fissure existait au moment de la transaction, non causée par l'utilisation de Monsieur Rakoto. Le vice était non apparent : il n'était détectable que par démontage de la boîte de vitesses — un acheteur ordinaire ne pouvait pas le détecter lors d'un examen normal. Le vice rend le bien impropre à son usage : une voiture avec une boîte de vitesses fissurée ne peut pas fonctionner normalement et en sécurité. Les recours disponibles. Monsieur Rakoto peut exercer l'action rédhibitoire : rendre la voiture et obtenir le remboursement intégral des 12 millions d'ariary. Ou l'action estimatoire : garder la voiture et obtenir une réduction du prix équivalente à la valeur du vice (environ 4 millions de réparation, soit une réduction proportionnelle). Si le vendeur connaissait le vice (mauvaise foi), Monsieur Rakoto peut en plus réclamer des dommages-intérêts pour l'ensemble des préjudices subis. Il doit agir dans les 2 ans à compter de la découverte du vice par le garagiste."
+    }
+  ]
+}
+ 
