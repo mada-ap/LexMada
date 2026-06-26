@@ -1,0 +1,339 @@
+{
+  "titre": "L'IS et l'IRCM — Impôt Synthétique et Impôt sur les Revenus des Capitaux Mobiliers",
+  "module": 12,
+  "niveau": "Professionnel",
+
+  "presentation": "Ce module porte sur deux impôts distincts qui concernent directement les entreprises et les détenteurs d'actifs mobiliers à Madagascar : l'Impôt Synthétique (IS) et l'Impôt sur les Revenus des Capitaux Mobiliers (IRCM). L'IS s'applique aux entreprises dont le chiffre d'affaires annuel est inférieur à 400 millions d'ariary ; il remplace pour ces contribuables la TVA et l'IR du régime réel. L'IRCM, quant à lui, frappe les revenus tirés d'actifs mobiliers — dividendes, intérêts, produits d'obligations — et ne concerne que les entreprises soumises à l'IR (régime réel). Comprendre ces deux mécanismes, savoir les calculer et remplir correctement les documents de déclaration est indispensable pour tout professionnel du droit, de la comptabilité ou de la gestion d'entreprise.",
+
+  "contenu": [
+    {
+      "titre": "L'Impôt Synthétique (IS) — principes généraux",
+      "texte": "L'Impôt Synthétique est un impôt forfaitaire annuel dont la base imposable est le chiffre d'affaires réalisé au cours de l'exercice clos. Il s'applique obligatoirement à toute entreprise dont le chiffre d'affaires annuel est strictement inférieur à 400 millions d'ariary. Les entreprises soumises à l'IS ne sont pas assujetties à la TVA et n'ont pas à déposer de déclaration d'IR au régime réel : l'IS constitue un impôt unique, dit 'synthétique', qui se substitue à l'ensemble de ces obligations. Cette simplification le rend particulièrement adapté aux petites et moyennes entreprises, aux commerçants, artisans et prestataires de services opérant à petite échelle.",
+      "definition": "Chiffre d'affaires : montant total des recettes encaissées ou facturées par l'entreprise au titre de son activité principale, hors taxes lorsque l'entreprise y est soumise."
+    },
+    {
+      "titre": "Le taux de l'IS et les réductions applicables",
+      "texte": "Le taux de droit commun de l'IS est fixé à 5 % du chiffre d'affaires annuel hors taxes. Ce taux peut être réduit à 3 % si le contribuable bénéficie d'une ou plusieurs des réductions suivantes : une réduction de 2 % accordée sur le montant des achats de biens et services dûment facturés par des fournisseurs identifiés (ce mécanisme incite les entreprises soumises à l'IS à exiger des factures en bonne et due forme de leurs fournisseurs) ; une réduction de 2 % sur le montant des charges salariales déclarées, à condition que les retenues IRSA correspondantes aient bien été versées à l'administration fiscale. Ces deux réductions ne se cumulent pas au-delà du plancher de 3 % : le taux effectif ne peut jamais être inférieur à 3 %, même si les deux réductions sont obtenues simultanément.",
+      "definition": "Réduction d'impôt : diminution du montant de l'impôt dû, accordée sous conditions, en contrepartie d'un comportement fiscal vertueux (déclaration des salaires, recours à des fournisseurs facturants)."
+    },
+    {
+      "titre": "Les acomptes provisionnels et le minimum de perception à la création",
+      "texte": "Lors de la création de l'entreprise, un acompte provisionnel est exigible avant même que le premier exercice soit clos. Son montant varie selon le secteur d'activité : 16 000 ariary pour le secteur primaire, les petits exploitants agricoles et les transporteurs sans véhicules propres ; 50 000 ariary pour les artisans, les gargotes et les petits commerçants ; 100 000 ariary pour les activités touristiques, les exploitations minières et les prestataires de services ; 150 000 ariary pour les professions libérales, les activités multiples et les autres cas. Ces mêmes montants constituent également le minimum de perception annuel, c'est-à-dire le plancher en dessous duquel l'IS ne peut pas descendre même si 5 % (ou 3 %) du chiffre d'affaires conduisait à un résultat inférieur."
+    },
+    {
+      "titre": "Les obligations déclaratives de l'IS",
+      "texte": "La déclaration annuelle de l'IS doit être déposée avant le 31 mars de l'année suivant l'exercice clos. Pour un exercice clos le 31 décembre, la déclaration est donc due au plus tard le 31 mars de l'année suivante. Les documents à fournir varient selon le niveau de chiffre d'affaires : pour un CA inférieur à 100 millions d'ariary, un simple récapitulatif des recettes et des dépenses suffit ; pour un CA compris entre 100 et 200 millions d'ariary, les états financiers selon le système minimal de trésorerie sont exigés ; au-delà de 200 millions d'ariary (et jusqu'au seuil de 400 millions), les états financiers complets sont requis, incluant un bilan et un compte de résultat par fonction et par nature."
+    },
+    {
+      "titre": "L'Impôt sur les Revenus des Capitaux Mobiliers (IRCM) — principes généraux",
+      "texte": "L'IRCM est un impôt annuel qui frappe les revenus provenant d'actifs mobiliers : intérêts sur emprunts et obligations, dividendes distribués, produits de placements financiers, et tous autres revenus assimilés tirés de créances ou de valeurs mobilières. Il ne concerne que les entités soumises au régime réel de l'IR (chiffre d'affaires annuel égal ou supérieur à 400 millions d'ariary) : une entreprise soumise à l'IS n'est pas redevable de l'IRCM. Le taux de l'IRCM est fixé à 20 % des revenus mobiliers perçus ou distribués au cours de l'exercice.",
+      "definition": "Actifs mobiliers : biens incorporels ou financiers (actions, obligations, créances, parts sociales, dépôts rémunérés) par opposition aux actifs immobiliers. Les revenus qu'ils génèrent (dividendes, intérêts) sont soumis à l'IRCM."
+    },
+    {
+      "titre": "Ce qui entre dans la base imposable de l'IRCM",
+      "texte": "Sont imposables à l'IRCM : les intérêts, arrérages et tous produits des obligations et emprunts, quelle qu'en soit la forme ; les dividendes et toutes distributions de bénéfices, sous quelque dénomination que ce soit, décidés par les assemblées d'actionnaires ou d'associés ; les revenus des dépôts en compte courant rémunérés ; les produits des bons de caisse et autres placements à terme ; et de façon générale, tous revenus provenant de la mise à disposition de capitaux. En pratique, l'IRCM concerne en premier lieu les SARL et SA qui distribuent des dividendes à leurs associés ou actionnaires — point de jonction direct avec les modules 6 et 7 de ce programme."
+    },
+    {
+      "titre": "Les obligations déclaratives de l'IRCM",
+      "texte": "L'IRCM est déclaré et versé annuellement, avant le 15 mai de l'année suivant l'exercice clos (pour un exercice clos le 31 décembre, la déclaration est donc due avant le 15 mai de l'année suivante). C'est l'entité qui verse les revenus mobiliers — et non le bénéficiaire — qui est chargée d'opérer la retenue à la source et de la reverser à l'administration fiscale. Ainsi, une SARL qui distribue des dividendes à ses associés doit retenir 20 % sur le montant distribué et verser cette retenue à la recette fiscale compétente dans les délais impartis."
+    },
+    {
+      "titre": "IS et IRCM : tableau de synthèse comparatif",
+      "texte": "Pour récapituler : l'IS frappe le chiffre d'affaires des petites structures (CA < 400 M Ar), à 5 % (ou 3 % avec réductions), avec déclaration avant le 31 mars ; l'IRCM frappe les revenus des capitaux mobiliers des entités au régime réel (CA ≥ 400 M Ar), à 20 %, avec déclaration avant le 15 mai. Un contribuable soumis à l'IS ne peut pas être simultanément redevable de l'IRCM. En revanche, une SARL ou une SA ayant franchi le seuil de 400 millions d'ariary sera soumise à l'IR au régime réel ET, si elle distribue des dividendes, à l'IRCM."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type": "formulaire_declaration_IS",
+      "titre": "Déclaration annuelle de l'Impôt Synthétique",
+      "contexte": "Madame RAVAO Noeline exploite un commerce de produits alimentaires en gros à Antananarivo sous la forme d'une entreprise individuelle. Son chiffre d'affaires pour l'exercice clos le 31 décembre 2025 est de 180 000 000 ariary. Elle fait appel à des fournisseurs qui lui délivrent des factures en bonne et due forme (achats = 95 000 000 Ar) et elle emploie deux salariés dont les salaires sont déclarés et les IRSA versés (charges salariales déclarées = 12 000 000 Ar). Elle souhaite bénéficier des réductions applicables.",
+      "document": {
+        "en_tete": "DIRECTION GÉNÉRALE DES IMPÔTS — MADAGASCAR\nDÉCLARATION ANNUELLE DE L'IMPÔT SYNTHÉTIQUE\nExercice clos le : 31 décembre 2025\nDate limite de dépôt : 31 mars 2026",
+        "identification_contribuable": {
+          "nom_raison_sociale": "RAVAO Noeline",
+          "forme_juridique": "Entreprise Individuelle",
+          "activite": "Commerce de produits alimentaires en gros",
+          "numero_nif": "1002345678",
+          "adresse": "Lot II C 44, Isotry, Antananarivo 101",
+          "recette_fiscale": "Recette fiscale d'Antananarivo-Isotry"
+        },
+        "calcul_is": {
+          "ligne_1": {
+            "libelle": "Chiffre d'affaires annuel hors taxes (A)",
+            "montant_ariary": 180000000
+          },
+          "ligne_2": {
+            "libelle": "Taux de base IS",
+            "valeur": "5 %"
+          },
+          "ligne_3": {
+            "libelle": "IS brut (A × 5 %)",
+            "montant_ariary": 9000000
+          },
+          "ligne_4": {
+            "libelle": "Réduction 1 — Achats dûment facturés (95 000 000 × 2 %)",
+            "montant_ariary": 1900000
+          },
+          "ligne_5": {
+            "libelle": "Réduction 2 — Charges salariales déclarées avec IRSA versé (12 000 000 × 2 %)",
+            "montant_ariary": 240000
+          },
+          "ligne_6": {
+            "libelle": "Total des réductions (Réd. 1 + Réd. 2)",
+            "montant_ariary": 2140000
+          },
+          "ligne_7": {
+            "libelle": "IS après réductions (IS brut – Total réductions)",
+            "montant_ariary": 6860000
+          },
+          "ligne_8": {
+            "libelle": "Taux effectif après réductions [6 860 000 / 180 000 000]",
+            "valeur": "≈ 3,81 % (supérieur au plancher de 3 %, donc acceptable)"
+          },
+          "ligne_9": {
+            "libelle": "Minimum de perception applicable (petit commerce)",
+            "montant_ariary": 50000
+          },
+          "ligne_10": {
+            "libelle": "IS dû retenu (le plus élevé entre IS après réductions et minimum de perception)",
+            "montant_ariary": 6860000
+          },
+          "ligne_11": {
+            "libelle": "Acompte provisionnel déjà versé à la création",
+            "montant_ariary": 50000
+          },
+          "ligne_12": {
+            "libelle": "SOLDE À PAYER (IS dû – acompte versé)",
+            "montant_ariary": 6810000
+          }
+        },
+        "documents_joints": [
+          "Récapitulatif des recettes et dépenses de l'exercice 2025",
+          "Relevé des factures fournisseurs (achats = 95 000 000 Ar)",
+          "État des charges salariales et des IRSA versés (12 000 000 Ar)"
+        ],
+        "certification": "Je soussignée RAVAO Noeline, certifie exactes les informations portées sur la présente déclaration.",
+        "lieu_date": "Antananarivo, le 28 mars 2026",
+        "signature": "RAVAO Noeline"
+      }
+    },
+    {
+      "id": 2,
+      "type": "formulaire_declaration_IRCM",
+      "titre": "Déclaration annuelle de l'Impôt sur les Revenus des Capitaux Mobiliers (IRCM)",
+      "contexte": "La SARL FANANTENANA, soumise au régime réel de l'IR (CA annuel = 620 000 000 Ar), a décidé en assemblée générale du 10 mars 2026 de distribuer à ses trois associés un dividende global de 24 000 000 ariary au titre de l'exercice 2025. Elle doit retenir l'IRCM à la source et le reverser à la recette fiscale avant le 15 mai 2026.",
+      "document": {
+        "en_tete": "DIRECTION GÉNÉRALE DES IMPÔTS — MADAGASCAR\nDÉCLARATION ET VERSEMENT DE L'IMPÔT SUR LES REVENUS DES CAPITAUX MOBILIERS (IRCM)\nExercice clos le : 31 décembre 2025\nDate limite de dépôt et de versement : 15 mai 2026",
+        "identification_contribuable": {
+          "raison_sociale": "SARL FANANTENANA",
+          "forme_juridique": "Société à Responsabilité Limitée",
+          "numero_nif": "3005678901",
+          "adresse_siege": "Immeuble Anosy Centre, 2ème étage, Antananarivo 101",
+          "regime_fiscal": "Régime réel — IR",
+          "recette_fiscale": "Recette fiscale d'Antananarivo-Centre"
+        },
+        "nature_revenus": "Dividendes distribués aux associés suite à l'AGO du 10 mars 2026",
+        "calcul_ircm": {
+          "ligne_1": {
+            "libelle": "Montant total des dividendes distribués (base imposable)",
+            "montant_ariary": 24000000
+          },
+          "ligne_2": {
+            "libelle": "Taux IRCM",
+            "valeur": "20 %"
+          },
+          "ligne_3": {
+            "libelle": "IRCM dû (24 000 000 × 20 %)",
+            "montant_ariary": 4800000
+          },
+          "ligne_4": {
+            "libelle": "Montant net versé aux associés (24 000 000 – 4 800 000)",
+            "montant_ariary": 19200000
+          }
+        },
+        "detail_associes": [
+          {
+            "nom": "ANDRIAMARO Paul",
+            "parts_detenues": "40 %",
+            "dividende_brut": 9600000,
+            "ircm_retenu": 1920000,
+            "dividende_net": 7680000
+          },
+          {
+            "nom": "RASOARIVO Lanto",
+            "parts_detenues": "35 %",
+            "dividende_brut": 8400000,
+            "ircm_retenu": 1680000,
+            "dividende_net": 6720000
+          },
+          {
+            "nom": "RAKOTOMALALA Fidy",
+            "parts_detenues": "25 %",
+            "dividende_brut": 6000000,
+            "ircm_retenu": 1200000,
+            "dividende_net": 4800000
+          }
+        ],
+        "total_ircm_a_verser": 4800000,
+        "documents_joints": [
+          "Copie du procès-verbal de l'Assemblée Générale Ordinaire du 10 mars 2026",
+          "État de répartition des dividendes entre les associés",
+          "Copie de la décision d'affectation du résultat 2025"
+        ],
+        "certification": "Je soussigné, gérant de la SARL FANANTENANA, certifie exactes les informations portées sur la présente déclaration et m'engage à verser la somme de 4 800 000 ariary à la recette fiscale compétente avant le 15 mai 2026.",
+        "lieu_date": "Antananarivo, le 5 mai 2026",
+        "signature": {
+          "nom": "ANDRIAMARO Paul",
+          "qualite": "Gérant de la SARL FANANTENANA"
+        }
+      }
+    }
+  ],
+
+  "tableaux_calcul": [
+    {
+      "id": 1,
+      "titre": "Tableau récapitulatif — Calcul de l'IS selon le niveau de CA et les réductions",
+      "description": "Ce tableau illustre comment l'IS varie selon le chiffre d'affaires et la présence ou non de réductions, pour quatre profils types d'entreprises soumises à l'IS.",
+      "colonnes": ["Contribuable", "CA annuel (Ar)", "IS brut 5%", "Réd. factures (2%)", "Réd. salaires (2%)", "IS après réductions", "Taux effectif", "Min. perception", "IS finalement dû"],
+      "lignes": [
+        {
+          "contribuable": "Gargote (petit commerce restauration)",
+          "CA": 18000000,
+          "IS_brut": 900000,
+          "red_factures": 0,
+          "red_salaires": 0,
+          "IS_apres_red": 900000,
+          "taux_effectif": "5,00 %",
+          "min_perception": 50000,
+          "IS_du": 900000
+        },
+        {
+          "contribuable": "Prestataire services informatiques",
+          "CA": 95000000,
+          "IS_brut": 4750000,
+          "red_factures": 640000,
+          "red_salaires": 320000,
+          "IS_apres_red": 3790000,
+          "taux_effectif": "3,99 %",
+          "min_perception": 100000,
+          "IS_du": 3790000
+        },
+        {
+          "contribuable": "Commerce de gros alimentaire (Mme RAVAO)",
+          "CA": 180000000,
+          "IS_brut": 9000000,
+          "red_factures": 1900000,
+          "red_salaires": 240000,
+          "IS_apres_red": 6860000,
+          "taux_effectif": "3,81 %",
+          "min_perception": 50000,
+          "IS_du": 6860000
+        },
+        {
+          "contribuable": "Profession libérale (avocat solo)",
+          "CA": 320000000,
+          "IS_brut": 16000000,
+          "red_factures": 800000,
+          "red_salaires": 600000,
+          "IS_apres_red": 14600000,
+          "taux_effectif": "4,56 %",
+          "min_perception": 150000,
+          "IS_du": 14600000
+        }
+      ],
+      "note": "Dans tous les cas, le taux effectif ne peut descendre en dessous de 3 % : IS après réductions ≥ CA × 3 %."
+    },
+    {
+      "id": 2,
+      "titre": "Tableau récapitulatif — Calcul de l'IRCM sur dividendes distribués",
+      "description": "Ce tableau illustre, pour trois scénarios de distribution, le calcul de l'IRCM, le montant net perçu par les associés et l'obligation de versement à la recette fiscale.",
+      "colonnes": ["Société", "Dividendes bruts distribués (Ar)", "IRCM retenu 20% (Ar)", "Dividendes nets versés aux associés (Ar)", "Date limite de versement IRCM"],
+      "lignes": [
+        {
+          "societe": "SARL FANANTENANA",
+          "dividendes_bruts": 24000000,
+          "IRCM": 4800000,
+          "dividendes_nets": 19200000,
+          "date_limite": "15 mai 2026"
+        },
+        {
+          "societe": "SA TSIMOKA",
+          "dividendes_bruts": 75000000,
+          "IRCM": 15000000,
+          "dividendes_nets": 60000000,
+          "date_limite": "15 mai 2026"
+        },
+        {
+          "societe": "SARL MANDA (un seul associé)",
+          "dividendes_bruts": 8500000,
+          "IRCM": 1700000,
+          "dividendes_nets": 6800000,
+          "date_limite": "15 mai 2026"
+        }
+      ],
+      "note": "C'est toujours la société qui distribue (et non l'associé bénéficiaire) qui est responsable de la retenue et du versement de l'IRCM."
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur RAKOTO Jean exerce une activité de transport de marchandises à Madagascar avec son propre camion. Son chiffre d'affaires annuel pour 2025 est de 95 000 000 ariary. Il n'emploie aucun salarié et ne reçoit pas de factures de ses fournisseurs car il travaille principalement avec des particuliers qui ne lui délivrent aucun justificatif. Il vient vous consulter pour savoir quel impôt il doit payer et combien il doit verser.",
+      "question": "Quel régime fiscal s'applique à Monsieur RAKOTO, quel est son IS dû, et peut-il bénéficier des réductions ?",
+      "choix": [
+        "Monsieur RAKOTO est soumis à l'IS car son CA est inférieur à 400 millions d'ariary. Son IS brut est de 4 750 000 ariary (95 000 000 × 5 %). Il ne peut bénéficier d'aucune réduction faute de factures fournisseurs et de salariés déclarés. Son IS dû est donc de 4 750 000 ariary, supérieur au minimum de perception de 100 000 ariary applicable aux transporteurs.",
+        "Monsieur RAKOTO est soumis à l'IR au régime réel car son activité de transport est une activité commerciale, ce qui exclut l'IS.",
+        "Monsieur RAKOTO est soumis à l'IS à 5 % mais peut déduire le coût du carburant de sa base imposable avant de calculer l'impôt.",
+        "Monsieur RAKOTO est soumis à l'IS à 5 %, mais le minimum de perception de 16 000 ariary s'appliquant aux transporteurs sans véhicules propres, il ne paiera que 16 000 ariary."
+      ],
+      "reponse": "Monsieur RAKOTO est soumis à l'IS car son CA est inférieur à 400 millions d'ariary. Son IS brut est de 4 750 000 ariary (95 000 000 × 5 %). Il ne peut bénéficier d'aucune réduction faute de factures fournisseurs et de salariés déclarés. Son IS dû est donc de 4 750 000 ariary, supérieur au minimum de perception de 100 000 ariary applicable aux transporteurs.",
+      "indices": "Vérifiez d'abord le seuil de 400 millions d'ariary pour déterminer le régime. Ensuite, pour les réductions, il faut des factures fournisseurs ET des salariés déclarés avec IRSA versé. Attention au minimum de perception : il distingue 'transporteurs sans véhicules propres' (16 000 Ar) et les autres transporteurs.",
+      "explication": "Le CA de 95 millions d'ariary est bien inférieur à 400 millions : l'IS s'applique. La base est le CA total (aucune déduction de charges n'est prévue dans le calcul de l'IS, contrairement à l'IR au régime réel). Les réductions de 2 % nécessitent des factures fournisseurs et des charges salariales déclarées : M. RAKOTO n'en dispose ni de l'une ni de l'autre. Le minimum de 16 000 ariary ne concerne que les transporteurs sans véhicules propres (ceux qui affrètent des véhicules qu'ils ne possèdent pas) ; M. RAKOTO utilisant son propre camion, il relève de la catégorie générale des 100 000 ariary — mais ce minimum est de toute façon très largement dépassé par l'IS calculé de 4 750 000 ariary."
+    },
+    {
+      "id": 2,
+      "scenario": "La SARL VONJY, soumise au régime de l'IS (CA 2025 = 210 000 000 ariary), a décidé de distribuer des dividendes à ses deux associés. Un ami de la gérante lui conseille de déclarer cette distribution à l'IRCM car, selon lui, 'toutes les SARL qui distribuent des dividendes paient l'IRCM'. La gérante vous consulte pour vérifier ce conseil.",
+      "question": "Le conseil de l'ami est-il correct ? La SARL VONJY doit-elle payer l'IRCM sur les dividendes distribués ?",
+      "choix": [
+        "Non, le conseil est incorrect. La SARL VONJY est soumise à l'IS et non à l'IR au régime réel. L'IRCM ne concerne que les entités au régime réel (IR). La SARL VONJY n'est donc pas redevable de l'IRCM.",
+        "Oui, le conseil est correct : toute SARL qui distribue des dividendes est redevable de l'IRCM à 20 %, quelle que soit sa taille ou son régime fiscal.",
+        "L'IRCM s'applique, mais au taux réduit de 5 % pour les entités soumises à l'IS, et non au taux de 20 %.",
+        "La SARL VONJY doit payer l'IRCM uniquement si ses dividendes dépassent 10 millions d'ariary par associé."
+      ],
+      "reponse": "Non, le conseil est incorrect. La SARL VONJY est soumise à l'IS et non à l'IR au régime réel. L'IRCM ne concerne que les entités au régime réel (IR). La SARL VONJY n'est donc pas redevable de l'IRCM.",
+      "indices": "L'IRCM est réservé aux entreprises soumises à l'IR du régime réel. Quel est le critère de distinction entre le régime IS et le régime IR réel ?",
+      "explication": "L'IRCM ne s'applique qu'aux entités relevant du régime réel de l'IR, c'est-à-dire dont le CA annuel est égal ou supérieur à 400 millions d'ariary. La SARL VONJY, avec un CA de 210 millions, est en dessous de ce seuil et relève de l'IS. Elle n'est donc pas redevable de l'IRCM, même si elle distribue des dividendes. L'ami de la gérante a confondu la règle générale (toute distribution peut être taxée) avec le champ d'application précis de l'IRCM à Madagascar."
+    },
+    {
+      "id": 3,
+      "scenario": "Madame SEHENO Volasoa exploite un cabinet de conseil en ressources humaines. Son CA 2025 est de 280 000 000 ariary. Elle a réalisé des achats de fournitures et services dûment facturés pour un montant de 40 000 000 ariary, et elle emploie trois collaborateurs dont les salaires déclarés totalisent 36 000 000 ariary (IRSA versé). Elle souhaite calculer son IS avec les réductions maximales.",
+      "question": "Quel est l'IS dû par Madame SEHENO pour 2025, en appliquant les réductions disponibles ?",
+      "choix": [
+        "IS brut : 14 000 000 Ar (280 M × 5 %). Réduction factures : 800 000 Ar (40 M × 2 %). Réduction salaires : 720 000 Ar (36 M × 2 %). IS après réductions : 12 480 000 Ar. Taux effectif : 4,46 % (supérieur à 3 %). IS dû : 12 480 000 Ar.",
+        "IS brut : 14 000 000 Ar. Réductions totales plafonnées à 2 % du CA (5 600 000 Ar). IS dû : 8 400 000 Ar.",
+        "IS brut : 14 000 000 Ar. Réduction globale de 4 % appliquée directement sur le CA (11 200 000 Ar). IS dû : 2 800 000 Ar.",
+        "IS brut : 14 000 000 Ar. Réduction unique de 2 % sur le CA total, les réductions ne pouvant pas se cumuler. IS dû : 8 400 000 Ar."
+      ],
+      "reponse": "IS brut : 14 000 000 Ar (280 M × 5 %). Réduction factures : 800 000 Ar (40 M × 2 %). Réduction salaires : 720 000 Ar (36 M × 2 %). IS après réductions : 12 480 000 Ar. Taux effectif : 4,46 % (supérieur à 3 %). IS dû : 12 480 000 Ar.",
+      "indices": "Les deux réductions (factures et salaires) se calculent chacune sur leur assiette propre (montant des achats et montant des salaires), et non sur le CA. Vérifiez ensuite que le taux effectif résultant ne descend pas sous le plancher de 3 %.",
+      "explication": "IS brut = 280 000 000 × 5 % = 14 000 000 Ar. Réduction 1 (factures) = 40 000 000 × 2 % = 800 000 Ar. Réduction 2 (salaires) = 36 000 000 × 2 % = 720 000 Ar. IS après réductions = 14 000 000 – 800 000 – 720 000 = 12 480 000 Ar. Taux effectif = 12 480 000 / 280 000 000 = 4,46 %, bien supérieur au plancher de 3 %. L'IS dû est donc de 12 480 000 ariary. La réduction ne s'applique pas sur le CA mais sur les assiettes spécifiques (achats facturés et charges salariales). Il n'existe pas de plafonnement global des deux réductions entre elles."
+    },
+    {
+      "id": 4,
+      "scenario": "La SA MITSANGA, soumise au régime réel de l'IR (CA 2025 = 850 000 000 ariary), a réalisé un bénéfice net de 120 000 000 ariary. Son assemblée générale a décidé de distribuer 60 % de ce bénéfice en dividendes à ses actionnaires, soit 72 000 000 ariary. Le directeur administratif vous demande : quel est l'IRCM à retenir et à verser, et qui supporte effectivement cette charge ?",
+      "question": "Quel est le montant de l'IRCM dû, et qui en supporte la charge économique ?",
+      "choix": [
+        "IRCM dû : 14 400 000 Ar (72 000 000 × 20 %). C'est la SA MITSANGA qui opère la retenue à la source : elle verse aux actionnaires 57 600 000 Ar nets et reverse 14 400 000 Ar à la recette fiscale. La charge économique est supportée par les actionnaires, qui reçoivent un dividende net réduit d'autant.",
+        "IRCM dû : 14 400 000 Ar. Chaque actionnaire doit calculer et verser lui-même l'IRCM correspondant à sa quote-part de dividendes, avant le 15 mai 2026.",
+        "IRCM dû : 24 000 000 Ar (120 000 000 × 20 %) car la base de l'IRCM est le bénéfice net total, pas seulement la partie distribuée.",
+        "L'IRCM ne s'applique pas à une SA dont le CA dépasse 800 millions d'ariary, qui est soumise à un régime d'imposition spécifique aux grandes entreprises."
+      ],
+      "reponse": "IRCM dû : 14 400 000 Ar (72 000 000 × 20 %). C'est la SA MITSANGA qui opère la retenue à la source : elle verse aux actionnaires 57 600 000 Ar nets et reverse 14 400 000 Ar à la recette fiscale. La charge économique est supportée par les actionnaires, qui reçoivent un dividende net réduit d'autant.",
+      "indices": "L'IRCM se calcule sur les dividendes effectivement distribués, pas sur le bénéfice total. Et qui est responsable du versement à la recette fiscale : la société ou les actionnaires ?",
+      "explication": "La base imposable de l'IRCM est le montant des dividendes distribués (72 000 000 Ar), et non le bénéfice net total (120 000 000 Ar) — la part non distribuée (48 000 000 Ar mise en réserve) n'est pas soumise à l'IRCM. L'IRCM est de 72 000 000 × 20 % = 14 400 000 Ar. C'est la SA MITSANGA, en tant que débitrice des dividendes, qui est tenue d'opérer la retenue à la source et de la verser à la recette fiscale avant le 15 mai 2026 : les actionnaires n'ont aucune démarche déclarative à effectuer eux-mêmes. Économiquement, c'est bien l'actionnaire qui supporte la charge puisqu'il ne perçoit que le net (57 600 000 Ar au total)."
+    }
+  ]
+}
