@@ -1,0 +1,525 @@
+{
+  "titre": "Créer une SA à Madagascar — documents, capital, formalités EDBM",
+  "module": 6,
+  "niveau": "Professionnel",
+
+  "presentation": "La Société Anonyme (SA) est la forme juridique la plus structurée du droit des sociétés malgache. Elle s'impose obligatoirement aux banques, assurances, établissements de microfinance et de monnaie électronique, et convient à tout projet nécessitant une levée de fonds importante ou l'entrée d'investisseurs extérieurs. Sa gouvernance formalisée — Conseil d'Administration ou Administrateur Général, commissaire aux comptes obligatoire — en fait une structure crédible aux yeux des partenaires financiers. Ce module est entièrement pratique : trois modèles d'actes complets (statuts, bail commercial, PV constitutif) et les cas pratiques qui illustrent les pièges fréquents.",
+
+  "conseil_professionnel": {
+    "message": "La constitution d'une SA est une procédure plus complexe qu'une SARL. Si vous avez du mal à construire votre dossier, les équipes de LDS Consulting prennent en charge l'intégralité des démarches pour vous.",
+    "contact": "https://www.facebook.com/profile.php?id=61590773757629",
+    "label": "Contacter LDS Consulting sur Facebook"
+  },
+
+  "contenu": [
+    {
+      "titre": "Ce qui distingue la SA des autres formes",
+      "texte": "Contrairement à la SARL dont le capital est libre, la SA exige un capital social minimum de DIX MILLIONS D'ARIARY (10 000 000 Ar), dont au moins le quart doit être libéré à la constitution et déposé sur un compte bancaire bloqué ouvert au nom de la société en formation. Le solde est libéré dans un délai maximal de trois ans à compter de l'immatriculation. Les associés d'une SA s'appellent actionnaires, et leurs titres de participation sont des actions — et non des parts sociales. La cession d'actions est en principe libre, ce qui facilite l'entrée et la sortie d'investisseurs. Enfin, la nomination d'un commissaire aux comptes est obligatoire dès la constitution, quelle que soit la taille de la société.",
+      "definition": "Action : titre représentant une fraction du capital social d'une SA, conférant à son titulaire le droit de participer aux assemblées générales, de percevoir des dividendes, et de bénéficier d'une quote-part du boni de liquidation en cas de dissolution."
+    },
+    {
+      "titre": "Les actionnaires et leur identification",
+      "texte": "Une SA peut être constituée par au moins deux actionnaires, personnes physiques ou morales, qui peuvent ne pas se connaître personnellement. Chaque actionnaire souscrit un certain nombre d'actions lors de la constitution, ce qui est formalisé par un bulletin de souscription individuel. Pour chaque actionnaire personne physique, les statuts et le bulletin de souscription doivent mentionner : nom, prénoms, date et lieu de naissance, nationalité, adresse, numéro de CIN (ou passeport pour les étrangers), profession, nombre d'actions souscrites, montant de l'apport et fraction libérée. Pour chaque actionnaire personne morale, il faut indiquer la dénomination, la forme juridique, le siège social, le numéro d'immatriculation au RCS, et l'identité du représentant légal signataire. L'ensemble des souscriptions est récapitulé dans un état de souscription et de versement, signé par tous les actionnaires ou leur mandataire."
+    },
+    {
+      "titre": "Les deux modes d'administration",
+      "texte": "Le choix du mode de direction doit figurer explicitement dans les statuts dès la constitution. Si la SA compte moins de quatre actionnaires, elle est obligatoirement dirigée par un Administrateur Général (AG), personne physique nommée par les actionnaires, qui cumule les fonctions de direction et d'administration. Si la SA compte quatre actionnaires ou plus, elle peut opter soit pour un Administrateur Général unique, soit pour un Conseil d'Administration (CA). Le CA comprend au minimum trois membres (administrateurs). Il est présidé soit par un Président Directeur Général (PDG) qui est actionnaire et assure à la fois la présidence du CA et la direction générale, soit par un Président du Conseil d'Administration (PCA) non actionnaire qui préside le CA, et un Directeur Général (DG) séparé chargé de la gestion opérationnelle.",
+      "definition": "Commissaire aux comptes : professionnel indépendant et inscrit à l'ordre, chargé de certifier que les comptes annuels de la société sont réguliers, sincères et donnent une image fidèle de sa situation financière. Sa nomination est obligatoire dans toute SA, dès la constitution."
+    },
+    {
+      "titre": "Les documents spécifiques à la SA",
+      "texte": "La SA nécessite des documents absents du dossier SARL : (1) un bulletin de souscription individuel pour chaque actionnaire, décrivant le nombre d'actions souscrites et le montant versé ; (2) un état de souscription et de versement, récapitulant l'ensemble des souscriptions et attestant la libération du quart minimum du capital ; (3) une déclaration de souscription et de versement, établie par le notaire ou l'avocat instrumentant, certifiant que les conditions légales de constitution sont réunies ; (4) si un CA est constitué, un procès-verbal de la première réunion du Conseil d'Administration nommant le PDG ou le PCA+DG. Tous ces documents sont soumis aux droits d'enregistrement à 2 000 Ariary par document."
+    },
+    {
+      "titre": "Les frais de constitution d'une SA",
+      "texte": "Les frais propres à la SA comprennent : les droits d'enregistrement du PV d'assemblée constitutive (0,5 % du capital social, sans minimum fixé spécifiquement mais en pratique minimum 10 000 Ar) ; les droits d'enregistrement du contrat de bail commercial (2 % du loyer cumulé, minimum 10 000 Ar) ; les droits d'enregistrement à 2 000 Ariary par pièce pour les bulletins de souscription, l'état de souscription et de versement, la déclaration de souscription et de versement, les statuts, et le PV du Conseil d'Administration si applicable ; l'acompte sur impôt (IR de 100 000 à 1 000 000 Ar ou IS de 16 000 à 150 000 Ar) ; les frais d'immatriculation au RCS (16 000 Ar) ; l'attribution de la carte statistique (40 000 Ar) ; et les honoraires du commissaire aux comptes pour la première mission de certification."
+    },
+    {
+      "titre": "Les apports en nature dans une SA",
+      "texte": "Comme dans toute société, les apports en nature doivent être évalués par un commissaire aux apports désigné par décision de justice ou par accord unanime des actionnaires. Dans une SA, cette exigence est encore plus strictement appliquée qu'en SARL : tout apport en nature doit faire l'objet d'un rapport de commissaire aux apports annexé aux statuts, sans exception possible fondée sur la valeur unitaire de l'apport. La valeur retenue dans le rapport lie les actionnaires et les tiers pendant cinq ans en cas de surévaluation."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type": "statuts",
+      "mode_direction": "Conseil d'Administration avec PDG",
+      "complexite": "complet",
+      "contexte": "Quatre actionnaires — trois personnes physiques et une personne morale — constituent une SA à vocation agro-industrielle à Antananarivo. Capital : 20 000 000 Ariary, dont 5 000 000 libérés à la constitution. Direction par un Conseil d'Administration présidé par un PDG.",
+      "document": {
+        "titre_acte": "STATUTS DE LA SOCIÉTÉ ANONYME « HOVA AGRI SA »",
+        "preambule_actionnaires": {
+          "titre": "ENTRE LES SOUSSIGNÉS",
+          "actionnaires": [
+            {
+              "qualite": "Actionnaire n° 1 — Fondateur",
+              "nom": "ANDRIAMIHAJA Feno Lanto",
+              "date_naissance": "né le 8 février 1975",
+              "lieu_naissance": "à Antananarivo",
+              "nationalite": "de nationalité malgache",
+              "profession": "agriculteur-entrepreneur",
+              "domicile": "demeurant Lot IIA 102, Ambohibao, Antananarivo 101",
+              "cin": "CIN n° 101 567 890 123 délivrée le 4 mars 2005 à Antananarivo",
+              "souscription": "souscrivant 80 actions de 100 000 Ariary chacune, soit 8 000 000 Ariary, dont 2 000 000 Ariary libérés à la constitution"
+            },
+            {
+              "qualite": "Actionnaire n° 2",
+              "nom": "RASOAMAHANDRY Claudine Berthine",
+              "date_naissance": "née le 19 novembre 1980",
+              "lieu_naissance": "à Antsirabe",
+              "nationalite": "de nationalité malgache",
+              "profession": "ingénieure agronome",
+              "domicile": "demeurant Lot IIIB 45, Andrefan'Ambohijanahary, Antananarivo 101",
+              "cin": "CIN n° 204 321 654 987 délivrée le 11 juillet 2012 à Antsirabe",
+              "souscription": "souscrivant 50 actions de 100 000 Ariary chacune, soit 5 000 000 Ariary, dont 1 250 000 Ariary libérés à la constitution"
+            },
+            {
+              "qualite": "Actionnaire n° 3",
+              "nom": "RABEMANANTSOA Thierry Didier",
+              "date_naissance": "né le 27 juin 1983",
+              "lieu_naissance": "à Fianarantsoa",
+              "nationalite": "de nationalité malgache",
+              "profession": "directeur financier",
+              "domicile": "demeurant Résidence Ivandry Park, Bâtiment B, App. 12, Ivandry, Antananarivo 101",
+              "cin": "CIN n° 303 456 789 012 délivrée le 23 septembre 2008 à Fianarantsoa",
+              "souscription": "souscrivant 40 actions de 100 000 Ariary chacune, soit 4 000 000 Ariary, dont 1 000 000 Ariary libérés à la constitution"
+            },
+            {
+              "qualite": "Actionnaire n° 4 — Personne morale",
+              "nom": "DIANA CAPITAL INVEST SARL",
+              "forme": "société à responsabilité limitée au capital de 100 000 000 Ariary",
+              "siege": "dont le siège social est sis Zone Industrielle, Lot ZI 07, Antsiranana 201",
+              "rcs": "immatriculée au Registre de Commerce et des Sociétés d'Antsiranana sous le n° 2018 B 00112",
+              "representant": "représentée par son gérant, Monsieur MAHANDRY Olivier TSIAVINA, dûment habilité à cet effet",
+              "souscription": "souscrivant 30 actions de 100 000 Ariary chacune, soit 3 000 000 Ariary, dont 750 000 Ariary libérés à la constitution"
+            }
+          ],
+          "formule_convenance": "Il a été convenu et arrêté ce qui suit :"
+        },
+        "articles": [
+          {
+            "numero": 1,
+            "titre": "Forme — Mode d'administration",
+            "texte": "Il est constitué entre les soussignés et tous ceux qui pourront être ultérieurement titulaires des actions créées ci-après, une Société Anonyme régie par la loi n° 2003-036 du 30 janvier 2004 sur les sociétés commerciales et ses textes d'application, ainsi que par les présents statuts.\n\nLa société est administrée par un Conseil d'Administration, présidé par un Président Directeur Général (PDG), conformément aux dispositions du Titre IV de la loi n° 2003-036 précitée."
+          },
+          {
+            "numero": 2,
+            "titre": "Dénomination sociale",
+            "texte": "La société prend la dénomination : « HOVA AGRI SA ».\n\nTous les actes, factures, annonces, publications et autres documents émanant de la société doivent indiquer la dénomination sociale, précédée ou suivie de la mention « Société Anonyme » ou de l'abréviation « SA », et de l'indication du montant du capital social."
+          },
+          {
+            "numero": 3,
+            "titre": "Objet social",
+            "texte": "La société a pour objet, à Madagascar et à l'étranger :\n— la production, la transformation et la commercialisation de produits agricoles, maraîchers et fruitiers ;\n— la mise en place et l'exploitation d'unités agro-industrielles de conditionnement et de transformation alimentaire ;\n— le conseil et l'assistance technique en matière agronomique ;\n— l'import-export de produits agricoles et d'intrants agricoles ;\n— et, plus généralement, toutes opérations commerciales, industrielles, mobilières, immobilières ou financières se rattachant directement ou indirectement aux activités ci-dessus ou susceptibles d'en favoriser la réalisation.\nLa société peut prendre des participations dans toute entreprise ou société dont l'objet serait connexe au sien."
+          },
+          {
+            "numero": 4,
+            "titre": "Siège social",
+            "texte": "Le siège social est fixé à : Lot VA 14, Zone Industrielle Forello, Tanjombato, Antananarivo 105, Madagascar.\n\nIl pourra être transféré en tout autre lieu de Madagascar par décision du Conseil d'Administration, sous réserve de ratification par l'Assemblée Générale Ordinaire suivante."
+          },
+          {
+            "numero": 5,
+            "titre": "Durée",
+            "texte": "La durée de la société est fixée à quatre-vingt-dix-neuf (99) ans à compter du jour de son immatriculation au Registre de Commerce et des Sociétés, sauf dissolution anticipée ou prorogation décidée par l'Assemblée Générale Extraordinaire."
+          },
+          {
+            "numero": 6,
+            "titre": "Capital social — Actions",
+            "texte": "Le capital social est fixé à la somme de VINGT MILLIONS D'ARIARY (20 000 000 Ariary), divisé en deux cents (200) actions d'une valeur nominale de cent mille ariary (100 000 Ariary) chacune, toutes de même catégorie, entièrement souscrites.\n\nConformément à la loi, un quart du capital, soit cinq millions d'ariary (5 000 000 Ariary), est libéré à la constitution par versement sur un compte bancaire bloqué ouvert au nom de la société en formation. Le solde de quinze millions d'ariary (15 000 000 Ariary) sera libéré dans un délai maximum de trois (3) ans à compter de l'immatriculation au Registre de Commerce et des Sociétés, selon les modalités fixées par le Conseil d'Administration.\n\nLes actions sont réparties comme suit à la constitution :\n— ANDRIAMIHAJA Feno Lanto : 80 actions, soit 8 000 000 Ariary (2 000 000 Ar libérés) ;\n— RASOAMAHANDRY Claudine Berthine : 50 actions, soit 5 000 000 Ariary (1 250 000 Ar libérés) ;\n— RABEMANANTSOA Thierry Didier : 40 actions, soit 4 000 000 Ariary (1 000 000 Ar libérés) ;\n— DIANA CAPITAL INVEST SARL : 30 actions, soit 3 000 000 Ariary (750 000 Ar libérés).\nTotal : 200 actions représentant 20 000 000 Ariary."
+          },
+          {
+            "numero": 7,
+            "titre": "Forme des actions — Cession",
+            "texte": "Les actions sont nominatives jusqu'à leur entière libération. Elles peuvent ensuite être converties en actions au porteur si la loi l'autorise et si l'Assemblée Générale en décide ainsi. La cession d'actions nominatives s'opère par virement de compte à compte. La cession d'actions entre actionnaires est libre. La cession à des tiers extérieurs peut être soumise à une clause d'agrément adoptée par l'Assemblée Générale Extraordinaire et intégrée aux statuts par voie de modification."
+          },
+          {
+            "numero": 8,
+            "titre": "Conseil d'Administration",
+            "texte": "La société est administrée par un Conseil d'Administration composé de trois (3) à douze (12) membres, personnes physiques ou morales, actionnaires ou non, nommés par l'Assemblée Générale Ordinaire pour une durée de six (6) ans renouvelable.\n\nSont nommés administrateurs pour la durée statutaire :\n— Monsieur ANDRIAMIHAJA Feno Lanto ;\n— Madame RASOAMAHANDRY Claudine Berthine ;\n— Monsieur RABEMANANTSOA Thierry Didier.\n\nLe Conseil d'Administration se réunit au moins deux (2) fois par an sur convocation de son président. Il délibère valablement si la moitié au moins de ses membres sont présents ou représentés. Les décisions sont prises à la majorité des membres présents ou représentés ; en cas de partage, la voix du président est prépondérante.\n\nLe Conseil est investi des pouvoirs les plus étendus pour agir en toutes circonstances au nom de la société, sauf ceux que la loi réserve expressément aux assemblées générales."
+          },
+          {
+            "numero": 9,
+            "titre": "Président Directeur Général",
+            "texte": "Le Conseil d'Administration élit parmi ses membres actionnaires un Président Directeur Général (PDG), personne physique, pour une durée égale à celle de son mandat d'administrateur.\n\nEst élu PDG : Monsieur ANDRIAMIHAJA Feno Lanto.\n\nLe PDG représente la société à l'égard des tiers. Il est investi des pouvoirs les plus étendus pour agir en toutes circonstances au nom de la société, dans les limites de l'objet social et des pouvoirs que la loi réserve expressément aux assemblées générales et au Conseil d'Administration. La société est engagée par les actes du PDG, même ceux ne relevant pas de l'objet social, sauf à prouver la mauvaise foi du tiers.\n\nLe PDG peut déléguer partiellement ses pouvoirs à toute personne de son choix."
+          },
+          {
+            "numero": 10,
+            "titre": "Rémunération des administrateurs et du PDG",
+            "texte": "L'Assemblée Générale peut allouer au Conseil d'Administration une somme fixe annuelle à titre de jetons de présence, librement déterminée par elle et maintenue jusqu'à décision contraire. Le Conseil d'Administration répartit librement cette somme entre ses membres. Le PDG peut en outre recevoir une rémunération fixée par le Conseil d'Administration, distincte des jetons de présence."
+          },
+          {
+            "numero": 11,
+            "titre": "Commissaire aux comptes",
+            "texte": "Le contrôle de la société est exercé par un ou plusieurs commissaires aux comptes, titulaire(s) et suppléant(s), nommés par l'Assemblée Générale Ordinaire pour une durée de six (6) exercices.\n\nEst nommé commissaire aux comptes titulaire pour la première période : [NOM DU COMMISSAIRE AUX COMPTES], inscrit à l'ordre des experts-comptables et comptables agréés de Madagascar sous le n° [NUMÉRO D'INSCRIPTION].\n\nEst nommé commissaire aux comptes suppléant : [NOM DU SUPPLÉANT].\n\nLe commissaire aux comptes certifie que les comptes annuels sont réguliers, sincères et donnent une image fidèle du résultat de la société. Il présente son rapport à l'Assemblée Générale Ordinaire annuelle."
+          },
+          {
+            "numero": 12,
+            "titre": "Assemblées générales",
+            "texte": "Les actionnaires se réunissent en assemblée générale convoquée par le Conseil d'Administration ou, à défaut, par le commissaire aux comptes, par lettre recommandée adressée à chaque actionnaire quinze (15) jours au moins avant la réunion.\n\nChaque action donne droit à une voix. Tout actionnaire peut se faire représenter par un autre actionnaire muni d'un pouvoir écrit.\n\nL'Assemblée Générale Ordinaire (AGO) se tient au moins une fois par an dans les six (6) mois de la clôture de l'exercice. Elle statue à la majorité des voix des actionnaires présents ou représentés.\n\nL'Assemblée Générale Extraordinaire (AGE) modifie les statuts. Elle statue à la majorité des deux tiers (2/3) des actionnaires présents ou représentés, représentant au moins la moitié des actions à la première convocation."
+          },
+          {
+            "numero": 13,
+            "titre": "Exercice social",
+            "texte": "L'exercice social débute le 1er janvier et se clôture le 31 décembre de chaque année. Par exception, le premier exercice débutera à la date d'immatriculation de la société et se clôturera le 31 décembre de la même année."
+          },
+          {
+            "numero": 14,
+            "titre": "Répartition des bénéfices",
+            "texte": "Les bénéfices distribuables sont constitués des bénéfices de l'exercice diminués des pertes antérieures et des dotations aux réserves obligatoires, augmentés des reports bénéficiaires. Il est prélevé cinq pour cent (5 %) pour la constitution de la réserve légale, jusqu'à ce qu'elle ait atteint dix pour cent (10 %) du capital social. Le solde est distribué aux actionnaires au prorata du nombre d'actions détenues par chacun, ou affecté en tout ou partie à un compte de report à nouveau, sur décision de l'Assemblée Générale Ordinaire."
+          },
+          {
+            "numero": 15,
+            "titre": "Dissolution — Liquidation",
+            "texte": "La société est dissoute à l'expiration de sa durée ou par anticipation sur décision de l'Assemblée Générale Extraordinaire. La dissolution entraîne la liquidation de la société, dont la personnalité morale subsiste pour les besoins de la liquidation. Le liquidateur est nommé par l'Assemblée Générale ou, à défaut, par décision de justice."
+          },
+          {
+            "numero": 16,
+            "titre": "Formalités — Publicité",
+            "texte": "Tous pouvoirs sont donnés au PDG pour accomplir toutes les formalités de publicité et d'immatriculation prescrites par la loi, notamment l'enregistrement des présents statuts et du PV constitutif, le dépôt au greffe, l'immatriculation au Registre de Commerce et des Sociétés, et toutes publications légales requises."
+          }
+        ],
+        "conclusion_statuts": "Les présents statuts ont été rédigés en cinq (5) originaux, dont un pour être enregistré, un pour être déposé au greffe, et les autres pour être remis à chaque actionnaire.",
+        "lieu_date": "Fait à Antananarivo, le 20 juin 2026",
+        "signatures": [
+          { "nom": "ANDRIAMIHAJA Feno Lanto", "qualite": "Actionnaire fondateur" },
+          { "nom": "RASOAMAHANDRY Claudine Berthine", "qualite": "Actionnaire" },
+          { "nom": "RABEMANANTSOA Thierry Didier", "qualite": "Actionnaire" },
+          { "nom": "DIANA CAPITAL INVEST SARL", "qualite": "Actionnaire", "representant": "représentée par son gérant, Monsieur MAHANDRY Olivier TSIAVINA" }
+        ]
+      }
+    },
+
+    {
+      "id": 2,
+      "type": "bail_commercial",
+      "complexite": "complet",
+      "contexte": "Contrat de bail commercial entre le propriétaire d'un local industriel à Tanjombato et la société HOVA AGRI SA en formation, pour y établir son siège social et ses locaux d'exploitation. Durée : 5 ans. Loyer mensuel : 2 500 000 Ariary.",
+      "document": {
+        "titre_acte": "CONTRAT DE BAIL COMMERCIAL",
+        "parties": {
+          "bailleur": {
+            "qualite": "LE BAILLEUR",
+            "nom": "RAKOTONDRABE Sylvain Martial",
+            "date_naissance": "né le 12 avril 1960",
+            "lieu_naissance": "à Antananarivo",
+            "nationalite": "de nationalité malgache",
+            "domicile": "demeurant Lot II M 38, Ivandry, Antananarivo 101",
+            "cin": "CIN n° 101 234 567 890 délivrée le 3 mai 2001 à Antananarivo",
+            "qualite_bien": "propriétaire du local désigné ci-après,"
+          },
+          "preneur": {
+            "qualite": "LE PRENEUR",
+            "nom": "HOVA AGRI SA",
+            "etat": "société anonyme en cours de constitution",
+            "representant": "représentée par son PDG désigné, Monsieur ANDRIAMIHAJA Feno Lanto, agissant en vertu des statuts adoptés le 20 juin 2026,"
+          }
+        },
+        "articles": [
+          {
+            "numero": 1,
+            "titre": "Objet du bail",
+            "texte": "Le bailleur donne à bail au preneur, qui accepte, les locaux suivants :\n— Un bâtiment à usage industriel et commercial d'une superficie totale de 800 m², comprenant une surface de bureaux de 120 m², une surface d'entrepôt et d'atelier de 600 m², et des espaces communs de 80 m²,\n— Situé Lot VA 14, Zone Industrielle Forello, Tanjombato, Antananarivo 105,\n— Sur le terrain immatriculé sous le Titre Foncier n° 12 345-V, Circonscription Foncière d'Antananarivo Suburbain.\n\nLe présent bail est conclu à usage exclusivement commercial et industriel conforme à l'objet social du preneur, tel que défini dans ses statuts. Tout changement d'usage est soumis à l'accord préalable écrit du bailleur."
+          },
+          {
+            "numero": 2,
+            "titre": "Durée",
+            "texte": "Le présent bail est consenti et accepté pour une durée de cinq (5) ans, à compter du 1er juillet 2026, pour prendre fin le 30 juin 2031, sauf renouvellement exprès par accord écrit des parties.\n\nSix (6) mois avant l'échéance, chacune des parties peut notifier à l'autre par lettre recommandée avec accusé de réception son intention de ne pas renouveler le bail. À défaut de notification dans ce délai, le bail est reconduit tacitement pour une nouvelle période de cinq (5) ans aux mêmes conditions."
+          },
+          {
+            "numero": 3,
+            "titre": "Loyer",
+            "texte": "Le loyer mensuel est fixé à la somme de DEUX MILLIONS CINQ CENT MILLE ARIARY (2 500 000 Ariary), payable d'avance le premier (1er) de chaque mois, par virement bancaire ou remise de chèque au bailleur.\n\nÀ défaut de paiement à la date convenue, le loyer impayé porte intérêt de plein droit au taux légal en vigueur à Madagascar, sans mise en demeure préalable.\n\nLe loyer est révisable à l'issue de chaque période annuelle, sur accord écrit des parties, dans la limite du taux d'inflation officiel constaté par l'INSTAT pour l'année écoulée."
+          },
+          {
+            "numero": 4,
+            "titre": "Dépôt de garantie",
+            "texte": "À la signature du présent contrat, le preneur verse au bailleur un dépôt de garantie équivalent à deux (2) mois de loyer, soit la somme de CINQ MILLIONS D'ARIARY (5 000 000 Ariary).\n\nCe dépôt est restitué au preneur dans le mois suivant la restitution des locaux, déduction faite des sommes éventuellement dues au bailleur au titre de loyers impayés, charges ou dégradations constatées."
+          },
+          {
+            "numero": 5,
+            "titre": "Charges et taxes",
+            "texte": "Sont à la charge du preneur :\n— la taxe foncière applicable aux locaux loués ;\n— les consommations d'eau, d'électricité et de téléphone ;\n— les charges d'entretien courant des locaux et des équipements ;\n— toutes taxes, redevances ou contributions frappant spécifiquement l'activité exercée dans les locaux.\n\nSont à la charge du bailleur :\n— les grosses réparations portant sur le gros œuvre, la toiture et les fondations du bâtiment ;\n— les taxes et impôts fonciers liés à la propriété du terrain et du bâtiment."
+          },
+          {
+            "numero": 6,
+            "titre": "État des lieux",
+            "texte": "Un état des lieux contradictoire est établi à l'entrée du preneur dans les locaux et signé par les deux parties. Un second état des lieux est établi à la restitution des locaux. Tout dommage constaté à la restitution et non mentionné à l'état des lieux d'entrée est présumé être du fait du preneur, sauf preuve contraire."
+          },
+          {
+            "numero": 7,
+            "titre": "Obligations du preneur",
+            "texte": "Le preneur s'engage à :\n— utiliser les locaux en bon père de famille et conformément à leur destination commerciale et industrielle ;\n— ne pas effectuer de travaux de transformation structurelle sans autorisation écrite préalable du bailleur ;\n— souscrire et maintenir en vigueur une assurance couvrant sa responsabilité civile et les risques d'incendie sur les locaux ;\n— ne pas sous-louer tout ou partie des locaux ni céder le présent bail sans l'accord écrit du bailleur ;\n— restituer les locaux en bon état d'entretien à l'expiration du bail."
+          },
+          {
+            "numero": 8,
+            "titre": "Résiliation",
+            "texte": "En cas d'inexécution par le preneur de l'une quelconque de ses obligations, notamment en cas de non-paiement du loyer pendant deux (2) mois consécutifs, le bailleur peut, après mise en demeure restée infructueuse pendant quinze (15) jours, demander en justice la résiliation du présent bail aux torts et griefs du preneur, ainsi que l'expulsion de ce dernier et des occupants de son chef."
+          },
+          {
+            "numero": 9,
+            "titre": "Enregistrement",
+            "texte": "Les frais d'enregistrement du présent contrat sont à la charge du preneur. Le présent bail sera enregistré auprès des services fiscaux compétents dans le délai légal suivant sa signature, les droits d'enregistrement étant calculés au taux de 2 % du loyer cumulé sur la durée du bail, avec un minimum de 10 000 Ariary."
+          },
+          {
+            "numero": 10,
+            "titre": "Attribution de compétence",
+            "texte": "En cas de litige relatif à l'interprétation ou à l'exécution du présent contrat, les parties attribuent compétence exclusive au Tribunal compétent du ressort d'Antananarivo."
+          }
+        ],
+        "conclusion": "Le présent contrat est établi en trois (3) exemplaires originaux : un pour le bailleur, un pour le preneur, et un destiné à l'enregistrement.",
+        "lieu_date": "Fait à Antananarivo, le 20 juin 2026",
+        "signatures": [
+          { "role": "Le Bailleur", "nom": "RAKOTONDRABE Sylvain Martial" },
+          { "role": "Le Preneur — HOVA AGRI SA en formation", "nom": "ANDRIAMIHAJA Feno Lanto", "qualite": "PDG désigné" }
+        ]
+      }
+    },
+
+    {
+      "id": 3,
+      "type": "pv_constitution",
+      "complexite": "complet",
+      "contexte": "Procès-verbal de l'assemblée générale constitutive de HOVA AGRI SA. Les quatre actionnaires fondateurs se réunissent, adoptent les statuts, constatent la libération du quart du capital, nomment les administrateurs, le PDG et le commissaire aux comptes, et donnent pouvoirs pour les formalités.",
+      "document": {
+        "titre_acte": "PROCÈS-VERBAL DE L'ASSEMBLÉE GÉNÉRALE CONSTITUTIVE\nDE LA SOCIÉTÉ HOVA AGRI SA",
+        "entete": {
+          "date": "Le vingt juin deux mille vingt-six (20 juin 2026)",
+          "heure": "à neuf heures (09h00)",
+          "lieu": "Lot VA 14, Zone Industrielle Forello, Tanjombato, Antananarivo 105"
+        },
+        "presents": {
+          "titre": "ÉTAIENT PRÉSENTS",
+          "actionnaires": [
+            {
+              "nom": "ANDRIAMIHAJA Feno Lanto",
+              "details": "né le 8 février 1975 à Antananarivo, CIN n° 101 567 890 123, demeurant Lot IIA 102, Ambohibao, Antananarivo 101 — détenteur de 80 actions"
+            },
+            {
+              "nom": "RASOAMAHANDRY Claudine Berthine",
+              "details": "née le 19 novembre 1980 à Antsirabe, CIN n° 204 321 654 987, demeurant Lot IIIB 45, Andrefan'Ambohijanahary, Antananarivo 101 — détentrice de 50 actions"
+            },
+            {
+              "nom": "RABEMANANTSOA Thierry Didier",
+              "details": "né le 27 juin 1983 à Fianarantsoa, CIN n° 303 456 789 012, demeurant Résidence Ivandry Park, Bâtiment B, App. 12, Ivandry, Antananarivo 101 — détenteur de 40 actions"
+            },
+            {
+              "nom": "DIANA CAPITAL INVEST SARL",
+              "details": "sise Zone Industrielle Lot ZI 07, Antsiranana 201, RCS Antsiranana n° 2018 B 00112, représentée par son gérant Monsieur MAHANDRY Olivier TSIAVINA — détentrice de 30 actions"
+            }
+          ],
+          "constat": "Les quatre actionnaires fondateurs étant présents ou représentés, représentant la totalité des 200 actions composant le capital social, l'assemblée est régulièrement constituée et peut valablement délibérer."
+        },
+        "presidence": "Monsieur ANDRIAMIHAJA Feno Lanto assume la présidence de l'assemblée. Monsieur RABEMANANTSOA Thierry Didier est désigné secrétaire de séance.",
+        "ordre_du_jour": [
+          "Adoption des statuts de la société HOVA AGRI SA ;",
+          "Constatation de la libération du quart du capital social ;",
+          "Nomination des membres du Conseil d'Administration ;",
+          "Nomination du Président Directeur Général ;",
+          "Nomination du commissaire aux comptes titulaire et suppléant ;",
+          "Pouvoirs pour les formalités de constitution."
+        ],
+        "deliberations": [
+          {
+            "numero": 1,
+            "titre": "PREMIÈRE RÉSOLUTION — Adoption des statuts",
+            "texte": "L'assemblée générale constitutive, après examen et discussion des statuts présentés par le président de séance, les adopte dans leur intégralité.\nCes statuts comprennent seize (16) articles définissant la forme, la dénomination, l'objet, le siège, la durée, le capital, le mode de direction par Conseil d'Administration avec PDG, le contrôle, le fonctionnement et la dissolution de la société HOVA AGRI SA.",
+            "vote": "La présente résolution est adoptée à l'unanimité des actionnaires présents."
+          },
+          {
+            "numero": 2,
+            "titre": "DEUXIÈME RÉSOLUTION — Libération du quart du capital",
+            "texte": "L'assemblée générale constitutive constate que le quart du capital social, soit cinq millions d'ariary (5 000 000 Ariary) sur le total de vingt millions d'ariary (20 000 000 Ariary), a été libéré et déposé sur le compte bancaire bloqué ouvert au nom de HOVA AGRI SA en formation auprès de [NOM DE LA BANQUE], agence de [NOM DE L'AGENCE], sous le numéro de compte [NUMÉRO DE COMPTE], selon le détail suivant :\n— ANDRIAMIHAJA Feno Lanto : 2 000 000 Ariary (quart de 8 000 000 Ar) ;\n— RASOAMAHANDRY Claudine Berthine : 1 250 000 Ariary (quart de 5 000 000 Ar) ;\n— RABEMANANTSOA Thierry Didier : 1 000 000 Ariary (quart de 4 000 000 Ar) ;\n— DIANA CAPITAL INVEST SARL : 750 000 Ariary (quart de 3 000 000 Ar).\nTotal libéré : 5 000 000 Ariary, représentant exactement 25 % du capital social.\nLe solde de 15 000 000 Ariary sera appelé par le Conseil d'Administration dans un délai maximum de trois (3) ans à compter de l'immatriculation.",
+            "vote": "La présente résolution est adoptée à l'unanimité des actionnaires présents."
+          },
+          {
+            "numero": 3,
+            "titre": "TROISIÈME RÉSOLUTION — Nomination des membres du Conseil d'Administration",
+            "texte": "L'assemblée générale constitutive procède à la nomination des premiers membres du Conseil d'Administration pour une durée de six (6) ans.\n\nSont nommés administrateurs :\n1. Monsieur ANDRIAMIHAJA Feno Lanto ;\n2. Madame RASOAMAHANDRY Claudine Berthine ;\n3. Monsieur RABEMANANTSOA Thierry Didier.\n\nChacun des intéressés déclare accepter ces fonctions et n'être frappé d'aucune incompatibilité légale.",
+            "vote": "La présente résolution est adoptée à l'unanimité des actionnaires présents."
+          },
+          {
+            "numero": 4,
+            "titre": "QUATRIÈME RÉSOLUTION — Nomination du Président Directeur Général",
+            "texte": "L'assemblée générale constitutive procède à l'élection du Président Directeur Général parmi les membres du Conseil d'Administration.\n\nEst élu Président Directeur Général pour une durée égale à celle de son mandat d'administrateur : Monsieur ANDRIAMIHAJA Feno Lanto.\n\nMonsieur ANDRIAMIHAJA Feno Lanto déclare accepter ces fonctions. Il est immédiatement investi des pouvoirs les plus étendus pour agir au nom de la société et représenter celle-ci à l'égard des tiers.",
+            "vote": "La présente résolution est adoptée à l'unanimité des actionnaires présents."
+          },
+          {
+            "numero": 5,
+            "titre": "CINQUIÈME RÉSOLUTION — Nomination du commissaire aux comptes",
+            "texte": "L'assemblée générale constitutive procède à la nomination du commissaire aux comptes titulaire et du commissaire aux comptes suppléant pour une durée de six (6) exercices.\n\nEst nommé commissaire aux comptes titulaire : [NOM DU COMMISSAIRE AUX COMPTES], inscrit à l'Ordre des Experts-Comptables et Comptables Agréés de Madagascar sous le n° [NUMÉRO], domicilié professionnellement à [ADRESSE].\n\nEst nommé commissaire aux comptes suppléant : [NOM DU SUPPLÉANT], inscrit sous le n° [NUMÉRO].\n\nLes intéressés ont été consultés préalablement et ont confirmé l'absence de tout lien ou incompatibilité avec la société.",
+            "vote": "La présente résolution est adoptée à l'unanimité des actionnaires présents."
+          },
+          {
+            "numero": 6,
+            "titre": "SIXIÈME RÉSOLUTION — Pouvoirs pour les formalités",
+            "texte": "L'assemblée générale constitutive donne tous pouvoirs à Monsieur ANDRIAMIHAJA Feno Lanto, PDG, à l'effet d'accomplir toutes les formalités de constitution, notamment : enregistrement des statuts, du PV constitutif et de tous documents annexes auprès des services fiscaux ; déblocage du compte bancaire de fonds de souscription après immatriculation ; dépôt du dossier au guichet unique de l'EDBM ; immatriculation au Registre de Commerce et des Sociétés ; obtention de la carte statistique ; et toutes publications légales.",
+            "vote": "La présente résolution est adoptée à l'unanimité des actionnaires présents."
+          }
+        ],
+        "cloture": "L'ordre du jour étant épuisé et plus personne ne demandant la parole, la séance est levée à onze heures (11h00).\nLe présent procès-verbal est signé par le président de séance, le secrétaire de séance, et l'ensemble des actionnaires fondateurs.",
+        "signatures": [
+          { "role": "Le Président de séance", "nom": "ANDRIAMIHAJA Feno Lanto", "qualite": "PDG" },
+          { "role": "Le Secrétaire de séance", "nom": "RABEMANANTSOA Thierry Didier" },
+          { "role": "Actionnaire", "nom": "RASOAMAHANDRY Claudine Berthine" },
+          { "role": "Actionnaire — DIANA CAPITAL INVEST SARL", "nom": "MAHANDRY Olivier TSIAVINA", "qualite": "représentant légal" }
+        ]
+      }
+    }
+  ],
+
+  "liste_documents_dossier_sa": {
+    "titre": "Récapitulatif du dossier SA à déposer au guichet unique EDBM",
+    "documents": [
+      {
+        "numero": 1,
+        "document": "Statuts de la SA",
+        "droit_enregistrement": "2 000 Ariary",
+        "precision": "Original signé par tous les actionnaires fondateurs"
+      },
+      {
+        "numero": 2,
+        "document": "PV de l'assemblée générale constitutive",
+        "droit_enregistrement": "0,5 % du capital social",
+        "precision": "Attention : c'est le PV constitutif — et non les statuts — qui supporte le droit de 0,5 % du capital pour une SA"
+      },
+      {
+        "numero": 3,
+        "document": "Bulletin de souscription de chaque actionnaire",
+        "droit_enregistrement": "2 000 Ariary par bulletin",
+        "precision": "Un bulletin individuel par actionnaire, précisant le nombre d'actions souscrites et le montant versé"
+      },
+      {
+        "numero": 4,
+        "document": "État de souscription et de versement",
+        "droit_enregistrement": "2 000 Ariary",
+        "precision": "Tableau récapitulatif de toutes les souscriptions et versements effectués"
+      },
+      {
+        "numero": 5,
+        "document": "Déclaration de souscription et de versement",
+        "droit_enregistrement": "2 000 Ariary",
+        "precision": "Acte certifiant que les conditions légales de constitution sont réunies"
+      },
+      {
+        "numero": 6,
+        "document": "PV de la première réunion du Conseil d'Administration (si CA)",
+        "droit_enregistrement": "2 000 Ariary",
+        "precision": "Uniquement si la SA est dirigée par un CA ; non requis pour l'Administrateur Général unique"
+      },
+      {
+        "numero": 7,
+        "document": "3 photocopies légalisées de la CIN de chaque actionnaire personne physique",
+        "droit_enregistrement": "—",
+        "precision": "Pour les actionnaires étrangers : 3 photocopies légalisées du passeport ou titre de séjour"
+      },
+      {
+        "numero": 8,
+        "document": "3 photocopies légalisées de la CIN du PDG ou de l'Administrateur Général",
+        "droit_enregistrement": "—",
+        "precision": "Si le PDG est déjà actionnaire, une seule série de copies couvre les deux qualités"
+      },
+      {
+        "numero": 9,
+        "document": "2 photos d'identité récentes du PDG ou de l'Administrateur Général",
+        "droit_enregistrement": "—",
+        "precision": "Format standard, fond blanc"
+      },
+      {
+        "numero": 10,
+        "document": "Contrat de bail commercial du siège social enregistré",
+        "droit_enregistrement": "2 % du loyer cumulé sur la durée du bail, minimum 10 000 Ariary",
+        "precision": ""
+      },
+      {
+        "numero": 11,
+        "document": "Certificat de Situation Juridique (CSJ) ou titre de propriété du terrain",
+        "droit_enregistrement": "—",
+        "precision": ""
+      },
+      {
+        "numero": 12,
+        "document": "Certificat d'existence du local + Plan de repérage",
+        "droit_enregistrement": "—",
+        "precision": ""
+      },
+      {
+        "numero": 13,
+        "document": "Déclaration sur l'honneur du PDG / Administrateur Général",
+        "droit_enregistrement": "—",
+        "precision": "Attestant l'absence d'interdiction d'exercer une activité commerciale"
+      },
+      {
+        "numero": 14,
+        "document": "Autorisation préalable (activités réglementées)",
+        "droit_enregistrement": "—",
+        "precision": "Banques, assurances, microfinance, monnaie électronique : obligatoire avant toute immatriculation"
+      }
+    ]
+  },
+
+  "conseil_professionnel_pied": {
+    "message": "Vous avez du mal à rassembler votre dossier ou à rédiger vos documents constitutifs ? LDS Consulting prend en charge l'intégralité de vos démarches de création de société.",
+    "contact": "https://www.facebook.com/profile.php?id=61590773757629",
+    "label": "Contacter LDS Consulting sur Facebook"
+  },
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur RADO et Madame VOLA souhaitent créer une SA ensemble. Ils sont deux actionnaires. Lors de la rédaction des statuts, leur conseil leur propose deux options : un Administrateur Général unique, ou un Conseil d'Administration de trois membres. Monsieur RADO pense qu'ils peuvent librement choisir l'une ou l'autre option.",
+      "question": "Monsieur RADO a-t-il raison, et quelle option est adaptée à leur situation ?",
+      "choix": [
+        "Non : avec seulement deux actionnaires, la loi impose obligatoirement l'Administrateur Général unique ; le Conseil d'Administration n'est accessible qu'aux SA comptant quatre actionnaires ou plus.",
+        "Oui : le choix est libre dès la constitution, quel que soit le nombre d'actionnaires.",
+        "Non : avec deux actionnaires, une SA ne peut pas être constituée ; il leur faut au moins trois actionnaires.",
+        "Oui, mais uniquement si le Conseil d'Administration comprend au moins cinq membres extérieurs aux actionnaires."
+      ],
+      "reponse": "Non : avec seulement deux actionnaires, la loi impose obligatoirement l'Administrateur Général unique ; le Conseil d'Administration n'est accessible qu'aux SA comptant quatre actionnaires ou plus.",
+      "indices": "Le choix du mode de direction n'est pas libre dans tous les cas. À quel seuil d'actionnaires la loi malgache ouvre-t-elle l'option du Conseil d'Administration ?",
+      "explication": "La loi n° 2003-036 lie le mode de direction au nombre d'actionnaires. En dessous de quatre actionnaires, le seul mode légalement admis est l'Administrateur Général unique. Le Conseil d'Administration (avec PDG ou PCA+DG) ne devient une option qu'à partir de quatre actionnaires. Avec deux actionnaires, Monsieur RADO et Madame VOLA doivent donc nommer un Administrateur Général unique — qui peut être l'un d'eux ou un tiers — et ne peuvent pas opter pour un CA tant que leur nombre d'actionnaires ne dépasse pas le seuil légal."
+    },
+    {
+      "id": 2,
+      "scenario": "Une SA est en cours de constitution avec un capital de 20 000 000 Ariary. Les actionnaires ont versé 3 000 000 Ariary au total sur le compte bancaire bloqué, en se disant que le reste sera complété avant le dépôt du dossier à l'EDBM. Le dossier est déposé avec ce montant.",
+      "question": "Ce dépôt est-il suffisant pour que la constitution de la SA soit valide ?",
+      "choix": [
+        "Non : la loi exige que le quart au moins du capital soit libéré à la constitution, soit 5 000 000 Ariary pour un capital de 20 000 000 Ar ; 3 000 000 Ariary ne représentent que 15 % du capital et ne satisfont pas à cette exigence.",
+        "Oui : la loi n'impose pas de minimum précis, juste que les actionnaires s'engagent à libérer le reste dans les trois ans.",
+        "Oui, si tous les actionnaires signent une déclaration s'engageant à compléter le versement dans les six mois.",
+        "Non, mais seulement parce que le compte bancaire n'est pas au nom de la SA immatriculée."
+      ],
+      "reponse": "Non : la loi exige que le quart au moins du capital soit libéré à la constitution, soit 5 000 000 Ariary pour un capital de 20 000 000 Ar ; 3 000 000 Ariary ne représentent que 15 % du capital et ne satisfont pas à cette exigence.",
+      "indices": "Quelle fraction précise du capital social doit impérativement être libérée et déposée sur un compte bancaire bloqué pour que la SA puisse être constituée valablement ?",
+      "explication": "La loi malgache sur les sociétés commerciales est explicite : pour une SA, au moins le quart du capital social souscrit doit être libéré à la constitution. Sur 20 000 000 Ariary, cela représente 5 000 000 Ariary minimum. Les 3 000 000 Ariary versés ne couvrent que 15 % du capital : la condition légale n'est pas remplie et le dossier sera rejeté. Les actionnaires doivent compléter leurs versements pour atteindre au moins 5 000 000 Ariary avant le dépôt. Le compte bancaire doit en outre être ouvert spécifiquement au nom de la société en formation — un compte personnel d'actionnaire ne peut pas servir de substitut."
+    },
+    {
+      "id": 3,
+      "scenario": "Les fondateurs d'une SA ont tout préparé : statuts, PV constitutif, bulletins de souscription, bail enregistré avec CSJ et plan de repérage. Mais ils réalisent en arrivant au guichet qu'ils n'ont nommé aucun commissaire aux comptes dans leurs documents. Ils pensent que cela peut attendre la première assemblée générale ordinaire, après l'immatriculation.",
+      "question": "Peuvent-ils immatriculer la SA sans avoir nommé de commissaire aux comptes ?",
+      "choix": [
+        "Non : la nomination du commissaire aux comptes est obligatoire dès la constitution d'une SA ; elle doit figurer dans le PV constitutif et le dossier de création ne sera pas accepté sans cette désignation.",
+        "Oui : le commissaire aux comptes peut être nommé dans les six mois suivant l'immatriculation, lors de la première assemblée générale ordinaire.",
+        "Oui, mais uniquement si le capital social est inférieur à 50 000 000 Ariary.",
+        "Non, mais ils peuvent remplacer le commissaire aux comptes par un expert-comptable interne à titre provisoire."
+      ],
+      "reponse": "Non : la nomination du commissaire aux comptes est obligatoire dès la constitution d'une SA ; elle doit figurer dans le PV constitutif et le dossier de création ne sera pas accepté sans cette désignation.",
+      "indices": "La nomination du commissaire aux comptes est-elle une obligation permanente ou temporaire dans une SA ? À quel moment cette obligation prend-elle effet ?",
+      "explication": "Contrairement à la SARL où le commissaire aux comptes n'est obligatoire qu'à partir de certains seuils, la SA soumet dès sa création et sans condition de taille à l'obligation d'un commissaire aux comptes. Cette nomination doit intervenir lors de l'assemblée générale constitutive et figurer dans le procès-verbal de constitution. Sans cette désignation, le dossier est incomplet et l'immatriculation sera refusée. Le commissaire aux comptes doit par ailleurs être inscrit à l'Ordre des Experts-Comptables et Comptables Agréés de Madagascar, et ne pas se trouver en situation d'incompatibilité avec la société. Il faut donc l'identifier et obtenir son accord de principe avant de convoquer l'assemblée constitutive."
+    },
+    {
+      "id": 4,
+      "scenario": "Une SA est en cours de création pour exploiter une activité de microfinance dans la région DIANA. Les fondateurs ont réuni tous les documents habituels et souhaitent déposer leur dossier au guichet EDBM le plus vite possible pour démarrer rapidement.",
+      "question": "Peuvent-ils déposer leur dossier et obtenir l'immatriculation immédiatement ?",
+      "choix": [
+        "Non : la microfinance est une activité réglementée à Madagascar ; une autorisation préalable doit obligatoirement être obtenue auprès de l'autorité de supervision compétente avant toute immatriculation, et ce document doit figurer dans le dossier EDBM.",
+        "Oui : l'immatriculation peut se faire immédiatement, l'autorisation de microfinance pouvant être obtenue dans les trois mois suivant la création.",
+        "Oui, car la SA est la seule forme juridique qui permet de démarrer une activité réglementée sans autorisation préalable.",
+        "Non, mais uniquement parce que la région DIANA ne dispose pas d'un guichet EDBM ; ils doivent déposer à Antananarivo."
+      ],
+      "reponse": "Non : la microfinance est une activité réglementée à Madagascar ; une autorisation préalable doit obligatoirement être obtenue auprès de l'autorité de supervision compétente avant toute immatriculation, et ce document doit figurer dans le dossier EDBM.",
+      "indices": "La microfinance figure-t-elle parmi les activités réglementées à Madagascar ? Quelle condition le dossier EDBM impose-t-il pour les activités réglementées ?",
+      "explication": "La loi malgache place la microfinance parmi les activités réglementées, aux côtés des banques, assurances et établissements de monnaie électronique — et c'est précisément pour ces activités que la forme SA est obligatoire. Mais la réglementation impose également d'obtenir une autorisation préalable d'exercice délivrée par l'autorité compétente (la Commission de Supervision Bancaire et Financière — CSBF — pour la microfinance) avant de pouvoir déposer le dossier d'immatriculation. Cette autorisation doit figurer dans le dossier remis au guichet EDBM. Démarrer sans elle expose les fondateurs à des sanctions pénales et administratives, indépendamment de l'immatriculation au RCS. Le délai d'obtention de l'agrément doit donc être intégré dans la planification de la création."
+    }
+  ]
+}
