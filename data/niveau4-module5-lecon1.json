@@ -1,0 +1,378 @@
+{
+  "titre": "Créer une SARL à Madagascar — dossier complet étape par étape",
+  "module": 5,
+  "niveau": "Professionnel",
+
+  "presentation": "La Société à Responsabilité Limitée (SARL) est la forme juridique la plus répandue à Madagascar pour les projets de moyenne envergure portés par un ou plusieurs associés souhaitant limiter leurs risques financiers à leurs apports. Ce module ne reprend pas la théorie générale déjà couverte au niveau avancé : il se concentre sur la pratique professionnelle de la constitution d'une SARL, de la rédaction des statuts à la remise du dossier complet au guichet unique de l'EDBM. Deux modèles d'actes complets sont fournis — des statuts détaillés et un procès-verbal de constitution — suivis de cas pratiques axés sur les erreurs fréquentes et les situations délicates rencontrées lors des démarches réelles.",
+
+  "contenu": [
+    {
+      "titre": "Rappel : ce qu'est une SARL en droit malgache",
+      "texte": "La SARL est régie par la loi n° 2003-036 du 30 janvier 2004 sur les sociétés commerciales, complétée par ses textes d'application. Elle peut être constituée par un associé unique (SARL unipersonnelle) ou par plusieurs associés, personnes physiques ou morales. Son capital social est librement fixé par les associés, sans minimum légal. Les associés ne sont responsables des dettes sociales qu'à concurrence de leurs apports : leurs biens personnels sont protégés. La société est dirigée par un ou plusieurs gérants, obligatoirement personnes physiques, nommés dans les statuts ou par acte séparé.",
+      "definition": "Capital social : somme totale des apports effectués par les associés lors de la création ou lors d'augmentations de capital ultérieures. Il est divisé en parts sociales d'égale valeur nominale, réparties entre les associés proportionnellement à leurs apports."
+    },
+    {
+      "titre": "Les associés : identification et rôle",
+      "texte": "Avant tout, les associés doivent être clairement identifiés dans les statuts et dans le procès-verbal de constitution. Pour chaque associé personne physique, il faut mentionner : les nom, prénom(s), date et lieu de naissance, nationalité, adresse domiciliaire, numéro et date de délivrance de la Carte d'Identité Nationale (CIN) ou du passeport pour les étrangers, profession, et le montant de l'apport effectué. Pour chaque associé personne morale, il faut indiquer la dénomination sociale, la forme juridique, l'adresse du siège social, le numéro d'immatriculation au registre de commerce, et l'identité du représentant légal signataire. Chaque associé signe les statuts et le procès-verbal de constitution, soit en personne, soit par mandataire muni d'une procuration notariée."
+    },
+    {
+      "titre": "Les apports : numéraire, nature, industrie",
+      "texte": "Les apports constituent le capital social. L'apport en numéraire est une somme d'argent, versée en totalité ou partiellement lors de la constitution (le solde devant être libéré dans les délais prévus par les statuts). L'apport en nature est un bien meuble ou immeuble (matériel, véhicule, fonds de commerce, terrain, bâtiment) : il doit être évalué par un commissaire aux apports désigné par les associés ou par décision de justice, sauf si sa valeur unitaire est inférieure au seuil fixé par la loi et si les associés décident à l'unanimité de ne pas y recourir. L'apport en industrie correspond à des compétences, un savoir-faire ou une activité : il ne contribue pas à la formation du capital social mais peut donner droit à des parts sociales sans valeur nominale, selon ce que prévoient les statuts.",
+      "definition": "Commissaire aux apports : professionnel indépendant désigné pour évaluer les biens apportés en nature, afin de s'assurer que leur valorisation reflète leur valeur réelle et de protéger les associés contre une surévaluation qui gonflerait artificiellement le capital social."
+    },
+    {
+      "titre": "Les mentions obligatoires des statuts d'une SARL",
+      "texte": "Les statuts d'une SARL doivent obligatoirement contenir : (1) la forme juridique (SARL) ; (2) la dénomination sociale, qui peut être un nom fantaisie ou reprendre le nom d'un associé, suivi de la mention « SARL » ; (3) l'objet social, c'est-à-dire la description précise des activités que la société exercera ; (4) le siège social, adresse complète du lieu principal d'activité ou d'administration ; (5) le montant du capital social et sa répartition en parts sociales avec la valeur nominale de chaque part ; (6) l'identité complète de chaque associé et le nombre de parts souscrites par chacun ; (7) la durée de la société, généralement fixée à 99 ans ; (8) les modalités de gérance (identité du gérant, pouvoirs, durée du mandat) ; (9) les règles de fonctionnement des assemblées générales ; (10) les règles de cession et de transmission des parts sociales."
+    },
+    {
+      "titre": "Le dossier à constituer pour le guichet unique EDBM",
+      "texte": "Pour immatriculer une SARL au guichet unique de l'EDBM (Economic Development Board of Madagascar), le dossier doit comprendre les pièces suivantes : (1) les statuts en original signé par tous les associés, enregistrés auprès des services fiscaux (droit d'enregistrement de 0,5 % du capital social, minimum 10 000 Ariary) ; (2) le procès-verbal de l'assemblée générale constitutive (ou acte de constitution unique si associé unique) ; (3) trois photocopies légalisées de la CIN de chaque associé et du gérant (si les mêmes personnes, une seule série suffit) — les ressortissants étrangers fournissent une copie légalisée de leur passeport ou titre de séjour ; (4) deux photos d'identité récentes du gérant ; (5) le contrat de bail commercial du siège social enregistré, accompagné du Certificat de Situation Juridique (CSJ) du terrain ou titre de propriété, d'un certificat d'existence du local, et d'un plan de repérage ; (6) une déclaration sur l'honneur du gérant attestant qu'il n'est pas frappé d'interdiction d'exercer une activité commerciale ; (7) pour les activités réglementées, l'autorisation préalable délivrée par le ministère compétent. La région Analamanga permet désormais la transmission du dossier en ligne sur l'espace personnel EDBM, avec rendez-vous physique pour le paiement et le dépôt des originaux.",
+      "definition": "Certificat de Situation Juridique (CSJ) : document délivré par les services fonciers, attestant l'état juridique d'un terrain (absence d'hypothèque, de saisie, de litige en cours), requis pour tout bail commercial servant de siège à une société."
+    },
+    {
+      "titre": "Les frais à prévoir",
+      "texte": "La constitution d'une SARL entraîne plusieurs catégories de frais obligatoires : les droits d'enregistrement des statuts (0,5 % du capital social, minimum 10 000 Ariary) ; les droits d'enregistrement du contrat de bail commercial (2 % du loyer cumulé sur la durée du bail, minimum 10 000 Ariary) ; les frais d'immatriculation au registre de commerce (16 000 Ariary) ; l'attribution de la carte statistique (40 000 Ariary) ; et l'acompte sur impôt — soit l'Impôt sur le Revenu (IR) entre 100 000 et 1 000 000 Ariary selon le régime fiscal, soit l'Impôt Synthétique (IS) entre 16 000 et 150 000 Ariary. Si des apports en nature sont effectués, il faut également prévoir les honoraires du commissaire aux apports. Les honoraires d'un conseil juridique ou d'un notaire pour la rédaction des statuts s'ajoutent le cas échéant."
+    },
+    {
+      "titre": "Le procès-verbal de constitution : rôle et contenu",
+      "texte": "Le procès-verbal (PV) de constitution est le compte rendu de l'assemblée générale constitutive tenue par les associés fondateurs. Il atteste que les associés se sont réunis, ont adopté les statuts, ont procédé à la libération des apports, ont nommé le ou les gérants, et ont accompli toutes les formalités préalables à l'immatriculation. Il doit mentionner : la date, le lieu et l'heure de la réunion ; la liste des associés présents ou représentés avec les parts détenues par chacun ; le quorum constaté ; l'ordre du jour ; le texte de chaque résolution soumise au vote ; les résultats du vote sur chaque résolution ; et la signature de tous les associés présents. Le PV de constitution est distinct des statuts mais lui est intimement lié : ensemble, ces deux documents constituent le socle juridique de la société."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type": "statuts",
+      "variante": "pluripersonnelle",
+      "complexite": "complet",
+      "contexte": "Trois associés — deux personnes physiques et une personne morale — créent une SARL de négoce et d'import-export à Antananarivo. Le capital est de 10 000 000 Ariary, libéré en numéraire à la constitution. Le gérant est l'un des associés personnes physiques.",
+      "document": {
+        "titre_acte": "STATUTS DE LA SOCIÉTÉ À RESPONSABILITÉ LIMITÉE « TSENA TSARA SARL »",
+        "preambule_associes": {
+          "titre": "ENTRE LES SOUSSIGNÉS",
+          "associes": [
+            {
+              "qualite": "Associé n° 1",
+              "nom": "RAKOTO Jean Aimé",
+              "date_naissance": "né le 15 mars 1982",
+              "lieu_naissance": "à Antananarivo",
+              "nationalite": "de nationalité malgache",
+              "profession": "commerçant",
+              "domicile": "demeurant Lot IIA 47, Ankadivato, Antananarivo 101",
+              "cin": "CIN n° 101 230 456 789 délivrée le 12 janvier 2010 à Antananarivo",
+              "apport": "apportant la somme de 5 000 000 Ariary en numéraire, soit 50 parts sociales"
+            },
+            {
+              "qualite": "Associé n° 2",
+              "nom": "RANDRIA Voahangy Sitraka",
+              "date_naissance": "née le 3 juillet 1988",
+              "lieu_naissance": "à Fianarantsoa",
+              "nationalite": "de nationalité malgache",
+              "profession": "gestionnaire",
+              "domicile": "demeurant Lot IIIB 12, Tsaralalàna, Antananarivo 101",
+              "cin": "CIN n° 303 112 678 234 délivrée le 20 juin 2015 à Fianarantsoa",
+              "apport": "apportant la somme de 3 000 000 Ariary en numéraire, soit 30 parts sociales"
+            },
+            {
+              "qualite": "Associé n° 3",
+              "nom": "MIRAIKA INVEST SARL",
+              "forme": "société à responsabilité limitée au capital de 50 000 000 Ariary",
+              "siege": "dont le siège social est sis Lot VB 88, Analakely, Antananarivo 101",
+              "rcs": "immatriculée au Registre de Commerce et des Sociétés d'Antananarivo sous le n° 2019 B 00345",
+              "representant": "représentée par son gérant, Monsieur ANDRY Pascal RAFARALAHY, dûment habilité à cet effet",
+              "apport": "apportant la somme de 2 000 000 Ariary en numéraire, soit 20 parts sociales"
+            }
+          ],
+          "formule_convenance": "Il a été convenu et arrêté ce qui suit :"
+        },
+        "articles": [
+          {
+            "numero": 1,
+            "titre": "Forme",
+            "texte": "Il est constitué entre les soussignés et tous ceux qui pourront être ultérieurement propriétaires de parts sociales créées ci-après, une Société à Responsabilité Limitée qui sera régie par la loi n° 2003-036 du 30 janvier 2004 sur les sociétés commerciales et ses textes d'application, ainsi que par les présents statuts."
+          },
+          {
+            "numero": 2,
+            "titre": "Dénomination sociale",
+            "texte": "La société prend la dénomination : « TSENA TSARA SARL ». Tous les actes, factures, annonces, publications et autres documents émanant de la société doivent indiquer la dénomination sociale, précédée ou suivie immédiatement de la mention « Société à Responsabilité Limitée » ou de l'abréviation « SARL », et de l'indication du montant du capital social."
+          },
+          {
+            "numero": 3,
+            "titre": "Objet social",
+            "texte": "La société a pour objet, à Madagascar et à l'étranger :\n— le négoce en gros et au détail de produits alimentaires, de biens de consommation courante et de matériaux ;\n— l'import-export de marchandises de toute nature dans le respect des réglementations en vigueur ;\n— toutes opérations de commissionnement, de représentation commerciale et d'intermédiation ;\n— et, plus généralement, toutes opérations commerciales, industrielles, mobilières ou immobilières se rattachant directement ou indirectement aux activités ci-dessus ou susceptibles d'en favoriser l'accomplissement.\nLa société peut prendre des participations dans toute société ou entreprise dont l'activité serait de nature à se rattacher à son objet ou à le compléter."
+          },
+          {
+            "numero": 4,
+            "titre": "Siège social",
+            "texte": "Le siège social est fixé à : Lot IVA 23, Analakely, Antananarivo 101, Madagascar.\nIl pourra être transféré en tout autre endroit par simple décision du gérant, sous réserve de ratification par les associés lors de la prochaine assemblée générale."
+          },
+          {
+            "numero": 5,
+            "titre": "Durée",
+            "texte": "La durée de la société est fixée à quatre-vingt-dix-neuf (99) ans à compter du jour de son immatriculation au Registre de Commerce et des Sociétés, sauf dissolution anticipée ou prorogation."
+          },
+          {
+            "numero": 6,
+            "titre": "Capital social",
+            "texte": "Le capital social est fixé à la somme de DIX MILLIONS D'ARIARY (10 000 000 Ariary), divisé en cent (100) parts sociales d'une valeur nominale de cent mille ariary (100 000 Ariary) chacune, entièrement souscrites et libérées en numéraire à la constitution, ainsi qu'il suit :\n— Monsieur RAKOTO Jean Aimé : 50 parts sociales, soit 5 000 000 Ariary ;\n— Madame RANDRIA Voahangy Sitraka : 30 parts sociales, soit 3 000 000 Ariary ;\n— MIRAIKA INVEST SARL : 20 parts sociales, soit 2 000 000 Ariary.\nTotal : 100 parts sociales, représentant 10 000 000 Ariary."
+          },
+          {
+            "numero": 7,
+            "titre": "Parts sociales — Indivisibilité",
+            "texte": "Les parts sociales sont indivisibles à l'égard de la société. Les copropriétaires indivis d'une ou plusieurs parts sociales sont tenus de se faire représenter auprès de la société par l'un d'eux ou par un mandataire commun. En cas de désaccord, le mandataire est désigné par ordonnance du président du tribunal compétent statuant en référé, à la demande du copropriétaire le plus diligent."
+          },
+          {
+            "numero": 8,
+            "titre": "Cession et transmission des parts sociales",
+            "texte": "Les parts sociales sont librement cessibles entre associés. La cession à des tiers étrangers à la société est soumise à l'agrément préalable de la majorité des associés représentant au moins les trois quarts (3/4) des parts sociales. Tout projet de cession doit être notifié à la société et à chacun des associés par acte extrajudiciaire ou par lettre recommandée avec accusé de réception. Les associés disposent d'un délai de trente (30) jours à compter de cette notification pour se prononcer. En cas de refus d'agrément, les associés sont tenus, dans un délai de trois (3) mois, soit d'acquérir ou de faire acquérir les parts au prix fixé par expert, soit de décider la réduction du capital par rachat des parts concernées."
+          },
+          {
+            "numero": 9,
+            "titre": "Gérance",
+            "texte": "La société est gérée et administrée par un ou plusieurs gérants, personnes physiques, associés ou non, nommés par les associés.\n\nEst nommé gérant, pour une durée de quatre (4) ans renouvelable : Monsieur RAKOTO Jean Aimé, associé, dont l'identité est précisée à l'article 6 ci-dessus.\n\nLe gérant est investi des pouvoirs les plus étendus pour agir en toutes circonstances au nom de la société dans les limites de l'objet social. Il représente la société à l'égard des tiers. Il peut déléguer tout ou partie de ses pouvoirs à tout mandataire de son choix, associé ou non.\n\nLe gérant peut être révoqué par décision des associés représentant plus de la moitié des parts sociales. La révocation sans juste motif peut donner lieu à des dommages et intérêts."
+          },
+          {
+            "numero": 10,
+            "titre": "Rémunération du gérant",
+            "texte": "Le gérant peut recevoir une rémunération fixée par décision collective des associés, distincte de sa part dans les bénéfices s'il est associé. Cette rémunération peut être modifiée à tout moment par décision ordinaire des associés."
+          },
+          {
+            "numero": 11,
+            "titre": "Assemblées générales",
+            "texte": "Les décisions collectives des associés sont prises en assemblée générale ou, si les statuts le permettent, par voie de consultation écrite. Chaque associé dispose d'un nombre de voix égal au nombre de parts sociales qu'il détient.\n\nLes décisions ordinaires (approbation des comptes, nomination et révocation du gérant, affectation des résultats) sont prises à la majorité simple des parts représentées. Les décisions extraordinaires (modification des statuts, augmentation ou réduction du capital, dissolution anticipée) sont prises à la majorité des associés représentant au moins les trois quarts (3/4) des parts sociales.\n\nL'assemblée générale ordinaire se réunit au moins une fois par an, dans les six (6) mois de la clôture de l'exercice social, sur convocation du gérant adressée à chaque associé quinze (15) jours au moins avant la réunion."
+          },
+          {
+            "numero": 12,
+            "titre": "Exercice social",
+            "texte": "L'exercice social débute le 1er janvier et se clôture le 31 décembre de chaque année. Par exception, le premier exercice débutera à la date d'immatriculation de la société au Registre de Commerce et des Sociétés et se clôturera le 31 décembre de la même année."
+          },
+          {
+            "numero": 13,
+            "titre": "Répartition des bénéfices",
+            "texte": "Les bénéfices distribuables sont constitués par les bénéfices de l'exercice diminués des pertes antérieures et des sommes à porter en réserve, augmentés des bénéfices reportés. Sur ces bénéfices, il est prélevé cinq pour cent (5 %) pour la constitution de la réserve légale, jusqu'à ce que celle-ci ait atteint dix pour cent (10 %) du capital social. Le solde est réparti entre les associés proportionnellement au nombre de parts sociales détenues par chacun."
+          },
+          {
+            "numero": 14,
+            "titre": "Dissolution — Liquidation",
+            "texte": "La société est dissoute à l'expiration de sa durée, ou par anticipation sur décision des associés statuant à la majorité requise pour les décisions extraordinaires. La dissolution entraîne la liquidation de la société. Le liquidateur est désigné par les associés ou, à défaut, par décision de justice. La personnalité morale de la société subsiste pour les besoins de la liquidation jusqu'à la clôture de celle-ci."
+          },
+          {
+            "numero": 15,
+            "titre": "Litiges — Attribution de compétence",
+            "texte": "Tous les litiges pouvant s'élever entre les associés concernant les affaires sociales, l'interprétation ou l'exécution des présents statuts, seront soumis aux tribunaux compétents du lieu du siège social, nonobstant pluralité de défendeurs ou appel en garantie."
+          },
+          {
+            "numero": 16,
+            "titre": "Publicité — Formalités",
+            "texte": "Tous pouvoirs sont donnés au gérant à l'effet d'accomplir les formalités de publicité prescrites par la loi, notamment l'enregistrement des présents statuts, le dépôt au greffe du tribunal de commerce, l'immatriculation au Registre de Commerce et des Sociétés, et les publications légales requises."
+          }
+        ],
+        "conclusion_statuts": "Les présents statuts ont été rédigés en trois (3) originaux, dont un pour être enregistré, un pour être déposé au greffe, et un pour être conservé au siège social.",
+        "lieu_date": "Fait à Antananarivo, le 15 mai 2026",
+        "signatures": [
+          { "nom": "RAKOTO Jean Aimé", "qualite": "Associé" },
+          { "nom": "RANDRIA Voahangy Sitraka", "qualite": "Associée" },
+          { "nom": "MIRAIKA INVEST SARL", "qualite": "Associé", "representant": "représentée par son gérant, Monsieur ANDRY Pascal RAFARALAHY" }
+        ]
+      }
+    },
+
+    {
+      "id": 2,
+      "type": "pv_constitution",
+      "variante": "pluripersonnelle",
+      "complexite": "complet",
+      "contexte": "Procès-verbal de l'assemblée générale constitutive de la SARL TSENA TSARA, réunissant les trois associés fondateurs. L'assemblée adopte les statuts, constate la libération des apports, nomme le gérant et donne tous pouvoirs pour les formalités.",
+      "document": {
+        "titre_acte": "PROCÈS-VERBAL DE L'ASSEMBLÉE GÉNÉRALE CONSTITUTIVE\nDE LA SOCIÉTÉ TSENA TSARA SARL",
+        "entete": {
+          "date": "Le quinze mai deux mille vingt-six (15 mai 2026)",
+          "heure": "à dix heures (10h00)",
+          "lieu": "Lot IVA 23, Analakely, Antananarivo 101"
+        },
+        "presents": {
+          "titre": "ÉTAIENT PRÉSENTS",
+          "associes": [
+            {
+              "nom": "RAKOTO Jean Aimé",
+              "details": "né le 15 mars 1982 à Antananarivo, de nationalité malgache, CIN n° 101 230 456 789, demeurant Lot IIA 47, Ankadivato, Antananarivo 101, détenteur de 50 parts sociales"
+            },
+            {
+              "nom": "RANDRIA Voahangy Sitraka",
+              "details": "née le 3 juillet 1988 à Fianarantsoa, de nationalité malgache, CIN n° 303 112 678 234, demeurant Lot IIIB 12, Tsaralalàna, Antananarivo 101, détentrice de 30 parts sociales"
+            },
+            {
+              "nom": "MIRAIKA INVEST SARL",
+              "details": "société à responsabilité limitée au capital de 50 000 000 Ariary, sise Lot VB 88, Analakely, Antananarivo 101, RCS Antananarivo n° 2019 B 00345, représentée par son gérant Monsieur ANDRY Pascal RAFARALAHY, détentrice de 20 parts sociales"
+            }
+          ],
+          "constat": "Les trois associés fondateurs étant présents ou représentés, représentant la totalité des 100 parts sociales composant le capital social, l'assemblée est régulièrement constituée et peut valablement délibérer."
+        },
+        "presidence": "Monsieur RAKOTO Jean Aimé assume la présidence de l'assemblée. Madame RANDRIA Voahangy Sitraka est désignée secrétaire de séance.",
+        "ordre_du_jour": [
+          "Adoption des statuts de la société TSENA TSARA SARL ;",
+          "Constatation de la libération intégrale du capital social ;",
+          "Nomination du gérant ;",
+          "Pouvoirs pour les formalités de constitution."
+        ],
+        "deliberations": [
+          {
+            "numero": 1,
+            "titre": "PREMIÈRE RÉSOLUTION — Adoption des statuts",
+            "texte": "L'assemblée générale constitutive, après lecture et examen des statuts présentés par le président de séance, les adopte dans leur intégralité.\nCes statuts comprennent seize (16) articles régissant la forme, la dénomination, l'objet, le siège, la durée, le capital, le fonctionnement et la dissolution de la société TSENA TSARA SARL.",
+            "vote": "La présente résolution est adoptée à l'unanimité des associés présents."
+          },
+          {
+            "numero": 2,
+            "titre": "DEUXIÈME RÉSOLUTION — Constatation de la libération du capital",
+            "texte": "L'assemblée générale constitutive constate que le capital social de DIX MILLIONS D'ARIARY (10 000 000 Ariary), divisé en cent (100) parts sociales de cent mille ariary (100 000 Ariary) chacune, a été intégralement libéré en numéraire à ce jour, ainsi qu'il suit :\n— Monsieur RAKOTO Jean Aimé : versement de 5 000 000 Ariary contre remise de 50 parts sociales ;\n— Madame RANDRIA Voahangy Sitraka : versement de 3 000 000 Ariary contre remise de 30 parts sociales ;\n— MIRAIKA INVEST SARL : versement de 2 000 000 Ariary contre remise de 20 parts sociales.\nLes fonds correspondants ont été déposés au compte bancaire ouvert au nom de la société en formation auprès de [NOM DE LA BANQUE], dont les coordonnées seront jointes en annexe.",
+            "vote": "La présente résolution est adoptée à l'unanimité des associés présents."
+          },
+          {
+            "numero": 3,
+            "titre": "TROISIÈME RÉSOLUTION — Nomination du gérant",
+            "texte": "L'assemblée générale constitutive procède à la nomination du premier gérant de la société.\nEst nommé gérant, pour une durée de quatre (4) ans à compter de la date d'immatriculation de la société au Registre de Commerce et des Sociétés : Monsieur RAKOTO Jean Aimé, associé, né le 15 mars 1982 à Antananarivo, CIN n° 101 230 456 789, demeurant Lot IIA 47, Ankadivato, Antananarivo 101.\nMonsieur RAKOTO Jean Aimé, présent, déclare accepter ces fonctions et ne pas être frappé d'aucune interdiction d'exercer.",
+            "vote": "La présente résolution est adoptée à l'unanimité des associés présents."
+          },
+          {
+            "numero": 4,
+            "titre": "QUATRIÈME RÉSOLUTION — Pouvoirs pour les formalités",
+            "texte": "L'assemblée générale constitutive donne tous pouvoirs à Monsieur RAKOTO Jean Aimé, gérant, à l'effet d'accomplir toutes les formalités de constitution de la société, et notamment : procéder à l'enregistrement des statuts auprès des services fiscaux compétents ; déposer le dossier au guichet unique de l'EDBM ; signer tous documents, formulaires et demandes nécessaires à l'immatriculation au Registre de Commerce et des Sociétés et à l'obtention de la carte statistique ; et, généralement, accomplir tout acte ou formalité que la loi rend nécessaire pour donner existence légale à la société.",
+            "vote": "La présente résolution est adoptée à l'unanimité des associés présents."
+          }
+        ],
+        "cloture": "L'ordre du jour étant épuisé et plus personne ne demandant la parole, la séance est levée à onze heures trente (11h30).\nLe présent procès-verbal, après lecture, est signé par le président de séance et la secrétaire.",
+        "signatures": [
+          { "role": "Le Président de séance", "nom": "RAKOTO Jean Aimé" },
+          { "role": "La Secrétaire de séance", "nom": "RANDRIA Voahangy Sitraka" },
+          { "role": "Associé — MIRAIKA INVEST SARL", "nom": "ANDRY Pascal RAFARALAHY", "qualite": "en qualité de représentant légal" }
+        ]
+      }
+    }
+  ],
+
+  "liste_documents_dossier": {
+    "titre": "Récapitulatif du dossier à déposer au guichet unique EDBM",
+    "documents": [
+      {
+        "numero": 1,
+        "document": "Statuts de la société",
+        "precision": "Original signé par tous les associés, enregistré auprès des impôts (droit : 0,5 % du capital, minimum 10 000 Ar)"
+      },
+      {
+        "numero": 2,
+        "document": "Procès-verbal de l'assemblée générale constitutive",
+        "precision": "Original signé par les associés présents et le secrétaire de séance"
+      },
+      {
+        "numero": 3,
+        "document": "3 photocopies légalisées de la CIN de chaque associé personne physique",
+        "precision": "Légalisation par les autorités compétentes (fokontany, mairie ou notaire) ; pour les associés étrangers : 3 photocopies légalisées du passeport ou titre de séjour en cours de validité"
+      },
+      {
+        "numero": 4,
+        "document": "3 photocopies légalisées de la CIN du gérant",
+        "precision": "Si le gérant est déjà compté parmi les associés, la même série de copies peut couvrir les deux qualités"
+      },
+      {
+        "numero": 5,
+        "document": "2 photos d'identité récentes du gérant",
+        "precision": "Format standard, fond blanc"
+      },
+      {
+        "numero": 6,
+        "document": "Contrat de bail commercial du siège social",
+        "precision": "Enregistré aux impôts (droit : 2 % du loyer cumulé, minimum 10 000 Ar)"
+      },
+      {
+        "numero": 7,
+        "document": "Certificat de Situation Juridique (CSJ) du terrain abritant le siège social",
+        "precision": "Ou titre de propriété / certificat de propriété du local"
+      },
+      {
+        "numero": 8,
+        "document": "Certificat d'existence du local",
+        "precision": "Délivré par les autorités locales compétentes"
+      },
+      {
+        "numero": 9,
+        "document": "Plan de repérage du siège social",
+        "precision": "Schéma ou plan permettant de localiser le local"
+      },
+      {
+        "numero": 10,
+        "document": "Déclaration sur l'honneur du gérant",
+        "precision": "Attestant qu'il n'est frappé d'aucune interdiction d'exercer une activité commerciale"
+      },
+      {
+        "numero": 11,
+        "document": "Autorisation préalable d'exercice (si activité réglementée)",
+        "precision": "Délivrée par le ministère sectoriel compétent (pêche, tourisme, transport, pharmacie, etc.)"
+      },
+      {
+        "numero": 12,
+        "document": "Rapport du commissaire aux apports (si apport en nature)",
+        "precision": "Requis lorsque des biens autres que des fonds ont été apportés au capital"
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur RASOA souhaite créer une SARL avec deux amis. Les trois associés ont rédigé leurs statuts et préparé leur dossier. Mais en arrivant au guichet unique, l'agent EDBM refuse le dossier car il manque un document pour le siège social : le bail est bien présent et enregistré, le plan de repérage aussi, mais aucun Certificat de Situation Juridique ni titre de propriété n'a été fourni pour le terrain.",
+      "question": "Le refus de l'EDBM est-il fondé, et que doit faire Monsieur RASOA ?",
+      "choix": [
+        "Oui, le refus est fondé : le CSJ ou le titre de propriété est une pièce obligatoire du dossier de siège social ; Monsieur RASOA doit l'obtenir auprès des services fonciers compétents avant de redéposer.",
+        "Non, le refus est abusif : un contrat de bail enregistré et un plan de repérage suffisent à justifier le siège social d'une SARL.",
+        "Le refus est fondé, mais Monsieur RASOA peut remplacer le CSJ par une simple attestation du propriétaire du local certifiant l'absence de litige.",
+        "Oui, mais seulement si la valeur du terrain dépasse un certain seuil ; en dessous, le CSJ n'est pas requis."
+      ],
+      "reponse": "Oui, le refus est fondé : le CSJ ou le titre de propriété est une pièce obligatoire du dossier de siège social ; Monsieur RASOA doit l'obtenir auprès des services fonciers compétents avant de redéposer.",
+      "indices": "Consultez la liste des pièces exigées pour valider le siège social. Le bail seul ne suffit pas : il doit être accompagné de pièces attestant la situation juridique du terrain sous-jacent.",
+      "explication": "Le bail commercial établit la relation locative entre le bailleur et la société, mais il ne renseigne pas sur l'état juridique du terrain lui-même. Le Certificat de Situation Juridique (CSJ) ou le titre de propriété est requis pour s'assurer que le local n'est pas grevé d'une hypothèque, d'une saisie ou d'un litige susceptible d'affecter l'usage du siège social. Ce document est obtenu auprès des services fonciers. Une attestation du propriétaire ne le remplace pas dans la procédure EDBM. Monsieur RASOA doit se rapprocher du propriétaire pour obtenir cette pièce avant de redéposer."
+    },
+    {
+      "id": 2,
+      "scenario": "Madame VERO et son associé Monsieur TIANA créent une SARL. Madame VERO apporte 8 000 000 Ariary en numéraire. Monsieur TIANA, lui, apporte un véhicule utilitaire estimé à 12 000 000 Ariary par les deux associés eux-mêmes, sans intervention d'un commissaire aux apports. Les statuts mentionnent un capital de 20 000 000 Ariary. Lors de la vérification du dossier, l'agent EDBM signale que cet apport en nature n'est pas conforme.",
+      "question": "Quel est le problème exact et comment y remédier ?",
+      "choix": [
+        "L'apport en nature d'un véhicule doit être évalué par un commissaire aux apports indépendant ; les associés ne peuvent pas procéder eux-mêmes à cette évaluation ; il faut faire désigner un commissaire aux apports et obtenir son rapport avant de finaliser les statuts.",
+        "Le problème est que le véhicule ne peut pas constituer un apport en nature dans une SARL : seuls les apports en numéraire sont autorisés.",
+        "L'évaluation par les associés est valide si elle est faite à l'unanimité ; il manque simplement une attestation d'accord signée par les deux associés.",
+        "Le problème est que la valeur du véhicule dépasse celle de l'apport en numéraire, ce qui est interdit par la loi malgache sur les sociétés."
+      ],
+      "reponse": "L'apport en nature d'un véhicule doit être évalué par un commissaire aux apports indépendant ; les associés ne peuvent pas procéder eux-mêmes à cette évaluation ; il faut faire désigner un commissaire aux apports et obtenir son rapport avant de finaliser les statuts.",
+      "indices": "Qui a le droit d'évaluer les apports en nature dans une SARL ? Les associés ont-ils toujours le droit de se passer d'un commissaire aux apports ?",
+      "explication": "La loi n° 2003-036 prévoit que les apports en nature dans une SARL doivent être évalués par un commissaire aux apports, sauf si les associés décident à l'unanimité de ne pas y recourir et que la valeur d'aucun apport en nature ne dépasse un seuil légal. En cas de surévaluation, les associés sont solidairement responsables envers les tiers pendant cinq ans. Ici, le véhicule vaut 12 000 000 Ariary : il est prudent et recommandé de ne pas se passer d'un commissaire. Il faut donc faire désigner ce professionnel — par accord entre associés ou par décision du tribunal — obtenir son rapport d'évaluation, et l'annexer aux statuts avant tout dépôt. Le cas illustre pourquoi les apports en nature complexifient la constitution et nécessitent une anticipation."
+    },
+    {
+      "id": 3,
+      "scenario": "Trois associés créent une SARL. Dans la précipitation, leur PV de constitution ne comporte que les signatures de deux d'entre eux : le troisième, absent le jour de la réunion, a accepté verbalement mais ne peut pas venir signer avant plusieurs semaines car il est en déplacement à l'étranger. Le gérant dépose le dossier tel quel, pensant rattraper la situation après l'immatriculation.",
+      "question": "Quelle est la conséquence de ce dépôt et quelle est la bonne marche à suivre ?",
+      "choix": [
+        "Le dossier sera rejeté ou l'immatriculation pourra être contestée : tous les associés présents doivent signer le PV de constitution ; il faut attendre le retour du troisième associé ou lui faire signer le PV par procuration notariée avant le dépôt.",
+        "Le dossier peut être déposé sans la troisième signature, qui peut être recueillie dans les trente jours suivant l'immatriculation.",
+        "L'absence d'une signature sur le PV est un simple vice de forme qui n'affecte pas la validité de la SARL une fois immatriculée.",
+        "Il suffit que le gérant signe en lieu et place du troisième associé, en précisant qu'il agit par délégation verbale."
+      ],
+      "reponse": "Le dossier sera rejeté ou l'immatriculation pourra être contestée : tous les associés présents doivent signer le PV de constitution ; il faut attendre le retour du troisième associé ou lui faire signer le PV par procuration notariée avant le dépôt.",
+      "indices": "Le PV de constitution est un acte fondateur de la société. Que signifie l'absence de signature d'un associé ? Existe-t-il un mécanisme pour qu'un associé absent puisse quand même participer à la constitution ?",
+      "explication": "Le procès-verbal de constitution engage tous les associés fondateurs et formalise leur accord sur les statuts, les apports et la gérance. L'absence de la signature d'un associé crée un vice dans l'acte constitutif : elle peut remettre en cause la validité des délibérations et exposer la société à une contestation ultérieure. La solution pratique est la procuration notariée : l'associé absent peut mandater un tiers de confiance pour le représenter à l'assemblée constitutive, à condition que ce mandat soit établi par acte authentique ou sous seing privé dûment légalisé. Signer « par délégation verbale » n'a aucune valeur juridique. Il vaut mieux retarder le dépôt quelques semaines plutôt que d'exposer la société à un risque d'annulation."
+    },
+    {
+      "id": 4,
+      "scenario": "Monsieur DINA crée seul une SARL (SARL unipersonnelle) avec un capital de 500 000 Ariary, uniquement en numéraire. Il se demande si ce montant est suffisant pour créer une SARL valide à Madagascar, et s'il a besoin d'un commissaire aux comptes dès la constitution.",
+      "question": "Un capital de 500 000 Ariary est-il valide pour une SARL à Madagascar, et un commissaire aux comptes est-il obligatoire dès la création ?",
+      "choix": [
+        "Oui, 500 000 Ariary est un capital valide car il n'existe pas de minimum légal pour le capital d'une SARL à Madagascar ; un commissaire aux comptes n'est pas obligatoire à la constitution pour une SARL unipersonnelle de cette taille.",
+        "Non, la SARL exige un capital minimum de 5 000 000 Ariary à Madagascar ; Monsieur DINA doit revoir son capital à la hausse.",
+        "Oui, mais un commissaire aux comptes est obligatoire dès la constitution pour toute SARL, quelle que soit sa taille.",
+        "Non, la SARL unipersonnelle (un seul associé) n'est pas reconnue par le droit malgache ; Monsieur DINA doit trouver au moins un associé supplémentaire."
+      ],
+      "reponse": "Oui, 500 000 Ariary est un capital valide car il n'existe pas de minimum légal pour le capital d'une SARL à Madagascar ; un commissaire aux comptes n'est pas obligatoire à la constitution pour une SARL unipersonnelle de cette taille.",
+      "indices": "Rappelez-vous ce que la loi n° 2003-036 prévoit sur le capital minimum d'une SARL et sur la SARL unipersonnelle. Ne confondez pas capital minimum et capital recommandé par les praticiens.",
+      "explication": "La loi malgache sur les sociétés commerciales ne fixe aucun minimum légal pour le capital d'une SARL : les associés le fixent librement en fonction de leurs besoins. Un capital de 500 000 Ariary est donc parfaitement valide sur le plan juridique, même si les praticiens recommandent souvent un capital plus élevé pour assurer la crédibilité de la société auprès des partenaires et des banques. La SARL unipersonnelle (un seul associé) est expressément prévue par la loi. Le commissaire aux comptes n'est pas une obligation légale systématique à la constitution : il peut devenir obligatoire selon la taille de la société ou les dispositions statutaires — les seuils applicables sont définis par la loi, et une petite SARL en phase de démarrage n'y est généralement pas soumise d'emblée."
+    }
+  ]
+}
