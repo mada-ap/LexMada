@@ -1,0 +1,395 @@
+{
+  "titre": "Rédiger un contrat de travail à Madagascar",
+  "module": 4,
+  "niveau": "Professionnel",
+
+  "presentation": "Le contrat de travail est l'acte fondateur de toute relation entre un employeur et un salarié. À Madagascar, il est régi par la Loi n° 2024-014 portant Code du travail, promulguée le 14 août 2024, qui a profondément modernisé le droit social malgache. Mal rédigé, un contrat de travail expose l'employeur à des requalifications coûteuses, et prive le salarié de la protection que la loi lui garantit. Ce module explique les différents types de contrats de travail reconnus à Madagascar, les mentions obligatoires, les règles de période d'essai, les modes de rupture et leurs conséquences — avec quatre modèles réels, du plus simple au plus complet, et quatre cas pratiques tirés de situations concrètes.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'un contrat de travail ?",
+      "texte": "Le contrat de travail est un accord entre deux parties — l'employeur et le travailleur — par lequel le travailleur s'engage à fournir une prestation de travail sous l'autorité et la direction de l'employeur, en échange d'une rémunération. La subordination juridique — c'est-à-dire le fait que le travailleur exécute ses tâches sous les ordres et le contrôle de l'employeur — est l'élément qui distingue le contrat de travail du contrat de prestation de services indépendant. À Madagascar, le contrat de travail peut être prouvé par tout moyen en l'absence d'écrit, mais certains types de contrats — notamment le CDD et le contrat d'essai — doivent impérativement être établis par écrit sous peine de requalification. Le contrat est rédigé en malgache et/ou en français, établi en deux originaux, l'un remis à l'employeur, l'autre immédiatement au travailleur après signature. Il est exonéré de tout droit de timbre et frais d'enregistrement.",
+      "definition": "Lien de subordination : élément caractéristique du contrat de travail, par lequel le travailleur accomplit sa prestation sous l'autorité de l'employeur, qui lui donne des instructions, en contrôle l'exécution et peut en sanctionner les manquements."
+    },
+    {
+      "titre": "Les mentions obligatoires du contrat de travail",
+      "texte": "Quel que soit son type, tout contrat de travail doit mentionner au minimum : la fonction occupée par le travailleur ; sa catégorie professionnelle ; l'indice minimum de classification correspondant à cette catégorie ; le salaire convenu ; et la date de prise d'effet du contrat. Pour les CDD, l'écrit doit également préciser le terme du contrat ou l'événement qui y met fin. Pour le contrat d'essai, l'écrit doit préciser le poste, la durée de l'essai, le salaire, la catégorie professionnelle et le délai de préavis applicable en cas de rupture pendant l'essai. Ces mentions ne sont pas simplement formelles : leur absence ou leur inexactitude peut entraîner la requalification du contrat ou exposer l'employeur à des sanctions."
+    },
+    {
+      "titre": "Le contrat à durée déterminée (CDD)",
+      "texte": "Le CDD est un contrat dont le terme est fixé au moment de la conclusion, soit par une date précise, soit par l'achèvement d'une tâche déterminée ou la survenance d'un événement certain. Il ne peut être utilisé que pour des tâches qui n'entrent pas dans les activités normales et permanentes de l'entreprise : le recours au CDD pour des emplois permanents est interdit. Le CDD doit obligatoirement être rédigé par écrit. Sa durée ne peut être inférieure à un mois ni supérieure à deux ans. Il peut être renouvelé deux fois, mais la durée totale — renouvellements compris — ne peut dépasser six ans. Après deux renouvellements, le contrat est automatiquement requalifié en CDI. La réembauche du même travailleur au même poste dans un délai de trois mois est assimilée à un renouvellement. Si, à l'issue du CDD, aucune des parties ne manifeste sa volonté d'y mettre fin, il est réputé transformé en CDI.",
+      "definition": "Requalification : opération juridique par laquelle un tribunal ou une autorité compétente reclasse un contrat dans une catégorie différente de celle choisie par les parties — par exemple, transformer un CDD en CDI — avec toutes les conséquences qui en découlent pour les droits du travailleur."
+    },
+    {
+      "titre": "Le contrat à durée indéterminée (CDI)",
+      "texte": "Le CDI est la forme normale et générale du contrat de travail : il lie le travailleur à l'employeur sans limitation de durée. Il peut être rompu par l'une ou l'autre des parties, sous réserve du respect d'un préavis dont la durée varie selon la catégorie professionnelle et l'ancienneté. La rupture sans préavis — sauf faute lourde ou force majeure — ouvre droit à une indemnité compensatrice équivalente à la rémunération de la période de préavis non respectée. Un CDI rompu sans motif légitime, réel et sérieux constitue un licenciement abusif, qui expose l'employeur à des dommages-intérêts fixés par le tribunal. Toute rupture d'un CDI doit être notifiée par écrit, les motifs y étant mentionnés, et transmise par tout moyen probant — aucun motif nouveau ne peut être invoqué après la notification."
+    },
+    {
+      "titre": "La période d'essai",
+      "texte": "La période d'essai permet à l'employeur d'évaluer les compétences du travailleur, et au travailleur d'apprécier ses conditions d'emploi, avant tout engagement définitif. Elle doit être expressément stipulée par écrit dans le contrat de travail : à défaut, le travailleur est réputé engagé sous CDI dès le premier jour. La durée maximale varie selon la catégorie professionnelle : trois mois pour les ouvriers et employés sans fonction d'encadrement (catégories 1, 2 et 3) ; quatre mois pour les agents de maîtrise et superviseurs (catégorie 4) ; six mois pour les cadres supérieurs (catégorie 5). La période d'essai ne peut être renouvelée qu'une seule fois, et la durée totale — renouvellement compris — ne peut dépasser six mois. Durant cette période, le travailleur bénéficie des mêmes conditions de travail et de la même protection sociale qu'un travailleur confirmé.",
+      "definition": "Période d'essai : période initiale d'un contrat de travail pendant laquelle chacune des parties peut mettre fin à la relation de travail avec un préavis réduit, dans le but de permettre une évaluation mutuelle avant tout engagement définitif."
+    },
+    {
+      "titre": "La rupture du contrat de travail et ses conséquences",
+      "texte": "Le Code du travail malgache 2024 reconnaît plusieurs modes de rupture. Pour le CDD : la rupture intervient normalement à l'arrivée du terme ; elle ne peut être anticipée que d'un commun accord, en cas de faute lourde ou de force majeure — toute rupture unilatérale en dehors de ces cas oblige la partie fautive à verser une indemnité équivalente aux salaires de la période restant à courir. Pour le CDI : la rupture est possible par l'une ou l'autre des parties avec préavis écrit ; en cas de licenciement pour motif économique, le travailleur a droit à une indemnité de licenciement égale à dix jours de salaire par année complète de service, plafonnée à six mois de salaire. Quelle que soit la forme du contrat, l'employeur doit remettre au travailleur lors de son départ : le paiement des salaires dus, une indemnité compensatrice pour congés acquis non pris, l'indemnité de préavis le cas échéant, et un certificat de travail.",
+      "definition": "Faute lourde : manquement d'une gravité particulière commis par le travailleur ou l'employeur, rendant impossible le maintien de la relation de travail, et justifiant la rupture immédiate du contrat sans préavis ni indemnité de préavis. Sa définition est précisée par le règlement intérieur ou, à défaut, laissée à l'appréciation du tribunal."
+    },
+    {
+      "titre": "Les clauses essentielles d'un contrat de travail bien rédigé",
+      "texte": "Au-delà des mentions légalement obligatoires, un contrat de travail bien rédigé doit également prévoir : la description précise des tâches et responsabilités du poste ; le lieu habituel de travail et les éventuelles clauses de mobilité géographique ; la durée hebdomadaire du travail et les règles sur les heures supplémentaires ; les modalités de versement du salaire (date, mode de paiement) ; les avantages en nature éventuels (logement, véhicule, téléphone) ; la clause de confidentialité si le poste implique l'accès à des informations sensibles ; la clause de non-concurrence si nécessaire, limitée dans le temps et dans l'espace ; et la référence à la convention collective applicable dans le secteur d'activité de l'entreprise. Un contrat complet protège l'employeur contre les réclamations imprévues et le travailleur contre les modifications unilatérales de ses conditions d'emploi."
+    },
+    {
+      "titre": "Erreurs fréquentes à éviter",
+      "texte": "Plusieurs erreurs sont récurrentes dans la rédaction des contrats de travail à Madagascar. Utiliser un CDD pour un emploi permanent : c'est interdit et entraîne la requalification automatique en CDI. Omettre la période d'essai dans l'écrit : le travailleur est alors considéré comme immédiatement en CDI confirmé. Fixer une période d'essai supérieure aux plafonds légaux : la clause est réputée non écrite. Ne pas remettre un exemplaire au travailleur dès la signature : l'employeur s'expose à des sanctions. Confondre CDD et contrat de prestation de services : si la subordination est réelle, le « prestataire » sera requalifié en salarié avec toutes les conséquences sociales et fiscales. Licencier un travailleur sans motif écrit ni préavis : c'est un licenciement abusif ouvrant droit à des dommages-intérêts."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "variante": "CDI — employé sans fonction d'encadrement",
+      "complexite": "simple",
+      "contexte": "La société TAFITA SARL recrute Madame RAVO Nirina au poste d'agent d'accueil (catégorie 2), avec une période d'essai de trois mois. Contrat à durée indéterminée, salaire mensuel de 450 000 Ariary.",
+      "document": {
+        "titre_acte": "CONTRAT DE TRAVAIL À DURÉE INDÉTERMINÉE",
+        "lieu_date": "Antananarivo, le 1er juillet 2026",
+        "parties": {
+          "employeur": {
+            "denomination": "TAFITA SARL",
+            "siege_social": "Lot IB 14, Rue Rabezavana, Antananarivo 101",
+            "numero_stat": "40512011234567",
+            "representee_par": "Monsieur ANDRIANTSOA Luc, Gérant",
+            "qualite": "ci-après dénommé « l'Employeur »"
+          },
+          "salarie": {
+            "nom": "RAVO Nirina",
+            "adresse": "Lot III B 9, Ambohipo, Antananarivo 101",
+            "cin": "101 234 567 890",
+            "qualite": "ci-après dénommée « le Travailleur »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Engagement",
+            "texte": "L'Employeur engage Madame RAVO Nirina à compter du 1er juillet 2026, pour occuper le poste d'Agent d'accueil, relevant de la catégorie professionnelle 2, conformément à la grille de classification en vigueur dans l'entreprise."
+          },
+          {
+            "titre": "Article 2 — Durée et nature du contrat",
+            "texte": "Le présent contrat est conclu pour une durée indéterminée, conformément aux dispositions de la Loi n° 2024-014 portant Code du travail de Madagascar."
+          },
+          {
+            "titre": "Article 3 — Période d'essai",
+            "texte": "Le présent engagement est soumis à une période d'essai de trois (3) mois, prenant effet le 1er juillet 2026 et prenant fin le 30 septembre 2026 au soir, sauf renouvellement exprès par écrit d'une durée maximale de trois (3) mois supplémentaires. Durant cette période, chacune des parties peut mettre fin au contrat moyennant un préavis de huit (8) jours calendaires."
+          },
+          {
+            "titre": "Article 4 — Fonctions",
+            "texte": "Le Travailleur sera chargé notamment de l'accueil physique et téléphonique des visiteurs et clients, de la gestion du courrier entrant et sortant, et de toute tâche administrative connexe confiée par la hiérarchie. Ces attributions pourront être adaptées selon les besoins de l'entreprise, sans modification substantielle du poste."
+          },
+          {
+            "titre": "Article 5 — Lieu de travail",
+            "texte": "Le lieu habituel de travail est le siège social de la société TAFITA SARL, Lot IB 14, Rue Rabezavana, Antananarivo 101."
+          },
+          {
+            "titre": "Article 6 — Durée du travail",
+            "texte": "La durée hebdomadaire de travail est de quarante (40) heures, réparties du lundi au vendredi. Toute heure supplémentaire effectuée à la demande de l'Employeur sera rémunérée conformément aux dispositions légales et réglementaires en vigueur."
+          },
+          {
+            "titre": "Article 7 — Rémunération",
+            "texte": "Le Travailleur percevra un salaire mensuel brut de quatre cent cinquante mille ariary (450 000 Ariary), versé le dernier jour ouvré de chaque mois par virement ou en espèces contre reçu signé. Ce salaire est indexé sur l'indice minimum de la catégorie 2 et ne pourra être inférieur au SMIG en vigueur."
+          },
+          {
+            "titre": "Article 8 — Congés payés",
+            "texte": "Le Travailleur bénéficiera des congés payés annuels dans les conditions prévues par la législation du travail en vigueur à Madagascar."
+          },
+          {
+            "titre": "Article 9 — Obligations du Travailleur",
+            "texte": "Le Travailleur s'engage à exécuter ses fonctions avec diligence, loyauté et discrétion, à respecter le règlement intérieur de l'entreprise ainsi que les instructions de sa hiérarchie, et à ne pas divulguer les informations confidentielles dont il aurait connaissance dans le cadre de ses fonctions."
+          },
+          {
+            "titre": "Article 10 — Rupture du contrat",
+            "texte": "En cas de rupture du présent contrat à l'initiative de l'une ou l'autre des parties, un préavis écrit devra être respecté, dont la durée sera déterminée conformément aux dispositions de la Loi n° 2024-014 et à la convention collective applicable, en fonction de la catégorie et de l'ancienneté du Travailleur."
+          },
+          {
+            "titre": "Article 11 — Droit applicable",
+            "texte": "Le présent contrat est régi par la Loi n° 2024-014 portant Code du travail de Madagascar. En cas de litige, les parties s'efforceront de trouver une solution amiable avant toute saisine de l'Inspection du travail ou de la juridiction compétente."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antananarivo, dont un exemplaire remis immédiatement au Travailleur après signature.",
+        "signatures": [
+          { "qualite": "L'Employeur", "nom": "ANDRIANTSOA Luc — pour TAFITA SARL" },
+          { "qualite": "Le Travailleur", "nom": "RAVO Nirina", "mention_lu_approuve": "Lu et approuvé — Bon pour accord" }
+        ]
+      }
+    },
+
+    {
+      "id": 2,
+      "variante": "CDD — ouvrage déterminé",
+      "complexite": "simple",
+      "contexte": "La société CONSTRUIRE MADA SARL engage Monsieur FANIRY Haja comme maçon (catégorie 3) pour la durée d'un chantier de construction d'un immeuble à Antananarivo, soit une durée estimée à douze mois, du 1er juillet 2026 au 30 juin 2027. Salaire mensuel de 520 000 Ariary.",
+      "document": {
+        "titre_acte": "CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE — OUVRAGE DÉTERMINÉ",
+        "lieu_date": "Antananarivo, le 1er juillet 2026",
+        "parties": {
+          "employeur": {
+            "denomination": "CONSTRUIRE MADA SARL",
+            "siege_social": "Lot II C 7, Tsaralalàna, Antananarivo 101",
+            "numero_stat": "40512019876543",
+            "representee_par": "Madame RAKOTONDRABE Fara, Gérante",
+            "qualite": "ci-après dénommée « l'Employeur »"
+          },
+          "salarie": {
+            "nom": "FANIRY Haja",
+            "adresse": "Lot V B 18, Isotry, Antananarivo 101",
+            "cin": "101 345 678 901",
+            "qualite": "ci-après dénommé « le Travailleur »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Nature et motif du contrat",
+            "texte": "Le présent contrat est conclu pour une durée déterminée, conformément aux dispositions des articles 22 à 27 de la Loi n° 2024-014 portant Code du travail de Madagascar. Il est justifié par l'exécution d'un ouvrage déterminé — la construction de l'immeuble résidentiel ANOSY PARK sis Lot IA 3, Antananarivo — tâche qui n'entre pas dans les activités permanentes de l'établissement."
+          },
+          {
+            "titre": "Article 2 — Durée du contrat",
+            "texte": "Le présent contrat prend effet le 1er juillet 2026 et prend fin le 30 juin 2027 à la date d'achèvement du chantier visé à l'article 1, et au plus tard à la date du 30 juin 2027. Si l'ouvrage est achevé avant cette date, le contrat prend fin à la date d'achèvement effectif, sans indemnité. Il ne pourra être renouvelé que deux fois au maximum, la durée totale cumulée ne pouvant excéder six (6) ans."
+          },
+          {
+            "titre": "Article 3 — Période d'essai",
+            "texte": "Le présent contrat est soumis à une période d'essai d'un (1) mois à compter de sa date de prise d'effet, soit du 1er juillet au 31 juillet 2026. Durant cette période, chacune des parties peut mettre fin au contrat moyennant un préavis de huit (8) jours."
+          },
+          {
+            "titre": "Article 4 — Poste et catégorie",
+            "texte": "Le Travailleur est engagé au poste de Maçon qualifié, catégorie professionnelle 3, indice minimum de classification correspondant à ladite catégorie conformément à la convention collective du bâtiment et des travaux publics applicable."
+          },
+          {
+            "titre": "Article 5 — Lieu de travail",
+            "texte": "Le lieu de travail est le chantier ANOSY PARK, Lot IA 3, Antananarivo 101. En cas de nécessité de service sur d'autres chantiers de l'Employeur dans la région d'Analamanga, le Travailleur pourra y être affecté temporairement, sans que cela constitue une modification substantielle du contrat."
+          },
+          {
+            "titre": "Article 6 — Rémunération",
+            "texte": "Le Travailleur percevra un salaire mensuel brut de cinq cent vingt mille ariary (520 000 Ariary), versé le dernier jour ouvré de chaque mois. Les heures supplémentaires éventuelles seront rémunérées conformément aux taux légaux en vigueur."
+          },
+          {
+            "titre": "Article 7 — Rupture anticipée",
+            "texte": "Le présent contrat ne peut être rompu avant son terme que dans les cas suivants : accord écrit des deux parties ; faute lourde de l'une d'elles, dûment constatée ; force majeure rendant impossible la poursuite du chantier. Toute rupture unilatérale anticipée en dehors de ces cas oblige la partie fautive à verser une indemnité équivalente aux salaires et avantages correspondant à la période restant à courir jusqu'au terme du contrat."
+          },
+          {
+            "titre": "Article 8 — Fin de contrat",
+            "texte": "À l'échéance du présent contrat, le Travailleur recevra l'ensemble de ses droits : solde de tout compte, indemnité compensatrice pour congés acquis non pris, et certificat de travail. Si aucune des parties ne manifeste sa volonté de mettre fin au contrat à son terme et que le Travailleur continue d'exécuter ses fonctions, le contrat sera réputé transformé en CDI."
+          },
+          {
+            "titre": "Article 9 — Droit applicable",
+            "texte": "Le présent contrat est régi par la Loi n° 2024-014 portant Code du travail de Madagascar."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antananarivo, dont un exemplaire remis immédiatement au Travailleur après signature.",
+        "signatures": [
+          { "qualite": "L'Employeur", "nom": "RAKOTONDRABE Fara — pour CONSTRUIRE MADA SARL" },
+          { "qualite": "Le Travailleur", "nom": "FANIRY Haja", "mention_lu_approuve": "Lu et approuvé — Bon pour accord" }
+        ]
+      }
+    },
+
+    {
+      "id": 3,
+      "variante": "CDI — cadre supérieur avec clause de confidentialité et de non-concurrence",
+      "complexite": "complexe",
+      "contexte": "La société DIGITAL MADA SA recrute Monsieur RAZAFINDRAKOTO Tojo au poste de Directeur technique (catégorie 5 — cadre supérieur), avec une période d'essai de six mois, un salaire de 3 500 000 Ariary, un véhicule de fonction, et des clauses de confidentialité et de non-concurrence.",
+      "document": {
+        "titre_acte": "CONTRAT DE TRAVAIL À DURÉE INDÉTERMINÉE — CADRE SUPÉRIEUR",
+        "lieu_date": "Antananarivo, le 1er juillet 2026",
+        "parties": {
+          "employeur": {
+            "denomination": "DIGITAL MADA SA",
+            "siege_social": "Immeuble Fivoarana, 4ᵉ étage, Rue Andrianary Ratianarivo, Antananarivo 101",
+            "numero_stat": "40512025143698",
+            "representee_par": "Madame RANDRIAMANALINA Voahary, Directrice Générale",
+            "qualite": "ci-après dénommée « la Société »"
+          },
+          "salarie": {
+            "nom": "RAZAFINDRAKOTO Tojo",
+            "adresse": "Lot II A 5, Ambodivona, Antananarivo 101",
+            "cin": "101 456 789 012",
+            "qualite": "ci-après dénommé « le Cadre »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Engagement et poste",
+            "texte": "La Société engage Monsieur RAZAFINDRAKOTO Tojo à compter du 1er juillet 2026 au poste de Directeur technique, relevant de la catégorie professionnelle 5 (cadre supérieur), conformément à la grille de classification et à la convention collective applicable au secteur des technologies de l'information et de la communication."
+          },
+          {
+            "titre": "Article 2 — Durée du contrat",
+            "texte": "Le présent contrat est conclu pour une durée indéterminée."
+          },
+          {
+            "titre": "Article 3 — Période d'essai",
+            "texte": "Le présent engagement est soumis à une période d'essai de six (6) mois, prenant effet le 1er juillet 2026 et prenant fin le 31 décembre 2026 au soir. La période d'essai ne peut être renouvelée, la durée maximale légale de six mois étant déjà atteinte. Durant cette période, chacune des parties peut rompre le contrat moyennant un préavis de quinze (15) jours calendaires."
+          },
+          {
+            "titre": "Article 4 — Missions et responsabilités",
+            "texte": "Le Cadre est responsable de la direction technique de la Société, incluant notamment : la supervision et le management de l'équipe technique (développeurs, administrateurs systèmes, chefs de projet) ; la définition et la mise en œuvre de la stratégie technologique de la Société ; la supervision des projets clients en phase de développement ; la veille technologique et les préconisations d'innovation ; et la représentation de la Société auprès des partenaires techniques. Le Cadre rend compte directement à la Directrice Générale."
+          },
+          {
+            "titre": "Article 5 — Lieu de travail et mobilité",
+            "texte": "Le lieu habituel de travail est le siège social de DIGITAL MADA SA. Dans le cadre de ses fonctions, le Cadre accepte d'effectuer des déplacements professionnels dans toute Madagascar et à l'étranger, les frais engagés étant remboursés sur justificatifs conformément à la politique de remboursement de la Société."
+          },
+          {
+            "titre": "Article 6 — Durée du travail",
+            "texte": "Compte tenu de la nature de ses fonctions de direction et de supervision, le Cadre est soumis à un régime d'horaires autonomes, sans référence à un horaire collectif. Il organise son temps de travail en fonction des exigences de ses missions et des objectifs fixés par la Direction Générale, dans le respect des dispositions du Code du travail relatives aux durées maximales de travail."
+          },
+          {
+            "titre": "Article 7 — Rémunération et avantages",
+            "texte": "Le Cadre percevra : un salaire mensuel brut de trois millions cinq cent mille ariary (3 500 000 Ariary), versé le dernier jour ouvré de chaque mois par virement bancaire sur le compte que le Cadre désignera à la Société ; un véhicule de fonction mis à disposition par la Société pour l'exercice de ses missions professionnelles, les frais de carburant et d'entretien courant étant pris en charge par la Société selon les modalités définies par note interne ; un téléphone professionnel. En cas de rupture du contrat pour quelque motif que ce soit, le véhicule et le téléphone seront restitués à la Société à la date effective de cessation des fonctions."
+          },
+          {
+            "titre": "Article 8 — Clause de confidentialité",
+            "texte": "Le Cadre s'engage à garder la stricte confidentialité de toutes les informations, données, procédés, méthodes, stratégies commerciales, bases de données clients, codes sources et savoir-faire dont il aura connaissance dans l'exercice de ses fonctions. Cette obligation de confidentialité s'applique pendant toute la durée du contrat et pendant cinq (5) ans après sa rupture, pour quelque motif que ce soit. Toute violation de cette clause expose le Cadre à une action en responsabilité civile et, le cas échéant, pénale."
+          },
+          {
+            "titre": "Article 9 — Clause de non-concurrence",
+            "texte": "Pendant une durée de douze (12) mois à compter de la cessation effective des fonctions du Cadre, quel qu'en soit le motif, celui-ci s'interdit d'exercer, directement ou indirectement (en tant que salarié, consultant, associé, gérant ou actionnaire majoritaire), une activité concurrente à celle de la Société dans le secteur des technologies de l'information et de la communication, sur le territoire de la République de Madagascar. En contrepartie de cette obligation, la Société versera au Cadre, pendant la durée de la clause, une indemnité mensuelle de compensation égale à cinquante pour cent (50%) de sa dernière rémunération mensuelle brute. La Société pourra renoncer à l'application de la présente clause en notifiant sa renonciation écrite dans un délai de quinze (15) jours suivant la notification de la rupture du contrat, auquel cas aucune indemnité de non-concurrence ne sera due."
+          },
+          {
+            "titre": "Article 10 — Rupture du contrat",
+            "texte": "La rupture du présent contrat, à l'initiative de l'une ou l'autre des parties, sera notifiée par écrit par lettre recommandée avec accusé de réception ou remise en main propre contre décharge. Le préavis applicable aux cadres supérieurs sera respecté conformément aux dispositions de la Loi n° 2024-014 et de la convention collective applicable. En cas de faute lourde dûment établie, la rupture pourra intervenir sans préavis. En cas de licenciement pour motif légitime sans faute lourde, le Cadre bénéficiera des indemnités de rupture prévues par la loi, calculées sur la base de son ancienneté."
+          },
+          {
+            "titre": "Article 11 — Droit applicable et règlement des litiges",
+            "texte": "Le présent contrat est régi par la Loi n° 2024-014 portant Code du travail de Madagascar. Tout litige relatif à l'exécution ou à la rupture du présent contrat sera soumis à la procédure de conciliation devant l'Inspecteur du travail territorialement compétent, avant toute saisine du Tribunal du travail d'Antananarivo."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antananarivo, dont un exemplaire remis immédiatement au Cadre après signature.",
+        "signatures": [
+          { "qualite": "La Société", "nom": "RANDRIAMANALINA Voahary — Directrice Générale, DIGITAL MADA SA" },
+          { "qualite": "Le Cadre", "nom": "RAZAFINDRAKOTO Tojo", "mention_lu_approuve": "Lu et approuvé — Bon pour accord" }
+        ]
+      }
+    },
+
+    {
+      "id": 4,
+      "variante": "CDD — remplacement de salarié absent",
+      "complexite": "intermédiaire",
+      "contexte": "La société TSARA HOTEL SARL engage Madame VOLA Hortense comme réceptionniste (catégorie 2) pour remplacer Madame SOLO Berthine, en congé maternité du 1er juillet au 30 septembre 2026. Salaire mensuel de 400 000 Ariary. Ce modèle illustre un CDD lié à la survenance d'un événement certain — le retour de la salariée remplacée.",
+      "document": {
+        "titre_acte": "CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE — REMPLACEMENT DE SALARIÉ ABSENT",
+        "lieu_date": "Antananarivo, le 1er juillet 2026",
+        "parties": {
+          "employeur": {
+            "denomination": "TSARA HOTEL SARL",
+            "siege_social": "Avenue de l'Indépendance, Antananarivo 101",
+            "numero_stat": "40512021357924",
+            "representee_par": "Monsieur RAMIANDRISOA Fidy, Directeur",
+            "qualite": "ci-après dénommée « l'Employeur »"
+          },
+          "salarie": {
+            "nom": "VOLA Hortense",
+            "adresse": "Lot IV C 6, Ambohidratrimo, Antananarivo 101",
+            "cin": "101 567 890 123",
+            "qualite": "ci-après dénommée « le Travailleur »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Nature et motif du contrat",
+            "texte": "Le présent contrat est conclu pour une durée déterminée, en remplacement de Madame SOLO Berthine, réceptionniste en poste au sein de l'Employeur, actuellement absente en congé maternité. Ce contrat est justifié par la survenance d'un événement certain — le retour de la salariée remplacée — dont la date est connue à l'avance. Il est établi par écrit conformément aux dispositions de la Loi n° 2024-014 portant Code du travail de Madagascar."
+          },
+          {
+            "titre": "Article 2 — Durée du contrat",
+            "texte": "Le présent contrat prend effet le 1er juillet 2026 et prend fin à la date du retour effectif de Madame SOLO Berthine dans l'entreprise, et au plus tard le 30 septembre 2026. Si Madame SOLO Berthine revient avant cette date, le présent contrat prend fin à la date de son retour effectif. Si elle ne revient pas à la date prévue et que son absence se prolonge pour un motif légal, le présent contrat pourra être prolongé par avenant écrit, dans la limite légale de deux ans."
+          },
+          {
+            "titre": "Article 3 — Poste et catégorie",
+            "texte": "Le Travailleur est engagé au poste de Réceptionniste, catégorie professionnelle 2, pour assurer les mêmes fonctions que la salariée remplacée : accueil des clients, gestion des réservations, encaissement des paiements, et toutes tâches afférentes à la réception hôtelière."
+          },
+          {
+            "titre": "Article 4 — Période d'essai",
+            "texte": "Compte tenu de la durée du présent contrat et des besoins immédiats de l'Employeur, les parties conviennent d'une période d'essai de quinze (15) jours à compter du 1er juillet 2026. Durant cette période, chacune des parties peut mettre fin au contrat moyennant un préavis de trois (3) jours."
+          },
+          {
+            "titre": "Article 5 — Rémunération",
+            "texte": "Le Travailleur percevra, pendant la durée du présent contrat, le même salaire mensuel brut que la salariée remplacée pour le même poste, soit quatre cent mille ariary (400 000 Ariary), versé le dernier jour ouvré de chaque mois."
+          },
+          {
+            "titre": "Article 6 — Conditions de travail",
+            "texte": "Le Travailleur bénéficiera des mêmes conditions de travail que les autres salariés de l'Employeur occupant des postes équivalents : mêmes horaires, mêmes avantages, même protection sociale, conformément aux dispositions de la Loi n° 2024-014."
+          },
+          {
+            "titre": "Article 7 — Fin de contrat",
+            "texte": "Le présent contrat prend fin de plein droit à la survenance de son terme, sans qu'il soit nécessaire d'adresser un préavis. À l'échéance, l'Employeur remettra au Travailleur : le solde de tout compte, l'indemnité compensatrice pour congés acquis non pris, et un certificat de travail. La fin du contrat à son terme normal ne donne pas lieu au versement d'une indemnité de licenciement."
+          },
+          {
+            "titre": "Article 8 — Droit applicable",
+            "texte": "Le présent contrat est régi par la Loi n° 2024-014 portant Code du travail de Madagascar."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antananarivo, dont un exemplaire remis immédiatement au Travailleur après signature.",
+        "signatures": [
+          { "qualite": "L'Employeur", "nom": "RAMIANDRISOA Fidy — pour TSARA HOTEL SARL" },
+          { "qualite": "Le Travailleur", "nom": "VOLA Hortense", "mention_lu_approuve": "Lu et approuvé — Bon pour accord" }
+        ]
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "La société MARO Import engage Monsieur KOTO Sam depuis trois ans comme « livreur prestataire indépendant » sous contrat de prestation de services renouvelé tous les six mois. En pratique, Monsieur KOTO travaille exclusivement pour MARO Import, du lundi au vendredi de 8h à 17h, en uniforme de l'entreprise, sous les ordres directs du responsable logistique, et avec un véhicule appartenant à MARO Import. Il ne fixe ni ses horaires ni ses itinéraires. Un jour, il est victime d'un accident sur la route et demande à bénéficier de la couverture sociale. MARO Import refuse, arguant qu'il est prestataire indépendant.",
+      "question": "Monsieur KOTO est-il réellement prestataire indépendant, et quels sont ses droits ?",
+      "choix": [
+        "Non : malgré l'intitulé du contrat, la situation de Monsieur KOTO présente tous les caractères d'un contrat de travail — subordination juridique, intégration dans l'organisation, horaires imposés, matériel fourni par l'employeur. Il peut saisir le tribunal pour faire requalifier son contrat en CDI et réclamer trois ans de droits sociaux, les cotisations impayées, et l'indemnisation de son accident du travail.",
+        "Monsieur KOTO est bien prestataire indépendant : il a signé un contrat en ce sens et ne peut pas remettre en cause l'accord des parties.",
+        "Monsieur KOTO peut uniquement demander une régularisation pour l'avenir, sans effet rétroactif sur les trois années passées.",
+        "La requalification n'est possible que si Monsieur KOTO prouve qu'il n'a travaillé que pour MARO Import, ce qui est insuffisant en l'espèce."
+      ],
+      "reponse": "Non : malgré l'intitulé du contrat, la situation de Monsieur KOTO présente tous les caractères d'un contrat de travail — subordination juridique, intégration dans l'organisation, horaires imposés, matériel fourni par l'employeur. Il peut saisir le tribunal pour faire requalifier son contrat en CDI et réclamer trois ans de droits sociaux, les cotisations impayées, et l'indemnisation de son accident du travail.",
+      "indices": "En droit du travail, c'est la réalité de la relation qui prime sur l'intitulé du contrat. Demandez-vous quels éléments caractérisent le lien de subordination juridique, et si tous ces éléments sont réunis ici.",
+      "explication": "Le droit du travail malgache — comme le droit français dont il s'inspire — applique le principe de réalité : c'est la nature réelle de la relation de travail, et non l'intitulé choisi par les parties, qui détermine la qualification du contrat. Un faisceau d'indices permet de caractériser le lien de subordination : intégration dans un service organisé, horaires imposés, matériel fourni, ordres reçus, contrôle de l'exécution. Tous ces indices sont présents ici. Le tribunal pourra donc requalifier le contrat en CDI avec effet rétroactif aux origines de la relation, et condamner MARO Import à régulariser toutes les cotisations sociales dues, à verser les droits afférents à l'ancienneté, et à prendre en charge l'accident du travail comme tel."
+    },
+    {
+      "id": 2,
+      "scenario": "Madame NORO Céline est engagée le 2 janvier 2026 par une PME sous CDD d'un an. Le contrat ne mentionne aucune période d'essai. Le 15 février 2026, l'employeur lui notifie verbalement la fin de son contrat, en invoquant des insuffisances professionnelles. Il ne lui remet ni écrit, ni indemnité.",
+      "question": "Quelle est la situation juridique de Madame NORO, et quels sont ses recours ?",
+      "choix": [
+        "La rupture est illégale à double titre : le CDD ne peut être rompu unilatéralement avant son terme qu'en cas de faute lourde ou de force majeure — les insuffisances professionnelles ne constituent pas une faute lourde. De plus, la notification orale ne respecte pas l'obligation d'écrit. Madame NORO peut réclamer une indemnité équivalente aux salaires des dix mois restants, ainsi que ses droits de fin de contrat.",
+        "La rupture est valable car l'employeur peut toujours invoquer l'insuffisance professionnelle comme motif de rupture d'un CDD.",
+        "Madame NORO n'a aucun recours car l'absence de période d'essai dans le contrat signifie que l'employeur peut rompre le contrat librement pendant les deux premiers mois.",
+        "La rupture est valable mais l'employeur aurait dû respecter un préavis d'un mois et remettre un écrit."
+      ],
+      "reponse": "La rupture est illégale à double titre : le CDD ne peut être rompu unilatéralement avant son terme qu'en cas de faute lourde ou de force majeure — les insuffisances professionnelles ne constituent pas une faute lourde. De plus, la notification orale ne respecte pas l'obligation d'écrit. Madame NORO peut réclamer une indemnité équivalente aux salaires des dix mois restants, ainsi que ses droits de fin de contrat.",
+      "indices": "Rappellez-vous les trois seuls cas qui permettent de rompre un CDD avant son terme. L'insuffisance professionnelle en fait-elle partie ? Et quelle est la conséquence d'une rupture unilatérale en dehors de ces cas ?",
+      "explication": "Le CDD est un contrat dont le terme est fixé : aucune des parties ne peut en principe y mettre fin avant l'échéance, sauf accord mutuel écrit, faute lourde dûment établie, ou force majeure. L'insuffisance professionnelle, même réelle, n'est pas une faute lourde : c'est un motif qui aurait pu justifier un licenciement dans le cadre d'un CDI, mais pas la rupture anticipée d'un CDD. La notification verbale ajoute une irrégularité supplémentaire. Madame NORO peut donc saisir l'Inspection du travail et, si nécessaire, le tribunal du travail, pour obtenir une indemnité égale aux salaires correspondant aux dix mois restants du contrat, ainsi que ses indemnités de fin de contrat (congés payés) et un certificat de travail."
+    },
+    {
+      "id": 3,
+      "scenario": "Monsieur TIANA Rakoto est recruté sous CDI le 1er mars 2026, avec une période d'essai de six mois prévue dans son contrat au poste d'ingénieur informatique (catégorie 4). Le 1er mai 2026, soit deux mois après son entrée, l'employeur lui notifie la fin de la période d'essai par simple SMS, sans aucun autre document.",
+      "question": "La rupture de la période d'essai est-elle régulière, et Monsieur TIANA peut-il contester ?",
+      "choix": [
+        "La durée de l'essai est irrégulière : un ingénieur de catégorie 4 ne peut avoir qu'une période d'essai de quatre mois maximum, et non six. De plus, la notification par SMS est insuffisante. Monsieur TIANA peut contester la rupture et demander à être réintégré ou indemnisé comme s'il était sous CDI confirmé.",
+        "La rupture est valable : la période d'essai peut être rompue à tout moment sans formalité particulière.",
+        "La durée de six mois est valable pour tous les cadres quelle que soit leur catégorie ; seule la notification par SMS pose un problème de forme.",
+        "Monsieur TIANA ne peut pas contester car il n'a pas encore atteint deux mois d'ancienneté, seuil minimal pour bénéficier des protections du Code du travail."
+      ],
+      "reponse": "La durée de l'essai est irrégulière : un ingénieur de catégorie 4 ne peut avoir qu'une période d'essai de quatre mois maximum, et non six. De plus, la notification par SMS est insuffisante. Monsieur TIANA peut contester la rupture et demander à être réintégré ou indemnisé comme s'il était sous CDI confirmé.",
+      "indices": "Vérifiez quelle est la durée maximale de période d'essai applicable à la catégorie 4 selon la Loi n° 2024-014. Ensuite, demandez-vous quelle est la sanction d'une clause d'essai irrégulière.",
+      "explication": "La Loi n° 2024-014 fixe des durées maximales de période d'essai selon la catégorie professionnelle : quatre mois pour la catégorie 4 (agents de maîtrise, ingénieurs, superviseurs). Une clause prévoyant six mois pour un salarié de catégorie 4 dépasse le plafond légal et est réputée non écrite pour la fraction excédentaire. Par conséquent, la période d'essai aurait dû s'achever au bout de quatre mois au plus. La rupture intervenant au bout de deux mois est certes dans le délai de l'essai — mais la durée stipulée étant elle-même irrégulière, et la notification par SMS étant insuffisante (le contrat d'essai doit mentionner le délai de préavis applicable et la rupture doit être notifiée de manière probante), Monsieur TIANA peut contester les modalités de la rupture et réclamer le respect du préavis prévu, ainsi que le cas échéant des dommages-intérêts si la rupture est jugée abusive."
+    },
+    {
+      "id": 4,
+      "scenario": "Madame LANTO Vero travaille depuis sept ans sous CDI dans une entreprise de distribution. Le 10 juin 2026, son employeur la convoque et lui annonce oralement qu'elle est « remerciée » pour des raisons de « restructuration ». Aucune lettre de licenciement ne lui est remise. Aucun préavis n'est respecté. Aucune indemnité ne lui est versée. Le lendemain, son badge d'accès est désactivé.",
+      "question": "Quels droits Madame LANTO peut-elle faire valoir, et quelle procédure doit-elle suivre ?",
+      "choix": [
+        "Madame LANTO a été victime d'un licenciement abusif et sans respect de la procédure légale. Elle peut saisir l'Inspecteur du travail, puis le Tribunal du travail, pour réclamer : l'indemnité compensatrice de préavis, l'indemnité de licenciement (10 jours de salaire par année d'ancienneté, soit 70 jours de salaire pour 7 ans), l'indemnité compensatrice pour congés acquis non pris, et des dommages-intérêts pour licenciement abusif et violation de la procédure légale.",
+        "Madame LANTO n'a aucun recours car la restructuration est un motif économique valable qui permet de licencier sans préavis.",
+        "Madame LANTO peut uniquement réclamer son préavis, mais pas d'indemnité de licenciement car elle n'a que sept ans d'ancienneté.",
+        "Madame LANTO doit d'abord démontrer que la restructuration est fausse avant de pouvoir exercer le moindre recours."
+      ],
+      "reponse": "Madame LANTO a été victime d'un licenciement abusif et sans respect de la procédure légale. Elle peut saisir l'Inspecteur du travail, puis le Tribunal du travail, pour réclamer : l'indemnité compensatrice de préavis, l'indemnité de licenciement (10 jours de salaire par année d'ancienneté, soit 70 jours de salaire pour 7 ans), l'indemnité compensatrice pour congés acquis non pris, et des dommages-intérêts pour licenciement abusif et violation de la procédure légale.",
+      "indices": "Listez les violations de la procédure légale commises par l'employeur. Ensuite, calculez les droits financiers de Madame LANTO en vous référant aux règles du Code du travail sur l'indemnité de licenciement économique.",
+      "explication": "La Loi n° 2024-014 est très claire : tout licenciement d'un CDI doit être notifié par écrit, avec mention des motifs, par tout moyen probant. Aucune de ces exigences n'a été respectée ici — il n'y a ni lettre, ni motif écrit. Un licenciement économique requiert en outre une procédure spécifique impliquant la consultation des représentants du personnel et la notification à l'Inspecteur du travail — procédure totalement absente. La désactivation du badge le lendemain matin confirme l'absence de préavis. Madame LANTO cumule donc : un licenciement sans respect de la procédure légale, un licenciement sans préavis (indemnité compensatrice due), et un licenciement potentiellement abusif faute de justification réelle et sérieuse. Ses droits comprennent l'indemnité de préavis, l'indemnité de licenciement économique (10 jours × 7 ans = 70 jours de salaire, plafonné à 6 mois), les congés acquis, et des dommages-intérêts que le tribunal fixera souverainement. Elle doit commencer par saisir l'Inspecteur du travail territorialement compétent pour tentative de conciliation, avant toute saisine du tribunal du travail."
+    }
+  ]
+}
