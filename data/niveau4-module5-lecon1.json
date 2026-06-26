@@ -1,0 +1,428 @@
+{
+  "titre": "Rédiger un bail commercial et un bail d'habitation à Madagascar",
+  "module": 5,
+  "niveau": "Professionnel",
+
+  "presentation": "Le bail — qu'il soit d'habitation ou commercial — est l'un des contrats les plus courants dans la vie quotidienne et dans les affaires à Madagascar. Pourtant, il est souvent conclu verbalement ou sur un papier improvisé, ce qui expose les deux parties à des conflits graves en cas de litige. À Madagascar, les baux sont principalement régis par le Code Civil malgache, le Code de Commerce pour les baux commerciaux, et les usages locaux. Ce module explique la distinction entre bail d'habitation et bail commercial, les clauses essentielles à prévoir dans chacun, les droits et obligations des parties, et les règles de congé et de renouvellement — avec quatre modèles réels et quatre cas pratiques.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'un bail et comment le distinguer des autres contrats ?",
+      "texte": "Le bail — aussi appelé contrat de location — est le contrat par lequel une personne, le bailleur, s'engage à mettre un bien à la disposition d'une autre personne, le locataire ou preneur, qui s'oblige à en payer un loyer. Le bail se distingue de la vente en ce que le locataire n'acquiert aucun droit de propriété sur le bien : il en dispose temporairement, contre paiement. Il se distingue du prêt à usage, qui est gratuit. À Madagascar, deux grandes catégories de baux existent en pratique : le bail d'habitation, qui porte sur un logement à usage résidentiel, et le bail commercial, qui porte sur un local utilisé pour l'exercice d'une activité commerciale, industrielle ou artisanale. Les règles applicables à chacun sont différentes, et les confondre — par exemple, louer un local commercial sous un simple bail d'habitation — peut avoir des conséquences juridiques importantes pour les deux parties.",
+      "definition": "Preneur : terme juridique désignant le locataire dans un bail commercial ; le mot est préféré à « locataire » pour souligner que le preneur exploite le bien à des fins professionnelles et non simplement résidentielles."
+    },
+    {
+      "titre": "Le bail d'habitation : principes et règles essentielles",
+      "texte": "Le bail d'habitation porte sur un local destiné à servir de résidence principale au locataire. À Madagascar, il est régi par le Code Civil et les usages locaux. La durée minimale n'est pas fixée légalement comme en France, mais les parties conviennent généralement d'une durée d'un an renouvelable tacitement. Le loyer est librement fixé entre les parties, sans plafonnement légal général, mais tout accord sur le loyer et ses conditions de révision doit figurer par écrit dans le contrat. Le bailleur est tenu de délivrer un logement en bon état d'usage, d'assurer la jouissance paisible des lieux, et d'effectuer les réparations autres que locatives. Le locataire est tenu de payer le loyer aux termes convenus, d'user paisiblement des lieux selon leur destination, d'entretenir le logement et d'effectuer les réparations locatives courantes. Le dépôt de garantie — souvent appelé « caution » dans le langage courant, terme impropre — est la somme versée en début de bail pour garantir l'exécution des obligations du locataire ; il doit être restitué en fin de bail, déduction faite des sommes éventuellement dues.",
+      "definition": "Réparations locatives : petites réparations et travaux d'entretien courant mis à la charge du locataire par la loi ou le contrat — par exemple, le remplacement des joints, l'entretien des robinetteries, la peinture des murs salis par un usage normal."
+    },
+    {
+      "titre": "Le bail commercial : spécificités et protection du preneur",
+      "texte": "Le bail commercial est celui qui porte sur un local dans lequel un commerçant, un industriel ou un artisan exploite son fonds. Il bénéficie d'un régime protecteur particulier, inspiré du droit français et consacré dans le Code de Commerce malgache, car le preneur a souvent investi dans l'aménagement du local et constitué une clientèle liée au lieu d'exploitation. La durée minimale d'un bail commercial est de neuf ans. Le preneur peut toutefois donner congé à la fin de chaque période triennale, moyennant un préavis de six mois. À l'expiration du bail, le preneur a en principe droit au renouvellement ; s'il est refusé sans motif légitime, le bailleur lui doit une indemnité d'éviction destinée à compenser la perte du fonds de commerce. La cession du droit au bail est possible, mais généralement soumise à l'accord écrit du bailleur. Le loyer est librement fixé à l'origine, puis révisé tous les trois ans en fonction d'un indice convenu."
+    },
+    {
+      "titre": "Les clauses essentielles communes aux deux types de baux",
+      "texte": "Quel que soit le type de bail, le contrat doit comporter : l'identité complète des parties (bailleur et locataire/preneur) avec leurs adresses et numéros de CIN ; la désignation précise du bien loué (adresse, superficie, description des locaux et de leurs accessoires) ; la destination des lieux (habitation, commerce, artisanat) ; la durée du bail et sa date de prise d'effet ; le montant du loyer, ses modalités de paiement et les conditions de révision ; le montant du dépôt de garantie et les conditions de sa restitution ; les obligations respectives du bailleur et du locataire en matière d'entretien et de réparations ; les conditions de résiliation et de congé ; et la clause attributive de juridiction en cas de litige. Plus le contrat est précis sur ces points, moins il laisse de place aux interprétations divergentes."
+    },
+    {
+      "titre": "L'état des lieux : une précaution indispensable",
+      "texte": "L'état des lieux est le document qui décrit, de manière contradictoire — c'est-à-dire en présence des deux parties ou de leurs représentants — l'état du bien au moment de la remise des clés. Il doit être établi à l'entrée dans les lieux et à la sortie. Sans état des lieux d'entrée, le locataire est présumé avoir reçu le bien en bon état, ce qui signifie qu'il devra restituer un bien en bon état à la fin du bail — même si les dégradations existaient avant son arrivée. L'état des lieux doit être signé par les deux parties et annexé au bail. À Madagascar, il est souvent négligé, ce qui génère de nombreux conflits à la fin du bail sur l'imputation des réparations. Il est donc fortement conseillé d'en établir un systématiquement, avec photos datées à l'appui.",
+      "definition": "État des lieux contradictoire : document établi en présence du bailleur et du locataire (ou de leurs représentants), décrivant l'état précis du bien loué au moment de l'entrée et de la sortie, et servant de référence pour l'imputation des éventuelles dégradations."
+    },
+    {
+      "titre": "Le congé : comment mettre fin régulièrement à un bail",
+      "texte": "Le congé est la notification par laquelle l'une des parties informe l'autre de sa volonté de mettre fin au bail à l'échéance du terme. Il doit respecter un délai de préavis et une forme précise, sous peine d'être inopérant. Pour un bail d'habitation, le locataire peut généralement donner congé à tout moment, sous réserve d'un préavis d'un à trois mois selon les situations. Le bailleur, lui, ne peut donner congé qu'à l'échéance du bail et pour des motifs légitimes : reprise pour habiter personnellement le bien, vente du bien, ou motif sérieux tel que le non-paiement des loyers. Pour un bail commercial, le congé doit être donné par acte extrajudiciaire (acte d'huissier) ou lettre recommandée avec accusé de réception, au moins six mois avant l'échéance triennale ou le terme du bail. Si aucune des parties ne donne congé dans les formes et délais prévus, le bail se renouvelle tacitement."
+    },
+    {
+      "titre": "Conseils pratiques pour sécuriser un bail à Madagascar",
+      "texte": "Plusieurs précautions concrètes permettent d'éviter les litiges les plus fréquents. Toujours établir le bail par écrit, même pour une location de courte durée. Préciser clairement la destination des lieux : un local loué comme entrepôt ne peut pas être transformé en commerce sans accord du bailleur. Faire légaliser les signatures au fokontany ou à la mairie pour renforcer la force probante du document. Établir un état des lieux contradictoire détaillé, avec photos, en entrée et en sortie. Faire des reçus de loyer signés pour chaque paiement. Ne jamais verser un dépôt de garantie sans reçu écrit mentionnant son montant et sa nature. Pour les baux commerciaux portant sur des locaux importants ou des montants élevés, faire appel à un avocat ou un notaire pour la rédaction du bail."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "variante": "Bail d'habitation — particulier à particulier, logement non meublé",
+      "complexite": "simple",
+      "contexte": "Monsieur RAKOTO Jean, propriétaire, loue son appartement non meublé à Madame RASOA Marie pour la somme de 300 000 Ariary par mois, à Antsiranana. Bail d'un an renouvelable tacitement.",
+      "document": {
+        "titre_acte": "CONTRAT DE BAIL D'HABITATION",
+        "lieu_date": "Antsiranana, le 1er juillet 2026",
+        "parties": {
+          "bailleur": {
+            "nom": "RAKOTO Jean",
+            "adresse": "Lot 47, Rue Colbert, Antsiranana 201",
+            "cin": "201 123 456 789",
+            "qualite": "ci-après dénommé « le Bailleur »"
+          },
+          "locataire": {
+            "nom": "RASOA Marie",
+            "adresse": "Lot 12, Quartier Aranta, Antsiranana 201",
+            "cin": "201 987 654 321",
+            "qualite": "ci-après dénommée « le Locataire »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Objet du bail",
+            "texte": "Le Bailleur donne à loyer au Locataire, qui accepte, un appartement non meublé à usage d'habitation principale, situé Lot 22B, Quartier Tanambao II, Antsiranana 201, comprenant : un salon, deux chambres, une cuisine, une salle de bains et des toilettes, d'une superficie approximative de 65 mètres carrés, avec une cour extérieure à usage privatif."
+          },
+          {
+            "titre": "Article 2 — Durée du bail",
+            "texte": "Le présent bail est consenti pour une durée d'un (1) an, prenant effet le 1er juillet 2026 et se terminant le 30 juin 2027. À l'expiration de ce terme, si aucune des parties n'a notifié sa volonté d'y mettre fin dans les conditions prévues à l'article 8, le bail sera reconduit tacitement pour des périodes successives d'un an."
+          },
+          {
+            "titre": "Article 3 — Loyer",
+            "texte": "Le Locataire s'engage à payer un loyer mensuel de trois cent mille ariary (300 000 Ariary), payable d'avance le 1er de chaque mois, entre les mains du Bailleur ou de son mandataire, contre remise d'un reçu signé. Tout retard de paiement supérieur à quinze jours ouvrira droit à une pénalité de retard de vingt mille ariary (20 000 Ariary) par semaine de retard supplémentaire."
+          },
+          {
+            "titre": "Article 4 — Dépôt de garantie",
+            "texte": "Le Locataire verse ce jour au Bailleur, à titre de dépôt de garantie, la somme de trois cent mille ariary (300 000 Ariary), soit l'équivalent d'un mois de loyer, dont le Bailleur reconnaît réception. Ce dépôt ne produit pas d'intérêts au bénéfice du Locataire. Il sera restitué dans un délai d'un mois suivant la restitution des clés et l'établissement de l'état des lieux de sortie, déduction faite des sommes éventuellement dues par le Locataire au titre des loyers impayés ou des réparations à sa charge."
+          },
+          {
+            "titre": "Article 5 — État des lieux",
+            "texte": "Un état des lieux contradictoire sera établi lors de la remise des clés et annexé au présent bail. Un second état des lieux contradictoire sera établi lors de la restitution des clés en fin de bail. À défaut d'état des lieux établi contradictoirement, le Locataire sera présumé avoir reçu les lieux en bon état et devra les restituer dans le même état."
+          },
+          {
+            "titre": "Article 6 — Obligations du Bailleur",
+            "texte": "Le Bailleur est tenu : de délivrer les lieux loués en bon état d'usage et de réparation ; d'assurer au Locataire la jouissance paisible des lieux pendant toute la durée du bail ; d'effectuer les réparations autres que locatives nécessaires au maintien du logement en état ; de délivrer gratuitement un reçu pour chaque loyer perçu."
+          },
+          {
+            "titre": "Article 7 — Obligations du Locataire",
+            "texte": "Le Locataire est tenu : de payer le loyer aux termes convenus ; d'user paisiblement des lieux loués conformément à leur destination résidentielle ; d'entretenir les lieux et d'effectuer les réparations locatives courantes à sa charge ; de ne pas transformer les lieux sans accord écrit du Bailleur ; de ne pas sous-louer les lieux sans accord écrit du Bailleur ; de laisser accéder le Bailleur aux lieux pour les visites de contrôle, avec un préavis de vingt-quatre heures sauf urgence ; de s'assurer contre les risques locatifs et d'en justifier sur demande."
+          },
+          {
+            "titre": "Article 8 — Congé",
+            "texte": "Le Locataire peut résilier le présent bail à tout moment, sous réserve d'un préavis d'un (1) mois notifié par lettre remise en main propre contre signature ou lettre recommandée avec accusé de réception. Le Bailleur ne peut donner congé qu'à l'échéance annuelle du bail, sous réserve d'un préavis de deux (2) mois, pour l'un des motifs suivants : reprise des lieux pour les habiter personnellement ou les faire habiter par un membre de sa famille directe ; vente des lieux loués ; motif légitime et sérieux, notamment le non-paiement du loyer ou le manquement grave aux obligations du bail."
+          },
+          {
+            "titre": "Article 9 — Clause résolutoire",
+            "texte": "À défaut de paiement du loyer dans les quinze jours suivant son échéance, ou de souscription d'une assurance des risques locatifs, le présent bail sera résilié de plein droit un mois après une mise en demeure du Bailleur restée sans effet, sans préjudice de tous dommages-intérêts."
+          },
+          {
+            "titre": "Article 10 — Juridiction compétente",
+            "texte": "En cas de litige relatif au présent bail, les parties tenteront un règlement amiable. À défaut d'accord, le Tribunal de Première Instance d'Antsiranana sera seul compétent."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antsiranana, dont un remis à chaque partie.",
+        "annexes": ["État des lieux d'entrée (à établir contradictoirement lors de la remise des clés)"],
+        "signatures": [
+          { "qualite": "Le Bailleur", "nom": "RAKOTO Jean", "mention": "Lu et approuvé" },
+          { "qualite": "Le Locataire", "nom": "RASOA Marie", "mention": "Lu et approuvé" }
+        ]
+      }
+    },
+
+    {
+      "id": 2,
+      "variante": "Bail d'habitation — logement meublé avec inventaire",
+      "complexite": "intermédiaire",
+      "contexte": "La société PRESTIGE LODGE SARL loue un studio meublé à Monsieur RANDRIA Tiana, étudiant, pour 250 000 Ariary par mois à Antananarivo. Le logement est meublé et équipé. Un inventaire du mobilier est annexé.",
+      "document": {
+        "titre_acte": "CONTRAT DE BAIL D'HABITATION — LOGEMENT MEUBLÉ",
+        "lieu_date": "Antananarivo, le 1er juillet 2026",
+        "parties": {
+          "bailleur": {
+            "denomination": "PRESTIGE LODGE SARL",
+            "siege_social": "Lot IB 14, Rue Ravoninahitriniarivo, Antananarivo 101",
+            "numero_stat": "40512026987654",
+            "representee_par": "Monsieur RASOLOFOSON Hery, Gérant",
+            "qualite": "ci-après dénommée « le Bailleur »"
+          },
+          "locataire": {
+            "nom": "RANDRIA Tiana",
+            "adresse": "Lot III C 4, Ambohijatovo, Antananarivo 101",
+            "cin": "101 234 987 654",
+            "qualite": "ci-après dénommé « le Locataire »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Objet du bail",
+            "texte": "Le Bailleur donne à loyer au Locataire un studio meublé à usage d'habitation principale, situé Résidence Anosy, Appartement B3, 2e étage, Antananarivo 101, comprenant une pièce principale de 30 mètres carrés avec coin cuisine intégré, une salle de bains avec toilettes, et un balcon. Le logement est équipé et meublé conformément à l'inventaire annexé au présent bail (Annexe 1), dont le Locataire reconnaît avoir pris connaissance."
+          },
+          {
+            "titre": "Article 2 — Durée",
+            "texte": "Le présent bail est conclu pour une durée d'un (1) an, prenant effet le 1er juillet 2026 et se terminant le 30 juin 2027. Il est renouvelable tacitement par périodes d'un an, sauf congé donné dans les conditions de l'article 8."
+          },
+          {
+            "titre": "Article 3 — Loyer et charges",
+            "texte": "Le loyer mensuel est fixé à deux cent cinquante mille ariary (250 000 Ariary), payable d'avance le 1er de chaque mois, par virement sur le compte bancaire du Bailleur ou remise en espèces contre reçu. En sus du loyer, le Locataire prend en charge la consommation d'électricité et d'eau, selon relevés des compteurs individuels. Les charges communes de l'immeuble (gardiennage, entretien des parties communes) sont incluses dans le loyer."
+          },
+          {
+            "titre": "Article 4 — Dépôt de garantie",
+            "texte": "Le Locataire verse ce jour un dépôt de garantie de deux cent cinquante mille ariary (250 000 Ariary), soit un mois de loyer, dont le Bailleur reconnaît réception. Ce dépôt sera restitué dans un délai d'un mois suivant la restitution des clés, déduction faite des sommes dues et du coût de remplacement ou de réparation des équipements et meubles manquants ou dégradés, constatés par comparaison avec l'inventaire d'entrée."
+          },
+          {
+            "titre": "Article 5 — Inventaire et état des lieux",
+            "texte": "Un inventaire contradictoire du mobilier et des équipements est établi ce jour et annexé au présent bail (Annexe 1). Un état des lieux d'entrée est également établi contradictoirement et annexé (Annexe 2). Un état des lieux de sortie et un inventaire de sortie seront établis contradictoirement lors de la restitution des clés. Le Locataire est responsable des dégradations et des pertes de mobilier ou d'équipements constatées entre l'entrée et la sortie, sauf vétusté normale."
+          },
+          {
+            "titre": "Article 6 — Obligations du Locataire",
+            "texte": "Outre les obligations générales du locataire, le Locataire s'engage à : utiliser les meubles et équipements fournis avec soin ; signaler immédiatement au Bailleur toute panne ou dégradation survenant dans le logement ; ne pas apporter de meubles supplémentaires sans accord du Bailleur ; ne pas héberger de tiers à titre permanent sans information préalable du Bailleur ; ne pas détenir d'animaux domestiques sans autorisation écrite préalable du Bailleur."
+          },
+          {
+            "titre": "Article 7 — Interdiction de sous-location",
+            "texte": "Le Locataire ne peut ni céder le présent bail, ni sous-louer tout ou partie du logement, ni à titre onéreux ni à titre gratuit, sans l'accord écrit préalable du Bailleur. Toute violation de cette clause constitue un motif de résiliation de plein droit du bail."
+          },
+          {
+            "titre": "Article 8 — Congé",
+            "texte": "Le Locataire peut résilier le bail à tout moment, sous réserve d'un préavis d'un (1) mois, notifié par lettre remise en main propre contre signature ou lettre recommandée avec accusé de réception. Le Bailleur ne peut donner congé qu'à l'échéance annuelle, sous réserve d'un préavis de deux (2) mois, pour motif légitime."
+          },
+          {
+            "titre": "Article 9 — Juridiction compétente",
+            "texte": "En cas de litige, le Tribunal de Première Instance d'Antananarivo sera compétent, après tentative de règlement amiable."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antananarivo, dont un remis à chaque partie.",
+        "annexes": [
+          "Annexe 1 : Inventaire contradictoire du mobilier et des équipements",
+          "Annexe 2 : État des lieux d'entrée"
+        ],
+        "signatures": [
+          { "qualite": "Le Bailleur", "nom": "RASOLOFOSON Hery — pour PRESTIGE LODGE SARL", "mention": "Lu et approuvé" },
+          { "qualite": "Le Locataire", "nom": "RANDRIA Tiana", "mention": "Lu et approuvé" }
+        ]
+      }
+    },
+
+    {
+      "id": 3,
+      "variante": "Bail commercial — local à usage de commerce de détail",
+      "complexite": "complexe",
+      "contexte": "Madame RABE Hortense, propriétaire, donne à bail commercial un local situé au marché d'Antsiranana à la société KANTO Commerce SARL pour l'exploitation d'une épicerie. Bail de neuf ans, loyer annuel de 3 600 000 Ariary, révisable tous les trois ans.",
+      "document": {
+        "titre_acte": "CONTRAT DE BAIL COMMERCIAL",
+        "sous_titre": "(Portant sur un local à usage de commerce de détail)",
+        "lieu_date": "Antsiranana, le 1er juillet 2026",
+        "parties": {
+          "bailleur": {
+            "nom": "RABE Hortense",
+            "adresse": "Lot 15, Rue du Commerce, Antsiranana 201",
+            "cin": "201 456 123 789",
+            "qualite": "ci-après dénommée « le Bailleur »"
+          },
+          "preneur": {
+            "denomination": "KANTO Commerce SARL",
+            "siege_social": "Lot 7, Marché Central, Antsiranana 201",
+            "numero_stat": "40512026741852",
+            "representee_par": "Monsieur KANTO Fidy, Gérant",
+            "cin_gerant": "201 789 654 123",
+            "qualite": "ci-après dénommée « le Preneur »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Désignation du local",
+            "texte": "Le Bailleur donne à bail commercial au Preneur, qui accepte, le local commercial situé Marché Central d'Antsiranana, Allée B, Stand n° 12, Antsiranana 201, d'une superficie de 45 mètres carrés en rez-de-chaussée, avec accès direct sur l'allée principale, comprenant la salle de vente et une réserve attenante de 12 mètres carrés. Le Preneur déclare avoir visité le local et l'accepter dans l'état où il se trouve à la date de prise d'effet du bail."
+          },
+          {
+            "titre": "Article 2 — Destination des lieux",
+            "texte": "Le local loué est exclusivement destiné à l'exploitation d'une épicerie et commerce de détail de produits alimentaires et d'articles ménagers courants. Toute modification de destination — changement d'activité ou extension à d'autres activités non connexes — est subordonnée à l'accord écrit et préalable du Bailleur. Le Preneur ne pourra en aucun cas exercer une activité contraire aux lois, à l'ordre public ou aux bonnes mœurs."
+          },
+          {
+            "titre": "Article 3 — Durée du bail",
+            "texte": "Le présent bail est consenti pour une durée de neuf (9) années entières et consécutives, prenant effet le 1er juillet 2026 et expirant le 30 juin 2035. Toutefois, le Preneur pourra donner congé à l'expiration de chaque période triennale — soit le 30 juin 2029, le 30 juin 2032, ou le 30 juin 2035 — à condition de notifier son intention au Bailleur par lettre recommandée avec accusé de réception au moins six (6) mois avant l'échéance concernée."
+          },
+          {
+            "titre": "Article 4 — Loyer",
+            "texte": "Le présent bail est consenti moyennant un loyer annuel hors taxes de trois millions six cent mille ariary (3 600 000 Ariary), soit trois cent mille ariary (300 000 Ariary) par mois, payable mensuellement et d'avance le 1er de chaque mois, entre les mains du Bailleur ou de son mandataire désigné, contre remise d'un reçu signé."
+          },
+          {
+            "titre": "Article 5 — Révision du loyer",
+            "texte": "Le loyer sera révisé à l'expiration de chaque période triennale, soit le 1er juillet 2029 et le 1er juillet 2032. La révision interviendra d'un commun accord entre les parties sur la base de l'évolution du coût de la vie à Madagascar. À défaut d'accord dans un délai de deux mois avant l'échéance triennale, chacune des parties pourra saisir le Tribunal compétent pour faire fixer le loyer révisé."
+          },
+          {
+            "titre": "Article 6 — Dépôt de garantie",
+            "texte": "Le Preneur verse ce jour au Bailleur, à titre de dépôt de garantie, la somme de neuf cent mille ariary (900 000 Ariary), équivalent à trois mois de loyer, dont le Bailleur reconnaît réception. Ce dépôt sera restitué au Preneur dans un délai d'un mois suivant la restitution des clés en fin de bail, déduction faite de toutes sommes dues par le Preneur au titre du loyer, des charges, des réparations ou indemnités quelconques."
+          },
+          {
+            "titre": "Article 7 — État des lieux",
+            "texte": "Un état des lieux contradictoire est établi ce jour et annexé au présent bail (Annexe 1). Un état des lieux de sortie sera établi contradictoirement lors de la restitution des clés. Le Preneur devra restituer le local en bon état d'entretien et de réparations, à l'exception des dégradations dues à la vétusté normale."
+          },
+          {
+            "titre": "Article 8 — Obligations du Bailleur",
+            "texte": "Le Bailleur est tenu : de délivrer les lieux en bon état ; d'assurer la jouissance paisible du local pendant toute la durée du bail ; de prendre en charge les grosses réparations portant sur le gros œuvre, la toiture et les éléments structurels du bâtiment, au sens de l'article 606 du Code Civil."
+          },
+          {
+            "titre": "Article 9 — Obligations du Preneur",
+            "texte": "Le Preneur est tenu : de payer le loyer aux termes convenus ; d'entretenir le local en bon état et d'effectuer toutes réparations locatives et d'entretien courant ; de ne procéder à aucun travaux de transformation, d'aménagement ou de modification des structures sans accord écrit préalable du Bailleur ; de signaler immédiatement au Bailleur, par lettre recommandée, toute dégradation nécessitant une intervention du Bailleur ; de respecter la destination commerciale des lieux et les règlements administratifs applicables à son activité ; de souscrire et maintenir une assurance contre les risques d'incendie, d'explosion, de dégâts des eaux et de responsabilité civile, et d'en justifier au Bailleur sur simple demande."
+          },
+          {
+            "titre": "Article 10 — Sous-location et cession de droit au bail",
+            "texte": "Toute sous-location totale ou partielle du local est interdite sans l'accord écrit et préalable du Bailleur. La cession du droit au bail est autorisée uniquement dans le cadre d'une cession globale du fonds de commerce exploité dans les lieux, et sous réserve de l'agrément écrit préalable du Bailleur, notifié quinze jours avant la date prévue de cession."
+          },
+          {
+            "titre": "Article 11 — Renouvellement et droit au bail",
+            "texte": "À l'expiration du bail, le Preneur bénéficie d'un droit au renouvellement pour une nouvelle période de neuf ans, aux conditions du marché. Si le Bailleur refuse le renouvellement sans motif légitime reconnu par la loi, il devra verser au Preneur une indemnité d'éviction dont le montant sera fixé d'un commun accord ou, à défaut, par le Tribunal compétent, en tenant compte notamment de la valeur marchande du fonds de commerce et des frais de déménagement et de réinstallation."
+          },
+          {
+            "titre": "Article 12 — Clause résolutoire",
+            "texte": "À défaut de paiement d'un seul terme de loyer à son échéance, ou d'exécution de l'une des conditions du présent bail, le bail sera résilié de plein droit un mois après une mise en demeure du Bailleur restée sans effet, sans préjudice de tous dommages-intérêts."
+          },
+          {
+            "titre": "Article 13 — Juridiction compétente",
+            "texte": "En cas de litige, les parties conviennent de tenter un règlement amiable avant toute saisine du Tribunal. À défaut d'accord, le Tribunal de Première Instance d'Antsiranana sera seul compétent."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antsiranana, dont un remis à chaque partie.",
+        "annexes": ["Annexe 1 : État des lieux d'entrée contradictoire"],
+        "signatures": [
+          { "qualite": "Le Bailleur", "nom": "RABE Hortense", "mention": "Lu et approuvé" },
+          { "qualite": "Le Preneur", "nom": "KANTO Fidy — pour KANTO Commerce SARL", "mention": "Lu et approuvé" }
+        ]
+      }
+    },
+
+    {
+      "id": 4,
+      "variante": "Bail commercial — local professionnel cabinet d'avocat",
+      "complexite": "complexe",
+      "contexte": "Maître ANDRY Rakoto, avocat, prend à bail un local à usage de cabinet d'avocat à Antananarivo, appartenant à la société IMMO DIANA SA. Bail de neuf ans, loyer mensuel de 800 000 Ariary, avec clause de non-concurrence du bailleur et clause d'enseigne.",
+      "document": {
+        "titre_acte": "CONTRAT DE BAIL COMMERCIAL — LOCAL À USAGE PROFESSIONNEL",
+        "sous_titre": "(Cabinet d'avocat)",
+        "lieu_date": "Antananarivo, le 1er juillet 2026",
+        "parties": {
+          "bailleur": {
+            "denomination": "IMMO DIANA SA",
+            "siege_social": "Immeuble Antaninarenina, 5ᵉ étage, Antananarivo 101",
+            "numero_stat": "40512024963852",
+            "representee_par": "Madame RANDRIANASOLO Vao, Directrice Générale",
+            "qualite": "ci-après dénommée « le Bailleur »"
+          },
+          "preneur": {
+            "nom": "Maître ANDRY Rakoto",
+            "qualite_professionnelle": "Avocat au Barreau d'Antananarivo",
+            "adresse": "Lot II B 3, Analakely, Antananarivo 101",
+            "cin": "101 852 741 963",
+            "qualite": "ci-après dénommé « le Preneur »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Désignation du local",
+            "texte": "Le Bailleur donne à bail au Preneur les locaux suivants situés Immeuble Antaninarenina, 2ᵉ étage, Bureau n° 204, Antananarivo 101, comprenant : un bureau de réception de 25 mètres carrés, un bureau de travail de 20 mètres carrés, une salle d'attente de 15 mètres carrés, et des sanitaires à usage privatif, soit une superficie totale de 60 mètres carrés. L'immeuble est doté d'un ascenseur et d'un parking réservé aux locataires de l'immeuble."
+          },
+          {
+            "titre": "Article 2 — Destination des lieux",
+            "texte": "Le local loué est exclusivement destiné à l'exercice d'un cabinet d'avocat et à toutes activités juridiques et consultatives connexes exercées par le Preneur en sa qualité d'avocat inscrit au Barreau d'Antananarivo. Le Preneur s'engage à n'y exercer aucune autre activité et à maintenir l'activité professionnelle pour laquelle le bail est conclu pendant toute sa durée."
+          },
+          {
+            "titre": "Article 3 — Durée",
+            "texte": "Le présent bail est consenti pour neuf (9) années entières et consécutives, prenant effet le 1er juillet 2026 et expirant le 30 juin 2035. Le Preneur pourra donner congé à l'expiration de chaque période triennale — soit le 30 juin 2029, le 30 juin 2032 ou le 30 juin 2035 — sous réserve d'un préavis de six (6) mois notifié par lettre recommandée avec accusé de réception ou acte extrajudiciaire."
+          },
+          {
+            "titre": "Article 4 — Loyer et modalités de paiement",
+            "texte": "Le présent bail est consenti moyennant un loyer mensuel hors taxes de huit cent mille ariary (800 000 Ariary), soit neuf millions six cent mille ariary (9 600 000 Ariary) annuels, payable mensuellement d'avance le 1er de chaque mois par virement bancaire sur le compte du Bailleur, contre remise d'un reçu."
+          },
+          {
+            "titre": "Article 5 — Révision triennale du loyer",
+            "texte": "Le loyer sera révisé d'un commun accord à l'expiration de chaque période triennale. La demande de révision devra être notifiée six mois avant l'échéance triennale. En l'absence d'accord dans les deux mois suivant la notification, le loyer sera maintenu au montant en cours jusqu'à accord ou décision judiciaire."
+          },
+          {
+            "titre": "Article 6 — Dépôt de garantie",
+            "texte": "Le Preneur verse ce jour un dépôt de garantie de deux millions quatre cent mille ariary (2 400 000 Ariary), représentant trois mois de loyer, dont le Bailleur reconnaît réception. Ce dépôt sera restitué dans le mois suivant la restitution des clés, déduction faite de toutes sommes dues."
+          },
+          {
+            "titre": "Article 7 — Travaux d'aménagement",
+            "texte": "Le Preneur pourra, à ses frais et après accord écrit du Bailleur, réaliser tous aménagements intérieurs nécessaires à l'exercice de son activité (cloisons, réseau informatique, signalétique). Ces aménagements resteront la propriété du Bailleur en fin de bail, sauf accord contraire. Le Bailleur conserve à sa charge les grosses réparations affectant le gros œuvre, la toiture et les équipements communs de l'immeuble."
+          },
+          {
+            "titre": "Article 8 — Enseigne et signalétique",
+            "texte": "Le Preneur est autorisé à apposer sur la façade de l'immeuble et à l'entrée du bureau une plaque professionnelle à son nom et à sa qualité d'avocat, conformément aux règles du Barreau d'Antananarivo. Cette plaque devra être retirée aux frais du Preneur lors de la restitution des lieux. Le Preneur s'engage à s'acquitter de toute taxe applicable à l'enseigne professionnelle."
+          },
+          {
+            "titre": "Article 9 — Clause de non-concurrence du Bailleur",
+            "texte": "Le Bailleur s'interdit, pendant toute la durée du présent bail et de ses éventuels renouvellements, de louer un autre local de l'immeuble à un cabinet d'avocat ou à toute autre activité juridique concurrente de celle du Preneur."
+          },
+          {
+            "titre": "Article 10 — Assurances",
+            "texte": "Le Preneur devra souscrire et maintenir pendant toute la durée du bail une assurance responsabilité civile professionnelle couvrant son activité d'avocat, ainsi qu'une assurance couvrant les risques locatifs (incendie, dégâts des eaux, explosion). Il devra en justifier au Bailleur sur simple demande."
+          },
+          {
+            "titre": "Article 11 — Renouvellement",
+            "texte": "À l'expiration du bail, le Preneur bénéficie du droit au renouvellement. Si le Bailleur refuse le renouvellement sans motif légitime, il devra verser une indemnité d'éviction dont le montant sera fixé en tenant compte de la valeur du droit au bail et des préjudices subis par le Preneur du fait de la perte de son lieu d'exercice."
+          },
+          {
+            "titre": "Article 12 — Clause résolutoire",
+            "texte": "À défaut de paiement d'un terme de loyer ou d'exécution de l'une des obligations du présent bail, le bail sera résilié de plein droit un mois après mise en demeure restée sans effet, sans préjudice de tous dommages-intérêts."
+          },
+          {
+            "titre": "Article 13 — Juridiction compétente",
+            "texte": "En cas de litige, les parties tenteront un règlement amiable. À défaut, le Tribunal de Première Instance d'Antananarivo sera seul compétent."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antananarivo, dont un remis à chaque partie.",
+        "annexes": [
+          "Annexe 1 : État des lieux d'entrée contradictoire",
+          "Annexe 2 : Plan des locaux"
+        ],
+        "signatures": [
+          { "qualite": "Le Bailleur", "nom": "RANDRIANASOLO Vao — pour IMMO DIANA SA", "mention": "Lu et approuvé" },
+          { "qualite": "Le Preneur", "nom": "Maître ANDRY Rakoto", "mention": "Lu et approuvé" }
+        ]
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur TOJO loue un appartement depuis deux ans à Madame VOLA. Il n'y a pas eu d'état des lieux à l'entrée. Lorsqu'il restitue les clés, Madame VOLA refuse de lui rendre son dépôt de garantie de 400 000 Ariary, en affirmant que les murs sont tachés et que la porte de la salle de bains est abîmée. Monsieur TOJO soutient que ces dégradations existaient avant son arrivée.",
+      "question": "Qui supporte la charge de la preuve, et quel est le risque pour Monsieur TOJO ?",
+      "choix": [
+        "Sans état des lieux d'entrée, Monsieur TOJO est présumé avoir reçu les lieux en bon état : c'est lui qui devra prouver que les dégradations préexistaient, ce qui est pratiquement impossible. Madame VOLA peut légitimement retenir tout ou partie du dépôt de garantie pour les réparations imputables au locataire.",
+        "Sans état des lieux, il n'y a aucune preuve de dégradation : Madame VOLA ne peut rien retenir et doit restituer l'intégralité du dépôt.",
+        "La charge de la preuve incombe à Madame VOLA : c'est à elle de prouver que les dégradations ont été causées par Monsieur TOJO.",
+        "Le tribunal partagera automatiquement le dépôt de garantie en deux parts égales en l'absence d'état des lieux."
+      ],
+      "reponse": "Sans état des lieux d'entrée, Monsieur TOJO est présumé avoir reçu les lieux en bon état : c'est lui qui devra prouver que les dégradations préexistaient, ce qui est pratiquement impossible. Madame VOLA peut légitimement retenir tout ou partie du dépôt de garantie pour les réparations imputables au locataire.",
+      "indices": "Rappelez-vous le rôle de l'état des lieux et la présomption qui joue en son absence. Qui est pénalisé par l'absence de ce document ?",
+      "explication": "En l'absence d'état des lieux d'entrée, le Code Civil malgache — comme le droit commun — établit une présomption selon laquelle le locataire a reçu les lieux en bon état. La charge de la preuve contraire pèse donc sur le locataire, qui doit démontrer que les dégradations existaient avant son entrée dans les lieux. Sans photos, témoignages ou autres preuves établies au moment de l'entrée, cette preuve est quasiment impossible à rapporter. Monsieur TOJO est dans une position très défavorable. Cette situation — extrêmement fréquente à Madagascar — illustre pourquoi l'état des lieux d'entrée est une protection indispensable pour le locataire, et non une simple formalité."
+    },
+    {
+      "id": 2,
+      "scenario": "La société MIRANA SARL exploite un restaurant depuis cinq ans dans un local qu'elle loue sous bail d'habitation ordinaire, faute d'avoir signé un bail commercial. Le bailleur, Monsieur RAVELO, souhaite récupérer son local et notifie un préavis de deux mois. MIRANA SARL conteste et affirme bénéficier du statut des baux commerciaux avec droit au renouvellement.",
+      "question": "MIRANA SARL peut-elle invoquer le statut des baux commerciaux et s'opposer au congé ?",
+      "choix": [
+        "Oui : malgré l'intitulé « bail d'habitation », la nature réelle de l'utilisation du local — exploitation d'un fonds de commerce depuis cinq ans — permet à MIRANA SARL de revendiquer le bénéfice du statut des baux commerciaux, avec droit au renouvellement et, en cas de refus, indemnité d'éviction.",
+        "Non : MIRANA SARL a signé un bail d'habitation et ne peut pas prétendre à un statut qu'elle n'a pas négocié.",
+        "Non : le statut des baux commerciaux ne s'applique qu'aux locaux expressément loués pour un usage commercial.",
+        "Oui, mais uniquement si MIRANA SARL prouve qu'elle a informé le bailleur de son activité commerciale au moment de la signature."
+      ],
+      "reponse": "Oui : malgré l'intitulé « bail d'habitation », la nature réelle de l'utilisation du local — exploitation d'un fonds de commerce depuis cinq ans — permet à MIRANA SARL de revendiquer le bénéfice du statut des baux commerciaux, avec droit au renouvellement et, en cas de refus, indemnité d'éviction.",
+      "indices": "Comme pour le contrat de travail, c'est la réalité de la situation qui prime sur l'intitulé du contrat. Demandez-vous ce que protège le statut des baux commerciaux et pourquoi.",
+      "explication": "Le statut des baux commerciaux est d'ordre public protecteur : il s'applique dès lors que les conditions légales sont réunies — exploitation d'un fonds de commerce dans le local loué — indépendamment de l'intitulé donné au contrat par les parties. Un bailleur ne peut pas priver son locataire commerçant de la protection légale en qualifiant le bail de « bail d'habitation ». MIRANA SARL, qui exploite un restaurant depuis cinq ans dans ce local en toute connaissance du bailleur, peut donc revendiquer le bénéfice du statut des baux commerciaux, ce qui lui donne droit au renouvellement. Si Monsieur RAVELO refuse le renouvellement, il devra verser une indemnité d'éviction. Ce cas illustre le risque pour le bailleur qui tente de contourner le statut des baux commerciaux : il s'expose à une protection renforcée du preneur devant le tribunal."
+    },
+    {
+      "id": 3,
+      "scenario": "Madame AINA loue un appartement à Monsieur SOLO depuis dix-huit mois. Elle souhaite récupérer son logement pour y habiter elle-même avec sa famille. Elle lui adresse un SMS lui demandant de partir dans le mois. Monsieur SOLO refuse de partir et continue de payer son loyer.",
+      "question": "Le congé donné par Madame AINA est-il régulier, et Monsieur SOLO doit-il partir ?",
+      "choix": [
+        "Non : un SMS ne satisfait pas aux conditions de forme d'un congé. De plus, le congé du bailleur ne peut intervenir qu'à l'échéance annuelle du bail, avec un préavis de deux mois, et non dans le courant du bail. Monsieur SOLO est en droit de rester jusqu'à ce qu'un congé régulier lui soit notifié.",
+        "Oui : l'intention de Madame AINA est claire et Monsieur SOLO doit partir dans le mois.",
+        "Oui, car la reprise pour habiter personnellement est un motif légitime qui autorise le bailleur à mettre fin au bail immédiatement.",
+        "Non, mais uniquement parce que le préavis d'un mois est insuffisant : il aurait dû être de trois mois."
+      ],
+      "reponse": "Non : un SMS ne satisfait pas aux conditions de forme d'un congé. De plus, le congé du bailleur ne peut intervenir qu'à l'échéance annuelle du bail, avec un préavis de deux mois, et non dans le courant du bail. Monsieur SOLO est en droit de rester jusqu'à ce qu'un congé régulier lui soit notifié.",
+      "indices": "Vérifiez deux choses : la forme requise pour un congé valable, et le moment auquel le bailleur peut donner congé dans un bail d'habitation.",
+      "explication": "Un congé donné par SMS est sans valeur juridique : le congé doit être notifié par lettre remise en main propre contre signature ou lettre recommandée avec accusé de réception, pour que la date de réception soit certaine et que le délai de préavis puisse être calculé. Par ailleurs, dans un bail d'habitation, le bailleur ne peut donner congé qu'à l'échéance du terme du bail — ici l'anniversaire annuel du contrat — et non à n'importe quel moment, même pour un motif légitime comme la reprise pour habiter. Enfin, le préavis du bailleur est de deux mois, non d'un mois. Monsieur SOLO est donc pleinement fondé à rester dans les lieux jusqu'à réception d'un congé régulier en la forme."
+    },
+    {
+      "id": 4,
+      "scenario": "Monsieur RIVO a signé un bail commercial de neuf ans pour exploiter une boutique de téléphonie. Après trois ans, il souhaite céder son bail à un ami qui veut y ouvrir un salon de coiffure. Le contrat de bail prévoit que « toute cession du droit au bail est autorisée librement ». Le bailleur refuse la cession au motif que l'activité de coiffure est différente de la téléphonie.",
+      "question": "Le refus du bailleur est-il fondé malgré la clause de cession libre ?",
+      "choix": [
+        "Oui en partie : la clause de cession libre porte sur le droit au bail, mais non sur le changement de destination du local. La destination prévue au bail est la téléphonie ; un changement d'activité vers la coiffure nécessite l'accord du bailleur, qui peut légitimement le refuser si le bail ne prévoit pas cette activité.",
+        "Non : la clause de cession libre signifie que le bailleur ne peut pas s'opposer ni à la cession ni au changement d'activité.",
+        "Oui totalement : tout changement de locataire dans un bail commercial requiert toujours l'accord du bailleur, et la clause de cession libre est réputée non écrite.",
+        "Non : le bailleur ne peut refuser que si la nouvelle activité est contraire aux bonnes mœurs ou illicite."
+      ],
+      "reponse": "Oui en partie : la clause de cession libre porte sur le droit au bail, mais non sur le changement de destination du local. La destination prévue au bail est la téléphonie ; un changement d'activité vers la coiffure nécessite l'accord du bailleur, qui peut légitimement le refuser si le bail ne prévoit pas cette activité.",
+      "indices": "Distinguez deux questions distinctes : celle de la cession du droit au bail d'une part, et celle du changement de destination du local d'autre part. Le bail peut autoriser l'une sans autoriser l'autre.",
+      "explication": "La clause autorisant librement la cession du droit au bail lève l'exigence d'accord du bailleur sur le changement de locataire. Mais elle ne modifie pas la destination contractuelle du local, qui reste fixée à l'article de destination du bail — ici la téléphonie. Or, la coiffure n'est pas une activité connexe ou complémentaire à la téléphonie : c'est un changement de destination, qui nécessite un accord exprès du bailleur. Le bailleur peut donc refuser le changement de destination sans pour autant s'opposer à la cession elle-même : il pourrait accepter la cession si le cessionnaire maintenait une activité de téléphonie. Ce cas illustre l'importance de rédiger la clause de destination avec soin — une destination large (« commerce en général ») offre plus de flexibilité au preneur qu'une destination étroitement définie."
+    }
+  ]
+}
+ 
