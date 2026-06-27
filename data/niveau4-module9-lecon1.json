@@ -1,0 +1,198 @@
+{
+  "titre": "Le calcul de l'IRSA — salaire, tranches, retenues",
+  "module": 9,
+  "niveau": "Professionnel",
+
+  "presentation": "L'IRSA (Impôt sur les Revenus Salariaux et Assimilés) est l'impôt prélevé à la source sur les salaires à Madagascar. Depuis le 1er janvier 2026, son barème comporte une sixième tranche à 25 % pour les très hauts revenus, introduite par la Loi n° 2025-021 portant Loi de Finances pour 2026. Ce module explique comment déterminer la base imposable, appliquer le barème par tranches, calculer les réductions et le minimum de perception — avec quatre exemples chiffrés et quatre cas pratiques.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que l'IRSA ?",
+      "texte": "L'IRSA est un impôt prélevé à la source sur les revenus du salarié : il est retenu directement sur le salaire par l'employeur, qui le reverse à l'administration fiscale. Il englobe les salaires et traitements, les revenus des dirigeants et administrateurs, ainsi que les indemnités et allocations assimilées à un complément de revenu. Son fonctionnement est fixé par le Code des Impôts, partie I, titre III. La Loi n° 2025-021 portant Loi de Finances pour 2026, adoptée par l'Assemblée nationale et le Sénat les 25 novembre et 5 décembre 2025, a introduit une nouvelle tranche d'imposition applicable depuis le 1er janvier 2026."
+    },
+    {
+      "titre": "Déterminer la base imposable",
+      "texte": "La base de calcul de l'IRSA s'obtient en déduisant du salaire brut les cotisations salariales de retraite et de santé, à savoir la CNAPS (1 % du salaire brut) et l'OSTIE (1 % du salaire brut), ainsi que les éventuels autres revenus exonérés. Le résultat est arrondi à la centaine d'Ariary inférieure.",
+      "definition": "Base de calcul de l'IRSA = Salaire brut – Cotisation salariale CNAPS (1 %) – Cotisation salariale OSTIE (1 %) – autres revenus exonérés, le tout arrondi à la centaine d'Ariary inférieure."
+    },
+    {
+      "titre": "Le plafonnement des cotisations CNAPS et OSTIE",
+      "texte": "La base de calcul des cotisations CNAPS et OSTIE est plafonnée à huit fois le Salaire Minimum d'Embauche (SME), soit 2 101 440 Ariary. Au-delà de ce plafond, les cotisations salariales ne sont plus calculées sur le salaire réel mais sur ce montant plafonné : 21 014,40 Ariary pour la CNAPS et autant pour l'OSTIE, quel que soit le salaire effectivement versé au-delà de ce seuil."
+    },
+    {
+      "titre": "Le barème par tranches",
+      "texte": "L'IRSA est un impôt progressif : chaque portion du revenu est taxée au taux correspondant à sa tranche, et non l'ensemble du revenu au taux le plus élevé atteint. Depuis le 1er janvier 2026, le barème comporte six tranches : de 0 à 350 000 Ar (0 %), de 350 001 à 400 000 Ar (5 %), de 400 001 à 500 000 Ar (10 %), de 500 001 à 600 000 Ar (15 %), de 600 001 à 4 000 000 Ar (20 %), et au-delà de 4 000 000 Ar (25 %). Le montant de l'IRSA théorique est la somme des montants obtenus sur chacune des tranches."
+    },
+    {
+      "titre": "La nouvelle tranche à 25 %",
+      "texte": "Seule la portion du revenu mensuel imposable dépassant 4 000 000 Ariary est taxée à 25 % ; les quatre premiers millions restent soumis aux cinq tranches inférieures. Cette nouvelle tranche, introduite par la Loi n° 2025-021, ne concerne donc qu'une minorité de salariés percevant des rémunérations très élevées."
+    },
+    {
+      "titre": "La réduction pour personnes à charge",
+      "texte": "Une réduction de 2 000 Ariary est appliquée sur l'IRSA théorique pour chaque personne à charge déclarée. Cette réduction s'impute sur le montant de l'impôt calculé par tranches, et non sur la base imposable elle-même."
+    },
+    {
+      "titre": "Le minimum de perception",
+      "texte": "Conformément à l'article 01.03.16 du Code des Impôts, le montant de l'IRSA ne peut être inférieur à 3 000 Ariary par mois, quels que soient les revenus et les réductions applicables. Si le calcul par tranches, après déduction des personnes à charge, aboutit à un montant inférieur à 3 000 Ariary, c'est ce minimum qui doit être retenu. Seuls les salariés dont la base imposable ne dépasse pas 350 000 Ariary sont totalement exonérés et ne paient pas ce minimum.",
+      "definition": "Minimum de perception : montant plancher de l'IRSA (3 000 Ar) en deçà duquel l'impôt ne peut descendre, sauf exonération totale pour les bases imposables ne dépassant pas 350 000 Ar."
+    },
+    {
+      "titre": "Exonérations particulières et paiement de l'IRSA",
+      "texte": "Les vingt premières heures supplémentaires effectuées chaque mois sont exonérées d'IRSA ; seules les heures supplémentaires excédant ce seuil sont intégrées dans la base imposable. L'employeur retient l'IRSA à la source chaque mois et le reverse à l'administration fiscale au plus tard le 15 du mois suivant celui du paiement des salaires. Le détail du calcul par tranche doit figurer sur le bulletin de paie du salarié."
+    }
+  ],
+
+  "exemples_calcul": [
+    {
+      "id": 1,
+      "nom_salarie": "Rakoto",
+      "complexite": "simple",
+      "donnees": { "salaire_brut": 800000, "personnes_a_charge": 1 },
+      "objectif_pedagogique": "Calcul de base sur plusieurs tranches, sans plafonnement des cotisations ni minimum de perception.",
+      "detail_calcul": {
+        "cotisation_cnaps": "800 000 x 1 % = 8 000 Ar",
+        "cotisation_ostie": "800 000 x 1 % = 8 000 Ar",
+        "base_imposable": "800 000 - 8 000 - 8 000 = 784 000 Ar",
+        "tranches": [
+          "Tranche 1 (0 à 350 000) : 0 %, soit 0 Ar",
+          "Tranche 2 (350 001 à 400 000) : (400 000 - 350 000) x 5 % = 2 500 Ar",
+          "Tranche 3 (400 001 à 500 000) : (500 000 - 400 000) x 10 % = 10 000 Ar",
+          "Tranche 4 (500 001 à 600 000) : (600 000 - 500 000) x 15 % = 15 000 Ar",
+          "Tranche 5 (600 001 à 4 000 000) : (784 000 - 600 000) x 20 % = 36 800 Ar"
+        ],
+        "irsa_theorique": "0 + 2 500 + 10 000 + 15 000 + 36 800 = 64 300 Ar",
+        "reduction_charges": "1 x 2 000 = 2 000 Ar",
+        "irsa_a_payer": "64 300 - 2 000 = 62 300 Ar"
+      }
+    },
+    {
+      "id": 2,
+      "nom_salarie": "Martin",
+      "complexite": "simple",
+      "donnees": { "salaire_brut": 450000, "personnes_a_charge": 3 },
+      "objectif_pedagogique": "Illustre le minimum de perception : le calcul théorique, une fois réduit, tombe sous 3 000 Ar.",
+      "detail_calcul": {
+        "cotisation_cnaps": "450 000 x 1 % = 4 500 Ar",
+        "cotisation_ostie": "450 000 x 1 % = 4 500 Ar",
+        "base_imposable": "450 000 - 4 500 - 4 500 = 441 000 Ar",
+        "tranches": [
+          "Tranche 1 (0 à 350 000) : 0 %, soit 0 Ar",
+          "Tranche 2 (350 001 à 400 000) : (400 000 - 350 000) x 5 % = 2 500 Ar",
+          "Tranche 3 (400 001 à 500 000) : (441 000 - 400 000) x 10 % = 4 100 Ar"
+        ],
+        "irsa_theorique": "0 + 2 500 + 4 100 = 6 600 Ar",
+        "reduction_charges": "3 x 2 000 = 6 000 Ar",
+        "calcul_avant_minimum": "6 600 - 6 000 = 600 Ar",
+        "irsa_a_payer": "600 Ar est inférieur au minimum de perception de 3 000 Ar : le minimum s'applique, donc 3 000 Ar"
+      }
+    },
+    {
+      "id": 3,
+      "nom_salarie": "Eric",
+      "complexite": "complexe",
+      "donnees": { "salaire_brut": 5150200, "personnes_a_charge": 2 },
+      "objectif_pedagogique": "Illustre à la fois le plafonnement des cotisations CNAPS/OSTIE et la nouvelle tranche à 25 %.",
+      "detail_calcul": {
+        "cotisation_cnaps": "Plafonnée : 2 101 440 x 1 % = 21 014,40 Ar",
+        "cotisation_ostie": "Plafonnée : 2 101 440 x 1 % = 21 014,40 Ar",
+        "base_imposable": "5 150 200 - 21 014,40 - 21 014,40 = 5 108 171,20 Ar, arrondi à 5 108 100 Ar",
+        "tranches": [
+          "Tranche 1 (0 à 350 000) : 0 %, soit 0 Ar",
+          "Tranche 2 (350 001 à 400 000) : (400 000 - 350 000) x 5 % = 2 500 Ar",
+          "Tranche 3 (400 001 à 500 000) : (500 000 - 400 000) x 10 % = 10 000 Ar",
+          "Tranche 4 (500 001 à 600 000) : (600 000 - 500 000) x 15 % = 15 000 Ar",
+          "Tranche 5 (600 001 à 4 000 000) : (4 000 000 - 600 000) x 20 % = 680 000 Ar",
+          "Tranche 6 (au-delà de 4 000 000) : (5 108 100 - 4 000 000) x 25 % = 277 025 Ar"
+        ],
+        "irsa_theorique": "0 + 2 500 + 10 000 + 15 000 + 680 000 + 277 025 = 984 525 Ar",
+        "reduction_charges": "2 x 2 000 = 4 000 Ar",
+        "irsa_a_payer": "984 525 - 4 000 = 980 525 Ar"
+      }
+    },
+    {
+      "id": 4,
+      "nom_salarie": "Lalao",
+      "complexite": "complexe",
+      "donnees": { "salaire_de_base": 600000, "heures_supplementaires": 30, "taux_horaire_majore": 4000, "personnes_a_charge": 0 },
+      "objectif_pedagogique": "Illustre l'exonération des 20 premières heures supplémentaires et son articulation avec le reste du calcul.",
+      "detail_calcul": {
+        "heures_supplementaires_totales": "30 heures x 4 000 Ar = 120 000 Ar",
+        "salaire_brut_total": "600 000 + 120 000 = 720 000 Ar",
+        "heures_exonerees": "20 premières heures x 4 000 Ar = 80 000 Ar (exonérées d'IRSA)",
+        "heures_imposables": "10 heures restantes x 4 000 Ar = 40 000 Ar (imposables)",
+        "cotisation_cnaps": "720 000 x 1 % = 7 200 Ar (calculée sur le salaire brut total, y compris les heures exonérées d'IRSA)",
+        "cotisation_ostie": "720 000 x 1 % = 7 200 Ar",
+        "base_imposable": "(720 000 - 80 000) - 7 200 - 7 200 = 625 600 Ar",
+        "tranches": [
+          "Tranche 1 (0 à 350 000) : 0 %, soit 0 Ar",
+          "Tranche 2 (350 001 à 400 000) : (400 000 - 350 000) x 5 % = 2 500 Ar",
+          "Tranche 3 (400 001 à 500 000) : (500 000 - 400 000) x 10 % = 10 000 Ar",
+          "Tranche 4 (500 001 à 600 000) : (600 000 - 500 000) x 15 % = 15 000 Ar",
+          "Tranche 5 (600 001 à 4 000 000) : (625 600 - 600 000) x 20 % = 5 120 Ar"
+        ],
+        "irsa_theorique": "0 + 2 500 + 10 000 + 15 000 + 5 120 = 32 620 Ar",
+        "reduction_charges": "0 x 2 000 = 0 Ar",
+        "irsa_a_payer": "32 620 Ar"
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Tiana perçoit un salaire brut mensuel de 550 000 Ariary et n'a aucune personne à charge.",
+      "question": "Quel est le montant de l'IRSA à payer par Tiana ce mois-ci ?",
+      "choix": [
+        "18 350 Ariary, obtenu en appliquant successivement les taux de chaque tranche sur la portion de revenu qui lui correspond.",
+        "28 350 Ariary, obtenu en appliquant un taux unique de 15 % sur toute la portion de la base dépassant 350 000 Ariary.",
+        "80 850 Ariary, obtenu en appliquant un taux unique de 15 % sur l'intégralité de la base imposable.",
+        "15 850 Ariary, obtenu en oubliant d'appliquer le taux de 10 % sur la tranche correspondante."
+      ],
+      "reponse": "18 350 Ariary, obtenu en appliquant successivement les taux de chaque tranche sur la portion de revenu qui lui correspond.",
+      "indices": "Calculez d'abord la base imposable après déduction de la CNAPS et de l'OSTIE, puis appliquez le barème tranche par tranche, sans jamais appliquer un taux unique à l'ensemble de la base ou de l'excédent.",
+      "explication": "La base imposable de Tiana s'établit à 539 000 Ar (550 000 - 5 500 - 5 500). Le calcul par tranches donne : 0 Ar sur les premiers 350 000 Ar, 2 500 Ar sur la tranche de 350 001 à 400 000 Ar, 10 000 Ar sur la tranche de 400 001 à 500 000 Ar, et 5 850 Ar sur la portion de 500 001 à 539 000 Ar (39 000 x 15 %). Le total s'élève à 18 350 Ar. Les autres réponses correspondent à des erreurs fréquentes : appliquer un taux unique sur l'excédent ou sur la totalité de la base, ou oublier une tranche intermédiaire."
+    },
+    {
+      "id": 2,
+      "scenario": "Hanta perçoit un salaire brut mensuel de 380 000 Ariary et a deux personnes à charge.",
+      "question": "Quel est le montant de l'IRSA à payer par Hanta ce mois-ci ?",
+      "choix": [
+        "3 000 Ariary, car le calcul théorique, une fois réduit pour les deux personnes à charge, tombe sous le minimum de perception, qui s'applique alors.",
+        "0 Ariary, car la réduction pour personnes à charge dépasse l'IRSA théorique, ce qui revient à une exonération totale.",
+        "1 120 Ariary, montant de l'IRSA théorique avant déduction des personnes à charge, sans appliquer aucune réduction ni aucun minimum.",
+        "L'employeur doit rembourser la différence à Hanta, puisque la réduction dépasse le montant de l'impôt calculé."
+      ],
+      "reponse": "3 000 Ariary, car le calcul théorique, une fois réduit pour les deux personnes à charge, tombe sous le minimum de perception, qui s'applique alors.",
+      "indices": "La base imposable de Hanta dépasse 350 000 Ar, elle n'est donc pas totalement exonérée. Que prévoit la règle du minimum de perception lorsque le calcul aboutit à un montant très faible, voire négatif, après réduction ?",
+      "explication": "La base imposable de Hanta est de 372 400 Ar (380 000 - 3 800 - 3 800), ce qui donne un IRSA théorique de 1 120 Ar (uniquement sur la tranche à 5 %). Après déduction de 4 000 Ar pour ses deux personnes à charge, le résultat est négatif, ce qui ne signifie pas une exonération ou un remboursement : le minimum de perception de 3 000 Ar s'applique, sa base imposable étant supérieure à 350 000 Ar. Hanta doit donc payer 3 000 Ar, et non 0 Ar ni le montant théorique non corrigé."
+    },
+    {
+      "id": 3,
+      "scenario": "Sety perçoit un salaire brut mensuel de 3 200 000 Ariary et a une personne à charge.",
+      "question": "Quel est le montant de l'IRSA à payer par Sety ce mois-ci ?",
+      "choix": [
+        "537 080 Ariary, en plafonnant les cotisations CNAPS et OSTIE à 2 101 440 Ariary avant de calculer la base imposable.",
+        "532 700 Ariary, en calculant la CNAPS et l'OSTIE sur l'intégralité du salaire brut de 3 200 000 Ariary, sans appliquer de plafond.",
+        "539 080 Ariary, en omettant d'appliquer la réduction de 2 000 Ariary pour la personne à charge.",
+        "3 000 Ariary, en appliquant directement le minimum de perception."
+      ],
+      "reponse": "537 080 Ariary, en plafonnant les cotisations CNAPS et OSTIE à 2 101 440 Ariary avant de calculer la base imposable.",
+      "indices": "Le salaire de Sety dépasse le plafond de 2 101 440 Ariary fixé pour le calcul des cotisations CNAPS et OSTIE. Que devient le calcul de ces deux cotisations au-delà de ce plafond ?",
+      "explication": "Le salaire de Sety dépassant 2 101 440 Ar, les cotisations CNAPS et OSTIE doivent être plafonnées à 21 014,40 Ar chacune, et non calculées sur l'intégralité du salaire. La base imposable s'établit ainsi à 3 157 900 Ar (3 200 000 - 21 014,40 - 21 014,40, arrondi à la centaine inférieure), donnant un IRSA théorique de 539 080 Ar, puis 537 080 Ar après la réduction de 2 000 Ar pour la personne à charge. Calculer les cotisations sans plafond, oublier la réduction pour charge, ou appliquer à tort le minimum de perception à un salaire aussi élevé constituent autant d'erreurs à éviter."
+    },
+    {
+      "id": 4,
+      "scenario": "Joel perçoit un salaire brut mensuel de 4 500 000 Ariary et n'a aucune personne à charge.",
+      "question": "Quel est le montant de l'IRSA à payer par Joel ce mois-ci ?",
+      "choix": [
+        "821 975 Ariary, en appliquant le taux de 25 % uniquement à la portion de la base imposable dépassant 4 000 000 Ariary, et les taux inférieurs sur le reste.",
+        "1 114 475 Ariary, en appliquant un taux unique de 25 % à l'intégralité de la base imposable.",
+        "799 080 Ariary, en appliquant l'ancien barème à cinq tranches, sans tenir compte de la nouvelle tranche à 25 % entrée en vigueur en 2026.",
+        "114 475 Ariary, en ne retenant que le montant calculé sur la tranche à 25 %, sans additionner les tranches inférieures."
+      ],
+      "reponse": "821 975 Ariary, en appliquant le taux de 25 % uniquement à la portion de la base imposable dépassant 4 000 000 Ariary, et les taux inférieurs sur le reste.",
+      "indices": "Le salaire de Joel dépasse le plafond des cotisations CNAPS/OSTIE, et sa base imposable dépasse également le seuil de la nouvelle tranche à 25 %. Calculez la base, puis répartissez-la sur les six tranches sans en oublier aucune et sans appliquer un taux unique à l'ensemble.",
+      "explication": "Après plafonnement des cotisations CNAPS et OSTIE à 21 014,40 Ar chacune, la base imposable de Joel s'établit à 4 457 900 Ar. Le calcul par tranches donne 2 500 + 10 000 + 15 000 + 680 000 (tranche de 600 001 à 4 000 000 Ar) + 114 475 Ar (tranche à 25 % sur les 457 900 Ar dépassant 4 000 000 Ar), soit un total de 821 975 Ar. Appliquer 25 % à toute la base, utiliser l'ancien barème à cinq tranches (toujours en vigueur jusqu'en 2025), ou ne retenir que la dernière tranche sans additionner les précédentes sont des erreurs à éviter absolument depuis l'entrée en vigueur de la Loi n° 2025-021."
+    }
+  ]
+}
