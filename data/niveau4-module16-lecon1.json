@@ -1,0 +1,251 @@
+{
+  "titre": "Les formalités foncières à Madagascar — titre foncier, certificat foncier, mutation et bornage",
+  "module": 16,
+  "niveau": "Professionnel",
+
+  "presentation": "La question foncière est l'une des plus complexes et des plus conflictuelles à Madagascar. Héritier d'un système colonial introduit en 1896, le droit foncier malgache repose sur la cohabitation de plusieurs régimes : le titre foncier issu de l'immatriculation, le certificat foncier créé par la réforme de 2005, et les innombrables 'petits papiers' qui constituent encore la réalité de la majorité des ménages ruraux. Ce module explique comment fonctionne le système foncier malgache, quels documents prouvent la propriété, comment se déroulent les procédures de mutation et de bornage, et quelles précautions prendre avant tout achat ou transaction sur un terrain.",
+
+  "contenu": [
+    {
+      "titre": "Le système foncier malgache : trois régimes qui coexistent",
+      "texte": "Le droit foncier à Madagascar résulte d'une superposition historique de trois systèmes. Le premier, issu de la colonisation de 1896, est le système de l'immatriculation foncière, dit système Torrens : seul l'inscription d'un terrain dans le livre foncier confère un droit de propriété plein et inattaquable, matérialisé par le titre foncier. Le deuxième, créé par la réforme de 2005, est le certificat foncier : document délivré par les communes via les guichets fonciers communaux, il formalise les occupations coutumières de longue durée sur les terrains non titrés ni cadastrés. Le troisième, informel, est celui des 'petits papiers' : actes de vente entre particuliers, quittances de paiement d'impôts fonciers, permis de coupe — documents sans force légale directe mais qui constituent encore la preuve d'occupation de 83% des parcelles à Madagascar. Ces trois systèmes coexistent, parfois se contredisent, et sont source de nombreux conflits.",
+      "definition": "Système Torrens : système d'immatriculation foncière d'origine australienne introduit à Madagascar par l'administration coloniale en 1896, selon lequel la propriété n'est pleinement reconnue et opposable aux tiers que par son inscription dans un registre officiel appelé livre foncier."
+    },
+    {
+      "titre": "Le titre foncier : la preuve absolue de la propriété",
+      "texte": "Le titre foncier (TF) est le document qui confère le droit de propriété le plus sûr à Madagascar. Il est établi à l'issue de la procédure d'immatriculation foncière, conduite par la Circonscription Domaniale et Foncière (CIRDOMA) du district. Une fois inscrit dans le livre foncier, le titre foncier est définitif et inattaquable : il ne peut être annulé que dans des cas extrêmement rares. Il précise le nom du propriétaire, la description et la superficie du terrain, ses limites et abornements, ainsi que tous les droits réels et charges grevant l'immeuble (hypothèques, servitudes, baux de plus de trois ans). Le titre foncier est accompagné d'un plan du terrain établi par un géomètre assermenté. Chaque titre porte un nom particulier et un numéro unique par district. Le propriétaire reçoit un duplicata du titre foncier, qui lui est remis après l'accomplissement de toutes les formalités. La première démarche avant tout achat de terrain est de vérifier l'existence du titre foncier et son contenu auprès de la CIRDOMA ou du Service Topographique.",
+      "definition": "Livre foncier : registre officiel tenu par la Circonscription Domaniale et Foncière (CIRDOMA), dans lequel sont inscrits tous les titres fonciers d'un district, ainsi que toutes les modifications, mutations, charges et droits réels portant sur les immeubles immatriculés."
+    },
+    {
+      "titre": "La procédure d'immatriculation : longue, coûteuse et complexe",
+      "texte": "L'immatriculation est la procédure administrative et juridique par laquelle un terrain est inscrit pour la première fois dans le livre foncier. Elle comporte plus de vingt-quatre étapes, dure en moyenne plus d'une décennie, et coûte en réalité plus de 300 euros par titre — un montant prohibitif pour la grande majorité des ménages ruraux. La procédure varie selon le statut initial du terrain. Si le terrain est domanial (appartenant à l'État), il faut suivre la procédure d'acquisition auprès du Service des Domaines. Si le terrain est déjà immatriculé au nom d'une tierce personne, il faut procéder à une mutation. Si le terrain est un terrain vacant et sans maître, l'immatriculation individuelle ou collective est possible. La procédure comprend notamment : le dépôt de la réquisition d'immatriculation, l'opération de bornage par un géomètre assermenté, l'affichage et le délai d'opposition, l'instruction par la CIRDOMA, et finalement l'établissement du titre foncier par le Conservateur de la propriété foncière."
+    },
+    {
+      "titre": "Le certificat foncier : la grande innovation de 2005",
+      "texte": "Face à l'engorgement du système d'immatriculation, la réforme foncière de 2005 a créé le certificat foncier (CF), un document plus accessible, plus rapide et moins coûteux. Le certificat foncier formalise le droit de propriété sur les terrains privés non titrés (PPNT) — c'est-à-dire les terrains occupés et mis en valeur de longue date selon les coutumes, sans être ni immatriculés ni cadastrés. Il est délivré par le maire de la commune, à l'issue d'une procédure conduite au niveau du guichet foncier communal. Le certificat foncier confère les mêmes droits que le titre foncier : droit de disposer, d'usufruitier, de transférer, d'hypothéquer. Son coût moyen est d'environ 30 dollars, contre 300 euros pour un titre foncier, et la procédure dure entre deux mois et un an et demi. Sa limite principale est qu'il reste attaquable : si un tiers apporte la preuve d'un droit antérieur (notamment un titre foncier), le certificat peut être annulé. À ce jour, seulement 5% des parcelles à Madagascar sont certifiées.",
+      "definition": "Propriété privée non titrée (PPNT) : catégorie juridique créée par la loi de 2005, désignant les terrains qui font l'objet d'une occupation et d'une mise en valeur coutumière de longue durée, sans être immatriculés, cadastrés, ni appartenant au domaine public ou privé de l'État."
+    },
+    {
+      "titre": "La procédure d'obtention du certificat foncier : cinq étapes",
+      "texte": "La procédure de certification foncière se déroule exclusivement au guichet foncier communal et comprend cinq étapes. Première étape : le dépôt de la demande au guichet foncier, accompagnée de tous les documents disponibles (actes de naissance, quittances d'impôts fonciers, permis de coupe, petits papiers). L'agent foncier et le demandeur repèrent le terrain sur le Plan Local d'Occupation Foncière (PLOF). Deuxième étape : l'affichage de la demande à la mairie et au fokontany pendant quinze jours, au cours desquels toute opposition peut être enregistrée. Troisième étape : la convocation pour délibération, réunissant la Commission de Reconnaissance Locale (CRL) composée du maire, de l'agent foncier, du chef de fokontany, des voisins et des Raiamandreny (notables du village). La parcelle est visitée et délimitée par des repères physiques. Quatrième étape : un nouveau délai d'opposabilité de quinze jours à compter du procès-verbal de la CRL. Cinquième étape : si aucune opposition n'est maintenue, le certificat foncier est inscrit au registre parcellaire du guichet foncier et remis au demandeur. En cas d'opposition non résolue, l'affaire est portée devant le Conseil Communal, puis si nécessaire devant le Tribunal de Première Instance."
+    },
+    {
+      "titre": "La mutation : changer le nom sur un titre foncier",
+      "texte": "La mutation est l'opération juridique et administrative qui permet de transférer la propriété d'un terrain titré d'une personne à une autre — que ce soit par vente, donation, héritage, échange ou toute autre cause. La mutation d'un titre foncier s'effectue obligatoirement par l'inscription de la transaction au livre foncier, auprès de la CIRDOMA compétente, dans un délai de six mois à compter de l'acte. Tout retard expose à des pénalités de 10% par mois sur les frais d'inscription. La demande d'inscription doit être accompagnée des documents prouvant la transaction (contrat de vente notarié ou légalisé, acte de succession, jugement, etc.), de l'identité complète des parties, et du duplicata du titre foncier. Le Conservateur vérifie l'identité des parties, leur capacité juridique, l'inscription du droit du disposant, la disponibilité de l'immeuble, et la régularité formelle des actes. Une précaution essentielle : s'assurer que le nom figurant sur le titre foncier correspond exactement à celui du vendeur ou du donateur — toute discordance bloque la mutation.",
+      "definition": "Mutation : inscription au livre foncier du transfert de propriété d'un immeuble immatriculé d'un propriétaire à un autre, quelle qu'en soit la cause (vente, donation, succession, échange). La mutation est la condition de l'opposabilité du transfert aux tiers."
+    },
+    {
+      "titre": "Le bornage : délimiter physiquement un terrain",
+      "texte": "Le bornage est l'opération technique par laquelle les limites d'un terrain sont matérialisées sur le terrain par des bornes physiques, et reportées sur un plan établi par un géomètre ou ingénieur topographe assermenté. Le bornage est obligatoire dans le cadre de la procédure d'immatriculation foncière. Il est réalisé contradictoirement — c'est-à-dire en présence des propriétaires voisins, afin de recueillir leurs éventuelles oppositions ou observations. Les oppositions formulées lors du bornage sont consignées dans un procès-verbal et inscrites au registre des oppositions de la CIRDOMA. Le plan de bornage est annexé au titre foncier et en fait partie intégrante. En cas de vente d'un terrain titré avec morcellement (découpe d'une partie du terrain), un nouveau bornage est obligatoire et un titre distinct doit être créé pour chaque portion. Pour le certificat foncier, la procédure ne prévoit pas de bornage officiel : la délimitation est faite par des repères physiques naturels (arbres, piquets, maisons voisines) lors de la reconnaissance locale — ce qui est une limite importante de ce système.",
+      "definition": "Bornage contradictoire : opération de délimitation physique d'un terrain réalisée en présence des propriétaires riverains, conduite par un géomètre assermenté, aboutissant à la pose de bornes et à l'établissement d'un plan officiel annexé au titre foncier."
+    },
+    {
+      "titre": "Les statuts des terres et leurs conséquences pratiques",
+      "texte": "Avant toute transaction foncière à Madagascar, il est indispensable de connaître le statut juridique du terrain concerné. Les terrains domaniaux comprennent le domaine public de l'État (imprescriptible, inaliénable, ne pouvant pas faire l'objet d'appropriation privée), le domaine privé de l'État (terrains vacants et sans maître, pouvant faire l'objet d'une demande d'acquisition), et les terrains titrés au nom de l'État. Les propriétés privées comprennent les propriétés titrées (avec titre foncier), les propriétés certifiées (avec certificat foncier), et les propriétés privées non titrées ni certifiées (simples occupations coutumières). Les statuts spécifiques comprennent les aires protégées, les forêts domaniales, les zones d'aménagement foncier (AMVR, ZAF, ZIA), et les réserves foncières touristiques. La première démarche avant tout projet est de vérifier le statut du terrain auprès du Service Topographique du district. Certains statuts — domaine public, forêts domaniales, aires protégées — rendent toute appropriation privée impossible.",
+      "definition": "Prescription acquisitive : mécanisme juridique par lequel l'occupation paisible, continue et non contestée d'un terrain titré par un tiers pendant vingt ans peut entraîner le transfert de la propriété au profit de l'occupant, sur décision du tribunal compétent."
+    },
+    {
+      "titre": "Les 'petits papiers' : entre réalité et insécurité juridique",
+      "texte": "Les 'petits papiers' désignent l'ensemble des documents informels utilisés pour prouver la propriété ou l'occupation d'un terrain à Madagascar : actes de vente manuscrits signés entre particuliers, quittances d'impôts fonciers, permis de coupe, lettres de notabilité. Ils constituent encore la preuve d'occupation de 83% des parcelles dans le pays. Leur valeur juridique est limitée mais non nulle. Pour les terrains domaniaux, un 'petit papier' doit au minimum avoir fait l'objet d'une délibération par le Conseil communal, signée par l'ensemble de ses membres — la signature du seul maire n'a aucune valeur juridique. Pour les terrains privés, un contrat entre particuliers peut avoir une valeur juridique s'il est ratifié par des notables traditionnels (Ampanjaka, Raiamandreny) ou authentifié par un notaire. La règle pratique : un 'petit papier', même sans force légale directe, vaut toujours mieux qu'aucune preuve écrite — mais il ne garantit pas la sécurité foncière à long terme et ne peut pas être opposé à un titre foncier.",
+      "definition": "Petits papiers : terme désignant l'ensemble des documents informels (actes sous seing privé, quittances fiscales, permis de coupe) utilisés par les ménages ruraux et urbains pour établir leurs droits fonciers en l'absence de titre foncier ou de certificat foncier officiel."
+    },
+    {
+      "titre": "Conseils pratiques avant toute transaction foncière",
+      "texte": "Plusieurs précautions sont indispensables avant d'acheter, de louer ou d'investir sur un terrain à Madagascar. Premièrement, vérifier le statut juridique du terrain au Service Topographique et à la CIRDOMA du district : s'agit-il d'un terrain domanial, titré, certifié ou simplement occupé ? Deuxièmement, si le terrain est titré, demander un certificat de situation juridique auprès de la conservation foncière, qui liste toutes les charges et inscriptions en cours. Troisièmement, vérifier que le nom sur le titre foncier correspond exactement à celui du vendeur — toute discordance doit être résolue avant la signature. Quatrièmement, pour toute vente d'un terrain titré, passer devant notaire ou au minimum légaliser les signatures, et déposer l'acte à la conservation foncière dans les six mois pour éviter les pénalités. Cinquièmement, ne jamais acheter un terrain sans avoir vérifié physiquement ses limites et s'être assuré de l'absence de litige avec les voisins. Sixièmement, pour un terrain non titré, vérifier s'il existe un guichet foncier actif dans la commune et engager sans tarder la procédure de certification foncière."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "variante": "Demande de certificat foncier — particulier",
+      "complexite": "simple",
+      "contexte": "Monsieur RAKOTO Jean souhaite obtenir un certificat foncier pour le terrain qu'il occupe et cultive depuis 15 ans à Antsiranana, Quartier Tanambao I. Le terrain n'est ni titré ni cadastré.",
+      "document": {
+        "titre_acte": "DEMANDE DE CERTIFICAT FONCIER",
+        "lieu_date": "Antsiranana, le 1er juillet 2026",
+        "destinataire": "À Monsieur le Maire de la Commune Urbaine d'Antsiranana\nGuichet Foncier Communal",
+        "formule_appel": "Monsieur le Maire,",
+        "corps": "Je soussigné, RAKOTO Jean, né le 12 mars 1975, demeurant à Lot 22B, Quartier Tanambao I, Antsiranana 201, titulaire de la carte d'identité nationale n° 201 123 456 789, ai l'honneur de vous soumettre la présente demande de certificat foncier pour le terrain dont la description suit.\n\nLocalisation : Quartier Tanambao I, Antsiranana 201, dans le fokontany d'Antsiranana-Tanambao.\n\nDescription du terrain : parcelle de terre à usage d'habitation et de jardin d'une superficie approximative de 600 mètres carrés, délimitée comme suit :\n- Au Nord : terrain de Madame VOLA Hortense,\n- Au Sud : Rue de la Liberté,\n- À l'Est : terrain de Monsieur TOJO René,\n- À l'Ouest : terrain de la famille ANDRIANA.\n\nJe déclare occuper et mettre en valeur ce terrain depuis l'année 2011, par la construction d'une maison d'habitation et l'entretien d'un jardin potager, conformément aux usages et coutumes du lieu. Ce terrain n'est ni titré, ni cadastré, ni soumis à un statut particulier à ma connaissance.\n\nJe joins à la présente demande les pièces suivantes :\n- Copie de ma carte d'identité nationale,\n- Quittances de paiement de l'impôt foncier des années 2020 à 2025,\n- Attestation des voisins confirming l'occupation.\n\nJe vous demande de bien vouloir engager la procédure de certification foncière pour ce terrain, conformément aux dispositions de la Loi n° 2005-019 du 17 octobre 2005 portant principes régissant les statuts des terres à Madagascar.",
+        "formule_politesse": "Je vous prie d'agréer, Monsieur le Maire, l'expression de ma considération distinguée.",
+        "signature": { "nom": "RAKOTO Jean" },
+        "pieces_jointes": [
+          "Copie de la CIN",
+          "Quittances de paiement d'impôts fonciers 2020-2025",
+          "Attestation de voisinage"
+        ]
+      }
+    },
+
+    {
+      "id": 2,
+      "variante": "Réquisition d'inscription d'une vente au livre foncier (mutation)",
+      "complexite": "intermédiaire",
+      "contexte": "Madame RABE Hortense a vendu son terrain titré (TF n° 2047/ATS) à Monsieur RANDRIA Tiana. La vente a été constatée par acte notarié. Monsieur RANDRIA dépose la réquisition d'inscription de la mutation à la CIRDOMA d'Antsiranana dans les six mois.",
+      "document": {
+        "titre_acte": "RÉQUISITION D'INSCRIPTION DE MUTATION PAR VENTE AU LIVRE FONCIER",
+        "lieu_date": "Antsiranana, le 1er juillet 2026",
+        "destinataire": "À Monsieur le Conservateur de la Propriété Foncière\nCirconscription Domaniale et Foncière d'Antsiranana",
+        "formule_appel": "Monsieur le Conservateur,",
+        "formule_introductive": "Le soussigné RANDRIA Tiana, né le 5 juin 1985, demeurant Lot 12, Quartier Aranta, Antsiranana 201, CIN n° 201 987 654 321, a l'honneur de vous soumettre la présente réquisition d'inscription de mutation aux fins de mise à jour du livre foncier.",
+        "objet": "Mutation par vente du titre foncier n° 2047/ATS au nom de Madame RABE Hortense, en faveur du requérant.",
+        "expose": "Par acte notarié en date du 15 juin 2026, reçu par Maître ANDRIANTSOA Luc, Notaire à Antsiranana, Madame RABE Hortense, demeurant Lot 15, Rue du Commerce, Antsiranana 201, CIN n° 201 456 123 789, a vendu au requérant le terrain ci-après désigné, pour le prix de douze millions d'ariary (12 000 000 Ariary) intégralement payé.\n\nDésignation du bien : terrain nu sis à Antsiranana, Quartier Tanambao I, d'une superficie de 600 m², immatriculé sous le titre foncier n° 2047/ATS au nom de Madame RABE Hortense, dont les limites sont précisées au plan annexé audit titre.",
+        "demande": "En conséquence, le requérant vous demande de bien vouloir procéder à l'inscription de la mutation par vente sur le titre foncier n° 2047/ATS et sur le livre foncier du district d'Antsiranana, et d'établir un nouveau duplicata du titre foncier au nom de Monsieur RANDRIA Tiana.",
+        "pieces_jointes": [
+          "Expédition de l'acte notarié de vente du 15 juin 2026",
+          "Duplicata original du titre foncier n° 2047/ATS",
+          "Copie de la CIN du vendeur (RABE Hortense)",
+          "Copie de la CIN de l'acheteur (RANDRIA Tiana)"
+        ],
+        "formule_politesse": "Dans l'attente de votre bienveillant traitement, je vous prie d'agréer, Monsieur le Conservateur, l'expression de ma considération distinguée.",
+        "signature": { "nom": "RANDRIA Tiana", "qualite": "Requérant" }
+      }
+    },
+
+    {
+      "id": 3,
+      "variante": "Contrat de vente d'un terrain certifié (avec certificat foncier)",
+      "complexite": "intermédiaire",
+      "contexte": "Monsieur FANIRY Haja vend à Madame LANTO Vero un terrain dont il est propriétaire par certificat foncier délivré par la Commune d'Antsiranana. La vente doit être déclarée au guichet foncier pour mutation du certificat.",
+      "document": {
+        "titre_acte": "CONTRAT DE VENTE DE TERRAIN CERTIFIÉ",
+        "lieu_date": "Antsiranana, le 1er juillet 2026",
+        "note_liminaire": "Le présent contrat porte sur un terrain dont la propriété est attestée par un certificat foncier délivré par la Commune d'Antsiranana. Les parties conviennent que l'acte sera déposé au guichet foncier communal aux fins de mutation du certificat foncier au nom de l'acheteuse.",
+        "parties": {
+          "vendeur": {
+            "nom": "FANIRY Haja",
+            "adresse": "Lot 33, Quartier Tanambao II, Antsiranana 201",
+            "cin": "201 345 678 901",
+            "qualite": "ci-après dénommé « le Vendeur »"
+          },
+          "acheteur": {
+            "nom": "LANTO Vero",
+            "adresse": "Lot 7, Quartier Diego-Suarez, Antsiranana 201",
+            "cin": "201 789 012 345",
+            "qualite": "ci-après dénommée « l'Acheteuse »"
+          }
+        },
+        "articles": [
+          {
+            "titre": "Article 1 — Objet",
+            "texte": "Le Vendeur cède et vend à l'Acheteuse, qui accepte, le terrain dont il est propriétaire par certificat foncier n° CF-ATS-2019-0142 délivré le 3 mars 2019 par la Commune Urbaine d'Antsiranana, situé Quartier Tanambao II, Antsiranana 201, d'une superficie de 400 m², délimité comme indiqué au plan annexé au certificat foncier."
+          },
+          {
+            "titre": "Article 2 — Prix",
+            "texte": "La vente est consentie pour le prix de six millions d'ariary (6 000 000 Ariary), payé intégralement ce jour en espèces, dont le Vendeur reconnaît avoir reçu le montant et en donne quittance."
+          },
+          {
+            "titre": "Article 3 — Garanties",
+            "texte": "Le Vendeur garantit être l'unique propriétaire du terrain, qu'il est libre de tout litige, charge ou occupation par un tiers, et qu'aucune procédure n'est en cours devant le guichet foncier ou un tribunal à son encontre. Il garantit que le certificat foncier n° CF-ATS-2019-0142 est authentique et n'a pas été annulé."
+          },
+          {
+            "titre": "Article 4 — Mutation du certificat foncier",
+            "texte": "Le présent contrat sera déposé sans délai au Guichet Foncier Communal d'Antsiranana pour inscription de la mutation du certificat foncier au nom de l'Acheteuse. Les frais de mutation sont à la charge de l'Acheteuse. Le Vendeur s'engage à se présenter au guichet foncier et à coopérer à toute formalité nécessaire à la mutation."
+          },
+          {
+            "titre": "Article 5 — Règlement des litiges",
+            "texte": "En cas de litige, les parties tenteront un règlement amiable. À défaut, le Tribunal de Première Instance d'Antsiranana sera compétent."
+          }
+        ],
+        "mentions_finales": "Fait en deux exemplaires originaux à Antsiranana, dont un remis à chaque partie et un troisième exemplaire destiné au guichet foncier communal.",
+        "signatures": [
+          { "qualite": "Le Vendeur", "nom": "FANIRY Haja", "mention": "Lu et approuvé" },
+          { "qualite": "L'Acheteuse", "nom": "LANTO Vero", "mention": "Lu et approuvé" }
+        ]
+      }
+    },
+
+    {
+      "id": 4,
+      "variante": "Acte de notoriété d'héritage pour mutation foncière",
+      "complexite": "complexe",
+      "contexte": "Monsieur RAKOTOARISOA Fidy est décédé, laissant un terrain titré (TF n° 1234/ATS). Ses deux héritiers légaux — ses enfants RAKOTOARISOA Noro et RAKOTOARISOA Haja — souhaitent faire inscrire la succession au livre foncier. Un acte de notoriété est établi pour identifier les héritiers.",
+      "document": {
+        "titre_acte": "ACTE DE NOTORIÉTÉ D'HÉRITAGE",
+        "sous_titre": "(Aux fins d'inscription de mutation successorale au livre foncier)",
+        "lieu_date": "Antsiranana, le 1er juillet 2026",
+        "etabli_par": "Mairie de la Commune Urbaine d'Antsiranana",
+        "declarants": [
+          { "nom": "RANDRIA Paul", "adresse": "Lot 5, Antsiranana", "lien": "frère du défunt" },
+          { "nom": "RASOA Marie", "adresse": "Lot 8, Antsiranana", "lien": "voisine du défunt depuis 20 ans" },
+          { "nom": "RAZAFY Tiana", "adresse": "Lot 14, Antsiranana", "lien": "ami de longue date du défunt" },
+          { "nom": "RABE Cécile", "adresse": "Lot 21, Antsiranana", "lien": "sœur du défunt" }
+        ],
+        "corps": "Les soussignés, témoins ci-dessus désignés, dont deux au moins sont membres de la famille du défunt, déclarent sur l'honneur ce qui suit :\n\nMonsieur RAKOTOARISOA Fidy, né le 20 avril 1950 à Antsiranana, demeurant Lot 44, Quartier Tanambao I, Antsiranana 201, est décédé le 15 mars 2026 à Antsiranana, ainsi qu'en atteste l'acte de décès n° 2026-ATS-0234 délivré par la Commune Urbaine d'Antsiranana.\n\nMonsieur RAKOTOARISOA Fidy était veuf de Madame VOLA Hortense, décédée le 10 janvier 2020, et ne s'était pas remarié.\n\nIl ne lui est pas connu de disposition testamentaire.\n\nSes héritiers légaux, en l'absence de testament et en application des règles du Code Civil malgache sur la dévolution successorale, sont ses deux enfants issus de son union avec Madame VOLA Hortense : Mademoiselle RAKOTOARISOA Noro, née le 5 mai 1980 à Antsiranana, demeurant Lot 12, Antsiranana, CIN n° 201 111 222 333 ; et Monsieur RAKOTOARISOA Haja, né le 18 septembre 1983 à Antsiranana, demeurant Lot 7, Antsiranana, CIN n° 201 444 555 666.\n\nCes deux héritiers ont des droits égaux sur la succession, chacun pour une moitié indivise.\n\nLes déclarants certifient la véracité de ces informations et s'engagent à en répondre devant toute juridiction compétente.",
+        "certification_maire": "Certifié par nous, Maire de la Commune Urbaine d'Antsiranana, après vérification de l'identité des déclarants et en foi de leurs déclarations.",
+        "pieces_jointes": [
+          "Acte de décès de RAKOTOARISOA Fidy n° 2026-ATS-0234",
+          "Acte de décès de VOLA Hortense",
+          "Copies des CIN des deux héritiers",
+          "Duplicata du titre foncier n° 1234/ATS"
+        ],
+        "signatures": [
+          { "qualite": "Déclarant 1", "nom": "RANDRIA Paul" },
+          { "qualite": "Déclarant 2", "nom": "RASOA Marie" },
+          { "qualite": "Déclarant 3", "nom": "RAZAFY Tiana" },
+          { "qualite": "Déclarant 4", "nom": "RABE Cécile" },
+          { "qualite": "Le Maire, certifiant", "nom": "Maire de la Commune Urbaine d'Antsiranana" }
+        ]
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur TOJO achète un terrain à Madame VOLA. Madame VOLA lui présente un certificat foncier délivré en 2018. Trois mois après la vente, un homme se présente avec un titre foncier plus ancien portant sur le même terrain, qu'il avait obtenu en 2015. Il revendique la propriété du terrain.",
+      "question": "Qui est propriétaire, et quel est le recours de Monsieur TOJO ?",
+      "choix": [
+        "Le porteur du titre foncier de 2015 a en principe un droit prioritaire : le titre foncier est inattaquable et prime sur le certificat foncier si un droit antérieur légalement prouvé existe. Monsieur TOJO peut se retourner contre Madame VOLA pour obtenir le remboursement du prix et des dommages-intérêts pour vente d'un bien grevé d'un droit antérieur.",
+        "Monsieur TOJO est propriétaire car il a acheté de bonne foi et le certificat foncier a la même valeur qu'un titre foncier.",
+        "Le certificat foncier de 2018 prime sur le titre foncier de 2015 car il est plus récent.",
+        "Les deux documents ont la même valeur : le tribunal partagera le terrain en deux parts égales."
+      ],
+      "reponse": "Le porteur du titre foncier de 2015 a en principe un droit prioritaire : le titre foncier est inattaquable et prime sur le certificat foncier si un droit antérieur légalement prouvé existe. Monsieur TOJO peut se retourner contre Madame VOLA pour obtenir le remboursement du prix et des dommages-intérêts pour vente d'un bien grevé d'un droit antérieur.",
+      "indices": "Rappelez-vous la différence fondamentale entre le titre foncier et le certificat foncier en termes de force probante. Le certificat foncier reste valable 'jusqu'à preuve du contraire' — quelle preuve peut l'annuler ?",
+      "explication": "Le certificat foncier n'est pas définitif : il est valable jusqu'à ce qu'un tiers apporte la preuve d'un droit antérieur légalement prouvé. Le titre foncier, lui, est en principe inattaquable une fois l'immatriculation accomplie. Si le titre de 2015 est authentique et régulièrement inscrit au livre foncier, il prime sur le certificat foncier de 2018 qui n'aurait pas dû être délivré sur un terrain déjà titré. Madame VOLA a vendu un bien sur lequel elle n'avait pas de droit opposable au titulaire du TF : Monsieur TOJO, victime de bonne foi, dispose d'un recours en garantie d'éviction contre elle. Cette situation illustre pourquoi, avant tout achat, il faut vérifier le statut du terrain à la CIRDOMA et au Service Topographique — pas seulement demander les documents au vendeur."
+    },
+    {
+      "id": 2,
+      "scenario": "Madame RASOA hérite du terrain de son père décédé, titré sous le TF n° 0789/ATS. Elle souhaite vendre ce terrain à Monsieur KOTO. Elle dispose du duplicata du titre foncier au nom de son père. Elle signe un contrat de vente avec Monsieur KOTO mais ne dépose pas l'acte à la conservation foncière. Dix mois plus tard, Monsieur KOTO découvre que Madame RASOA a entre-temps vendu le même terrain à une autre personne, Monsieur FANIRY, qui lui a présenté le duplicata du titre foncier et a fait inscrire la mutation à son nom.",
+      "question": "Entre Monsieur KOTO et Monsieur FANIRY, qui est le propriétaire légal ?",
+      "choix": [
+        "Monsieur FANIRY : c'est lui qui a fait inscrire la mutation au livre foncier. En droit foncier malgache, seule l'inscription au livre foncier rend le transfert opposable aux tiers. Monsieur KOTO, qui n'a pas inscrit son achat, ne peut opposer son contrat qu'à Madame RASOA — contre qui il peut agir en responsabilité.",
+        "Monsieur KOTO : il a signé le contrat en premier, la priorité temporelle de l'accord l'emporte.",
+        "Les deux ont des droits égaux puisqu'ils ont tous deux un contrat avec Madame RASOA.",
+        "Ni l'un ni l'autre : la double vente entraîne la nullité des deux contrats et le terrain revient à l'État."
+      ],
+      "reponse": "Monsieur FANIRY : c'est lui qui a fait inscrire la mutation au livre foncier. En droit foncier malgache, seule l'inscription au livre foncier rend le transfert opposable aux tiers. Monsieur KOTO, qui n'a pas inscrit son achat, ne peut opposer son contrat qu'à Madame RASOA — contre qui il peut agir en responsabilité.",
+      "indices": "Le principe fondamental du droit foncier malgache est que c'est l'inscription au livre foncier, et non la date du contrat, qui rend le droit opposable aux tiers. Pensez aussi au délai légal d'inscription.",
+      "explication": "En vertu du système Torrens appliqué à Madagascar, c'est l'inscription au livre foncier qui crée la propriété opposable aux tiers — pas la signature du contrat. Monsieur KOTO avait six mois pour inscrire son achat à la conservation foncière (sous peine de pénalités) ; en ne le faisant pas, il n'a créé qu'un droit entre lui et Madame RASOA. Monsieur FANIRY, qui a fait inscrire la mutation, est le propriétaire légal du terrain — même si son acquisition est chronologiquement postérieure. Monsieur KOTO dispose d'un recours contre Madame RASOA pour double vente frauduleuse, mais ne peut pas revendiquer le terrain contre Monsieur FANIRY de bonne foi. Cette situation illustre la règle d'or : tout achat de terrain titré doit être immédiatement suivi d'une réquisition d'inscription à la conservation foncière."
+    },
+    {
+      "id": 3,
+      "scenario": "Un paysan, Monsieur RAVELO, occupe et cultive un terrain non titré depuis 25 ans. Il a des quittances de paiement d'impôts fonciers, des photos du terrain, et des témoignages de voisins. La commune dispose d'un guichet foncier actif. Monsieur RAVELO hésite à faire une demande de certificat foncier, craignant que cela ne serve à rien et coûte trop cher.",
+      "question": "Monsieur RAVELO devrait-il demander un certificat foncier, et pourquoi ?",
+      "choix": [
+        "Oui : le certificat foncier est exactement fait pour sa situation. Il formalise une occupation de longue durée, coûte environ 30 dollars, dure entre 2 mois et 18 mois, et lui donnera les mêmes droits qu'un titre foncier (vente, hypothèque, location). Sans lui, ses 'petits papiers' ne le protègent pas contre une revendication tierce ou un investisseur qui ferait une demande de titre sur le même terrain.",
+        "Non : les petits papiers et les témoignages suffisent à prouver la propriété après 25 ans d'occupation.",
+        "Non : le certificat foncier est trop risqué car il peut être annulé à tout moment.",
+        "Oui, mais seulement s'il veut vendre le terrain dans les prochaines années."
+      ],
+      "reponse": "Oui : le certificat foncier est exactement fait pour sa situation. Il formalise une occupation de longue durée, coûte environ 30 dollars, dure entre 2 mois et 18 mois, et lui donnera les mêmes droits qu'un titre foncier (vente, hypothèque, location). Sans lui, ses 'petits papiers' ne le protègent pas contre une revendication tierce ou un investisseur qui ferait une demande de titre sur le même terrain.",
+      "indices": "Réfléchissez à ce que le certificat foncier apporte concrètement par rapport aux petits papiers, et à ce qui menace un occupant sans document officiel.",
+      "explication": "La situation de Monsieur RAVELO correspond exactement au profil visé par la réforme de 2005 : un occupant de longue durée d'un terrain non titré qui a des preuves d'occupation mais pas de document officiel. Le certificat foncier lui donnera un droit opposable aux tiers, la possibilité de vendre, de louer, d'hypothéquer pour obtenir un crédit, et une protection contre les tentatives d'accaparement par des tiers plus puissants. Le risque d'annulation, bien que réel en théorie, est rare en pratique. Sans certificat foncier, ses petits papiers — aussi nombreux soient-ils — n'ont qu'une force probante limitée. Un tiers disposant d'argent pourrait demander un titre foncier sur ce même terrain auprès du Service des Domaines, et l'obtenir légalement, au détriment de Monsieur RAVELO."
+    },
+    {
+      "id": 4,
+      "scenario": "Monsieur ANDRIANA veut acheter un terrain à Diego-Suarez. Le vendeur lui présente un document manuscrit, tamponnée par le fokontany, indiquant qu'il est propriétaire depuis 2010. Il n'y a pas de titre foncier, pas de certificat foncier. Le vendeur demande 10 000 000 Ariary. Monsieur ANDRIANA est pressé de conclure.",
+      "question": "Quelles précautions Monsieur ANDRIANA doit-il absolument prendre avant de signer ?",
+      "choix": [
+        "Il doit : vérifier le statut du terrain à la CIRDOMA et au Service Topographique ; s'assurer qu'il ne s'agit pas d'un terrain domanial ou à statut spécifique ; vérifier l'absence de litige avec les voisins ; exiger que le vendeur engage la procédure de certification foncière avant la vente, ou à défaut légaliser les signatures et faire ratifier le contrat par des notables ; ne jamais verser le prix avant d'avoir toutes ces vérifications.",
+        "Il peut signer immédiatement : le tampon du fokontany suffit à valider la propriété.",
+        "Il n'a qu'à vérifier que le vendeur est connu dans le quartier avant de signer.",
+        "Il doit seulement s'assurer que le prix est raisonnable, le reste est une formalité."
+      ],
+      "reponse": "Il doit : vérifier le statut du terrain à la CIRDOMA et au Service Topographique ; s'assurer qu'il ne s'agit pas d'un terrain domanial ou à statut spécifique ; vérifier l'absence de litige avec les voisins ; exiger que le vendeur engage la procédure de certification foncière avant la vente, ou à défaut légaliser les signatures et faire ratifier le contrat par des notables ; ne jamais verser le prix avant d'avoir toutes ces vérifications.",
+      "indices": "Un document tamponné par le fokontany n'a pas de valeur juridique directe. Quelles sont les vérifications indispensables avant d'acheter un terrain sans titre ni certificat ?",
+      "explication": "Un acte manuscrit tamponné par le fokontany est un 'petit papier' : il n'a aucune force légale directe et ne garantit pas la propriété. Avant de signer quoi que ce soit, Monsieur ANDRIANA doit impérativement : vérifier auprès de la CIRDOMA et du Service Topographique que ce terrain n'est pas déjà titré au nom d'un tiers ou qu'il n'appartient pas au domaine de l'État ; interroger les voisins et le fokontany sur l'historique de l'occupation ; s'assurer qu'aucune procédure n'est en cours sur ce terrain. Si toutes ces vérifications sont satisfaisantes, il peut envisager l'achat — mais en exigeant la certification foncière avant ou en légalisant soigneusement le contrat et en le faisant ratifier par des notables. La précipitation dans les transactions foncières est l'une des principales causes de litiges à Madagascar."
+    }
+  ]
+}
