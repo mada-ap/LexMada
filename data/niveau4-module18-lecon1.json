@@ -1,0 +1,238 @@
+{
+  "titre": "La procédure de recouvrement de créances à Madagascar",
+  "module": 18,
+  "niveau": "Professionnel",
+
+  "presentation": "Le recouvrement de créances est l'une des situations les plus fréquentes et les plus délicates de la vie des entreprises malgaches. Un client qui ne paie pas, un débiteur qui disparaît, une facture restée sans suite — ces situations concernent aussi bien une petite boutique qu'une grande société. Pourtant, beaucoup de créanciers ne savent pas comment réagir : ils attendent, relancent par téléphone, et finissent par abandonner une somme qui leur est légalement due. Ce module explique de manière concrète et progressive comment recouvrer une créance à Madagascar — depuis la première mise en demeure jusqu'à l'exécution forcée d'un jugement — avec les délais, les règles de prescription, les procédures judiciaires disponibles, et trois modèles d'actes prêts à l'emploi.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'une créance et quand parle-t-on de recouvrement ?",
+      "texte": "Une créance est le droit qu'a une personne — appelée le créancier — d'exiger d'une autre personne — appelée le débiteur — le paiement d'une somme d'argent ou l'exécution d'une obligation. La créance peut naître d'un contrat de vente, d'une prestation de services, d'un prêt, d'un loyer impayé, d'une facture commerciale, ou encore d'une décision de justice.\n\nOn parle de recouvrement de créances lorsque le débiteur ne s'exécute pas spontanément — c'est-à-dire lorsqu'il ne paie pas à l'échéance prévue, malgré les relances. Le créancier doit alors mettre en œuvre une procédure pour obtenir ce qui lui est dû.\n\nPour qu'une créance soit recouvrable en justice, elle doit réunir trois conditions cumulatives : elle doit être certaine (son existence ne fait pas de doute, elle est prouvée par un document), liquide (son montant est déterminé ou déterminable), et exigible (l'échéance de paiement est arrivée). Une créance conditionnelle, dont le montant n'est pas encore fixé, ou dont l'échéance n'est pas encore atteinte, ne peut pas faire l'objet d'une action en recouvrement immédiate.",
+      "definition": "Créance certaine, liquide et exigible : trois conditions cumulatives pour agir en recouvrement. Certaine = prouvée et incontestable. Liquide = d'un montant précis. Exigible = dont l'échéance est arrivée."
+    },
+    {
+      "titre": "La stratégie préalable : analyser la situation avant d'agir",
+      "texte": "Avant d'engager toute démarche de recouvrement, il est indispensable d'analyser la situation du débiteur. Cette analyse conditionne le choix de la stratégie : aller vite en justice, négocier un échelonnement, ou envisager une liquidation judiciaire.\n\nLes éléments à examiner sont les suivants : la situation financière du débiteur (a-t-il des actifs saisissables ? des comptes bancaires actifs ? un fonds de commerce ?), l'existence de procédures judiciaires ou d'exécution déjà en cours contre lui, la disponibilité des preuves documentaires de la dette (contrat, factures, bons de livraison, courriers de reconnaissance de dette), la possibilité que le débiteur conteste la créance, et enfin le délai de prescription applicable.\n\nCette analyse permet d'éviter deux erreurs classiques : engager une procédure judiciaire longue et coûteuse contre un débiteur insolvable qui n'a rien à saisir, ou au contraire attendre trop longtemps et laisser la prescription éteindre un droit pourtant valable.\n\nExemple : La société RAVAKA Import-Export SARL est créancière de 8 000 000 Ariary envers un client dont le contrat est signé et les factures impayées depuis 3 mois. Avant d'agir, son directeur vérifie que le client a toujours un siège social actif, un véhicule de société et un compte bancaire connu. Ces éléments indiquent qu'une saisie serait possible en cas de jugement favorable — la procédure judiciaire vaut donc la peine d'être engagée.",
+      "definition": "Insolvabilité : situation d'un débiteur dont le patrimoine est insuffisant pour couvrir ses dettes. Un débiteur insolvable peut être condamné en justice sans que le créancier puisse jamais récupérer son argent faute de biens à saisir."
+    },
+    {
+      "titre": "La phase amiable : négocier avant de saisir le tribunal",
+      "texte": "La phase amiable est la première étape du recouvrement. Elle consiste à tenter d'obtenir le paiement sans recourir au tribunal, par la voie de la négociation et de la pression amiable. Cette étape est fortement recommandée car elle est plus rapide, moins coûteuse et préserve la relation commerciale.\n\nElle débute par l'envoi d'une mise en demeure de payer — lettre formelle adressée au débiteur, par courrier recommandé avec accusé de réception, lui enjoignant de payer dans un délai précis (généralement 8 à 15 jours). La mise en demeure est un acte juridique important : elle marque officiellement le début du contentieux, elle fait courir les intérêts moratoires, et surtout elle interrompt le délai de prescription.\n\nSi la mise en demeure reste sans effet, des négociations peuvent s'engager : proposer un échéancier de paiement, accepter une compensation avec des biens ou services, envisager le transfert de la dette à un tiers. Ces solutions évitent le tribunal tout en permettant un recouvrement partiel ou progressif.\n\nLa durée moyenne d'un recouvrement amiable est de 60 jours. Si au bout de ce délai le débiteur n'a pas payé et ne négocie pas sérieusement, le passage à la phase judiciaire devient nécessaire.\n\nExemple : TIANA BTP SARL doit 5 000 000 Ariary à RAVAKA Import-Export SARL depuis 4 mois. RAVAKA envoie une mise en demeure le 1er juin 2026, avec un délai de 15 jours pour payer. TIANA répond en proposant de payer en trois versements mensuels. Un accord est trouvé sans procès.",
+      "definition": "Intérêts moratoires : intérêts dus par le débiteur en retard de paiement, calculés à partir de la mise en demeure. Ils compensent le préjudice subi par le créancier du fait du retard."
+    },
+    {
+      "titre": "La prescription des créances à Madagascar : délais à connaître absolument",
+      "texte": "La prescription est l'extinction d'un droit par l'écoulement du temps. Une créance prescrite ne peut plus être réclamée en justice — même si elle est certaine et prouvée. Connaître les délais de prescription est donc fondamental pour tout créancier.\n\nÀ Madagascar, deux délais principaux s'appliquent :\n— Le délai de droit commun pour les créances civiles est de 30 ans. Il s'applique aux créances entre particuliers non commerçants (prêt entre amis, loyer résidentiel, etc.).\n— Le délai pour les créances commerciales est de 5 ans. Il s'applique aux dettes nées dans le cadre d'une activité commerciale (factures impayées entre commerçants, contrats de fourniture, etc.).\n\nTrois règles importantes à retenir :\n1° La prescription ne s'applique pas automatiquement : en justice, le juge ne la soulève pas d'office. C'est le débiteur qui doit l'invoquer expressément. Si le débiteur ne le fait pas, le tribunal peut quand même condamner sur une créance prescrite.\n2° La prescription est interrompue par tout acte par lequel le débiteur reconnaît sa dette (paiement partiel, lettre de reconnaissance, accord d'échelonnement signé). Après interruption, le délai repart de zéro.\n3° La prescription est également interrompue par une assignation en justice ou une mise en demeure formelle.\n\nExemple : Un commerçant est créancier d'une dette commerciale depuis le 1er janvier 2020. La prescription de 5 ans expire le 1er janvier 2025. Mais en mars 2022, le débiteur a signé un accord de règlement partiel — cet acte a interrompu la prescription, qui repart de zéro depuis mars 2022 et n'expirera qu'en mars 2027.",
+      "definition": "Prescription extinctive : mécanisme par lequel un droit s'éteint faute d'avoir été exercé dans le délai légal. Elle ne joue qu'à la demande du débiteur devant le tribunal — elle n'est jamais automatique."
+    },
+    {
+      "titre": "La procédure judiciaire ordinaire : saisir le tribunal",
+      "texte": "Lorsque la phase amiable échoue, le créancier doit saisir le tribunal compétent par voie de requête ou d'assignation. La juridiction compétente dépend de la nature de la créance (civile ou commerciale) et de son montant.\n\nUne fois l'acte introductif d'instance déposé et enregistré, le tribunal convoque le défendeur. Les délais de convocation sont les suivants selon la distance : 8 jours si le débiteur est dans la même sous-préfecture que le tribunal ; 15 jours s'il est dans une sous-préfecture voisine ; 1 mois s'il est dans une autre sous-préfecture ; 2 mois s'il est situé hors de Madagascar.\n\nÀ l'audience, les parties comparaissent en personne ou par avocat. Le tribunal entend leurs observations, examine les pièces produites, et peut soit rendre immédiatement sa décision, soit ordonner des mesures d'enquête complémentaires. La décision est rendue immédiatement ou dans un délai maximum d'un mois après la clôture des débats.\n\nVoies de recours : la décision du Tribunal de Première Instance peut être frappée d'appel devant la Cour d'appel dans un délai d'un mois. L'arrêt de la Cour d'appel peut lui-même faire l'objet d'un pourvoi en cassation devant la Cour Suprême dans un délai de deux mois à compter de sa signification. La décision de la Cour Suprême est définitive et non susceptible de recours.\n\nNote importante : si le créancier est un non-résident de Madagascar, le débiteur peut exiger qu'il fournisse une caution (garantie) pour couvrir les éventuels frais de justice, sauf si le créancier prouve qu'il possède à Madagascar des biens excédant ce montant.",
+      "definition": "Acte introductif d'instance : acte par lequel une partie saisit le tribunal d'un litige. Il peut prendre la forme d'une requête (acte écrit déposé au greffe) ou d'une assignation (acte d'huissier notifié au défendeur)."
+    },
+    {
+      "titre": "La procédure d'injonction de payer : la voie rapide",
+      "texte": "L'injonction de payer est une procédure simplifiée et rapide, particulièrement adaptée au recouvrement de créances commerciales incontestées. Elle est ouverte lorsque la créance découle d'un contrat écrit ou d'un titre commercial (lettre de change, chèque) et que son montant ne dépasse pas le plafond fixé par décret du ministre de la Justice.\n\nLe créancier dépose une requête auprès du tribunal, accompagnée de toutes les pièces justificatives (contrat, factures, bons de livraison, relevés de compte). Le juge examine la requête seul, sans convoquer le débiteur dans un premier temps. Deux issues sont possibles : si le juge estime que les pièces ne sont pas suffisantes, il rejette la requête et le créancier doit alors emprunter la voie ordinaire. Si les pièces confirment la créance, le juge rend une ordonnance portant injonction de payer.\n\nCette ordonnance est ensuite signifiée au débiteur par voie d'huissier. Le débiteur dispose alors d'un délai d'un mois pour former opposition. S'il ne s'y oppose pas dans ce délai, l'ordonnance reçoit la formule exécutoire et peut être transmise à un huissier pour exécution forcée. Si le débiteur forme opposition, le tribunal convoque les deux parties à une audience contradictoire et rend une décision qui a force de jugement.\n\nImportant : l'injonction de payer ne peut pas être utilisée si le débiteur n'a ni domicile ni résidence connus à Madagascar, ou si l'ordonnance doit être signifiée à l'étranger.\n\nExemple : RAVAKA Import-Export SARL est créancière de 6 000 000 Ariary sur la base d'un contrat de fourniture écrit et de trois factures impayées. Elle dépose une requête en injonction de payer. Le juge examine les pièces, rend l'ordonnance. L'huissier la signifie au débiteur le 1er juin 2026. Le débiteur ne forme pas opposition avant le 1er juillet 2026. L'ordonnance devient exécutoire et l'huissier peut procéder à la saisie.",
+      "definition": "Injonction de payer : ordonnance rendue par un juge à la demande d'un créancier, sans débat contradictoire préalable, enjoignant au débiteur de payer une somme déterminée. Elle devient exécutoire si le débiteur ne forme pas opposition dans le délai d'un mois."
+    },
+    {
+      "titre": "L'exécution forcée : du jugement à la saisie",
+      "texte": "Obtenir un jugement condamnant le débiteur ne suffit pas si ce dernier refuse d'exécuter volontairement. Le créancier doit alors recourir à l'exécution forcée, confiée à un huissier de justice.\n\nLa première étape est le commandement de payer : l'huissier notifie officiellement au débiteur la décision de justice et lui enjoint de payer dans un délai précis. C'est un préalable obligatoire à toute saisie. Si le débiteur ne s'exécute pas après le commandement, l'huissier peut procéder aux mesures d'exécution forcée suivantes : saisie et virement des fonds sur les comptes bancaires du débiteur (saisie-attribution) ; saisie et vente de ses biens meubles (véhicules, matériel, stocks) ; saisie et vente de ses biens immeubles (terrains, immeubles) ; saisie de biens incorporels (fonds de commerce, droits de propriété intellectuelle) ; saisie de titres financiers.\n\nUne décision de justice peut être exécutée pendant 30 ans à compter de son prononcé — ce délai très long donne au créancier le temps de surveiller l'évolution de la situation patrimoniale du débiteur et d'agir dès qu'il acquiert des biens saisissables.\n\nSi le débiteur est totalement insolvable et ne peut pas rembourser avec ses actifs, le créancier peut envisager l'ouverture d'une procédure de liquidation judiciaire. Cette procédure est applicable à tout commerçant, personne physique ou morale. Le tribunal fixe une date de cessation des paiements, qui ne peut pas être antérieure de plus de 18 mois à la décision d'ouverture. Dans ce cadre, certains actes accomplis par le débiteur pendant la période de cessation des paiements peuvent être annulés (donations, paiements anticipés, constitution de garanties tardives) afin d'augmenter la masse des biens à répartir entre les créanciers.",
+      "definition": "Commandement de payer : acte d'huissier par lequel le créancier, muni d'un titre exécutoire (jugement), met formellement en demeure le débiteur de payer dans un délai déterminé, avant de procéder aux mesures de saisie. C'est un préalable obligatoire à toute exécution forcée."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type": "Mise en demeure de payer",
+      "lecon": "La mise en demeure est le premier acte juridique du recouvrement. Elle se distingue d'une simple relance téléphonique ou d'un email informel par ses effets juridiques : elle fait courir les intérêts moratoires, elle interrompt la prescription, et elle constitue la preuve que le créancier a formellement réclamé son dû avant de saisir le tribunal. Sans mise en demeure préalable, un tribunal peut refuser d'accorder les intérêts de retard. Elle doit être envoyée par courrier recommandé avec accusé de réception, ou remise par huissier. Elle doit identifier clairement la créance (nature, montant, échéance), rappeler les relances antérieures, fixer un délai précis de paiement, et annoncer les suites judiciaires en cas de non-paiement.",
+      "contexte": "La société RAVAKA Import-Export SARL n'a pas été payée par son client TIANA BTP SARL d'une somme de 8 400 000 Ariary correspondant à trois factures de fournitures de matériaux de construction, arrivées à échéance depuis plus de 60 jours. Plusieurs relances téléphoniques et emails sont restés sans suite.",
+      "document": {
+        "en_tete_expediteur": {
+          "raison_sociale": "RAVAKA Import-Export SARL",
+          "adresse": "Lot II A 45, Analakely, Antananarivo 101",
+          "NIF": "1002345678",
+          "telephone": "+261 20 22 123 45",
+          "email": "contact@ravaka-import.mg"
+        },
+        "lieu_date": "Antananarivo, le 15 juin 2026",
+        "mode_envoi": "Lettre recommandée avec accusé de réception",
+        "destinataire": {
+          "raison_sociale": "TIANA BTP SARL",
+          "adresse": "Lot III B 12, Tanjombato, Antananarivo 105",
+          "a_l_attention_de": "Monsieur le Gérant"
+        },
+        "objet": "MISE EN DEMEURE DE PAYER — Somme de 8 400 000 Ariary",
+        "formule_appel": "Monsieur le Gérant,",
+        "corps": "Malgré nos relances téléphoniques des 5 mai, 20 mai et 10 juin 2026, ainsi que nos courriers électroniques des 12 mai et 3 juin 2026 restés sans réponse, nous constatons que votre société n'a pas réglé les sommes suivantes, pourtant arrivées à échéance :\n\n— Facture n° FAC-2026-0180 du 15 mars 2026, échéance 15 avril 2026 : 2 800 000 Ariary\n— Facture n° FAC-2026-0195 du 1er avril 2026, échéance 1er mai 2026 : 3 100 000 Ariary\n— Facture n° FAC-2026-0212 du 18 avril 2026, échéance 18 mai 2026 : 2 500 000 Ariary\n\nTotal dû : 8 400 000 Ariary (huit millions quatre cent mille Ariary)\n\nPar la présente, nous vous mettons formellement en demeure de régler l'intégralité de cette somme dans un délai de quinze (15) jours à compter de la réception de ce courrier.\n\nPassé ce délai, sans paiement intégral ou accord écrit de votre part, nous nous verrons contraints de saisir sans autre avertissement la juridiction compétente pour obtenir votre condamnation au paiement de la somme due, augmentée des intérêts de retard et des frais de procédure.\n\nNous vous informons que la présente mise en demeure interrompt le cours de la prescription et fait courir les intérêts moratoires à compter de ce jour.\n\nNous espérons que vous donnerez à ce courrier toute l'attention qu'il mérite afin d'éviter une procédure judiciaire préjudiciable aux deux parties.",
+        "formule_politesse": "Nous vous prions d'agréer, Monsieur le Gérant, l'expression de nos salutations distinguées.",
+        "signature": {
+          "nom": "Le Gérant",
+          "prenom_nom": "RAKOTO Jean",
+          "qualite": "Gérant de RAVAKA Import-Export SARL",
+          "cachet": "Cachet de la société"
+        },
+        "note_juridique": "Cette lettre doit impérativement être envoyée en recommandé avec accusé de réception. Conservez précieusement le récépissé postal et l'accusé de réception signé — ils constituent la preuve de la mise en demeure devant le tribunal."
+      }
+    },
+
+    {
+      "id": 2,
+      "type": "Requête en injonction de payer",
+      "lecon": "La requête en injonction de payer est l'acte par lequel le créancier saisit le tribunal pour obtenir une ordonnance de paiement sans débat contradictoire préalable. C'est la procédure la plus rapide et la plus efficace pour les créances commerciales certaines, nées d'un contrat écrit. Elle présente plusieurs avantages : le débiteur n'est pas convoqué dans un premier temps (donc pas de possibilité de disparaître ou d'organiser son insolvabilité), la procédure est peu coûteuse, et si le débiteur ne forme pas opposition dans le mois suivant la signification, l'ordonnance devient directement exécutoire. Pour réussir, la requête doit être accompagnée de toutes les pièces prouvant la créance : contrat signé, factures, bons de commande, bons de livraison, correspondances, mise en demeure restée sans effet.",
+      "contexte": "La mise en demeure du 15 juin 2026 est restée sans réponse. RAVAKA Import-Export SARL décide de saisir le Tribunal de Commerce d'Antananarivo d'une requête en injonction de payer pour obtenir le paiement de 8 400 000 Ariary.",
+      "document": {
+        "en_tete_cabinet": {
+          "nom_cabinet": "Cabinet d'Avocats RAKOTONIRINA & Associés",
+          "avocat": "Me Andry RAKOTONIRINA",
+          "qualite": "Avocat au Barreau de Madagascar",
+          "adresse": "Immeuble Anosy Business Center, 3ème étage, Antananarivo 101",
+          "telephone": "+261 34 12 345 67",
+          "email": "contact@rakotonirina-avocats.mg"
+        },
+        "lieu_date": "Antananarivo, le 5 juillet 2026",
+        "destinataire": "À Monsieur le Président du Tribunal de Commerce d'Antananarivo",
+        "titre_acte": "REQUÊTE EN INJONCTION DE PAYER",
+        "requerant": {
+          "raison_sociale": "RAVAKA Import-Export SARL",
+          "siege": "Lot II A 45, Analakely, Antananarivo 101",
+          "NIF": "1002345678",
+          "representant": "Représentée par son gérant M. RAKOTO Jean",
+          "conseil": "Ayant pour conseil Maître Andry RAKOTONIRINA, Avocat au Barreau de Madagascar"
+        },
+        "debiteur": {
+          "raison_sociale": "TIANA BTP SARL",
+          "siege": "Lot III B 12, Tanjombato, Antananarivo 105",
+          "NIF": "2003456789",
+          "representant": "Représentée par son gérant"
+        },
+        "formule_introductive": "A l'honneur de vous exposer respectueusement ce qui suit :",
+        "expose_faits": "La société RAVAKA Import-Export SARL a conclu avec la société TIANA BTP SARL un contrat de fourniture de matériaux de construction en date du 10 janvier 2026. En exécution de ce contrat, RAVAKA a livré les marchandises commandées et a émis les factures suivantes, restées impayées à leur échéance :\n\n— Facture n° FAC-2026-0180 du 15 mars 2026, échéance 15 avril 2026 : 2 800 000 Ariary\n— Facture n° FAC-2026-0195 du 1er avril 2026, échéance 1er mai 2026 : 3 100 000 Ariary\n— Facture n° FAC-2026-0212 du 18 avril 2026, échéance 18 mai 2026 : 2 500 000 Ariary\n\nTotal réclamé : 8 400 000 Ariary\n\nMalgré de nombreuses relances et une mise en demeure formelle adressée par lettre recommandée le 15 juin 2026, demeurée sans réponse à ce jour, la société TIANA BTP SARL n'a procédé à aucun paiement.",
+        "en_droit": "La créance de la société RAVAKA Import-Export SARL est certaine, liquide et exigible. Elle découle d'un contrat écrit et est établie par des factures régulières acceptées sans contestation. Les conditions de la procédure d'injonction de payer sont réunies.",
+        "dispositif": {
+          "items": [
+            "Rendre une ordonnance portant injonction de payer à la société TIANA BTP SARL la somme de 8 400 000 Ariary (huit millions quatre cent mille Ariary) ;",
+            "Dire que cette ordonnance sera signifiée à la société TIANA BTP SARL par voie d'huissier ;",
+            "Dire qu'à défaut d'opposition formée dans le délai d'un mois, l'ordonnance recevra la formule exécutoire ;",
+            "Condamner la société TIANA BTP SARL aux frais de procédure."
+          ]
+        },
+        "pieces_jointes": [
+          "Copie du contrat de fourniture du 10 janvier 2026",
+          "Copie des factures FAC-2026-0180, FAC-2026-0195 et FAC-2026-0212",
+          "Copies des bons de livraison signés",
+          "Copie de la mise en demeure du 15 juin 2026 avec accusé de réception"
+        ],
+        "signature": {
+          "nom": "Me Andry RAKOTONIRINA",
+          "qualite": "Avocat au Barreau de Madagascar, Conseil de la requérante"
+        }
+      }
+    },
+
+    {
+      "id": 3,
+      "type": "Commandement de payer (acte d'huissier)",
+      "lecon": "Le commandement de payer est l'acte par lequel l'huissier de justice, mandaté par le créancier titulaire d'un titre exécutoire (jugement, ordonnance d'injonction de payer revêtue de la formule exécutoire), notifie formellement au débiteur l'obligation de payer dans un délai précis, avant de procéder aux mesures de saisie. C'est un préalable obligatoire à toute saisie — on ne peut pas saisir un débiteur sans lui avoir d'abord signifié un commandement de payer. Il doit mentionner : la décision de justice sur laquelle il se fonde, le montant total dû (capital, intérêts, frais), le délai laissé au débiteur pour payer, et l'avertissement qu'à défaut de paiement dans ce délai, des mesures de saisie seront engagées. Ce délai est généralement de 8 jours en matière commerciale.",
+      "contexte": "L'ordonnance d'injonction de payer rendue en faveur de RAVAKA Import-Export SARL est devenue exécutoire, TIANA BTP SARL n'ayant formé aucune opposition dans le délai d'un mois. Me RABE Hery, huissier de justice, est chargé de signifier le commandement de payer avant toute saisie.",
+      "document": {
+        "en_tete_huissier": {
+          "nom": "Me RABE Hery",
+          "qualite": "Huissier de Justice",
+          "ressort": "Ressort du Tribunal de Commerce d'Antananarivo",
+          "adresse": "Immeuble Panorama, Rue Rainandriamampandry, Antananarivo 101",
+          "telephone": "+261 34 78 901 23"
+        },
+        "lieu_date": "Antananarivo, le 20 août 2026",
+        "titre_acte": "COMMANDEMENT DE PAYER",
+        "reference": "Réf. huissier : CMD-2026-0412",
+        "creancier": {
+          "raison_sociale": "RAVAKA Import-Export SARL",
+          "adresse": "Lot II A 45, Analakely, Antananarivo 101",
+          "qualite": "Créancière poursuivante"
+        },
+        "debiteur": {
+          "raison_sociale": "TIANA BTP SARL",
+          "adresse": "Lot III B 12, Tanjombato, Antananarivo 105",
+          "qualite": "Débitrice poursuivie"
+        },
+        "titre_executoire": "Ordonnance portant injonction de payer n° 0234/2026 rendue le 15 juillet 2026 par le Président du Tribunal de Commerce d'Antananarivo, revêtue de la formule exécutoire le 12 août 2026",
+        "corps": "En vertu de l'ordonnance portant injonction de payer n° 0234/2026 du 15 juillet 2026 rendue par le Président du Tribunal de Commerce d'Antananarivo, revêtue de la formule exécutoire le 12 août 2026, à la requête et pour le compte de la société RAVAKA Import-Export SARL,\n\nJe, soussigné Me RABE Hery, Huissier de Justice au ressort du Tribunal de Commerce d'Antananarivo,\n\nCOMMANDE ET ENJOINS la société TIANA BTP SARL de payer dans un délai de HUIT (8) JOURS à compter de la signification du présent acte, la somme totale de :",
+        "decomposition_somme": {
+          "principal": "8 400 000 Ariary (somme due en principal)",
+          "interets": "252 000 Ariary (intérêts de retard calculés au taux légal du 15 juin 2026 au 20 août 2026)",
+          "frais_huissier": "85 000 Ariary (frais de signification et d'actes)",
+          "total_general": "8 737 000 Ariary (huit millions sept cent trente-sept mille Ariary)"
+        },
+        "avertissement": "FAUTE DE PAIEMENT INTÉGRAL dans le délai susmentionné, il sera procédé à toutes mesures d'exécution forcée autorisées par la loi et notamment à la saisie-attribution de vos comptes bancaires, à la saisie et vente de vos biens meubles et immeubles, sans autre avertissement ni formalité.",
+        "mention_signification": "Signifié à la société TIANA BTP SARL en son siège social sis Lot III B 12, Tanjombato, Antananarivo 105, en parlant à Monsieur le Gérant présent et ayant déclaré comprendre la teneur du présent acte.",
+        "signature": {
+          "nom": "Me RABE Hery",
+          "qualite": "Huissier de Justice"
+        },
+        "note_juridique": "Le commandement de payer doit être conservé avec toutes ses copies certifiées conformes. Il constitue la preuve que l'exécution forcée a été précédée de la notification obligatoire au débiteur. Sans commandement préalable, toute saisie serait nulle."
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Madame SAHONDRA tient une épicerie à Diego-Suarez. En janvier 2021, elle a prêté 3 000 000 Ariary à son voisin Monsieur ANDRY, un particulier non commerçant, sans contrat écrit mais avec deux témoins. Monsieur ANDRY n'a jamais remboursé. En juin 2026, Madame SAHONDRA décide enfin d'agir en justice. Monsieur ANDRY invoque la prescription. En mars 2024, il avait envoyé un SMS à Madame SAHONDRA disant : « Je te rembourse dès que possible, je n'oublie pas ma dette de 3 millions. »",
+      "question": "La créance de Madame SAHONDRA est-elle prescrite en juin 2026 ?",
+      "choix": [
+        "Non : bien que 5 ans se soient écoulés depuis janvier 2021, le SMS de mars 2024 dans lequel Monsieur ANDRY reconnaît sa dette a interrompu la prescription. Un nouveau délai de 30 ans a recommencé à courir depuis mars 2024 — la créance est donc valablement exigible en juin 2026.",
+        "Oui : le délai de prescription commerciale de 5 ans est expiré depuis janvier 2026 — la créance est éteinte.",
+        "Oui : sans contrat écrit, la créance ne peut pas être prouvée et est donc irrecevable en justice.",
+        "Non : entre particuliers non commerçants, le délai est de 30 ans — il court depuis janvier 2021 et n'expire qu'en janvier 2051, sans interruption possible."
+      ],
+      "reponse": "Non : bien que 5 ans se soient écoulés depuis janvier 2021, le SMS de mars 2024 dans lequel Monsieur ANDRY reconnaît sa dette a interrompu la prescription. Un nouveau délai de 30 ans a recommencé à courir depuis mars 2024 — la créance est donc valablement exigible en juin 2026.",
+      "indices": "Deux questions à traiter séparément : quel délai de prescription s'applique à une créance entre deux particuliers non commerçants ? Et qu'est-ce qui interrompt ce délai ?",
+      "explication": "La créance entre Madame SAHONDRA et Monsieur ANDRY est une créance civile entre deux particuliers non commerçants : le délai de prescription applicable est donc de 30 ans, et non de 5 ans. À ce stade, même sans interruption, la créance ne serait pas prescrite en 2026 puisque le délai courrait jusqu'en 2051. Mais en plus, le SMS de mars 2024 dans lequel Monsieur ANDRY reconnaît expressément devoir 3 millions constitue un acte de reconnaissance de dette qui interrompt le délai de prescription — après cette interruption, un nouveau délai de 30 ans repart depuis mars 2024. La créance est donc parfaitement valable. Concernant l'absence de contrat écrit : cela ne rend pas la créance irrecevable, mais complique la preuve. Les deux témoins et le SMS de reconnaissance constituent des éléments de preuve que le tribunal appréciera."
+    },
+    {
+      "id": 2,
+      "scenario": "La société FANJA Exportation SARL est créancière de 12 000 000 Ariary envers la société BETA Commerce SARL, sur la base d'un contrat de fourniture écrit et de factures impayées depuis 3 mois. Elle hésite entre deux options : engager directement la procédure judiciaire ordinaire, ou déposer une requête en injonction de payer. Son directeur apprend que BETA Commerce a récemment contesté par écrit une partie de la dette, estimant que 4 000 000 Ariary ne lui sont pas dus en raison d'une livraison incomplète.",
+      "question": "Quelle procédure FANJA Exportation SARL doit-elle privilégier, et pourquoi ?",
+      "choix": [
+        "La procédure judiciaire ordinaire : la contestation partielle de 4 000 000 Ariary par BETA Commerce rend la créance partiellement contestée, ce qui fait obstacle à l'injonction de payer dont l'efficacité repose sur une créance incontestée. La voie ordinaire permettra un débat contradictoire sur ce point.",
+        "La requête en injonction de payer pour la totalité des 12 000 000 Ariary : la contestation du débiteur est sans incidence sur la recevabilité de la requête.",
+        "La requête en injonction de payer pour les 8 000 000 Ariary incontestés, et la procédure ordinaire pour les 4 000 000 Ariary contestés, en deux procédures séparées.",
+        "Aucune procédure judiciaire n'est possible tant que FANJA n'a pas prouvé que la livraison était complète."
+      ],
+      "reponse": "La procédure judiciaire ordinaire : la contestation partielle de 4 000 000 Ariary par BETA Commerce rend la créance partiellement contestée, ce qui fait obstacle à l'injonction de payer dont l'efficacité repose sur une créance incontestée. La voie ordinaire permettra un débat contradictoire sur ce point.",
+      "indices": "Rappelez-vous les conditions d'efficacité de l'injonction de payer : elle est conçue pour les créances certaines et incontestées. Que se passe-t-il lorsque le débiteur conteste la dette, même partiellement ?",
+      "explication": "L'injonction de payer est une procédure rapide précisément parce qu'elle est conçue pour les créances incontestées, prouvées par des documents écrits, sur lesquelles il n'y a pas de discussion sérieuse. Dès lors que le débiteur conteste une partie significative de la dette — ici 4 000 000 Ariary sur 12 000 000, soit un tiers — le risque est élevé qu'il forme opposition à l'ordonnance, ce qui renverra de toute façon l'affaire devant le tribunal en procédure contradictoire. L'avantage de rapidité de l'injonction disparaît alors. La procédure ordinaire, bien que plus longue, est ici plus adaptée : elle permettra à FANJA de prouver l'intégralité de sa livraison (bons de livraison, photos, témoignages), et à BETA Commerce de faire valoir ses arguments sur la livraison incomplète alléguée. Le tribunal tranchera sur le fond après débat contradictoire."
+    },
+    {
+      "id": 3,
+      "scenario": "Monsieur TSIRY a obtenu un jugement du Tribunal de Première Instance de Toamasina condamnant son débiteur, Monsieur RAVO, à lui payer 5 500 000 Ariary. Le jugement a été rendu le 10 mars 2026. Monsieur RAVO n'a pas fait appel dans le délai d'un mois. Monsieur TSIRY transmet le jugement à un huissier le 15 avril 2026 pour commencer l'exécution. L'huissier informe Monsieur TSIRY que Monsieur RAVO ne possède aucun bien meuble ni immeuble connu à son nom, mais qu'il est salarié d'une entreprise locale depuis 6 mois.",
+      "question": "Monsieur TSIRY peut-il néanmoins faire exécuter le jugement, et comment ?",
+      "choix": [
+        "Oui : l'huissier peut pratiquer une saisie sur le salaire de Monsieur RAVO auprès de son employeur, dans les limites légales protégeant une quotité insaisissable, sans qu'il soit nécessaire que Ravo possède des biens meubles ou immeubles.",
+        "Non : en l'absence de biens meubles ou immeubles, le jugement est inexécutable et Monsieur TSIRY ne peut rien faire.",
+        "Oui, mais seulement si Monsieur TSIRY engage en parallèle une procédure de liquidation judiciaire contre Monsieur RAVO.",
+        "Non : le jugement du TPI n'est pas encore exécutoire car le délai d'appel d'un mois n'est expiré que le 10 avril 2026, et l'huissier ne peut pas agir avant d'avoir reçu le jugement revêtu de la formule exécutoire."
+      ],
+      "reponse": "Oui : l'huissier peut pratiquer une saisie sur le salaire de Monsieur RAVO auprès de son employeur, dans les limites légales protégeant une quotité insaisissable, sans qu'il soit nécessaire que Ravo possède des biens meubles ou immeubles.",
+      "indices": "Les mesures d'exécution forcée ne se limitent pas aux biens meubles et immeubles. Pensez à l'ensemble des actifs saisissables d'un débiteur salarié. Par ailleurs, vérifiez si le jugement est bien devenu exécutoire au moment où l'huissier intervient.",
+      "explication": "Le jugement du 10 mars 2026 est devenu définitif au bout du délai d'appel d'un mois, soit le 10 avril 2026. L'huissier saisi le 15 avril 2026 intervient donc bien après l'expiration du délai d'appel — le jugement est exécutoire. L'absence de biens meubles ou immeubles ne rend pas le jugement inexécutable : le salaire d'un débiteur est saisissable par voie de saisie-attribution entre les mains de l'employeur. L'huissier notifie à l'employeur de Monsieur RAVO une saisie-attribution sur salaire : l'employeur est tenu de verser directement à Monsieur TSIRY une fraction du salaire de Monsieur RAVO à chaque paie, jusqu'à apurement total de la dette. La loi protège une quotité minimale insaisissable pour permettre au salarié de subvenir à ses besoins essentiels, mais le solde est versé au créancier. C'est souvent la voie d'exécution la plus efficace contre un débiteur sans patrimoine mais ayant un emploi stable."
+    },
+    {
+      "id": 4,
+      "scenario": "La société MIRANA Distribution SA est créancière de 25 000 000 Ariary envers la société LOVA Transport SARL, créance née d'un contrat commercial en 2021. En octobre 2025, un audit révèle que LOVA Transport SARL a cessé tout paiement à ses créanciers depuis plusieurs mois, qu'elle n'a plus de trésorerie, et que son gérant a transféré à titre gratuit à sa femme en avril 2025 le véhicule poids lourd de la société d'une valeur estimée à 18 000 000 Ariary. MIRANA Distribution souhaite savoir ce qu'elle peut faire.",
+      "question": "Quelles actions MIRANA Distribution SA peut-elle envisager pour protéger et recouvrer sa créance ?",
+      "choix": [
+        "MIRANA peut demander l'ouverture d'une procédure de liquidation judiciaire contre LOVA Transport SARL, et dans ce cadre demander l'annulation du transfert du poids lourd effectué à titre gratuit pendant la période de cessation des paiements, afin de réintégrer ce bien dans la masse liquidative.",
+        "MIRANA ne peut rien faire : la créance commerciale de 2021 est prescrite depuis 2026, et le transfert du véhicule est un acte privé entre le gérant et son épouse qui ne peut pas être attaqué.",
+        "MIRANA doit uniquement obtenir un jugement de condamnation contre LOVA Transport SARL et attendre que la société retrouve de la trésorerie.",
+        "MIRANA peut uniquement saisir les biens restants de LOVA Transport SARL, mais ne peut pas remettre en cause le transfert du véhicule déjà effectué."
+      ],
+      "reponse": "MIRANA peut demander l'ouverture d'une procédure de liquidation judiciaire contre LOVA Transport SARL, et dans ce cadre demander l'annulation du transfert du poids lourd effectué à titre gratuit pendant la période de cessation des paiements, afin de réintégrer ce bien dans la masse liquidative.",
+      "indices": "Deux éléments clés sont présents dans ce scénario : une société insolvable ayant cessé ses paiements, et un transfert de bien à titre gratuit effectué peu avant. Rappelez-vous les règles sur la liquidation judiciaire et sur les actes annulables pendant la période de cessation des paiements.",
+      "explication": "MIRANA Distribution SA peut engager plusieurs actions cumulatives. D'abord, la créance n'est pas prescrite : née en 2021, la prescription commerciale de 5 ans expire en 2026, mais MIRANA agit en octobre 2025 — elle est dans les délais. Ensuite, face à une société qui a cessé ses paiements et dont le patrimoine est insuffisant, la procédure de liquidation judiciaire est l'outil adapté : MIRANA peut en demander l'ouverture auprès du tribunal compétent. Le point crucial est le transfert du poids lourd à titre gratuit en avril 2025 : dans le cadre de la liquidation, le tribunal fixera une date de cessation des paiements (qui peut remonter jusqu'à 18 mois avant la décision d'ouverture). Si ce transfert gratuit a été effectué pendant la période de cessation des paiements, il peut être annulé — le véhicule sera réintégré dans la masse des biens à liquider et répartir entre les créanciers. C'est précisément pour éviter que les débiteurs organisent leur insolvabilité au détriment de leurs créanciers que la loi permet l'annulation de ces actes suspects."
+    }
+  ]
+}
