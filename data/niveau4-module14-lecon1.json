@@ -1,0 +1,198 @@
+{
+  "titre": "Le licenciement — procédure, calcul des indemnités, préavis",
+  "module": 14,
+  "niveau": "Professionnel",
+
+  "presentation": "Le licenciement à Madagascar est encadré par la Loi n° 2024-014 portant Code du travail, qui a remplacé la Loi n° 2003-044, et par ses décrets d'application, notamment le Décret n° 2007-009 sur le préavis. Ce module suit toute la procédure, de la convocation à l'entretien préalable jusqu'à la remise de la fiche de paie finale, explique le calcul du préavis et de l'indemnité de licenciement selon l'ancienneté et la catégorie professionnelle, et présente le licenciement abusif ainsi que les recours du salarié.",
+
+  "contenu": [
+    {
+      "titre": "Le cadre légal et le motif du licenciement",
+      "texte": "Toute rupture d'un contrat à durée indéterminée par l'employeur doit être fondée sur un motif légitime, lié soit à l'aptitude ou au comportement du travailleur (licenciement pour motif personnel), soit aux nécessités de fonctionnement de l'entreprise, comme des difficultés économiques ou une mutation technologique (licenciement pour motif économique). Cette distinction est essentielle car elle commande des procédures différentes et conditionne le droit à l'indemnité légale de licenciement, qui ne s'applique pas de la même façon selon le motif retenu."
+    },
+    {
+      "titre": "La convocation à l'entretien préalable : pourquoi cette étape existe",
+      "texte": "Avant tout licenciement pour motif personnel, en l'absence de conseil de discipline dans l'entreprise, l'employeur doit convoquer le travailleur à un entretien préalable. Cette formalité n'est pas une simple démarche administrative : elle garantit le respect du droit à la défense du salarié, en lui permettant de connaître les faits qui lui sont reprochés avant qu'une décision irrévocable ne soit prise à son encontre. La Loi n° 2024-014 impose désormais que cette convocation soit notifiée par tout écrit probant au moins trois (3) jours ouvrables avant l'entretien, afin que le salarié dispose d'un temps réel pour préparer sa défense, compte tenu de la gravité des faits reprochés.",
+      "definition": "Entretien préalable au licenciement : étape obligatoire au cours de laquelle l'employeur informe le travailleur des faits qui lui sont reprochés et recueille ses explications, avant toute décision de licenciement."
+    },
+    {
+      "titre": "La demande d'explication et le déroulement de l'entretien",
+      "texte": "Lors de l'entretien, le travailleur a le droit de se faire assister par une personne de son choix, et peut demander la communication du dossier des faits qui lui sont reprochés. Il n'est entendu que sur les faits mentionnés dans la convocation : l'employeur ne peut pas, lors de l'entretien, lui opposer des griefs nouveaux qui n'y figuraient pas. Bien que les textes ne l'imposent pas expressément, il est vivement recommandé de dresser un procès-verbal de l'entretien, relatant son déroulement et les réponses apportées par le travailleur, car ce document constitue une preuve essentielle en cas de contestation ultérieure. Le règlement intérieur de l'entreprise doit désormais fixer le délai dans lequel l'employeur doit prendre sa décision après l'entretien."
+    },
+    {
+      "titre": "La notification du licenciement",
+      "texte": "Si les explications du travailleur ne permettent pas d'écarter les griefs, l'employeur notifie sa décision par une lettre de licenciement. Cette lettre doit préciser les motifs du licenciement, lesquels ne peuvent être que ceux énumérés dans la convocation et discutés lors de l'entretien : un motif non évoqué à l'entretien ne peut pas fonder valablement le licenciement. C'est la date de réception de cette lettre qui fait courir le délai de préavis. Le non-respect des formalités de convocation et d'entretien rend le licenciement abusif en la forme, indépendamment du bien-fondé du motif invoqué : la Cour Suprême malgache a ainsi jugé qu'une simple demande d'explication ne saurait remplacer la convocation à un véritable entretien préalable avec assistance, ces formalités étant d'ordre public."
+    },
+    {
+      "titre": "Le préavis : durée selon l'ancienneté et la catégorie professionnelle",
+      "texte": "La durée du préavis est fixée par le Décret n° 2007-009 du 9 janvier 2007, en fonction de l'ancienneté du travailleur dans l'entreprise et de sa catégorie professionnelle, répartie en cinq groupes (du groupe 1 pour les manœuvres et employés exécutant des tâches simples, au groupe 5 pour les cadres supérieurs ayant autorité sur d'autres cadres). Le préavis court à compter du jour de réception de la notification écrite. Pendant cette période, le travailleur conserve tous ses droits et bénéficie d'un temps de liberté d'une journée par semaine pour rechercher un nouvel emploi ; l'employeur doit lui délivrer une attestation provisoire d'emploi mentionnant qu'il est en période de préavis et peut librement chercher du travail. Le préavis n'est pas dû en cas de faute lourde.",
+      "definition": "Catégorie professionnelle (au sens du Décret n° 2007-009) : classement du travailleur en cinq groupes selon la nature de ses fonctions, sa qualification et son niveau de responsabilité, qui détermine la durée du préavis applicable."
+    },
+    {
+      "titre": "Le barème du préavis",
+      "texte": "Le tableau du Décret n° 2007-009 fixe la durée minimale du préavis comme suit, selon l'ancienneté et le groupe professionnel : moins de 8 jours d'ancienneté, de 1 jour (groupe 1) à 5 jours (groupe 5) ; moins de 3 mois, de 3 jours à 1 mois ; moins de 1 an, de 8 jours à 3 mois ; plus de 1 an, de 10 jours à 4 mois ; au-delà de 3 ans, une majoration de 2 jours par année de service supplémentaire s'applique, dans la limite des durées atteintes au-delà de 5 ans, qui vont de 1 mois (groupe 1) à 6 mois (groupe 5). Ces durées sont des minima impératifs : aucun contrat ou convention collective ne peut les réduire, sous peine de nullité, mais ils peuvent être augmentés."
+    },
+    {
+      "titre": "L'indemnité de licenciement : une distinction essentielle selon le motif",
+      "texte": "Contrairement à une idée répandue, le Code du travail malgache ne prévoit une indemnité légale de licenciement que pour le licenciement pour motif économique ou pour cessation d'activité de l'entreprise. Conformément à l'article 28 de la Loi n° 2024-014, cette indemnité est calculée à raison de dix jours de salaire par année complète de service, sans que le total puisse excéder six mois de salaire. Elle se calcule sur la base du dernier salaire perçu, en tenant compte de tous les avantages et accessoires n'ayant pas le caractère de remboursement de frais, et elle ne se confond ni avec l'indemnité de préavis, ni avec l'indemnité compensatrice de congé payé, ni avec les dommages-intérêts pour licenciement abusif. Pour un licenciement pour motif personnel (faute du travailleur), aucune indemnité légale de licenciement n'est due : le travailleur conserve seulement son droit au préavis (sauf faute lourde) et à l'indemnité compensatrice de congé payé non pris, sauf clause plus favorable du contrat ou d'une convention collective.",
+      "definition": "Indemnité de licenciement (au sens légal) : somme due exclusivement en cas de licenciement pour motif économique ou de cessation d'activité, égale à 10 jours de salaire par année complète de service, plafonnée à 6 mois de salaire."
+    },
+    {
+      "titre": "Le solde de tout compte, le certificat de travail et la fiche de paie finale",
+      "texte": "À la rupture du contrat, l'employeur doit verser au travailleur le solde de son salaire, l'indemnité compensatrice de congé payé non pris, l'indemnité de préavis le cas échéant, ainsi que l'indemnité de licenciement si elle est due. Toutes ces sommes doivent en principe être versées au plus tard au dernier jour de présence du travailleur dans l'entreprise. L'employeur doit également délivrer un certificat de travail mentionnant les dates d'entrée et de départ, les emplois successivement occupés et les catégories professionnelles correspondantes, ainsi qu'une fiche de paie justifiant chacun des montants versés. Le refus de délivrer le certificat de travail ou la fiche de paie, l'omission de mentions obligatoires, ou leur remise tardive, expose l'employeur à des sanctions civiles."
+    },
+    {
+      "titre": "Que faire si la fiche de paie finale ou le certificat de travail ne sont pas remis ?",
+      "texte": "Si l'employeur ne délivre pas la fiche de paie finale, le certificat de travail, ou ne règle pas le solde de tout compte, le travailleur peut d'abord saisir l'Inspecteur du Travail de son ressort, qui peut intervenir directement auprès de l'employeur et convoquer les deux parties pour une tentative de conciliation. La saisine de l'Inspection du Travail est une étape obligatoire avant toute saisine du Tribunal du Travail s'il n'y a pas encore de rupture de contrat reconnue. En cas d'échec de la conciliation, le travailleur peut saisir le Tribunal du Travail du lieu d'exécution du contrat afin d'obtenir la régularisation des documents manquants et le paiement des sommes dues. L'action en paiement des salaires et accessoires, ainsi que des indemnités de préavis et de licenciement, se prescrit par douze mois."
+    },
+    {
+      "titre": "Le licenciement abusif et les recours du salarié",
+      "texte": "Un licenciement est abusif lorsqu'il est dépourvu de cause réelle et sérieuse, mais il peut également l'être en la forme, indépendamment du motif invoqué, lorsque les formalités substantielles de la procédure (convocation à l'entretien préalable, respect du droit à la défense) n'ont pas été respectées : ces formalités étant d'ordre public, leur méconnaissance rend le licenciement abusif même si la faute reprochée au travailleur est réelle. Toute rupture abusive du contrat de travail peut donner lieu à des dommages-intérêts laissés à l'appréciation de la juridiction compétente, qui tient compte notamment de l'ancienneté du travailleur, de son salaire et du préjudice subi. Le travailleur qui s'estime victime d'un licenciement abusif doit, comme pour tout différend du travail, saisir au préalable l'Inspection du Travail, puis, à défaut de conciliation, adresser une requête au Président du Tribunal du Travail du lieu d'exécution du contrat."
+    }
+  ],
+
+  "chronologie_procedure": {
+    "titre": "Chronologie complète d'un licenciement pour motif personnel",
+    "contexte": "Madame RAVELOSON Tantely, employée de catégorie professionnelle du groupe 2, travaille depuis 3 ans aux Établissements ZAFY Frères à Antananarivo. Une négligence de sa part aurait causé une perte de stock importante.",
+    "etapes": [
+      {
+        "etape": 1,
+        "titre": "Convocation à l'entretien préalable",
+        "date": "Lundi 2 mars 2026",
+        "contenu": "L'employeur remet à Mme RAVELOSON, contre décharge, une convocation écrite l'informant qu'un entretien préalable à un éventuel licenciement se tiendra le vendredi 6 mars 2026 à 9h dans les bureaux de la direction, en raison d'une négligence ayant entraîné une perte de stock survenue le 20 février 2026. La convocation précise qu'elle peut se faire assister par une personne de son choix et consulter le dossier des faits reprochés. Le délai de 3 jours ouvrables avant l'entretien (mardi, mercredi, jeudi) est respecté."
+      },
+      {
+        "etape": 2,
+        "titre": "Entretien préalable",
+        "date": "Vendredi 6 mars 2026",
+        "contenu": "Mme RAVELOSON se présente, assistée d'un collègue. Elle explique que la perte de stock résulte d'une erreur d'inventaire commise par un fournisseur, et produit un message électronique de ce dernier reconnaissant l'erreur. Un procès-verbal de l'entretien est rédigé et signé par les personnes présentes."
+      },
+      {
+        "etape": 3,
+        "titre": "Décision et notification du licenciement",
+        "date": "Mardi 10 mars 2026",
+        "contenu": "Au regard des explications insuffisamment convaincantes selon l'employeur, ce dernier notifie à Mme RAVELOSON, par lettre remise en main propre contre décharge, son licenciement pour faute simple, en reprenant exclusivement le grief discuté lors de l'entretien (la négligence ayant entraîné la perte de stock). Le préavis commence à courir à cette date."
+      },
+      {
+        "etape": 4,
+        "titre": "Préavis",
+        "date": "Du 10 mars au 9 avril 2026",
+        "contenu": "Mme RAVELOSON ayant 3 ans d'ancienneté et appartenant au groupe 2, son préavis est d'un mois. Elle reçoit une attestation provisoire d'emploi mentionnant qu'elle est en période de préavis et peut librement chercher du travail, et bénéficie d'une journée de liberté par semaine pour rechercher un nouvel emploi."
+      },
+      {
+        "etape": 5,
+        "titre": "Solde de tout compte, certificat de travail et fiche de paie finale",
+        "date": "Jeudi 9 avril 2026",
+        "contenu": "Le dernier jour du préavis, l'employeur verse à Mme RAVELOSON le solde de son salaire et l'indemnité compensatrice de ses congés payés non pris. Le licenciement étant pour motif personnel et non économique, aucune indemnité légale de licenciement n'est due. Elle reçoit son certificat de travail mentionnant ses dates d'entrée et de départ, ses fonctions et sa catégorie professionnelle, ainsi qu'une fiche de paie détaillant l'ensemble des sommes versées."
+      }
+    ]
+  },
+
+  "exemples_calcul": [
+    {
+      "id": 1,
+      "titre": "Préavis simple — ancienneté de 2 ans, groupe 2",
+      "complexite": "simple",
+      "donnees": { "anciennete": "2 ans", "groupe_professionnel": 2, "salaire_mensuel_moyen": 350000 },
+      "detail_calcul": {
+        "duree_preavis": "Ancienneté « plus de 1 an », groupe 2 : 1 mois, conformément à l'article 3 du Décret n° 2007-009.",
+        "indemnite_compensatrice_si_dispense": "Si l'employeur dispense le travailleur d'exécuter le préavis, il lui doit une indemnité égale à 1 mois de salaire, calculée sur la moyenne des deux dernières payes : (340 000 + 360 000) / 2 = 350 000 Ar."
+      }
+    },
+    {
+      "id": 2,
+      "titre": "Préavis d'un cadre supérieur — ancienneté de 6 ans, groupe 5",
+      "complexite": "complexe",
+      "donnees": { "anciennete": "6 ans", "groupe_professionnel": 5, "salaire_mensuel": 2000000 },
+      "detail_calcul": {
+        "duree_preavis": "Ancienneté « plus de 5 ans », groupe 5 : 6 mois, conformément à l'article 3 du Décret n° 2007-009.",
+        "indemnite_compensatrice_si_dispense": "6 x 2 000 000 = 12 000 000 Ar si l'employeur dispense le cadre d'exécuter son préavis."
+      }
+    },
+    {
+      "id": 3,
+      "titre": "Indemnité de licenciement économique — ancienneté de 20 ans, avec plafonnement",
+      "complexite": "complexe",
+      "donnees": { "anciennete": "20 ans", "motif": "licenciement économique", "dernier_salaire_mensuel": 1200000 },
+      "detail_calcul": {
+        "indemnite_theorique": "10 jours x 20 années = 200 jours. À raison d'un trentième du salaire mensuel par jour (1 200 000 / 30 = 40 000 Ar/jour), 200 jours équivalent à 200 x 40 000 = 8 000 000 Ar.",
+        "plafond_legal": "6 mois de salaire = 6 x 1 200 000 = 7 200 000 Ar (article 28 de la Loi n° 2024-014).",
+        "indemnite_a_payer": "8 000 000 Ar dépassant le plafond de 7 200 000 Ar, c'est ce plafond qui s'applique : indemnité due = 7 200 000 Ar."
+      }
+    },
+    {
+      "id": 4,
+      "titre": "Licenciement pour motif personnel — pas d'indemnité légale de licenciement",
+      "complexite": "simple",
+      "donnees": { "anciennete": "1 an et 6 mois", "groupe_professionnel": 3, "motif": "faute simple (motif personnel)" },
+      "detail_calcul": {
+        "duree_preavis": "Ancienneté « plus de 1 an », groupe 3 : 1 mois et demi, conformément à l'article 3 du Décret n° 2007-009.",
+        "indemnite_de_licenciement": "Aucune indemnité légale de licenciement n'est due : l'article 28 de la Loi n° 2024-014 ne s'applique qu'au licenciement pour motif économique ou à la cessation d'activité, non au licenciement pour motif personnel.",
+        "sommes_dues": "Solde de salaire, indemnité compensatrice de congé payé non pris, et indemnité de préavis (1 mois et demi) si le travailleur en est dispensé."
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "difficulte": "facile",
+      "scenario": "Un travailleur du groupe professionnel 1 a une ancienneté de 6 mois dans l'entreprise au moment de son licenciement.",
+      "question": "Quelle est la durée minimale de préavis applicable, conformément au Décret n° 2007-009 ?",
+      "choix": [
+        "8 jours, correspondant à la tranche « moins de 1 an » pour le groupe professionnel 1.",
+        "1 mois, en appliquant par erreur la durée prévue pour le groupe 4 dans cette même tranche d'ancienneté.",
+        "10 jours, en appliquant par erreur la durée prévue pour la tranche « plus de 1 an ».",
+        "Aucun préavis n'est dû avant un an d'ancienneté."
+      ],
+      "reponse": "8 jours, correspondant à la tranche « moins de 1 an » pour le groupe professionnel 1.",
+      "indices": "Reportez-vous au tableau de l'article 3 du Décret n° 2007-009 : croisez la tranche d'ancienneté « moins de 1 an » avec la colonne du groupe professionnel 1.",
+      "explication": "Pour une ancienneté inférieure à 1 an, le groupe professionnel 1 (manœuvres et employés exécutant des tâches simples) a droit à un préavis de 8 jours. Confondre les colonnes des différents groupes, ou les lignes des différentes tranches d'ancienneté, est l'erreur la plus fréquente dans ce calcul."
+    },
+    {
+      "id": 2,
+      "difficulte": "moyen",
+      "scenario": "Un travailleur ayant 10 ans d'ancienneté est licencié pour faute simple, après avoir commis une négligence répétée dans l'exécution de ses tâches. Il estime avoir droit, en plus de son préavis, à une indemnité de licenciement égale à 10 jours de salaire par année d'ancienneté.",
+      "question": "Ce travailleur a-t-il droit à cette indemnité légale de licenciement ?",
+      "choix": [
+        "Non, l'indemnité légale de licenciement de 10 jours par année de service ne s'applique qu'au licenciement pour motif économique ou à la cessation d'activité, et non au licenciement pour motif personnel.",
+        "Oui, cette indemnité est due pour tout licenciement, quel que soit le motif, dès lors que l'ancienneté est suffisante.",
+        "Oui, mais seulement à hauteur de la moitié du montant prévu à l'article 28 de la Loi n° 2024-014.",
+        "Non, car aucune indemnité n'est jamais due en cas de licenciement pour faute, y compris le préavis."
+      ],
+      "reponse": "Non, l'indemnité légale de licenciement de 10 jours par année de service ne s'applique qu'au licenciement pour motif économique ou à la cessation d'activité, et non au licenciement pour motif personnel.",
+      "indices": "Le motif du licenciement (personnel ou économique) n'a pas seulement une incidence sur la procédure : il change aussi la nature des sommes dues au travailleur. L'article 28 de la Loi n° 2024-014 vise un motif précis.",
+      "explication": "L'article 28 de la Loi n° 2024-014 réserve l'indemnité légale de licenciement de 10 jours par année de service, plafonnée à 6 mois, au licenciement pour motif économique ou à la cessation d'activité de l'entreprise. Pour un licenciement pour motif personnel, même après une longue ancienneté, cette indemnité légale n'est pas due ; le travailleur conserve seulement son droit au préavis (sauf faute lourde) et à l'indemnité de congé payé non pris, sauf clause plus favorable de son contrat ou d'une convention collective."
+    },
+    {
+      "id": 3,
+      "difficulte": "moyen-difficile",
+      "scenario": "Un employeur, constatant des retards répétés d'un salarié, lui remet directement une lettre de licenciement pour faute grave, sans l'avoir convoqué au préalable à un quelconque entretien ni recueilli ses explications. Le salarié conteste devant le Tribunal du Travail, en faisant valoir que les retards reprochés sont réels.",
+      "question": "Le licenciement peut-il être qualifié d'abusif, alors même que les faits reprochés (les retards) sont établis ?",
+      "choix": [
+        "Oui, le licenciement est abusif en la forme, car les formalités substantielles de convocation à l'entretien préalable et de respect du droit à la défense sont d'ordre public et n'ont pas été respectées, indépendamment du bien-fondé du motif.",
+        "Non, dès lors que les faits reprochés sont réels et établis, le licenciement ne peut jamais être qualifié d'abusif, quelle que soit la procédure suivie.",
+        "Le licenciement est seulement irrégulier sur la forme, ce qui n'a aucune conséquence indemnitaire pour le salarié si le motif est fondé.",
+        "La question ne peut être tranchée qu'après saisine de l'Inspection du Travail, le Tribunal du Travail n'étant jamais compétent en matière de procédure de licenciement."
+      ],
+      "reponse": "Oui, le licenciement est abusif en la forme, car les formalités substantielles de convocation à l'entretien préalable et de respect du droit à la défense sont d'ordre public et n'ont pas été respectées, indépendamment du bien-fondé du motif.",
+      "indices": "Distinguez bien deux questions différentes : la réalité de la faute reprochée (le fond) et le respect de la procédure (la forme). Une jurisprudence constante de la Cour Suprême malgache traite précisément de cette distinction.",
+      "explication": "La Cour Suprême malgache a jugé que les formalités de convocation à l'entretien préalable et de respect du droit à la défense sont d'ordre public, et que leur méconnaissance rend le licenciement abusif en la forme, quelle que soit la gravité de la faute reprochée au travailleur. Confondre le non-respect de ces formalités (question de forme) avec la légitimité du licenciement (question de fond) constitue une erreur de droit. Le salarié a donc un recours, même si la réalité des retards n'est pas contestée."
+    },
+    {
+      "id": 4,
+      "difficulte": "difficile",
+      "scenario": "Une salariée ayant 4 ans d'ancienneté, catégorie groupe 4, est licenciée pour motif personnel. L'employeur lui adresse une convocation à l'entretien préalable la veille de l'entretien (un seul jour avant). Après l'entretien, il la licencie et applique un préavis de 8 jours seulement, au lieu de la durée correspondant à son ancienneté et à sa catégorie. À son départ, il ne lui délivre ni certificat de travail, ni fiche de paie finale, en lui indiquant qu'elle pourra les réclamer « plus tard si besoin ».",
+      "question": "Quelles sont les irrégularités commises par l'employeur, et quelle démarche la salariée doit-elle suivre pour faire valoir ses droits ?",
+      "choix": [
+        "Le délai de convocation (1 jour au lieu de 3 jours ouvrables) est insuffisant, le préavis appliqué est erroné (8 jours au lieu de 2 mois et demi pour le groupe 4 après 1 an d'ancienneté), et le certificat de travail ainsi que la fiche de paie auraient dû être remis sans attendre une demande ultérieure ; la salariée doit saisir l'Inspection du Travail pour conciliation, puis, à défaut d'accord, le Tribunal du Travail, dans le délai de prescription de 12 mois.",
+        "Seul le délai de convocation est irrégulier ; le préavis de 8 jours est valable pour tous les travailleurs quelle que soit leur catégorie, et les documents de fin de contrat ne sont dus que sur demande expresse du travailleur.",
+        "Aucune irrégularité n'est caractérisée, l'employeur disposant d'un pouvoir discrétionnaire sur la durée du préavis et le moment de la délivrance des documents de fin de contrat.",
+        "La salariée doit saisir directement le Tribunal du Travail sans passer par l'Inspection du Travail, cette dernière n'intervenant que pour les litiges économiques."
+      ],
+      "reponse": "Le délai de convocation (1 jour au lieu de 3 jours ouvrables) est insuffisant, le préavis appliqué est erroné (8 jours au lieu de 2 mois et demi pour le groupe 4 après 1 an d'ancienneté), et le certificat de travail ainsi que la fiche de paie auraient dû être remis sans attendre une demande ultérieure ; la salariée doit saisir l'Inspection du Travail pour conciliation, puis, à défaut d'accord, le Tribunal du Travail, dans le délai de prescription de 12 mois.",
+      "indices": "Reprenez chaque étape de la procédure une par une : le délai de convocation, le calcul du préavis selon le tableau du Décret n° 2007-009 pour une ancienneté de 4 ans en groupe 4, puis les obligations documentaires de fin de contrat. Identifiez ensuite la voie de recours appropriée et son délai.",
+      "explication": "Trois irrégularités distinctes se cumulent : un délai de convocation inférieur au minimum de 3 jours ouvrables exigé par la Loi n° 2024-014 ; un préavis sous-évalué, puisqu'une ancienneté de 4 ans (tranche « plus de 1 an ») en groupe 4 ouvre droit à 2 mois et demi de préavis, et non 8 jours ; et l'absence de délivrance spontanée du certificat de travail et de la fiche de paie finale, alors que ces documents doivent normalement être remis au plus tard à la rupture effective du contrat, sans attendre une demande. Face à ce cumul d'irrégularités, la salariée doit d'abord saisir l'Inspection du Travail, étape obligatoire de conciliation avant toute action judiciaire, puis, en cas d'échec, porter l'affaire devant le Tribunal du Travail du lieu d'exécution du contrat, en gardant à l'esprit le délai de prescription de 12 mois applicable aux actions en paiement de salaires et indemnités."
+    }
+  ]
+}
