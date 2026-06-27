@@ -1,0 +1,264 @@
+{
+  "titre": "La TVA à Madagascar — calcul, déclaration, récupération",
+  "module": 11,
+  "niveau": "Professionnel",
+
+  "presentation": "La TVA — Taxe sur la Valeur Ajoutée — est l'un des impôts les plus présents dans la vie des entreprises malgaches, et pourtant l'un des moins bien compris. Elle figure sur chaque facture, elle est déclarée chaque mois, elle peut générer un crédit remboursable par l'État — mais beaucoup de dirigeants, de comptables débutants et même de juristes ne savent pas exactement comment elle fonctionne, comment elle se calcule, ni quelles sont les obligations qu'elle impose. Ce module explique de manière concrète et progressive ce qu'est la TVA à Madagascar : qui la paie, comment elle se calcule, comment la déclarer chaque mois, et dans quels cas on peut en demander le remboursement — avec des exemples chiffrés à chaque étape, et des documents modèles prêts à l'emploi.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce que la TVA et comment fonctionne-t-elle ?",
+      "texte": "La TVA est une taxe sur la consommation, collectée à chaque étape de la chaîne économique — de la production jusqu'au consommateur final. Ce qui la distingue des autres impôts, c'est son mécanisme de déduction : chaque entreprise assujettie collecte la TVA sur ses ventes, déduit la TVA qu'elle a elle-même payée sur ses achats, et ne reverse à l'État que la différence. En pratique, la TVA est supportée en totalité par le consommateur final — celui qui achète sans pouvoir la récupérer. Les entreprises assujetties ne font que la collecter pour le compte de l'État.\n\nExemple concret pour illustrer le mécanisme :\nUn grossiste achète des marchandises pour 1 000 000 Ar HT. Il paie 200 000 Ar de TVA à son fournisseur. Il revend ces marchandises à un détaillant pour 1 500 000 Ar HT, en facturant 300 000 Ar de TVA. Il reverse à l'État : 300 000 - 200 000 = 100 000 Ar. La TVA qu'il a payée à l'achat vient en déduction de celle qu'il a collectée à la vente — c'est le principe fondamental.",
+      "definition": "TVA (Taxe sur la Valeur Ajoutée) : impôt indirect sur la consommation, prélevé à chaque stade de la chaîne économique, mais supporté uniquement par le consommateur final. Les entreprises assujetties la collectent, la déduisent sur leurs achats, et versent la différence à l'État."
+    },
+    {
+      "titre": "Qui est assujetti à la TVA à Madagascar ?",
+      "texte": "À Madagascar, l'assujettissement à la TVA est déterminé par le chiffre d'affaires annuel hors taxe. Depuis la Loi de Finances 2023, le seuil est fixé à 400 000 000 Ariary (quatre cents millions d'ariary) de chiffre d'affaires annuel hors taxe. Toute personne physique ou morale — entreprise individuelle, SARL, SA, association commerciale — qui dépasse ce seuil est obligatoirement assujettie à la TVA et doit la collecter, la déclarer et la reverser à l'État.\n\nLes sociétés nouvellement créées qui prévoient de dépasser ce seuil dès leur première année sont également assujetties dès leur immatriculation. Les entreprises dont le chiffre d'affaires est inférieur à 400 000 000 Ar peuvent demander volontairement à être assujetties à la TVA — cette option est intéressante lorsqu'elles ont beaucoup d'achats taxés et souhaitent récupérer la TVA payée à leurs fournisseurs, à condition d'accepter la tenue d'une comptabilité régulière.\n\nDeux taux s'appliquent à Madagascar : le taux normal de 20 % pour les ventes et prestations de services sur le territoire malgache, et le taux zéro (0 %) pour les exportations de biens et services — ce qui permet aux exportateurs de récupérer la TVA payée sur leurs achats sans en collecter sur leurs ventes.",
+      "definition": "Seuil d'assujettissement : chiffre d'affaires annuel hors taxe à partir duquel une entreprise est obligée de collecter et déclarer la TVA. À Madagascar, ce seuil est de 400 000 000 Ariary depuis 2023."
+    },
+    {
+      "titre": "La TVA collectée : ce que l'on facture à ses clients",
+      "texte": "La TVA collectée est la TVA que l'entreprise facture à ses clients sur ses ventes de biens ou de prestations de services. Elle est calculée en appliquant le taux de 20 % au prix hors taxes (HT). Elle figure obligatoirement sur la facture de manière distincte.\n\nFormules essentielles :\n— Prix TTC = Prix HT × 1,20\n— TVA collectée = Prix HT × 0,20\n— Prix HT = Prix TTC ÷ 1,20\n— TVA collectée = Prix TTC – Prix HT\n\nExemple 1 — Vente de marchandises :\nUne société vend des matériaux de construction pour 5 000 000 Ar HT.\nTVA collectée = 5 000 000 × 20 % = 1 000 000 Ar\nPrix TTC facturé au client = 6 000 000 Ar\nCette TVA de 1 000 000 Ar sera reversée à l'État, sauf déduction.\n\nExemple 2 — Prestation de services :\nUn cabinet comptable facture une mission d'audit pour 2 500 000 Ar HT.\nTVA collectée = 2 500 000 × 20 % = 500 000 Ar\nPrix TTC = 3 000 000 Ar\n\nExemple 3 — Retrouver le HT à partir du TTC :\nUn client vous paie 1 200 000 Ar TTC. Quel est le montant HT et la TVA ?\nPrix HT = 1 200 000 ÷ 1,20 = 1 000 000 Ar\nTVA = 1 200 000 – 1 000 000 = 200 000 Ar",
+      "definition": "TVA collectée : montant de TVA facturé par l'entreprise à ses clients sur ses ventes. Elle est enregistrée au compte 4457 en comptabilité et doit être reversée à l'État après déduction de la TVA déductible."
+    },
+    {
+      "titre": "La TVA déductible : ce que l'on récupère sur ses achats",
+      "texte": "La TVA déductible est la TVA que l'entreprise a elle-même payée à ses fournisseurs lors de ses achats de biens ou de services, et qu'elle peut déduire de la TVA qu'elle doit reverser à l'État. C'est le mécanisme central qui évite la double imposition.\n\nConditions pour qu'une TVA soit déductible à Madagascar :\n1° La facture du fournisseur doit être régulière, c'est-à-dire comporter toutes les mentions obligatoires (date, numéro, NIF et STAT du vendeur et de l'acheteur, quantité, prix unitaire, prix total HT, montant TVA, prix TTC, mode de règlement).\n2° Pour les transactions entre assujettis, le paiement doit être effectué par voie bancaire ou mobile banking.\n3° Pour les paiements à des non-assujettis, tout règlement supérieur à 500 000 Ar doit également passer par voie bancaire — à défaut, la TVA n'est pas déductible.\n\nExemple 1 — Achat de fournitures :\nUne SARL achète du matériel informatique pour 3 000 000 Ar HT, TVA 600 000 Ar, TTC 3 600 000 Ar. La facture est conforme et le règlement est bancaire. TVA déductible = 600 000 Ar.\n\nExemple 2 — Facture non conforme :\nUne entreprise reçoit une facture sans NIF du fournisseur, pour un achat de 800 000 Ar HT (TVA 160 000 Ar). Cette TVA de 160 000 Ar n'est PAS déductible — la facture étant irrégulière, l'État n'acceptera pas la déduction.",
+      "definition": "TVA déductible : TVA payée par l'entreprise sur ses achats de biens et services, qui vient en déduction de la TVA collectée sur ses ventes. Elle est enregistrée au compte 4456. Son déductibilité est conditionnée à la régularité de la facture et au mode de paiement."
+    },
+    {
+      "titre": "Calculer la TVA à payer ou le crédit de TVA",
+      "texte": "La formule de base est simple :\nTVA à payer (ou crédit) = TVA collectée – TVA déductible\n\nDeux résultats sont possibles :\n\nCas 1 — TVA collectée > TVA déductible → TVA à payer\nL'entreprise a vendu plus qu'elle n'a acheté (en valeur taxée). Elle doit verser la différence à l'État avant le 15 du mois suivant.\n\nCas 2 — TVA collectée < TVA déductible → Crédit de TVA\nL'entreprise a payé plus de TVA sur ses achats qu'elle n'en a collecté sur ses ventes. Elle dispose d'un crédit qu'elle peut reporter sur le mois suivant, ou dans certains cas demander le remboursement.\n\nExemple complet — Mois de mai 2026, société RAVAKA Import-Export SARL :\nVentes du mois (HT) : 12 000 000 Ar → TVA collectée : 2 400 000 Ar\nAchats du mois (HT) : 8 500 000 Ar → TVA déductible : 1 700 000 Ar\nTVA à payer = 2 400 000 – 1 700 000 = 700 000 Ar\nLa société RAVAKA doit verser 700 000 Ar à l'État avant le 15 juin 2026.\n\nSecond exemple — Mois de mai 2026, société FANJA Exportation SARL :\nVentes export (taux 0 %) : 20 000 000 Ar → TVA collectée : 0 Ar\nAchats locaux (HT) : 15 000 000 Ar → TVA déductible : 3 000 000 Ar\nRésultat = 0 – 3 000 000 = – 3 000 000 Ar → Crédit de TVA de 3 000 000 Ar\nComme FANJA est exportatrice, elle peut demander le remboursement de ce crédit.",
+      "definition": "Crédit de TVA : excédent de TVA déductible sur la TVA collectée. Ce crédit peut être reporté sur la déclaration du mois suivant ou, pour certaines catégories d'entreprises (exportateurs, entreprises franches, crédit-bailleurs, investisseurs), faire l'objet d'une demande de remboursement."
+    },
+    {
+      "titre": "La déclaration mensuelle de TVA : délais et obligations",
+      "texte": "Toute entreprise assujettie à la TVA est tenue de déposer une déclaration mensuelle, au plus tard le 15 du mois suivant la période d'imposition. Par exemple, la déclaration portant sur le mois de mai doit être déposée avant le 15 juin. Le non-respect de ce délai expose l'entreprise à des amendes et pénalités de retard.\n\nLa déclaration comprend deux éléments :\n1° Le formulaire de déclaration de TVA, disponible auprès de l'administration fiscale (DGI), sur lequel l'entreprise indique le montant de TVA collectée, le montant de TVA déductible, et le résultat (TVA à payer ou crédit).\n2° L'annexe TVA, qui liste toutes les opérations du mois : chaque client (pour les ventes) et chaque fournisseur (pour les achats), avec le nom ou la raison sociale, le NIF, le STAT, le numéro et la date de la facture, le montant HT, et le montant de TVA.\n\nL'annexe est transmise en ligne via la plateforme de la DGI (Nifonline ou Hetraonline). Un accusé de réception est généré dans les 12 heures suivant le traitement. Le formulaire de déclaration peut ensuite être déposé physiquement au bureau des impôts compétent.\n\nPoint important : une déclaration doit être déposée même si la TVA due est de zéro — l'absence de déclaration constitue une infraction même lorsque l'entreprise n'a rien à payer ce mois-là.",
+      "definition": "Période d'imposition : durée sur laquelle sont regroupées les opérations à déclarer. Pour la TVA à Madagascar, la période d'imposition est le mois civil. La déclaration et le paiement sont dus au plus tard le 15 du mois suivant."
+    },
+    {
+      "titre": "La TVA intermittente (TVAI) et le remboursement du crédit de TVA",
+      "texte": "La TVA intermittente (TVAI) s'applique aux prestations de services réalisées par un prestataire étranger n'ayant pas d'établissement à Madagascar, au profit d'un bénéficiaire malgache. Par exemple, une société malgache qui paie un consultant basé en France, ou qui utilise un logiciel en ligne (SaaS) facturé par une société étrangère, est soumise à la TVAI. Le taux est de 20 %, et c'est le représentant local accrédité du prestataire étranger qui doit reverser la taxe — ou, à défaut, le bénéficiaire malgache lui-même. La TVAI ainsi payée est déductible selon les règles générales de déduction.\n\nConcernant le remboursement du crédit de TVA : quatre catégories d'entreprises peuvent demander le remboursement de leur crédit de TVA (CTVA) au lieu de simplement le reporter : les entreprises franches, les exportateurs, les crédits-bailleurs, et les investisseurs assujettis à la TVA. La demande doit être déposée dans un délai de 3 mois. Passé ce délai, le crédit non réclamé est perdu — il est porté en charge pour le contribuable. Une fois la demande acceptée, l'État dispose de 60 jours pour procéder au remboursement. Attention : les crédits fondés sur des factures irrégulières ou sur des transactions non conformes à l'activité de l'entreprise sont systématiquement rejetés.",
+      "definition": "TVA intermittente (TVAI) : TVA applicable aux services fournis par des prestataires étrangers sans établissement à Madagascar, au profit de bénéficiaires malgaches. Elle est due au taux de 20 % et reversée par le représentant local ou, à défaut, par le bénéficiaire."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type": "Facture conforme avec TVA",
+      "description": "Modèle de facture de vente de biens entre deux sociétés assujetties à la TVA, comportant toutes les mentions obligatoires selon l'article IV-21 du Code des Procédures Fiscales.",
+      "contexte": "La société RAVAKA Import-Export SARL vend des matériaux de construction à la société TIANA BTP SARL. Les deux sociétés sont assujetties à la TVA. Le paiement est prévu par virement bancaire.",
+      "document": {
+        "en_tete_vendeur": {
+          "raison_sociale": "RAVAKA Import-Export SARL",
+          "forme_juridique": "Société à Responsabilité Limitée",
+          "capital": "50 000 000 Ariary",
+          "siege_social": "Lot II A 45, Analakely, Antananarivo 101",
+          "NIF": "1002345678",
+          "STAT": "51100 11 2019 0 00123",
+          "telephone": "+261 20 22 123 45",
+          "email": "contact@ravaka-import.mg"
+        },
+        "reference_facture": {
+          "numero": "FAC-2026-0245",
+          "date_emission": "10 juin 2026",
+          "date_echeance": "25 juin 2026",
+          "mode_reglement": "Virement bancaire — Banque BNI Madagascar, compte n° 00040 01234 56789 00"
+        },
+        "client": {
+          "raison_sociale": "TIANA BTP SARL",
+          "adresse": "Lot III B 12, Tanjombato, Antananarivo 105",
+          "NIF": "2003456789",
+          "STAT": "45200 11 2021 0 00456"
+        },
+        "lignes": [
+          {
+            "designation": "Ciment Portland CEM II — 500 sacs de 50 kg",
+            "quantite": 500,
+            "unite": "sac",
+            "prix_unitaire_HT": 18000,
+            "total_HT": 9000000
+          },
+          {
+            "designation": "Sable de rivière — 10 m³",
+            "quantite": 10,
+            "unite": "m³",
+            "prix_unitaire_HT": 150000,
+            "total_HT": 1500000
+          },
+          {
+            "designation": "Transport et livraison",
+            "quantite": 1,
+            "unite": "forfait",
+            "prix_unitaire_HT": 500000,
+            "total_HT": 500000
+          }
+        ],
+        "totaux": {
+          "total_HT": "11 000 000 Ar",
+          "TVA_20_pourcent": "2 200 000 Ar",
+          "total_TTC": "13 200 000 Ar",
+          "total_TTC_en_lettres": "Treize millions deux cent mille Ariary"
+        },
+        "note": "TVA calculée : 11 000 000 × 20 % = 2 200 000 Ar. Paiement obligatoirement par voie bancaire entre assujettis conformément à l'article 06.01.26 du Code des Impôts.",
+        "signature": {
+          "nom": "Le Gérant",
+          "cachet": "Cachet de la société RAVAKA Import-Export SARL"
+        }
+      }
+    },
+
+    {
+      "id": 2,
+      "type": "Déclaration mensuelle de TVA (format tableau)",
+      "description": "Exemple complet de déclaration mensuelle de TVA pour le mois de mai 2026, avec tableau des ventes, tableau des achats, calcul de la TVA à payer et récapitulatif.",
+      "contexte": "Société RAVAKA Import-Export SARL — Déclaration TVA pour le mois de mai 2026. La société a réalisé plusieurs ventes et plusieurs achats au cours du mois. Elle doit déposer sa déclaration avant le 15 juin 2026.",
+      "document": {
+        "identite_declarant": {
+          "raison_sociale": "RAVAKA Import-Export SARL",
+          "NIF": "1002345678",
+          "STAT": "51100 11 2019 0 00123",
+          "periode": "Mai 2026",
+          "date_limite_depot": "15 juin 2026"
+        },
+        "tableau_ventes": {
+          "titre": "TVA COLLECTÉE — Détail des ventes du mois de mai 2026",
+          "colonnes": ["N° Facture", "Date", "Client", "NIF Client", "Montant HT (Ar)", "TVA 20% (Ar)", "Montant TTC (Ar)"],
+          "lignes": [
+            ["FAC-2026-0238", "05/05/2026", "TIANA BTP SARL", "2003456789", "5 000 000", "1 000 000", "6 000 000"],
+            ["FAC-2026-0239", "08/05/2026", "FANJA Construction SARL", "2004567890", "3 500 000", "700 000", "4 200 000"],
+            ["FAC-2026-0240", "14/05/2026", "SOLO Travaux EURL", "2005678901", "2 000 000", "400 000", "2 400 000"],
+            ["FAC-2026-0241", "21/05/2026", "MIRANA Habitat SA", "2006789012", "1 500 000", "300 000", "1 800 000"]
+          ],
+          "total": {
+            "total_HT": "12 000 000 Ar",
+            "total_TVA_collectee": "2 400 000 Ar",
+            "total_TTC": "14 400 000 Ar"
+          }
+        },
+        "tableau_achats": {
+          "titre": "TVA DÉDUCTIBLE — Détail des achats du mois de mai 2026",
+          "colonnes": ["N° Facture", "Date", "Fournisseur", "NIF Fournisseur", "Montant HT (Ar)", "TVA 20% (Ar)", "Montant TTC (Ar)", "Mode règlement"],
+          "lignes": [
+            ["FOU-2026-1045", "03/05/2026", "DELTA Import SA", "3001234567", "4 000 000", "800 000", "4 800 000", "Virement bancaire"],
+            ["FOU-2026-1102", "10/05/2026", "OMEGA Logistique SARL", "3002345678", "2 000 000", "400 000", "2 400 000", "Virement bancaire"],
+            ["FOU-2026-1178", "18/05/2026", "ALPHA Fournitures SARL", "3003456789", "2 500 000", "500 000", "3 000 000", "Virement bancaire"]
+          ],
+          "total": {
+            "total_HT": "8 500 000 Ar",
+            "total_TVA_deductible": "1 700 000 Ar",
+            "total_TTC": "10 200 000 Ar"
+          }
+        },
+        "calcul_final": {
+          "titre": "RÉCAPITULATIF — TVA À PAYER",
+          "TVA_collectee": "2 400 000 Ar",
+          "TVA_deductible": "1 700 000 Ar",
+          "credit_reporte_mois_precedent": "0 Ar",
+          "TVA_a_payer": "700 000 Ar",
+          "calcul_detaille": "2 400 000 – 1 700 000 = 700 000 Ar",
+          "date_limite_paiement": "15 juin 2026",
+          "conclusion": "La société RAVAKA Import-Export SARL doit verser 700 000 Ariary à la Direction Générale des Impôts avant le 15 juin 2026."
+        }
+      }
+    },
+
+    {
+      "id": 3,
+      "type": "Demande de remboursement de crédit de TVA",
+      "description": "Modèle de lettre de demande de remboursement de crédit de TVA (CTVA), adressée à la Direction Générale des Impôts, pour une société exportatrice disposant d'un crédit cumulé.",
+      "contexte": "La société FANJA Exportation SARL exporte des produits artisanaux. Ses ventes étant taxées à 0 %, elle ne collecte pas de TVA mais paie de la TVA sur tous ses achats locaux. Elle dispose d'un crédit de TVA cumulé de 3 000 000 Ariary et en demande le remboursement dans le délai légal de 3 mois.",
+      "document": {
+        "coordonnees_expediteur": {
+          "raison_sociale": "FANJA Exportation SARL",
+          "adresse": "Zone Industrielle Forello, Tanjombato, Antananarivo 105",
+          "NIF": "1009876543",
+          "STAT": "46900 11 2020 0 00789",
+          "telephone": "+261 34 56 789 01",
+          "email": "direction@fanja-export.mg"
+        },
+        "lieu_date": "Antananarivo, le 12 juin 2026",
+        "destinataire": "À Monsieur le Directeur Général des Impôts\nDirection Générale des Impôts\nAntananarivo",
+        "objet": "Demande de remboursement de crédit de TVA — Période : mars 2026",
+        "reference": "NIF 1009876543 — CTVA mars 2026",
+        "formule_appel": "Monsieur le Directeur Général,",
+        "corps": "Nous avons l'honneur de solliciter auprès de votre Direction le remboursement du crédit de taxe sur la valeur ajoutée (CTVA) dont dispose notre société au titre des opérations du mois de mars 2026.\n\nNotre société FANJA Exportation SARL est assujettie à la TVA et réalise exclusivement des opérations d'exportation de produits artisanaux malgaches, taxées au taux de 0 % conformément à la législation fiscale en vigueur. À ce titre, nous ne collectons aucune TVA sur nos ventes, mais nous acquittons la TVA au taux de 20 % sur l'ensemble de nos achats auprès de fournisseurs locaux.\n\nAu titre du mois de mars 2026, notre situation est la suivante :\n— TVA collectée sur ventes à l'export (taux 0 %) : 0 Ariary\n— TVA déductible sur achats locaux : 3 000 000 Ariary\n— Crédit de TVA dégagé : 3 000 000 Ariary\n\nConformément aux dispositions du Code Général des Impôts et dans le délai légal de trois mois, nous sollicitons le remboursement de ce crédit d'un montant de 3 000 000 Ariary (trois millions d'ariary).\n\nNous vous prions de bien vouloir trouver ci-joint l'ensemble des pièces justificatives à l'appui de notre demande.",
+        "pieces_jointes": [
+          "Copie de la déclaration mensuelle de TVA — mars 2026",
+          "Annexe TVA détaillant les achats du mois de mars 2026 (avec NIF, STAT, numéros de factures et montants)",
+          "Copies des factures d'achat du mois de mars 2026",
+          "Justificatifs des paiements bancaires correspondants",
+          "Documents justificatifs des exportations réalisées (titres d'exportation, factures export)"
+        ],
+        "formule_politesse": "Nous vous prions d'agréer, Monsieur le Directeur Général, l'expression de notre considération distinguée.",
+        "signature": {
+          "nom": "Le Gérant",
+          "prenom_nom": "FANJA Ravo",
+          "qualite": "Gérant de la société FANJA Exportation SARL",
+          "cachet": "Cachet de la société"
+        },
+        "note_delai": "Délai légal de remboursement : 60 jours après dépôt de la demande. Délai maximum pour déposer la demande : 3 mois après la période concernée — soit au plus tard le 30 juin 2026 pour le crédit de mars 2026."
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "La société KOLOINA Textile SARL est assujettie à la TVA. Au mois d'avril 2026, elle réalise les opérations suivantes : ventes de tissus à des clients assujettis pour un total de 8 000 000 Ar HT ; achats de matières premières pour 4 500 000 Ar HT (factures conformes, règlement par virement) ; achat de matériel informatique pour 1 000 000 Ar HT (facture conforme, règlement par virement) ; paiement d'une facture de nettoyage de locaux à un prestataire non assujetti pour 600 000 Ar TTC en espèces. Calculez la TVA à payer ou le crédit de TVA pour le mois d'avril 2026.",
+      "question": "Quel est le montant de TVA à payer ou le crédit de TVA de la société KOLOINA Textile SARL pour avril 2026 ?",
+      "choix": [
+        "TVA à payer = 580 000 Ar : TVA collectée 1 600 000 Ar – TVA déductible 1 020 000 Ar (matières premières 900 000 + matériel informatique 200 000 – exclusion du paiement en espèces supérieur à 500 000 Ar).",
+        "TVA à payer = 480 000 Ar : TVA collectée 1 600 000 Ar – TVA déductible 1 120 000 Ar (en incluant la TVA du prestataire de nettoyage).",
+        "TVA à payer = 700 000 Ar : TVA collectée 1 600 000 Ar – TVA déductible 900 000 Ar (uniquement les matières premières).",
+        "Crédit de TVA = 420 000 Ar : la TVA collectée est inférieure aux achats totaux."
+      ],
+      "reponse": "TVA à payer = 580 000 Ar : TVA collectée 1 600 000 Ar – TVA déductible 1 020 000 Ar (matières premières 900 000 + matériel informatique 200 000 – exclusion du paiement en espèces supérieur à 500 000 Ar).",
+      "indices": "Calculez séparément chaque élément. Pour chaque achat, posez-vous deux questions : la facture est-elle conforme ? Le mode de paiement respecte-t-il les règles (bancaire pour tout paiement à un non-assujetti supérieur à 500 000 Ar) ?",
+      "explication": "TVA collectée : 8 000 000 × 20 % = 1 600 000 Ar. TVA déductible : matières premières (4 500 000 × 20 % = 900 000 Ar, déductible — facture conforme + virement) + matériel informatique (1 000 000 × 20 % = 200 000 Ar, déductible — même conditions) = 1 100 000 Ar. Facture nettoyage : le prestataire est non assujetti, donc la facture ne contient pas de TVA — aucune TVA à déduire dans tous les cas. De plus, le paiement de 600 000 Ar TTC en espèces à un non-assujetti dépasse le seuil de 500 000 Ar : même si une TVA avait été facturée, elle n'aurait pas été déductible. TVA déductible totale = 900 000 + 200 000 = 1 100 000 Ar. Attention : certains ont tendance à déduire la TVA calculée sur les 600 000 Ar — erreur, il n'y en a pas. TVA à payer = 1 600 000 – 1 100 000 = 500 000 Ar. Note : si la facture de nettoyage avait inclus une TVA malgré tout, elle n'aurait pas été déductible faute de règlement bancaire."
+    },
+    {
+      "id": 2,
+      "scenario": "Monsieur ANDRIA est gérant d'une PME de services informatiques, assujettie à la TVA. En janvier 2026, il conclut un contrat avec une société de développement logiciel basée en France, qui lui facture une prestation de maintenance de serveurs pour 5 000 euros, soit environ 12 500 000 Ariary, sans facturer de TVA car elle n'a aucun établissement à Madagascar. Monsieur ANDRIA se demande si cette opération est soumise à la TVA et qui doit la payer.",
+      "question": "Quelle est la situation fiscale TVA de cette opération pour la société de Monsieur ANDRIA ?",
+      "choix": [
+        "La prestation est soumise à la TVA intermittente (TVAI) au taux de 20 %. En l'absence de représentant local accrédité de la société française, c'est la société de Monsieur ANDRIA qui doit reverser la TVAI, soit 2 500 000 Ariary. Cette TVA est ensuite déductible selon les règles générales.",
+        "La prestation est exonérée de TVA car le prestataire est étranger et n'a pas d'établissement à Madagascar : aucune TVA n'est due.",
+        "La société française doit facturer la TVA française de 20 % et la reverser en France — la société malgache n'a aucune obligation.",
+        "La prestation est soumise à la TVA au taux de 0 % car il s'agit d'une importation de services."
+      ],
+      "reponse": "La prestation est soumise à la TVA intermittente (TVAI) au taux de 20 %. En l'absence de représentant local accrédité de la société française, c'est la société de Monsieur ANDRIA qui doit reverser la TVAI, soit 2 500 000 Ariary. Cette TVA est ensuite déductible selon les règles générales.",
+      "indices": "Rappelez-vous la règle sur la TVA intermittente : elle s'applique aux prestations de services effectuées par un prestataire étranger sans établissement à Madagascar, consommées à Madagascar. Qui est redevable lorsqu'il n'y a pas de représentant local ?",
+      "explication": "Conformément à l'article 06.01.09 bis du Code Général des Impôts, toute prestation de services fournie par un prestataire étranger sans établissement à Madagascar et consommée à Madagascar est soumise à la TVA intermittente (TVAI) au taux de 20 %. Ce n'est pas parce que le prestataire est étranger que la TVA disparaît : c'est simplement le redevable qui change. En l'absence de représentant local accrédité de la société française, la société de Monsieur ANDRIA est tenue de calculer et de reverser elle-même la TVAI : 12 500 000 × 20 % = 2 500 000 Ariary. La bonne nouvelle : cette TVAI est déductible de la TVA collectée sur ses propres ventes, selon les règles générales de déduction. Monsieur ANDRIA doit donc intégrer cette TVAI dans sa déclaration mensuelle de TVA."
+    },
+    {
+      "id": 3,
+      "scenario": "La société MAVO Export SARL exporte exclusivement des épices malgaches vers l'Europe. En mars 2026, elle réalise pour 25 000 000 Ariary d'exportations (taux 0 %) et a payé 4 200 000 Ariary de TVA sur ses achats locaux (emballages, transport, matières premières). Elle dépose sa demande de remboursement de crédit de TVA le 20 juillet 2026.",
+      "question": "La demande de remboursement de crédit de TVA de MAVO Export est-elle recevable, et quel montant peut-elle obtenir ?",
+      "choix": [
+        "La demande est irrecevable : le délai légal de 3 mois à compter de la période de mars 2026 expirait le 30 juin 2026, et la demande déposée le 20 juillet 2026 est hors délai. Le crédit de 4 200 000 Ariary est perdu.",
+        "La demande est recevable : les exportateurs disposent d'un délai de 6 mois, et le montant remboursable est de 4 200 000 Ariary.",
+        "La demande est recevable car déposée dans les 3 mois suivant la déclaration de mars, et le montant remboursable est 4 200 000 Ariary.",
+        "La demande est partiellement recevable : seule la TVA sur les matières premières est remboursable, pas la TVA sur les emballages et le transport."
+      ],
+      "reponse": "La demande est irrecevable : le délai légal de 3 mois à compter de la période de mars 2026 expirait le 30 juin 2026, et la demande déposée le 20 juillet 2026 est hors délai. Le crédit de 4 200 000 Ariary est perdu.",
+      "indices": "Calculez soigneusement le délai : le crédit porte sur la période de mars 2026. À partir de quand court le délai de 3 mois, et quand expire-t-il exactement ?",
+      "explication": "MAVO Export SARL est bien une exportatrice, catégorie habilitée à demander le remboursement du crédit de TVA. Son crédit de 4 200 000 Ariary est réel et justifié (TVA payée sur achats locaux, ventes à taux 0 %). Cependant, le délai légal pour déposer une demande de remboursement de CTVA est de 3 mois. Pour le crédit du mois de mars 2026, le délai de 3 mois court à partir de la fin de la période, soit à partir du 31 mars 2026, et expire donc le 30 juin 2026. La demande déposée le 20 juillet 2026 est donc hors délai de 20 jours. Résultat : le crédit est perdu — il sera porté en charge pour l'entreprise. C'est l'une des erreurs les plus fréquentes et les plus coûteuses dans la gestion de la TVA à Madagascar. La rigueur dans le suivi des délais est absolument indispensable."
+    },
+    {
+      "id": 4,
+      "scenario": "La société NIVO Services SARL, assujettie à la TVA, reçoit en juin 2026 une facture de son fournisseur BETA Consulting pour une prestation de conseil, d'un montant de 3 000 000 Ar HT avec TVA de 600 000 Ar, soit 3 600 000 Ar TTC. En examinant la facture, le comptable constate qu'elle ne mentionne pas le NIF du client (NIVO Services SARL), et que le paiement de 3 600 000 Ar a été effectué en espèces car le fournisseur n'acceptait pas les virements. NIVO Services souhaite déduire ces 600 000 Ar de TVA dans sa déclaration de juin 2026.",
+      "question": "La TVA de 600 000 Ariary figurant sur cette facture est-elle déductible dans la déclaration de TVA de NIVO Services SARL pour juin 2026 ?",
+      "choix": [
+        "Non, pour deux raisons cumulatives : la facture est irrégulière (absence du NIF du client, mention obligatoire) et le paiement entre assujettis a été effectué en espèces et non par voie bancaire. Ces deux irrégularités rendent la TVA non déductible.",
+        "Oui, car la TVA est bien mentionnée sur la facture et le montant est correct — les autres mentions sont des formalités secondaires.",
+        "Partiellement : la TVA est déductible à hauteur de 50 % en raison des irrégularités constatées.",
+        "Non, uniquement en raison du paiement en espèces — si NIVO Services obtient une facture rectifiée avec le NIF, la TVA devient déductible malgré le paiement en espèces."
+      ],
+      "reponse": "Non, pour deux raisons cumulatives : la facture est irrégulière (absence du NIF du client, mention obligatoire) et le paiement entre assujettis a été effectué en espèces et non par voie bancaire. Ces deux irrégularités rendent la TVA non déductible.",
+      "indices": "Passez en revue les deux conditions cumulatives de déductibilité de la TVA : la régularité de la facture (toutes les mentions obligatoires doivent y figurer) et le mode de paiement (obligatoirement bancaire entre assujettis, quel que soit le montant).",
+      "explication": "Deux conditions doivent être réunies pour qu'une TVA soit déductible entre assujettis : la facture doit être conforme (comportant toutes les mentions obligatoires, dont le NIF et le STAT du vendeur ET de l'acheteur) ET le paiement doit être effectué par voie bancaire ou mobile banking. En l'espèce, les deux conditions font défaut simultanément : la facture est irrégulière (NIF de l'acheteur absent) et le paiement a été fait en espèces. Chacune de ces irrégularités suffit à elle seule à rendre la TVA non déductible — les deux ensemble rendent la situation encore plus incontestable. Le comptable de NIVO Services ne peut pas déduire ces 600 000 Ariary. Il doit demander à BETA Consulting une facture rectifiée avec toutes les mentions obligatoires, mais cela ne résoudra pas le problème du paiement en espèces : même avec une facture rectifiée, la TVA restera non déductible tant que le mode de paiement n'était pas conforme. C'est une situation qui ne peut pas être rattrapée après coup sur ce point."
+    }
+  ]
+}
