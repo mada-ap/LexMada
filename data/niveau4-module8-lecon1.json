@@ -1,0 +1,455 @@
+{
+  "titre": "Créer une association à Madagascar — statuts, PV, déclaration préfecture",
+  "module": 8,
+  "niveau": "Professionnel",
+
+  "presentation": "L'association est la forme juridique la plus accessible pour regrouper des personnes autour d'un projet commun non lucratif. À Madagascar, elle est régie par l'Ordonnance n° 60-133 du 3 octobre 1960 portant régime général des associations, texte fondateur qui demeure en vigueur. Ce module explique ce qu'est une association, en quoi elle se distingue d'une ONG, et comment constituer un dossier complet pour obtenir la personnalité juridique : statuts, PV de constitution, règlement intérieur, lettre de déclaration au préfet et liste des membres du bureau.",
+
+  "contenu": [
+    {
+      "titre": "Qu'est-ce qu'une association ?",
+      "texte": "Une association est un groupement de personnes physiques ou morales qui décident librement de mettre en commun leurs connaissances, leurs activités ou leurs ressources dans un but autre que le partage de bénéfices. C'est là le critère fondamental : une association ne peut pas distribuer de profits à ses membres. Elle peut générer des revenus et même disposer d'un budget conséquent, mais tout excédent doit être réinvesti dans la réalisation de son objet social. L'association est régie à Madagascar par l'Ordonnance n° 60-133 du 3 octobre 1960, qui en fixe le régime général : conditions de formation, formalités de déclaration, droits et obligations des membres, dissolution.",
+      "definition": "But non lucratif : l'association ne peut pas distribuer de bénéfices ou d'avantages financiers à ses membres. Cela ne signifie pas qu'elle ne peut pas avoir d'activités économiques ou rémunérer du personnel, mais les excédents doivent être affectés à l'objet associatif, jamais partagés entre membres."
+    },
+    {
+      "titre": "Association et ONG : deux statuts différents",
+      "texte": "En droit malgache, une ONG (Organisation Non Gouvernementale) n'est pas simplement une grande association. Ce sont deux statuts juridiques distincts. L'association est constituée par simple déclaration auprès du préfet ou sous-préfet compétent et acquiert la personnalité juridique dès réception du récépissé de déclaration. L'ONG, en revanche, est régie par la loi n° 96-030 du 14 août 1996 portant charte des organisations non gouvernementales à Madagascar et relève d'une procédure de reconnaissance officielle par le ministère compétent, avec agrément et convention de partenariat avec l'État. L'ONG intervient généralement dans des secteurs définis (développement rural, santé, éducation, environnement) et doit justifier de capacités organisationnelles et financières minimales. En pratique, beaucoup de structures commencent leur existence comme association — plus simple et plus rapide — avant de solliciter le statut d'ONG une fois qu'elles ont démontré leur sérieux.",
+      "definition": "Personnalité juridique : capacité d'une entité à être titulaire de droits et d'obligations, à passer des contrats, à ester en justice, à ouvrir un compte bancaire, à recevoir des dons et subventions en son nom propre. Sans déclaration, une association de fait n'a pas cette capacité."
+    },
+    {
+      "titre": "Pourquoi la procédure associative est plus légère que l'ONG",
+      "texte": "La constitution d'une association selon l'Ordonnance n° 60-133 ne requiert pas d'agrément ministériel : il suffit de déposer un dossier auprès du préfet ou du sous-préfet du ressort géographique du siège de l'association. Le récépissé de dépôt vaut reconnaissance de la personnalité juridique. Le dossier est composé d'un nombre limité de documents : les statuts, le procès-verbal de l'assemblée générale constitutive, le règlement intérieur si les membres ont décidé d'en adopter un, la lettre de déclaration adressée au préfet, et la liste des membres du bureau. Il n'y a pas de capital minimum, pas de commissaire aux comptes obligatoire à la constitution, et pas d'enregistrement fiscal préalable des statuts — même si cela peut s'avérer utile selon l'activité envisagée. L'ONG, elle, passe par un processus d'agrément plus long, avec étude du dossier, visite éventuelle et signature d'une convention avec l'État."
+    },
+    {
+      "titre": "Les organes d'une association",
+      "texte": "Une association dispose généralement de trois organes principaux. L'Assemblée Générale regroupe l'ensemble des membres : c'est l'organe souverain, qui adopte et modifie les statuts, élit les dirigeants, approuve les comptes et décide de la dissolution. Le Conseil d'Administration (CA) — lorsque les statuts en prévoient un — est élu par l'AG pour assurer la gestion courante entre deux assemblées : il prend les décisions stratégiques et veille à la bonne marche de l'association. Le Bureau est l'organe exécutif opérationnel, composé au minimum d'un président, d'un secrétaire et d'un trésorier. C'est le bureau qui signe les actes, représente l'association à l'extérieur et accomplit les formalités administratives.",
+      "definition": "Bureau : organe restreint élu au sein du Conseil d'Administration ou directement par l'Assemblée Générale, chargé de l'administration quotidienne de l'association. Sa composition minimale (président, secrétaire, trésorier) est définie par les statuts."
+    },
+    {
+      "titre": "La liste des membres du bureau — ce document essentiel",
+      "texte": "La liste des membres du bureau est un document officiel dressant l'inventaire nominatif des personnes élues à la tête de l'association, avec leurs fonctions précises, leur identité complète et leurs coordonnées. Elle n'a pas de nom légal unifié dans les textes : on l'appelle selon les préfectures « liste des dirigeants », « liste des membres du bureau », ou « liste des personnes chargées de l'administration ». Ce document est joint au dossier de déclaration initiale et doit être mis à jour chaque fois que la composition du bureau change. Il est indispensable pour ouvrir un compte bancaire, signer des conventions de partenariat, et solliciter des subventions : c'est en quelque sorte la carte d'identité collective des dirigeants de l'association."
+    },
+    {
+      "titre": "La déclaration auprès du préfet",
+      "texte": "L'association acquiert la personnalité juridique à la date du dépôt de la déclaration auprès du préfet ou du sous-préfet compétent, c'est-à-dire de l'autorité administrative du ressort géographique où se trouve le siège de l'association. Le préfet délivre un récépissé de dépôt qui constitue la preuve officielle de l'existence juridique de l'association. Ce récépissé doit être conservé précieusement : c'est le document de référence exigé par les banques, les bailleurs de fonds et les partenaires institutionnels. La déclaration doit mentionner le titre exact de l'association, son objet, l'adresse du siège, et l'identité des membres du bureau. Elle est signée par au moins deux dirigeants."
+    }
+  ],
+
+  "modeles_actes": [
+    {
+      "id": 1,
+      "type": "statuts",
+      "complexite": "complet",
+      "contexte": "Association de développement communautaire créée à Antsiranana par des membres de la société civile souhaitant œuvrer pour l'insertion professionnelle des jeunes de la région DIANA. Siège social : Antsiranana. Bureau composé d'un président, d'un vice-président, d'un secrétaire général, d'un secrétaire général adjoint, d'un trésorier et d'un trésorier adjoint.",
+      "document": {
+        "titre_acte": "STATUTS DE L'ASSOCIATION « DIANA AVENIR »",
+        "lieu_adoption": "Adoptés à Antsiranana, le 10 juin 2026, par l'Assemblée Générale Constitutive",
+        "articles": [
+          {
+            "numero": 1,
+            "titre": "Dénomination",
+            "texte": "Il est fondé entre les soussignés et toutes les personnes qui adhéreront ultérieurement aux présents statuts, une association régie par l'Ordonnance n° 60-133 du 3 octobre 1960 portant régime général des associations à Madagascar, dénommée : « DIANA AVENIR »."
+          },
+          {
+            "numero": 2,
+            "titre": "Objet",
+            "texte": "L'association a pour objet :\n— la promotion de l'insertion professionnelle et de l'employabilité des jeunes de la région DIANA ;\n— l'organisation de formations professionnelles, d'ateliers de développement des compétences et d'activités génératrices de revenus ;\n— l'accompagnement à la création d'entreprises et de coopératives par les jeunes ;\n— la mise en réseau des acteurs économiques, institutionnels et associatifs de la région DIANA autour de l'emploi des jeunes ;\n— toute action contribuant au développement social et économique durable de la région."
+          },
+          {
+            "numero": 3,
+            "titre": "Siège social",
+            "texte": "Le siège social de l'association est fixé à : Lot II B 47, Rue Colbert, Antsiranana 201, Madagascar.\n\nIl pourra être transféré en tout autre lieu de Madagascar par décision du Conseil d'Administration, ratifiée lors de la prochaine Assemblée Générale."
+          },
+          {
+            "numero": 4,
+            "titre": "Durée",
+            "texte": "L'association est constituée pour une durée illimitée, sauf dissolution volontaire ou judiciaire."
+          },
+          {
+            "numero": 5,
+            "titre": "Membres",
+            "texte": "L'association est composée des catégories de membres suivantes :\n\n1. Membres fondateurs : personnes physiques ou morales qui ont participé à la création de l'association et ont adopté les présents statuts lors de l'Assemblée Générale Constitutive ;\n2. Membres actifs : personnes qui adhèrent à l'association après sa constitution, s'acquittent régulièrement de la cotisation annuelle et participent à la vie associative ;\n3. Membres d'honneur : personnes ayant rendu des services éminents à l'association, dispensées de cotisation sur décision de l'Assemblée Générale ;\n4. Membres bienfaiteurs : personnes qui soutiennent l'association par des contributions financières ou matérielles significatives, sans nécessairement participer aux activités.\n\nSeuls les membres fondateurs et les membres actifs à jour de cotisation ont le droit de vote aux assemblées générales."
+          },
+          {
+            "numero": 6,
+            "titre": "Admission et cotisation",
+            "texte": "Toute personne désirant adhérer à l'association en qualité de membre actif adresse une demande écrite au président. L'admission est prononcée par le Conseil d'Administration. Le montant de la cotisation annuelle est fixé chaque année par l'Assemblée Générale Ordinaire. Nul ne peut être contraint d'adhérer ou de se maintenir dans l'association."
+          },
+          {
+            "numero": 7,
+            "titre": "Perte de la qualité de membre",
+            "texte": "La qualité de membre se perd par :\n— la démission adressée par écrit au président ;\n— le non-paiement de la cotisation pendant deux (2) exercices consécutifs, après mise en demeure restée sans effet ;\n— la radiation prononcée par le Conseil d'Administration pour motif grave, après que l'intéressé a été invité à présenter ses observations."
+          },
+          {
+            "numero": 8,
+            "titre": "Ressources",
+            "texte": "Les ressources de l'association comprennent :\n— les cotisations de ses membres ;\n— les subventions de l'État, des collectivités territoriales, des organisations internationales et de tout organisme public ou privé ;\n— les dons et legs consentis en sa faveur ;\n— les recettes provenant de ses activités et manifestations ;\n— toutes autres ressources autorisées par les textes en vigueur."
+          },
+          {
+            "numero": 9,
+            "titre": "Assemblée Générale",
+            "texte": "L'Assemblée Générale (AG) est l'organe souverain de l'association. Elle réunit l'ensemble des membres à jour de leurs obligations.\n\nL'Assemblée Générale Ordinaire (AGO) se tient au moins une fois par an, dans les quatre (4) mois de la clôture de l'exercice. Elle est convoquée par le président par tout moyen écrit, quinze (15) jours au moins avant la réunion. Elle approuve les comptes de l'exercice écoulé, élit les membres du Conseil d'Administration, fixe le montant des cotisations, et statue sur toutes questions relevant de la gestion courante.\n\nL'Assemblée Générale Extraordinaire (AGE) est convoquée chaque fois que les circonstances l'exigent, notamment pour toute modification des statuts, fusion ou dissolution. Elle statue à la majorité des deux tiers (2/3) des membres présents ou représentés.\n\nLes délibérations de l'AG sont consignées dans des procès-verbaux signés par le président et le secrétaire général."
+          },
+          {
+            "numero": 10,
+            "titre": "Conseil d'Administration",
+            "texte": "L'association est administrée par un Conseil d'Administration composé de sept (7) à quinze (15) membres, élus par l'Assemblée Générale parmi les membres actifs à jour de cotisation, pour un mandat de trois (3) ans renouvelable.\n\nLe Conseil d'Administration se réunit au moins deux (2) fois par an sur convocation du président ou à la demande d'un tiers de ses membres. Il délibère valablement si la moitié de ses membres sont présents. Les décisions sont prises à la majorité des voix ; en cas d'égalité, la voix du président est prépondérante.\n\nEn cas de vacance d'un siège, le Conseil d'Administration peut coopter un remplaçant jusqu'à la prochaine Assemblée Générale."
+          },
+          {
+            "numero": 11,
+            "titre": "Bureau",
+            "texte": "Le Conseil d'Administration élit en son sein, au scrutin secret, un bureau composé de :\n— un(e) Président(e) ;\n— un(e) Vice-Président(e) ;\n— un(e) Secrétaire Général(e) ;\n— un(e) Secrétaire Général(e) Adjoint(e) ;\n— un(e) Trésorier(ère) ;\n— un(e) Trésorier(ère) Adjoint(e).\n\nLe bureau est élu pour la durée du mandat du Conseil d'Administration. Le président représente l'association dans tous les actes de la vie civile. Il ordonnance les dépenses. Le trésorier tient la comptabilité et rend compte de sa gestion à chaque Assemblée Générale."
+          },
+          {
+            "numero": 12,
+            "titre": "Règlement intérieur",
+            "texte": "Un règlement intérieur peut être établi par le Conseil d'Administration pour préciser les modalités d'application des présents statuts. Il est soumis à l'approbation de l'Assemblée Générale et s'impose à tous les membres."
+          },
+          {
+            "numero": 13,
+            "titre": "Dissolution",
+            "texte": "La dissolution de l'association ne peut être prononcée que par une Assemblée Générale Extraordinaire convoquée à cet effet, réunissant au moins les deux tiers (2/3) des membres actifs, et statuant à la majorité des deux tiers (2/3) des présents. En cas de dissolution, l'AGE désigne un ou plusieurs liquidateurs et affecte l'actif net à une ou plusieurs associations poursuivant un objet similaire, ou à tout organisme d'intérêt général de son choix. En aucun cas les biens de l'association ne peuvent être partagés entre les membres."
+          },
+          {
+            "numero": 14,
+            "titre": "Formalités",
+            "texte": "Le bureau est chargé de procéder à la déclaration de l'association auprès du préfet compétent et d'accomplir toutes les formalités légales requises. Toute modification des présents statuts, tout changement dans la composition du bureau, tout transfert de siège doit faire l'objet d'une déclaration modificative auprès de la préfecture dans un délai de trente (30) jours."
+          }
+        ],
+        "liste_fondateurs_signataires": [
+          { "nom": "RAZAFINDRABE Hery Nirina", "fonction": "Président" },
+          { "nom": "ANDRIANTSOA Léa Volasoa", "fonction": "Vice-Présidente" },
+          { "nom": "TSIMIHATO Jean-Baptiste", "fonction": "Secrétaire Général" },
+          { "nom": "MAROLAHY Fanomezantsoa", "fonction": "Secrétaire Général Adjoint" },
+          { "nom": "RAKOTOMALALA Sitraka Mamy", "fonction": "Trésorière" },
+          { "nom": "BEZAZA Patrick Aimé", "fonction": "Trésorier Adjoint" },
+          { "nom": "SOAFARA Clémence", "fonction": "Membre fondatrice" },
+          { "nom": "NDRIATSITOHAINA Lova", "fonction": "Membre fondateur" }
+        ],
+        "lieu_date": "Fait à Antsiranana, le 10 juin 2026"
+      }
+    },
+
+    {
+      "id": 2,
+      "type": "pv_constitution",
+      "complexite": "complet",
+      "contexte": "Procès-verbal de l'Assemblée Générale Constitutive de l'association DIANA AVENIR, réunissant les membres fondateurs. Adoption des statuts, élection du Conseil d'Administration, élection du bureau, adoption du règlement intérieur, pouvoirs pour les formalités.",
+      "document": {
+        "titre_acte": "PROCÈS-VERBAL DE L'ASSEMBLÉE GÉNÉRALE CONSTITUTIVE\nDE L'ASSOCIATION « DIANA AVENIR »",
+        "entete": {
+          "date": "Le dix juin deux mille vingt-six (10 juin 2026)",
+          "heure": "à quatorze heures (14h00)",
+          "lieu": "Salle de réunion du Centre Culturel Municipal d'Antsiranana, Rue Suffren, Antsiranana 201"
+        },
+        "presents": {
+          "titre": "MEMBRES FONDATEURS PRÉSENTS",
+          "membres": [
+            { "nom": "RAZAFINDRABE Hery Nirina", "profession": "Enseignant", "domicile": "Lot II B 47, Rue Colbert, Antsiranana" },
+            { "nom": "ANDRIANTSOA Léa Volasoa", "profession": "Assistante sociale", "domicile": "Lot IVA 12, Ampandriana, Antsiranana" },
+            { "nom": "TSIMIHATO Jean-Baptiste", "profession": "Juriste", "domicile": "Lot III C 8, Tanambao IV, Antsiranana" },
+            { "nom": "MAROLAHY Fanomezantsoa", "profession": "Comptable", "domicile": "Rue Richelieu, Antsiranana" },
+            { "nom": "RAKOTOMALALA Sitraka Mamy", "profession": "Gérante de commerce", "domicile": "Lot VA 33, Ambalavola, Antsiranana" },
+            { "nom": "BEZAZA Patrick Aimé", "profession": "Technicien", "domicile": "Lot IIA 19, Lazaret, Antsiranana" },
+            { "nom": "SOAFARA Clémence", "profession": "Infirmière", "domicile": "Lot IIIB 7, Mahagaga, Antsiranana" },
+            { "nom": "NDRIATSITOHAINA Lova", "profession": "Agriculteur", "domicile": "Fokontany Antanamitarana, Antsiranana" }
+          ],
+          "constat": "Huit (8) membres fondateurs sont présents, représentant la totalité des membres initiaux. L'assemblée est régulièrement constituée et peut valablement délibérer."
+        },
+        "presidence": "Monsieur RAZAFINDRABE Hery Nirina est désigné président de séance. Monsieur TSIMIHATO Jean-Baptiste est désigné secrétaire de séance.",
+        "ordre_du_jour": [
+          "Adoption des statuts de l'association DIANA AVENIR ;",
+          "Élection des membres du Conseil d'Administration ;",
+          "Élection du Bureau ;",
+          "Adoption du Règlement Intérieur ;",
+          "Pouvoirs pour les formalités de déclaration."
+        ],
+        "deliberations": [
+          {
+            "numero": 1,
+            "titre": "PREMIÈRE RÉSOLUTION — Adoption des statuts",
+            "texte": "Le président de séance présente à l'assemblée le projet de statuts de l'association DIANA AVENIR, en donne lecture intégrale et recueille les observations des membres présents. Après discussion, aucune modification n'étant proposée, l'assemblée procède au vote.",
+            "vote": "La présente résolution est adoptée à l'unanimité des membres présents. Les statuts de l'association DIANA AVENIR, composés de quatorze (14) articles, sont adoptés tels que présentés."
+          },
+          {
+            "numero": 2,
+            "titre": "DEUXIÈME RÉSOLUTION — Élection des membres du Conseil d'Administration",
+            "texte": "Conformément à l'article 10 des statuts nouvellement adoptés, l'assemblée procède à l'élection des membres du premier Conseil d'Administration pour une durée de trois (3) ans.\n\nSont élus membres du Conseil d'Administration :\n1. RAZAFINDRABE Hery Nirina ;\n2. ANDRIANTSOA Léa Volasoa ;\n3. TSIMIHATO Jean-Baptiste ;\n4. MAROLAHY Fanomezantsoa ;\n5. RAKOTOMALALA Sitraka Mamy ;\n6. BEZAZA Patrick Aimé ;\n7. SOAFARA Clémence ;\n8. NDRIATSITOHAINA Lova.\n\nChacun des intéressés déclare accepter ses fonctions.",
+            "vote": "La présente résolution est adoptée à l'unanimité des membres présents."
+          },
+          {
+            "numero": 3,
+            "titre": "TROISIÈME RÉSOLUTION — Élection du Bureau",
+            "texte": "Le Conseil d'Administration nouvellement élu se réunit immédiatement en séance pour procéder à l'élection du bureau, conformément à l'article 11 des statuts.\n\nSont élus :\n— Président : RAZAFINDRABE Hery Nirina\n— Vice-Présidente : ANDRIANTSOA Léa Volasoa\n— Secrétaire Général : TSIMIHATO Jean-Baptiste\n— Secrétaire Général Adjoint : MAROLAHY Fanomezantsoa\n— Trésorière : RAKOTOMALALA Sitraka Mamy\n— Trésorier Adjoint : BEZAZA Patrick Aimé\n\nChacun des intéressés déclare accepter ses fonctions.",
+            "vote": "La présente résolution est adoptée à l'unanimité des membres du Conseil d'Administration."
+          },
+          {
+            "numero": 4,
+            "titre": "QUATRIÈME RÉSOLUTION — Adoption du Règlement Intérieur",
+            "texte": "Le Règlement Intérieur de l'association, composé de dix (10) articles, est présenté à l'assemblée par le secrétaire de séance. Après lecture et discussion, aucune modification n'étant proposée, l'assemblée procède au vote.",
+            "vote": "La présente résolution est adoptée à l'unanimité des membres présents."
+          },
+          {
+            "numero": 5,
+            "titre": "CINQUIÈME RÉSOLUTION — Pouvoirs pour les formalités",
+            "texte": "L'assemblée donne tous pouvoirs à Monsieur RAZAFINDRABE Hery Nirina, Président, et à Monsieur TSIMIHATO Jean-Baptiste, Secrétaire Général, agissant conjointement ou séparément, à l'effet d'accomplir toutes les formalités de déclaration de l'association auprès du préfet compétent, de signer tous documents administratifs nécessaires, et d'ouvrir un compte bancaire au nom de l'association.",
+            "vote": "La présente résolution est adoptée à l'unanimité des membres présents."
+          }
+        ],
+        "cloture": "L'ordre du jour étant épuisé, la séance est levée à seize heures trente (16h30). Le présent procès-verbal est signé par le président de séance et le secrétaire de séance.",
+        "signatures": [
+          { "role": "Le Président de séance", "nom": "RAZAFINDRABE Hery Nirina" },
+          { "role": "Le Secrétaire de séance", "nom": "TSIMIHATO Jean-Baptiste" }
+        ]
+      }
+    },
+
+    {
+      "id": 3,
+      "type": "reglement_interieur",
+      "complexite": "complet",
+      "contexte": "Règlement intérieur de l'association DIANA AVENIR, adopté lors de l'AG constitutive du 10 juin 2026. Il précise les modalités pratiques de fonctionnement non détaillées dans les statuts.",
+      "document": {
+        "titre_acte": "RÈGLEMENT INTÉRIEUR DE L'ASSOCIATION « DIANA AVENIR »",
+        "preambule": "Le présent Règlement Intérieur est établi conformément à l'article 12 des statuts de l'association DIANA AVENIR. Il a pour objet de préciser les modalités pratiques de fonctionnement de l'association non couvertes par les statuts. Il s'impose à tous les membres sans exception.",
+        "articles": [
+          {
+            "numero": 1,
+            "titre": "Adhésion",
+            "texte": "Toute demande d'adhésion est adressée par écrit au Président, accompagnée du formulaire d'adhésion dûment rempli et du règlement de la cotisation. Le Conseil d'Administration statue sur les demandes lors de sa prochaine réunion. En cas de refus, aucune motivation n'est obligatoire, mais la cotisation versée est intégralement remboursée."
+          },
+          {
+            "numero": 2,
+            "titre": "Cotisations",
+            "texte": "Le montant de la cotisation annuelle est fixé par l'Assemblée Générale Ordinaire. La cotisation est due pour l'année civile entière, quelle que soit la date d'adhésion. Elle est payable au plus tard le 31 mars de chaque année pour les membres déjà adhérents. Tout membre n'ayant pas réglé sa cotisation au 30 juin de l'exercice en cours est considéré comme non à jour et perd son droit de vote à l'Assemblée Générale jusqu'à régularisation."
+          },
+          {
+            "numero": 3,
+            "titre": "Convocation aux assemblées générales",
+            "texte": "Les convocations aux Assemblées Générales sont adressées à tous les membres par tout moyen écrit (courrier, email, affichage au siège) au moins quinze (15) jours avant la date de la réunion. Elles précisent la date, l'heure, le lieu et l'ordre du jour. Aucune question ne peut être mise aux voix si elle ne figure pas à l'ordre du jour, sauf accord unanime des membres présents."
+          },
+          {
+            "numero": 4,
+            "titre": "Représentation aux assemblées",
+            "texte": "Tout membre empêché d'assister à une Assemblée Générale peut se faire représenter par un autre membre muni d'un pouvoir écrit. Chaque membre présent ne peut détenir plus de deux (2) pouvoirs en sus du sien. La représentation n'est pas admise pour les votes sur les modifications de statuts."
+          },
+          {
+            "numero": 5,
+            "titre": "Gestion financière",
+            "texte": "Le Trésorier tient la comptabilité de l'association selon les normes en vigueur. Toute dépense supérieure à 500 000 Ariary doit faire l'objet d'une autorisation préalable du Conseil d'Administration. Les chèques et ordres de virement sont signés conjointement par le Président et le Trésorier, ou par leurs adjoints respectifs en cas d'empêchement. Le compte bancaire de l'association ne peut pas être utilisé à des fins personnelles par les dirigeants."
+          },
+          {
+            "numero": 6,
+            "titre": "Remboursement de frais",
+            "texte": "Les membres de l'association exercent leurs fonctions à titre bénévole. Toutefois, les frais réels et justifiés engagés dans le cadre des activités associatives peuvent être remboursés sur présentation de justificatifs et après validation par le Président et le Trésorier. Aucun remboursement forfaitaire sans justificatif ne peut être accordé."
+          },
+          {
+            "numero": 7,
+            "titre": "Discipline",
+            "texte": "Tout membre dont le comportement est contraire aux valeurs de l'association, aux statuts ou au présent règlement peut faire l'objet d'une procédure disciplinaire. Le Conseil d'Administration notifie à l'intéressé, par lettre recommandée, les faits reprochés et l'invite à présenter ses observations dans un délai de quinze (15) jours. À l'expiration de ce délai, le Conseil d'Administration se prononce. Les sanctions applicables sont l'avertissement, la suspension temporaire ou la radiation définitive."
+          },
+          {
+            "numero": 8,
+            "titre": "Communication",
+            "texte": "Le Secrétaire Général est responsable de la communication interne et externe de l'association. Les communiqués officiels sont signés par le Président. Aucun membre ne peut s'exprimer publiquement au nom de l'association sans autorisation préalable du bureau."
+          },
+          {
+            "numero": 9,
+            "titre": "Archives et documentation",
+            "texte": "Le Secrétaire Général est dépositaire des archives de l'association : statuts, règlement intérieur, procès-verbaux des assemblées et réunions du CA, récépissé de déclaration préfectorale, correspondances officielles. Ces documents sont conservés au siège social et peuvent être consultés par tout membre sur demande écrite adressée au Président."
+          },
+          {
+            "numero": 10,
+            "titre": "Modification du règlement intérieur",
+            "texte": "Le présent règlement intérieur peut être modifié par le Conseil d'Administration, sous réserve de ratification par l'Assemblée Générale Ordinaire suivante. Toute modification est notifiée à l'ensemble des membres dans le mois suivant son adoption."
+          }
+        ],
+        "lieu_date": "Adopté à Antsiranana, le 10 juin 2026",
+        "signatures": [
+          { "role": "Le Président", "nom": "RAZAFINDRABE Hery Nirina" },
+          { "role": "Le Secrétaire Général", "nom": "TSIMIHATO Jean-Baptiste" }
+        ]
+      }
+    },
+
+    {
+      "id": 4,
+      "type": "lettre_declaration_prefet",
+      "complexite": "complet",
+      "contexte": "Lettre de déclaration de l'association DIANA AVENIR adressée au Préfet d'Antsiranana, accompagnée du dossier complet, en vue d'obtenir le récépissé de déclaration conférant la personnalité juridique.",
+      "document": {
+        "expediteur": {
+          "nom": "RAZAFINDRABE Hery Nirina",
+          "qualite": "Président de l'Association DIANA AVENIR",
+          "adresse": "Lot II B 47, Rue Colbert, Antsiranana 201",
+          "telephone": "+261 32 45 678 90",
+          "email": "diana.avenir.asso@gmail.com"
+        },
+        "lieu_date": "Antsiranana, le 15 juin 2026",
+        "destinataire": {
+          "titre": "Monsieur le Préfet de la Région DIANA",
+          "adresse": "Préfecture d'Antsiranana, Antsiranana 201"
+        },
+        "objet": "Déclaration de constitution de l'association « DIANA AVENIR » — demande de récépissé",
+        "reference": "Ordonnance n° 60-133 du 3 octobre 1960 portant régime général des associations",
+        "formule_appel": "Monsieur le Préfet,",
+        "corps": "J'ai l'honneur de porter à votre connaissance que l'association dénommée « DIANA AVENIR » a été régulièrement constituée lors d'une Assemblée Générale Constitutive réunie le 10 juin 2026 à Antsiranana, conformément aux dispositions de l'Ordonnance n° 60-133 du 3 octobre 1960 portant régime général des associations à Madagascar.\n\nConformément à la réglementation en vigueur, j'ai l'honneur de vous soumettre la présente déclaration de constitution, accompagnée des pièces constitutives du dossier.\n\nL'association DIANA AVENIR a pour objet la promotion de l'insertion professionnelle et de l'employabilité des jeunes de la région DIANA, par l'organisation de formations, l'accompagnement à la création d'entreprises et la mise en réseau des acteurs économiques et institutionnels de la région.\n\nSon siège social est établi à l'adresse suivante : Lot II B 47, Rue Colbert, Antsiranana 201.\n\nL'association est administrée par un bureau composé de :\n— Monsieur RAZAFINDRABE Hery Nirina, Président, né le 14 août 1980 à Antsiranana, de nationalité malgache, CIN n° 201 345 678 901 ;\n— Madame ANDRIANTSOA Léa Volasoa, Vice-Présidente, née le 22 mars 1985 à Antsiranana, de nationalité malgache, CIN n° 201 456 789 012 ;\n— Monsieur TSIMIHATO Jean-Baptiste, Secrétaire Général, né le 7 novembre 1983 à Sambava, de nationalité malgache, CIN n° 504 123 456 789 ;\n— Madame MAROLAHY Fanomezantsoa, Secrétaire Générale Adjointe, née le 30 janvier 1990 à Antsiranana, de nationalité malgache, CIN n° 201 567 890 123 ;\n— Madame RAKOTOMALALA Sitraka Mamy, Trésorière, née le 11 mai 1987 à Diego Suarez, de nationalité malgache, CIN n° 201 678 901 234 ;\n— Monsieur BEZAZA Patrick Aimé, Trésorier Adjoint, né le 3 septembre 1992 à Antsiranana, de nationalité malgache, CIN n° 201 789 012 345.\n\nNous vous prions de bien vouloir nous délivrer le récépissé de déclaration attestant la constitution régulière de l'association, conformément aux dispositions légales applicables.\n\nNous demeurons à votre disposition pour tout renseignement complémentaire que vous jugeriez utile.",
+        "formule_politesse": "Nous vous prions d'agréer, Monsieur le Préfet, l'expression de notre considération distinguée.",
+        "signatures": [
+          { "role": "Le Président", "nom": "RAZAFINDRABE Hery Nirina" },
+          { "role": "Le Secrétaire Général", "nom": "TSIMIHATO Jean-Baptiste" }
+        ],
+        "pieces_jointes": [
+          "Deux (2) exemplaires originaux des statuts signés par les membres fondateurs",
+          "Un (1) exemplaire original du procès-verbal de l'Assemblée Générale Constitutive du 10 juin 2026",
+          "Un (1) exemplaire du Règlement Intérieur",
+          "La liste des membres du bureau avec photocopies légalisées des CIN",
+          "Un (1) exemplaire de la liste complète des membres fondateurs"
+        ]
+      }
+    },
+
+    {
+      "id": 5,
+      "type": "liste_membres_bureau",
+      "nom_usuel": "Liste des membres du bureau / Liste des dirigeants de l'association",
+      "precision": "Ce document n'a pas de nom légal unifié. Selon les préfectures, on l'appelle « liste des dirigeants », « liste des membres du bureau », ou « liste des personnes chargées de l'administration ». Il est joint au dossier de déclaration initiale et mis à jour à chaque changement de bureau.",
+      "complexite": "complet",
+      "document": {
+        "titre_acte": "LISTE DES MEMBRES DU BUREAU DE L'ASSOCIATION « DIANA AVENIR »",
+        "date_election": "Élus lors de l'Assemblée Générale Constitutive du 10 juin 2026",
+        "duree_mandat": "Mandat de trois (3) ans, soit jusqu'au 10 juin 2029",
+        "membres": [
+          {
+            "fonction": "Président",
+            "nom": "RAZAFINDRABE Hery Nirina",
+            "date_naissance": "14 août 1980",
+            "lieu_naissance": "Antsiranana",
+            "nationalite": "Malgache",
+            "profession": "Enseignant",
+            "domicile": "Lot II B 47, Rue Colbert, Antsiranana 201",
+            "cin": "CIN n° 201 345 678 901 délivrée le 20 avril 2006 à Antsiranana",
+            "telephone": "+261 32 45 678 90"
+          },
+          {
+            "fonction": "Vice-Présidente",
+            "nom": "ANDRIANTSOA Léa Volasoa",
+            "date_naissance": "22 mars 1985",
+            "lieu_naissance": "Antsiranana",
+            "nationalite": "Malgache",
+            "profession": "Assistante sociale",
+            "domicile": "Lot IVA 12, Ampandriana, Antsiranana 201",
+            "cin": "CIN n° 201 456 789 012 délivrée le 15 septembre 2010 à Antsiranana",
+            "telephone": "+261 33 56 789 01"
+          },
+          {
+            "fonction": "Secrétaire Général",
+            "nom": "TSIMIHATO Jean-Baptiste",
+            "date_naissance": "7 novembre 1983",
+            "lieu_naissance": "Sambava",
+            "nationalite": "Malgache",
+            "profession": "Juriste",
+            "domicile": "Lot III C 8, Tanambao IV, Antsiranana 201",
+            "cin": "CIN n° 504 123 456 789 délivrée le 3 juin 2009 à Sambava",
+            "telephone": "+261 34 67 890 12"
+          },
+          {
+            "fonction": "Secrétaire Générale Adjointe",
+            "nom": "MAROLAHY Fanomezantsoa",
+            "date_naissance": "30 janvier 1990",
+            "lieu_naissance": "Antsiranana",
+            "nationalite": "Malgache",
+            "profession": "Comptable",
+            "domicile": "Rue Richelieu, Antsiranana 201",
+            "cin": "CIN n° 201 567 890 123 délivrée le 11 mars 2014 à Antsiranana",
+            "telephone": "+261 32 78 901 23"
+          },
+          {
+            "fonction": "Trésorière",
+            "nom": "RAKOTOMALALA Sitraka Mamy",
+            "date_naissance": "11 mai 1987",
+            "lieu_naissance": "Diego Suarez",
+            "nationalite": "Malgache",
+            "profession": "Gérante de commerce",
+            "domicile": "Lot VA 33, Ambalavola, Antsiranana 201",
+            "cin": "CIN n° 201 678 901 234 délivrée le 28 juillet 2012 à Antsiranana",
+            "telephone": "+261 33 89 012 34"
+          },
+          {
+            "fonction": "Trésorier Adjoint",
+            "nom": "BEZAZA Patrick Aimé",
+            "date_naissance": "3 septembre 1992",
+            "lieu_naissance": "Antsiranana",
+            "nationalite": "Malgache",
+            "profession": "Technicien",
+            "domicile": "Lot IIA 19, Lazaret, Antsiranana 201",
+            "cin": "CIN n° 201 789 012 345 délivrée le 16 janvier 2018 à Antsiranana",
+            "telephone": "+261 34 90 123 45"
+          }
+        ],
+        "certification": "Je soussigné RAZAFINDRABE Hery Nirina, Président de l'association DIANA AVENIR, certifie exactes les informations figurant dans la présente liste.",
+        "lieu_date": "Fait à Antsiranana, le 15 juin 2026",
+        "signature": { "role": "Le Président", "nom": "RAZAFINDRABE Hery Nirina" }
+      }
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Madame FARA et quatre amis veulent créer une association de protection de l'environnement à Nosy-Be. Ils ont rédigé leurs statuts et tenu leur assemblée constitutive. Mais l'un d'eux leur dit qu'il faut d'abord obtenir un agrément du ministère de l'Environnement avant de pouvoir agir légalement. Un autre dit que non, il suffit de déposer le dossier à la préfecture. Ils ne savent plus qui a raison.",
+      "question": "Lequel a raison, et quelle est la procédure applicable ?",
+      "choix": [
+        "C'est le second qui a raison : une association relevant de l'Ordonnance n° 60-133 acquiert sa personnalité juridique par simple déclaration auprès du préfet compétent, sans agrément ministériel préalable, quel que soit son domaine d'activité.",
+        "C'est le premier qui a raison : toute association intervenant dans le secteur de l'environnement doit obtenir un agrément préalable du ministère de tutelle avant de pouvoir être déclarée.",
+        "Les deux ont partiellement raison : la déclaration en préfecture est nécessaire, mais un agrément ministériel est requis en parallèle pour que l'association puisse exercer des activités dans un secteur réglementé.",
+        "Aucun des deux n'a raison : une association n'a pas besoin d'être déclarée pour fonctionner légalement, elle peut agir comme association de fait."
+      ],
+      "reponse": "C'est le second qui a raison : une association relevant de l'Ordonnance n° 60-133 acquiert sa personnalité juridique par simple déclaration auprès du préfet compétent, sans agrément ministériel préalable, quel que soit son domaine d'activité.",
+      "indices": "Distinguez bien association (Ordonnance n° 60-133) et ONG (loi n° 96-030). Quel texte régit la procédure de constitution d'une simple association à Madagascar ?",
+      "explication": "L'Ordonnance n° 60-133 ne soumet pas la constitution d'une association à un agrément ministériel. La déclaration auprès du préfet ou sous-préfet suffit à conférer la personnalité juridique. C'est la loi n° 96-030 sur les ONG qui, elle, prévoit une procédure d'agrément plus lourde. Madame FARA et ses amis peuvent donc déposer leur dossier à la préfecture de Nosy-Be sans attendre d'autorisation d'un quelconque ministère. L'agrément ministériel pourrait devenir pertinent s'ils souhaitaient ultérieurement solliciter le statut d'ONG ou des partenariats officiels avec l'État dans le secteur environnemental."
+    },
+    {
+      "id": 2,
+      "scenario": "L'association TANETY MEVA a été constituée il y a deux ans et fonctionne bien. Le Président d'origine vient de démissionner. L'AG a élu un nouveau Président. Le Trésorier dit qu'il faut prévenir la préfecture de ce changement. Le nouveau Président pense que ce n'est pas nécessaire puisque l'association est déjà déclarée.",
+      "question": "Qui a raison ? Et si une déclaration est nécessaire, dans quel délai ?",
+      "choix": [
+        "Le Trésorier a raison : tout changement dans la composition du bureau doit faire l'objet d'une déclaration modificative auprès de la préfecture, en général dans un délai de trente (30) jours.",
+        "Le nouveau Président a raison : une fois l'association déclarée, aucune formalité supplémentaire n'est requise pour les changements internes de dirigeants.",
+        "Le Trésorier a raison, mais le délai est de six (6) mois, non de trente jours.",
+        "Seul un changement d'objet social ou de siège social nécessite une déclaration modificative ; un simple changement de président n'en requiert pas."
+      ],
+      "reponse": "Le Trésorier a raison : tout changement dans la composition du bureau doit faire l'objet d'une déclaration modificative auprès de la préfecture, en général dans un délai de trente (30) jours.",
+      "indices": "La déclaration initiale n'est pas la seule formalité imposée à une association. Que se passe-t-il lorsque les informations transmises à la préfecture lors de la déclaration initiale ne sont plus exactes ?",
+      "explication": "La déclaration initiale crée la personnalité juridique, mais l'association a également l'obligation de tenir la préfecture informée de tout changement affectant les informations déclarées : changement de siège, modification de statuts, et surtout changement dans la composition des dirigeants. Cette obligation est pratiquement importante : si le banquier, un bailleur ou un partenaire institutionnel vérifie les dirigeants habilités, c'est la liste déclarée à la préfecture qui fait foi. Un Président non déclaré pourrait se voir opposer une fin de non-recevoir. La déclaration modificative est à déposer à la préfecture dans un délai de trente jours suivant le changement."
+    },
+    {
+      "id": 3,
+      "scenario": "L'association RANO MADIO souhaite ouvrir un compte bancaire pour recevoir une subvention d'un bailleur international. Le banquier demande plusieurs documents. L'association dispose de ses statuts signés et du PV constitutif, mais elle n'a jamais finalisé la déclaration en préfecture : elle fonctionne depuis six mois sans récépissé.",
+      "question": "L'association peut-elle ouvrir un compte bancaire dans cette situation ?",
+      "choix": [
+        "Non : sans récépissé de déclaration préfectorale, l'association n'a pas de personnalité juridique et ne peut pas ouvrir un compte bancaire en son nom propre.",
+        "Oui : des statuts signés et un PV constitutif suffisent pour ouvrir un compte bancaire, le récépissé n'étant qu'un document complémentaire.",
+        "Oui, mais uniquement si le Président ouvre le compte à titre personnel en précisant qu'il agit pour le compte de l'association.",
+        "Non, mais seulement parce que les bailleurs internationaux ont leurs propres règles ; le droit malgache autorise l'ouverture d'un compte sans récépissé."
+      ],
+      "reponse": "Non : sans récépissé de déclaration préfectorale, l'association n'a pas de personnalité juridique et ne peut pas ouvrir un compte bancaire en son nom propre.",
+      "indices": "À quel moment précis une association acquiert-elle la personnalité juridique à Madagascar ? Que peut-elle faire, ou ne pas faire, sans cette personnalité ?",
+      "explication": "La personnalité juridique — et donc la capacité à contracter, à ouvrir un compte, à recevoir des fonds en son nom propre — est conditionnée à la déclaration en préfecture et à la délivrance du récépissé. Sans ce récépissé, l'association RANO MADIO est une association de fait : elle n'existe pas en tant que personne morale aux yeux des tiers. Aucune banque sérieuse n'ouvrira un compte au nom d'une personne morale inexistante. La solution est simple mais urgente : finaliser immédiatement le dépôt du dossier à la préfecture, obtenir le récépissé, puis revenir avec ce document chez le banquier."
+    },
+    {
+      "id": 4,
+      "scenario": "Monsieur LANTO souhaite créer une structure pour mener des actions de développement rural financées par des bailleurs internationaux dans la région Atsimo-Andrefana. Un conseiller lui dit de créer directement une ONG. Un autre lui conseille de commencer par une association. Il ne sait pas laquelle choisir.",
+      "question": "Quelle est la différence réelle entre les deux, et laquelle est recommandée pour démarrer ?",
+      "choix": [
+        "L'association (Ordonnance n° 60-133) est plus rapide à constituer — simple dépôt en préfecture — alors que l'ONG (loi n° 96-030) nécessite un agrément ministériel. Il est recommandé de commencer par l'association, quitte à demander le statut d'ONG une fois la structure établie.",
+        "L'ONG est toujours préférable car les bailleurs internationaux refusent de financer des associations ; seules les ONG agréées peuvent recevoir des fonds étrangers.",
+        "Les deux sont identiques juridiquement ; la différence est uniquement de taille : petite structure = association, grande structure = ONG.",
+        "L'association et l'ONG sont régies par le même texte à Madagascar ; il n'existe pas de procédure distincte pour les ONG."
+      ],
+      "reponse": "L'association (Ordonnance n° 60-133) est plus rapide à constituer — simple dépôt en préfecture — alors que l'ONG (loi n° 96-030) nécessite un agrément ministériel. Il est recommandé de commencer par l'association, quitte à demander le statut d'ONG une fois la structure établie.",
+      "indices": "Quels sont les deux textes juridiques distincts qui régissent respectivement les associations et les ONG à Madagascar ? Lequel implique un agrément ministériel ?",
+      "explication": "À Madagascar, l'association est régie par l'Ordonnance n° 60-133 de 1960 et se constitue par simple déclaration préfectorale. L'ONG est régie par la loi n° 96-030 de 1996 et suppose un agrément du ministère de tutelle, avec étude du dossier et signature éventuelle d'une convention avec l'État. Les bailleurs internationaux peuvent très bien financer des associations déclarées : ce qui compte pour eux, c'est l'existence juridique (récépissé préfectoral), la gouvernance transparente et la capacité à rendre compte. Il est donc conseillé à Monsieur LANTO de commencer par créer une association — plus rapide et moins contraignante — et d'évoluer vers le statut d'ONG lorsque sa structure aura acquis la crédibilité et la taille nécessaires."
+    }
+  ]
+}
