@@ -1,0 +1,111 @@
+{
+  "titre": "Monter un dossier complet - de la consultation au jugement",
+  "module": 20,
+  "niveau": "Professionnel",
+
+  "presentation": "Si vous lisez ces lignes, c'est que vous avez traverse dix-neuf modules. Vous avez appris a rediger des contrats, des requetes, des assignations, des statuts de societe, des plaintes, des recours. Vous avez calcule des impots, analyse des clauses, qualifie des faits. Vous avez, sans peut-etre vous en rendre compte, acquis quelque chose que les textes de loi seuls ne donnent pas : une facon de voir. Un juriste ne lit pas une situation comme un citoyen ordinaire. Il la decompose. Il cherche les faits, il les qualifie, il identifie les droits en jeu, il mesure les delais, il choisit les armes. Ce dernier module n'introduit pas de nouvelle regle. Il vous montre comment tout s'assemble - comment, face a un dossier reel, vous passez de la premiere conversation avec un client au prononce d'un jugement. C'est le module de la methode. Et la methode, une fois acquise, ne s'oublie pas.",
+
+  "contenu": [
+    {
+      "titre": "La premiere etape : ecouter avant de qualifier",
+      "texte": "Tout commence par une consultation. Un client entre, il raconte. Il est en colere, blesse, parfois confus. Il melange les faits et les emotions, les dates et les suppositions. Votre premier travail n'est pas de parler - c'est d'ecouter. Completement. Sans interrompre pour placer une reference juridique. Parce que ce que vous cherchez, dans ce flot de paroles, ce sont les faits bruts : qui a fait quoi, quand, ou, en presence de qui, avec quelles consequences. Les emotions du client sont reelles et legitimes. Mais elles ne plaident pas. Les faits, eux, plaident. Notez les dates. Notez les noms. Notez ce qui existe en pieces. C'est sur cette matiere premiere que tout le reste sera construit."
+    },
+    {
+      "titre": "La deuxieme etape : qualifier les faits",
+      "texte": "Une fois les faits poses, vient le travail de qualification. C'est ici que le juriste se distingue du non-juriste. Qualifier, c'est donner aux faits leur nom juridique exact - et ce nom determine tout : la juridiction competente, les delais applicables, les textes invocables, les preuves necessaires, les issues possibles. Un meme evenement peut relever du droit civil, du droit commercial, du droit penal ou du droit administratif selon les circonstances. Un employe brutalement mis a la porte peut avoir un litige prud'homal ; si son employeur a dissimule des charges, il peut y avoir une dimension penale ; si l'employeur est l'Etat, c'est le contentieux administratif. Qualifier juste, c'est choisir le bon terrain de combat des le depart.",
+      "definition": "Qualification juridique : operation intellectuelle par laquelle on fait correspondre une situation de fait a une categorie juridique precise (contrat de travail, infraction penale, acte administratif...), afin d'en deduire le regime applicable."
+    },
+    {
+      "titre": "La troisieme etape : construire la strategie",
+      "texte": "Connaitre le droit ne suffit pas. Il faut aussi choisir. Plusieurs voies peuvent etre ouvertes simultanement - on ne les emprunte pas toutes. La strategie, c'est le choix raisonne de la voie qui maximise les chances du client en tenant compte de la solidite des preuves disponibles, des delais qui restent, du cout de la procedure, du resultat realiste attendu, et parfois de la relation que le client souhaite conserver (ou non) avec l'autre partie. Un reglement amiable bien negocie vaut souvent mieux qu'un proces long et incertain. Mais certains dossiers ne se reglent pas a l'amiable - et dans ce cas, il faut aller jusqu'au bout avec methode et determination."
+    },
+    {
+      "titre": "La quatrieme etape : constituer le dossier de preuves",
+      "texte": "Un dossier solide, c'est d'abord un dossier prouve. En droit, ce qui n'est pas prouve n'existe pas - ou plutot, il existe pour le client mais pas pour le juge. Les preuves peuvent etre documentaires (contrats, courriers, factures, releves bancaires, proces-verbaux), testimoniales (attestations de temoins redigees selon les formes legales), materielles (objets, photographies, enregistrements selon leur admissibilite) ou expertes (rapports d'expertise medicale, graphologique, comptable). Le juriste doit inventorier ce qui existe, identifier ce qui manque, evaluer ce qui peut encore etre obtenu, et ordonner l'ensemble de facon coherente et chronologique."
+    },
+    {
+      "titre": "La cinquieme etape : rediger les actes",
+      "texte": "Vient ensuite la redaction. Selon la voie choisie, il faudra rediger une mise en demeure, une assignation, une requete, des conclusions, une plainte, un recours. Chaque acte a sa structure, ses exigences formelles, ses delais de depot. Un acte mal redige peut etre declare irrecevable, nul, ou simplement inoperant. C'est pourquoi la maitrise de la redaction juridique - que vous avez construite tout au long de ce programme - est une competence fondamentale, pas un ornement. Chaque mot compte. Chaque fait allegue doit etre relie a une piece. Chaque demande doit etre chiffree et motivee."
+    },
+    {
+      "titre": "La sixieme etape : introduire l'instance et suivre la procedure",
+      "texte": "L'introduction de l'instance marque le passage du conflit a la procedure judiciaire. Selon la juridiction et la matiere, cela prend la forme d'un depot de requete, d'une signification d'assignation par huissier, ou d'un depot de plainte. A partir de ce moment, des delais stricts s'imposent : delais de reponse de l'adversaire, dates d'audience, delais pour produire les pieces. Le juriste doit tenir un calendrier de procedure precis et anticiper chaque etape. Il ne subit pas la procedure - il la pilote."
+    },
+    {
+      "titre": "La septieme etape : lire et executer - ou contester - le jugement",
+      "texte": "Le jugement n'est pas la fin. C'est une decision qui doit etre lue avec methode : les motifs (le raisonnement du juge), le dispositif (ce qui est ordonne), les delais d'execution, et les voies de recours disponibles si la decision est defavorable. Si le jugement est favorable, il faut en assurer l'execution - parfois simple, parfois complexe si l'adversaire resiste. Si le jugement est defavorable, il faut analyser les motifs, evaluer les chances en appel, et conseiller le client sur la suite avec lucidite. Un bon juriste sait aussi reconnaitre quand la decision rendue est juste - meme contre son client."
+    },
+    {
+      "titre": "Ce que vous etes desormais capable de faire",
+      "texte": "Vous savez maintenant recevoir un client et structurer ses faits. Vous savez qualifier une situation juridique et choisir la bonne voie. Vous savez rediger les actes essentiels du contentieux civil, commercial, penal et administratif malgache. Vous savez calculer des impots, constituer une societe, rediger un contrat de travail ou un bail. Vous avez les outils. Ce qui fera la difference dans la pratique, c'est l'experience - la repetition, les dossiers reels, les erreurs corrigees, les audiences suivies. Mais l'experience sans methode tourne en rond. Vous, vous avez la methode. Le reste vient avec le temps et le travail."
+    }
+  ],
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "titre": "Dossier RAKOTOARISOA contre Societe AMBONIVOLA SA",
+      "scenario": "Monsieur RAKOTOARISOA Hery, 38 ans, technicien superieur en informatique, travaille depuis 8 ans (CDI du 1er mars 2017) pour la Societe AMBONIVOLA SA, salaire brut 1 800 000 Ar/mois. Le 28 fevrier 2025, il recoit une lettre de licenciement pour faute grave (divulgation d'informations confidentielles). Il conteste. Aucun entretien prealable n'a eu lieu. Aucune indemnite versee. Il vous consulte le 15 mars 2025.",
+      "choix": [
+        "Licenciement potentiellement abusif : absence d'entretien prealable = irregularite de procedure majeure. Si la faute grave n'est pas prouvee, le licenciement est abusif sur le fond. Deux axes de contestation independants.",
+        "Le licenciement est valable car notifie par ecrit. L'absence d'entretien prealable est sans consequence.",
+        "Il faut d'abord verifier si la faute est reelle avant de se prononcer sur la procedure.",
+        "Ce dossier releve uniquement du droit penal."
+      ],
+      "reponse": 0,
+      "explication": "La qualification est double : irregularite de forme (absence d'entretien prealable obligatoire selon le Code du travail malgache) ET contestation du fond (la faute grave alléguee n'est pas etablie). Ces deux axes sont independants : meme si la faute existait, la procedure resterait irreguliere. C'est un dossier fort sur les deux plans. Priorite : verifier le delai de prescription de l'action avant toute autre demarche."
+    },
+    {
+      "id": 2,
+      "titre": "Dossier RANDRIA contre Entrepreneur HERY - travaux abandonnes",
+      "scenario": "Madame RANDRIA Voahangy a conclu un contrat avec Monsieur HERY Martial, entrepreneur en batiment, pour la construction d'une maison a Antsirabe. Prix : 45 000 000 Ar. Elle a verse 30 000 000 Ar (deux tranches). Monsieur HERY a abandonne le chantier apres 40% des travaux. Il ne repond plus. Les materiaux ont ete partiellement revendus par ses ouvriers. Elle vous consulte.",
+      "choix": [
+        "Inexecution d'un contrat d'entreprise (droit civil). Actions : mise en demeure immediate, puis saisine du TPI en refere pour constater l'abandon et nommer un expert, et au fond pour obtenir la resolution du contrat, la restitution des sommes versees au-dela des travaux realises, et des dommages et interets. Plainte penale parallele possible pour abus de confiance.",
+        "Il faut uniquement deposer une plainte penale : l'abandon de chantier est automatiquement un delit.",
+        "Il faut saisir le tribunal commercial car l'entrepreneur est un professionnel.",
+        "Aucun recours : elle a signe un contrat sans clause penale."
+      ],
+      "reponse": 0,
+      "explication": "C'est un litige civil fonde sur l'inexecution contractuelle (loi n 66-003, art. 164 et s.). La procedure de refere est precieuse pour constater rapidement l'etat du chantier et nommer un expert avant que les preuves disparaissent. L'action au fond vise la resolution + indemnisation. La vente des materiaux par les ouvriers peut caracteriser un abus de confiance - plainte penale explorable en parallele sans attendre l'issue civile."
+    },
+    {
+      "id": 3,
+      "titre": "Dossier SARL FENO contre SARL MANDA - creances impayees",
+      "scenario": "La SARL FENO a livre pour 22 000 000 Ar de marchandises a la SARL MANDA (janvier-mars 2025), sur bons de commande signes et factures remises. MANDA ne repond plus, locaux fermes, dirigeants injoignables. D'autres fournisseurs sont dans la meme situation : MANDA leur devrait au total plus de 150 000 000 Ar. Le gerant de FENO vous consulte.",
+      "choix": [
+        "Cessation des paiements probable. Voie prioritaire : demande d'ouverture d'une procedure collective (liquidation judiciaire) devant le Tribunal de Commerce - gele les poursuites individuelles et permet une repartition organisee entre creanciers. Declarer la creance des l'ouverture est imperatif. Une action individuelle est possible mais sera paralysee des l'ouverture de la procedure collective.",
+        "Saisir immediatement un huissier pour saisir les biens de MANDA sans passer par le tribunal.",
+        "FENO n'a aucun recours car elle n'a pas insere de clause de reserve de propriete.",
+        "Deposer une plainte penale et attendre son issue avant d'agir commercialement."
+      ],
+      "reponse": 0,
+      "explication": "La pluralite de creanciers dans la meme situation est le signal d'une cessation des paiements. La procedure collective protege tous les creanciers et empeche des paiements preferentiels de derniere minute. Declarer rapidement la creance est crucial - les creances non declarees dans les delais peuvent etre eteintes. L'action individuelle sera paralysee des l'ouverture de la procedure collective."
+    },
+    {
+      "id": 4,
+      "titre": "Dossier SOLO Fitiavana - faux titre foncier",
+      "scenario": "Monsieur SOLO Fitiavana a achete un terrain a Mahajanga pour 35 000 000 Ar en janvier 2025, sur la base d'un titre foncier presente par le vendeur. En avril 2025, au Service des Domaines, il decouvre que le titre est un faux : le vrai proprietaire n'a jamais vendu. Le vendeur a disparu. Il vous consulte : il a perdu 35 000 000 Ar et n'a aucun terrain.",
+      "choix": [
+        "Qualification : escroquerie (manoeuvres frauduleuses via faux titre foncier pour obtenir remise de fonds) et faux en ecriture. Constitution de partie civile aupres du doyen des juges d'instruction : preferable a la simple plainte car elle oblige l'ouverture d'une information judiciaire avec pouvoirs d'investigation etendus (perquisitions, ecoutes, commissions rogatoires) - indispensables pour retrouver un vendeur disparu et remonter la filiere des faux.",
+        "Engager uniquement une action civile en nullite de la vente et en restitution du prix.",
+        "Une plainte simple au commissariat suffit.",
+        "Aucun recours car il aurait du verifier l'authenticite du titre avant d'acheter."
+      ],
+      "reponse": 0,
+      "explication": "La simple plainte laisse au parquet la liberte de classer sans suite. Ici, le vendeur a disparu et les preuves necessitent des investigations que seul un juge d'instruction peut ordonner. La constitution de partie civile force l'ouverture d'une instruction et donne a Monsieur SOLO le statut de partie a la procedure - acces au dossier, demande d'actes d'investigation, reparation dans le cadre penal. C'est la voie la plus puissante pour ce type de fraude organisee."
+    },
+    {
+      "id": 5,
+      "titre": "Dossier Association AVOTRA - fermeture administrative illegale",
+      "scenario": "L'Association AVOTRA gere un centre de formation professionnelle a Toamasina, declaree en prefecture, en activite depuis 6 ans. Le 3 mars 2026, le Maire prend un arrete de fermeture immediate pour 'menace a l'ordre public', sans mise en demeure prealable, sans audition de l'association, sans faits concrets. Le centre emploie 12 personnes et accueille 200 apprenants. La presidente vous consulte le 10 mars 2026.",
+      "choix": [
+        "Arrete illegal sur deux points : absence de motivation precise (menace a l'ordre public sans faits concrets n'est pas une motivation suffisante) et violation des droits de la defense (aucune mise en demeure ni audition prealable). Strategie : recours gracieux immediat aupres du Maire ET, simultanement, saisine en urgence de la Chambre Administrative pour suspension de l'arrete (refere-suspension) en attendant l'examen au fond du recours pour exces de pouvoir.",
+        "L'association doit accepter la fermeture et attendre que le Maire leve l'arrete.",
+        "Deposer une plainte penale contre le Maire avant tout recours administratif.",
+        "Sans avocat au barreau, aucune demarche n'est possible."
+      ],
+      "reponse": 0,
+      "explication": "L'urgence justifie une double demarche simultanee : recours gracieux (si le Maire realise l'illegalite) ET saisine en urgence du juge administratif pour suspension immediate de l'arrete. Attendre l'issue du recours gracieux ferait perdre un temps precieux - 200 apprenants et 12 emplois sont en jeu. Le refere-suspension permet une decision rapide (parfois en 48h) sans attendre le jugement au fond."
+    }
+  ]
+}
