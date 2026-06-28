@@ -1,0 +1,1817 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>LexMada</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --navy:       #0D1B2A;
+  --navy-mid:   #162436;
+  --navy-light: #1F3349;
+  --gold:       #C9A84C;
+  --gold-light: #E2C97A;
+  --gold-glow:  rgba(201,168,76,0.18);
+  --cream:      #F5F0E8;
+  --cream-dim:  rgba(245,240,232,0.55);
+  --green-light:#52B788;
+  --orange:     #E8906A;
+  --red:        #E2685E;
+  --teal:       #2A9D8F;
+  --teal-light: #52BDB0;
+  --teal-glow:  rgba(42,157,143,0.18);
+  --purple:     #7B5EA7;
+}
+
+html, body {
+  height: 100%; width: 100%;
+  background: var(--navy);
+  color: var(--cream);
+  font-family: 'Inter', Georgia, sans-serif;
+  overflow: hidden;
+}
+
+/* ── SCREENS ── */
+.screen {
+  position: fixed; inset: 0;
+  display: none;
+  flex-direction: column;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  background: var(--navy);
+}
+.screen.active { display: flex; }
+
+/* ── SPLASH ── */
+#splash {
+  position: fixed; inset: 0; z-index: 200;
+  background: var(--navy);
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  transition: opacity 0.6s ease;
+}
+#splash.exit { opacity: 0; pointer-events: none; }
+
+.splash-emblem {
+  width: 72px; height: 72px; border-radius: 50%;
+  border: 2px solid var(--gold);
+  display: flex; align-items: center; justify-content: center;
+  margin-bottom: 28px; position: relative;
+  opacity: 0; animation: fadeIn 0.6s ease 0.3s forwards;
+}
+.splash-emblem::before {
+  content: ''; position: absolute; inset: 5px;
+  border-radius: 50%; border: 1px solid rgba(201,168,76,0.3);
+}
+.emblem-icon { font-size: 28px; }
+
+#logo-text {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 42px; font-weight: 900;
+  letter-spacing: 6px; color: var(--gold);
+  text-transform: uppercase;
+  display: flex; min-height: 54px; align-items: center;
+}
+#logo-text span {
+  display: inline-block; opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.22s ease, transform 0.22s ease;
+}
+#logo-text span.show { opacity: 1; transform: translateY(0); }
+
+.splash-sub {
+  margin-top: 14px; font-size: 11px;
+  letter-spacing: 4px; text-transform: uppercase;
+  color: var(--cream-dim);
+  opacity: 0; animation: fadeIn 0.5s ease 1.8s forwards;
+}
+
+/* ── AUTH SCREENS ── */
+.auth-wrap {
+  flex: 1; display: flex; flex-direction: column;
+  align-items: center; justify-content: flex-start;
+  padding: 60px 28px 48px; min-height: 100%;
+}
+.auth-logo {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 28px; font-weight: 900;
+  color: var(--gold); letter-spacing: 5px; text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.auth-tagline {
+  font-size: 10px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--cream-dim); margin-bottom: 40px;
+}
+.auth-card {
+  width: 100%; max-width: 380px;
+  background: var(--navy-mid);
+  border: 1px solid rgba(201,168,76,0.18);
+  border-radius: 20px; padding: 32px 28px 28px;
+}
+.auth-card-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 22px; font-weight: 700; color: var(--cream);
+  margin-bottom: 6px;
+}
+.auth-card-sub {
+  font-size: 12px; color: var(--cream-dim); margin-bottom: 28px; line-height: 1.5;
+}
+
+.field-group { margin-bottom: 18px; }
+.field-label {
+  display: block; font-size: 10px; letter-spacing: 2.5px;
+  text-transform: uppercase; color: var(--cream-dim); margin-bottom: 8px; font-weight: 500;
+}
+.field-input {
+  width: 100%; padding: 13px 14px; border-radius: 10px;
+  background: var(--navy-light); border: 1px solid rgba(255,255,255,0.08);
+  color: var(--cream); font-family: 'Inter', sans-serif; font-size: 14px;
+  outline: none; transition: border-color 0.2s ease;
+  -webkit-appearance: none;
+}
+.field-input::placeholder { color: rgba(245,240,232,0.25); }
+.field-input:focus { border-color: rgba(201,168,76,0.5); }
+.field-input.error { border-color: var(--red); }
+
+.field-error {
+  font-size: 11px; color: var(--red); margin-top: 6px;
+  display: none;
+}
+.field-error.show { display: block; }
+
+.btn-auth {
+  width: 100%; padding: 14px; border-radius: 10px; border: none;
+  background: var(--gold); color: var(--navy);
+  font-family: 'Inter', sans-serif; font-size: 12px;
+  font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase;
+  cursor: pointer; margin-top: 8px;
+  transition: opacity 0.2s ease;
+}
+.btn-auth:active { opacity: 0.85; }
+.btn-auth:disabled { opacity: 0.45; cursor: default; }
+
+.auth-divider {
+  display: flex; align-items: center; gap: 12px;
+  margin: 22px 0; color: var(--cream-dim); font-size: 11px;
+}
+.auth-divider::before, .auth-divider::after {
+  content: ''; flex: 1; height: 1px; background: rgba(255,255,255,0.07);
+}
+
+.btn-auth-ghost {
+  width: 100%; padding: 13px; border-radius: 10px;
+  border: 1px solid rgba(201,168,76,0.3); background: transparent;
+  color: var(--gold); font-family: 'Inter', sans-serif; font-size: 12px;
+  font-weight: 600; letter-spacing: 2px; text-transform: uppercase;
+  cursor: pointer;
+}
+
+.auth-notice {
+  margin-top: 22px; padding: 14px 16px; border-radius: 10px;
+  background: rgba(82,183,136,0.1); border: 1px solid rgba(82,183,136,0.3);
+  font-size: 12px; color: var(--green-light); line-height: 1.6; display: none;
+  text-align: center;
+}
+.auth-notice.show { display: block; }
+
+.auth-error-global {
+  margin-bottom: 18px; padding: 12px 14px; border-radius: 10px;
+  background: rgba(226,104,94,0.1); border: 1px solid rgba(226,104,94,0.3);
+  font-size: 12px; color: var(--red); line-height: 1.5; display: none;
+}
+.auth-error-global.show { display: block; }
+
+.auth-terms {
+  margin-top: 8px; font-size: 10.5px; color: var(--cream-dim); line-height: 1.6;
+  text-align: center;
+}
+
+/* ── HOME ── */
+.app-header {
+  padding: 52px 24px 20px; text-align: center; flex-shrink: 0;
+}
+.app-logo {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 26px; font-weight: 900;
+  color: var(--gold); letter-spacing: 5px; text-transform: uppercase;
+}
+.app-tagline {
+  margin-top: 6px; font-size: 11px;
+  letter-spacing: 3px; text-transform: uppercase; color: var(--cream-dim);
+}
+.divider {
+  width: 40px; height: 1px; background: var(--gold);
+  margin: 20px auto; opacity: 0.5;
+}
+.section-label {
+  text-align: center; font-size: 10px;
+  letter-spacing: 4px; text-transform: uppercase;
+  color: var(--cream-dim); margin-bottom: 24px;
+}
+
+/* user pill */
+.user-pill {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 14px; border-radius: 99px;
+  background: var(--navy-mid); border: 1px solid rgba(201,168,76,0.2);
+  margin: 0 auto 16px; width: fit-content; cursor: pointer;
+  position: relative;
+}
+.user-pill-avatar {
+  width: 26px; height: 26px; border-radius: 50%;
+  background: var(--gold-glow); border: 1px solid rgba(201,168,76,0.4);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 700; color: var(--gold); flex-shrink: 0;
+}
+.user-pill-name { font-size: 12px; color: var(--cream); font-weight: 500; }
+.user-pill-arrow { font-size: 10px; color: var(--cream-dim); }
+
+/* user dropdown */
+.user-dropdown {
+  position: absolute; top: calc(100% + 8px); left: 50%;
+  transform: translateX(-50%);
+  background: var(--navy-mid); border: 1px solid rgba(201,168,76,0.2);
+  border-radius: 12px; padding: 8px; min-width: 180px;
+  z-index: 100; display: none; box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+}
+.user-dropdown.open { display: block; }
+.dropdown-item {
+  padding: 10px 12px; border-radius: 8px; font-size: 12.5px;
+  color: var(--cream-dim); cursor: pointer; display: flex; align-items: center; gap: 10px;
+}
+.dropdown-item:hover { background: rgba(255,255,255,0.05); color: var(--cream); }
+.dropdown-item.danger { color: var(--red); }
+.dropdown-item.danger:hover { background: rgba(226,104,94,0.08); }
+.dropdown-sep { height: 1px; background: rgba(255,255,255,0.06); margin: 4px 0; }
+
+.levels { padding: 0 20px 48px; display: flex; flex-direction: column; gap: 16px; }
+
+/* ── LEVEL CARD ── */
+.level-card {
+  background: var(--navy-mid); border-radius: 16px;
+  border: 1px solid rgba(201,168,76,0.12); overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+.level-card.unlocked { cursor: pointer; }
+.level-card.locked { opacity: 0.55; }
+
+.card-top {
+  padding: 22px 20px 16px;
+  display: flex; align-items: center; gap: 14px;
+}
+.level-icon {
+  width: 46px; height: 46px; border-radius: 12px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 20px; flex-shrink: 0;
+}
+.accent-gold   .level-icon { background: rgba(201,168,76,0.14); }
+.accent-green  .level-icon { background: rgba(82,183,136,0.12); }
+.accent-orange .level-icon { background: rgba(232,144,106,0.12); }
+.accent-red    .level-icon { background: rgba(226,104,94,0.12); }
+.accent-teal   .level-icon { background: rgba(42,157,143,0.12); }
+
+.level-info { flex: 1; min-width: 0; }
+.level-num {
+  font-size: 9px; letter-spacing: 3px; text-transform: uppercase;
+  margin-bottom: 3px; display: block;
+}
+.accent-gold   .level-num { color: var(--gold); }
+.accent-green  .level-num { color: var(--green-light); }
+.accent-orange .level-num { color: var(--orange); }
+.accent-red    .level-num { color: var(--red); }
+.accent-teal   .level-num { color: var(--teal); }
+
+.level-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 19px; font-weight: 700; color: var(--cream);
+}
+.level-desc { margin-top: 4px; font-size: 12px; color: var(--cream-dim); line-height: 1.5; }
+.lock-badge { flex-shrink: 0; font-size: 16px; opacity: 0.45; margin-top: 2px; }
+.card-arrow { font-size: 22px; color: var(--gold); opacity: 0.5; flex-shrink: 0; align-self: center; margin-top: 2px; }
+
+.card-progress { padding: 0 20px 14px; }
+.progress-meta {
+  display: flex; justify-content: space-between;
+  font-size: 10px; color: var(--cream-dim); margin-bottom: 6px;
+}
+.progress-track {
+  height: 4px; background: rgba(255,255,255,0.07);
+  border-radius: 99px; overflow: hidden;
+}
+.progress-fill { height: 100%; border-radius: 99px; transition: width 0.4s ease; }
+.accent-gold   .progress-fill { background: var(--gold); }
+.accent-green  .progress-fill { background: var(--green-light); }
+.accent-orange .progress-fill { background: var(--orange); }
+.accent-red    .progress-fill { background: var(--red); }
+.accent-teal   .progress-fill { background: var(--teal); }
+
+.card-modules {
+  border-top: 1px solid rgba(255,255,255,0.05);
+  padding: 12px 20px 14px; display: flex; flex-direction: column; gap: 9px;
+}
+.module-row { display: flex; align-items: center; gap: 11px; font-size: 12.5px; color: var(--cream-dim); }
+.mod-dot {
+  width: 20px; height: 20px; border-radius: 50%;
+  border: 1.5px solid rgba(201,168,76,0.35);
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0; font-size: 9px; color: var(--cream-dim);
+}
+.mod-dot.done { background: var(--gold); border-color: var(--gold); color: var(--navy); }
+
+.card-cta { padding: 0 20px 20px; }
+.btn-enter {
+  width: 100%; padding: 13px; border-radius: 10px; border: none;
+  font-family: 'Inter', sans-serif; font-size: 12px;
+  font-weight: 600; letter-spacing: 2px; text-transform: uppercase;
+  cursor: pointer;
+}
+.accent-gold   .btn-enter { background: var(--gold);        color: var(--navy); }
+.accent-green  .btn-enter { background: var(--green-light); color: var(--navy); }
+.accent-orange .btn-enter { background: var(--orange);      color: var(--navy); }
+.accent-red    .btn-enter { background: var(--red);         color: var(--navy); }
+.accent-teal   .btn-enter { background: var(--teal);        color: var(--navy); }
+
+/* dev banner */
+.dev-banner {
+  background: rgba(232,144,106,0.12); border-bottom: 1px solid rgba(232,144,106,0.25);
+  padding: 8px 16px; text-align: center;
+  font-size: 10px; letter-spacing: 1.5px; color: var(--orange); flex-shrink: 0;
+}
+
+/* ── INNER SCREENS HEADER ── */
+.screen-header {
+  display: flex; align-items: center; gap: 14px;
+  padding: 52px 20px 20px; flex-shrink: 0;
+}
+.btn-back {
+  width: 36px; height: 36px; border-radius: 10px;
+  border: 1px solid rgba(201,168,76,0.25); background: transparent;
+  color: var(--gold); font-size: 20px; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.screen-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 22px; font-weight: 700; color: var(--cream);
+}
+.screen-sub { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--cream-dim); margin-top: 2px; }
+
+/* ── MODULE LIST ── */
+.module-list { padding: 4px 20px 48px; display: flex; flex-direction: column; gap: 12px; }
+.module-card {
+  background: var(--navy-mid); border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.06);
+  padding: 18px 18px 16px; cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.module-card.locked { opacity: 0.45; cursor: default; }
+.module-card-top { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+.module-num-badge {
+  width: 32px; height: 32px; border-radius: 8px;
+  background: var(--gold-glow); border: 1px solid rgba(201,168,76,0.3);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 600; color: var(--gold); flex-shrink: 0;
+}
+.module-card-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 16px; font-weight: 700; color: var(--cream);
+  flex: 1;
+}
+.lecon-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.lecon-chip {
+  background: rgba(255,255,255,0.05); border-radius: 6px;
+  padding: 4px 9px; font-size: 10.5px; color: var(--cream-dim);
+  border: 1px solid rgba(255,255,255,0.07);
+}
+.lecon-chip.chip-done { border-color: rgba(201,168,76,0.4); color: var(--gold); }
+
+/* ── LEÇON LIST ── */
+.lecon-list { padding: 4px 20px 48px; display: flex; flex-direction: column; gap: 10px; }
+.lecon-row {
+  background: var(--navy-mid); border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.06);
+  padding: 16px; cursor: pointer;
+  display: flex; align-items: center; gap: 14px;
+  -webkit-tap-highlight-color: transparent;
+}
+.lecon-row.locked { opacity: 0.4; cursor: default; }
+.lecon-index {
+  width: 28px; height: 28px; border-radius: 50%;
+  border: 1.5px solid rgba(201,168,76,0.4);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; color: var(--gold); flex-shrink: 0; font-weight: 600;
+}
+.lecon-index.done { background: var(--gold); border-color: var(--gold); color: var(--navy); }
+.lecon-title-text { flex: 1; min-width: 0; }
+.lecon-title-main { font-size: 13.5px; color: var(--cream); }
+.lecon-title-meta { font-size: 10px; color: var(--cream-dim); margin-top: 3px; letter-spacing: 1px; text-transform: uppercase; }
+.lecon-arrow { color: var(--cream-dim); font-size: 14px; opacity: 0.5; flex-shrink: 0; }
+
+/* ── LEÇON READER ── */
+.reader-loading {
+  padding: 60px 20px; text-align: center;
+  color: var(--cream-dim); font-size: 13px; line-height: 1.7;
+}
+.reader-content { padding: 4px 22px 24px; }
+.reader-kicker {
+  font-size: 10px; letter-spacing: 4px; text-transform: uppercase;
+  color: var(--gold); margin-bottom: 10px;
+}
+.reader-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 26px; font-weight: 900; line-height: 1.25;
+  color: var(--cream); margin-bottom: 24px;
+}
+.reader-section { margin-bottom: 26px; }
+.reader-section-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 17px; font-weight: 700; color: var(--gold-light);
+  margin-bottom: 10px;
+}
+.reader-section-text {
+  font-size: 14.5px; line-height: 1.85; color: var(--cream);
+  font-weight: 300;
+}
+.reader-section-text + .reader-section-text { margin-top: 12px; }
+
+.reader-box {
+  margin-top: 14px; padding: 16px 18px;
+  border-radius: 12px; border-left: 3px solid var(--gold);
+  background: var(--navy-mid);
+}
+.reader-box-label {
+  font-size: 9.5px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--gold); margin-bottom: 8px; font-weight: 600;
+}
+.reader-box-text { font-size: 13.5px; line-height: 1.7; color: var(--cream-dim); }
+.reader-box.example { border-left-color: var(--green-light); }
+.reader-box.example .reader-box-label { color: var(--green-light); }
+
+.reader-footer { padding: 8px 22px 48px; }
+.btn-primary {
+  width: 100%; padding: 16px; border-radius: 12px; border: none;
+  background: var(--gold); color: var(--navy);
+  font-family: 'Inter', sans-serif; font-size: 12.5px;
+  font-weight: 600; letter-spacing: 2.5px; text-transform: uppercase;
+  cursor: pointer; -webkit-tap-highlight-color: transparent;
+}
+
+/* ── QUIZ / EXERCICE ── */
+.quiz-header { padding: 52px 20px 16px; flex-shrink: 0; }
+.quiz-header-top { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; }
+.quiz-progress-wrap { flex: 1; }
+.quiz-progress-meta {
+  display: flex; justify-content: space-between;
+  font-size: 10px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--cream-dim); margin-bottom: 6px;
+}
+.quiz-progress-track {
+  height: 5px; background: rgba(255,255,255,0.07);
+  border-radius: 99px; overflow: hidden;
+}
+.quiz-progress-fill {
+  height: 100%; border-radius: 99px; background: var(--gold);
+  transition: width 0.35s ease;
+}
+
+/* hearts */
+.quiz-hearts {
+  display: flex; gap: 3px; flex-shrink: 0;
+  font-size: 16px; line-height: 1; padding-bottom: 2px;
+}
+.quiz-hearts .heart-lost { opacity: 0.25; }
+
+/* review modal */
+#review-modal {
+  position: fixed; inset: 0; z-index: 300;
+  background: rgba(13,27,42,0.93);
+  display: none; align-items: center; justify-content: center; padding: 24px;
+}
+#review-modal.show { display: flex; }
+.review-box {
+  margin: 18px 0 26px; padding: 16px 18px;
+  border-radius: 12px; border-left: 3px solid var(--gold);
+  background: var(--navy); text-align: left;
+}
+.review-box-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 14px; font-weight: 700; color: var(--gold-light); margin-bottom: 8px;
+}
+.review-box-text { font-size: 12.5px; line-height: 1.7; color: var(--cream-dim); }
+
+.quiz-body { padding: 8px 22px 24px; flex: 1; }
+.quiz-question {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 19px; font-weight: 700; line-height: 1.45;
+  color: var(--cream); margin-bottom: 28px;
+}
+.quiz-choices { display: flex; flex-direction: column; gap: 12px; }
+.quiz-choice {
+  background: var(--navy-mid); border: 1.5px solid rgba(255,255,255,0.08);
+  border-radius: 12px; padding: 15px 16px;
+  font-size: 13.5px; color: var(--cream); line-height: 1.5;
+  cursor: pointer; -webkit-tap-highlight-color: transparent;
+  display: flex; align-items: center; gap: 12px;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+.quiz-choice .choice-letter {
+  width: 24px; height: 24px; border-radius: 50%;
+  border: 1.5px solid rgba(255,255,255,0.15);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 600; color: var(--cream-dim); flex-shrink: 0;
+}
+.quiz-choice.disabled { pointer-events: none; }
+.quiz-choice.correct { border-color: var(--green-light); background: rgba(82,183,136,0.1); }
+.quiz-choice.correct .choice-letter { background: var(--green-light); border-color: var(--green-light); color: var(--navy); }
+.quiz-choice.wrong { border-color: var(--red); background: rgba(226,104,94,0.08); }
+.quiz-choice.wrong .choice-letter { background: var(--red); border-color: var(--red); color: var(--navy); }
+
+.hint-box {
+  margin-top: 20px; padding: 14px 16px; border-radius: 12px;
+  background: var(--navy-mid); border-left: 3px solid var(--orange);
+  font-size: 13px; line-height: 1.6; color: var(--cream-dim);
+  animation: slideIn 0.3s ease;
+}
+.hint-box-label {
+  font-size: 9.5px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--orange); margin-bottom: 6px; font-weight: 600;
+}
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.feedback-panel {
+  margin-top: 22px; padding: 18px; border-radius: 14px;
+  animation: slideIn 0.3s ease;
+}
+.feedback-panel.success { background: rgba(82,183,136,0.1); border: 1px solid rgba(82,183,136,0.35); }
+.feedback-panel.reveal  { background: rgba(201,168,76,0.08); border: 1px solid rgba(201,168,76,0.35); }
+.feedback-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 15px; font-weight: 700; margin-bottom: 8px;
+}
+.feedback-panel.success .feedback-title { color: var(--green-light); }
+.feedback-panel.reveal  .feedback-title { color: var(--gold); }
+.feedback-text { font-size: 13px; line-height: 1.7; color: var(--cream-dim); }
+
+.quiz-footer { padding: 8px 22px 48px; }
+
+/* bouton revoir leçon depuis quiz */
+.btn-review-lecon {
+  display: block; width: calc(100% - 40px); margin: 0 20px 10px;
+  padding: 10px; border-radius: 10px;
+  border: 1px solid rgba(201,168,76,0.3); background: transparent;
+  color: var(--gold); font-family: 'Inter', sans-serif; font-size: 11px;
+  font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase;
+  cursor: pointer; text-align: center;
+}
+
+/* badge modal */
+#badge-modal {
+  position: fixed; inset: 0; z-index: 300;
+  background: rgba(13,27,42,0.93);
+  display: none; align-items: center; justify-content: center; padding: 24px;
+}
+#badge-modal.show { display: flex; }
+.badge-card {
+  background: var(--navy-mid); border: 1px solid var(--gold);
+  border-radius: 24px; padding: 40px 28px; text-align: center;
+  max-width: 340px; width: 100%;
+}
+.badge-glow {
+  width: 100px; height: 100px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(201,168,76,0.3) 0%, transparent 70%);
+  display: flex; align-items: center; justify-content: center;
+  margin: 0 auto 22px; font-size: 48px;
+}
+.badge-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 21px; font-weight: 700; color: var(--gold); margin-bottom: 6px;
+}
+.badge-level { font-size: 9px; letter-spacing: 4px; text-transform: uppercase; color: var(--cream-dim); margin-bottom: 14px; }
+.badge-desc { font-size: 12.5px; color: var(--cream-dim); line-height: 1.6; margin-bottom: 26px; }
+.btn-close-badge {
+  width: 100%; padding: 13px; border-radius: 10px;
+  border: 1px solid var(--gold); background: transparent;
+  color: var(--gold); font-family: 'Inter', sans-serif;
+  font-size: 11px; font-weight: 600; letter-spacing: 2px;
+  text-transform: uppercase; cursor: pointer;
+}
+
+/* lecon complete modal */
+#lecon-complete-modal {
+  position: fixed; inset: 0; z-index: 300;
+  background: rgba(13,27,42,0.93);
+  display: none; align-items: center; justify-content: center; padding: 24px;
+}
+#lecon-complete-modal.show { display: flex; }
+.lc-card {
+  background: var(--navy-mid); border: 1px solid rgba(201,168,76,0.35);
+  border-radius: 24px; padding: 36px 28px; text-align: center;
+  max-width: 340px; width: 100%;
+}
+.lc-icon { font-size: 44px; margin-bottom: 18px; }
+.lc-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 19px; font-weight: 700; color: var(--cream); margin-bottom: 8px;
+}
+.lc-desc { font-size: 12.5px; color: var(--cream-dim); line-height: 1.6; margin-bottom: 26px; }
+
+/* particles */
+.particles { position: fixed; inset: 0; pointer-events: none; z-index: 301; overflow: hidden; }
+.particle {
+  position: absolute; border-radius: 50%;
+  animation: fly var(--dur) ease forwards;
+  left: var(--x); top: 100%; opacity: 0;
+}
+@keyframes fly {
+  0%   { opacity: 1; transform: translateY(0) scale(1); }
+  100% { opacity: 0; transform: translateY(var(--vy)) scale(0); }
+}
+@keyframes fadeIn { to { opacity: 1; } }
+</style>
+</head>
+<body>
+
+<!-- SPLASH -->
+<div id="splash">
+  <div class="splash-emblem"><span class="emblem-icon">⚖️</span></div>
+  <div id="logo-text"></div>
+  <p class="splash-sub">Droit · Formation · Madagascar</p>
+</div>
+
+<!-- AUTH : INSCRIPTION -->
+<div class="screen" id="screen-register">
+  <div class="auth-wrap">
+    <div class="auth-logo">LexMada</div>
+    <div class="auth-tagline">Droit · Formation · Madagascar</div>
+    <div class="auth-card">
+      <div class="auth-card-title">Créer un compte</div>
+      <div class="auth-card-sub">Votre progression sera sauvegardée et synchronisée.</div>
+      <div class="auth-error-global" id="reg-error"></div>
+      <div class="field-group">
+        <label class="field-label">Prénom et nom</label>
+        <input class="field-input" id="reg-name" type="text" placeholder="Jean Rakoto" autocomplete="name">
+        <div class="field-error" id="reg-name-err">Veuillez entrer votre nom.</div>
+      </div>
+      <div class="field-group">
+        <label class="field-label">Adresse e-mail</label>
+        <input class="field-input" id="reg-email" type="email" placeholder="vous@exemple.com" autocomplete="email">
+        <div class="field-error" id="reg-email-err">Adresse e-mail invalide.</div>
+      </div>
+      <div class="field-group">
+        <label class="field-label">Mot de passe</label>
+        <input class="field-input" id="reg-password" type="password" placeholder="Au moins 8 caractères" autocomplete="new-password">
+        <div class="field-error" id="reg-pass-err">Au moins 8 caractères requis.</div>
+      </div>
+      <button class="btn-auth" id="btn-register" onclick="handleRegister()">Créer mon compte</button>
+      <div class="auth-notice" id="reg-success">
+        ✉️ Un e-mail de confirmation a été envoyé. Vérifiez votre boîte de réception pour activer votre compte.
+      </div>
+      <div class="auth-terms">En créant un compte, vous acceptez nos conditions d'utilisation.</div>
+      <div class="auth-divider">ou</div>
+      <button class="btn-auth-ghost" onclick="showScreen('screen-login')">Se connecter</button>
+    </div>
+  </div>
+</div>
+
+<!-- AUTH : CONNEXION -->
+<div class="screen" id="screen-login">
+  <div class="auth-wrap">
+    <div class="auth-logo">LexMada</div>
+    <div class="auth-tagline">Droit · Formation · Madagascar</div>
+    <div class="auth-card">
+      <div class="auth-card-title">Connexion</div>
+      <div class="auth-card-sub">Reprenez là où vous en étiez.</div>
+      <div class="auth-error-global" id="login-error"></div>
+      <div class="field-group">
+        <label class="field-label">Adresse e-mail</label>
+        <input class="field-input" id="login-email" type="email" placeholder="vous@exemple.com" autocomplete="email">
+      </div>
+      <div class="field-group">
+        <label class="field-label">Mot de passe</label>
+        <input class="field-input" id="login-password" type="password" placeholder="••••••••" autocomplete="current-password">
+      </div>
+      <button class="btn-auth" onclick="handleLogin()">Se connecter</button>
+      <div class="auth-divider">ou</div>
+      <button class="btn-auth-ghost" onclick="showScreen('screen-register')">Créer un compte</button>
+    </div>
+  </div>
+</div>
+
+<!-- HOME -->
+<div class="screen" id="screen-home">
+  <div class="dev-banner">⚙️ MODE ÉDITION — Toutes les leçons sont accessibles</div>
+  <div class="app-header">
+    <div class="app-logo">LexMada</div>
+    <div class="app-tagline">Votre parcours juridique</div>
+  </div>
+
+  <div class="user-pill" id="user-pill" onclick="toggleDropdown()">
+    <div class="user-pill-avatar" id="user-avatar">?</div>
+    <div class="user-pill-name"   id="user-name-display">Mon compte</div>
+    <div class="user-pill-arrow">▾</div>
+    <div class="user-dropdown" id="user-dropdown">
+      <div class="dropdown-item" onclick="event.stopPropagation();showProfile()">👤 &nbsp;Mon profil</div>
+      <div class="dropdown-sep"></div>
+      <div class="dropdown-item danger" onclick="event.stopPropagation();handleLogout()">↩ &nbsp;Se déconnecter</div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+  <p class="section-label">Choisissez votre niveau</p>
+  <div class="levels" id="levels-container"></div>
+</div>
+
+<!-- MODULES -->
+<div class="screen" id="screen-modules">
+  <div class="screen-header">
+    <button class="btn-back" onclick="goBack('screen-home')">‹</button>
+    <div>
+      <div class="screen-title" id="mod-screen-title">Modules</div>
+      <div class="screen-sub"   id="mod-screen-sub"></div>
+    </div>
+  </div>
+  <div class="module-list" id="module-list-container"></div>
+</div>
+
+<!-- LEÇONS -->
+<div class="screen" id="screen-lecons">
+  <div class="screen-header">
+    <button class="btn-back" onclick="goBack('screen-modules')">‹</button>
+    <div>
+      <div class="screen-title" id="lecon-screen-title">Leçons</div>
+      <div class="screen-sub"   id="lecon-screen-sub"></div>
+    </div>
+  </div>
+  <div class="lecon-list" id="lecon-list-container"></div>
+</div>
+
+<!-- LEÇON READER -->
+<div class="screen" id="screen-reader">
+  <div class="screen-header">
+    <button class="btn-back" onclick="goBack('screen-lecons')">‹</button>
+    <div>
+      <div class="screen-title" id="reader-screen-title">Leçon</div>
+      <div class="screen-sub"   id="reader-screen-sub"></div>
+    </div>
+  </div>
+  <div class="reader-content" id="reader-content"></div>
+  <div class="reader-footer">
+    <button class="btn-primary" id="btn-start-quiz" onclick="startQuiz()">Commencer le quiz →</button>
+  </div>
+</div>
+
+<!-- QUIZ / EXERCICE -->
+<div class="screen" id="screen-quiz">
+  <div class="quiz-header">
+    <div class="quiz-header-top">
+      <button class="btn-back" onclick="goBack('screen-lecons')">‹</button>
+      <div class="quiz-progress-wrap">
+        <div class="quiz-progress-meta">
+          <span id="quiz-type-label">Quiz</span>
+          <span id="quiz-progress-text">1 / 50</span>
+        </div>
+        <div class="quiz-progress-track"><div class="quiz-progress-fill" id="quiz-progress-fill"></div></div>
+      </div>
+      <div class="quiz-hearts" id="quiz-hearts"></div>
+    </div>
+    <button class="btn-review-lecon" onclick="reviewLeconFromQuiz()">📖 Revoir la leçon</button>
+  </div>
+  <div class="quiz-body">
+    <div class="quiz-question" id="quiz-question"></div>
+    <div class="quiz-choices"  id="quiz-choices"></div>
+    <div id="quiz-hint-area"></div>
+    <div id="quiz-feedback-area"></div>
+  </div>
+  <div class="quiz-footer">
+    <button class="btn-primary" id="btn-quiz-next" style="display:none" onclick="nextQuestion()">Continuer →</button>
+  </div>
+</div>
+
+<!-- RAPPEL DE COURS -->
+<div id="review-modal">
+  <div class="lc-card" style="max-height:88vh;overflow-y:auto;-webkit-overflow-scrolling:touch;">
+    <div class="lc-icon">📖</div>
+    <div class="lc-title">Pause révision</div>
+    <div class="lc-desc">Vous avez perdu toutes vos vies. Relisez le cours avant de continuer.</div>
+    <div id="review-box"></div>
+    <button class="btn-primary" onclick="closeReview()" style="margin-top:8px;">J'ai relu, je continue →</button>
+  </div>
+</div>
+
+<!-- LEÇON COMPLETE -->
+<div id="lecon-complete-modal">
+  <div class="lc-card">
+    <div class="lc-icon">📘</div>
+    <div class="lc-title" id="lc-title">Leçon terminée !</div>
+    <div class="lc-desc"  id="lc-desc">Vous avez terminé les quiz et exercices de cette leçon.</div>
+    <button class="btn-primary" onclick="closeLeconComplete()" id="lc-btn">Continuer →</button>
+  </div>
+</div>
+
+<!-- BADGE -->
+<div id="badge-modal">
+  <div class="badge-card">
+    <div class="badge-glow"  id="badge-icon">🏅</div>
+    <div class="badge-title" id="badge-title">Badge</div>
+    <div class="badge-level" id="badge-level">Complété</div>
+    <div class="badge-desc"  id="badge-desc"></div>
+    <button class="btn-close-badge" onclick="closeBadge()">Continuer</button>
+  </div>
+</div>
+<div class="particles" id="particles"></div>
+
+<script>
+/* ═══════════════════════════════════════════════════════════════
+   AUTH LAYER — standalone localStorage
+   ═══════════════════════════════════════════════════════════════ */
+
+const AUTH_KEY  = 'lexmada_users';
+const SESS_KEY  = 'lexmada_session';
+const QUIZ_KEY  = 'lexmada_quiz_pos'; // sauvegarde de position quiz, indépendante de la session
+
+function getUsers() {
+  try { return JSON.parse(localStorage.getItem(AUTH_KEY) || '{}'); } catch { return {}; }
+}
+function saveUsers(u) { localStorage.setItem(AUTH_KEY, JSON.stringify(u)); }
+
+function getSession() {
+  try { return JSON.parse(localStorage.getItem(SESS_KEY)); } catch { return null; }
+}
+function saveSession(user) { localStorage.setItem(SESS_KEY, JSON.stringify(user)); }
+function clearSession()    { localStorage.removeItem(SESS_KEY); }
+
+function authRegister(name, email, password) {
+  const users = getUsers();
+  const key = email.toLowerCase().trim();
+  if (users[key]) return { error: 'Un compte existe déjà avec cet e-mail.' };
+  const id = 'u_' + Date.now();
+  const user = { id, name: name.trim(), email: key, password, confirmed: false, progress: {}, lastLecon: null };
+  users[key] = user;
+  saveUsers(users);
+  console.info('[LexMada] E-mail de confirmation simulé → ' + key);
+  return { user };
+}
+
+function authLogin(email, password) {
+  const users = getUsers();
+  const key = email.toLowerCase().trim();
+  const user = users[key];
+  if (!user) return { error: 'Aucun compte trouvé avec cet e-mail.' };
+  if (user.password !== password) return { error: 'Mot de passe incorrect.' };
+  saveSession(user);
+  return { user };
+}
+
+function authLogout() { clearSession(); }
+
+function saveProgress(quizPos) {
+  try {
+    // Sauvegarde directe dans localStorage (survit à la fermeture de l'app)
+    if (quizPos) {
+      localStorage.setItem(QUIZ_KEY, JSON.stringify(quizPos));
+    } else {
+      localStorage.removeItem(QUIZ_KEY);
+    }
+    const sess = getSession();
+    if (!sess || !sess.email) return;
+    const users = getUsers();
+    const key = sess.email;
+    if (!users[key]) return;
+    users[key].progress  = Object.fromEntries([...done].map(k => [k, true]));
+    users[key].lastLecon = { fi: curNiveau, mi: curModule, li: curLecon };
+    if (quizPos) users[key].quizPos = quizPos;
+    else delete users[key].quizPos;
+    saveUsers(users);
+    saveSession(users[key]);
+  } catch(e) { console.warn('[saveProgress]', e); }
+}
+
+function loadProgress(user) {
+  if (!user) return;
+  if (user.progress) Object.keys(user.progress).forEach(k => done.add(k));
+  if (user.lastLecon) {
+    const { fi, mi, li } = user.lastLecon;
+    curNiveau = fi; curModule = mi; curLecon = li;
+  }
+}
+
+function handleRegister() {
+  clearAuthErrors();
+  const name  = document.getElementById('reg-name').value.trim();
+  const email = document.getElementById('reg-email').value.trim();
+  const pass  = document.getElementById('reg-password').value;
+  let valid = true;
+
+  if (!name)  { showFieldErr('reg-name-err', 'reg-name'); valid = false; }
+  if (!isValidEmail(email)) { showFieldErr('reg-email-err', 'reg-email'); valid = false; }
+  if (pass.length < 8) { showFieldErr('reg-pass-err', 'reg-password'); valid = false; }
+  if (!valid) return;
+
+  const btn = document.getElementById('btn-register');
+  btn.disabled = true; btn.textContent = 'Création…';
+
+  setTimeout(() => {
+    const result = authRegister(name, email, pass);
+    btn.disabled = false; btn.textContent = 'Créer mon compte';
+    if (result.error) {
+      showGlobalErr('reg-error', result.error); return;
+    }
+    document.getElementById('reg-success').classList.add('show');
+    setTimeout(() => {
+      const r = authLogin(email, pass);
+      if (r.user) { loadProgress(r.user); launchHome(); }
+    }, 2000);
+  }, 600);
+}
+
+function handleLogin() {
+  clearAuthErrors();
+  const email = document.getElementById('login-email').value.trim();
+  const pass  = document.getElementById('login-password').value;
+  if (!email || !pass) { showGlobalErr('login-error', 'Remplissez tous les champs.'); return; }
+
+  const result = authLogin(email, pass);
+  if (result.error) { showGlobalErr('login-error', result.error); return; }
+  loadProgress(result.user);
+  launchHome();
+}
+
+function handleLogout() {
+  closeDropdown();
+  authLogout();
+  done.clear();
+  curNiveau = 0; curModule = 0; curLecon = 0;
+  showScreen('screen-login');
+}
+
+function showProfile() {
+  closeDropdown();
+  const sess = getSession();
+  if (!sess) return;
+  alert('👤 ' + sess.name + '\n✉️ ' + sess.email + '\n\n✅ ' + done.size + ' leçon(s) terminée(s)');
+}
+
+function isValidEmail(e) { return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e); }
+
+function showFieldErr(errId, inputId) {
+  document.getElementById(errId).classList.add('show');
+  document.getElementById(inputId).classList.add('error');
+}
+function showGlobalErr(id, msg) {
+  const el = document.getElementById(id);
+  el.textContent = msg; el.classList.add('show');
+}
+function clearAuthErrors() {
+  document.querySelectorAll('.field-error').forEach(e => e.classList.remove('show'));
+  document.querySelectorAll('.field-input').forEach(e => e.classList.remove('error'));
+  document.querySelectorAll('.auth-error-global').forEach(e => e.classList.remove('show'));
+}
+
+function toggleDropdown() {
+  document.getElementById('user-dropdown').classList.toggle('open');
+}
+function closeDropdown() {
+  document.getElementById('user-dropdown').classList.remove('open');
+}
+document.addEventListener('click', e => {
+  if (!document.getElementById('user-pill').contains(e.target)) closeDropdown();
+});
+
+function launchHome() {
+  const sess = getSession();
+  if (sess) {
+    const initials = sess.name.split(' ').map(w => w[0]).join('').toUpperCase().slice(0,2);
+    document.getElementById('user-avatar').textContent       = initials;
+    document.getElementById('user-name-display').textContent = sess.name.split(' ')[0];
+  }
+  buildHome();
+  showScreen('screen-home');
+}
+
+/* ═══════════════════════════════════════════
+   DATA
+   ═══════════════════════════════════════════ */
+const formations = [
+  {
+    niveau: "Débutant", icon: "📖", accent: "accent-gold",
+    desc: "Les fondements du droit. Aucun prérequis.",
+    badge: { icon:"🏅", title:"Badge Initié du Droit", desc:"Vous maîtrisez les fondements du droit. Ce badge honore votre premier pas sérieux dans le monde juridique." },
+    modules: [
+      { id:1,  titre:"Qu'est-ce que le droit ?",                                          lecons: [{ titre: "Qu'est-ce que le droit ?",                           fichier: "data/niveau1-module1-lecon1.json"  }] },
+      { id:2,  titre:"Les caractères de la règle de droit",                               lecons: [{ titre: "Les caractères de la règle de droit",                fichier: "data/niveau1-module2-lecon1.json"  }] },
+      { id:3,  titre:"Les branches du droit",                                             lecons: [{ titre: "Les branches du droit",                              fichier: "data/niveau1-module3-lecon1.json"  }] },
+      { id:4,  titre:"Les sources directes du droit",                                     lecons: [{ titre: "Les sources directes du droit",                      fichier: "data/niveau1-module4-lecon1.json"  }] },
+      { id:5,  titre:"Les sources d'interprétation du droit",                             lecons: [{ titre: "Les sources d'interprétation du droit",              fichier: "data/niveau1-module5-lecon1.json"  }] },
+      { id:6,  titre:"L'organisation juridictionnelle",                                   lecons: [{ titre: "L'organisation juridictionnelle",                    fichier: "data/niveau1-module6-lecon1.json"  }] },
+      { id:7,  titre:"Le domaine d'application de la règle de droit",                    lecons: [{ titre: "Le domaine d'application de la règle de droit",      fichier: "data/niveau1-module7-lecon1.json"  }] },
+      { id:8,  titre:"Les droits subjectifs : classifications",                           lecons: [{ titre: "Les droits subjectifs : classifications",            fichier: "data/niveau1-module8-lecon1.json"  }] },
+      { id:9,  titre:"La preuve des droits subjectifs",                                   lecons: [{ titre: "La preuve des droits subjectifs",                    fichier: "data/niveau1-module9-lecon1.json"  }] },
+      { id:10, titre:"L'action en justice",                                               lecons: [{ titre: "L'action en justice",                                fichier: "data/niveau1-module10-lecon1.json" }] },
+      { id:11, titre:"La personnalité juridique — personnes physiques et morales",        lecons: [{ titre: "La personnalité juridique",                          fichier: "data/niveau1-module11-lecon1.json" }] },
+      { id:12, titre:"Les actes juridiques — contrats et actes unilatéraux",              lecons: [{ titre: "Les actes juridiques",                               fichier: "data/niveau1-module12-lecon1.json" }] },
+      { id:13, titre:"Les faits juridiques — responsabilité et quasi-contrats",           lecons: [{ titre: "Les faits juridiques",                               fichier: "data/niveau1-module13-lecon1.json" }] },
+      { id:14, titre:"Le patrimoine — composition et caractères",                         lecons: [{ titre: "Le patrimoine",                                      fichier: "data/niveau1-module14-lecon1.json" }] },
+      { id:15, titre:"Les biens — classification et régime juridique",                    lecons: [{ titre: "Les biens",                                          fichier: "data/niveau1-module15-lecon1.json" }] },
+      { id:16, titre:"La propriété — définition, attributs et limites",                   lecons: [{ titre: "La propriété",                                       fichier: "data/niveau1-module16-lecon1.json" }] },
+      { id:17, titre:"Les obligations — naissance et classification",                     lecons: [{ titre: "Les obligations",                                    fichier: "data/niveau1-module17-lecon1.json" }] },
+      { id:18, titre:"L'extinction des obligations — paiement, prescription, compensation", lecons: [{ titre: "L'extinction des obligations",                    fichier: "data/niveau1-module18-lecon1.json" }] },
+      { id:19, titre:"La nullité des actes juridiques — causes et effets",                lecons: [{ titre: "La nullité des actes juridiques",                    fichier: "data/niveau1-module19-lecon1.json" }] },
+      { id:20, titre:"Introduction au droit processuel — comment fonctionne un procès",   lecons: [{ titre: "Introduction au droit processuel",                   fichier: "data/niveau1-module20-lecon1.json" }] }
+    ]
+  },
+  {
+    niveau: "Intermédiaire", icon: "⚖️", accent: "accent-green",
+    desc: "Droit des affaires, procédures, contrats avancés.",
+    badge: { icon:"⚖️", title:"Badge Juriste en Herbe", desc:"Vous naviguez désormais dans des notions complexes. Ce badge témoigne de votre persévérance." },
+    modules: [
+      { id:1,  titre:"Droit des sociétés — généralités",                         lecons: [{ titre: "Droit des sociétés",                    fichier: "data/niveau2-module1-lecon1.json"  }] },
+      { id:2,  titre:"La SARL et la SA",                                          lecons: [{ titre: "La SARL et la SA",                       fichier: "data/niveau2-module2-lecon1.json"  }] },
+      { id:3,  titre:"Le contrat — formation et validité",                        lecons: [{ titre: "Le contrat",                             fichier: "data/niveau2-module3-lecon1.json"  }] },
+      { id:4,  titre:"Les effets et l'inexécution du contrat",                    lecons: [{ titre: "Les effets du contrat",                  fichier: "data/niveau2-module4-lecon1.json"  }] },
+      { id:5,  titre:"La responsabilité civile contractuelle",                    lecons: [{ titre: "Responsabilité contractuelle",           fichier: "data/niveau2-module5-lecon1.json"  }] },
+      { id:6,  titre:"La responsabilité civile délictuelle",                      lecons: [{ titre: "Responsabilité délictuelle",             fichier: "data/niveau2-module6-lecon1.json"  }] },
+      { id:7,  titre:"Le droit du travail — le contrat de travail",               lecons: [{ titre: "Le contrat de travail",                  fichier: "data/niveau2-module7-lecon1.json"  }] },
+      { id:8,  titre:"Le licenciement et ses conditions",                         lecons: [{ titre: "Le licenciement",                        fichier: "data/niveau2-module8-lecon1.json"  }] },
+      { id:9,  titre:"Les conventions collectives",                               lecons: [{ titre: "Les conventions collectives",            fichier: "data/niveau2-module9-lecon1.json"  }] },
+      { id:10, titre:"Le droit commercial — actes de commerce",                   lecons: [{ titre: "Les actes de commerce",                  fichier: "data/niveau2-module10-lecon1.json" }] },
+      { id:11, titre:"Le fonds de commerce",                                      lecons: [{ titre: "Le fonds de commerce",                   fichier: "data/niveau2-module11-lecon1.json" }] },
+      { id:12, titre:"Les procédures collectives — redressement et faillite",     lecons: [{ titre: "Les procédures collectives",             fichier: "data/niveau2-module12-lecon1.json" }] },
+      { id:13, titre:"Le droit de la consommation",                               lecons: [{ titre: "Le droit de la consommation",            fichier: "data/niveau2-module13-lecon1.json" }] },
+      { id:14, titre:"La propriété intellectuelle",                               lecons: [{ titre: "La propriété intellectuelle",            fichier: "data/niveau2-module14-lecon1.json" }] },
+      { id:15, titre:"Le droit bancaire — les opérations de banque",              lecons: [{ titre: "Le droit bancaire",                      fichier: "data/niveau2-module15-lecon1.json" }] },
+      { id:16, titre:"Les sûretés — cautionnement, hypothèque, gage",             lecons: [{ titre: "Les sûretés",                            fichier: "data/niveau2-module16-lecon1.json" }] },
+      { id:17, titre:"Le droit foncier à Madagascar",                             lecons: [{ titre: "Le droit foncier",                       fichier: "data/niveau2-module17-lecon1.json" }] },
+      { id:18, titre:"Le droit de la famille — mariage et divorce",               lecons: [{ titre: "Le droit de la famille",                 fichier: "data/niveau2-module18-lecon1.json" }] },
+      { id:19, titre:"Les successions et libéralités",                            lecons: [{ titre: "Les successions et libéralités",         fichier: "data/niveau2-module19-lecon1.json" }] },
+      { id:20, titre:"Le droit fiscal — principes généraux",                      lecons: [{ titre: "Le droit fiscal",                        fichier: "data/niveau2-module20-lecon1.json" }] }
+    ]
+  },
+  {
+    niveau: "Avancé", icon: "🏛️", accent: "accent-orange",
+    desc: "Jurisprudence, droit constitutionnel, contentieux.",
+    badge: { icon:"🏛️", title:"Badge Expert LexMada", desc:"Félicitations. Vous avez atteint le sommet du parcours LexMada. Un accomplissement remarquable." },
+    modules: [
+      { id:1,  titre:"Droit constitutionnel — les institutions de Madagascar",    lecons: [{ titre: "Droit constitutionnel",                  fichier: "data/niveau3-module1-lecon1.json"  }] },
+      { id:2,  titre:"Le contrôle de constitutionnalité",                         lecons: [{ titre: "Le contrôle de constitutionnalité",      fichier: "data/niveau3-module2-lecon1.json"  }] },
+      { id:3,  titre:"Le droit administratif — l'acte administratif",             lecons: [{ titre: "Le droit administratif",                 fichier: "data/niveau3-module3-lecon1.json"  }] },
+      { id:4,  titre:"Le service public et la fonction publique",                 lecons: [{ titre: "Le service public",                      fichier: "data/niveau3-module4-lecon1.json"  }] },
+      { id:5,  titre:"Le contentieux administratif",                              lecons: [{ titre: "Le contentieux administratif",           fichier: "data/niveau3-module5-lecon1.json"  }] },
+      { id:6,  titre:"Le droit pénal général — infractions et peines",            lecons: [{ titre: "Le droit pénal général",                 fichier: "data/niveau3-module6-lecon1.json"  }] },
+      { id:7,  titre:"Le droit pénal spécial — crimes et délits courants",        lecons: [{ titre: "Le droit pénal spécial",                 fichier: "data/niveau3-module7-lecon1.json"  }] },
+      { id:8,  titre:"La procédure pénale — enquête et instruction",              lecons: [{ titre: "La procédure pénale",                    fichier: "data/niveau3-module8-lecon1.json"  }] },
+      { id:9,  titre:"Le jugement pénal et les voies de recours",                 lecons: [{ titre: "Le jugement pénal",                      fichier: "data/niveau3-module9-lecon1.json"  }] },
+      { id:10, titre:"Le droit international privé — conflits de lois",           lecons: [{ titre: "Le droit international privé",           fichier: "data/niveau3-module10-lecon1.json" }] },
+      { id:11, titre:"L'arbitrage et les modes alternatifs de règlement",         lecons: [{ titre: "L'arbitrage",                            fichier: "data/niveau3-module11-lecon1.json" }] },
+      { id:12, titre:"La jurisprudence constitutionnelle malgache",               lecons: [{ titre: "La jurisprudence constitutionnelle",     fichier: "data/niveau3-module12-lecon1.json" }] },
+      { id:13, titre:"Le droit de l'environnement à Madagascar",                  lecons: [{ titre: "Le droit de l'environnement",            fichier: "data/niveau3-module13-lecon1.json" }] },
+      { id:14, titre:"Le droit de la mer et des ressources maritimes",            lecons: [{ titre: "Le droit de la mer",                     fichier: "data/niveau3-module14-lecon1.json" }] },
+      { id:15, titre:"Le droit des investissements étrangers",                    lecons: [{ titre: "Le droit des investissements",           fichier: "data/niveau3-module15-lecon1.json" }] },
+      { id:16, titre:"Les droits fondamentaux et libertés publiques",             lecons: [{ titre: "Les droits fondamentaux",                 fichier: "data/niveau3-module16-lecon1.json" }] },
+      { id:17, titre:"Le droit humanitaire international",                        lecons: [{ titre: "Le droit humanitaire",                   fichier: "data/niveau3-module17-lecon1.json" }] },
+      { id:18, titre:"La déontologie des professions juridiques",                 lecons: [{ titre: "La déontologie",                         fichier: "data/niveau3-module18-lecon1.json" }] },
+      { id:19, titre:"La rédaction des actes juridiques",                         lecons: [{ titre: "La rédaction des actes juridiques",      fichier: "data/niveau3-module19-lecon1.json" }] },
+      { id:20, titre:"Méthodologie du cas pratique et du commentaire d'arrêt",    lecons: [{ titre: "Méthodologie",                           fichier: "data/niveau3-module20-lecon1.json" }] }
+    ]
+  },
+  {
+    niveau: "Professionnel", icon: "🎓", accent: "accent-red",
+    desc: "Pratique professionnelle, rédaction d'actes, fiscalité.",
+    badge: { icon:"🎓", title:"Badge Maître LexMada", desc:"Vous avez atteint le niveau professionnel. Votre maîtrise du droit est désormais digne des plus grands praticiens." },
+    modules: [
+      { id:1,  titre:"Rédiger une requête civile — modèles et structure",                  lecons: [{ titre: "Rédiger une requête civile",            fichier: "data/niveau4-module1-lecon1.json"  }] },
+      { id:2,  titre:"Rédiger une assignation et des conclusions",                          lecons: [{ titre: "Rédiger une assignation",                fichier: "data/niveau4-module2-lecon1.json"  }] },
+      { id:3,  titre:"Rédiger un contrat de vente — clauses essentielles",                 lecons: [{ titre: "Rédiger un contrat de vente",            fichier: "data/niveau4-module3-lecon1.json"  }] },
+      { id:4,  titre:"Rédiger un contrat de travail à Madagascar",                         lecons: [{ titre: "Rédiger un contrat de travail",          fichier: "data/niveau4-module4-lecon1.json"  }] },
+      { id:5,  titre:"Rédiger un bail commercial et un bail d'habitation",                 lecons: [{ titre: "Rédiger un bail",                        fichier: "data/niveau4-module5-lecon1.json"  }] },
+      { id:6,  titre:"Créer une SARL à Madagascar — dossier complet étape par étape",     lecons: [{ titre: "Créer une SARL",                         fichier: "data/niveau4-module6-lecon1.json"  }] },
+      { id:7,  titre:"Créer une SA — documents, capital, formalités EDBM",                lecons: [{ titre: "Créer une SA",                           fichier: "data/niveau4-module7-lecon1.json"  }] },
+      { id:8,  titre:"Créer une association — statuts, PV, déclaration préfecture",       lecons: [{ titre: "Créer une association",                  fichier: "data/niveau4-module8-lecon1.json"  }] },
+      { id:9,  titre:"Le calcul de l'IRSA — salaire, tranches, retenues",                 lecons: [{ titre: "Le calcul de l'IRSA",                    fichier: "data/niveau4-module9-lecon1.json"  }] },
+      { id:10, titre:"Le calcul de l'IRFTS et des taxes sur les revenus fonciers",        lecons: [{ titre: "Le calcul de l'IRFTS",                   fichier: "data/niveau4-module10-lecon1.json" }] },
+      { id:11, titre:"La TVA à Madagascar — calcul, déclaration, récupération",           lecons: [{ titre: "La TVA à Madagascar",                    fichier: "data/niveau4-module11-lecon1.json" }] },
+      { id:12, titre:"L'IRCM et l'IS — impôts sur les sociétés",                          lecons: [{ titre: "L'IRCM et l'IS",                         fichier: "data/niveau4-module12-lecon1.json" }] },
+      { id:13, titre:"Les charges sociales — CNaPS, OSTIE, cotisations",                  lecons: [{ titre: "Les charges sociales",                   fichier: "data/niveau4-module13-lecon1.json" }] },
+      { id:14, titre:"Le licenciement — procédure, calcul des indemnités",                lecons: [{ titre: "Le licenciement",                        fichier: "data/niveau4-module14-lecon1.json" }] },
+      { id:15, titre:"Rédiger un acte de cession de parts sociales",                      lecons: [{ titre: "Rédiger un acte de cession",             fichier: "data/niveau4-module15-lecon1.json" }] },
+      { id:16, titre:"Les formalités foncières — titre foncier, mutation, bornage",       lecons: [{ titre: "Les formalités foncières",               fichier: "data/niveau4-module16-lecon1.json" }] },
+      { id:17, titre:"Rédiger un acte de cautionnement et une hypothèque",                lecons: [{ titre: "Rédiger un acte de cautionnement",       fichier: "data/niveau4-module17-lecon1.json" }] },
+      { id:18, titre:"La procédure de recouvrement de créances",                          lecons: [{ titre: "La procédure de recouvrement",           fichier: "data/niveau4-module18-lecon1.json" }] },
+      { id:19, titre:"Rédiger un recours administratif et une plainte pénale",            lecons: [{ titre: "Rédiger un recours administratif",       fichier: "data/niveau4-module19-lecon1.json" }] },
+      { id:20, titre:"Monter un dossier complet — de la consultation au jugement",        lecons: [{ titre: "Monter un dossier complet",              fichier: "data/niveau4-module20-lecon1.json" }] }
+    ]
+  },
+  {
+    niveau: "Réalités Juridiques & Sociales", icon: "🇲🇬", accent: "accent-teal",
+    desc: "Le droit tel qu'il est vécu à Madagascar. Réflexion citoyenne.",
+    badge: { icon:"🌍", title:"Badge Citoyen Éclairé", desc:"Vous comprenez maintenant le fossé entre le droit écrit et la réalité vécue. Ce badge est celui de la lucidité et de l'engagement." },
+    modules: [
+      { id:1,  titre:"La Constitution de 2010 — texte, promesses, réalité",                          lecons: [], type: "reflexion" },
+      { id:2,  titre:"Les révisions constitutionnelles et crises politiques",                         lecons: [], type: "reflexion" },
+      { id:3,  titre:"Les institutions de la République — rôles théoriques vs réels",                lecons: [], type: "reflexion" },
+      { id:4,  titre:"L'administration publique — ministères, fokontany, décentralisation",          lecons: [], type: "reflexion" },
+      { id:5,  titre:"Les lacunes et vides juridiques à Madagascar",                                  lecons: [], type: "reflexion" },
+      { id:6,  titre:"L'inapplication des lois — causes et mécanismes",                              lecons: [], type: "reflexion" },
+      { id:7,  titre:"La justice en pratique — accès, coût, délais, barrières",                      lecons: [], type: "reflexion" },
+      { id:8,  titre:"Corruption et impunité — BIANCO, SAMIFIN, résultats réels",                    lecons: [], type: "reflexion" },
+      { id:9,  titre:"Insécurité et réponse de l'État — dahalo, zones grises",                       lecons: [], type: "reflexion" },
+      { id:10, titre:"Foncier et droit de la terre — conflits et réforme de 2005",                   lecons: [], type: "reflexion" },
+      { id:11, titre:"Droit du travail : théorie vs secteur informel",                               lecons: [], type: "reflexion" },
+      { id:12, titre:"Droit de l'environnement — bois de rose, mines, réalité",                      lecons: [], type: "reflexion" },
+      { id:13, titre:"Les droits fondamentaux en pratique — presse, grève, éducation",               lecons: [], type: "reflexion" },
+      { id:14, titre:"Le comportement des dirigeants — immunités, enrichissement, comptes",          lecons: [], type: "reflexion" },
+      { id:15, titre:"Les élections à Madagascar — cadre légal, HCC, fraudes",                       lecons: [], type: "reflexion" },
+      { id:16, titre:"La société civile et le contre-pouvoir — ONG, médias, Églises",                lecons: [], type: "reflexion" },
+      { id:17, titre:"Le droit international et Madagascar — traités ratifiés vs respectés",         lecons: [], type: "reflexion" },
+      { id:18, titre:"Les réformes en cours ou proposées",                                            lecons: [], type: "reflexion" },
+      { id:19, titre:"Citoyenneté active et recours légaux concrets",                                 lecons: [], type: "reflexion" },
+      { id:20, titre:"Vers un État de droit effectif — exemples africains, rôle de la jeunesse",     lecons: [], type: "reflexion" }
+    ]
+  }
+];
+
+const leconDataCache = {};
+
+async function loadLeconData(lecon, callback) {
+  if (!lecon.fichier) { callback(null); return; }
+  if (leconDataCache[lecon.fichier]) { callback(leconDataCache[lecon.fichier]); return; }
+  try {
+    const res = await fetch(lecon.fichier);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    leconDataCache[lecon.fichier] = data;
+    callback(data);
+  } catch (err) {
+    console.error('Erreur de chargement de', lecon.fichier, err);
+    callback({ error: true });
+  }
+}
+
+/* ═══════════════════════════════════════════
+   STATE
+   ═══════════════════════════════════════════ */
+const done = new Set();
+let curNiveau = 0, curModule = 0, curLecon = 0;
+let quizState = { type: null, questions: [], index: 0, wrongCount: 0, answered: false };
+
+/* ═══════════════════════════════════════════
+   NAVIGATION
+   ═══════════════════════════════════════════ */
+function showScreen(id) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  document.getElementById(id).scrollTop = 0;
+}
+function goBack(to) { showScreen(to); }
+
+/* ═══════════════════════════════════════════
+   SPLASH
+   ═══════════════════════════════════════════ */
+const logoEl = document.getElementById('logo-text');
+"LEXMADA".split('').forEach(ch => {
+  const s = document.createElement('span');
+  s.textContent = ch; logoEl.appendChild(s);
+});
+logoEl.querySelectorAll('span').forEach((s,i) =>
+  setTimeout(() => s.classList.add('show'), 700 + i*130));
+
+setTimeout(() => {
+  document.getElementById('splash').classList.add('exit');
+  setTimeout(() => {
+    document.getElementById('splash').style.display = 'none';
+    const sess = getSession();
+    if (sess) {
+      loadProgress(sess);
+      launchHome();
+    } else {
+      showScreen('screen-login');
+    }
+  }, 650);
+}, 4000);
+
+/* ═══════════════════════════════════════════
+   HELPERS
+   ═══════════════════════════════════════════ */
+function leconKey(fi, mid, li) { return fi+'-'+mid+'-'+li; }
+function isLeconDone(fi, mid, li) { return done.has(leconKey(fi,mid,li)); }
+
+function isLeconUnlocked(fi, mid, li) {
+  return true; // MODE ÉDITION
+}
+
+function unlockNextLecon(fi, mi, li) {
+  const f = formations[fi];
+  const m = f.modules[mi];
+  if (li + 1 < m.lecons.length) {
+    console.log('[unlock] Prochaine leçon débloquée :', leconKey(fi, m.id, li+1));
+  } else if (mi + 1 < f.modules.length) {
+    const nextMod = f.modules[mi+1];
+    if (nextMod.lecons.length > 0)
+      console.log('[unlock] Premier module suivant débloqué :', leconKey(fi, nextMod.id, 0));
+  } else if (fi + 1 < formations.length) {
+    const nextF = formations[fi+1];
+    if (nextF.modules.length && nextF.modules[0].lecons.length)
+      console.log('[unlock] Premier niveau suivant débloqué :', leconKey(fi+1, nextF.modules[0].id, 0));
+  }
+}
+
+/* ═══════════════════════════════════════════
+   BUILD HOME
+   ═══════════════════════════════════════════ */
+function buildHome() {
+  const container = document.getElementById('levels-container');
+  container.innerHTML = '';
+  formations.forEach((f, fi) => {
+    const totalL = f.modules.reduce((s,m) => s + m.lecons.length, 0);
+    const doneL  = f.modules.reduce((s,m) =>
+      s + m.lecons.filter((_,li) => isLeconDone(fi, m.id, li)).length, 0);
+    const pct = totalL ? Math.round(doneL/totalL*100) : 0;
+    const totalMods = f.modules.length;
+    const doneMods = f.modules.filter(m => m.lecons.length > 0 && m.lecons.every((_,li) => isLeconDone(fi, m.id, li))).length;
+    const availMods = f.modules.filter(m => m.lecons.length > 0).length;
+
+    const card = document.createElement('div');
+    card.className = 'level-card ' + f.accent + ' unlocked';
+    card.onclick = () => openNiveau(fi);
+
+    const statusText = doneL === 0
+      ? availMods + ' module' + (availMods > 1 ? 's' : '') + ' disponible' + (availMods > 1 ? 's' : '')
+      : pct === 100
+        ? '✓ Niveau complété'
+        : doneMods + ' / ' + availMods + ' modules terminés';
+
+    card.innerHTML =
+      '<div class="card-top">'+
+        '<div class="level-icon">'+f.icon+'</div>'+
+        '<div class="level-info">'+
+          '<span class="level-num">Niveau 0'+(fi+1)+'</span>'+
+          '<div class="level-title">'+f.niveau+'</div>'+
+          '<div class="level-desc">'+f.desc+'</div>'+
+        '</div>'+
+        '<div class="card-arrow">›</div>'+
+      '</div>'+
+      '<div class="card-progress">'+
+        '<div class="progress-meta">'+
+          '<span>'+statusText+'</span>'+
+          '<span>'+pct+'%</span>'+
+        '</div>'+
+        '<div class="progress-track"><div class="progress-fill" style="width:'+pct+'%"></div></div>'+
+      '</div>'+
+      '<div class="card-cta"><button class="btn-enter" onclick="event.stopPropagation();openNiveau('+fi+')">'+
+        (doneL===0?'Commencer →':pct===100?'Revoir →':'Continuer →')+
+      '</button></div>';
+
+    container.appendChild(card);
+  });
+}
+
+/* ═══════════════════════════════════════════
+   NIVEAU → MODULES
+   ═══════════════════════════════════════════ */
+function openNiveau(fi) {
+  curNiveau = fi;
+  const f = formations[fi];
+  document.getElementById('mod-screen-title').textContent = f.niveau;
+  document.getElementById('mod-screen-sub').textContent = f.modules.length+' module'+(f.modules.length>1?'s':'');
+  const c = document.getElementById('module-list-container');
+  c.innerHTML = '';
+  f.modules.forEach((m,mi) => {
+    const hasContent = m.lecons.length > 0;
+    const card = document.createElement('div');
+    card.className = 'module-card '+f.accent+(hasContent?'':' locked');
+    if (hasContent) card.onclick = () => openModule(fi, mi);
+    const chips = m.lecons.length
+      ? m.lecons.map((l,li) => '<span class="lecon-chip'+(isLeconDone(fi,m.id,li)?' chip-done':'')+'">'+l.titre+'</span>').join('')
+      : '<span class="lecon-chip">Contenu à venir</span>';
+    card.innerHTML =
+      '<div class="module-card-top">'+
+        '<div class="module-num-badge">'+String(m.id).padStart(2,'0')+'</div>'+
+        '<div class="module-card-title">'+m.titre+'</div>'+
+      '</div>'+
+      '<div class="lecon-chips">'+chips+'</div>';
+    c.appendChild(card);
+  });
+  showScreen('screen-modules');
+}
+
+/* ═══════════════════════════════════════════
+   MODULE → LEÇONS
+   ═══════════════════════════════════════════ */
+function openModule(fi, mi) {
+  curNiveau = fi; curModule = mi;
+  const f = formations[fi];
+  const m = f.modules[mi];
+  document.getElementById('lecon-screen-title').textContent = m.titre;
+  document.getElementById('lecon-screen-sub').textContent = m.lecons.length+' leçon'+(m.lecons.length>1?'s':'')+' — '+f.niveau;
+  const c = document.getElementById('lecon-list-container');
+  c.innerHTML = '';
+  m.lecons.forEach((l, li) => {
+    const isDone     = isLeconDone(fi, m.id, li);
+    const unlocked   = isLeconUnlocked(fi, m.id, li);
+    const row = document.createElement('div');
+    row.className = 'lecon-row' + (unlocked ? '' : ' locked');
+    if (unlocked) row.onclick = () => openReader(fi, mi, li);
+    row.innerHTML =
+      '<div class="lecon-index'+(isDone?' done':'')+'">'+( isDone?'✓':(unlocked?(li+1):'🔒'))+'</div>'+
+      '<div class="lecon-title-text">'+
+        '<div class="lecon-title-main">'+l.titre+'</div>'+
+        '<div class="lecon-title-meta">'+(isDone?'Terminé':unlocked?'Leçon + 50 quiz + 2 cas pratiques':'Verrouillé')+'</div>'+
+      '</div>'+
+      (unlocked ? '<div class="lecon-arrow">›</div>' : '');
+    c.appendChild(row);
+  });
+  showScreen('screen-lecons');
+}
+
+/* ═══════════════════════════════════════════
+   LEÇON READER
+   ═══════════════════════════════════════════ */
+function openReader(fi, mi, li) {
+  curNiveau = fi; curModule = mi; curLecon = li;
+  const f = formations[fi];
+  const m = f.modules[mi];
+  const l = m.lecons[li];
+
+  document.getElementById('reader-screen-title').textContent = 'Leçon '+(li+1);
+  document.getElementById('reader-screen-sub').textContent = m.titre+' — '+f.niveau;
+
+  const c = document.getElementById('reader-content');
+  c.innerHTML = '<div class="reader-loading">Chargement de la leçon…</div>';
+  document.getElementById('btn-start-quiz').style.display = 'none';
+
+  showScreen('screen-reader');
+  saveProgress();
+
+  loadLeconData(l, (data) => {
+    c.innerHTML = '';
+    if (!data || data.error) {
+      c.innerHTML = '<div class="reader-loading">Impossible de charger cette leçon. Vérifiez votre connexion puis réessayez.</div>';
+      return;
+    }
+
+    const kicker = document.createElement('div');
+    kicker.className = 'reader-kicker';
+    kicker.textContent = f.niveau + ' · Module ' + String(m.id).padStart(2,'0');
+    c.appendChild(kicker);
+
+    const title = document.createElement('div');
+    title.className = 'reader-title';
+    title.textContent = data.titre || l.titre;
+    c.appendChild(title);
+
+    // Normalise les deux structures JSON possibles
+    // Structure 1 (standard) : data.contenu = [{titre, texte, definition, exemple}]
+    // Structure 2 (avancée)  : data.lecon.parties = [{titre, contenu, exemple_concret}]
+    let sections = [];
+    if (data.contenu && data.contenu.length > 0) {
+      sections = data.contenu;
+    } else if (data.lecon && data.lecon.parties) {
+      sections = data.lecon.parties.map(p => ({
+        titre: p.titre,
+        texte: p.contenu,
+        exemple: p.exemple_concret || null,
+        definition: null
+      }));
+    }
+
+    if (data.lecon && data.lecon.introduction) {
+      const intro = document.createElement('div');
+      intro.className = 'reader-section';
+      intro.innerHTML = '<div class="reader-section-title">Introduction</div><div class="reader-section-text"></div>';
+      intro.querySelector('.reader-section-text').textContent = data.lecon.introduction;
+      c.appendChild(intro);
+    }
+
+    sections.forEach(sec => {
+      const wrap = document.createElement('div');
+      wrap.className = 'reader-section';
+      const st = document.createElement('div');
+      st.className = 'reader-section-title';
+      st.textContent = sec.titre;
+      wrap.appendChild(st);
+      const txt = document.createElement('div');
+      txt.className = 'reader-section-text';
+      txt.textContent = sec.texte || sec.contenu || '';
+      wrap.appendChild(txt);
+      if (sec.definition) {
+        const box = document.createElement('div');
+        box.className = 'reader-box';
+        box.innerHTML = '<div class="reader-box-label">À retenir</div><div class="reader-box-text"></div>';
+        box.querySelector('.reader-box-text').textContent = sec.definition;
+        wrap.appendChild(box);
+      }
+      if (sec.exemple || sec.exemple_concret) {
+        const box = document.createElement('div');
+        box.className = 'reader-box example';
+        box.innerHTML = '<div class="reader-box-label">Exemple</div><div class="reader-box-text"></div>';
+        box.querySelector('.reader-box-text').textContent = sec.exemple || sec.exemple_concret;
+        wrap.appendChild(box);
+      }
+      c.appendChild(wrap);
+    });
+
+    // Points clés si présents
+    if (data.lecon && data.lecon.points_cles && data.lecon.points_cles.length > 0) {
+      const box = document.createElement('div');
+      box.className = 'reader-box';
+      box.innerHTML = '<div class="reader-box-label">Points clés</div><div class="reader-box-text"></div>';
+      box.querySelector('.reader-box-text').textContent = data.lecon.points_cles.join(' | ');
+      c.appendChild(box);
+    }
+
+    const isDone = isLeconDone(fi, m.id, li);
+    const btn = document.getElementById('btn-start-quiz');
+    // Vérifie si cette leçon a un quiz (standard ou imbriqué)
+    const hasQuiz = !!(data.quiz || (data.quiz && data.quiz.questions));
+    const hasCasPratiques = !!(data.cas_pratiques || data.exercices);
+    btn.style.display = 'block';
+    if (!hasQuiz && !hasCasPratiques) {
+      btn.textContent = 'Contenu en cours de chargement →';
+      btn.disabled = true;
+    } else {
+      btn.disabled = false;
+      btn.textContent = isDone ? 'Revoir le quiz →' : 'Commencer le quiz →';
+    }
+  });
+}
+
+/* ═══════════════════════════════════════════
+   QUIZ ENGINE
+   ═══════════════════════════════════════════ */
+function normalizeQuiz(data) {
+  // Normalise les deux structures de quiz
+  // Structure 1 : data.quiz = [{question, choix, reponse, explication, indices}]
+  // Structure 2 : data.quiz.questions = [{question, options, reponse_correcte, explication}]
+  let quiz = [];
+  let exercices = [];
+  if (Array.isArray(data.quiz)) {
+    quiz = data.quiz;
+  } else if (data.quiz && Array.isArray(data.quiz.questions)) {
+    quiz = data.quiz.questions.map(q => ({
+      question: q.question,
+      choix: q.options || q.choix || [],
+      reponse: q.reponse_correcte !== undefined ? q.reponse_correcte : q.reponse,
+      explication: q.explication || '',
+      indices: q.indices || []
+    }));
+  }
+  // Exercices / cas pratiques
+  if (Array.isArray(data.exercices)) {
+    exercices = data.exercices;
+  } else if (Array.isArray(data.cas_pratiques)) {
+    exercices = data.cas_pratiques.map(cp => ({
+      question: cp.titre + ' — ' + (cp.contexte ? cp.contexte.substring(0, 200) + '...' : ''),
+      choix: cp.questions ? cp.questions.map(q => q.question) : ['Lire le cas pratique'],
+      reponse: 0,
+      explication: cp.lecon_tiree || '',
+      indices: []
+    }));
+  }
+  return { quiz, exercices };
+}
+
+function startQuiz() {
+  const l = formations[curNiveau].modules[curModule].lecons[curLecon];
+  loadLeconData(l, (data) => {
+    if (!data || data.error) return;
+    const { quiz, exercices } = normalizeQuiz(data);
+    if (!quiz.length && !exercices.length) return;
+    // Lit la position depuis QUIZ_KEY (localStorage direct, survit à la fermeture)
+    let startIndex = 0, startType = 'quiz';
+    try {
+      const raw = localStorage.getItem(QUIZ_KEY);
+      if (raw) {
+        const saved = JSON.parse(raw);
+        if (saved.fi === curNiveau && saved.mi === curModule && saved.li === curLecon) {
+          startIndex = saved.index || 0;
+          startType  = saved.type  || 'quiz';
+        }
+      }
+    } catch(e) {}
+    const questions = startType === 'exercices' ? exercices : quiz;
+    if (!questions.length) return;
+    const hearts = 3;
+    quizState = { type: startType, questions, index: startIndex, wrongCount: 0, answered: false, hearts, lecon: data, fullData: data, _quiz: quiz, _exercices: exercices };
+    renderQuestion();
+    showScreen('screen-quiz');
+    // Bannière de reprise
+    if (startIndex > 0) {
+      const banner = document.createElement('div');
+      banner.style.cssText = 'position:fixed;top:0;left:0;right:0;background:rgba(201,168,76,0.18);border-bottom:1px solid rgba(201,168,76,0.4);padding:10px 16px;text-align:center;font-size:12px;color:#C9A84C;z-index:500;letter-spacing:1px;';
+      banner.textContent = '↩ Reprise à la question ' + (startIndex + 1) + ' / ' + questions.length;
+      document.body.appendChild(banner);
+      setTimeout(() => banner.remove(), 4000);
+    }
+  });
+}
+
+/* Retour à la leçon depuis le quiz — garde la position */
+function reviewLeconFromQuiz() {
+  // Sauvegarde la position actuelle avant de quitter
+  saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index });
+  // Ouvre le reader sans réinitialiser quizState
+  const f = formations[curNiveau];
+  const m = f.modules[curModule];
+  const l = m.lecons[curLecon];
+  document.getElementById('reader-screen-title').textContent = 'Leçon ' + (curLecon + 1);
+  document.getElementById('reader-screen-sub').textContent = m.titre + ' — ' + f.niveau;
+  const c = document.getElementById('reader-content');
+  c.innerHTML = '<div class="reader-loading">Chargement…</div>';
+  // Bouton spécial : reprendre le quiz
+  const btn = document.getElementById('btn-start-quiz');
+  btn.style.display = 'block';
+  btn.textContent = '↩ Reprendre le quiz (Q' + (quizState.index + 1) + ') →';
+  btn.onclick = () => {
+    // Remet le bon onclick pour la prochaine fois
+    btn.onclick = null;
+    btn.setAttribute('onclick', 'startQuiz()');
+    showScreen('screen-quiz');
+  };
+  showScreen('screen-reader');
+  loadLeconData(l, (data) => {
+    c.innerHTML = '';
+    if (!data || data.error) {
+      c.innerHTML = '<div class="reader-loading">Impossible de charger la leçon.</div>';
+      return;
+    }
+    const kicker = document.createElement('div');
+    kicker.className = 'reader-kicker';
+    kicker.textContent = f.niveau + ' · Module ' + String(m.id).padStart(2,'0');
+    c.appendChild(kicker);
+    const title = document.createElement('div');
+    title.className = 'reader-title';
+    title.textContent = l.titre;
+    c.appendChild(title);
+    (data.contenu || []).forEach(sec => {
+      const wrap = document.createElement('div');
+      wrap.className = 'reader-section';
+      const st = document.createElement('div');
+      st.className = 'reader-section-title';
+      st.textContent = sec.titre;
+      wrap.appendChild(st);
+      const txt = document.createElement('div');
+      txt.className = 'reader-section-text';
+      txt.textContent = sec.texte;
+      wrap.appendChild(txt);
+      if (sec.definition) {
+        const box = document.createElement('div');
+        box.className = 'reader-box';
+        box.innerHTML = '<div class="reader-box-label">À retenir</div><div class="reader-box-text"></div>';
+        box.querySelector('.reader-box-text').textContent = sec.definition;
+        wrap.appendChild(box);
+      }
+      if (sec.exemple) {
+        const box = document.createElement('div');
+        box.className = 'reader-box example';
+        box.innerHTML = '<div class="reader-box-label">Exemple</div><div class="reader-box-text"></div>';
+        box.querySelector('.reader-box-text').textContent = sec.exemple;
+        wrap.appendChild(box);
+      }
+      c.appendChild(wrap);
+    });
+  });
+}
+
+function startExercices() {
+  const hearts = (quizState && quizState.hearts !== undefined) ? quizState.hearts : 3;
+  const exercices = quizState._exercices || [];
+  if (!exercices.length) { finishLecon(); return; }
+  quizState = { ...quizState, type: 'exercices', questions: exercices, index: 0, wrongCount: 0, answered: false, hearts };
+  renderQuestion();
+  showScreen('screen-quiz');
+}
+
+function renderHearts() {
+  const el = document.getElementById('quiz-hearts');
+  let html = '';
+  for (let i=0;i<3;i++) html += '<span class="'+(i < quizState.hearts ? '' : 'heart-lost')+'">❤️</span>';
+  el.innerHTML = html;
+}
+
+function shuffleArray(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+const letters_global = ['A','B','C','D','E','F'];
+
+function renderQuestion() {
+  const q = quizState.questions[quizState.index];
+  const total = quizState.questions.length;
+  document.getElementById('quiz-type-label').textContent = quizState.type === 'quiz' ? 'Quiz' : 'Exercices';
+  document.getElementById('quiz-progress-text').textContent = (quizState.index+1)+' / '+total;
+  document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index)/total)*100)+'%';
+  renderHearts();
+  document.getElementById('quiz-question').textContent = q.question;
+
+  const order = shuffleArray(q.choix.map((_, i) => i));
+  quizState.currentOrder = order;
+
+  const choicesEl = document.getElementById('quiz-choices');
+  choicesEl.innerHTML = '';
+  order.forEach((origIndex, displayIndex) => {
+    const div = document.createElement('div');
+    div.className = 'quiz-choice';
+    div.innerHTML = '<div class="choice-letter">'+letters_global[displayIndex]+'</div><div>'+q.choix[origIndex]+'</div>';
+    div.onclick = () => selectAnswer(displayIndex);
+    choicesEl.appendChild(div);
+  });
+
+  document.getElementById('quiz-hint-area').innerHTML = '';
+  document.getElementById('quiz-feedback-area').innerHTML = '';
+  document.getElementById('btn-quiz-next').style.display = 'none';
+  quizState.answered = false;
+  quizState.wrongCount = 0;
+}
+
+function selectAnswer(ci) {
+  if (quizState.answered) return;
+  const q = quizState.questions[quizState.index];
+  const choicesEl = document.getElementById('quiz-choices');
+  const choiceDivs = choicesEl.querySelectorAll('.quiz-choice');
+  const order = quizState.currentOrder;
+  const realIndex = order[ci];
+  const correctDisplayIndex = order.indexOf(q.reponse);
+
+  if (realIndex === q.reponse) {
+    quizState.answered = true;
+    choiceDivs.forEach(d => d.classList.add('disabled'));
+    choiceDivs[ci].classList.add('correct');
+    const fb = document.createElement('div');
+    fb.className = 'feedback-panel success';
+    fb.innerHTML = '<div class="feedback-title">Bonne réponse !</div><div class="feedback-text"></div>';
+    fb.querySelector('.feedback-text').textContent = q.explication;
+    document.getElementById('quiz-feedback-area').appendChild(fb);
+    const total = quizState.questions.length;
+    document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index+1)/total)*100)+'%';
+    const nextBtn = document.getElementById('btn-quiz-next');
+    nextBtn.style.display = 'block';
+    nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
+    saveProgress({ fi: curNiveau, mi: curModule, li: curLecon, type: quizState.type, index: quizState.index + 1 });
+  } else {
+    choiceDivs[ci].classList.add('wrong');
+    choiceDivs[ci].classList.add('disabled');
+    setTimeout(() => { choiceDivs[ci].classList.remove('wrong'); choiceDivs[ci].style.opacity='0.4'; }, 600);
+    quizState.wrongCount++;
+    if (quizState.hearts > 0) { quizState.hearts--; renderHearts(); }
+
+    const hintArea = document.getElementById('quiz-hint-area');
+    if (quizState.wrongCount <= 3 && q.indices && q.indices[quizState.wrongCount-1]) {
+      const hint = document.createElement('div');
+      hint.className = 'hint-box';
+      hint.innerHTML = '<div class="hint-box-label">Indice '+quizState.wrongCount+'</div><div></div>';
+      hint.querySelector('div:last-child').textContent = q.indices[quizState.wrongCount-1];
+      hintArea.appendChild(hint);
+    }
+
+    if (quizState.wrongCount >= 3) {
+      quizState.answered = true;
+      choiceDivs.forEach(d => d.classList.add('disabled'));
+      choiceDivs[correctDisplayIndex].classList.add('correct');
+      const fb = document.createElement('div');
+      fb.className = 'feedback-panel reveal';
+      fb.innerHTML = '<div class="feedback-title">La réponse était : '+letters_global[correctDisplayIndex]+'</div><div class="feedback-text"></div>';
+      fb.querySelector('.feedback-text').textContent = q.explication;
+      document.getElementById('quiz-feedback-area').appendChild(fb);
+      const total = quizState.questions.length;
+      document.getElementById('quiz-progress-fill').style.width = Math.round(((quizState.index+1)/total)*100)+'%';
+      const nextBtn = document.getElementById('btn-quiz-next');
+      nextBtn.style.display = 'block';
+      nextBtn.textContent = (quizState.index+1 < total) ? 'Continuer →' : 'Terminer →';
+    }
+    if (quizState.hearts <= 0) showReview();
+  }
+}
+
+/* ═══════════════════════════════════════════
+   PAUSE RÉVISION
+   ═══════════════════════════════════════════ */
+function showReview() {
+  const lecon = quizState.lecon;
+  const box = document.getElementById('review-box');
+  box.innerHTML = '';
+  let sections = [];
+  if (lecon && lecon.contenu) sections = lecon.contenu;
+  else if (lecon && lecon.lecon && lecon.lecon.parties) sections = lecon.lecon.parties.map(p => ({ titre: p.titre, texte: p.contenu }));
+  if (sections.length > 0) {
+    // Affiche TOUTES les sections de la leçon
+    sections.forEach(sec => {
+      const wrap = document.createElement('div');
+      wrap.style.cssText = 'margin-bottom:18px;padding:14px 16px;border-radius:12px;border-left:3px solid var(--gold);background:var(--navy);text-align:left;';
+      const t = document.createElement('div');
+      t.style.cssText = 'font-family:"Playfair Display",Georgia,serif;font-size:14px;font-weight:700;color:var(--gold-light);margin-bottom:8px;';
+      t.textContent = sec.titre;
+      const p = document.createElement('div');
+      p.style.cssText = 'font-size:13px;line-height:1.75;color:var(--cream-dim);';
+      p.textContent = sec.texte;
+      wrap.appendChild(t);
+      wrap.appendChild(p);
+      if (sec.definition) {
+        const d = document.createElement('div');
+        d.style.cssText = 'margin-top:10px;padding:10px 12px;border-radius:8px;background:rgba(201,168,76,0.08);border:1px solid rgba(201,168,76,0.2);font-size:12.5px;color:var(--cream-dim);line-height:1.6;';
+        d.textContent = '📌 ' + sec.definition;
+        wrap.appendChild(d);
+      }
+      if (sec.exemple) {
+        const e = document.createElement('div');
+        e.style.cssText = 'margin-top:8px;padding:10px 12px;border-radius:8px;background:rgba(82,183,136,0.07);border:1px solid rgba(82,183,136,0.2);font-size:12.5px;color:var(--cream-dim);line-height:1.6;';
+        e.textContent = '💡 ' + sec.exemple;
+        wrap.appendChild(e);
+      }
+      box.appendChild(wrap);
+    });
+  } else {
+    box.innerHTML = '<div style="font-size:13px;color:var(--cream-dim);padding:12px 0;">Reprenez votre souffle, puis continuez tranquillement.</div>';
+  }
+  document.getElementById('review-modal').classList.add('show');
+  // Scroll en haut du modal
+  const modal = document.getElementById('review-modal');
+  if (modal.querySelector('.lc-card')) modal.querySelector('.lc-card').scrollTop = 0;
+}
+function closeReview() {
+  document.getElementById('review-modal').classList.remove('show');
+  quizState.hearts = 3; renderHearts();
+}
+
+function nextQuestion() {
+  const total = quizState.questions.length;
+  if (quizState.index + 1 < total) {
+    quizState.index++;
+    renderQuestion();
+  } else {
+    if (quizState.type === 'quiz') startExercices();
+    else finishLecon();
+  }
+}
+
+/* ═══════════════════════════════════════════
+   LEÇON COMPLETE
+   ═══════════════════════════════════════════ */
+function finishLecon() {
+  const fi = curNiveau, mi = curModule, li = curLecon;
+  const f = formations[fi];
+  const m = f.modules[mi];
+  done.add(leconKey(fi, m.id, li));
+  unlockNextLecon(fi, mi, li);
+  saveProgress();
+
+  const niveauFullyDone = f.modules.every(mm =>
+    mm.lecons.length > 0 && mm.lecons.every((_,idx) => isLeconDone(fi, mm.id, idx)));
+
+  document.getElementById('lc-title').textContent = 'Leçon terminée !';
+  document.getElementById('lc-desc').textContent =
+    'Vous avez réussi les 50 quiz et les 2 cas pratiques de « '+m.lecons[li].titre+' ».' +
+    (li < m.lecons.length - 1 ? ' La leçon suivante est désormais débloquée.' : ' Module terminé !');
+  document.getElementById('lc-btn').textContent = niveauFullyDone ? 'Voir mon badge →' : 'Continuer →';
+  document.getElementById('lecon-complete-modal').classList.add('show');
+
+  window._afterLeconComplete = () => {
+    if (niveauFullyDone) showBadge(fi);
+    else { goBack('screen-lecons'); openModule(fi, mi); }
+    buildHome();
+  };
+}
+function closeLeconComplete() {
+  document.getElementById('lecon-complete-modal').classList.remove('show');
+  if (window._afterLeconComplete) { window._afterLeconComplete(); window._afterLeconComplete = null; }
+}
+
+/* ═══════════════════════════════════════════
+   BADGE
+   ═══════════════════════════════════════════ */
+function showBadge(fi) {
+  const b = formations[fi].badge;
+  document.getElementById('badge-icon').textContent  = b.icon;
+  document.getElementById('badge-title').textContent = b.title;
+  document.getElementById('badge-level').textContent = 'Niveau 0'+(fi+1)+' — '+formations[fi].niveau+' — Complété';
+  document.getElementById('badge-desc').textContent  = b.desc;
+  document.getElementById('badge-modal').classList.add('show');
+  launchParticles();
+}
+function closeBadge() {
+  document.getElementById('badge-modal').classList.remove('show');
+  document.getElementById('particles').innerHTML = '';
+  goBack('screen-home');
+}
+function launchParticles() {
+  const c = document.getElementById('particles'); c.innerHTML = '';
+  const cols = ['#C9A84C','#E2C97A','#F5F0E8','#52B788','#E8906A'];
+  for (let i=0;i<36;i++) {
+    const p = document.createElement('div'); p.className = 'particle';
+    p.style.cssText = '--x:'+(8+Math.random()*84)+'%;--dur:'+(0.8+Math.random()*1.3)+'s;--vy:-'+(160+Math.random()*220)+'px;background:'+cols[Math.floor(Math.random()*cols.length)]+';width:'+(4+Math.random()*7)+'px;height:'+(4+Math.random()*7)+'px;animation-delay:'+(Math.random()*0.45)+'s;';
+    c.appendChild(p);
+  }
+}
+</script>
+</body>
+</html>
