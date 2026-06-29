@@ -1,0 +1,240 @@
+{
+  "niveau": 3,
+  "niveau_label": "Avancé",
+  "module": 20,
+  "titre": "Méthodologie du cas pratique et du commentaire d'arrêt",
+  "description": "Ce module enseigne les deux exercices rois du droit : le cas pratique et le commentaire d'arrêt.",
+  "duree_estimee": "60 minutes",
+
+  "contenu": [
+    {
+      "titre": "Le cas pratique : définition et distinction avec la consultation",
+      "texte": "Le cas pratique présente une situation de fait concrète dissimulant un ou plusieurs problèmes juridiques à résoudre. L'étudiant adopte la position du JUGE — impartial, rigoureux, fondé sur la loi. La CONSULTATION, elle, place l'étudiant en position d'AVOCAT défendant les intérêts d'un client. La méthode de rédaction est identique pour les deux. La différence est dans le positionnement.",
+      "definition": "Cas pratique = position du JUGE. Consultation = position de l'AVOCAT. Même méthode, positionnement différent.",
+      "exemple": "Cas pratique : «Quels sont les droits de Fanja ?» → vous êtes juge, vous tranchez objectivement. Consultation : «Fanja vous charge d'identifier les arguments pour récupérer son acompte» → vous êtes son avocat."
+    },
+    {
+      "titre": "Les 6 étapes du cas pratique",
+      "texte": "ÉTAPE 1 — LES FAITS : Identifiez uniquement les faits juridiquement pertinents. Reformulez-les en termes juridiques. Erreur fréquente : recopier intégralement l'énoncé. ÉTAPE 2 — ANNONCE DU PLAN : Organisez en parties logiques (par personne ou par question juridique). ÉTAPE 3 — PROBLÈME DE DROIT : L'étape la plus importante. Formulez sous forme interrogative, précise, technique. ÉTAPE 4 — SOLUTION EN DROIT : Énoncer la règle applicable avec les articles précis, les conditions et les effets. ÉTAPE 5 — SOLUTION EN L'ESPÈCE : Appliquer la règle aux faits, vérifier chaque condition. ÉTAPE 6 — CONCLUSION : Répondre directement et clairement à la question posée.",
+      "definition": "Syllogisme : MAJEURE (règle abstraite) + MINEURE (faits qualifiés) + CONCLUSION. Ne jamais annoncer la conclusion avant d'avoir posé la majeure et la mineure.",
+      "exemple": "Problème de droit MAUVAIS : «Rakoto peut-il avoir des problèmes ?». BON : «L'inexécution du contrat par DELTA constitue-t-elle un manquement justifiant la résolution selon l'art. 164 loi n°66-003 ?»"
+    },
+    {
+      "titre": "Le commentaire d'arrêt : définition et structure",
+      "texte": "Le commentaire d'arrêt consiste à PRÉSENTER l'arrêt (fiche d'arrêt), l'EXPLIQUER (raisonnement du juge) et le CRITIQUER (pertinence de la solution). Structure : deux parties principales (I et II), chacune divisée en deux sous-parties (I.A / I.B / II.A / II.B). PAS DE CONCLUSION dans le commentaire d'arrêt. Référez-vous à l'arrêt et aux articles de loi toutes les 5-6 lignes — sinon vous dissertez au lieu de commenter.",
+      "definition": "Structure obligatoire : Introduction (accroche + fiche d'arrêt + annonce de plan) + I.A + I.B + II.A + II.B. Jamais «dans un premier temps... dans un second temps».",
+      "exemple": "Plans types à mémoriser : CONDITIONS/EFFETS — DOMAINE/RÉGIME — QUALIFICATION/SANCTION — SENS/VALEUR/PORTÉE."
+    },
+    {
+      "titre": "L'introduction du commentaire d'arrêt",
+      "texte": "L'introduction comporte 3 éléments dans l'ordre. 1) L'ACCROCHE : contextualise l'arrêt (historique, actualité, citation/adage, ou en entonnoir du général au particulier). 2) LA FICHE D'ARRÊT : faits pertinents, procédure, prétentions des parties, problème de droit (interrogatif), solution. 3) L'ANNONCE DE PLAN : jamais «dans un premier temps» — une phrase substantielle qui expose le contenu des deux parties.",
+      "exemple": "Annonce MAUVAISE : «Nous verrons dans un premier temps les conditions, puis les effets.» CORRECTE : «La Cour Suprême consacre ici les conditions de la résolution (I) tout en précisant l'étendue de la réparation accordée au créancier (II).»"
+    },
+    {
+      "titre": "Erreurs à éviter et conseils pratiques",
+      "texte": "EN CAS PRATIQUE : ne jamais sauter les étapes — le correcteur évalue la méthode autant que la conclusion. Ne jamais omettre le problème de droit — c'est l'étape la plus notée. Ne jamais oublier la mise en demeure préalable (art. 188 loi n°66-003) avant toute action judiciaire. Citer les articles précis ET les expliquer. EN COMMENTAIRE D'ARRÊT : coller à l'arrêt toutes les 5-6 lignes. Équilibrer les deux parties. Ne pas bâcler le II.B sur la portée. GESTION DU TEMPS : cas pratique 3h = 20 min lecture + 30 min brouillon + 1h50 rédaction + 20 min relecture.",
+      "definition": "La mise en demeure (art. 188) est la formalité la plus souvent oubliée en cas pratique. Sans elle, les dommages-intérêts ne peuvent pas être réclamés."
+    }
+  ],
+
+  "quiz": {
+    "instructions": "Chaque question présente un extrait de copie d'étudiant ou une situation d'examen. Choisissez la meilleure réponse selon la méthodologie apprise.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Un étudiant commence sa réponse ainsi : «Je pense que Fanja peut récupérer son argent.» Quelle est l'erreur ?",
+        "options": ["Aucune erreur — la réponse est directe", "Il donne la conclusion avant d'avoir posé le problème de droit et appliqué la règle aux faits — violation du syllogisme juridique", "Il aurait dû écrire en termes plus formels", "La réponse est trop courte"],
+        "reponse_correcte": 1,
+        "explication": "En cas pratique, on ne donne JAMAIS la conclusion avant les étapes : problème de droit → solution en droit → solution en l'espèce. «Je pense que» et une conclusion immédiate violent le syllogisme. Le correcteur sanctionne même si la conclusion est juste."
+      },
+      {
+        "id": 2,
+        "question": "Problème de droit MAUVAIS : «Rakoto peut-il avoir des problèmes avec son contrat ?» Quelle est la meilleure reformulation ?",
+        "options": ["La formulation est correcte", "«L'inexécution partielle du contrat par DELTA constitue-t-elle un manquement grave justifiant la résolution selon l'art. 164 loi n°66-003 ?»", "«Est-ce que Rakoto a raison ?»", "«Y a-t-il un problème dans cette affaire ?»"],
+        "reponse_correcte": 1,
+        "explication": "Le problème de droit doit être formulé en termes juridiques précis, sous forme interrogative, avec référence aux articles de loi. «Peut-il avoir des problèmes» n'a aucune valeur juridique."
+      },
+      {
+        "id": 3,
+        "question": "MAJEURE rédigée ainsi : «L'article 164 prévoit la résolution du contrat.» Pourquoi le correcteur retire-t-il des points ?",
+        "options": ["Il ne fallait pas citer d'article", "La majeure est incomplète — elle cite l'article sans expliquer les CONDITIONS et EFFETS qu'il prévoit", "Il fallait citer deux articles minimum", "La majeure est correcte"],
+        "reponse_correcte": 1,
+        "explication": "La majeure doit énoncer la règle de façon COMPLÈTE : conditions d'application ET effets. Ex : «L'art. 164 loi n°66-003 prévoit que l'inexécution contractuelle entraîne la résolution, qui anéantit rétroactivement le contrat et oblige les parties à restitution.»"
+      },
+      {
+        "id": 4,
+        "question": "Conclusion (A) : «Rasoa pourra saisir le TPI d'Antsiranana pour obtenir la résolution et la restitution de 300.000 Ar.» Conclusion (B) : «On voit que la situation est compliquée et mérite réflexion.» Laquelle est correcte ?",
+        "options": ["(A) et (B) sont correctes", "(A) — elle répond directement, nomme la juridiction, identifie le remède et chiffre le montant", "(B) — elle montre de la nuance", "Aucune des deux"],
+        "reponse_correcte": 1,
+        "explication": "(A) est exemplaire : réponse directe, remède juridique précis, juridiction nommée, montant chiffré. (B) ne conclut pas — elle est vague et inutile."
+      },
+      {
+        "id": 5,
+        "question": "Annonce de plan : «Dans un premier temps, nous analyserons les conditions, puis dans un second temps, les effets.» Le correcteur refuse cette formulation. Pourquoi ?",
+        "options": ["Trop longue", "«Dans un premier temps... dans un second temps» est INTERDIT dans l'annonce de plan — remplacer par une annonce substantielle", "Il faut inverser les parties", "Parfaitement acceptable"],
+        "reponse_correcte": 1,
+        "explication": "Cette formule est catégoriquement interdite. Elle doit être remplacée par une phrase qui expose le contenu des parties. Ex : «La Cour consacre les conditions de la résolution (I) tout en précisant l'étendue de la réparation (II).»"
+      },
+      {
+        "id": 6,
+        "question": "Pour un arrêt décidant (1) qu'un fonctionnaire a été irrégulièrement révoqué et (2) qu'il est réintégré, quel plan choisir ?",
+        "options": ["I. La révocation / II. La réintégration", "I. L'irrégularité de la procédure disciplinaire / II. Les conséquences de l'annulation", "I. Le droit du fonctionnaire / II. Le droit de l'Administration", "I. Les faits / II. Le droit"],
+        "reponse_correcte": 1,
+        "explication": "Le plan CONDITIONS/EFFETS colle à l'arrêt : I analyse pourquoi la révocation est annulée (vice de procédure) ; II analyse les conséquences juridiques (réintégration, indemnisation)."
+      },
+      {
+        "id": 7,
+        "question": "Dans le II.B d'un commentaire, l'étudiant écrit : «Cette décision est importante et aura des conséquences.» Le correcteur n'est pas satisfait. Pourquoi ?",
+        "options": ["Le II.B n'existe pas", "Trop vague — le II.B doit identifier des conséquences PRÉCISES : évolutions jurisprudentielles, réformes législatives attendues, impact sur le droit positif", "Il faut dire «très importante»", "Le II.B doit répéter l'introduction"],
+        "reponse_correcte": 1,
+        "explication": "Le II.B analyse la PORTÉE de l'arrêt avec précision : confirme-t-il une jurisprudence ? Va-t-il modifier le comportement des parties ? Une réforme est-elle attendue ?"
+      },
+      {
+        "id": 8,
+        "question": "Sujet : «Hery signe un prêt bancaire le 1er mars. Le 6 mars, il veut annuler.» Un étudiant répond : «Non, il ne peut pas.» Que manque-t-il ?",
+        "options": ["Il aurait dû répondre oui", "Toutes les étapes : problème de droit, règle applicable (art. 155 loi n°2020-011 — droit de rétractation 7 jours), vérification en l'espèce (6 mars = 5 jours = dans le délai), conclusion motivée", "Il aurait dû citer un article", "Sa réponse est complète"],
+        "reponse_correcte": 1,
+        "explication": "Sans méthode = zéro. Il fallait : (1) problème de droit, (2) art. 155 loi n°2020-011 (7 jours de rétractation), (3) application : le 6 mars = 5 jours → dans le délai → Hery PEUT se rétracter. La conclusion correcte est l'inverse de sa réponse."
+      },
+      {
+        "id": 9,
+        "question": "Accroche : «La responsabilité contractuelle est très importante. Nous allons étudier l'arrêt.» Qu'en pensez-vous ?",
+        "options": ["Excellente — concise", "Médiocre : vague, ne contextualise pas l'arrêt, «nous allons étudier» est une formule à bannir", "Trop longue", "Parfaite pour le niveau avancé"],
+        "reponse_correcte": 1,
+        "explication": "Une accroche doit CONTEXTUALISER l'arrêt — historiquement, par adage, actualité, ou en entonnoir. «Très important» n'apporte rien. «Nous allons étudier» est une formule de débutant à éviter."
+      },
+      {
+        "id": 10,
+        "question": "Dans la fiche d'arrêt, l'étudiant oublie de formuler le problème de droit. Conséquence ?",
+        "options": ["Aucune — facultatif", "Perte de points importante : l'introduction est incomplète et l'annonce de plan n'a pas de base logique", "Le problème de droit va dans la conclusion", "Il peut le mettre au II.A"],
+        "reponse_correcte": 1,
+        "explication": "Le problème de droit est ESSENTIEL dans la fiche d'arrêt. Sans lui, le correcteur ne sait pas si l'étudiant a compris ce que tranche l'arrêt. Le plan doit répondre au problème de droit."
+      },
+      {
+        "id": 11,
+        "question": "Cas pratique avec 3 personnes (Rakoto, Fanja, Hery). Quelle organisation de plan choisir ?",
+        "options": ["Tout ensemble sans ordre", "I. Rakoto / II. Fanja / III. Hery — chaque partie avec son propre problème de droit, règle et conclusion", "Un seul problème de droit pour les trois", "D'abord les hommes, puis les femmes"],
+        "reponse_correcte": 1,
+        "explication": "Plusieurs personnes avec des problèmes distincts = plan par PERSONNE ou par QUESTION JURIDIQUE. Chaque partie reprend la méthode complète."
+      },
+      {
+        "id": 12,
+        "question": "Un étudiant commente un arrêt sur les successions et écrit 2 pages de cours sans mentionner l'arrêt. Quelle erreur ?",
+        "options": ["Aucune — les connaissances de cours sont importantes", "Il «disserte» au lieu de «commenter» — il faut citer l'arrêt toutes les 5-6 lignes, pas réciter le cours indépendamment", "Il aurait dû écrire moins", "Mettre ces infos dans le II.B"],
+        "reponse_correcte": 1,
+        "explication": "La règle des 5-6 lignes est fondamentale : citez l'arrêt constamment («la Cour a considéré que...», «selon l'arrêt commenté...»). Le commentaire doit être ancré dans la décision."
+      },
+      {
+        "id": 13,
+        "question": "Faits : «Rakoto, 35 ans, marié, père de 2 enfants, fan de foot, menuisier, a signé un bail commercial. Le bailleur refuse les réparations depuis 3 mois.» Quels faits retenir ?",
+        "options": ["Tous les faits", "Seulement : existence du bail commercial, obligation de réparations du bailleur, inexécution depuis 3 mois. L'âge, sport, famille sont non pertinents", "L'âge et la profession sont importants", "Tout sauf le sport"],
+        "reponse_correcte": 1,
+        "explication": "Les énoncés contiennent des informations INUTILES pour tester la sélection. Ne retenir que les faits ayant une incidence sur la solution juridique."
+      },
+      {
+        "id": 14,
+        "question": "Plan A : «I. Conditions de la révocation / II. Effets.» Plan B : «I. La reconnaissance de l'ingratitude / II. La portée de la révocation judiciaire.» Lequel est meilleur pour commenter un arrêt sur la donation pour ingratitude ?",
+        "options": ["Plan A — plus simple", "Plan B — plus précis et ancré dans l'arrêt spécifique, nommant les thèmes exacts de la décision", "Plan A — couvre plus de matière", "Plan B — seulement pour niveau avancé"],
+        "reponse_correcte": 1,
+        "explication": "Plan A est générique. Plan B est SPÉCIFIQUE à cet arrêt. Un bon plan de commentaire doit être suffisamment précis pour ne s'appliquer qu'à la décision commentée."
+      },
+      {
+        "id": 15,
+        "question": "Cas pratique : «DIANA BTP est évincée d'un marché public sans motivation. Les travaux commencent dans 15 jours.» Quelle est la PREMIÈRE action prioritaire ?",
+        "options": ["Saisir le TA pour annulation", "Former un RÉFÉRÉ-SUSPENSION devant le TA (urgence + doute sérieux sur la légalité) pour geler le marché, tout en préparant le REP au fond", "Envoyer une lettre de réclamation", "Attendre 4 mois"],
+        "reponse_correcte": 1,
+        "explication": "L'urgence commande : référé-suspension = décision rapide (parfois 48h) pour suspendre l'arrêté. Attendre serait fatal — une fois les travaux commencés, la suspension devient impossible."
+      },
+      {
+        "id": 16,
+        "question": "MINEURE : «En l'espèce, les faits montrent qu'il y a peut-être une donation.» Pourquoi est-elle insuffisante ?",
+        "options": ["Elle est parfaite — nuance importante", "«Peut-être» est inacceptable. La mineure doit QUALIFIER les faits de façon FERME : «En l'espèce, la remise de la boutique par Rasoa constitue une donation par acte notarié (art. 116 loi n°68-012) car...»", "Trop courte", "Remplacer «peut-être» par «probablement»"],
+        "reponse_correcte": 1,
+        "explication": "La mineure qualifie les faits de façon AFFIRMATIVE. «Peut-être», «probablement», «il semble» n'ont pas leur place dans un raisonnement juridique rigoureux."
+      },
+      {
+        "id": 17,
+        "question": "En cas pratique, l'étudiant constate qu'une condition d'application n'est pas remplie. Que faire ?",
+        "options": ["Conclure quand même favorablement", "Constater explicitement que la condition manque, expliquer pourquoi, et en tirer les conséquences : le droit invoqué ne s'applique pas", "Ignorer cette condition", "Inventer un fait pour la remplir"],
+        "reponse_correcte": 1,
+        "explication": "Le juriste suit la méthode jusqu'au bout même quand le résultat est défavorable. Si une condition manque : le dire clairement et conclure que le recours ne peut s'appliquer."
+      },
+      {
+        "id": 18,
+        "question": "«Monsieur Rakoto vous demande si son contrat est valide.» L'étudiant défend les intérêts de Rakoto. Est-ce correct ?",
+        "options": ["Oui — c'est une consultation", "Non — «si son contrat est valide» appelle une réponse de JUGE : les conditions de validité sont-elles réunies ? Objectivement, oui ou non.", "Oui, car Rakoto est le client", "Non, car on ne sait pas qui est Rakoto"],
+        "reponse_correcte": 1,
+        "explication": "La distinction est dans la CONSIGNE. «Si son contrat est valide» = cas pratique = réponse de juge. Une consultation demanderait «identifiez les arguments pour obtenir la nullité»."
+      },
+      {
+        "id": 19,
+        "question": "Quelle est la différence entre solution en DROIT et solution en L'ESPÈCE ?",
+        "options": ["Deux façons de dire la même chose", "Solution en droit = règle ABSTRAITE et GÉNÉRALE (majeure). Solution en l'espèce = APPLICATION de cette règle aux faits CONCRETS, en vérifiant chaque condition (mineure)", "Solution en droit = pour le juge, en l'espèce = pour l'avocat", "L'espèce précède toujours le droit"],
+        "reponse_correcte": 1,
+        "explication": "Ce sont deux étapes distinctes du syllogisme. La solution en droit = MAJEURE (règle générale, conditions, effets). La solution en l'espèce = MINEURE + vérification des conditions sur les faits. Ensemble → CONCLUSION."
+      },
+      {
+        "id": 20,
+        "question": "Un étudiant termine son commentaire d'arrêt par : «En conclusion, cet arrêt est très important pour le droit malgache.» Quel problème ?",
+        "options": ["Aucun — une conclusion est bienvenue", "Double problème : (1) le commentaire d'arrêt N'A PAS de conclusion — il finit au II.B ; (2) «très important» est vague et sans valeur juridique", "Il aurait dû dire «extrêmement important»", "La conclusion est obligatoire"],
+        "reponse_correcte": 1,
+        "explication": "Le commentaire d'arrêt se termine au II.B — pas de conclusion. C'est une règle absolue. Ajouter une conclusion est une erreur de méthode."
+      }
+    ]
+  },
+
+  "cas_pratiques": [
+    {
+      "id": 1,
+      "scenario": "Monsieur ANDRIANTOVO a signé avec TANA IMPORT un contrat de fourniture de 500 boîtes de conserve pour 1.500.000 Ar, acompte de 600.000 Ar versé. Livraison prévue le 15 février. Le 15 mars, toujours rien. TANA IMPORT invoque vaguement des «problèmes». Il a subi des pertes commerciales.",
+      "question": "Quelle est la première étape méthodologique OBLIGATOIRE avant de rédiger la solution ?",
+      "choix": [
+        "Formuler le problème de droit sous forme interrogative et précise en termes juridiques — c'est l'étape la plus importante du cas pratique",
+        "Donner immédiatement la conclusion : TANA IMPORT doit rembourser",
+        "Citer tous les articles du Code Civil sans les expliquer",
+        "Rédiger une lettre à TANA IMPORT avant de saisir le tribunal"
+      ],
+      "reponse": 0,
+      "explication": "La première étape après les faits est de formuler le PROBLÈME DE DROIT. Ex : «L'inexécution totale de son obligation de livraison par TANA IMPORT ouvre-t-elle à M. ANDRIANTOVO le droit de demander la résolution du contrat et la restitution de son acompte de 600.000 Ar en vertu de l'art. 164 loi n°66-003 ?» C'est l'étape la plus notée — ne jamais la sauter."
+    },
+    {
+      "id": 2,
+      "scenario": "Arrêt fictif de la Cour Suprême de Madagascar, 12 mars 2025 : Madame RATSIMBA, sans enfants, avait fait donation de sa maison à Monsieur RANDRIA. Trois ans plus tard, elle donne naissance à un enfant. La Cour Suprême confirme la révocation de plein droit de la donation sur le fondement de l'art. 125 loi n°68-012.",
+      "question": "Quel plan en deux parties choisir pour commenter cet arrêt ?",
+      "choix": [
+        "I. La survenance d'enfant comme cause de révocation de plein droit / II. Les conséquences et la portée de cette révocation",
+        "I. Les faits / II. Le droit applicable",
+        "I. Madame RATSIMBA a raison / II. Monsieur RANDRIA a tort",
+        "I. Le droit des donations / II. Le droit des successions"
+      ],
+      "reponse": 0,
+      "explication": "Le plan CONDITIONS/EFFETS-PORTÉE est le plus adapté : I analyse pourquoi la révocation a été prononcée (conditions légales de l'art. 125) ; II analyse les conséquences (restitution, sort des améliorations) et la portée (protection de l'enfant vs irrévocabilité des donations, tension fondamentale du droit malgache)."
+    },
+    {
+      "id": 3,
+      "scenario": "Un étudiant rédige la MAJEURE de son cas pratique ainsi : «L'article 188 de la loi n°66-003 parle de la mise en demeure.» Son correcteur n'est pas satisfait.",
+      "question": "Comment améliorer cette majeure ?",
+      "choix": [
+        "«L'art. 188 de la loi n°66-003 impose au créancier d'adresser une mise en demeure au débiteur avant de réclamer des dommages-intérêts — acte formel par lequel il lui enjoint d'exécuter son obligation, faisant courir les intérêts moratoires à compter de sa réception.»",
+        "«L'article 188 est important en droit malgache.»",
+        "«La mise en demeure est une lettre envoyée au débiteur.»",
+        "Supprimer la majeure et aller directement à la conclusion"
+      ],
+      "reponse": 0,
+      "explication": "La majeure doit énoncer la règle de façon COMPLÈTE et autonome : qui doit faire quoi, dans quelles conditions, avec quels effets. «Parle de la mise en demeure» est insuffisant — cela ne dit pas ce qu'elle impose ni ce qu'elle produit."
+    },
+    {
+      "id": 4,
+      "scenario": "Dans son commentaire d'arrêt, un étudiant rédige l'annonce de plan ainsi : «Nous allons dans un premier temps analyser les conditions de la solution retenue par la Cour Suprême, puis dans un deuxième temps nous verrons les effets de cette décision sur le droit malgache.»",
+      "question": "Que faut-il corriger dans cette annonce de plan ?",
+      "choix": [
+        "Tout : (1) supprimer «dans un premier temps... dans un deuxième temps» (formule interdite), (2) rendre les titres spécifiques à cet arrêt précis et non génériques",
+        "Rien — l'annonce est claire et bien structurée",
+        "Seulement ajouter les numéros (I) et (II) à la fin",
+        "Déplacer cette annonce à la fin du commentaire"
+      ],
+      "reponse": 0,
+      "explication": "Double correction obligatoire : (1) «Dans un premier temps... dans un deuxième temps» est catégoriquement interdit. (2) «Les conditions» et «les effets» sont trop génériques — ces titres pourraient s'appliquer à n'importe quel commentaire. Les titres doivent nommer précisément ce que décide l'arrêt commenté."
+    }
+  ]
+}
