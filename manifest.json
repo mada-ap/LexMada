@@ -1,0 +1,30 @@
+{
+  "name": "LexMada - Formation Juridique",
+  "short_name": "LexMada",
+  "description": "Apprenez le droit malgache avec LexMada — cours, quiz et cas pratiques.",
+  "start_url": "/LexMada/",
+  "scope": "/LexMada/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1B2A",
+  "theme_color": "#C9A84C",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Niveau Débutant",
+      "url": "/LexMada/",
+      "description": "Accéder au niveau débutant"
+    }
+  ]
+}
+ 
